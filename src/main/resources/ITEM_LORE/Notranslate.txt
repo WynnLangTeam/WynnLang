@@ -1,177 +1,3 @@
-§7Хайпа: §b76§7/100@ 
-§7Mystery Dust: §b352@ 
-§7Return to the Main Lobby@ 
-§8Persistent Game@ 
-§7SkyBlock has finally arrived on@ 
-§7Hypixel! Play with friends (or@ 
-§7solo!), build your private@ 
-§7islands and collect all the@ 
-§7items! @ 
-§a► Нажмите, чтобы подключиться@ 
-§7Играют: 24,030@ 
-§7Jump down The Pit to instantly@ 
-§7fight with over 50 other@ 
-§7players. The most fast-paced@ 
-§7combat on Hypixel.@ 
-§7Играют: 519@ 
-§8Team Survival@ 
-§7Protect your bed along with your@ 
-§7teammates and destroy enemy beds@ 
-§7to win!@ 
-§7Играют: 5,948@ 
-§8Survival@ 
-§7Hypixel's take on the SkyWars@ 
-§7gamemode. Featuring the Angel of@ 
-§7Death, Soul Well and §cINSANE@ 
-§cMODE§7! Play on your own or in@ 
-§7teams.@ 
-§7Множитель coin'ов: §6+3.1x@ 
-§8➠ Глобальный ускоритель от §bilyMydo@ 
-§7Играют: 2,177@ 
-§71 Murderer. 1 Detective. And a@ 
-§7whole lot of Innocents. Can you@ 
-§7survive this tense social game@ 
-§7of betrayal and murder?@ 
-§7Играют: 900@ 
-§8Housing@ 
-§7Customize and build on your own@ 
-§7personal plot, hang out with@ 
-§7your friends, visit other@ 
-§7people's houses, and more!@ 
-§7Играют: 963@ 
-§8Special Events@ 
-§7This is a special lobby open for limited@ 
-§7times during tournament events.@ 
-§7Stay alert for tournament announcements!@ 
-§7Everyone can participate, earn §6tributes@ 
-§6§7and unlock some of the most §eprestigious@ 
-§e§7rewards on Hypixel.@ 
-§fUpcoming: §bCops and Crims Defusal@ 
-§fDate: §eOctober 25-27@ 
-§e► §eClick to Connect@ 
-§aLobby Open!@ 
-§eНажмите, чтобы открыть@ 
-§8Casual Games@ 
-§7Crazy fun minigames to play with@ 
-§7friends!@ 
-§f∙ Zombies@ 
-§f∙ Hide and Seek@ 
-§f∙ Hole in the Wall@ 
-§f∙ The Blocking Dead@ 
-§f∙ Farm Hunt@ 
-§f∙ Creeper Attack@ 
-§f∙ Party Games@ 
-§f∙ Hypixel Says@ 
-§f∙ Pixel Painters@ 
-§f∙ Football@ 
-§f∙ Mini Walls@ 
-§f∙ Bounty Hunters@ 
-§f∙ Ender Spleef@ 
-§f∙ Galaxy Wars@ 
-§f∙ Dragon Wars@ 
-§7Множитель coin'ов: §6+3.0x@ 
-§8➠ Глобальный ускоритель от §bhennessyy@ 
-§7Играют: 767@ 
-§8Right Click to change this slot!@ 
-§7Create a build based on a theme@ 
-§7in just 5 minutes! Vote on@ 
-§7competing builds with ratings@ 
-§7ranging from "Super-Poop" to@ 
-§7"Legendary". Get the most votes@ 
-§7out of 16 players to win!@ 
-§7Играют: 924@ 
-§8Competitive@ 
-§7Quick paced 1v1, 2v2, 4v4!@ 
-§f∙ UHC Duels@ 
-§f∙ SkyWars Duels@ 
-§f∙ The Bridge@ 
-§f∙ UHC Deathmatch@ 
-§f∙ Sumo Duels@ 
-§f∙ Op Duels@ 
-§f∙ Classic Duels@ 
-§f∙ NoDebuff Duels@ 
-§f∙ Blitz Duels@ 
-§f∙ Combo Duels@ 
-§f∙ Bow Duels@ 
-§f∙ TNT Games Duels@ 
-§f∙ Mega Walls Duels@ 
-§7Играют: 853@ 
-§7PTL is a place for testing fun@ 
-§7and creative new minigames and@ 
-§7systems on Hypixel.@ 
-§f∙ The Pit@ 
-§f∙ King of the Hill@ 
-§f∙ Capture The Wool@ 
-§f∙ SkyBlock@ 
-§f∙ TowerWars@ 
-§7§cEverything in this lobby is@ 
-§ccurrently in development, and@ 
-§cmay be removed at any time.@ 
-§7Играют: 125@ 
-§8Hardcore Survival@ 
-§7A team based survival game with@ 
-§7111 players. Randomly generated@ 
-§7worlds, vanilla PvP, custom@ 
-§7crafting, unique kits and@ 
-§7professions await you.@ 
-§cWARNING!@ 
-§cThis is a true hardcore experience, @ 
-§cnot recommended for new players.@ 
-§8➠ Глобальный ускоритель от §bTassieT@ 
-§7Играют: 547@ 
-§7Fun minigames with TNT involved!@ 
-§7Множитель coin'ов: §6+3.3x@ 
-§8➠ Глобальный ускоритель от §bWolfling@ 
-§7Играют: 384@ 
-§7Присоединитесь к случайной игре.@ 
-§eНажмите, чтобы играть@ 
-§7The Classic Lobby is the hub for@ 
-§7all Classic Hypixel minigames,@ 
-§7including:@ 
-§f∙ VampireZ@ 
-§f∙ Quakecraft@ 
-§f∙ Paintball Warfare@ 
-§f∙ Arena Brawl@ 
-§f∙ The Walls@ 
-§f∙ Turbo Kart Racers@ 
-§8➠ Глобальный ускоритель от §bo6_@ 
-§7Играют: 154@ 
-§7A free-for-all survival game@ 
-§7with kits. Be the first player@ 
-§7to find the Blitz Star and fight@ 
-§7your way to victory!@ 
-§8➠ Глобальный ускоритель от §bwof9er@ 
-§7Играют: 166@ 
-§7An epic 100 player game with fun@ 
-§7and unique classes. Defeat the@ 
-§7enemy Withers to prevent your@ 
-§7enemies from respawning.@ 
-§8➠ Глобальный ускоритель от §bbobostine@ 
-§7Играют: 249@ 
-§7Become one of many unique heroes@ 
-§7and unleash devastating attacks@ 
-§7in a §bTeam or §bSolo§7 battle@ 
-§7for ultimate domination! Can you@ 
-§7§6SMASH§7 your rivals out of the@ 
-§7arena before they smash you?@ 
-§8➠ Глобальный ускоритель от §be_x_i_s_t@ 
-§7Играют: 36@ 
-§7Play as a Mage, Warrior, Shaman@ 
-§7or Paladin in Capture the Flag@ 
-§7or Domination gamemodes.@ 
-§7Participate in epic PvP battles@ 
-§7like you've never seen before@ 
-§7with custom 3D weapons, class@ 
-§7helms and much more!@ 
-§7Играют: 32@ 
-§a  Нажмите, чтобы подключиться@ 
-§e  §eClick to Connect@ 
-§a- §2Air Relic Helmet@ 
-§a- §2Cephalothorax@ 
-§a- §2Abdomen@ 
-§a- §2Spinneret@ 
-§7- Sharp Edge@ 
-§7- Conscription Letter@ 
 mslot:11@ 
 mslot:12@ 
 mslot:13@ 
@@ -181,52 +7,6 @@ mslot:16@
 mslot:19@ 
 mslot:20@ 
 mslot:21@ 
-§7Right Click to bring up the Game Menu!@ 
-§7§7Right-click to browse quests, view achievements,@ 
-§7activate Network Boosters and more!@ 
-§7§7Нажмите ПКМ, чтобы изменить видимость игроков!@ 
-§7§7Нажмите ПКМ, чтобы открыть меню перехода в другие лобби!@ 
-§7§7Используйте это меню, чтобы быть рядом с друзьями.@ 
-§7Добавление гаджетов в@ 
-§7избранное позволяет быстро@ 
-§7включать их! ПКМ по@ 
-§7предмету для добавления его@ 
-§7в избранное!@ 
-§7Хайпа: §b100§7/100@ 
-§7§bХайпа §7используется для@ 
-§7показа того, насколько вам@ 
-§7нравится игры в Prototype.@ 
-§7Зарабатывайте §bХайпу §7, играя@ 
-§7в игры в Prototype Лобби!@ 
-§7Mystery Dust: §b???@ 
-§7Hypixel Credits: §b0@ 
-§7Collect fun cosmetic items!@ 
-§7Get new items by opening@ 
-§bMystery Boxes §7or hitting milestone rewards.@ 
-§7Some can also be crafted using@ 
-§bMystery Dust§7.@ 
-§bMystery Dust §7can be earned by@ 
-§7opening §bMystery Boxes.@ 
-§7You can support the Hypixel server by@ 
-§7buying §bMystery Boxes §7on our store:@ 
-§ehttp://store.hypixel.net@ 
-§7Mystery Dust: §b155@ 
-§7§eНажмите, чтобы добавить Хайпу@ 
-§eв §lThe Pit§e!@ 
-§eв §lKing of the Hill§e!@ 
-§eв §lCapture The Wool§e!@ 
-§eв §lSkyBlock§e!@ 
-§eв §lTowerWars§e!@ 
-§7Добавляет §b5 Хайпы §7в игру@ 
-§7§eThe Pit§7.@ 
-§7§eНажмите, чтобы добавить Хайпу!@ 
-§7Добавляет §b10 Хайпы §7в игру@ 
-§7Добавляет §b20 Хайпы §7в игру@ 
-§7Добавляет §b50 Хайпы §7в игру@ 
-§7Добавляет всю вашу §bХайпу §7к@ 
-§7игре §eThe Pit§7.@ 
-§7В Хайпа@ 
-§7Хайпа: §b2§7/100@ 
 Def: 11@ 
 §6Lv. min: 3@ 
 Def: 13@ 
@@ -263,22 +43,6 @@ Def: 9@
 §4Coords: §c1409,94,-1830@ 
 §fZombie Dungeon §7once@ 
 §4Coords: §c227,45,-1950@ 
-§7Opens up a selection menu that@ 
-§7allows you to teleport to game@ 
-§7hubs!@ 
-§b▶ Hold and right-click to open@ 
-§7Right-click to shoot awesome@ 
-§7things! Left-click to open the@ 
-§7selection menu!@ 
-§b▶ Hold and right-click to FIRE@ 
-§7Opens a menu that allows you@ 
-§7to customise your hive experience.@ 
-§7Choose pets, select mounts, pick@ 
-§7hats and control settings!@ 
-§7to pick which hub you want to@ 
-§7be on. Premiums can join the@ 
-§7non-premium hubs!@ 
-§7Enable and Disable Player Visibility@ 
 Def: 65@ 
 §6Lv. min: 64@ 
 §7XP Bonus: +13.0%@ 
@@ -2268,7 +2032,6 @@ Def: 19@
 §8emerged and presented him@ 
 §8with this beauty.@ 
 §7 - §f1,200 §e✦ Thunder Powder IVÀ@ 
-§8or deadly.@§8или смертельными.
 §8boots. Wearing them will@ 
 §8cause one's very biology@ 
 §8to change, becoming enriched@ 
@@ -2287,63 +2050,7 @@ Def: 19@
 §a- §2Black Catalyst@ 
 §a✔§7 Class Req: Shaman@ 
 §c✖§7 Class Req: Shaman@ 
-§7Прочти перед началом игры@ 
-§aЛКМ чтобы купить.@ 
-§cПКМ чтобы продать.@ 
-§8§m-----§f§l §nОсновная Информация§8 §m--------------@ 
-§fОбычный меч.@ 
-§fОбразец среди мечей.@ 
-§7Прочность: §a■■■■■■■■■■@ 
-§8§m--------§f§l §nСтатистика§8 §m---------------------@ 
-§a■ Урон: 3.5@ 
-§a■ Скорость Атаки: 3.8@ 
-§a■ Шанс Критической Атаки: §f+10%@ 
-§a■ Сила Критической Атаки: §f+5%@ 
-§6Цена покупки: ฿50@ 
-§fТяжёлый, но сильный.@ 
-§a■ Урон: 5@ 
-§a■ Скорость Атаки: 3.4@ 
-§a■ Шанс Критической Атаки: §f+5%@ 
-§fСлабый, но очень лёгкий.@ 
-§a■ Урон: 2@ 
-§a■ Скорость Атаки: 3.9@ 
-§a■ Шанс Критической Атаки: §f+3%@ 
-§a■ Сила Критической Атаки: §f+8%@ 
-§fЗаточеный меч.@ 
-§a■ Урон: 6.5@ 
-§a■ Шанс Критической Атаки: §f+15%@ 
-§6Цена покупки: ฿320@ 
 §cYou can't afford this item@ 
-§a■ Урон: 9@ 
-§a■ Скорость Атаки: 3.5@ 
-§a■ Урон: 4@ 
-§a■ Скорость Атаки: 4@ 
-§a■ Шанс Критической Атаки: §f+4%@ 
-§a■ Сила Критической Атаки: §f+10%@ 
-§l§aЛКМ [+1]@ 
-§l§cПКМ [-1]@ 
-§l§bКоличество: [0]@ 
-§l§6Цена покупки: [฿0]@ 
-§l§aЛКМ [+5]@ 
-§l§cПКМ [-5]@ 
-§l§aЛКМ [+16]@ 
-§l§cПКМ [-16]@ 
-§l§aЛКМ [+32]@ 
-§l§cПКМ [-32]@ 
-§l§aЛКМ [+64]@ 
-§l§cПКМ [-64]@ 
-§l§bКоличество: [1]@ 
-§l§6Цена покупки: [฿50]@ 
-§2Привет! Моему другу Gari нужна твоя @ 
-§2помощь, сходи к нему, его таверна @ 
-§2находится за мной. @ 
-§2Здравствуй Странник. Я Проводник, местный @ 
-§2гид. Для объяснения здешних правил я буду @ 
-§2выдавать задания в которых ты обживёшся в @ 
-§2этом мире. Вот тебе первое задание, сходи @ 
-§2к королю и представься, он живёт на @ 
-§2втором этаже замка, что по этой дороге по @ 
-§2прямой. @ 
 §8Zucc. Zucc. Zucc! Zucc. Zucc. Zucc!@ 
 §8Zucc. Zucc. Zucc! Zucc. Zucc.@ 
 §8Zucc! Zucc. Zucc. Zucc! Zucc.@ 
@@ -3968,10 +3675,6 @@ Def: 18@
 §8dmg,and get mr on it@ 
 §8looking 0rr or good@ 
 §8poison,offering raw le@ 
-§8§8"The lightest light will@ 
-§8never defeat the darkest@ 
-§8dark. Only those who understand@ 
-§8both can survive."@ 
 §8Stolen Rubies...@ 
 §8Mmmm spicy organs. Imported from@ 
 §8Hell, China.@ 
@@ -4271,7 +3974,6 @@ Def: 37@
 §8it was buffed.@ 
 §8looking 0rr or good@ 
 §8poison,offering raw le@ 
-§7§lCurrently: §fёп твой сыр.@ 
 §7§lCurrently: §f-2143 -4512@ 
 §7§lCurrently: §f?@ 
 §35 arrows each dealing 100%@ 
@@ -4546,3 +4248,1523 @@ Def: 10@
 §f2 x §fWheat Grains§6 [§e✫✫§8✫§6]@ 
 §f3 x §aEmerald Block@ 
 §f15 x §fWheat String§6 [§e✫§8✫✫§6]@ 
+§8Eating these organs will summon the@ 
+§8demon inside you.@ 
+§7- §8Snail Mail@ 
+§7- §8Snail Boots@ 
+§7- §8Snail Leggings@ 
+§7- §8Snail Helm@ 
+§8I am need of your financial@ 
+§8support.@ 
+§6 - §a✔ §21 Twilight-Gilded Cloak@ 
+§7§lCurrently: §f(@ 
+§8Maximum thickness organs will increase@ 
+§8your luck drastically.@ 
+§8Made from the world's softest@ 
+§8cotten, grown in a small@ 
+§8valley called the Giza Strip@ 
+§8So sought after@ 
+§8Seven is the lucky number@ 
+§8This is a lucky Loop@ 
+§6 - §a✔ §21 Eden-Blessed Guards@ 
+§8Hey! Are you level 50 and wanting@ 
+§8to join a guild? I have the@ 
+§8opportunity for you! Join@ 
+§8Roses, a small community guild@ 
+§8with lots of love. We have@ 
+§8cool events and a bunch of@ 
+§8awesome people! Apply on@ 
+§8forums, or dm me on discord@ 
+§8mariah.4946@ 
+§7- Piranha Jaw@ 
+§8These organs are thin because the@ 
+§8person was starving before@ 
+§8its death.@ 
+§8Higher duration, but higher priced@ 
+§8version of my loot quality@ 
+§8food@ 
+§8Shhhh these organs are sleeping,@ 
+§8eat them quietly before they@ 
+§8notice...@ 
+§8AHHHHH A LEXWORM IS IN THESE@ 
+§8COOKIES!!@ 
+§8Kanter babies were NOT HARMED in@ 
+§8making this Kanter Soup.@ 
+§7- Hellish Cinders@ 
+§7- Recluse Venom Sac@ 
+§8increases hardness@ 
+§6 - §a✔ §21 Infused Hive Bow@ 
+§8f it's slow@ 
+§a- §2Nether Boots@ 
+Def: 15@ 
+§8THIS SOUP IS RAW!!!@ 
+§8Imported from Wuhan, China.@ 
+§8She ate a part of her cookies.@ 
+§8Since 1894.@ 
+§7- Cyclops Eye@ 
+Dam: 3-5@ 
+§8Handmade in the USA and Sold@ 
+§8for 5000 per lq@ 
+§8Enjoy your high durability@ 
+§7- Red Mercury@ 
+§7- Soft Green Wool@ 
+§71/7 @ 
+§8These organs require@ 
+§8microtransations to be paid@ 
+§8to Crokee to be eaten.@ 
+§8May luck be with you!@ 
+§8Handmade in the USA and sold@ 
+§7§lCurrently: §falkatraz@ 
+§7§lCurrently: §fnii@ 
+§8These organs got one shotted.@ 
+§6 - §a✔ §21 Elder Oak Roots@ 
+§8for 6000 per lq@ 
+§8for 5500 per lq@ 
+§7- Succulent Crab Meat@ 
+§7§lCurrently: §fkey@ 
+§7§lCurrently: §fkey@ 
+Lv 70@ 
+§8Yo momma so fat, her organs are@ 
+§8enough to feed you for 1.4@ 
+§8hours!@ 
+§8Eating these organs will make you@ 
+§8say "Bruh" every second@ 
+§8for 1633 seconds.@ 
+§7- Cursed Wings@ 
+§8Many Kanters were harmed in the@ 
+§8organ harvesting program in@ 
+§8China to make these organs.@ 
+§8RNG decided to give us thick kanter@ 
+§8soup so here we are.@ 
+§8QUICK! EAT THESE ORGANS BEFORE@ 
+§8THEY GET MAD AT YOU!@ 
+§6 - §a✔ §21 Silver Fusion Ring@ 
+§6 - §a✔ §21 Gold Fiber Ring@ 
+§6 - §a✔ §21 Gold Fusion Ring@ 
+§8Somehow these organs were never@ 
+§8digested by the CUR mobs.@ 
+§a- §2Visceral Skullcap@ 
+§8makes friends@ 
+§8Hunters killed us prof people and@ 
+§8harvested our organs...@ 
+§8Who knew the coronavirus gives@ 
+§8you huge buffs?@ 
+§7- Durable Skin@ 
+Def: 40@ 
+Def: 30@ 
+§6Lv. min: 6@ 
+§8Oh no, the coronavirus is@ 
+§8spreading!!!@ 
+§8Dig bick. You that read wrong. You@ 
+§8read that wrong too. You@ 
+§8read this wrong. You@ 
+§8checked.@ 
+§7§lCurrently: §fatlas@ 
+§7§lCurrently: §fpraesidium@ 
+Def: 24@ 
+§6Lv. min: 12@ 
+Def: 26@ 
+§8Crafted by Pontosaurus,@ 
+§8original price is 26250@ 
+§8emeralds on TM or 6le in@ 
+§8person! If you see someone@ 
+§8upcharging, msg me and buy@ 
+§8it for cheaper!@ 
+§8Oh no! The Coronavirus is@ 
+§8spreading!@ 
+§8The Ewves managed towo hawness@ 
+§8the powoer owof awir itsewf,@ 
+§8foworming a bowow mawde@ 
+§8entirely of awir cuwurrents,@ 
+§8allowowing the uwuser towo@ 
+§8mowove swift like the wind,@ 
+§8buwut vuwulnerable to@ 
+§8this Kanter soup.@ 
+§8Extra large fortune cookies for@ 
+§8extra large luck.@ 
+§8The taste of these organs are so@ 
+§8disgusting, that a layer of@ 
+§8honey syrup is added in@ 
+§8hopes of covering up that@ 
+§8grossed feeling.@ 
+§8Ha, take that Coronavirus!@ 
+§8Yum yum! Kanter meat the best@ 
+§8meat of all meats!@ 
+§8I guess these cookies didn't come@ 
+§8out of the oven as great as@ 
+§8it should be...@ 
+§8Mike will get it done. Crokee will@ 
+§8make him well done.@ 
+§8Gotta loot fast@ 
+§8Crokee is feeling the Bern on@ 
+§8this one.@ 
+§8Crokee's goal is to dream big@ 
+§8organs to fight hard for@ 
+§8you!@ 
+§8Joe Bid en your organs for@ 
+§81.5le!@ 
+§8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA@ 
+§8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA@ 
+§5§oDef: 19@ 
+§6Lv. Min: 11@ 
+§8I used your grandma's recipe.@ 
+§8Sorry.@ 
+§8Stonks always goes up! These@ 
+§8tendies will reach you to the@ 
+§8moon!@ 
+§8Thick. Fat. Organs. Yum.@ 
+§8I stole your grandma to make@ 
+§8these cookies.@ 
+§8Yum yum!@ 
+§8Ewwwwwwwwwwww... blame LinnyFlower@ 
+§8for this...@ 
+§8Are you sure that's the right@ 
+§8spelling?@ 
+§8It seemsf as if sowomeowone had a@ 
+§8stroekse gettigngs thfdspe@ 
+§8orfgsdnas@ 
+§7- Accursed Effigy@ 
+§7- Wybel Fluff@ 
+§8Use this to wack Cybel to death.@ 
+§8materials provided by Burnie.@ 
+§8Did you know that Kanters contain@ 
+§8a lot of calcium?@ 
+§8Cookie Monster approves.@ 
+§8How can organs be naked???@ 
+§8This ring is defenetly worth@ 
+§810.000.000@ 
+§a- §2Visceral Toe@ 
+§a- §2Visceral Legs@ 
+§a- §2Visceral Chest@ 
+§8The fortune cat blessed these@ 
+§8cookies to bring good@ 
+§8fortune for you.@ 
+§8Meow.@ 
+§8Gotta go fast and loot@ 
+§8everything am I right?@ 
+§7§lCurrently: §f-1483@ 
+§7 - §f1,309 §3Repair ScrapÀ@ 
+§7 - §f1,770 §3Repair ScrapÀ@ 
+§7[Rusted Root]@ 
+§7[Dying Light]@ 
+§7[Waking Nightmare]@ 
+§7[Plain Shiv of Boredom]@ 
+§7[Absolute Reaver of Mastery]@ 
+§7[Common Dagger of Lameness]@ 
+§7[Soul rending Relik of Clashing]@ 
+§7[Cruel Sabre of Superiority]@ 
+§7[Normal Halberd of Siegfried]@ 
+§7[Common Claws of Ragni]@ 
+§7[Basic Hammer of Maltic]@ 
+§7[Mundane Dirk of Ragni]@ 
+§7[Glissando]@ 
+§7[Average Cannon of Siegfried]@ 
+§7[Average Spire of Foolishness]@ 
+§7[Excited Launcher of the Cheetah]@ 
+§7[Common Crossbow slightly Chipped]@ 
+§7[Common Compound Bow of Lameness]@ 
+§7[Average Hammer of Siegfried]@ 
+§7[Plain Trident slightly Chipped]@ 
+§7[Average Shank of Boredom]@ 
+§7[Arma Gauntlet]@ 
+§7[Elevated Mace of Luck]@ 
+§7[Dragon Fang]@ 
+§7[Basic Relik of Boredom]@ 
+§7[Plain Spear of Lameness]@ 
+§7[Normal Rod slightly Chipped]@ 
+§7[Basic Cutlass of Siegfried]@ 
+§7[Exalted Compound Bow of Chaos]@ 
+§7[Normal Bow of Lameness]@ 
+§7[Dhoruba]@ 
+§7[Sunrise]@ 
+§7[Desperado]@ 
+§7[Mundane Branch of Foolishness]@ 
+§7[Average Compound Bow slightly Chipped]@ 
+§7[Jaw Breaker]@ 
+§7[Basic Branch slightly Chipped]@ 
+§7[Militant Rapier of Destruction]@ 
+§7[Swampy Razor of the Defender]@ 
+§7[Sharp Sabre of the Bull]@ 
+§7[Plain Root of Siegfried]@ 
+§7[Normal Bow of Foolishness]@ 
+§7[Basic Focus of Maltic]@ 
+§7[Plain Rapier of Boredom]@ 
+§7[Common Baton of Foolishness]@ 
+§7[Plain Baton of Maltic]@ 
+§7[Dry Edge of Decay]@ 
+§7[Plain Blade slightly Chipped]@ 
+§7[Mundane Slingshot of Maltic]@ 
+§7[Basic Root of Foolishness]@ 
+§7[Raging Baton of Destruction]@ 
+§7[Normal Sabre slightly Chipped]@ 
+§7[Normal Rod of Foolishness]@ 
+§7[Mundane Compound Bow of Boredom]@ 
+§7[Mundane Focus slightly Chipped]@ 
+§7[Mundane Focus of Ragni]@ 
+§7[Plain Slingshot slightly Chipped]@ 
+§7[Embiggened Recurve Bow of Chaos]@ 
+§7[Quartz Driller]@ 
+§7[Mundane Recurve Bow of Maltic]@ 
+§7[Intensified Falchion of Prevalence]@ 
+§7[Common Cross Spear of Boredom]@ 
+§7[Normal Root of Foolishness]@ 
+§7[Basic Trident of Foolishness]@ 
+§7[Traitor]@ 
+§7[Common Shiv of Boredom]@ 
+§7[Average Javelin slightly Chipped]@ 
+§7[Swift Relik of Courage]@ 
+§7[Light Jungle Wood Spear]@ 
+§7[Dancing Skewer of Haste]@ 
+§7[Basic Rapier of Lameness]@ 
+§7[Plain Rapier of Lameness]@ 
+§7[Common Destroyer slightly Chipped]@ 
+§7[Basic Reaver slightly Chipped]@ 
+§7[Igniting Warhammer of the Orcs]@ 
+§7[Plain Cross Spear of Maltic]@ 
+§7[Embellished Hammer of Luxury]@ 
+§7[Average Razor of Boredom]@ 
+§7[Phoenix-Feathered Lance of Recovery]@ 
+§7[Average Bow of Siegfried]@ 
+§7[Common Lance of Siegfried]@ 
+§7[Bedruthan]@ 
+§7[Plain Compound Bow of Siegfried]@ 
+§7[Stunning Trident of Brilliance]@ 
+§7[Leafy Halberd of the Forest]@ 
+§7[Brisk Relik of Quickness]@ 
+§7[Mundane Short Bow of Siegfried]@ 
+§7[Phoenix-Feathered Impaler of Fire]@ 
+§7[Normal Staff of Siegfried]@ 
+§7[Common Edge of Boredom]@ 
+§7[Enriched Relik of Prowess]@ 
+§7[Scary Dirk of Chaos]@ 
+§7[Flawless Oak Bow]@ 
+§7[Average Wand of Boredom]@ 
+§7[Normal Bow of Boredom]@ 
+§7[Common Short Bow of Siegfried]@ 
+§7[Plain Cutlass of Boredom]@ 
+§7[Basic Claymore slightly Chipped]@ 
+§7[Mundane Cutlass of Ragni]@ 
+§7[Plain Cutlass of Ragni]@ 
+§7[Mundane Relik of Foolishness]@ 
+§7[Bow of Wisdom]@ 
+§7[Mundane Rod slightly Chipped]@ 
+§7[Flawless Light Oak Bow]@ 
+§7[Plain Longbow of Maltic]@ 
+§7[Common Lance slightly Chipped]@ 
+§7[Decayed Launcher of the Bear]@ 
+§7[Obsidian]@ 
+§7[Old Maple Spear]@ 
+§7[Bleeding Wand]@ 
+§7[Basic Table leg of Maltic]@ 
+§7[Plain Root of Foolishness]@ 
+§7[Calamaro's Sword]@ 
+§7[Savage Pike of Imagination]@ 
+§7[Common Shovel of Maltic]@ 
+§7[Leikkuri]@ 
+§7[Plain Launcher of Boredom]@ 
+§7[Average Shiv of Foolishness]@ 
+§7[Divzer]@ 
+§7[Raging Slingshot of the Bear]@ 
+§7[Improved Blade of Prowess]@ 
+§7[Basic Trident of Siegfried]@ 
+§7[Average Destroyer slightly Chipped]@ 
+§7[Sheer Impaler of Pandemonium]@ 
+§7[Adorned Trident of Honour]@ 
+§7[Average Rifle of Lameness]@ 
+§7[Savage Great Hammer of Destruction]@ 
+§7[Plain Yumi of Lameness]@ 
+§7[Overdrive]@ 
+§7[Procrastination]@ 
+§7[Plain Sickle of Lameness]@ 
+§7[Island Chain]@ 
+§7[Average Lance of Foolishness]@ 
+§7[Basic Longbow of Lameness]@ 
+§7[Vampire Touch]@ 
+§7[Average Dirk of Boredom]@ 
+§7[Boosted Shank of Worth]@ 
+§7[Lydian]@ 
+§7[Basic Slingshot of Lameness]@ 
+§7[Exalted Reaver of Precedence]@ 
+§7[Basic Reaver of Siegfried]@ 
+§7[Basic Compound Bow of Ragni]@ 
+§7[Refined Longbow]@ 
+§7[Average Sickle of Foolishness]@ 
+§7[Shocking Stave of Recovery]@ 
+§7[Stunning Table leg of Warding]@ 
+§7[Unholy Wand]@ 
+§7[Average Claws of Maltic]@ 
+§7[Graceful Branch of the Avos]@ 
+§7[Scary Recurve Bow of Destruction]@ 
+§7[Mundane Compound Bow of Siegfried]@ 
+§7[Az]@ 
+§7[Adrift]@ 
+§7[Sandscar]@ 
+§7[Brimstone Wand of the Defender]@ 
+§7[Basic Dirk of Lameness]@ 
+§7[Plain Machete of Foolishness]@ 
+§7[Mundane Launcher slightly Chipped]@ 
+§7[Average Staff of Foolishness]@ 
+§7[Angry Plank of Destruction]@ 
+§7[Kilauea]@ 
+§7[October Fires]@ 
+§7[Relic Spear]@ 
+§7[Plain Relik of Ragni]@ 
+§7[Basic Yumi slightly Chipped]@ 
+§7[Mundane Staff of Foolishness]@ 
+§7[Plain Shovel of Ragni]@ 
+§7[Average Mace slightly Chipped]@ 
+§7[Sluggish Rod of the Fighters]@ 
+§7[Average Crossbow slightly Chipped]@ 
+§7[Average Destroyer of Ragni]@ 
+§7[Common Rifle of Ragni]@ 
+§7[Plain Dagger of Lameness]@ 
+§7[Basic Rifle of Lameness]@ 
+§7[Plain Sickle of Foolishness]@ 
+§7[Energetic Bone of the Hardy]@ 
+§7[Elaborated Relik of Renown]@ 
+§7[Normal Pike of Ragni]@ 
+§7[Transparent Rod of the Conjurer]@ 
+§7[Embroided Rod of Renown]@ 
+§7[Common Greatbow of Boredom]@ 
+§7[Smashing Falchion of the Rabid]@ 
+§7[Plague]@ 
+§7[Common Launcher of Foolishness]@ 
+§7[Mundane Staff of Boredom]@ 
+§7[Basic Sabre slightly Chipped]@ 
+§7[Average Bow slightly Chipped]@ 
+§7[Candy Cane]@ 
+§7[Plain Edge of Boredom]@ 
+§7[Sorcerer's Stick]@ 
+§7[Mundane Focus of Siegfried]@ 
+§7[The Eviscerator]@ 
+§7[Mundane Switchblade of Lameness]@ 
+§7[Mundane Stave of Maltic]@ 
+§7[Normal Blunderbuss of Foolishness]@ 
+§7[Average Yumi of Foolishness]@ 
+§7[Scary Rifle of the Warrior]@ 
+§7[Fiery Shank of the Waverider]@ 
+§7[Elaborated Table leg of Precedence]@ 
+§7[Common Yumi of Foolishness]@ 
+§7[Basic Blunderbuss of Boredom]@ 
+§7[Plain Razor of Ragni]@ 
+§7[Angry Compound Bow of Power]@ 
+§7[Savage Short Bow of the Bull]@ 
+§7[Average Focus of Foolishness]@ 
+§7[Volatile Root of Swiftness]@ 
+§7[Plain Claymore of Foolishness]@ 
+§7[Wayfinder]@ 
+§7[Crossroad Killer]@ 
+§7[Fury Shank of Power]@ 
+§7[Rampaging Falchion of Strength]@ 
+§7[Scary Reaver of Skien]@ 
+§7[Raging Dagger of the Berserker]@ 
+§7[Powerful Reaver of Pandemonium]@ 
+§7[Basic Impaler of Lameness]@ 
+§7[Enriched Spire of Prestige]@ 
+§7[Average Crossbow of Boredom]@ 
+§7[Cruel Dagger of Skien]@ 
+§7[Mundane Baton of Boredom]@ 
+§7[Normal Root of Boredom]@ 
+§7[Plain Cannon slightly Chipped]@ 
+§8Crokee stole my organs. Help me@ 
+§8pay to get them back by@ 
+§8buying my scrolls!@ 
+§8Crokee stole my organs@ 
+§7[Basic Machete of Maltic]@ 
+§8Oh no! The server is going to@ 
+§8restart soon! Better hurry@ 
+§8up and finish your loot run!@ 
+§8Yummy organs!@ 
+§7[Mundane Dagger slightly Chipped]@ 
+§7[Basic Switchblade of Ragni]@ 
+§7[Mundane Shank of Ragni]@ 
+§7[Plain Rifle of Ragni]@ 
+§7[Basic Destroyer slightly Chipped]@ 
+§7[Elevated Rifle of Notability]@ 
+§7[Normal Recurve Bow of Ragni]@ 
+§7[Basic Claws of Maltic]@ 
+§8For all you thirsty gamer boys@ 
+§8out there!@ 
+§7 - §f1,792 §3Repair ScrapÀ@ 
+§7[Hellkite's Wing]@ 
+§7[Mundane Spear of Siegfried]@ 
+§7[Basic Great Hammer of Siegfried]@ 
+§7[Normal Rifle of Maltic]@ 
+§7[Basic Greatbow of Foolishness]@ 
+§7[Corrupted Witherhead's Bow]@ 
+§7[Normal Staff of Lameness]@ 
+§7[Mundane Sickle of Boredom]@ 
+§7[Igniting Falchion of the Defender]@ 
+§7[Mundane Blade of Siegfried]@ 
+§7[Average Short Bow of Maltic]@ 
+§8Hope that the coronavirus@ 
+§8doesn't infect you!@ 
+§7[Mundane Scimitar of Siegfried]@ 
+§7[Plain Impaler of Ragni]@ 
+§7[Mundane Javelin of Foolishness]@ 
+§7[Mundane Cross Spear of Maltic]@ 
+§7[Rotten Wood]@ 
+§7[Plain Javelin of Maltic]@ 
+§8This is what happens when you@ 
+§8try to eat cows.@ 
+§7+1 opera singing and@ 
+§7 +1 village raiding@ 
+§a- §2Horse Mask@ 
+§7[Zawah Jed]@ 
+§8Organ u glad to have me?@ 
+§7[Normal Launcher of Lameness]@ 
+§8put CT in your basement and@ 
+§8only feed them apple juice.@ 
+§7[Mundane Bow of Foolishness]@ 
+§7[Graceful Razor of Storms]@ 
+§7[Berserk Slingshot of Imagination]@ 
+§7[Average Wand of Maltic]@ 
+§7[Mundane Scissors of Siegfried]@ 
+§8COOKIES!!!@ 
+§8Try out KFC's new lineup,@ 
+§8Crokee's Organs! Buy a@ 
+§8combo and you'll also get@ 
+§8Crokee Soup and Crokee@ 
+§8Fortune Cookies for only@ 
+§85LE!@ 
+§8Did you just turn him into@ 
+§8cookies...?@ 
+§8Crokee's legs have a nice chicken@ 
+§8taste to it! By Leg@ 
+§7[Basic Recurve Bow of Maltic]@ 
+§8An ultra rare piece of Donald@ 
+§8Trump's KFC imported from@ 
+§8now restricted Europe. Get it@ 
+§8before it gets infected with@ 
+§8coronavirus...@ 
+§8"We need to build a wall and make@ 
+§8Fruma pay for it."@ 
+§8Why take a break from lootrunning@ 
+§8if you can take a lunch to go!@ 
+§8Just a Fire Ring to enhance@ 
+§8the magic of the wearer.@ 
+§7[Rampaging Switchblade of Strength]@ 
+§7[Pyroclast]@ 
+§7[Fuunyet]@ 
+§88x8@ 
+§8in the USA!@ 
+§7[Embellished Compound Bow of Prowess]@ 
+§8No one was ever able to make a@ 
+§8bracelet so useless until...@ 
+§8Organs.@ 
+§8Cookies.@ 
+§7- Black Sulphur@ 
+§8Edgey.@ 
+§7[Average Scimitar of Ragni]@ 
+§7[Drifter]@ 
+§7[Common Slingshot of Siegfried]@ 
+§7[Average Claymore of Boredom]@ 
+§8These organs would like to have a@ 
+§8word with you.@ 
+§7[Big Stave of Strength]@ 
+§8this one has xp bonus and walk@ 
+§8speed too so it is objectively@ 
+§8better@ 
+§7[Plain Hammer of Maltic]@ 
+§8Burh. Why you want to drink this@ 
+§8in the first place?@ 
+§8Ummm... are you sure that's toliet@ 
+§8paper?@ 
+§8Extra dank cookies!!!@ 
+§8I never knew making cookies out of@ 
+§8mushrooms actually worked.@ 
+§8Infused with MSG as a@ 
+§8preservative.@ 
+§8This order hereby declares that@ 
+§8Coronavirus is not to be@ 
+§8allowed within 15 feet of the@ 
+§8owner of this scroll.@ 
+§8Only a real OwO can handle the@ 
+§8Power of this Food. If you're@ 
+§8an uwu then I am sad to tell@ 
+§8you, this isn't safe for you.@ 
+§8YOU WILL DIE!@ 
+§8A man has fallen into a loot chest@ 
+§8in Silent Expanse, take the@ 
+§8rescue loot set. Build a@ 
+§8lootset, and off to the loot@ 
+§8chest!@ 
+§8I am totally an original creation@ 
+§8and my name is super cool...@ 
+§8EAT ME!@ 
+§8It's literally just 6 dead bees in some@ 
+§8oil, it probably aint the best@ 
+§8to drink unless you eat bees.@ 
+§7[Common Cannon slightly Chipped]@ 
+§7[Average Rifle of Siegfried]@ 
+§7[Mundane Great Hammer of Maltic]@ 
+§7[Basic Mace of Siegfried]@ 
+§7[Powerful Javelin of the Warrior]@ 
+§7[Normal Cannon of Siegfried]@ 
+§7[Mundane Cannon of Ragni]@ 
+§7[Adorned Relik of Enhancement]@ 
+§8Burh. why you want to drink it in@ 
+§8the first place?@ 
+§7[Basic Baton of Maltic]@ 
+§8Man these are FAT birb organs.@ 
+§8Tasty organs!@ 
+§8Made from leftover Kanter meat.@ 
+§8Stole a kindergartener's@ 
+§8project, oops@ 
+§7[Plain Scimitar of Foolishness]@ 
+§7[Elaborated Table leg of Enhancement]@ 
+§8Bob's first ever bow.@ 
+§7[Average Cannon of Maltic]@ 
+§7[Flawless Diorite Bow]@ 
+§8The Kaian sorcerers are a@ 
+§8reclusive bunch. Hiding away@ 
+§8in their temple they spend@ 
+§8their entire day worshipping@ 
+§8the sun. Though perhaps@ 
+§8being able to harness its@ 
+§8destructive power is a fair@ 
+§8trade off.@ 
+§7[Mage-Crafted Staff]@ 
+§8PeePeePooPoo is watching yoo...@ 
+§8If you devour this piece of meat@ 
+§8your arse will implode on@ 
+§8itself@ 
+§7[Normal Mace of Ragni]@ 
+§7[Normal Blade of Maltic]@ 
+§8It's ok. They were government@ 
+§8spies anyway.@ 
+§7[Basic Claws of Foolishness]@ 
+§7[Common Hammer of Lameness]@ 
+§8This drank is proven to make you@ 
+§8luckier, and it is purple!@ 
+§7- Spiked Capsule@ 
+§7[Basic Shank of Lameness]@ 
+§7- Acidic Solution@ 
+§8Wearing this bracer infuses one@ 
+§8with the power of incredible@ 
+§8stupidity and dumb luck.@ 
+§7[Boosted Relik of Prowess]@ 
+§7[Normal Branch of Maltic]@ 
+§8CHEF CROKEE AT YOUR SERVICE@ 
+§8Kanter blessed.@ 
+§8OH YEAH! SWEET XP BOOST!@ 
+§8EEE live for XPPPP@ 
+§8Ever play a fallout game?@ 
+§8It's time to get high!@ 
+§7[Plain Shank of Siegfried]@ 
+§7[Embiggened Branch of Skien]@ 
+§8In this day in age, this is a symbol@ 
+§8of wealth and luckiness. In@ 
+§8fact, it's so rare flexing it is@ 
+§8common now...@ 
+§8of wealth and luckiness. Just@ 
+§8owning some of this is enough@ 
+§8to flex to the community.@ 
+§8The server is restarting in 10@ 
+§8minutes...RUN!@ 
+§8These runes were once used to@ 
+§8seal the demon Garaheth@ 
+§8away. After his second@ 
+§8defeat they provide@ 
+§8protection to general public@ 
+§8at an affordable price.@ 
+§7[Normal Dirk slightly Chipped]@ 
+§7[Plain Stave of Siegfried]@ 
+§7[Embroided Blade of High Quality]@ 
+§7[Judging Root of Strength]@ 
+§7[Basic Falchion of Maltic]@ 
+§7[Elevated Reaver of Worth]@ 
+§7[Normal Claws of Siegfried]@ 
+§7[Normal Recurve Bow slightly Chipped]@ 
+§7[Common Bow of Siegfried]@ 
+§8I'm broke, please help@ 
+§7[Windy Dirk of the Orcs]@ 
+§7[Average Skewer of Maltic]@ 
+§8Don't let your soul get TOO@ 
+§8weak...@ 
+§7[Reinforced Relik of Imagination]@ 
+§7[Normal Staff slightly Chipped]@ 
+§7[Elevated Wand of Renown]@ 
+§7[Mundane Plank of Boredom]@ 
+§7[Plain Great Hammer of Lameness]@ 
+§8Eat these to kill people.@ 
+§7[Frog]@ 
+§8Pls buy this for this price i used@ 
+§8t3s for this pls buy am very@ 
+§8poor@ 
+§8A rare piece of Donald Trump's@ 
+§8KFC. Fortunately, he tested@ 
+§8negative for coronavirus so@ 
+§8this is perfectly safe to eat!@ 
+Def: 54@ 
+§7[Basic Short Bow of Boredom]@ 
+§7[Basic Switchblade of Lameness]@ 
+§7[Normal Reaver of Ragni]@ 
+§7[Mundane Sabre of Ragni]@ 
+§7[Normal Falchion of Maltic]@ 
+§7[Daybreak]@ 
+§7[Mundane Reaver of Ragni]@ 
+§7[Basic Root of Maltic]@ 
+§7[Plain Plank of Foolishness]@ 
+§7[Weather Warning]@ 
+§7[Basic Javelin of Ragni]@ 
+§7[Elevated Root of Virtue]@ 
+§7[Average Wand of Foolishness]@ 
+§8If you snorted, you got lucky.@ 
+§7[Mundane Razor of Foolishness]@ 
+§7[Embellished Cross Spear of Precedence]@ 
+§7[Mundane Edge of Ragni]@ 
+§7[Plain Hammer of Siegfried]@ 
+§7[Mundane Root of Ragni]@ 
+§7[Common Machete slightly Chipped]@ 
+§7[Mundane Shiv of Boredom]@ 
+§7[Common Table leg of Ragni]@ 
+§7[Enriched Yumi of Righteousness ]@ 
+§7[Basic Cutlass of Maltic]@ 
+§7[Average Spear of Ragni]@ 
+§7[Normal Baton of Siegfried]@ 
+§7[Common Baton of Ragni]@ 
+§7[Mundane Skewer of Siegfried]@ 
+§7[Average Edge of Boredom]@ 
+§7[Basic Slingshot of Boredom]@ 
+§7[Plain Cutlass of Foolishness]@ 
+§7[Normal Stave of Boredom]@ 
+§8fortune for a short period.@ 
+§7[Average Razor of Lameness]@ 
+§7[Average Focus slightly Chipped]@ 
+§7[Extremely Big Baton of Destruction]@ 
+§7[Basic Greatbow of Ragni]@ 
+§8May fortune be with you!@ 
+§8Oh no...@ 
+§8Extra long legs for your walking@ 
+§8needs!@ 
+§8These organs are very sad to be@ 
+§8eaten.@ 
+§7[Grateful Dead]@ 
+§7[Militant Rod of Demons]@ 
+§7[Chaotic Bow of the Bear]@ 
+§7[Plain Halberd of Siegfried]@ 
+§7[Black Wand]@ 
+§7[Sacrificial]@ 
+§7[Plain Sabre of Lameness]@ 
+§7[Plain Shiv of Maltic]@ 
+§7[Soundwave]@ 
+§7[Common Longbow slightly Chipped]@ 
+§7[Normal Plank of Boredom]@ 
+§7[Enriched Relik of Prevalence]@ 
+§7[Normal Slingshot of Lameness]@ 
+§7[Reinforced Blunderbuss of Luxury]@ 
+§7[Average Razor of Foolishness]@ 
+§7[Mundane Sabre of Lameness]@ 
+§7[Common Sabre of Lameness]@ 
+§7[Mundane Greatbow slightly Chipped]@ 
+§7[Normal Cross Spear of Boredom]@ 
+§7[Direct Shiv of Skien]@ 
+§7[Average Bow of Ragni]@ 
+§7[Mundane Cannon of Maltic]@ 
+§7[Plain Claws of Siegfried]@ 
+§7[Enhanced Greatbow of Integrity ]@ 
+§7[Mundane Halberd slightly Chipped]@ 
+§7[Adorned Spear of Illustriousness]@ 
+§8Trump's KFC. Get it fresh@ 
+§8before he catches@ 
+§8coronavirus!@ 
+§7[Common Pike of Maltic]@ 
+§7[Mundane Scissors of Ragni]@ 
+§7[Common Wand of Maltic]@ 
+§7Loot Bonus: 12.0@ 
+§7XP Bonus: +3.0%@ 
+§7Health Regen: 0.1@ 
+§8Energizing!@ 
+§8You mean Bepis, right?@ 
+§8Ewww...@ 
+§7[Plain Bow of Lameness]@ 
+§7[Common Destroyer of Foolishness]@ 
+§7[Normal Longbow of Foolishness]@ 
+§7[Mundane Focus of Lameness]@ 
+§7[Plain Scissors of Maltic]@ 
+§7[Average Lance of Boredom]@ 
+§7[Normal Scimitar of Lameness]@ 
+§7[Executing Bone of Destruction]@ 
+§7[Basic Razor of Boredom]@ 
+§7[Smashing Falchion of Power]@ 
+§7[Normal Longbow of Maltic]@ 
+§7[Common Greatbow slightly Chipped]@ 
+§8These organs go crazy!!!@ 
+§7[Arakadicus' Claw]@ 
+§7[Mundane Bone of Lameness]@ 
+§7[Average Warhammer of Ragni]@ 
+§7[Mundane Launcher of Ragni]@ 
+§7[Reinforced Baton of Virtue]@ 
+§8baxdee wanted a shout out so... hey,@ 
+§8he's really cool!@ 
+§7[Basic Short Bow slightly Chipped]@ 
+§7[Razor]@ 
+§7[Plain Lance of Lameness]@ 
+§7[Mundane Razor of Maltic]@ 
+§7[Normal Edge of Siegfried]@ 
+§7[Plain Slingshot of Maltic]@ 
+§7[Whispering Relik of Asphyxiation]@ 
+§7[Enhanced Blade of Renown]@ 
+§7[Plain Rod of Lameness]@ 
+§7[Normal Greatbow of Maltic]@ 
+§7[Flawless Birch Spear]@ 
+§7[Spruce Wood Relik]@ 
+§7[Plain Sickle of Boredom]@ 
+§8In this day in age, this is a sign@ 
+§8of wealth and luckiness.@ 
+§8Flexing with it has become a@ 
+§8common norm in society.@ 
+§7[Basic Staff slightly Chipped]@ 
+§7[Common Rapier of Boredom]@ 
+§7[Basic Rod of Ragni]@ 
+§7[Enhanced Sabre of Glory]@ 
+§7[Mundane Impaler of Siegfried]@ 
+§7[Intensified Table leg of High Quality]@ 
+§7[Common Blunderbuss of Maltic]@ 
+§8The constricting strap of this necklace@ 
+§8combined with its heavy@ 
+§8weight can break the@ 
+§8wearers neck during the@ 
+§8fight. The constant fear of@ 
+§8death brings rush of@ 
+§8adrenaline to the user.@ 
+§7 - §f1 BoatÀ@ 
+§8Sold for 4300@ 
+§7[Mundane Mace of Siegfried]@ 
+§7[Militant Slingshot of Honour]@ 
+§7[Normal Claymore slightly Chipped]@ 
+§6 - §a✔ §21 Grook Feather [✫✫✫]@ 
+§7[Average Skewer of Lameness]@ 
+§7[Normal Pike of Lameness]@ 
+§7[Shockmosis]@ 
+§7[Deja Vu]@ 
+§7[Msitu]@ 
+§7[Aerokinesis]@ 
+§7[Big Relik of the Berserker]@ 
+§7[Common Warhammer of Siegfried]@ 
+§7[Common Longbow of Ragni]@ 
+§7[Raging Focus of Glory]@ 
+§7[Emboldened Stave of the Crow]@ 
+§7[Plain Short Bow of Boredom]@ 
+§7[Plain Branch slightly Chipped]@ 
+§7[Average Shovel of Siegfried]@ 
+§7[Static Wand]@ 
+§7[Mundane Blunderbuss slightly Chipped]@ 
+§7[Plain Claymore of Boredom]@ 
+§7[Common Reaver of Maltic]@ 
+§7[Normal Rapier of Boredom]@ 
+§7[Exalted Reaver of Chaos]@ 
+§7[Average Great Hammer slightly Chipped]@ 
+§7[Normal Bone of Maltic]@ 
+§7[Augmented Bone of Superiority]@ 
+§7[Augmented Blade of the Warrior]@ 
+§7[Common Edge of Ragni]@ 
+§7[Common Scimitar of Lameness]@ 
+§7[Plain Razor of Lameness]@ 
+§7[Boosted Reaver of Virtue]@ 
+§7[Pure Jungle Stick]@ 
+§7[Weathered]@ 
+§7[Roulette]@ 
+§7[Emboldened Bone of Luck]@ 
+§7[Celestial Stick of the Nomad]@ 
+§7[Elevated Falchion of Prevalence]@ 
+§7[The Watched]@ 
+§7[Common Bow of Ragni]@ 
+§7[Plain Blunderbuss of Lameness]@ 
+§7[Mundane Crossbow of Siegfried]@ 
+§7[Hero]@ 
+§7[Mundane Stave of Lameness]@ 
+§7[Alkatraz]@ 
+§7[Reinforced Bone of Renown]@ 
+§7[Normal Cross Spear of Foolishness]@ 
+§7[Common Trident of Boredom]@ 
+§7[Common Dirk of Ragni]@ 
+§7[Mundane Cutlass slightly Chipped]@ 
+§7[Normal Reaver slightly Chipped]@ 
+§7[Emboldened Scissors of Precedence]@ 
+§7[Mundane Javelin of Boredom]@ 
+§7[Sheer Razor of Virtue]@ 
+§7[Plain Plank of Ragni]@ 
+§7[Afterimage]@ 
+§7[Inferno]@ 
+§7[Grandmother]@ 
+§7[Basic Blade slightly Chipped]@ 
+§7[Plain Rifle of Maltic]@ 
+§7[Mundane Cross Spear slightly Chipped]@ 
+§7[Rising Sun]@ 
+§7[Plain Sickle of Siegfried]@ 
+§7[Exalted Lance of Worth]@ 
+§7[Intensified Sabre of Precedence]@ 
+§7[Fatal]@ 
+§7[Normal Warhammer of Boredom]@ 
+§7[Average Hammer of Lameness]@ 
+§7[Guacamole]@ 
+§7[Common Rifle of Siegfried]@ 
+§7[Plain Cross Spear of Lameness]@ 
+§7[Stinger]@ 
+§7[Mundane Switchblade of Maltic]@ 
+§7[Conducting Baton of Lightning]@ 
+§7[Normal Impaler slightly Chipped]@ 
+§7[Basic Lance of Lameness]@ 
+§7[Normal Great Hammer of Siegfried]@ 
+§7[Average Sickle slightly Chipped]@ 
+§7[Basic Rifle of Ragni]@ 
+§7[Normal Spire of Maltic]@ 
+§7[Basic Falchion slightly Chipped]@ 
+§7[Basic Razor of Lameness]@ 
+§7[Plain Branch of Maltic]@ 
+§7[Pure Spruce Bow]@ 
+§7[Common Launcher of Maltic]@ 
+§7[Wybel Carved Relik]@ 
+§7[Blightsaber]@ 
+§7[Thunderous Plank of Ash]@ 
+§7[Average Scissors slightly Chipped]@ 
+§7[Judging Stave of Smiting]@ 
+§7[Fluffy Spear]@ 
+§7[Normal Sickle of Lameness]@ 
+§7[Boosted Skewer of Honour]@ 
+§7[Basic Skewer of Ragni]@ 
+§7[Plain Plank slightly Chipped]@ 
+§7[Normal Shovel of Foolishness]@ 
+§7[Basic Shank of Boredom]@ 
+§7[Normal Cutlass of Siegfried]@ 
+§7[Aggressive Rod of the Wolf]@ 
+§7[Cruel Wand of Rage]@ 
+§7[Average Impaler slightly Chipped]@ 
+§7[Plain Skewer of Boredom]@ 
+§7[Plain Claymore of Ragni]@ 
+§7[Soul burning Baton of the Flames]@ 
+§7[Normal Greatbow of Foolishness]@ 
+§7[Odd Short Bow of the Owl]@ 
+§7[Mundane Bone of Maltic]@ 
+§7[Normal Shovel of Siegfried]@ 
+§7[Foreword]@ 
+§7[Basic Rapier of Boredom]@ 
+§7[Basic Rapier of Ragni]@ 
+§7[Average Razor of Siegfried]@ 
+§7[Very Big Relik of Skien]@ 
+§7[Canyon Spirit]@ 
+§7[Common Switchblade of Maltic]@ 
+§7[Normal Compound Bow of Maltic]@ 
+§7[Lonesome]@ 
+§7[Basic Focus of Boredom]@ 
+§7[Enchanted Table leg of Jewels]@ 
+§7[Basic Short Bow of Siegfried]@ 
+§7[Jungle Wood Shears]@ 
+§7[Destructor]@ 
+§7[Dry Shovel of the Ents]@ 
+§7[Common Greatbow of Lameness]@ 
+§7[Mundane Scimitar of Ragni]@ 
+§7[Enhanced Bow of Value]@ 
+§7[Menacing Blunderbuss of Rage]@ 
+§7[Common Root of Foolishness]@ 
+§7[Plain Shank of Maltic]@ 
+§7[Common Staff of Foolishness]@ 
+§7[Mundane Blade of Ragni]@ 
+§7[Penetrating Greatbow of Power]@ 
+§7[Reinforced Short Bow of Honour]@ 
+§7[Average Reaver of Ragni]@ 
+§7[Plain Compound Bow slightly Chipped]@ 
+§7[Mundane Bow of Maltic]@ 
+§7[Powerful Bone of the Bull]@ 
+§7[Savage Focus of the Bear]@ 
+§7[Normal Yumi of Siegfried]@ 
+§7[Fragment]@ 
+§7[Orange Lily]@ 
+§7[Mundane Plank of Siegfried]@ 
+§7[Adorned Longbow of the Stellar]@ 
+§7[Ohonte Kerhite]@ 
+§7[Basic Spear slightly Chipped]@ 
+§7[Rampaging Switchblade of the Warrior]@ 
+§7[Rikter]@ 
+§7[Cross]@ 
+§7[Common Staff of Lameness]@ 
+§7[Plain Razor slightly Chipped]@ 
+§7[Lament]@ 
+§7[Brass Brand]@ 
+§7[Normal Edge of Maltic]@ 
+§7[Mundane Hammer of Lameness]@ 
+§7[Common Plank of Foolishness]@ 
+§7[Upgraded Whisper]@ 
+§7[Very Big Baton of Chaos]@ 
+§7[Ivory]@ 
+§7[Jungle Spirit]@ 
+§7[Average Rod slightly Chipped]@ 
+§7[Plain Lance of Boredom]@ 
+§7[Hotline]@ 
+§7[Average Edge of Maltic]@ 
+§7[Antipode]@ 
+§7[Giant Shiv of Enchantment]@ 
+§7[Crusty Stave of Power]@ 
+§7[Savage Baton of the Olm]@ 
+§7[Cruel Dirk of Power]@ 
+§7[Average Short Bow of Ragni]@ 
+§7[Basic Bone of Ragni]@ 
+§7[Common Table leg of Foolishness]@ 
+§7[Bonder]@ 
+§7[Normal Falchion of Foolishness]@ 
+§7[Common Scimitar of Siegfried]@ 
+§7[Common Table leg of Boredom]@ 
+§7[Normal Cutlass of Boredom]@ 
+§7[Militant Relik of Strength]@ 
+§7[Average Great Hammer of Maltic]@ 
+§7[Doubts]@ 
+§7[Normal Root of Maltic]@ 
+§7[Average Stick of Foolishness]@ 
+§7[Common Stave of Siegfried]@ 
+§7[Intensified Bone of High Quality]@ 
+§7[Basic Halberd slightly Chipped]@ 
+§7[Elaborated Slingshot of Prevalence]@ 
+§7[Exalted Relik of Enhancement]@ 
+§7[Emboldened Falchion of High Quality]@ 
+§7[Banishing Focus of Embers]@ 
+§7[Angry Root of Skien]@ 
+§7[Executing Rod of the Bull]@ 
+§7[Flawless Stone Relik]@ 
+§7[Common Dagger of Ragni]@ 
+§7[Basic Machete of Foolishness]@ 
+§7[Mundane Bow slightly Chipped]@ 
+§7[Plain Cannon of Ragni]@ 
+§7[Mundane Yumi of Ragni]@ 
+§7[Common Launcher of Siegfried]@ 
+§7[Powerful Wand]@ 
+§7[Tidebinder]@ 
+§7[Normal Shank of Lameness]@ 
+§7[Common Razor of Ragni]@ 
+§7[The Dreamer]@ 
+§7[Hillich]@ 
+§7[Adorned Staff of Integrity ]@ 
+§7[Enchanted Reaver of Balance]@ 
+§7[Plague Staff]@ 
+§7[Idol]@ 
+§7[Extremely Big Rifle of Rage]@ 
+§7[Scary Baton of Skien]@ 
+§7[Basic Short Bow of Foolishness]@ 
+§7[Boosted Scissors of Prominence]@ 
+§7[Average Reaver slightly Chipped]@ 
+§7[Augmented Launcher of Illustriousness]@ 
+§7[Enriched Machete of Illustriousness]@ 
+§7[Peaceful Rest]@ 
+§7[Fantasia]@ 
+§7[Mundane Blade of Lameness]@ 
+§7[Average Stick of Boredom]@ 
+§7[Thunder Relic Wand]@ 
+§7[Common Rod of Siegfried]@ 
+§7[Basic Great Hammer slightly Chipped]@ 
+§7[Common Javelin of Siegfried]@ 
+§7[Common Wand of Siegfried]@ 
+§7[Improved Plank of Glory]@ 
+§7[Nordstrom]@ 
+§7[Average Pike of Ragni]@ 
+§7[Normal Edge of Lameness]@ 
+§7[Pure Oak Relik]@ 
+§7[Mundane Hammer of Boredom]@ 
+§7[Hypercane]@ 
+§7[Normal Sabre of Boredom]@ 
+§7[Balanced Bone of the Sun]@ 
+§7[Common Warhammer of Foolishness]@ 
+§7[Dark Needle]@ 
+§7[Basic Claymore of Maltic]@ 
+§7[Valiant]@ 
+§7[Graviton Lance]@ 
+§7[Basic Greatbow of Boredom]@ 
+§7[Amplified Warhammer of Honour]@ 
+§7[Plain Rifle of Foolishness]@ 
+§7[Normal Claws of Ragni]@ 
+§7[Mercury Bomb]@ 
+§7[Plain Machete of Siegfried]@ 
+§7[Normal Compound Bow of Ragni]@ 
+§7[Basic Bow slightly Chipped]@ 
+§7[Banishing Cannon of Destruction]@ 
+§7[Common Machete of Boredom]@ 
+§7[Turmoil]@ 
+§7[Average Falchion of Maltic]@ 
+§7[Cruel Claws of Strength]@ 
+§7[Average Table leg of Foolishness]@ 
+§7[Normal Launcher of Boredom]@ 
+§7[Cold Integrity]@ 
+§7[Damp Shank of Power]@ 
+§7[Intensified Cannon of Prestige]@ 
+§7[Average Bow of Boredom]@ 
+§7[Common Root of Siegfried]@ 
+§7[Rampaging Stave of Speed]@ 
+§7[Cruel Blade of the Clouds]@ 
+§7[Barraging Baton of the Zebra]@ 
+§7[Stasis]@ 
+§7[Average Warhammer of Boredom]@ 
+§7[Mundane Cannon of Boredom]@ 
+§7[Crossbolt]@ 
+§7[Mundane Shiv of Maltic]@ 
+§7[Saffron Arch]@ 
+§7[Mundane Greatbow of Maltic]@ 
+§7[Normal Machete slightly Chipped]@ 
+§7[Topaz Staff of the Wolf]@ 
+§7[Mundane Compound Bow slightly Chipped]@ 
+§7[Common Plank of Maltic]@ 
+§7[Basic Launcher of Siegfried]@ 
+§7[Improved Spire of Virtuosity]@ 
+§7[Cruel Focus of Channeling]@ 
+§7[Basic Sickle of Lameness]@ 
+§7[Basic Shiv of Foolishness]@ 
+§7[Adorned Relik of Virtuosity]@ 
+§7[Adorned Sabre of Lightning]@ 
+§7[Common Stick slightly Chipped]@ 
+§7[Mundane Warhammer of Ragni]@ 
+§7[Shajaea]@ 
+§7[Earthsky Equinox]@ 
+§7[Light Spruce Wood Relik]@ 
+§7[Yamato Spear]@ 
+§7[Common Focus of Boredom]@ 
+§7[Raging Falchion of Rage]@ 
+§7[Normal Short Bow of Foolishness]@ 
+§7[Common Cannon of Boredom]@ 
+§7[Common Recurve Bow of Foolishness]@ 
+§7[Common Baton of Siegfried]@ 
+§7[Average Skewer of Foolishness]@ 
+§7[Big Reaver of Skien]@ 
+§7[Electric Cutlass of the Storm]@ 
+§7[Plain Claws slightly Chipped]@ 
+§7[Average Mace of Foolishness]@ 
+§7[Normal Spire of Ragni]@ 
+§7[Flawless Spruce Bow]@ 
+§7[Magnified Pike of Eminence]@ 
+§7[Common Machete of Lameness]@ 
+§7[Basic Blunderbuss of Ragni]@ 
+§7[Absolute Dagger of the Bull]@ 
+§7[Plain Plank of Maltic]@ 
+§7[Wybel Paw]@ 
+§7[Bladed Razor of Brutality]@ 
+§7[Grounding Halberd of Lightning]@ 
+§7[Plain Skewer of Lameness]@ 
+§7[Mundane Launcher of Siegfried]@ 
+§7[Aggressive Rifle of the Bear]@ 
+§7[Mundane Recurve Bow of Ragni]@ 
+§7[Plain Great Hammer of Maltic]@ 
+§7[Flaming Fangs]@ 
+§7[Throatcut]@ 
+§7[Mundane Plank of Foolishness]@ 
+§7[Penetrating Bone of the Bull]@ 
+§7[Normal Branch of Lameness]@ 
+§7[Coconut]@ 
+§7[Mundane Slingshot of Siegfried]@ 
+§7[Stonebreaker]@ 
+§7[Hellstrand]@ 
+§7[Plain Staff of Maltic]@ 
+§7[Mundane Razor of Ragni]@ 
+§7[Augmented Reaver of Superiority]@ 
+§7[Common Slingshot of Boredom]@ 
+§7[Moist Baton of Corruption]@ 
+§7[Burning Stick of Strength]@ 
+§7[Normal Blunderbuss of Ragni]@ 
+§7[Tourmaline Lyre]@ 
+§7[Common Bow of Maltic]@ 
+§7[Normal Blade of Ragni]@ 
+§7[Normal Razor of Foolishness]@ 
+§7[Basic Javelin of Maltic]@ 
+§7[Normal Compound Bow of Foolishness]@ 
+§7[Average Branch of Maltic]@ 
+§7[Common Dagger of Boredom]@ 
+§7[Common Cutlass slightly Chipped]@ 
+§7[Humongous Sickle of Intelligence]@ 
+§7[Mundane Impaler slightly Chipped]@ 
+§7[Common Plank of Lameness]@ 
+§7[Average Trident of Siegfried]@ 
+§7[Mundane Claws of Ragni]@ 
+§7[Mundane Baton of Ragni]@ 
+§7[Adorned Branch of Prowess]@ 
+§7[Emboldened Longbow of Prevalence]@ 
+§7[Decayed Machete of Strength]@ 
+§7[Basic Branch of Maltic]@ 
+§7[Extremely Big Reaver of Rage]@ 
+§7[Normal Focus of Foolishness]@ 
+§7[Common Shank of Siegfried]@ 
+§7[Normal Shiv of Maltic]@ 
+§7[Direct Dirk of Pandemonium]@ 
+§7[Basic Scimitar of Lameness]@ 
+§7[Average Plank of Foolishness]@ 
+§7[Common Mace of Ragni]@ 
+§7[Militant Shank of Rage]@ 
+§7[Splinter]@ 
+§7[Emboldened Relik of Precedence]@ 
+§7[Common Longbow of Maltic]@ 
+§7[Mundane Bow of Siegfried]@ 
+§7[Blizzard]@ 
+§7[Scary Impaler of the Bull]@ 
+§7[Windy Javelin of Alacrity]@ 
+§7[Common Falchion of Siegfried]@ 
+§7[Sunshine Shortsword]@ 
+§7[Defender]@ 
+§7[Lockpick]@ 
+§7[Flawless Oak Spear]@ 
+§7[Devastating Wand of Chaos]@ 
+§7[Absolute Bone of Destruction]@ 
+§7[Sheer Stave of the Bull]@ 
+§7[Basic Halberd of Foolishness]@ 
+§7[Freedom]@ 
+§7[Normal Rifle of Ragni]@ 
+§7[Basic Wand slightly Chipped]@ 
+§7[Nightmare]@ 
+§7[The Nautilus]@ 
+§7[Chest Breaker]@ 
+§7[Absolute Claws of the Warrior]@ 
+§7[Boosted Relik of Imagination]@ 
+§7[Rushing Launcher of the Zebra]@ 
+§7[Mundane Edge slightly Chipped]@ 
+§7[White Craftmas]@ 
+§7[Average Halberd of Ragni]@ 
+§7[Event Horizon]@ 
+§7[Salticidae]@ 
+§7[Quinque]@ 
+§7[Common Compound Bow of Foolishness]@ 
+§7[Mundane Spire of Ragni]@ 
+§7[Plain Dagger of Foolishness]@ 
+§7[Mundane Mace slightly Chipped]@ 
+§8Not an OP Dagger...@ 
+§8This ancient turtle shell is all thats@ 
+§8left of an extinct species.@ 
+§8Historically their armor was@ 
+§8as tough as steel.@ 
+§8Leyon Set, This helmet is@ 
+§8decorated with a golden mane@ 
+§8made out of knives. It@ 
+§8honours the great general@ 
+§8Leyon Almuj.@ 
+§8Blood Sausage is a deleticable dish@ 
+§8usually peppared with pigs@ 
+§8blood. Substituting the usual@ 
+§8ingredients with blood of@ 
+§8demons brings out slightly@ 
+§8spicy aroma and desire for@ 
+§8bloodshed.@ 
+§8hehe@ 
+§8Wearing this suspicious looking@ 
+§8helmet will somehow bring the@ 
+§8user tremendous amounts of@ 
+§8happiness, in rare cases@ 
+§8even cure depression.@ 
+§8This scroll got me to 110 in scrbing@ 
+§8so treat it good@ 
+§8This milk, obtained in the@ 
+§8presence of WynnMilkman, has@ 
+§8been identified to be of the@ 
+§8quality similar to, if not the@ 
+§8same quality as, Salted's milk.@ 
+§8This was then further@ 
+§8blessed by Salted, making it@ 
+§8incredibly potent.@ 
+§8Drink to again anime protagonist@ 
+§8powers, such as plot armor,@ 
+§8asspulls, and more.@ 
+§8The dark powers of this pendant@ 
+§8draw light from its@ 
+§8surroundings, spreading@ 
+§8darkness in the process.@ 
+§8High Walkspeed and Agility War Scroll@ 
+§8Did someone cough on these cookies?@ 
+§8He suppressed our guild and became a@ 
+§8true boss of VMZ.@ 
+§8Nobody survived this creature.@ 
+§8"Run! He will eat us!"@ 
+§8These runes were once used@ 
+§8to seal the demon Garaheth@ 
+§8defeat they provide p@ 
+§8The boots preceding resurgence!@ 
+§8Though this jewel appears red, in@ 
+§8actuality it's an emerald. Its@ 
+§8orgin is otherworldy and it@ 
+§8emenates strange energy.@ 
+§8You got this old diary from one@ 
+§8of mutated Lutho citizens.@ 
+§8Reading it reveals some@ 
+§8horrible information about@ 
+§8The Eyes influence.@ 
+§8Thick cookies for your food needs!@ 
+§8Time to get high on XP!@ 
+§8By wearing these Leggings, you will@ 
+§8be extra lucky, and stylish!@ 
+§8Sold for 11 LE@ 
+§8By wearing these boots, you will be@ 
+§8extra lucky, and stylish! Sold@ 
+§8for 11 LE@ 
+§8While wearing these boots, you will be@ 
+§8luckier, and stylish! Sold for@ 
+§816 LE@ 
+§8These organs are sad...@ 
+§8These cookies will cure depression!@ 
+§8QUICK EAT THESE BEFORE THEY@ 
+§8RUN AWAY!!!@ 
+§8Spent way too long finding Tier 3@ 
+§8Wood and String for this@ 
+§8crappy thing.@ 
+§8This strange circlet has been known@ 
+§8to augment rage inside the@ 
+§8wearer, intensifying their@ 
+§8magical potential while@ 
+§8greatly disrupting their@ 
+§8hearing abilities.@ 
+§8frick@ 
+§8War Scroll that boosts only@ 
+§8Thunder Damage.@ 
+§8Wearing these leggings will make@ 
+§8you luckier, and stylish! Sold@ 
+§8for 24 LE@ 
+§8for 20 LE@ 
+§8for 18 LE@ 
+§8When wearing these lucky boots, you@ 
+§8will be luckier, and stylish!@ 
+§8Sold for 16 LE@ 
+§8When wearing these lucky leggins, you@ 
+§8Sold for 23 LE@ 
+§8Sold for 19 LE@ 
+§8Wearing these lucky boots will make@ 
+§8you lucky, and stylish! Sold@ 
+§8for 15 LE@ 
+§8Wearing these lucky pants will make@ 
+§8for 16 LE@ 
+§8for 14 LE@ 
+§8for 17 LE@ 
+§8These odd bluish boots were@ 
+§8crafted by a cobbler from@ 
+§8Maltic, who was eventually@ 
+§8imprisoned for theft. The@ 
+§8feathers adorning them are@ 
+§8said to be those of a now@ 
+§8extinct Gavellian bird.@ 
+§8poiuytrewqlkjhgfdsamnbvcxz@ 
+§8qwertyuiopasdfghjklzxcvbnm@ 
+§8Sold for 14 LE@ 
+§8Sold for 13 LE@ 
+§8This necklace, almost weighing nothing,@ 
+§8has the power to supply its@ 
+§8user with an unlimited supply@ 
+§8of oxygen, making them@ 
+§8faster than ever before.@ 
+§8Sold for 36 LE@ 
+§8Yum yum! Crook keys!@ 
+§8In this day in age, this is seen as@ 
+§8a symbol of wealth and@ 
+§8luckiness. Those who@ 
+§8possess it may have a better@ 
+§8chance of survival, and a@ 
+§8means to flex on others...@ 
+§8eeeeee crook keeys@ 
+§8Legends say that this necklace@ 
+§8has the power to draw out@ 
+§8mythics from the depths of@ 
+§8the void...@ 
+§7[Fighter's Staff of the Dead]@ 
+§8Sold for 10 LE@ 
+§8The receipt from the last time Donald@ 
+§8Trump bought KFC.@ 
+§8Apparently, it says he@ 
+§8ordered 32 buckets just@ 
+§8yesterday...@ 
+§8AAAAAAAAAAAAA IM COOMING IN A@ 
+§8BOTTLE@ 
+§8AAAAAAAAAAAAAAAAAAAAAAAAA@ 
+§8I don't think you can kill these@ 
+§8even if you eat them...@ 
+§8High Mana Regen and Intelligence@ 
+§8High Agility and Walkspeed War@ 
+§8An antique passed fwom the cawitat@ 
+§8wweckage into the hands of@ 
+§8the outcast ewves of efiwim.@ 
+§8So to honow the memowy of@ 
+§8the sewfwess famiwy as@ 
+§8inspiwed theiw sewf imposed@ 
+§8exiwe, theiw stwongest@ 
+§8heawing spewws wewe imbued@ 
+§8into it, and sent to those who@ 
+§7§lCurrently: §fㅇㄷㄹ두@ 
+§8lootrun helmet@ 
+§8The Eyes Influence could befelt@ 
+§8all over the Wynn province.@ 
+§8Many went mad, screaming@ 
+§8about incoming blight. Some of@ 
+§8them wrote fanatic poems to@ 
+§8document their madness.@ 
+§8Infused with strange water magic.@ 
+§8This armor can enhance@ 
+§8water element to a wearer.@ 
+§8Somehow it make the wearer@ 
+§8soak all the time@ 
+§8u finna ge higgghhhh from dis@ 
+§8Tastyyy@ 
+§8this mysterious bottle contains@ 
+§8mysterious liquid which@ 
+§8weights lighter than air.@ 
+§8Better hold itself or is it@ 
+§8gonna float into atmosphere.@ 
+§8This contains every single salt in the@ 
+§8whole exsistence. Just drink@ 
+§8it to destroy your blood@ 
+§8vessels@ 
+§8The person failed life...@ 
+§8Intensifying loot brought to you@ 
+§8by cookies!@ 
+§8Trump's KFC. Get it today@ 
+§8Some fool bought 500 sets at@ 
+§8once and tried to sell them@ 
+§8overpriced on ebay, then he@ 
+§8got banned and now he's@ 
+§8desperately trying to sell@ 
+§8these@ 
+§8Therck has given this powerful@ 
+§8spear to warrior he thought@ 
+§8to be a True Hero.@ 
+§8Freshly baked from your grandma!@ 
+§8The receipt left over from Donald@ 
+§8Trump's last KFC purchase.@ 
+§8Apparently, he ordered 32@ 
+§8buckets of fried chicken@ 
+§8today.@ 
+§8Made with the highest quality Tier@ 
+§83 Dernic materials, forged by@ 
+§8baxdee@ 
+§8GET OFF MY LAWN!!!@ 
+§8ded@ 
+§8You'll one shot Qira with this bad@ 
+§8boy, I promise you@ 
+§8You can become homosexual up to@ 
+§8three times with this potion.@ 
+§8I didn't even know fish had@ 
+§8udders...@ 
+§8Who's organs are these?@ 
+§8Bruh why are you eating big@ 
+§8eggs?!@ 
+§8premium gamer girl toilet paper@ 
+§8minted aug 2019, signed copy@ 
+§8Sold for 21le@ 
+§8The receipt from Donald Trump's last@ 
+§8KFC trip. Apparently, he@ 
+§8ordered 32 buckets of fried@ 
+§8chicken today.@ 
+§8GREEN XP@ 
+§8Sold for 11le@ 
+§8Sold for 13le@ 
+§8Buy it you won't@ 
+§8Run Forest ! Run !@ 
+§8Kanter juice has been lightly@ 
+§8added into this delicious@ 
+§8OwO@ 
+§8One Lucky Lid@ 
+§8Sold for 16le@ 
+§8Sold for 15le@ 
+§8Yet another omnipotent relic guarded@ 
+§8by the Banitsu Monks for@ 
+§8generations, this mysterious@ 
+§8artefact has no string nor@ 
+§8arrows, instead fusing air@ 
+§8with its wielders soul to@ 
+§8create powerful blades of@ 
+§8wind that can be discharged@ 
+§8at will.@ 
+§8Sadism is pleasure derived@ 
+§8from hurting others.@ 
+§8Masochism is pleasure@ 
+§8derived from inflicting pain@ 
+§8upon oneself. In a certain@ 
+§8sense Hunters are@ 
+§8masochists.@ 
+§8These are forged in active@ 
+§8volcano.. okay not really but@ 
+§8these are cool, OK@ 
+§8Bonde da naike@ 
+§8The abbresive nature of the void valley@ 
+§8left its previous inhabitants@ 
+§8as souless husks, leaving@ 
+§8their essence to wander to@ 
+§8wastes for centuries.@ 
+§8he abresive nature of the void valley@ 
+§8KFC order. Apparently, he@ 
+§8Nope OvO@ 
+§8Hot, hot leg. Leg so hot, can fry@ 
+§8an egg.@ 
+§8HCI JYRHRG OSJJUVX XKG QIVUIHV@ 
+§8ZKHY KBT GEPG CW KBT FEQ@ 
+§8IIRIXXGK WJS TVGTGXDTM@ 
+§8HCI KBXKH PGGJRAT MLH EFVRNDK@ 
+§8ALVV KYY CTQH QT KYY@ 
+§8BHYWCWE NBXVL RPQV@ 
+§8UYHMVRASU KCBX@ 
+§8Achte Shadow is a level 57 community@ 
+§8and war guild. We enjoy@ 
+§8warring, long loot runs, and@ 
+§8debating if cats or dogs is@ 
+§8better. Recruiting people@ 
+§8level 60 plus and that have@ 
+§8discord. msg me if you want@ 
+§8to join or find us on the@ 
+§8forums@ 
+§8I swear, I didn't kill Salted's best@ 
+§8friend!@ 
+§8It's time to get high on XP!@ 
+§8These lucky boots will make you@ 
+§815 LE@ 
+§8A pair of boots found in Time@ 
+§8Valley, thought to have come@ 
+§8from the future. They are a@ 
+§8pair of poorly made,@ 
+§8completely unenchanted@ 
+§8shoes. Yet they are still@ 
+§8extremely expensive and@ 
+§8nobody is stupid enough to@ 
+§8buy them.@ 
+§8Made from a mix of old man tears,@ 
+§82 tea spoons of sugar and a@ 
+§8dollop of ice cream.@ 
+§8We're no strangers to love, you@ 
+§8know the rules, and so do I.@ 
+§8A full commitment's what I'm@ 
+§8thinking of, you wouldn't get@ 
+§8this from any other guy, I@ 
+§8just wanna tell you how I'm@ 
+§8feeling, gotta make you@ 
+§8understand! Never gonna@ 
+§8give you up, never gonna@ 
+§8Sparkling in the darkness of@ 
+§8the void, this chestplate will@ 
+§8illuminate darkest of@ 
+§8dungeons.@ 
+§8aaa le market is up, buy china@ 
+§8organs@ 
+§8hmm what is this smell?@ 
+§8Shiny@ 
+§6 - §a✔ §28 Red Mushroom [✫✫✫]@ 
+§6 - §a✔ §28 Brown Mushroom [✫✫✫]@ 
+Def: 14@ 
+§7Spell Dam: +2%@ 
+§7[Igneous Relik of Magma-Shaping]@ 
+Dam: 99-110@ 
+§6Lv. min: 56@ 
+§7Health Regen: 0.6@ 
+§7Loot Bonus: 11.0@ 
+§6 - §a✔ §21 Intensity@ 
+§6 - §a✔ §21 Sparkweaver@ 
+§7- Router's Shield@ 
+Def: 4@ 
+Def: 35@ 
+§7Loot Bonus: 7.0@ 
+§a- §2Ghostly Pants@ 
+§6 - §a✔ §21 Boreal-Patterned Crown@ 
+§7- Lost Spirit@ 
+§6 - §a✔ §21 Clockwork@ 
+§6 - §a✔ §21 Bottled Thunderstorm@ 
+§6 - §a✔ §21 Silt of the Seafloor@ 
+§6 - §a✔ §21 Infused Hive Relik@ 
+§6 - §a✔ §21 Mantlewalkers@ 
+Dam: 4-6@ 
+§6 - §a✔ §21 Gaea-Hewn Boots@ 
+§7§lCurrently: §fㅗㄷ개@ 
+296583@ 
+§6 - §a✔ §21 Silver Fusion Necklace@ 
+§6 - §a✔ §21 Gold Fusion Necklace@ 
+§7[Babylon's Scale]@ 
+§7[Butcher's Clever]@ 
+§7XP Bonus: +4.0%@ 
+§7Spell Dam: +3%@ 
+§7§lCurrently: §f.-.@ 
+§a- §2Beachside Conch@ 
+§7- Royal Bug’s Blood@ 
+§7- Major's Badge@ 

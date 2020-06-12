@@ -2,6 +2,7 @@
 §7- Unprocessed Sandstone Ore@§7- Необработанная Песчаная Руда
 §7- Refined Sandstone Gem 1@§7- Переработанный Песчаный Камень 1
 §7- Refined Sandstone Gem 2@§7- Переработанный Песчаный Камень 2
+§7- Refined Sandstone Gem 3@§7- Переработанный Песчаный Камень 3
 §7- Refined Sandstone Ingot 2@§7- Переработанный Слиток Песчаника 2
 §7- Refined Sandstone Ingot 1@§7- Переработанный Слиток Песчаника 1
 §7- Refined Sandstone Ingot 3@§7- Переработанный Слиток Песчаника 3
@@ -76,6 +77,7 @@
 §7- Refined Salmon Oil 1@§7- Переработанный Жир Лосося 1
 §7- Refined Salmon Meat 2@§7- Переработанное Мясо Лосося 2
 §7- Refined Salmon Meat 1@§7- Переработанное Мясо Лосося 1
+§7- Refined Salmon Meat 3@§7- Переработанное Мясо Лосося 3
 §7- Unprocessed Gudgeon@§7- Необработанный Пескарь
 §7- Refined Gudgeon Meat 1@§7- Переработанное Мясо Пескаря 1
 §7- Refined Gudgeon Meat 2@§7- Переработанное Мясо Пескаря 2
@@ -94,49 +96,90 @@
 §7- Refined Acacia Wood 2@§7- Переработанная Древесина Акации 2
 §7- Refined Acacia Wood 1@§7- Переработанная Древесина Акации 1
 §7- Refined Acacia Wood 3@§7- Переработанная Древесина Акации 3
+§7- Refined Acacia Paper 3@§7- Переработанная Акациевая Бумага 3
+§7- Refined Acacia Paper 2@§7- Переработанная Акациевая Бумага 2
+§7- Refined Acacia Paper 1@§7- Переработанная Акациевая Бумага 1
 §7- Refined Iron Ingot 3@§7- Переработанный Слиток Железа 3
 §7- Refined Iron Ingot 1@§7- Переработанный Слиток Железа 1
+§7- Refined Iron Ingot 2@§7- Переработанный Слиток Железа 2
+§7- Refined Iron Gem 3@§7- Переработанный Железный Камень 3
+§7- Refined Iron Gem 2@§7- Переработанный Железный Камень 2
 §7- Refined Iron Gem 1@§7- Переработанный Железный Камень 1
 §7- Unprocessed Spruce Log@§7- Необработанное Бревно Ели
 §7- Refined Spruce Wood 1@§7- Переработанная Древесина Ели 1
 §7- Refined Spruce Wood 2@§7- Переработанная Древесина Ели 2
 §7- Refined Spruce Paper 1@§7- Переработанная Еловая Бумага 1
+§7- Refined Spruce Paper 3@§7- Переработанная Еловая Бумага 3
 §7- Unprocessed Malt@§7- Необработанный Солод
 §7- Refined Malt String 1@§7- Переработанная Солодовая Нить 1
 §7- Refined Malt String 2@§7- Переработанная Солодовая Нить 2
 §7- Refined Malt Grains 1@§7- Переработанное Солодовое Зерно 1
+§7- Refined Malt Grains 3@§7- Переработанное Солодовое Зерно 3
 §7- Refined Silver Gem 1@§7- Переработанный Серебрянный Камень 1
 §7- Refined Silver Gem 2@§7- Переработанный Серебрянный Камень 2
+§7- Refined Silver Ingot 2@§7- Переработанный Слиток Серебра 2
+§7- Refined Silver Ingot 3@§7- Переработанный Слиток Серебра 3
 §7- Refined Silver Ingot 1@§7- Переработанный Слиток Серебра 1
 §7- Refined Molten Ingot 1@§7- Переработанный Слиток Молтен 1
+§7- Refined Molten Ingot 2@§7- Переработанный Слиток Молтен 2
+§7- Refined Molten Gem 1@§7- Переработанный Молтен Камень 1
 §7- Refined Jungle Wood 1@§7- Переработанная Древесина Амаранта 1
 §7- Refined Jungle Wood 2@§7- Переработанная Древесина Амаранта 2
+§7- Refined Jungle Paper 1@§7- Переработанная Амарантовая Бумага 1
 §7- Unprocessed Piranha@§7- Необработанная Пиранья
 §7- Refined Piranha Oil 1@§7- Переработанный Жир Пираньи 1
 §7- Refined Piranha Oil 3@§7- Переработанный Жир Пираньи 3
 §7- Refined Carp Oil 1@§7- Переработанный Жир Карпа 1
 §7- Refined Carp Oil 3@§7- Переработанный Жир Карпа 3
 §7- Refined Carp Oil 2@§7- Переработанный Жир Карпа 2
+§7- Refined Carp Meat 1@§7- Переработанное Мясо Карпа 1
+§7- Refined Carp Meat 2@§7- Переработанное Мясо Карпа 2
+§7- Refined Carp Meat 3@§7- Переработанное Мясо Карпа 3
 §7- Unprocessed Icefish@§7- Необработанная Щука
 §7- Refined Icefish Oil 1@§7- Переработанный Жир Щуки 1
+§7- Refined Icefish Oil 3@§7- Переработанный Жир Щуки 3
+§7- Refined Icefish Meat 2@§7- Переработанное Мясо Щуки 2
 §7- Refined Hops String 1@§7- Переработанная Хмельная Нить 1
+§7- Refined Hops String 2@§7- Переработанная Хмельная Нить 2
+§7- Refined Hops Grains 3@§7- Переработанное Хмельное Зерно 3
+§7- Refined Hops Grains 1@§7- Переработанное Хмельное Зерно 1
+§7- Refined Rye String 1@§7- Переработанная Ржаная Нить 1
+§7- Refined Rye String 3@§7- Переработанная Ржаная Нить 3
+§7- Refined Rye String 2@§7- Переработанная Ржаная Нить 2
 §7- Refined Cobalt Ingot 2@§7- Переработанный Слиток Кобальта 2
 §7- Refined Cobalt Ingot 1@§7- Переработанный Слиток Кобальта 1
 §7- Refined Cobalt Ingot 3@§7- Переработанный Слиток Кобальта 3
 §7- Refined Cobalt Gem 2@§7- Переработанный Кобальтовый Камень 2
 §7- Refined Decay String 1@§7- Переработанный Зараженная Нить 1
+§7- Refined Decay String 3@§7- Переработанная Зараженная Нить 3
 §7- Refined Decay Grains 2@§7- Переработанное Зараженное Зерно 2
 §7- Refined Diamond Ingot 2@§7- Переработанный Слиток Алмаза 2
 §7- Refined Diamond Ingot 3@§7- Переработанный Слиток Алмаза 3
+§7- Refined Diamond Gem 1@§7- Переработанный Алмазный Камень 1
+§7- Refined Diamond Gem 2@§7- Переработанный Алмазный Камень 2
+§7- Refined Diamond Gem 3@§7- Переработанный Алмазный Камень 3
 §7- Refined Avo Wood 2@§7- Переработанная Древесина Авокадо 2
 §7- Refined Avo Wood 1@§7- Переработанная Древесина Авокадо 1 
 §7- Refined Kanderstone Gem 1@§7- Переработанный Кандерстоун Камень 1
 §7- Refined Kanderstone Gem 2@§7- Переработанный Кандерстоун Камень 2
 §7- Refined Kanderstone Gem 3@§7- Переработанный Кандерстоун Камень 3
 §7- Refined Kanderstone Ingot 3@§7- Переработанный Слиток Кандерстоуна 3
+§7- Refined Kanderstone Ingot 2@§7- Переработанный Слиток Кандерстоуна 2
 §7- Refined Kanderstone Ingot 1@§7- Переработанный Слиток Кандерстоуна 1
 §7- Refined Gylia Oil 3@§7- Переработанный Жир Гилия 3
 §7- Refined Rye Grains 1@§7- Переработанное Ржаное Зерно 1
+§7- Refined Koi Oil 2@§7- Переработанный Жир Сазана 2
+§7- Refined Rice String 1@§7- Переработанная Рисовая Нить 1
+§7- Refined Bass Oil 3@§7- Переработанный Жир Окуня 3
+§7- Refined Icefish Oil 2@§7- Переработанный Жир Щуки 2
+§7- Refined Voidstone Gem 2@§7- Переработанный Войдстоун Камень 1
+§7- Refined Sky Wood 1@§7- Переработанная Древесина Лиственницы 1
+§7- Refined Sky Wood 2@§7- Переработанная Древесина Лиственницы 2
+§7- Refined Malt Grains 2@§7- Переработанное Солодовое Зерно 2
+§7- Refined Hops Grains 2@§7- Переработанное Хмельное Зерно 2
+§7- Refined Dark Wood 2@§7- Переработанная Древесина Каштана 2
+§7- Refined Light Wood 1@§7- Переработанная Древесина Клена 1
+§7- Refined Light Paper 1@§7- Переработанная Кленовая Бумага 1
 
 ###########################OTHERS###############################
 §7Currency@§7Валюта
@@ -144,50 +187,41 @@
 §7in your hotbar]@§7в свой хотбар]
 §7Give double Combat XP to the entire server for 20 minutes!@§7Дает двойной Комбат XP всему серверу на 20 минут!
 §7Give double mob drops to the entire server for 20 minutes!@§7Дает двойной лут с мобов всему серверу на 20 минут!
+§7Give double Profession XP to the entire server for 20 minutes!@§7§7Дает двойной XP опыт Профессий всему серверу на 20 минут!
 §aOne time use@§aОдноразовое использование
-§6Price: 50 gold coins@§6Цена: 50 золотых монет
 §6Buy more GC at §cwynncraft.com/store@§6Купи больше монет на §cwynncraft.com/store
 §7Give everyone online 2 soul points!@§7Дает каждому онлайн игроку 2 очка душ!
-§6Price: 40 gold coins@§6Цена: 40 золотых монет
 §7Grant free dungeon access to the entire server for 10 minutes!@§7Дает бесплатный вход в данжи всему серверу на 10 минут!
 §7Throw a crazy party!@§7Закатить сумасшедшую вечеринку!
-§6Price: 20 gold coins@§6Цена: 20 золотых монет
 §7Disguise everyone around you!@§7Замаскировать всех вокруг тебя!
 §7Rename your pets and horses@§7Переименовать твоих питомцев и лошадей
-§6Price: 110 gold coins@§6Цена: 110 золотых монет
 §7Open the buy pet menu@§7Открыть меню покупки питомцев
 §7Buy 5 loot bombs!@§7Купить 5 лут бомб!
-§6Price: 200 gold coins@§6Цена: 200 золотых монет
 §7Buy 5 ingredient bombs!@§7Купить 5 ингредиент бомб!
-§6Price: 160 gold coins@§6Цена: 160 золотых монет
 §7Buy 5 Profession Speed bombs!@§7Купить 5 Профессии Скоростная бомб!
 §7Buy 5 party bombs!@§7Купить 5 пати бомб!
-§6Price: 80 gold coins@§6Цена: 80 золотых монет
 §7Buy 5 disguise bombs!@§7Купить 5 маскировочных бомб!
 §7Buy 3 item bombs, 2 XP bombs,@§7Купить 3 предметных бомбы, 2 XP бомбы,
 §72 disguise bombs, and 5 party bombs!@§72 маскировочных бомбы, и 5 пати бомб!
 §7Buy 5 item bombs, 3 XP bombs,@§7Купить 5 предметных бомб, 3 XP бомбы,
 §74 disguise bombs, 1 loot bomb, and 8 party bombs!@§74 маскировочных бомбы, 1 лут бомбу и 8 пати бомб!
-§6Price: 300 gold coins@§6Цена: 300 золотых монет
 §7Buy 8 item bombs, 5 XP bombs,@§7Купить 8 предметных бомб, 5 XP бомб,
 §76 disguise bombs, 2 loot bombs, and 10 party bombs!@§76 маскировочных бомб, 2 лут бомбы и 10 пати бомб!
-§6Price: 400 gold coins@§6Цена: 400 золотых монет
-§6Price: 260 gold coins@§6Цена: 260 золотых монет
-§6Price: 220 gold coins@§6Цена: 220 золотых монет
 §7Buy 10 global shouts@§7Купить 10 глобальных шаутов
 §7Buy 10 world shouts!@§7Купить 10 серверных шаутов!
-§6Price: 24 gold coins@§6Цена: 24 золотые монеты
-§6Price: 280 gold coins@§6Цена: 280 золотых монет
 §7Shout a message to the@§7Отправить сообщение на
 §7entire network!@§7всю сеть серверов!
 §7No external advertising (twitch, youtube, etc) - strictly enforced@§7Никаких внешних реклам (твич, ютуб и т.д.)
-§6Price: 10 gold coins@§6Цена: 10 золотых монет
 §7entire world!@§7весь сервер!
-§6Price: 3 gold coins@§6Цена: 3 золотые монеты
 §7Could break something@§7Может что-то сломать
 §7Use on what blocks your@§7Используй на том, что блокирует твой
 §7path@§7путь
 §cSale Ended@§cРаспродажа Завершена
+§7Maximum: §f1@§7Максимум: §f1
+§eFol§klo§ew t§kh§eis cha§kr§et §kw§ehile §eusi§kng§e t§ehe mac§kh§eine§ks§e.@§eSle§kdu§ei e§kt§eoi tab§kli§ece §kvo §evremya §eispolzo§kvaniya§e mas§kch§ei§kn§i.
+§eThi§ks§e she§ke§et shou§kld§e be §egi§kve§en to §e§kt§ehe bl§ko§eody@§eEto§kt§e li§ks§et sled§kuet§e §eot§kda§et kro§kva§evim
+§esp§ki§ekes.@§esch§ki§epam.
+§7Illuminates@§7Освети 
 
 ###############################QUEST ITEMS##################################
 §7Deliver Goods to:@§7Доставить товары на:
@@ -352,7 +386,6 @@
 §7Blue-Ring Grook Egg: 626 43 -4645@§7Синее Яйцо Грука: 626 43 -4645
 §7Skyhigh Raspberry: 1400 102 -3940@§7Высокорастущая Малина: 1400 102 -3940
 §7Talking Mushroom: 1100 124 -4869@§7Говорящий Гриб: 1100 124 -4869
-§7as a golden masterpiece@§7как золотой шедевр
 §8this thing will make iron snail drink@§7Эта штука заставит железную улитку пить
 §8look like baby@§7выглядеть как ребенок
 §7You feel the love growing as you hold it@§7Ты чувствуешь, как растет любовь, когда ты держишь это.
@@ -458,6 +491,14 @@
 §7Can open something@§7Может открывать что-то
 §4§kIs this the end?@§4§kEto konec?
 §7A Sharp Blade Used to Extract a Soul@§7Острый клинок, используется для извлечения души
+§7With the help (not so much) of chef Kale,@§7С помощью (не такой уж и большой) шеф-повара Кейла 
+§7you have created what seems to be an omelette,@§7ты создал то, что кажется омлетом, 
+§7topped with slices of brown mushroom in the shape of@§7увенчанным кусочками коричневого гриба в форме того, 
+§7what could only be a rude gesture of sorts.@§7что может быть только грубым жестом.
+§7Get to the mouse nest @§7Доберись до мышиного 
+§7by following the cheese trail @§7гнезда, следуя по сырной 
+§7and get rid of the @§7тропе, и избавься от 
+§7pest. @§7вредителя.
 
 #####################RECIPES################################
 §6§lRing Recipes:@§6§lРецепты Колец:
@@ -511,7 +552,8 @@
             §f3§7 Icefish Oil§f Ⓚ@            §f3§7 Жира Щуки§f Ⓚ
             §f6§7 Icefish Oil§f Ⓚ@            §f6§7 Жира Щуки§f Ⓚ
             §f9§7 Icefish Oil§f Ⓚ@            §f9§7 Жира Щуки§f Ⓚ
-§c✖ Lv. 40: §f3§7 Icefish Oil§f Ⓚ@§c✖ Ур. 40: §f3§7 Жира Щуки§f Ⓚ			
+§c✖ Lv. 40: §f3§7 Icefish Oil§f Ⓚ@§c✖ Ур. 40: §f3§7 Жира Щуки§f Ⓚ
+§a✔ Lv. 40: §f3§7 Icefish Oil§f Ⓚ@§a✔ Ур. 40: §f3§7 Жира Щуки§f Ⓚ	
             §f6§7 Spruce Paper§f Ⓒ@            §f6§7 Еловой Бумаги§f Ⓒ
             §f3§7 Spruce Paper§f Ⓒ@            §f3§7 Еловой Бумаги§f Ⓒ
             §f6§7 Hops Grains§f Ⓙ@            §f6§7 Хмельного Зерна§f Ⓙ
@@ -563,12 +605,15 @@
             §f10§7 Rice String§f Ⓙ@            §f10§7 Рисовых Нитей§f Ⓙ
             §f5§7 Rice String§f Ⓙ@            §f5§7 Рисовых Нитей§f Ⓙ
             §f10§7 Rice Grains§f Ⓙ@            §f10§7 Рисового Зерна§f Ⓙ
+            §f5§7 Rice Grains§f Ⓙ@            §f5§7 Рисового Зерна§f Ⓙ
             §f5§7 Pine Wood§f Ⓒ@            §f5§7 Древесины Сосны§f Ⓒ
             §f10§7 Pine Wood§f Ⓒ@            §f10§7 Древесины Сосны§f Ⓒ
             §f10§7 Pine Paper§f Ⓒ@            §f10§7 Сосновой Бумаги§f Ⓒ
             §f5§7 Pine Paper§f Ⓒ@            §f5§7 Сосновой Бумаги§f Ⓒ
 §c✖ Lv. 90: §f12§7 Sorghum String§f Ⓙ@§c✖ Ур. 90: §f12§7 Сорго Нитей§f Ⓙ
 §c✖ Lv. 90: §f6§7 Sorghum String§f Ⓙ@§c✖ Ур. 90: §f6§7 Сорго Нитей§f Ⓙ
+§a✔ Lv. 90: §f12§7 Sorghum String§f Ⓙ@§a✔ Ур. 90: §f12§7 Сорго Нитей§f Ⓙ
+§a✔ Lv. 90: §f6§7 Sorghum String§f Ⓙ@§a✔ Ур. 90: §f6§7 Сорго Нитей§f Ⓙ
             §f12§7 Sorghum String§f Ⓙ@            §f12§7 Сорго Нитей§f Ⓙ
             §f6§7 Sorghum String§f Ⓙ@            §f6§7 Сорго Нитей§f Ⓙ
             §f12§7 Sorghum Grains§f Ⓙ@            §f12§7 Сорго Зерен§f Ⓙ
@@ -584,6 +629,8 @@
             §f10§7 Gylia Oil§f Ⓚ@            §f10§7 Жира Гилия§f Ⓚ
             §f15§7 Gylia Oil§f Ⓚ@            §f15§7 Жира Гилия§f Ⓚ
 §c✖ Lv. 70: §f10§7 Gylia Meat§f Ⓚ@§c✖ Ур. 70: §f10§7 Мяса Гилия§f Ⓚ
+§a✔ Lv. 70: §f10§7 Gylia Meat§f Ⓚ@§a✔ Ур. 70: §f10§7 Мяса Гилия§f Ⓚ
+§c✖ Lv. 80: §f10§7 Bass Meat§f Ⓚ@§c✖ Ур. 80: §f10§7 Мяса Окуня§f Ⓚ
 §a✔ Lv. 80: §f10§7 Bass Oil§f Ⓚ@§a✔ Ур. 80: §f10§7 Жира Окуня§f Ⓚ
 §c✖ Lv. 80: §f10§7 Bass Oil§f Ⓚ@§c✖ Ур. 80: §f10§7 Жира Окуня§f Ⓚ
 §c✖ Lv. 80: §f5§7 Bass Oil§f Ⓚ@§c✖ Ур. 80: §f5§7 Жира Окуня§f Ⓚ
@@ -593,6 +640,8 @@
             §f15§7 Bass Oil§f Ⓚ@            §f15§7 Жира Окуня§f Ⓚ
 §c✖ Lv. 90: §f12§7 Molten Oil§f Ⓚ@§c✖ Ур. 90: §f12§7 Жира Угря§f Ⓚ
 §c✖ Lv. 90: §f6§7 Molten Oil§f Ⓚ@§c✖ Ур. 90: §f6§7 Жира Угря§f Ⓚ
+§a✔ Lv. 90: §f12§7 Molten Oil§f Ⓚ@§a✔ Ур. 90: §f12§7 Жира Угря§f Ⓚ
+§a✔ Lv. 90: §f6§7 Molten Oil§f Ⓚ@§a✔ Ур. 90: §f6§7 Жира Угря§f Ⓚ
             §f6§7 Molten Oil§f Ⓚ@            §f6§7 Жира Угря§f Ⓚ
             §f12§7 Molten Oil§f Ⓚ@            §f12§7 Жира Угря§f Ⓚ
             §f18§7 Molten Oil§f Ⓚ@            §f18§7 Жира Угря§f Ⓚ
@@ -601,6 +650,7 @@
 §c✖ Lv. 90: §f6§7 Molten Ingot§f Ⓑ@§c✖ Ур. 90: §f6§7 Молтен Слитков§f Ⓑ
 §c✖ Lv. 90: §f12§7 Molten Ingot§f Ⓑ@§c✖ Ур. 90: §f12§7 Молтен Слитков§f Ⓑ
 §c✖ Lv. 90: §f6§7 Molten Gem§f Ⓑ@§c✖ Ур. 90: §f6§7 Молтен Камней§f Ⓑ
+§a✔ Lv. 90: §f6§7 Molten Gem§f Ⓑ@§a✔ Ур. 90: §f6§7 Молтен Камней§f Ⓑ
 §a✔ Lv. 20: §f2§7 Gold Ingot§f Ⓑ@§a✔ Ур. 20: §f2§7 Золотых Слитка§f Ⓑ
 §a✔ Lv. 20: §f4§7 Gold Ingot§f Ⓑ@§a✔ Ур. 20: §f4§7 Золотых Слитка§f Ⓑ
 §c✖ Lv. 20: §f2§7 Gold Ingot§f Ⓑ@§c✖ Ур. 20: §f2§7 Золотых Слитка§f Ⓑ
@@ -670,6 +720,8 @@
 §c✖ Lv. 50: §f8§7 Silver Ingot§f Ⓑ@§c✖ Ур. 50: §f8§7 Серебрянных Слитков§f Ⓑ
             §f8§7 Jungle Wood§f Ⓒ@            §f8§7 Древесины Амаранта§f Ⓒ
             §f4§7 Jungle Wood§f Ⓒ@            §f4§7 Древесины Амаранта§f Ⓒ
+            §f8§7 Jungle Paper§f Ⓒ@            §f8§7 Амарантовой Бумаги§f Ⓒ
+            §f4§7 Jungle Paper§f Ⓒ@            §f4§7 Амарантовой Бумаги§f Ⓒ
 §c✖ Lv. 60: §f4§7 Cobalt Ingot§f Ⓑ@§c✖ Ур. 60: §f4§7 Кобальтовых Слитка§f Ⓑ
 §c✖ Lv. 60: §f8§7 Cobalt Ingot§f Ⓑ@§c✖ Ур. 60: §f8§7 Кобальтовых Слитка§f Ⓑ
 §a✔ Lv. 60: §f4§7 Cobalt Ingot§f Ⓑ@§a✔ Ур. 60: §f4§7 Кобальтовых Слитка§f Ⓑ
@@ -678,14 +730,24 @@
 §a✔ Lv. 60: §f4§7 Cobalt Gem§f Ⓑ@§a✔ Ур. 60: §f4§7 Кобальтовых Камня§f Ⓑ
             §f8§7 Dark Wood§f Ⓒ@            §f8§7 Древесины Каштана§f Ⓒ
             §f4§7 Dark Wood§f Ⓒ@            §f4§7 Древесины Каштана§f Ⓒ
+            §f4§7 Dark Paper§f Ⓒ@            §f4§7 Каштановой Бумаги§f Ⓒ
+            §f8§7 Dark Paper§f Ⓒ@            §f8§7 Каштановой Бумаги§f Ⓒ
 §c✖ Lv. 50: §f8§7 Rye String§f Ⓙ@§c✖ Ур. 50: §f8§7 Ржаных Нитей§f Ⓙ
 §c✖ Lv. 50: §f4§7 Rye String§f Ⓙ@§c✖ Ур. 50: §f4§7 Ржаных Нити§f Ⓙ
+§a✔ Lv. 50: §f8§7 Rye String§f Ⓙ@§a✔ Ур. 50: §f8§7 Ржаных Нитей§f Ⓙ
+§a✔ Lv. 50: §f4§7 Rye String§f Ⓙ@§a✔ Ур. 50: §f4§7 Ржаных Нити§f Ⓙ
             §f8§7 Rye String§f Ⓙ@            §f8§7 Ржаных Нитей§f Ⓙ
             §f4§7 Rye String§f Ⓙ@            §f4§7 Ржаных Нити§f Ⓙ
             §f4§7 Rye Grains§f Ⓙ@            §f4§7 Ржаного Зерна§f Ⓙ
+            §f8§7 Rye Grains§f Ⓙ@            §f8§7 Ржаного Зерна§f Ⓙ
 §c✖ Lv. 50: §f8§7 Piranha Oil§f Ⓚ@§c✖ Ур. 50: §f8§7 Жира Пираньи§f Ⓚ
+§a✔ Lv. 50: §f8§7 Piranha Oil§f Ⓚ@§a✔ Ур. 50: §f8§7 Жира Пираньи§f Ⓚ
+§c✖ Lv. 50: §f4§7 Piranha Oil§f Ⓚ@§c✖ Ур. 50: §f4§7 Жира Пираньи§f Ⓚ
+§a✔ Lv. 50: §f4§7 Piranha Oil§f Ⓚ@§a✔ Ур. 50: §f4§7 Жира Пираньи§f Ⓚ
 §a✔ Lv. 60: §f8§7 Millet String§f Ⓙ@§a✔ Ур. 60: §f8§7 Просо Нитей§f Ⓙ
 §a✔ Lv. 60: §f4§7 Millet String§f Ⓙ@§a✔ Ур. 60: §f4§7 Просо Нити§f Ⓙ
+§c✖ Lv. 60: §f8§7 Millet String§f Ⓙ@§c✖ Ур. 60: §f8§7 Просо Нитей§f Ⓙ
+§c✖ Lv. 60: §f4§7 Millet String§f Ⓙ@§c✖ Ур. 60: §f4§7 Просо Нити§f Ⓙ
             §f8§7 Millet String§f Ⓙ@            §f8§7 Просо Нитей§f Ⓙ
             §f4§7 Millet String§f Ⓙ@            §f4§7 Просо Нити§f Ⓙ
             §f8§7 Millet Grains§f Ⓙ@            §f8§7 Просо Зерен§f Ⓙ
@@ -698,13 +760,21 @@
 §a✔ Lv. 70: §f5§7 Kanderstone Gem§f Ⓑ@§a✔ Ур. 70: §f5§7 Кандерстоун Камня§f Ⓑ
 §c✖ Lv. 100: §f6§7 Voidstone Ingot§f Ⓑ@§c✖ Ур. 100: §f6§7 Слитков Войдстоуна§f Ⓑ
 §c✖ Lv. 100: §f12§7 Voidstone Ingot§f Ⓑ@§c✖ Ур. 100: §f12§7 Слитков Войдстоуна§f Ⓑ
+§a✔ Lv. 100: §f6§7 Voidstone Ingot§f Ⓑ@§a✔ Ур. 100: §f6§7 Слитков Войдстоуна§f Ⓑ
+§a✔ Lv. 100: §f12§7 Voidstone Ingot§f Ⓑ@§a✔ Ур. 100: §f12§7 Слитков Войдстоуна§f Ⓑ
+§c✖ Lv. 100: §f6§7 Voidstone Gem§f Ⓑ@§c✖ Ур. 100: §f6§7 Камней Войдстоуна§f Ⓑ
+§a✔ Lv. 100: §f6§7 Voidstone Gem§f Ⓑ@§a✔ Ур. 100: §f6§7 Камней Войдстоуна§f Ⓑ
              §f12§7 Sky Paper§f Ⓒ@             §f12§7 Лиственной Бумаги§f Ⓒ
              §f6§7 Sky Paper§f Ⓒ@             §f6§7 Лиственной Бумаги§f Ⓒ
+             §f12§7 Sky Wood§f Ⓒ@             §f12§7 Древесины Лиственницы§f Ⓒ
+             §f6§7 Sky Wood§f Ⓒ@             §f6§7 Древесины Лиственницы§f Ⓒ
             §f4§7 Koi Oil§f Ⓚ@            §f4§7 Жира Сазана§f Ⓚ
             §f8§7 Koi Oil§f Ⓚ@            §f8§7 Жира Сазана§f Ⓚ
             §f12§7 Koi Oil§f Ⓚ@            §f12§7 Жира Сазана§f Ⓚ
 §a✔ Lv. 60: §f8§7 Koi Oil§f Ⓚ@§a✔ Ур. 60: §f8§7 Жира Сазана§f Ⓚ
 §a✔ Lv. 60: §f4§7 Koi Oil§f Ⓚ@§a✔ Ур. 60: §f4§7 Жира Сазана§f Ⓚ
+§c✖ Lv. 60: §f8§7 Koi Oil§f Ⓚ@§c✖ Ур. 60: §f8§7 Жира Сазана§f Ⓚ
+§c✖ Lv. 60: §f4§7 Koi Oil§f Ⓚ@§c✖ Ур. 60: §f4§7 Жира Сазана§f Ⓚ
 §c✖ Lv. 60: §f8§7 Koi Meat§f Ⓚ@§c✖ Ур. 60: §f8§7 Мяса Сазана§f Ⓚ
 §a✔ Lv. 60: §f8§7 Koi Meat§f Ⓚ@§a✔ Ур. 60: §f8§7 Мяса Сазана§f Ⓚ
 §c✖ Lv. 80: §f5§7 Diamond Ingot§f Ⓑ@§c✖ Ур. 80: §f5§7 Слитков Алмаза§f Ⓑ
@@ -713,10 +783,36 @@
 §a✔ Lv. 80: §f10§7 Diamond Ingot§f Ⓑ@§a✔ Ур. 80: §f10§7 Слитков Алмаза§f Ⓑ
 §c✖ Lv. 80: §f5§7 Diamond Gem§f Ⓑ@§c✖ Ур. 80: §f5§7 Алмазных Камней§f Ⓑ
 §a✔ Lv. 80: §f5§7 Diamond Gem§f Ⓑ@§a✔ Ур. 80: §f5§7 Алмазных Камней§f Ⓑ
+§c✖ Lv. 100: §f12§7 Hemp String§f Ⓙ@§c✖ Ур. 100: §f12§7 Конопляных Нитей§f Ⓙ
+§c✖ Lv. 100: §f6§7 Hemp String§f Ⓙ@§c✖ Ур. 100: §f6§7 Конопляных Нитей§f Ⓙ
+§a✔ Lv. 100: §f12§7 Hemp String§f Ⓙ@§a✔ Ур. 100: §f12§7 Конопляных Нитей§f Ⓙ
+§a✔ Lv. 100: §f6§7 Hemp String§f Ⓙ@§a✔ Ур. 100: §f6§7 Конопляных Нитей§f Ⓙ
+             §f12§7 Hemp Grains§f Ⓙ@             §f12§7 Конопляных Зерен§f Ⓙ
              §f12§7 Hemp String§f Ⓙ@             §f12§7 Конопляных Нитей§f Ⓙ
              §f6§7 Hemp String§f Ⓙ@             §f6§7 Конопляных Нитей§f Ⓙ
 §c✖ Lv. 50: §f8§7 Piranha Meat§f Ⓚ@§c✖ Ур. 50: §f8§7 Мяса Пираньи§f Ⓚ
 §a✔ Lv. 50: §f8§7 Piranha Meat§f Ⓚ@§a✔ Ур. 50: §f8§7 Мяса Пираньи§f Ⓚ
+§c✖ Lv. 100: §f12§7 Starfish Oil§f Ⓚ@§c✖ Ур. 100: §f12§7 Жира Морской Звезды§f Ⓚ
+§c✖ Lv. 100: §f6§7 Starfish Oil§f Ⓚ@§c✖ Ур. 100: §f6§7 Жира Морской Звезды§f Ⓚ
+§a✔ Lv. 100: §f12§7 Starfish Oil§f Ⓚ@§a✔ Ур. 100: §f12§7 Жира Морской Звезды§f Ⓚ
+§a✔ Lv. 100: §f6§7 Starfish Oil§f Ⓚ@§a✔ Ур. 100: §f6§7 Жира Морской Звезды§f Ⓚ
+             §f6§7 Starfish Oil§f Ⓚ@             §f6§7 Жира Морской Звезды§f Ⓚ
+             §f12§7 Starfish Oil§f Ⓚ@             §f12§7 Жира Морской Звезды§f Ⓚ
+             §f18§7 Starfish Oil§f Ⓚ@             §f18§7 Жира Морской Звезды§f Ⓚ
+§c✖ Lv. 103: §f6§7 Dernic Ingot§f Ⓑ@§c✖ Ур. 103: §f6§7 Дерник Слитков§f Ⓑ
+§c✖ Lv. 103: §f12§7 Dernic Ingot§f Ⓑ@§c✖ Ур. 103: §f12§7 Дерник Слитков§f Ⓑ
+§a✔ Lv. 103: §f6§7 Dernic Ingot§f Ⓑ@§a✔ Ур. 103: §f6§7 Дерник Слитков§f Ⓑ
+§a✔ Lv. 103: §f12§7 Dernic Ingot§f Ⓑ@§a✔ Ур. 103: §f12§7 Дерник Слитков§f Ⓑ
+§c✖ Lv. 103: §f6§7 Dernic Gem§f Ⓑ@§c✖ Ур. 103: §f6§7 Дерник Камней§f Ⓑ
+§a✔ Lv. 103: §f6§7 Dernic Gem§f Ⓑ@§a✔ Ур. 103: §f6§7 Дерник Камней§f Ⓑ
+             §f6§7 Dernic Oil§f Ⓚ@             §f6§7 Дерник Жира§f Ⓚ
+             §f12§7 Dernic Oil§f Ⓚ@             §f12§7 Дерник Жира§f Ⓚ
+             §f18§7 Dernic Oil§f Ⓚ@             §f18§7 Дерник Жира§f Ⓚ
+             §f12§7 Dernic Paper§f Ⓒ@             §f12§7 Дерник Бумаги§f Ⓒ
+             §f6§7 Dernic Paper§f Ⓒ@             §f6§7 Дерник Бумаги§f Ⓒ
+            §f10§7 Decay Grains§f Ⓙ@            §f10§7 Дерник Зерен§f Ⓙ
+             §f12§7 Dernic String§f Ⓙ@             §f12§7 Дерник Нитей§f Ⓙ
+             §f6§7 Dernic String§f Ⓙ@             §f6§7 Дерник Нитей§f Ⓙ
 
 #############################POWDERS#############################
 §8Adding 2 powders of tier 4-6@§8Добавление 2 порошков уровня 4-6
@@ -1242,6 +1338,8 @@
 §6 - §a✔ §21 Overgrown Bundle@§6 - §a✔ §21 Заросший Пакет
 §6 - §c✖§7 Guild Lv. Min: §f10@§6 - §c✖§7 Гильдии Ур. Мин: §f10
 §6 - §a✔§7 Guild Lv. Min: §f10@§6 - §a✔§7 Гильдии Ур. Мин:: §f10
+§6 - §c✖§7 Guild Lv. Min: §f20@§6 - §c✖§7 Гильдии Ур. Мин: §f20
+§6 - §a✔§7 Guild Lv. Min: §f20@§6 - §a✔§7 Гильдии Ур. Мин:: §f20
 §6 - §a✔ §21 Golden Clock@§6 - §a✔ §21 Золотые Часы
 §6 - §c✖ §41 Golden Clock@§6 - §c✖ §41 Золотые Часы
 §6 - §c✖ §412 Pig Meat@§6 - §c✖ §412 Мяса Свиньи
@@ -1355,6 +1453,7 @@
 §5- §7Shadow Clone Spell §8[Lv. 11]@§5- §7Теневой Клон Заклинание §8[Ур. 11]
 §6- §7Leopard Punches§8 [Lv. 21]@§6- §7Удары Леопарда§8 [Ур. 21]
 §6- §fLeopard Punches§7 [Lv. 21]@§6- §fУдары Леопарда§7 [Ур. 21]
+§5- §7Leopard Punches Spell §8[Lv. 21]@§5- §7Удары Леопарда Заклинание §8[Ур. 21]
 §5- §7Blinding Cloud Spell §8[Lv. 31]@§5- §7Ослепляющее Облако Заклинание §8[Ур. 31]
 §6- §7Blinding Cloud§8 [Lv. 31]@§6- §7Ослепляющее Облако§8 [Ур. 31]
 §6- §fBlinding Cloud§7 [Lv. 31]@§6- §fОслепляющее Облако§7 [Ур. 31]
@@ -1376,6 +1475,7 @@
 §6- §fWind Surge§7 [Lv. 21]@§6- §fПорыв Ветра§7 [Ур. 21]
 §5- §7Wind Surge Spell §8[Lv. 21]@§5- §7Порыв Ветра Заклинание §8[Ур. 21]
 §6- §7Gale Funnel§8 [Lv. 31]@§6- §7Воронка Бури§8 [Ур. 31]
+§6- §fGale Funnel§7 [Lv. 31]@§6- §fВоронка Бури§7 [Ур. 31]
 §5- §7Gale Funnel Spell §8[Lv. 31]@§5- §7Воронка Бури Заклинание §8[Ур. 31]
 §5Next Upgrade:@§5Следующий Апгрейд:
 §5- §7Spin Attack Upgrade II §8[Lv. 16]@§5- §7Круговая Атака Апгрейд II §8[Ур. 16]
@@ -1412,8 +1512,12 @@
 §5- §7Ice Snake Upgrade III §8[Lv. 66]@§5- §7Ледяная Змея Апгрейд III §8[Ур. 66]
 §5- §7Smoke Bomb Upgrade II §8[Lv. 46]@§5- §7Дымовая Бомба Апгрейд II §8[Ур. 46]
 §5- §7Smoke Bomb Upgrade III §8[Lv. 66]@§5- §7Дымовая Бомба Апгрейд III §8[Ур. 66]
+§5- §7Blinding Cloud Upgrade II §8[Lv. 46]@§5- §7Ослепляющее Облако Апгрейд II §8[Ур. 46]
+§5- §7Blinding Cloud Upgrade III §8[Lv. 66]@§5- §7Ослепляющее Облако Апгрейд III §8[Ур. 66]
 §5- §7Multi Hit Upgrade II §8[Lv. 36]@§5- §7Мега Удар Апгрейд II §8[Ур. 36]
 §5- §7Multi Hit Upgrade III §8[Lv. 56]@§5- §7Мега Удар Апгрейд III §8[Ур. 56]
+§5- §7Leopard Punches Upgrade II §8[Lv. 36]@§5- §7Удары Леопарда Апгрейд II §8[Ур. 36]
+§5- §7Leopard Punches Upgrade III §8[Lv. 56]@§5- §7Удары Леопарда Апгрейд III §8[Ур. 56]
 §5- §7Bolt Blizzard Upgrade II §8[Lv. 16]@§5- §7Грохот Бури Апгрейд II §8[Ур. 16]
 §5- §7Bolt Blizzard Upgrade III §8[Lv. 36]@§5- §7Грохот Бури Апгрейд III §8[Ур. 36]
 §5- §7Holy Blast Upgrade II §8[Lv. 16]@§5- §7Святой Взрыв Апгрейд II §8[Ур. 16]
@@ -1424,28 +1528,45 @@
 §5- §7Shadow Clone Upgrade III §8[Lv. 46]@§5- §7Теневой Клон Апгрейд III §8[Ур. 46]
 §5- §7Spider Jump Upgrade II §8[Lv. 26]@§5- §7Прыжок Паука Апгрейд II §8[Ур. 26]
 §5- §7Spider Jump Upgrade III §8[Lv. 46]@§5- §7Прыжок Паука Апгрейд III §8[Ур. 46]
+§5- §7Creeper Dart Upgrade II §8[Lv. 36]@§5- §7Дротик Крипера Апгрейд II §8[Ур. 36]
 §5- §7Creeper Dart Upgrade III §8[Lv. 56]@§5- §7Дротик Крипера Апгрейд III §8[Ур. 56]
+§5- §7Dagger Aura Upgrade II §8[Lv. 46]@§5- §7Кинжальная Аура Апгрейд II §8[Ур. 46]
 §5- §7Dagger Aura Upgrade III §8[Lv. 66]@§5- §7Кинжальная Аура Апгрейд III §8[Ур. 66]
+§5- §7Dead Star Upgrade II §8[Lv. 36]@§5- §7Мертвая Звезда Апгрейд II §8[Ур. 36]
 §5- §7Dead Star Upgrade III §8[Lv. 56]@§5- §7Мертвая Звезда Апгрейд III §8[Ур. 56]
 §5- §7Haul Upgrade II §8[Lv. 26]@§5- §7Бросок Апгрейд II §8[Ур. 26]
+§5- §7Haul Upgrade III §8[Lv. 46]@§5- §7Бросок Апгрейд III §8[Ур. 46]
 §5- §7Totem Upgrade II §8[Lv. 16]@§5- §7Тотем Апгрейд II §8[Ур. 16]
+§5- §7Totem Upgrade III §8[Lv. 36]@§5- §7Тотем Апгрейд III §8[Ур. 36]
+§5- §7Crystal Reptile Upgrade II §8[Lv. 46]@§5- §7Кристальная Рептилия Апгрейд II §8[Ур. 46]
 §5- §7Crystal Reptile Upgrade III §8[Lv. 66]@§5- §7Кристальная Рептилия Апгрейд III §8[Ур. 66]
 §5- §7Sky Emblem Upgrade II §8[Lv. 16]@§5- §7Небесная Эмблема Апгрейд II §8[Ур. 16]
+§5- §7Sky Emblem Upgrade III §8[Lv. 36]@§5- §7Небесная Эмблема Апгрейд III §8[Ур. 36]
 §5- §7Soar Upgrade II §8[Lv. 26]@§5- §7Взлет Апгрейд II §8[Ур. 26]
-§5- §7Totem Upgrade III §8[Lv. 36]@§5- §7Тотем Апгрейд III §8[Ур. 36]
-§5- §7Haul Upgrade III §8[Lv. 46]@§5- §7Бросок Апгрейд III §8[Ур. 46]
+§5- §7Soar Upgrade III §8[Lv. 46]@§5- §7Взлет Апгрейд III §8[Ур. 46]
+§5- §7Uproot Upgrade II §8[Lv. 46]@§5- §7Изгнание Апгрейд II §8[Ур. 46]
 §5- §7Uproot Upgrade III §8[Lv. 66]@§5- §7Изгнание Апгрейд III §8[Ур. 66]
+§5- §7Aura Upgrade II §8[Lv. 36]@§5- §7Аура Апгрейд II §8[Ур. 36]
 §5- §7Aura Upgrade III §8[Lv. 56]@§5- §7Аура Апгрейд III §8[Ур. 56]
+§5- §7Whirlwind Upgrade II §8[Lv. 16]@§5- §7Вихрь Апгрейд II §8[Ур. 16]
 §5- §7Whirlwind Upgrade III §8[Lv. 36]@§5- §7Вихрь Апгрейд III §8[Ур. 36]
+§5- §7Heaven Jolt Upgrade II §8[Lv. 36]@§5- §7Небесный Удар Апгрейд II §8[Ур. 36]
+§5- §7Heaven Jolt Upgrade III §8[Lv. 56]@§5- §7Небесный Удар Апгрейд III §8[Ур. 56]
+§5- §7Cry of the Gods Upgrade II §8[Lv. 46]@§5- §7Плач Богов Апгрейд II §8[Ур. 46]
+§5- §7Cry of the Gods Upgrade III §8[Lv. 66]@§5- §7Плач Богов Апгрейд III §8[Ур. 66]
+§5- §7Gale Funnel Upgrade II §8[Lv. 46]@§5- §7Воронка Бури Апгрейд II §8[Ур. 46]
+§5- §7Gale Funnel Upgrade III §8[Lv. 66]@§5- §7Воронка Бури Апгрейд III §8[Ур. 66]
+§5- §7Wind Surge Upgrade II §8[Lv. 36]@§5- §7Порыв Ветра Апгрейд II §8[Ур. 36]
+§5- §7Wind Surge Upgrade III §8[Lv. 56]@§5- §7Порыв Ветра Апгрейд III §8[Ур. 56]
 §5- §7None@§5- §7Нет
 §4[Right-Click to Delete]@§4[Правый Клик для Удаления]
 §cYou need to have the@§cТебе нужно иметь
 §2VIP Rank §cor higher@§2VIP Ранг §cили выше
 §cto use this slot@§cдля использования этого слота
 §3Check §bstore.wynncraft.com@§3Посмотри §bstore.wynncraft.com
+§3Check §bwynncraft.com/store@§3Посмотри §bwynncraft.com/store
 §bVIP+ Rank §cor higher@§bVIP+ Ранг §cили выше
 §5HERO Rank §cor higher@§5HERO Ранг §cили выше
-§6§l⚔§6 Damage            §a■§a■§a■§a■§7■@§6§l⚔§6 Урон            §a■§a■§a■§a■§7■
 §c❤ Defence          §a■§7■§7■§7■§7■@§c❤ Защита          §a■§7■§7■§7■§7■
 §a➽ Range             §a■§a■§a■§a■§a■@§a➽ Дальность             §a■§a■§a■§a■§a■
 §d✺ Spells             §a■§a■§a■§7■§7■@§d✺ Заклинания             §a■§a■§a■§7■§7■
@@ -1471,7 +1592,6 @@
 §7for what they have in raw@§7несмотря на их грубую 
 §7power, they lack in magical@§7силу, им не хватает магического
 §7prowess.@§7мастерства.
-§6§l⚔§6 Damage            §a■§a■§7■§7■§7■@§6§l⚔§6 Урон            §a■§a■§7■§7■§7■
 §c❤ Defence          §a■§a■§a■§7■§7■@§c❤ Защита          §a■§a■§a■§7■§7■
 §a➽ Range             §a■§a■§a■§7■§7■@§a➽ Дальность             §a■§a■§a■§7■§7■
 §d✺ Spells             §a■§a■§a■§a■§a■@§d✺ Заклинания             §a■§a■§a■§a■§a■
@@ -1482,7 +1602,6 @@
 §7offer a great amount of@§7предлагают большое количество 
 §7utility and versatility@§7полезности и универсальности 
 §7with their spells.@§7с их заклинаниями.
-§6§l⚔§6 Damage            §a■§a■§a■§a■§a■@§6§l⚔§6 Урон            §a■§a■§a■§a■§a■
 §c❤ Defence          §a■§a■§a■§a■§7■@§c❤ Защита          §a■§a■§a■§a■§7■
 §a➽ Range             §a■§7■§7■§7■§7■@§a➽ Дальность             §a■§7■§7■§7■§7■
 §7§7The Assassin is the deadliest@§7§7Ассасин является самым смертоносным 
@@ -1493,15 +1612,6 @@
 §7they endanger themselves@§7они подвергают себя опасности, 
 §7by having to get extremely@§7подбираясь очень 
 §7close to the enemy.@§7близко к врагу.
-§6§l⚔§6 Damage           §a■§a■§a■§a■§7■@§6§l⚔§6 Урон           §a■§a■§a■§a■§7■
-§6§l⚔§6 Damage           §a■§a■§7■§7■§7■@§6§l⚔§6 Урон           §a■§a■§7■§7■§7■
-§6§l⚔§6 Damage           §a■§a■§a■§a■§a■@§6§l⚔§6 Урон           §a■§a■§a■§a■§a■
-§6§l⚔§6 Damage            §a■§a■§a■§a■§7■@§6§l⚔§6 Урон            §a■§a■§a■§a■§7■
-§6§l⚔§6 Damage            §a■§a■§7■§7■§7■@§6§l⚔§6 Урон            §a■§a■§7■§7■§7■
-§6§l⚔§6 Damage            §a■§a■§a■§a■§a■@§6§l⚔§6 Урон            §a■§a■§a■§a■§a■
-§6§l⚔§6 Damage           §a■§a■§a■§a■§7■@§6§l⚔§6 Урон           §a■§a■§a■§a■§7■
-§6§l⚔§6 Damage           §a■§a■§7■§7■§7■@§6§l⚔§6 Урон           §a■§a■§7■§7■§7■
-§6§l⚔§6 Damage           §a■§a■§a■§a■§a■@§6§l⚔§6 Урон           §a■§a■§a■§a■§a■
 §c❤ Defence          §7■§7■§7■§7■§7■@§c❤ Защита          §7■§7■§7■§7■§7■
 §a➽ Range             §a■§a■§a■§a■§7■@§a➽ Дальность             §a■§a■§a■§a■§7■
 §d✺ Spells             §a■§a■§a■§a■§7■@§d✺ Заклинания             §a■§a■§a■§a■§7■
@@ -1535,15 +1645,14 @@
 §7- §4Lv. 50+ Character §l✖@§7- §4Ур. 50+ Персонаж §l✖
 §7- §aLv. 50+ Character §l✔@§7- §aУр. 50+ Персонаж §l✔
 §7- §aLv. 30+ Character §l✔@§7- §aУр. 30+ Персонаж §l✔
+§6§l⚔§6 Damage            §a■§a■§a■§a■§7■@§6§l⚔§6 Урон            §a■§a■§a■§a■§7■
+§6§l⚔§6 Damage            §a■§a■§7■§7■§7■@§6§l⚔§6 Урон            §a■§a■§7■§7■§7■
+§6§l⚔§6 Damage            §a■§a■§a■§a■§a■@§6§l⚔§6 Урон            §a■§a■§a■§a■§a■
+§6§l⚔§6 Damage           §a■§a■§a■§a■§7■@§6§l⚔§6 Урон           §a■§a■§a■§a■§7■
+§6§l⚔§6 Damage           §a■§a■§7■§7■§7■@§6§l⚔§6 Урон           §a■§a■§7■§7■§7■
+§6§l⚔§6 Damage           §a■§a■§a■§a■§a■@§6§l⚔§6 Урон           §a■§a■§a■§a■§a■
 
 ##########################ITEMS#########################
-§a- §7Tier: §dRare@§a- §7Редкость: §dРедкий
-§a- §7Tier: §eUnique@§a- §7Редкость: §eУникальный
-§a- §7Tier: §bLegendary@§a- §7Редкость: §bЛегендарный
-§a- §7Tier: §aSet@§a- §7Редкость: §aСет
-§a- §7Tier: §5Mythic@§a- §7Редкость: §5Мифический
-§a- §7Tier: §fNormal@§a- §7Редкость: §fОбычный
-§a- §7Tier: §cFabled@§7§a- §7Редкость: §cСказочный
 §c✖§7 Class Req: Mage/Dark Wizard@§c✖§7 Класс Необ.: Маг/Темный Волшебник
 §c✖§7 Class Req: Archer/Hunter@§c✖§7 Класс Необ.: Лучник/Охотник
 §c✖§7 Class Req: Warrior/Knight@§c✖§7 Класс Необ.: Воин/Рыцарь
@@ -1588,47 +1697,11 @@
 §b   - §7Damage: +4% ❉ / Mana Used@§b   - §7Урон: +4% ❉ / Использованной Маны
 §b   - §7Damage: +2% ❉ / Mana Used@§b   - §7Урон: +2% ❉ / Использованной Маны
 §b   - §7Duration: 1 Sec. / Mana Used@§b   - §7Длительность: 1 Сек. / Использованной Маны
-§f   - §7Duration: 2.0 Sec.@§f   - §7Длительность: 2.0 Сек.
-§c   - §7Duration: 7 seconds@§c   - §7Длительность: 7 секунд
-§b   - §7Duration: 8 seconds@§b   - §7Длительность: 8 секунд
-§c   - §7Duration: 8 seconds@§c   - §7Длительность: 8 секунд
-§e   - §7Duration: 5 Sec.@§e   - §7Длительность: 5 Сек.
-§f   - §7Duration: 3 seconds@§f   - §7Длительность: 3 секунды
-§f   - §7Duration: 3.0 Sec.@§f   - §7Длительность: 3.0 Сек.
-§f   - §7Duration: 4 seconds@§f   - §7Длительность: 4 секунды
-§f   - §7Duration: 5 seconds@§f   - §7Длительность: 5 секунд
-§b   - §7Duration: 9 seconds@§b   - §7Длительность: 9 секунд
-§c   - §7Duration: 6.5 seconds@§c   - §7Длительность: 6.5 секунд
-§c   - §7Duration: 6 seconds@§c   - §7Длительность: 6 секунд
-§b   - §7Duration: 7 seconds@§b   - §7Длительность: 7 секунд
-§c   - §7Duration: 8 Sec.@§c   - §7Длительность: 8 Сек.
-§f   - §7Duration: 3.5 seconds@§f   - §7Длительность: 3.5 секунд
-§f   - §7Duration: 6.0 Sec.@§f   - §7Длительность: 6.0 Сек.
-§f   - §7Duration: 4.0 Sec.@§f   - §7Длительность: 4.0 Сек.
-§b   - §7Duration: 7.5 seconds@§b   - §7Длительность: 7.5 секунд
-§f   - §7Duration: 4.5 seconds@§f   - §7Длительность: 4.5 секунд
-§b   - §7Duration: 8.5 seconds@§b   - §7Длительность: 8.5 секунд
-§c   - §7Duration: 7.5 seconds@§c   - §7Длительность: 7.5 секунд
 §2   - §7Radius: 5.5 blocks@§2   - §7Радиус: 5.5 блоков
 §2   - §7Radius: 6 blocks@§2   - §7Радиус: 6 блоков
 §2   - §7Radius: 6.5 blocks@§2   - §7Радиус: 6.5 блоков
 §2   - §7Radius: 7 blocks@§2   - §7Радиус: 7 блоков
 §2   - §7Radius: 5 blocks@§2   - §7Радиус: 5 блоков
-§c   - §7Damage Boost: +110%@§c   - §7Увеличение Урона: +110%
-§b   - §7Damage Boost: +150%@§b   - §7Увеличение Урона: +150%
-§c   - §7Damage Boost: +150%@§c   - §7Увеличение Урона: +150%
-§f   - §7Damage Boost: +60%@§f   - §7Увеличение Урона: +60%
-§f   - §7Damage Boost: +120%@§f   - §7Увеличение Урона: +120%
-§f   - §7Damage Boost: +180%@§f   - §7Увеличение Урона: +180%
-§b   - §7Damage Boost: +210%@§b   - §7Увеличение Урона: +210%
-§c   - §7Damage Boost: +90%@§c   - §7Увеличение Урона: +90%
-§c   - §7Damage Boost: +70%@§c   - §7Увеличение Урона: +70%
-§b   - §7Damage Boost: +90%@§b   - §7Увеличение Урона: +90%
-§f   - §7Damage Boost: +90%@§f   - §7Увеличение Урона: +90%
-§b   - §7Damage Boost: +120%@§b   - §7Увеличение Урона: +120%
-§f   - §7Damage Boost: +150%@§f   - §7Увеличение Урона: +150%
-§b   - §7Damage Boost: +180%@§b   - §7Увеличение Урона: +180%
-§c   - §7Damage Boost: +130%@§c   - §7Увеличение Урона: +130%
 §e   - §7Chains: 8@§e   - §7Цепей: 8
 §e   - §7Chains: 9@§e   - §7Цепей: 9
 §e   - §7Chains: 7@§e   - §7Цепей: 7
@@ -1639,18 +1712,6 @@
 §f   - §7Knockback: 24 blocks@§f   - §7Отдача: 24 блока
 §f   - §7Knockback: 12 blocks@§f   - §7Отдача: 12 блоков
 §f   - §7Knockback: 20 blocks@§f   - §7Отдача: 20 блоков
-§7Tier 1@§7Уровень 1
-§7Tier 2@§7Уровень 2
-§7Tier 3@§7Уровень 3
-§7Tier 4@§7Уровень 4
-§7Tier 5@§7Уровень 5
-§7Tier 6@§7Уровень 6
-§7Tier 7@§7Уровень 7
-§7Tier 8@§7Уровень 8
-§7Tier 9@§7Уровень 9
-§7Tier 10@§7Уровень 10
-§7Tier 11@§7Уровень 11
-§7Tier 12@§7Уровень 12
 §7Super Fast Attack Speed@§7Супер Быстрая Скорость Атаки
 §7Slow Attack Speed@§7Медленная Скорость Атаки
 §7Very Slow Attack Speed@§7Очень Медленная Скорость Атаки
@@ -1692,28 +1753,6 @@
    §8✔ §fⒼ §7Weaponsmithing@   §8✔ §fⒼ §7Оружейное дело
    §8✖ §fⒹ §7Jeweling@   §8✖ §fⒹ §7Изготовление аксессуаров
    §8✔ §fⒹ §7Jeweling@   §8✔ §fⒹ §7Изготовление аксессуаров
-§c-200% §7Ingredient Effectiveness@§c-200% §7Эффективность Ингредиентов
-§a+130% §7Ingredient Effectiveness@§a+130% §7Эффективность Ингредиентов
-§c-100% §7Ingredient Effectiveness@§c-100% §7Эффективность Ингредиентов
-§c-180% §7Ingredient Effectiveness@§c-180% §7Эффективность Ингредиентов
-§c-110% §7Ingredient Effectiveness@§c-110% §7Эффективность Ингредиентов
-§a+75% §7Ingredient Effectiveness@§a+75% §7Эффективность Ингредиентов
-§a+30% §7Ingredient Effectiveness@§a+30% §7Эффективность Ингредиентов
-§a+25% §7Ingredient Effectiveness@§a+25% §7Эффективность Ингредиентов
-§c-40% §7Ingredient Effectiveness@§c-40% §7Эффективность Ингредиентов
-§a+33% §7Ingredient Effectiveness@§a+33% §7Эффективность Ингредиентов
-§a+40% §7Ingredient Effectiveness@§a+40% §7Эффективность Ингредиентов
-§a+80% §7Ingredient Effectiveness@§a+80% §7Эффективность Ингредиентов
-§a+12% §7Ingredient Effectiveness@§a+12% §7Эффективность Ингредиентов
-§c-15% §7Ingredient Effectiveness@§c-15% §7Эффективность Ингредиентов
-§c-20% §7Ingredient Effectiveness@§c-20% §7Эффективность Ингредиентов
-§a+35% §7Ingredient Effectiveness@§a+35% §7Эффективность Ингредиентов
-§c-30% §7Ingredient Effectiveness@§c-30% §7Эффективность Ингредиентов
-§c-45% §7Ingredient Effectiveness@§c-45% §7Эффективность Ингредиентов
-§c-75% §7Ingredient Effectiveness@§c-75% §7Эффективность Ингредиентов
-§c-50% §7Ingredient Effectiveness@§c-50% §7Эффективность Ингредиентов
-§a+120% §7Ingredient Effectiveness@§a+120% §7Эффективность Ингредиентов
-§a+65% §7Ingredient Effectiveness@§a+65% §7Эффективность Ингредиентов
 §7(To ingredients touching this one)@§7(Для ингредиентов касающихся него)
 §7(To ingredients above this one)@§7(Для ингредиентов выше него)
 §7(To ingredients not touching this one)@§7(Для ингредиентов не касающихся него)
@@ -1724,6 +1763,7 @@
 §d- §7Attack Speed: §f-1 tier@§d- §7Скорость Атаки: §f-1 уровень
 §d- §7Attack Speed: §f+2 tier@§d- §7Скорость Атаки: §f+2 уровня
 §d- §7Attack Speed: §f+3 tier@§d- §7Скорость Атаки: §f+3 уровня
+§d- §7Attack Speed: §f+4 tier@§d- §7Скорость Атаки: §f+4 уровня
 §c-1 Charge@§c-1 Использование
 §a+2 Charges@§a+2 Использования
 §a+1 Charge@§a+1 Использование
@@ -1735,6 +1775,12 @@
 §7Teleports to: Selchar@§7Телепорт в: Сельчар
 §7Teleports to: Llevigar@§7Телепорт в: Ллевигар
 §7Teleports to: Ahmsord@§7Телепорт в: Амсорд
+§7Teleports to: Cinfras@§7Телепорт в: Цинфрас
+§7Teleports to: Eltom@§7Телепорт в: Элтом
+§7Teleports to: Olux@§7Телепорт в: Олукс
+§7Teleports to: Gelibord@§7Телепорт в: Гелиборд
+§7Teleports to: Thesead@§7Телепортирует в: Тесеад
+§7Teleports to: Detlas@§7Телепорт в: §fДетлас
 §3- §7Teleports to: §fSelchar@§3- §7Телепорт в: §fСельчар
 §3- §7Teleports to: §fRagni@§3- §7Телепорт в: §fРагни
 §3- §7Teleports to: §fDetlas@§3- §7Телепорт в: §fДетлас
@@ -1773,12 +1819,17 @@
 §4Cost: §c1 Soul Point@§4Цена: §c1 Очко Душ
 §3- §7Cost: §f1 Soul Point@§3- §7Цена: §f1 Очко Душ
 §fDecrepitÀÀÀSewers§7 once@§fВетхая Канализация§7 единожды
+§fDecrepit Sewers §7once.@§fВетхая Канализация§7 единожды
 §fInfestedÀÀÀPit§7 once@§fЗараженная Яма§7 единожды
+§fInfested Pit §7once.@§fЗараженная Яма§7 единожды
 §fSand-SweptÀÀÀTomb§7 once@§fПесчаная Гробница§7 единожды
 §fSand-Swept Tomb §7once.@§fПесчаная Гробница §7единожды
 §fLostÀÀÀSanctuary§7 once@§fЗатерянное Святилище§7 единожды
+§fLost Sanctuary §7once.@§fЗатерянное Святилище§7 единожды
 §fUnderworldÀÀÀCrypt§7 once@§fПодземный Склеп§7 единожды
+§fUnderworld Crypt §7once.@§fПодземный Склеп§7 единожды
 §fIceÀÀÀBarrows§7 once@§fЛедяной Курган§7 единожды
+§fIce Barrows §7once.@§fЛедяной Курган§7 единожды
 §fUndergrowthÀÀÀRuins§7 once@§fЗаросшие Руины§7 единожды
 §fGalleon'sÀÀÀGraveyard§7 once@§fКладбище Галеона§7 единожды
 §fGalleon's Graveyard §7once.@§fКладбище Галеона §7единожды
@@ -1787,72 +1838,14 @@
 §fEldritchÀÀÀOutlook§7 once@§fЖуткого Наблюдателя§7 единожды
 §fEldritch Outlook §7once.@§fЖуткого Наблюдателя§7 единожды
 §fCorruptedÀÀÀUndergrowthÀÀÀRuins§7 once@§fИспорченные Заросшие Руины§7 единожды
+§fCorrupted Undergrowth Ruins§7 once.@§fИспорченные Заросшие Руины§7 единожды
 §fCorruptedÀÀÀUnderworldÀÀÀCrypt§7 once@§fИспорченный Подземный Склеп§7 единожды
 §fCorruptedÀÀÀSand-SweptÀÀÀTomb§7 once@§fИспорченная Песчаная Гробница§7 единожды
 §fCorruptedÀÀÀInfestedÀÀÀPit§7 once@§fИспорченная Зараженная Яма§7 единожды
+§fCorrupted Infested Pit §7once.@§fИспорченная Зараженная Яма§7 единожды
 §fCorruptedÀÀÀIceÀÀÀBarrows§7 once@§fИспорченный Ледяной Курган§7 единожды
 §fCorruptedÀÀÀLostÀÀÀSanctuary§7 once@§fИспорченное Затерянное Святилище§7 единожды
 §fCorruptedÀÀÀDecrepitÀÀÀSewers§7 once@§fИспорченная Ветхая Канализация§7 единожды
-§a - §7Coordinates: §f-936, -1888@§a - §7Координаты: §f-936, -1888
-§a - §7Coordinates: §f-293, -1834@§a - §7Координаты: §f-293, -1834
-§a - §7Coordinates: §f-638, -856@§a - §7Координаты: §f-638, -856
-§a - §7Coordinates: §f1432, -1830@§a - §7Координаты: §f1432, -1830
-§a - §7Coordinates: §f-264, -1054@§a - §7Координаты: §f-264, -1054
-§a - §7Coordinates: §f290, -1950@§a - §7Координаты: §f290, -1950
-§a - §7Coordinates: §f179, -665@§a - §7Координаты: §f179, -665
-§a - §7Coordinates: §f-584, -3486@§a - §7Координаты: §f-584, -3486
-§a - §7Coordinates: §f3424, 3510@§a - §7Координаты: §f3424, 3510
-§a - §7Coordinates: §f3313, 5346@§a - §7Координаты: §f3313, 5346
-§a - §7Coordinates: §f3331, 4184@§a - §7Координаты: §f3331, 4184
-§a - §7Coordinates: §f3533, 2374@§a - §7Координаты: §f3533, 2374
-§a - §7Coordinates: §f3025, 6329@§a - §7Координаты: §f3025, 6329
-§a - §7Coordinates: §f2960, 8120@§a - §7Координаты: §f2960, 8120
-§a - §7Coordinates: §f2865, 8995@§a - §7Координаты: §f2865, 8995
-§a - §7Coordinates: §f-1646, -2608@§a - §7Координаты: §f-1646, -2608
-§a- §7Level: §f25@§a- §7Уровень: §f25
-§a- §7Level: §f40@§a- §7Уровень: §f40
-§a- §7Level: §f15@§a- §7Уровень: §f15
-§a- §7Level: §f20@§a- §7Уровень: §f20
-§a- §7Level: §f30@§a- §7Уровень: §f30
-§a- §7Level: §f45@§a- §7Уровень: §f45
-§a- §7Level: §f55@§a- §7Уровень: §f55
-§a - §7Combat Lv: §f18@§a - §7Комбат Ур: §f18
-§a - §7Combat Lv: §f36@§a - §7Комбат Ур: §f36
-§a - §7Combat Lv: §f24@§a - §7Комбат Ур: §f24
-§a - §7Combat Lv: §f90@§a - §7Комбат Ур: §f90
-§a - §7Combat Lv: §f45@§a - §7Комбат Ур: §f45
-§a - §7Combat Lv: §f54@§a - §7Комбат Ур: §f54
-§a - §7Combat Lv: §f63@§a - §7Комбат Ур: §f63
-§a - §7Combat Lv: §f27@§a - §7Комбат Ур: §f27
-§a - §7Combat Lv: §f9@§a - §7Комбат Ур: §f9
-§a - §7Combat Lv: §f86@§a - §7Комбат Ур: §f86
-§a - §7Combat Lv: §f74@§a - §7Комбат Ур: §f74
-§a - §7Combat Lv: §f70@§a - §7Комбат Ур: §f70
-§a - §7Combat Lv: §f78@§a - §7Комбат Ур: §f78
-§a - §7Combat Lv: §f82@§a - §7Комбат Ур: §f82
-§a - §7Combat Lv: §f100@§a - §7Комбат Ур: §f100
-§a- §7Coords: §f70, -3070@§a- §7Координаты: §f70, -3070
-§a- §7Coords: §f-600, -3550@§a- §7Координаты: §f-600, -3550
-§a- §7Coords: §f60, -2215@§a- §7Координаты: §f60, -2215
-§a- §7Coords: §f-730, -3115@§a- §7Координаты: §f-730, -3115
-§a- §7Coords: §f-800, -3775@§a- §7Координаты: §f-800, -3775
-§a- §7Coords: §f130, -3770@§a- §7Координаты: §f130, -3770
-§a- §7Coords: §f770, -3880@§a- §7Координаты: §f770, -3880
-§a- §7Coords: §f1315, -4065@§a- §7Координаты: §f1315, -4065
-§a- §7Coords: §f-2125, -4275@§a- §7Координаты: §f-2125, -4275
-§a- §7Coords: §f700, -3330@§a- §7Координаты: §f700, -3330
-§a- §7Coords: §f370, -3470@§a- §7Координаты: §f370, -3470
-§a- §7Coords: §f870, -2830@§a- §7Координаты: §f870, -2830
-§a- §7Coords: §f-2530, -2527@§a- §7Координаты: §f-2530, -2527
-§a- §7Coords: §f-100, -2475@§a- §7Координаты: §f-100, -2475
-§a- §7Coords: §f-450, -2850@§a- §7Координаты: §f-450, -2850
-§a- §7Coords: §f-300, -2500@§a- §7Координаты: §f-300, -2500
-§a- §7Coords: §f500, -2900@§a- §7Координаты: §f500, -2900
-§a- §7Coords: §f-583, -3468@§a- §7Координаты: §f-583, -3468
-§a- §7Coords: §f1409, -1830@§a- §7Координаты: §f1409, -1830
-§a- §7Coords: §f-1675, -2600@§a- §7Координаты: §f-1675, -2600
-§a- §7Coords: §f1290, -775@§a- §7Координаты: §f1290, -775
-§a-§7 Coords: §f-600, -3550@§a-§7 Координаты: §f-600, -3550
 §4CorruptedÀÀÀSand-SweptÀÀÀTomb Key@§4Испорченного Ключа от Песчаной Гробницы 
 §4CorruptedÀÀÀDecrepitÀÀÀSewers Key@§4Испорченного Ключа от Ветхой Канализации
 §4CorruptedÀÀÀUnderworldÀÀÀCrypt Key@§4Испорченного Ключа от Подземного Склепа 
@@ -1886,8 +1879,11 @@
 §a-§7 Status: §fPeaceful@§a-§7 Статус: §fМирный
 §a- §7Status: §fHostile@§a- §7Статус: §fВраждебный
 §a-§7 Level: §f60@§a-§7 Уровень: §f60
+§a- §7Level:§f 94@§a- §7Уровень:§f 94
 §7Right-click to use@§7Правый клик для использования
 §7Cost: §f2 Soul Points@§7Цена: §f2 Очка Душ
+§a-§7 Coords: §f-600, -3550@§a-§7 Координаты: §f-600, -3550
+§a- §7Coords:§f -860, -4900@§a- §7Координаты:§f -860, -4900
 
 ############################POTIONS###########################
 §4Effect:@§4Эффект:
@@ -1900,246 +1896,19 @@
 §6- §7Effect: §f20% XP@§6- §7Эффект: §f20% XP
 §6- §7Effect: §f15% XP@§6- §7Эффект: §f15% XP
 §6- §7Effect: §f25% XP@§6- §7Эффект: §f25% XP
-§a- §7Effect: §f+40§c ✹ Defence@§a- §7Эффект: §f+40§c ✹ Защита
-§a- §7Effect: §f+34§c ✹ Defence@§a- §7Эффект: §f+34§c ✹ Защита
-§a- §7Effect: §f+30§c ✹ Defence@§a- §7Эффект: §f+30§c ✹ Защита
-§a- §7Effect: §f+27§c ✹ Defence@§a- §7Эффект: §f+27§c ✹ Защита
-§a- §7Effect: §f+47§c ✹ Defence@§a- §7Эффект: §f+47§c ✹ Защита
-§a- §7Effect: §f+57§c ✹ Defence@§a- §7Эффект: §f+57§c ✹ Защита
-§a- §7Effect: §f+14§c ✹ Defence@§a- §7Эффект: §f+14§c ✹ Защита
-§a- §7Effect: §f+71§c ✹ Defence@§a- §7Эффект: §f+71§c ✹ Защита
-§a- §7Effect: §f+21§c ✹ Defence@§a- §7Эффект: §f+21§c ✹ Защита
-§a- §7Effect: §f+17§c ✹ Defence@§a- §7Эффект: §f+17§c ✹ Защиты
-§a- §7Effect: §f+8§c ✹ Defence@§a- §7Эффект: §f+8§c ✹ Защита
-§a- §7Effect: §f+1300 Health@§a- §7Эффект: §f+1300 Здоровья
-§a- §7Effect: §f+600 Health@§a- §7Эффект: §f+600 Здоровья
-§a- §7Effect: §f+280 Health@§a- §7Эффект: §f+280 Здоровья
-§a- §7Effect: §f+80 Health@§a- §7Эффект: §f+80 Здоровья
-§a- §7Effect: §f+160 Health@§a- §7Эффект: §f+160 Здоровья
-§a- §7Effect: §f+1880 Health@§a- §7Эффект: §f+1880 Здоровья
-§a- §7Effect: §f+3400 Health@§a- §7Эффект: §f+3400 Здоровья
-§a- §7Effect: §f+6000 Health@§a- §7Эффект: §f+6000 Здоровья
-§a- §7Effect: §f+21§2 ✤ Strength@§a- §7Эффект: §f+21§2 ✤ Сила
-§a- §7Effect: §f+71§2 ✤ Strength@§a- §7Эффект: §f+71§2 ✤ Сила
-§a- §7Effect: §f+40§2 ✤ Strength@§a- §7Эффект: §f+40§2 ✤ Сила
-§a- §7Effect: §f+57§2 ✤ Strength@§a- §7Эффект: §f+57§2 ✤ Сила
-§a- §7Effect: §f+34§2 ✤ Strength@§a- §7Эффект: §f+34§2 ✤ Сила
-§a- §7Effect: §f+27§2 ✤ Strength@§a- §7Эффект: §f+27§2 ✤ Сила
-§a- §7Effect: §f+30§2 ✤ Strength@§a- §7Эффект: §f+30§2 ✤ Сила
-§a- §7Effect: §f+47§2 ✤ Strength@§a- §7Эффект: §f+47§2 ✤ Сила
-§a- §7Effect: §f+14§2 ✤ Strength@§a- §7Эффект: §f+14§2 ✤ Сила
-§a- §7Effect: §f+50% Melee Damage@§a- §7Эффект: §f+50% Ближний Урон
-§a- §7Effect: §f+30% Melee Damage@§a- §7Эффект: §f+30% Ближний Урон
-§a- §7Effect: §f+42% Melee Damage@§a- §7Эффект: §f+42% Ближний Урон
-§a- §7Effect: §f+24% Melee Damage@§a- §7Эффект: §f+24% Ближний Урон
-§a- §7Effect: §f+16 Melee Damage@§a- §7Эффект: §f+16 Ближний Урон
-§a- §7Effect: §f+8 Melee Damage@§a- §7Эффект: §f+8 Ближний Урон
-§a- §7Effect: §f+6% Melee Damage@§a- §7Эффект: §f+6% Ближний Урон
-§a- §7Effect: §f+2 Melee Damage@§a- §7Эффект: §f+2 Ближний Урон
-§a- §7Effect: §f+18% Melee Damage@§a- §7Эффект: §f+18% Ближний Урон
-§a- §7Effect: §f+4 Melee Damage@§a- §7Эффект: §f+4 Ближний Урон
-§a- §7Effect: §f+12% Melee Damage@§a- §7Эффект:  §f+12% Ближний Урон
-§a- §7Effect: §f+28 Melee Damage@§a- §7Эффект: §f+28 Ближний Урон
-§a- §7Effect: §f+64 Melee Damage@§a- §7Эффект: §f+64 Ближний Урон
-§a- §7Effect: §f+36% Melee Damage@§a- §7Эффект: §f+36% Ближний Урон
-§a- §7Effect: §f+44 Melee Damage@§a- §7Эффект: §f+44 Ближний Урон
-§a- §7Effect: §f+100 Melee Damage@§a- §7Эффект: §f+100 Ближний Урон
-§a- §7Effect: §f+34§e ✦ Dexterity@§a- §7Эффект: §f+34§e ✦ Точность
-§a- §7Effect: §f+30§e ✦ Dexterity@§a- §7Эффект: §f+30§e ✦ Точность
-§a- §7Effect: §f+27§e ✦ Dexterity@§a- §7Эффект: §f+27§e ✦ Точность
-§a- §7Effect: §f+40§e ✦ Dexterity@§a- §7Эффект: §f+40§e ✦ Точность
-§a- §7Effect: §f+57§e ✦ Dexterity@§a- §7Эффект: §f+57§e ✦ Точность
-§a- §7Effect: §f+47§e ✦ Dexterity@§a- §7Эффект: §f+47§e ✦ Точность
-§a- §7Effect: §f+14§e ✦ Dexterity@§a- §7Эффект: §f+14§e ✦ Точность
-§a- §7Effect: §f+71§e ✦ Dexterity@§a- §7Эффект: §f+71§e ✦ Точность
-§a- §7Effect: §f+21§e ✦ Dexterity@§a- §7Эффект: §f+21§e ✦ Точность
-§a- §7Effect: §f+8§e ✦ Dexterity@§a- §7Эффект: §f+8§e ✦ Точность
-§a- §7Effect: §f+34§b ❉ Intelligence@§a- §7Эффект: §f+34§b ❉ Интеллект
-§a- §7Effect: §f+30§b ❉ Intelligence@§a- §7Эффект: §f+30§b ❉ Интеллект
-§a- §7Effect: §f+27§b ❉ Intelligence@§a- §7Эффект: §f+27§b ❉ Интеллект
-§a- §7Effect: §f+40§b ❉ Intelligence@§a- §7Эффект: §f+40§b ❉ Интеллект
-§a- §7Effect: §f+47§b ❉ Intelligence@§a- §7Эффект: §f+47§b ❉ Интеллект
-§a- §7Effect: §f+57§b ❉ Intelligence@§a- §7Эффект: §f+57§b ❉ Интеллект
-§a- §7Effect: §f+14§b ❉ Intelligence@§a- §7Эффект: §f+14§b ❉ Интеллект
-§a- §7Effect: §f+71§b ❉ Intelligence@§a- §7Эффект: §f+71§b ❉ Интеллект
-§a- §7Effect: §f+21§b ❉ Intelligence@§a- §7Эффект: §f+21§b ❉ Интеллект
-§a- §7Effect: §f+20% Spell Damage@§a- §7Эффект: §f+20% Урон Заклинаний
-§a- §7Effect: §f+14% Spell Damage@§a- §7Эффект: §f+14% Урон Заклинаний
-§a- §7Effect: §f+4% Spell Damage@§a- §7Эффект: §f+4% Урон Заклинаний
-§a- §7Effect: §f+8% Spell Damage@§a- §7Эффект: §f+8% Урон Заклинаний
-§a- §7Effect: §f+26% Spell Damage@§a- §7Эффект: §f+26% Урон Заклинаний
-§a- §7Effect: §f+32% Spell Damage@§a- §7Эффект: §f+32% Урон Заклинаний
-§a- §7Effect: §f+38% Spell Damage@§a- §7Эффект: §f+38% Урон Заклинаний
-§a- §7Effect: §f+44% Spell Damage@§a- §7Эффект: §f+44% Урон Заклинаний
-§a- §7Effect: §f+30§f ❋ Agility@§a- §7Эффект: §f+30§f ❋ Ловкость
-§a- §7Effect: §f+27§f ❋ Agility@§a- §7Эффект: §f+27§f ❋ Ловкость
-§a- §7Effect: §f+40§f ❋ Agility@§a- §7Эффект: §f+40§f ❋ Ловкость
-§a- §7Effect: §f+47§f ❋ Agility@§a- §7Эффект: §f+47§f ❋ Ловкость
-§a- §7Effect: §f+34§f ❋ Agility@§a- §7Эффект: §f+34§f ❋ Ловкость
-§a- §7Effect: §f+57§f ❋ Agility@§a- §7Эффект: §f+57§f ❋ Ловкость
-§a- §7Effect: §f+14§f ❋ Agility@§a- §7Эффект: §f+14§f ❋ Ловкость
-§a- §7Effect: §f+71§f ❋ Agility@§a- §7Эффект: §f+71§f ❋ Ловкость
-§a- §7Effect: §f+21§f ❋ Agility@§a- §7Эффект: §f+21§f ❋ Ловкость
-§a- §7Effect: §f+8§f ❋ Agility@§a- §7Эффект: §f+8§f ❋ Ловкость
-§a- §7Effect: §f+10§f ❋ Agility@§a- §7Эффект: §f+10§f ❋ Ловкость
-§a- §7Effect: §f+9§f ❋ Agility@§a- §7Эффект: §f+9§f ❋ Ловкость
-§a- §7Effect: §f+16% Walk Speed@§a- §7Эффект: §f+16% Скорость
-§a- §7Effect: §f+6% Walk Speed@§a- §7Эффект: §f+6% Скорость
-§a- §7Effect: §f+10% Walk Speed@§a- §7Эффект: §f+10% Скорость
-§a- §7Effect: §f+28% Walk Speed@§a- §7Эффект: §f+28% Скорость
-§a- §7Effect: §f+34% Walk Speed@§a- §7Эффект: §f+34% Скорость
-§a- §7Effect: §f+22% Walk Speed@§a- §7Эффект: §f+22% Скорость
-§a- §7Effect: §f+40% Walk Speed@§a- §7Эффект: §f+40% Скорость
-§a- §7Effect: §f+50% Walk Speed@§a- §7Эффект: §f+50% Скорость
-§a- §7Effect: §f+12% Main Attack Damage@§a- §7Эффект: §f+12% Урона Основной Атаки
-§a- §7Effect: §f+24% Main Attack Damage@§a- §7Эффект: §f+24% Урона Основной Атаки
-§a- §7Effect: §f+8 Main Attack Damage@§a- §7Эффект: §f+8 Урона Основной Атаки
-§a- §7Effect: §f+36% Main Attack Damage@§a- §7Эффект: §f+36% Урона Основной Атаки
-§a- §7Effect: §f+6% Main Attack Damage@§a- §7Эффект: §f+6% Урона Основной Атаки
-§a- §7Effect: §f+30% Main Attack Damage@§a- §7Эффект: §f+30% Урона Основной Атаки
-§a- §7Effect: §f+50% Main Attack Damage@§a- §7Эффект: §f+50 Урона Основной Атаки
-§a- §7Effect: §f+18% Main Attack Damage@§a- §7Эффект: §f+18 Урона Основной Атаки
-§a- §7Effect: §f+42% Main Attack Damage@§a- §7Эффект: §f+42 Урона Основной Атаки
-§a- §7Effect: §f+28 Main Attack Neutral Damage@§a- §7Эффект: §f+28 Нейтрального Урона Основной Атаки
-§a- §7Effect: §f+4 Main Attack Neutral Damage@§a- §7Эффект: §f+4 Нейтрального Урона Основной Атаки
-§a- §7Effect: §f+44 Main Attack Neutral Damage@§a- §7Эффект: §f+44 Нейтрального Урона Основной Атаки
-§a- §7Effect: §f+2 Main Attack Neutral Damage@§a- §7Эффект: §f+2 Нейтрального Урона Основной Атаки
-§a- §7Effect: §f+16 Main Attack Neutral Damage@§a- §7Эффект: §f+16 Нейтрального Урона Основной Атаки
-§a- §7Effect: §f+100 Main Attack Neutral Damage@§a- §7Эффект: §f+100 Нейтрального Урона Основной Атаки
-§a- §7Effect: §f+64 Main Attack Neutral Damage@§a- §7Эффект: §f+64 Нейтрального Урона Основной Атаки
-§a- §7Effect: §f+8 Main Attack Neutral Damage@§a- §7Эффект: §f+8 Нейтрального Урона Основной Атаки
 §f- §7Effect: §fDrunkness@§f- §7Эффект: §fОпьянение
 §8§8Drinking this potion will@§8§8Употребление этого зелья 
 §8regenerate your health over@§8восстанавливает твое здоровье в течение 
-§83 seconds.@§83 секунд.
 §3- §7Mana: §f30§b ✺@§3- §7Мана: §f30§b ✺
 §3- §7Mana: §f18§b ✺@§3- §7Мана: §f18§b ✺
 §3- §7Mana: §f42§b ✺@§3- §7Мана: §f42§b ✺
 §3- §7Mana: §f12§b ✺@§3- §7Мана: §f12§b ✺
 §3- §7Mana: §f66§b ✺@§3- §7Мана: §f66§b ✺
 §3- §7Mana: §f54§b ✺@§3- §7Мана: §f54§b ✺
-§4- §7Duration: §f3 Seconds@§4- §7Длительность: §f3 Секунды
-§3- §7Duration: §f10 Seconds@§3- §7Длительность: §f10 Секунд
-§3- §7Duration: §f6 Seconds@§3- §7Длительность: §f6 Секунд
-§6- §7Duration: §f150 Seconds@§6- §7Длительность: §f150 Секунд
-§a- §7Duration: §f300 Seconds@§a- §7Длительность: §f300 Секунд
-§a- §7Duration: §f480 Seconds@§a- §7Длительность: §f480 Секунд
-§a- §7Duration: §f420 Seconds@§a- §7Длительность: §f420 Секунд
-§6- §7Duration: §f90 Seconds@§6- §7Длительность: §f90 Секунд
-§3- §7Duration: §f14 Seconds@§3- §7Длительность: §f14 Секунд
-§a- §7Duration: §f240 Seconds@§a- §7Длительность: §f240 Секунд
-§3- §7Duration: §f4 Seconds@§3- §7Длительность: §f4 секунды
-§a- §7Duration: §f60 Seconds@§a- §7Длительность: §f60 Секунд
-§a- §7Duration: §f120 Seconds@§a- §7Длительность: §f120 Секунд
-§a- §7Duration: §f180 Seconds@§a- §7Длительность: §f180 Секунд
-§f- §7Duration: §f120 Seconds@§f- §7Длительность: §f120 Секунд
-§3- §7Duration: §f22 Seconds@§3- §7Длительность: §f22 Секунды
-§3- §7Duration: §f18 Seconds@§3- §7Длительность: §f18 Секунд
-§a- §7Duration: §f360 Seconds@§a- §7Длительность: §f360 Секунд
-§6- §7Duration: §f210 Seconds@§6- §7Длительность: §f210 Секунд
-§f   - §7Duration: 5.0 Sec.@§f   - §7Длительность: 5.0 Сек.
 §8regenerate your mana over@§8восстанавливает твою ману в течение
-§810 seconds.@§810 секунд.
-§86 seconds.@§86 секунд.
 §8boost your XP bonus by 20%@§8увеличит твой XP бонус на 20%
 §8boost your XP bonus by 15%@§8увеличит твой XP бонус на 15%
 §8boost your XP bonus by 25%@§8увеличит твой XP бонус на 25%
-§871 and boost your Melee@§871 и увеличит твой Ближний
-§840 and boost your Melee@§840 и увеличит твой Ближний
-§857 and boost your Melee@§857 и увеличит твой Ближний
-§834 and boost your Melee@§834 и увеличит твой Ближний
-§827 and boost your Melee@§827 и увеличит твой Ближний
-§830 and boost your Melee@§830 и увеличит твой Ближний
-§847 and boost your Melee@§847 и увеличит твой Ближний
-§814 and boost your Melee@§814 и увеличит твой Ближний
-§821 and boost your Melee@§821 и увеличит твой Ближний 
-§821 and boost your Health@§821 и увеличит твое Здоровье
-§840 and boost your Health@§840 и увеличит твое Здоровье
-§834 and boost your Health@§834 и увеличит твое Здоровье
-§830 and boost your Health@§830 и увеличит твое Здоровье
-§827 and boost your Health@§827 и увеличит твое Здоровье
-§847 and boost your Health@§847 и увеличит твое Здоровье
-§857 and boost your Health@§857 и увеличит твое Здоровье
-§814 and boost your Health@§814 и увеличит твое Здоровье
-§871 and boost your Health@§871 и увеличит твое Здоровье
-§817 and boost your Health@§817 и увеличит твое Здоровье
-§88 and boost your Health@§88 и увеличит твое Здоровье
-§821 and boost your Walk Speed@§821 и увеличит твою Скорость
-§830 and boost your Walk Speed@§830 и увеличит твою Скорость
-§827 and boost your Walk Speed@§827 и увеличит твою Скорость
-§840 and boost your Walk Speed@§840 и увеличит твою Скорость
-§847 and boost your Walk Speed@§847 и увеличит твою Скорость
-§834 and boost your Walk Speed@§834 и увеличит твою Скорость
-§857 and boost your Walk Speed@§857 и увеличит твою Скорость
-§814 and boost your Walk Speed@§814 и увеличит твою Скорость
-§871 and boost your Walk Speed@§871 и увеличит твою Скорость
-§88 and boost your Walk Speed@§88 и увеличит твою Скорость
-§810 and boost your Walk Speed@§810 и увеличит твою Скорость
-§89 and boost your Walk Speed@§89 и увеличит твою Скорость
-§8by 21 and boost your Spell@§8на 21 и увеличит твой Заклинаний 
-§8by 34 and boost your Spell@§8на 34 и увеличит твой Заклинаний
-§8by 27 and boost your Spell@§8на 27 и увеличит твой Заклинаний
-§8by 40 and boost your Spell@§8на 40 и увеличит твой Заклинаний
-§8by 47 and boost your Spell@§8на 47 и увеличит твой Заклинаний
-§8by 57 and boost your Spell@§8на 57 и увеличит твой Заклинаний
-§8by 14 and boost your Spell@§8на 14 и увеличит твой Заклинаний
-§8by 71 and boost your Spell@§8на 71 и увеличит твой Заклинаний
-§8by 30 and boost your Spell@§8на 30 и увеличит твой Заклинаний
-§830 and boost your Main Attack@§830 и увеличит твою Основную Атаку
-§834 and boost your Main Attack@§834 и увеличит твою Основную Атаку
-§847 and boost your Main Attack@§847 и увеличит твою Основную Атаку
-§840 and boost your Main Attack@§840 и увеличит твою Основную Атаку
-§871 and boost your Main Attack@§871 и увеличит твою Основную Атаку
-§857 and boost your Main Attack@§857 и увеличит твою Основную Атаку
-§8Damage by +50% for 480 seconds@§8Урон на +50% в течение 480 секунд
-§8Damage by +30% for 300 seconds@§8Урон на +30% в течение 300 секунд
-§8Damage by +42% for 420 seconds@§8Урон на +42% в течение 420 секунд
-§8Damage by +24% for 240 seconds@§8Урон на +24% в течение 240 секунд
-§8Damage by +20% for 240 seconds@§8Урон на +20% в течение 240 секунд
-§8Damage by +14% for 180 seconds@§8Урон на +14% в течение 180 секунд
-§8Damage by +18% for 180 seconds@§8Урон на +18% в течение 180 секунд
-§8Damage by +12% for 120 seconds@§8Урон на +12% в течение 120 секунд
-§8Damage by +26% for 300 seconds@§8Урон на +26% в течение 300 секунд
-§8Damage by +36% for 360 seconds@§8Урон на +36% в течение 360 секунд
-§8Damage by +32% for 360 seconds@§8Урон на +32% в течение 360 секунд
-§8Damage by +38% for 420 seconds@§8Урон на +38% в течение 420 секунд
-§8Damage by +44% for 480 seconds@§8Урон на +44% в течение 480 секунд
-§8Damage by +100 for 480 seconds@§8Урон на +100 в течение 480 секунд
-§8Damage by +16 for 240 seconds@§8Урон на +16 в течение 240 секунд
-§8Damage by +8% for 120 seconds@§8Урон на +8% в течение 120 секунд
-§8Damage by +28 for 300 seconds@§8Урон на +28 в течение 300 секунд
-§8Damage by +64 for 420 seconds@§8Урон на +64 в течение 420 секунд
-§8Damage by +44 for 360 seconds@§8Урон на +44 в течение 360 секунд
-§8Damage by +8 for 180 seconds@§8Урон на +8 в течение 180 секунд
-§8Damage by +6% for 60 seconds@§8Урон на +6% в течение 60 секунд
-§8Damage by +4% for 60 seconds@§8Урон на +4% в течение 60 секунд
-§8Damage by +4 for 120 seconds@§8Урон на +4 в течение 120 секунд
-§8Damage by +2 for 60 seconds@§8Урон на +2 в течение 60 секунд
-§8by +1300 for 300 seconds@§8на +1300 в течение 300 секунд
-§8by +1880 for 360 seconds@§8на +1880 в течение 360 секунд
-§8by +3400 for 420 seconds@§8на +3400 в течение 420 секунд
-§8by +6000 for 480 seconds@§8на +6000 в течение 480 секунд
-§8by +16% for 180 seconds@§8на +16% в течение 180 секунд
-§8by +600 for 240 seconds@§8на +600 в течение 240 секунд
-§8by +280 for 180 seconds@§8на +280 в течение 180 секунд
-§8by +160 for 120 seconds@§8на +160 в течение 120 секунд
-§8by +10% for 120 seconds@§8на +10% в течение 120 секунд
-§8by +28% for 300 seconds@§8на +28% в течение 300 секунд
-§8by +34% for 360 seconds@§8на +34% в течение 360 секунд
-§8by +22% for 240 seconds@§8на +22% в течение 240 секунд
-§8by +40% for 420 seconds@§8на +40% в течение 420 секунд
-§8by +50% for 480 seconds@§8на +50% в течение 480 секунд
-§8by +4 for 120 seconds@§8на +4 в течение 120 секунд
-§8by +6% for 60 seconds@§8на +6% в течение 60 секунд
-§8by +80 for 60 seconds@§8на +80 в течение 60 секунд
-§8Neutral Damage by +28 for@§8Нейтральный Урон на +28 в течение
-§8Neutral Damage by +4 for@§8Нейтральный Урон на +4 в течение
-§8Neutral Damage by +44 for@§8Нейтральный Урон на +44 в течение
-§8Neutral Damage by +2 for@§8Нейтральный Урон на +2 в течение
-§8Neutral Damage by +16 for@§8Нейтральный Урон на +16 в течение
-§8Neutral Damage by +100 for@§8Нейтральный Урон на +100 в течение
-§8Neutral Damage by +64 for@§8Нейтральный Урон на +64 в течение
-§8Neutral Damage by +8 for@§8Нейтральный Урон на +8 в течение
 §8boost your ✹ Defence by@§8увеличит твою ✹ Защиту на
 §8boost your ✤ Strength by@§8увеличит твою ✤ Силу на
 §8boost your ✦ Dexterity by@§8увеличит твою ✦ Точность на
@@ -2148,25 +1917,11 @@
 §8for 150 seconds.@§8в течение 150 секунд.
 §8for 90 seconds.@§8в течение 90 секунд.
 §8for 210 seconds.@§8в течение 210 секунд.
-§8300 seconds@§8300 секунд
-§8120 seconds@§8120 секунд
-§8360 seconds@§8360 секунд
-§860 seconds@§860 секунд
-§8240 seconds@§8240 секунд
-§8480 seconds@§8480 секунд
-§8420 seconds@§8420 секунд
-§8180 seconds@§8180 секунд
 §7+15% Speed boost per@§7+15% увеличения Скорости на
 §7boat within 20 blocks of you@§7лодку в пределах 20 блоков от тебя
 §8make you drunk over 120@§8делает тебя пьяным на 120
-§814 seconds.@§814 секунд.
-§84 seconds.@§84 секунд.
 §8seconds.@§8секунд.
-§822 seconds.@§822 секунд.
-§818 seconds.@§818 секунд.
 §88 and boost your Melee Damage@§88 и увеличивает твой Ближний Урон
-§a- §7Effect: §f+4 Main Attack Damage@§a- §7Эффект: §f+4 Урона Основной Атаки
-§827 and boost your Main Attack@§827 и увеличит твою Основную Атаку
 
 #########################INTERFACES#############################
 §7 - §fRefined Gudgeon Oil §7[Lv. 1]@§7 - §fПереработанный Жир Пескаря §7[Ур. 1]
@@ -2466,6 +2221,8 @@
 §6Epic reward.@§6Эпическую награду.
 §6Epic rewards§7  for 1@§6Эпических наград§7 на 1
 §cGodly reward.@§cБожественную награду.
+§cGodly rewards§7  for 1@§cБожественных наград§7 на 1
+§4§8§k|||§4 Black Market §8§k|||§4 reward.@§4§8§k|||§4 Черный Маркет §8§k|||§4 награду.
 §7Place a mob totem at @§7Поставить моб тотем на
 §7your current location,@§7твою текущую позицию,
 §7increasing the spawn rate@§7увеличив скорость появления
@@ -2537,6 +2294,9 @@
 §4If you live near Europe and want lower@§4Если вы живете рядом с Европой, и хотите
 §4latency on the EU servers, login using@§4меньшую задержку на EU серверах, то заходите
 §4the §feu.wynncraft.com§4 IP address@§4через §feu.wynncraft.com§2 IP адрес
+§7- §fCorrupter of Worlds Combat Lv. 100§7 [1] §f2048§7²@§7- §fРазрушитель Миров Комбат Ур. 100§7 [1] §f2048§7²
+§7- §fMaster Fire Mage Combat Lv. 100§7 [1] §f1024§7²@§7- §fМастер Маг Огня Комбат Ур. 100§7 [1] §f1024§7²
+§7- §fBob Reincarnation Combat Lv. 110§7 [1] §f3072§7²@§7- §fBob Reincarnation Комбат Ур. 110§7 [1] §f3072§7²
 
 ###############################CRATES##############################
 §dRare Reward@§dРедкая Награда
@@ -2578,6 +2338,7 @@
 §7Disguise your staff@§7Маскирует твое оружие 
 §7Disguise your bow@§7Маскирует твой лук
 §7Disguise your wand@§7Маскирует твой посох
+§7Disguise your relik@§7Маскирует твой релик 
 §7Disguise yourself as a sheep@§7Маскировка себя под овцу
 §7Disguise your horses into a zombie beast@§7Маскирует твою лошадь под зомби зверя
 §7Disguise your horses into a skeletal beast@§7Маскирует твою лошадь под скелетного зверя
@@ -2617,6 +2378,10 @@
 §7as a piece of food@§7под кусок еды
 §7as a banana sword@§7под банановый меч
 §7as a frosty masterpiece@§7как ледяной шедевр
+§7as a golden masterpiece@§7как золотой шедевр
+§7as a wooden oar@§7под деревянное весло
+§7as a map of our world@§7под карту нашего мира
+§7as a sharp, pirate hook@§7под острый пиратский крюк
 §7a dragon-like appearance@§7драконоподобный внешний вид
 §7an anti-bovemist appearance@§7внешний вид анти-бовемиста
 §7a king appearance@§7королевский внешний вид 
@@ -2644,6 +2409,7 @@
 §7- §aUnidentified Helmet@§7- §aНеидентифицированный Шлем
 §e- §bUnidentified Helmet@§e- §bНеидентифицированный Шлем
 §7- §bUnidentified Helmet@§7- §bНеидентифицированный Шлем
+§7- §cUnidentified Helmet@§7- §cНеидентифицированный Шлем
 §e- §cUnidentified Leggings@§e- §cНеидентифицированные Штаны
 §e- §eUnidentified Leggings@§e- §eНеидентифицированные Штаны
 §7- §aUnidentified Leggings@§7- §aНеидентифицированные Штаны
@@ -2653,6 +2419,7 @@
 §e- §bUnidentified Leggings@§e- §bНеидентифицированные Штаны
 §e- §dUnidentified Leggings@§e- §dНеидентифицированные Штаны
 §7- §dUnidentified Leggings@§7- §dНеидентифицированные Штаны
+§7- §cUnidentified Leggings@§7- §cНеидентифицированные Штаны
 §e- §eUnidentified Dagger@§e- §eНеидентифицированный Кинжал
 §7- §eUnidentified Dagger@§7- §eНеидентифицированный Кинжал
 §e- §dUnidentified Dagger@§e- §dНеидентифицированный Кинжал
@@ -2686,6 +2453,7 @@
 §e- §aUnidentified Chestplate@§e- §aНеидентифицированный Нагрудник
 §7- §aUnidentified Chestplate@§7- §aНеидентифицированный Нагрудник
 §e- §cUnidentified Chestplate@§e- §cНеидентифицированный Нагрудник
+§7- §cUnidentified Chestplate@§7- §cНеидентифицированный Нагрудник
 §e- §eUnidentified Wand@§e- §eНеидентифицированный Посох
 §7- §eUnidentified Wand@§7- §eНеидентифицированный Посох
 §e- §bUnidentified Wand@§e- §bНеидентифицированный Посох
@@ -2711,6 +2479,7 @@
 §7- §dUnidentified Boots@§7- §dНеидентифицированные Ботинки
 §7- §bUnidentified Boots@§7- §bНеидентифицированные Ботинки
 §e- §cUnidentified Boots@§e- §cНеидентифицированные Ботинки
+§7- §cUnidentified Boots@§7- §cНеидентифицированные Ботинки
 §e- §dUnidentified Bracelet@§e- §dНеидентифицированный Браслет
 §7- §dUnidentified Bracelet@§7- §dНеидентифицированный Браслет
 §e- §aUnidentified Bracelet@§e- §aНеидентифицированный Браслет
@@ -2822,10 +2591,8 @@
 §7Siegfried slayed, saving the city of Ahmsord@§7Зигфрид убил, спася город Ахмсорд
 §7This special bundle includes all@§7Это специальное издание содержит все 
 §7of Siegfried's diaries up to #43@§7дневники Зигфрида до номера 43
-§7hybrids, and a mysterious scientist. @§7гибриды, и загадочный ученый.
 §7hopes to find valuable new minerals. @§7надежды найти новые ценные минералы.
 §7to a world beyond imagination. @§7в мир за пределами воображения.
-§7Importing and exporting take place frequently @§7Импорт и экспорт происходят часто
 §7Worth: 1 Emerald@§7Стоит: 1 Эмеральд
 §f1 x §b❉ Water Powder I@§f1 x §b❉ Порошок Воды I
 §f1 x §bRagni Teleport Scroll@§f1 x §bСвиток телепортации в Рагни
@@ -2882,6 +2649,9 @@
 §8Smells like glittery fish...@§8Пахнет как блестящая рыба...
 §7This pass gives a one-time entry@§7Этот пропуск дает одноразовый вход
 §7to the §fMaex Resource Mine§7.@§7в §fШахту с Ресурсами Маэкса
+§7A strange key engraved with a symbol of@§7Странный ключ гравирован символом 
+§7two arrows in the shape of a circle.@§7из двух стрел в форме круга.
+§7What could it possibly open?@§7Что им можно открыть?
 
 ###################################WYNNIC##########################################
 §7⒯⒣⒠ ⒨⒪⒩⒮⒯⒠⒭ ⒡⒭⒪⒨ ⒝⒠⒴⒪⒩⒟ ⒣⒜⒮ ⒡⒪⒰⒩⒟ ⒰⒮.@§7⒯⒣⒠ ⒨⒪⒩⒮⒯⒠⒭ ⒡⒭⒪⒨ ⒝⒠⒴⒪⒩⒟ ⒣⒜⒮ ⒡⒪⒰⒩⒟ ⒰⒮. §d(монстр из другого царства нашел нас.)

@@ -11,7 +11,7 @@
 §d     -§7 Lore: §f§oThe trail through Nivla Forest to Detlas, the central city of the Wynn Province.@§d     -§7 Лор: §f§oПуть через Лес Нивла в Детлас, центральный город провинции Винн.
 §d     -§7 Lore: §f§oA wealthy family claimed the entire island to settle on when the waves first settled, but a mysterious event has brought dark influence to the island, robbing it of its vibrancy.@§d     -§7 Лор: §f§oБогатая семья забронировала себе весь остров для житья, когда начались первые волны переселения, но таинственное событие принесло на остров темное влияние, лишив его живности.
 §d     -§7 Lore: §f§oThis forest has been infested with giant, mutant arachnids for countless years. They serve as the greatest obstacle for adventurers on their way to Detlas.@§d     -§7 Лор: §f§oЭтот лес заражался гигантскими паукообразными мутантами в течение бесчисленных лет. Они служат самым большим препятствием для авантюристов на пути в Детлас.
-§d     -§7 Lore: §f§oThis area is heavily defended by the armies of Detlas and Ragni to ensure food production continues.@§d     -§7 Лор: §f§oЭтот район обороняли войска Детласa и Рагни, чтобы производство продовольствия по-прежнему продолжалось.
+§d     -§7 Lore: §f§oThis area is heavily defended by the armies of Detlas and Ragni to ensure food production continues.@§d     -§7 Лор: §f§oЭтот район обороняли войска Детласа и Рагни, чтобы производство продовольствия по-прежнему продолжалось.
 §d     -§7 Lore: §f§oThe center of the Wynn Province. This city is a massive hub of trade for all adventurers, whether they have just started their journey or have been at it their whole lives.@§d     -§7 Лор: §f§oЦентр провинции Винн. Этот город является массовым центром торговли для всех искателей приключений, независимо от того, только начали ли они свое путешествие, или же жили здесь всю свою жизнь.
 §d     -§7 Lore: §f§oA year after Bobs disappearance, a tomb pertaining to the resting place of Bob, was found in 985 AP.@§d     -§7 Лор: §f§oЧерез год после исчезновения Бобa, на месте его упокоения появилась гробница, найденная в 985 году после открытия портала.
 §d     -§7 Lore: §f§oMostly inhospitable, the islands are a relatively new formation. WynnExcavation has set up Excavation Site C here in hopes to find valuable new minerals.@§d     -§7 Лор: §f§oНегостеприимный остров, представляющий собой относительно новое образование. ВиннЭкскавейшен устроили здесь Wynnexcavation часть C в надежде найти здесь ценный минерал.
@@ -190,6 +190,7 @@
 §d     -§7 About Discovery: §f§oBetween Realms of physicality and influence lies the vast nothingness of the void. Some islands have broken from the lands and drift in this space, seeking purpose.@§d     -§7 Об открытии: §f§oМежду царствами телесности и влияния лежит огромная ничтожная пустота. Некоторые острова оторвались от суши и дрейфуют в этом пространстве, ища предназначение. 
 §d     -§7 About Discovery: §f§oThe connection between our world and the other realms has been shattered and warped as the war of corruption evolved.@§d     -§7 Об открытии: §f§oСвязь между нашим миром и другими царствами была разрушена и искажена по мере развития войны с порчей. 
 §d     -§7 About Discovery: §f§oMany years ago an Olmic oracle foresaw the demise of her land. To prepare for it, she created a weapon of pure light that will halt the darkness, but when the time came to use it, her descendants were unable to retrieve the bracelet.@§d     -§7 Об открытии: §f§oМного лет назад Олмский оракул предвидела гибель своего края. Чтобы подготовиться к этому, она создала оружие из чистого света, которое остановит тьму, но когда пришло время использовать его, ее потомки не смогли отыскать браслет.
+§d     -§7 About Discovery: §f§oThe Silent Expanse has acted as the gateway to Dern since the outbreak of the Corruption War. The Eye has watched all intruders.. and all attempts at escape.@§d     -§7Об открытии: §f§oТихое Пространство служило воротами в Дерн с самого начала войны с порчей. Глаз наблюдал за всеми незваными гостями... и за всеми попытками к бегству.
 §7Ye who seek knowledge, follow in my footsteps and gain wisdom.@§7Тот, кто ищет знания - иди по моим стопам и обрети мудрость.
 §7The voice of the past echoes on the wind...@§7Голос прошлого перекликается с ветром...
 §f886 AP (After Portal)@§f886 ПП (После Портала)
@@ -329,13 +330,16 @@
 §4/guild defend §8-§6 Buy mobs for the territory you are in@§4/guild defend §8-§6 Купить мобов для защиты территории
 §4/guild kick §c[name] §8-§6 Kick a guild member@§4/guild kick §c[ник] §8-§6 Кикнуть участника гильдии
 §4/guild banner §8-§6 Modify your guild banner@§4/guild banner §8-§6 Изменить баннер гильдии
+§3[§3WAR]§c §cAn error occurred while starting the war.@§3[§3WAR]§c §cПроизошла ошибка при старте захвата.
+§3[§3WAR]§c §cYour last war was invalidated.@§3[§3WAR]§c §cВаш последний захват аннулирован.
+§3[§3WAR]§c §cThey will be there in 2 minutes.@§3[§3WAR]§c §cОни будут там через 2 минуты.
 §3[§3WAR]§c §cThey will be there in 1 minute and 30 seconds.@§3[§3WAR]§c §cОни будут там через 1 минуту и 30 секунд.
 §3[§3WAR]§c §cThey will be there in 45 seconds.@§3[§3WAR]§c §cОни будут там через 45 секунд.
 §3[§3WAR]§c §cThey will be there in 3 minutes.@§3[§3WAR]§c §cОни будут там через 3 минуты.
 §3[§3WAR]§c §cThey will be there in 1 minute.@§3[§3WAR]§c §cОни будут там через 1 минуту.
 §3[§3WAR]§c §cThey will be there in 4 minutes.@§3[§3WAR]§c §cОни будут там через 4 минуты.
 §4You may only contribute emeralds to the guild.@§4Ты можешь только вносить эмеральды в гильдию.
-§3[§3WAR]§c §cFollow your compass to get there.@§3[§3WAR]§c §cСледуй за совим компасом, чтобы попасть туда.
+§3[§3WAR]§c §cFollow your compass to get there.@§3[§3WAR]§c §cСледуй за своим компасом, чтобы попасть туда.
 §3[§3WAR]§c §cThe war will start in 40 seconds.@§3[§3WAR]§c §cБитва начнется через 40 секунд.
 §3[§3WAR]§c §cThe war will start in 30 seconds.@§3[§3WAR]§c §cБитва начнется через 30 секунд.
 §3[§3WAR]§c §cThe war will start in 20 seconds.@§3[§3WAR]§c §cБитва начнется через 20 секунд.
@@ -344,6 +348,8 @@
 §3[§3WAR]§c §cUse /guild defend to defend this territory.@§3[§3WAR]§c §cНапиши /guild defend для защиты этой территории.
 §3[§3WAR]§c §cYour guild bank will receive a portion of the emeralds@§3[§3WAR]§c §cВаш банк гильдии получит часть эмеральдов
 §3[§3WAR]§c §cfrom mob drops and 3x the xp earned in the territory.@§3[§3WAR]§c §cиз дропа мобов и 3x XP, полученные на этой территории.
+§3[§3WAR]§c §cThe war will start in 5 minutes.@§3[§3WAR]§c §cБитва начнется через 5 минут.
+§3[§3WAR]§c §cThe war will start in 4 minutes and 30 seconds.@§3[§3WAR]§c §cБитва начнется через 4 минуты и 30 секунд.
 §3[§3WAR]§c §cThe war will start in 4 minutes.@§3[§3WAR]§c §cБитва начнется через 4 минуты.
 §3[§3WAR]§c §cThe war will start in 3 minutes and 30 seconds.@§3[§3WAR]§c §cБитва начнется через 3 минуты и 30 секунд.
 §3[§3WAR]§c §cThe war will start in 3 minutes.@§3[§3WAR]§c §cБитва начнется через 3 минуты.
@@ -402,6 +408,10 @@
 §cYou can not teleport while in a guild battle...@§cТы не можешь телепортироваться во время битвы гильдий...
 §4You cannot use /class during a guild war.@§4Ты не можешь использовать /class во время захвата
 §bUse /guild defend to defend this territory@§bИспользуй /guild defend для защиты этой территории
+§4You need 10000 Guild Emeralds to edit your guild banner!@§4Тебе нужно 10000 Эмеральдов в банке гильдии для редактирования вашего баннера!
+§4Your guild can only start a battle every 10 seconds!@§4Твоя гильдия может начинать захват только каждые 10 секунд!
+§cYou must be a Recruiter to use this command.@§cТы должен быть рекрутером для использования этой команды.
+§4If you leave, the guild will be disbanded. You must have a §cchief§4 to take over for you.@§4Если ты уйдешь, то гильдия будет распущена. Назначь игрока §cшефом§4 чтобы он занял твое место.
 
 ###################################QUEST/DUNGEON REWARDS##################################
 §7[+1 Selchar Teleportation Scroll]@§7[+1 Сельчар свиток телепортации]
@@ -517,6 +527,7 @@
 §d            - §7+1 Eldritch Outlook Key@§d            - §7+1 Ключ от Жуткого Наблюдателя
 §d            - §7+1 Corrupted Soul Token@§d            - §7+1 Жетон Испорченной Души
 §d            - §7+Hunted Mode@§d            - §7+Режим Охотника
+§d            - §7+0 Emeralds / 8192 Emeralds@§d            - §7+0 Эмеральдов / 8192 Эмеральда
 §d            - §7+Ominous Wind@ 
 §d            - §7+1 Lazarus' Brace@ 
 §d            - §7+1 Abysso Galoshes@ 
@@ -561,46 +572,37 @@
 §d            - §7Gnome's Ring@ 
 §d            - §7Giant's Ring@ 
 §d            - §7+Ring of Rubies@ 
-§6   +25 Bronze Tokens@§6   +25 Бронзовых жетонов
-§f   +15 Silver Tokens@§f   +15 Серерянных жетонов
-§e   +7 Gold Tokens@§e   +7 Золотых жетонов
 §b   +1 Diamond Token@§b   +1 Алмазный жетон
-§6   +18 Bronze Tokens@§6   +18 Бронзовых жетонов
-§f   +9 Silver Tokens@§f   +9 Серерянных жетонов
-§e   +3 Gold Tokens@§e   +3 Золотых жетона
-§6   +12 Bronze Tokens@§6   +12 Бронзовых жетонов
-§f   +5 Silver Tokens@§f   +5 Серерянных жетонов
-§6   +1 Bronze Token@§6   +1 Бронзовый Жетон
 §7[+Witherhead's Rib]@§7[+Ребро Визерхеда]
-§7[+Decrepit Sewers Fragment]@§7[+Ветхая Канализация Фрагмент]
+§7[+Decrepit Sewers Fragment]@§7[+Фрагмент Ветхой Канализации]
 §7[+Theorick's Ice Shard]@§7[+Осколок Льда Теорика]
-§7[+Ice Barrows Fragment]@§7[+Ледяной Курган Фрагмент]
+§7[+Ice Barrows Fragment]@§7[+Фрагмент Ледяного Кургана]
 §7[+Slykaar's Heart]@§7[+Сердце Слайкаара]
-§7[+Undergrowth Ruins Fragment]@§7[+Заросшие Руины Фрагмент]
+§7[+Undergrowth Ruins Fragment]@§7[+Фрагмент Заросших Руин]
 §7[+Arakadicus' Eye]@§7[+Глаз Аракадикус]
-§7[+Infested Pit Fragment]@§7[+Зараженная Яма Фрагмент]
+§7[+Infested Pit Fragment]@§7[+Фрагмент Зараженной Ямы]
 §7[+Hashr's Bone]@§7[+Кость Хашера]
-§7[+Sand-Swept Tomb Fragment]@§7[+Песчаная Гробница Фрагмент]
+§7[+Sand-Swept Tomb Fragment]@§7[+Фрагмент Песчаной Гробницы]
 §7[+Garoth's Breath]@§7[+Дыхание Гарота]
-§7[+Lost Sanctuary Fragment]@§7[+Затерянное Святилище Фрагмент]
+§7[+Lost Sanctuary Fragment]@§7[+Фрагмент Затерянного Святилища]
 §7[+Corrupted Witherhead's Rib]@§7[+Испорченное Ребро Визерхеда]
-§7[+Corrupted Decrepit Sewers Fragment]@§7[+Испорченный Ветхая Канализация Фрагмент]
+§7[+Corrupted Decrepit Sewers Fragment]@§7[+Испорченный Фрагмент Ветхой Канализации]
 §7[+Charon's Brain]@§7[+Мозг Харона]
-§7[+Underworld Crypt Fragment]@§7[+Подземный Склеп Фрагмент]
+§7[+Underworld Crypt Fragment]@§7[+Фрагмент Подземного Склепа]
 §7[+Corrupted Arakadicus' Eye]@§7[+Испорченный Глаз Аракадикус]
-§7[+Corrupted Infested Pit Fragment]@§7[+Испорченный Зараженная Яма Фрагмент]
+§7[+Corrupted Infested Pit Fragment]@§7[+Испорченный Фрагмент Зараженной Ямы]
 §7[+Corrupted Hashr's Bone]@§7[+Испорченная Кость Хашера]
-§7[+Corrupted Sand-Swept Tomb Fragment]@[+Испорченный Песчаная Гробница Фрагмент]
+§7[+Corrupted Sand-Swept Tomb Fragment]@[+Испорченный Фрагмент Песчаной Гробницы]
 §7[+Redbeard's Hair]@§7[+Волос Редберда]
-§7[+Galleon's Graveyard Fragment]@§7[+Кладбище Галеона Фрагмент]
+§7[+Galleon's Graveyard Fragment]@§7[+Фрагмент Кладбища Галеона]
 §7[+Corrupted Garoth's Breath]@§7[+Испорченное Дыхание Гарота]
-§7[+Corrupted Lost Sanctuary Fragment]@§7[+Испорченный Затерянное Святилище Фрагмент]
-§7[+Antikythera Supercomputer's Chip]@§7[+Антикитера Суперкомпьютер Чип]
-§7[+Fallen Factory Dungeon Fragment]@§7[+Заброшенная Фабрика Фрагмент]
+§7[+Corrupted Lost Sanctuary Fragment]@§7[+Испорченный Фрагмент Затерянного Святилища]
+§7[+Antikythera Supercomputer's Chip]@§7[+Чип Антикитеры Суперкомпьютера]
+§7[+Fallen Factory Dungeon Fragment]@§7[+Фрагмент Заброшенной Фабрики]
 §7[+Corrupted Charon's Brain]@§7[+Испорченный Мозг Харона]
-§7[+Corrupted Underworld Crypt Fragment]@§7[+Испорченный Подземный Склеп Фрагмент]
+§7[+Corrupted Underworld Crypt Fragment]@§7[+Испорченный Фрагмент Подземного Склепа]
 §7[+Corrupted Theorick's Ice Shard]@§7[+Испорченный Осколок Льда Теорика]
-§7[+Corrupted Ice Barrows Fragment]@§7[+Испорченный Ледяной Курган Фрагмент]
+§7[+Corrupted Ice Barrows Fragment]@§7[+Испорченный Фрагмент Ледяного Кургана]
 §7[+Corrupted Slykaar's Heart]@§7[+Испорченное Сердце Слайкаара]
 §7[+Corrupted Undergrowth Ruins Fragment]@§7[+Испорченный Фрагмент Заросших Руин]
 §7[+The Eye's Pupil]@§7[+Зрачок Глаза]
@@ -610,12 +612,12 @@
 §7[+1 Skill Reset Scroll]@§7[+1 Свиток Сброса Умений]
 §7[+3 Sunken Block of Gold]@§7[+3 Затонувших Блока Золота]
 §7[+1 Old Pirate Hook]@§7[+1 Старый Пиратский Крюк]
-§7[+1 Galleon's Graveyard Key]@§7[+1 Кладбище Галеона Ключ]
+§7[+1 Galleon's Graveyard Key]@§7[+1 Ключ от Кладбища Галлеона]
 §7[+4 Coral Sapphire]@§7[+4 Коралловых Сапфира]
-§7[+1 Llevigar Boat Pass]@§7[+1 Ллевигар Билет]
+§7[+1 Llevigar Boat Pass]@§7[+1 Билет в Ллевигар]
 §7+7 Emeralds@§7+7 Эмеральдов
-§7[+1 Selchar Boat Pass]@§7[+1 Сельчар Билет]
-§7[+1 Nemract Boat Pass]@§7[+1 Немракт Билет]
+§7[+1 Selchar Boat Pass]@§7[+1 Билет в Сельчар]
+§7[+1 Nemract Boat Pass]@§7[+1 Билет в Немракт]
 §7[-1 Mine Pass]@§7[-1 Пропуск в Шахту]
 §4This material cannot be used for §fⒹ§c Jeweling@§4Этот материал не может быть использован в §fⒹ§c Изготовлении Аксессуаров
 §4This material cannot be used for §fⒼ§c Weaponsmithing@§4Этот материал не может быть использован в §fⒼ§c Оружейном Деле
@@ -670,50 +672,7 @@
 §7+ New Resource §8[Starfish]@§7+ Новый Ресурс §8[Морская Звезда]
 §7+ New Resource §8[Dernic Fish]@§7+ Новый Ресурс §8[Дерник Рыба]
 §7+ New Resource §8[Boulder]@§7+ Новый Ресурс §8[Булыжник]
-§7+ New Tool §8[Ⓑ Gathering Pickaxe T2]@§7+ Новый Инструмент §8[Ⓑ Сборная Кирка У2]
-§7+ New Tool §8[Ⓑ Gathering Pickaxe T5]@§7+ Новый Инструмент §8[Ⓑ Сборная Кирка У5]
-§7+ New Tool §8[Ⓑ Gathering Pickaxe T3]@§7+ Новый Инструмент §8[Ⓑ Сборная Кирка У3]
-§7+ New Tool §8[Ⓑ Gathering Pickaxe T4]@§7+ Новый Инструмент §8[Ⓑ Сборная Кирка У4]
-§7+ New Tool §8[Ⓑ Gathering Pickaxe T6]@§7+ Новый Инструмент §8[Ⓑ Сборная Кирка У6]
-§7+ New Tool §8[Ⓑ Gathering Pickaxe T7]@§7+ Новый Инструмент §8[Ⓑ Сборная Кирка У7]
-§7+ New Tool §8[Ⓑ Gathering Pickaxe T8]@§7+ Новый Инструмент §8[Ⓑ Сборная Кирка У8]
-§7+ New Tool §8[Ⓑ Gathering Pickaxe T9]@§7+ Новый Инструмент §8[Ⓑ Сборная Кирка У9]
-§7+ New Tool §8[Ⓑ Gathering Pickaxe T10]@§7+ Новый Инструмент §8[Ⓑ Сборная Кирка У10]
-§7+ New Tool §8[Ⓑ Gathering Pickaxe T11]@§7+ Новый Инструмент §8[Ⓑ Сборная Кирка У11]
-§7+ New Tool §8[Ⓑ Gathering Pickaxe T12]@§7+ Новый Инструмент §8[Ⓑ Сборная Кирка У12]
-§7+ New Tool §8[Ⓒ Gathering Axe T2]@§7+ Новый Инструмент §8[Ⓒ Сборный Топор У2]
-§7+ New Tool §8[Ⓒ Gathering Axe T3]@§7+ Новый Инструмент §8[Ⓒ Сборный Топор У3]
-§7+ New Tool §8[Ⓒ Gathering Axe T5]@§7+ Новый Инструмент §8[Ⓒ Сборный Топор У5]
-§7+ New Tool §8[Ⓒ Gathering Axe T4]@§7+ Новый Инструмент §8[Ⓒ Сборный Топор У4]
-§7+ New Tool §8[Ⓒ Gathering Axe T6]@§7+ Новый Инструмент §8[Ⓒ Сборный Топор У6]
-§7+ New Tool §8[Ⓒ Gathering Axe T7]@§7+ Новый Инструмент §8[Ⓒ Сборный Топор У7]
-§7+ New Tool §8[Ⓒ Gathering Axe T8]@§a+ Новый Инструмент §2[Ⓒ Сборный Топор У8]
-§7+ New Tool §8[Ⓒ Gathering Axe T9]@§a+ Новый Инструмент §2[Ⓒ Сборный Топор У9]
-§7+ New Tool §8[Ⓒ Gathering Axe T10]@§a+ Новый Инструмент §2[Ⓒ Сборный Топор У10]
-§7+ New Tool §8[Ⓒ Gathering Axe T11]@§a+ Новый Инструмент §2[Ⓒ Сборный Топор У11]
-§7+ New Tool §8[Ⓒ Gathering Axe T12]@§a+ Новый Инструмент §2[Ⓒ Сборный Топор У12]
-§7+ New Tool §8[Ⓚ Gathering Rod T2]@§7+ Новый Инструмент §8[Ⓚ Сборная Удочка У2]
-§7+ New Tool §8[Ⓚ Gathering Rod T3]@§7+ Новый Инструмент §8[Ⓚ Сборная Удочка У3]
-§7+ New Tool §8[Ⓚ Gathering Rod T4]@§7+ Новый Инструмент §8[Ⓚ Сборная Удочка У4]
-§7+ New Tool §8[Ⓚ Gathering Rod T5]@§7+ Новый Инструмент §8[Ⓚ Сборная Удочка У5]
-§7+ New Tool §8[Ⓚ Gathering Rod T6]@§7+ Новый Инструмент §8[Ⓚ Сборная Удочка У6]
-§7+ New Tool §8[Ⓚ Gathering Rod T7]@§7+ Новый Инструмент §8[Ⓚ Сборная Удочка У7]
-§7+ New Tool §8[Ⓚ Gathering Rod T8]@§7+ Новый Инструмент §8[Ⓚ Сборная Удочка У8]
-§7+ New Tool §8[Ⓚ Gathering Rod T9]@§7+ Новый Инструмент §8[Ⓚ Сборная Удочка У9]
-§7+ New Tool §8[Ⓚ Gathering Rod T10]@§7+ Новый Инструмент §8[Ⓚ Сборная Удочка У10]
-§7+ New Tool §8[Ⓚ Gathering Rod T11]@§7+ Новый Инструмент §8[Ⓚ Сборная Удочка У11]
-§7+ New Tool §8[Ⓚ Gathering Rod T12]@§7+ Новый Инструмент §8[Ⓚ Сборная Удочка У12]
-§7+ New Tool §8[Ⓙ Gathering Scythe T2]@§7+ Новый Инструмент §8[Ⓙ Сборная Мотыга У2]
-§7+ New Tool §8[Ⓙ Gathering Scythe T3]@§7+ Новый Инструмент §8[Ⓙ Сборная Мотыга У3]
-§7+ New Tool §8[Ⓙ Gathering Scythe T4]@§7+ Новый Инструмент §8[Ⓙ Сборная Мотыга У4]
-§7+ New Tool §8[Ⓙ Gathering Scythe T5]@§7+ Новый Инструмент §8[Ⓙ Сборная Мотыга У5]
-§7+ New Tool §8[Ⓙ Gathering Scythe T6]@§7+ Новый Инструмент §8[Ⓙ Сборная Мотыга У6]
-§7+ New Tool §8[Ⓙ Gathering Scythe T7]@§7+ Новый Инструмент §8[Ⓙ Сборная Мотыга У7]
-§7+ New Tool §8[Ⓙ Gathering Scythe T8]@§7+ Новый Инструмент §8[Ⓙ Сборная Мотыга У8]
-§7+ New Tool §8[Ⓙ Gathering Scythe T9]@§7+ Новый Инструмент §8[Ⓙ Сборная Мотыга У9]
-§7+ New Tool §8[Ⓙ Gathering Scythe T10]@§7+ Новый Инструмент §8[Ⓙ Сборная Мотыга У10]
-§7+ New Tool §8[Ⓙ Gathering Scythe T11]@§7+ Новый Инструмент §8[Ⓙ Сборная Мотыга У11]
-§7+ New Tool §8[Ⓙ Gathering Scythe T12]@§7+ Новый Инструмент §8[Ⓙ Сборная Мотыга У12]
+§7+ New Resource §8[Gravel]@§7+ Новый Ресурс §8[Гравий]
 §7+ Higher Refining Success §8[Unprocessed Copper Ore]@§7+ Шанс на успех при переработке §8[Необработанная Медная Руда]
 §7+ Higher Refining Success §8[Unprocessed Granite Ore]@§7+ Шанс на успех при переработке §8[Необработанная Гранитная Руда]
 §7+ Higher Refining Success §8[Unprocessed Gold Ore]@§7+ Шанс на успех при переработке §8[Необработанная Золотая Руда]
@@ -821,242 +780,311 @@
 §f§lYou've gotten a common§f§l reward!@§f§lТы получил обычную§f§l награду!
 §6§lYou've gotten a epic§6§l reward!@§6§lТы получил эпическую§6§l награду!
 §4§lYou've gotten a §8§k|||§4 black market §8§k|||§4§l reward!@§4§lТы получил §8§k|||§4 черный маркет §8§k|||§4§l награду!
-§fChicken Disguise@§fПеревоплощение в курицу
-§7Disguise yourself as a chicken@§7Перевоплощение себя в курицу
-§dLetter Swirl Effect@§dЭффект вращающихся букв
-§7Create a letters effect around your character@§7Создает эффект вращающихся букв вокруг игрока
-§fPig Disguise@§fМаскировка в свинью
-§7Disguise yourself as a pig@§7Маскировка себя в свинью
-§3You are no longer disguised as a §bpig@§3Ты больше не маскируешься под §bсвинью
-§7Disguise your wand as a golden masterpiece@§7Маскирует твой посох под золотой шедевр
-§7Create a spark effect whenever you hit!@§7Создает эффект искр при ударе!
-§7Give your character the Wet Drip effect@Создает вокруг персонажа эффект мокрых капель
-§7Create a potion effect around your character@Создает вокруг персонажа эффект зелья
-§7Create a cloud effect whenever you hit!@§7Создает эффект облака при ударе!
 §cYou now have an attack effect.@§cВыбран эффект атаки.
 §cYou no longer have any attack effects.@§cУ тебя больше нет эффектов атак.
-§7Disguise your spear with a corrupted flair@§7Маскирует твое копье под стиль порчи
 §7You have disabled your weapon skin.@§7Ты отключил скин для оружия.
 §4Uh oh! You may only upgrade rewards of the same tier...@§4Эх! Ты можешь апгрейдить награды только того же уровня...
 §cYou no longer have any effects.@§cУ тебя нет никаких эффектов.
-§fFire Attack Effect@§fЭффект Атаки Огня
-§7Create a fire effect whenever you hit!@§7Создает эффект огня при атаке!
-§cPhoenix Spear@§cКопье Феникса
-§7Disguise your spear with a fiery flair@§7Замаскируй свое копье огненной способностью
-§dViolet Wybel Token@§dФиолетовый Вубел Жетон
-§7This token can be redeemed for one wybel. Be careful, this item can not be scrapped after use@§7Этот жетон можно обменять на одного вубела. Будь осторожен, его нельзя будет утилизировать после использования
-§3You now have a §bViolet Wybel@§3Теперь у тебя есть §bФиолетовый Вубел
+§7This token can be redeemed for one wybel. Be careful, this item can not be scrapped after use@§7Этот жетон можно обменять на одного вубеля. Будь осторожен, его нельзя будет утилизировать после использования
+§7This token can be redeemed for one cybel. Be careful, this item can not be scrapped after use@§7Этот жетон можно обменять на одного кубеля. Будь осторожен, его нельзя будет утилизировать после использования
 §bYou can spawn it using /pets@§bТы можешь заспавнить его через /pets
-§fLetter Attack Effect@§fЭффект букв
-§7Create a Letter effect whenever you hit!@§7Создает эффект букв при ударе!
-§fCloud Attack Effect@§fЭффект Облака
-§6Corrupted Spear@§6Испорченное Копье
-§fWet Drip Effect@§fЭффект Мокрых Капель
-§fPotion Swirl Effect@§fЭффект Вихря Зелий
-§fSpark Attack Effect@§fЭффект Искр
-§cBone Wings Effect@§cЭффект Костлявых Крыльев
-§7Give your character bone wings@§7Дает твоему персонажу костлявые крылья
-§4Amadel Effect@§4Эффект Амаделя
-§7Give your character the Amadel effect@§7Дает твоему персонажу эффект Амаделя
-§cFairy Wings Effect@§cЭффект Сказочных Крыльев
-§7Give your character fairy wings@§7Дает твоему персонажу эффект сказочных крыльев
-§6Golden Wand@§6Золотой Посох
-§dSteampunk Sword@§dСтимпанк Меч
-§7Disguise your spear with a steampunk flair@Маскирует твое копье под стиль стимпанк
-§fSheep Disguise@§fМаскировка в овцу
-§7Disguise yourself as a sheep@§7Маскировка себя под овцу
-§3You are now disguised as a §bsheep@§3Ты замаскировался в §bовцу
 §2You now have a §azombie horse@§2Теперь у тебя §aзомби лошадь
 §2You now have a regular horse@§2Теперь у тебя обычная лошадь
-§7Disguise your bow as a piece of food@§7Замаскируй свой лук под кусок еды
-§fEmerald Swirl Effect@§fЭффект эмеральдного вихря
-§7Create a emerald effect around your character@§7Создает эффект эмеральдов вокруг персонажа
-§3You are now disguised as a §bchicken@§3Ты замаскировался под §bкурицу
-§3You are no longer disguised as a §bchicken@§3Ты больше не маскируешься под §bкурицу
-§dSteampunk Dagger@§dСтимпанк Кинжал
-§7Disguise your dagger with a steampunk flair@Маскирует твой кинжал под стиль стимпанк
-§3You are now disguised as a §bspider@§3Ты замаскировался под §bпаука
-§dSpider Disguise@§dМаскировка в паука
-§7Disguise yourself as a spider@§7Маскировка себя под паука
+§2You now have a §askeleton horse@§2Теперь у тебя §aлошадь скелет
 §dCandle Staff@§dОружие Свеча
-§7Disguise your staff as a candle@§7Маскирует твое оружие под свечу
-§fSlime Effect@§fЭффект Слайма
-§fGray Wybel Token@§fСерый Вубел Жетон
+§dFrying Pan@§dСковорода
+§7Great if you want your enemies scrambled or fried!@§7Хороша, если ты хочешь прожарить своих врагов!
+§aYou've scrapped...@§aТы утилизировал и получил...
+§6Hand Cannon@§6Ручная Пушка
+§6Banana Sword@§6Банан Меч
+§4You don't have any pets...@§4У тебя нет никаких питомцев...
+§7You have set your helmet skin to Adventurer's Hat@§7Ты установил в качестве своего скин шлема Шапку Путешественника
+§6Skeleton Horse Cloak@§6Скелетон Плащ для Коня
+§dZombie Horse Cloak@§dЗомби Плащ Для Коня
+§6Corrupted Spear@§6Испорченное Копье
+§6Corrupted Dagger@§6Испорченный Кинжал
+§6Corrupted Wand@§6Испорченный Посох
+§6Futuristic Bow@§6Футуристический Лук
+§6Futuristic Dagger@§6Футуристический Кинжал
+§6Futuristic Spear@§6Футуристическое Копье
+§6Futuristic Wand@§6Футуристический Посох
+§6Futuristic Relik@§6Футуристический Релик
+§6Fellowship Bow@§6Лук Дружбы
+§6Fellowship Wooden Wand@§6Деревянный Посох Дружбы
+§6Fellowship Dagger@§6Кинжал Дружбы
+§6Fellowship Dark Wand@§6Темный Посох Дружбы
+§6Fellowship Relik@§6Релик Дружбы
+§cPhoenix Spear@§cКопье Феникса
+§cPhoenix Dagger@§cКинжал Феникса
+§cPhoenix Wand@§cПосох Феникса
+§cPhoenix Bow@§cЛук Феникса
+§6Golden Wand@§6Золотой Посох
+§6Golden Spear@§6Золотое Копье
+§6Golden Bow@§6Золотой Лук
+§6Golden Dagger@§6Золотой Кинжал
+§6Golden Relik@§6Золотой Релик
+§dSteampunk Sword@§dСтимпанк Меч
+§dSteampunk Dagger@§dСтимпанк Кинжал
+§dSteampunk Bow@§dСтимпанк Лук
+§dSteampunk Wand@§dСтимпанк Посох
+§dSteampunk Relik@§dСтимпанк Релик
+§3You now have a §bViolet Wybel@§3Теперь у тебя есть §bФиолетовый Вубел
 §3You now have a §bGray Wybel@§3Теперь у тебя есть §bСерый Вубел
+§3You now have a §bWhite Wybel@§3Теперь у тебя есть §bБелый Вубел
+§3You now have a §bCream Wybel@§3Теперь у тебя есть §bКремовый Вубел
+§3You now have a §bMint Wybel@§3Теперь у тебя есть §bМятный Вубел
+§3You now have a §bPink Wybel@§3Теперь у тебя есть §bРозовый Вубел
+§3You now have a §bChocolate Wybel@§3Теперь у тебя есть §bШоколадный Вубел
+§3You now have a §bOrange Wybel@§3Теперь у тебя есть §bОранжевый Вубел
+§3You now have a §bSky Blue Wybel@§3Теперь у тебя есть §bГолубой Вубел
+§3You now have a §bSea Blue Wybel@§3Теперь у тебя есть §bМорской Вубел
+§3You now have a §bChrome Cybel@§3Теперь у тебя есть §bХромовый Кубел
+§3You now have a §bBronze Cybel@§3§3Теперь у тебя есть §bБронзовый Кубел
+§3You now have a §bOrange Cybel@§3Теперь у тебя есть §bОранжевый Кубел
+§3You now have a §bCarbon Fiber Cybel@§3Теперь у тебя есть §bКарбоновый Кубел
+§3You now have a §bAngel Wybel@§3Теперь у тебя есть §bВубел Ангел
+§7Give your character the Wet Drip effect@Создает вокруг персонажа эффект мокрых капель
+§7Give your character the Amadel effect@§7Дает твоему персонажу эффект Амаделя
+§7Give your character the Witch Brew effect@§7Дает втоему персонажу эффект зелья ведьмы
+§7Give your character a fairy companion@§7Дает твоему персонажу фею компаньона
+§7Give your character bone wings@§7Дает твоему персонажу костлявые крылья
+§7Give your character fairy wings@§7Дает твоему персонажу эффект сказочных крыльев
+§7Give your character angel wings@§7Дает твоему персонажу крылья ангела
+§7Give your character demon wings@§7Дает твоему персонажу крылья демона
+§7Give your character phoenix wings@§7Дает твоему персонажу крылья феникса
+§7Give your character a dragon-like appearance@§7Дает твоему персонажу драконоподобный внешний вид
+§7Give your character a bovemist appearance@§7Дает твоему персонажу внешний вид бовемиста
+§7Give your character a king appearance@§7Дает твоему персонажу внешний вид короля
+§7Give your character an anti-bovemist appearance@§7Дает твоему персонажу внешний вид анти-бовемиста
+§fGray Wybel Token@§fСерый Вубел Жетон
+§fWhite Wybel Token@§fБелый Вубел Жетон
+§fCream Wybel Token@§fКремовый Вубел Жетон
+§fChocolate Wybel Token@§fШоколадный Вубел Жетон
+§cOrange Wybel Token@§cОранжевый Вубел Жетон
+§cOrange Cybel Token@§cОранжевый Кубел Жетон
+§6Sky Blue Wybel Token@§6Голубой Вубел Жетон
+§6Sea Blue Wybel Token@§6Морской Вубел Жетон
+§6Carbon Fiber Cybel Token@§6Карбоновый Кубел Жетон
+§6Chrome Cybel Token@§6Хромовый Кубел Жетон
+§6Bronze Cybel Token@§6Бронзовый Кубел Жетон
+§dViolet Wybel Token@§dФиолетовый Вубел Жетон
+§dMint Wybel Token@§dМятный Вубел Жетон
+§dPink Wybel Token@§dРозовый Вубел Жетон
 §dFood Wand@Рыба-меч Посох
 §dFood Spear@Шашлык Копье
 §dFood Dagger@Куриная Ножка Кинжал
 §dFood Bow@Лук Банан
-§7Disguise your wand as a piece of food@Замаскируй свой посох под кусок еды
-§3You are now disguised as a §bpig@§3Ты замаскировался под §bсвинью
-§dAir Aura Effect@§dЭффект Ауры Воздуха
-§7Create a air aura effect around your character@§7Создает эффект воздушной ауры вокруг персонажа
-§dFrying Pan@§dСковорода
-§7Great if you want your enemies scrambled or fried!@§7Хороша, если ты хочешь прожарить своих врагов!
-§dMusic Swirl Effect@§dЭффект Круговорота Музыки
-§7Create a music effect around your character@§7Создает эффект музыки вокруг персонажа
-§dSteampunk Bow@§dСтимпанк Лук
-§7Disguise your bow with a steampunk flair@§7Маскирует твой лук под стимпанк стиль
-§fWitch Brew Effect@§fЭффект Зелья Ведьмы
-§7Give your character the Witch Brew effect@§7Дает втоему персонажу эффект зелья ведьмы
-§fMagic Swirl Effect@§fЭффект Магического Круговорота
-§7Create a magic effect around your character@§7Создает эффект магии вокруг персонажа
-§3You now have a §bWhite Wybel@§3Теперь у тебя есть §bБелый Вубел
-§fFire Swirl Effect@§fЭффект Круговорота Огня
-§7Create a fire effect around your character@§7Создает эффект огня вокруг персонажа
-§fWhite Wybel Token@§fБелый Вубел Жетон
-§aYou've scrapped...@§aТы утилизировал...
-§aA §dRare Letter Swirl Effect§a!@§dРедкий Эффект Водоворота Букв§a!
-§aA §6Epic Golden Bow§a!@§aA §6Эпический Золотой Лук§a!
-§fCream Wybel Token@§fКремовый Вубел Жетон
-§3You now have a §bCream Wybel@§3Теперь у тебя есть §bКремовый Вубел
-§6Hand Cannon@§6Ручная Пушка
-§7Disguise your bow with a corrupted flair@§7Маскирует твой лук под стиль порчи
-§dSteampunk Wand@§dСтимпанк Посох
-§7Disguise your wand with a steampunk flair@§7Маскирует твой посох под стимпанк стиль
-§fSmoke Swirl Effect@§fЭффект Кругворота Дыма
-§7Create a smoke effect around your character@§7Создает эффект дыма вокруг персонажа
-§dHeart Swirl Effect@§dЭффект Круговорота Сердец
-§7Create a heart effect around your character@§7Создает эффект сердечек вокруг персонажа
-§dTornado Effect@§dЭффект Торнадо
-§7Create a tornado effect around your character@§7Создает эффект торнадо вокруг персонажа
-§dZombie Horse Cloak@§dЗомби Плащ Для Коня
-§7Disguise your horses into a zombie beast@§7Маскирует твою лошадь под зомби зверя
-§fEmerald Attack Effect@§fЭмеральдный Эффект Атаки
-§7Create a Emerald effect whenever you hit!@§7Создает эффект эмеральдов при атаке!
-§dCreeper Disguise@§dКрипер Маскировка
-§7Disguise yourself as a creeper@§7Замаскируй себя под крипера
-§3You are now disguised as a §bcreeper@§3Ты замаскировался под §bкрипера
-§cOzoth Effect@§cОзот Эффект
-§7Give your character a dragon-like appearance@§7Дает твоему персонажу драконоподобный внешний вид
-§dMint Wybel Token@§dМятный Вубел Жетон
-§3You now have a §bMint Wybel@§3Теперь у тебя есть §bМятный Вубел
-§aA §dRare Lava Attack Effect§a!@§aA §dРедкий Эффект Атаки Лавы§a!
-§aA §dRare Food Wand§a!@§aA §dРедкий Рыба-меч Посох§a!
-§aA §6Epic Half-Moon Spear§a!@§aA §6Редкое Полу-месяц Копье§a!
-§fCloud Swirl Effect@§fЭффект Водворота Облаков
-§7Create a cloud effect around your character@§7Создает эффект облаков вокруг персонажа
-§aA §dRare Water Effect§a!@§aA §dРедкий Эффект Воды§a!
-§aA §dRare Zombie Horse Cloak§a!@§aA §dРедкий Зомби Плащ Для Коня§a!
-§fRedstone Swirl Effect@§fЭффект Редстоун Круговорта
-§7Create a redstone effect around your character@§7Создает редстоун эффект вокруг персонажа
-§dLava Attack Effect@§dЭффект Лава Атаки
-§7Create a lava effect whenever you hit!@§7Создает эффект лавы при ударе!
-§7Disguise your spear as a piece of food@Маскирует твое копье под кусок еды
-§dFire Effect@§dЭффект Огня
-§7Create an fire effect around your character@§7Создает эффект огня вокруг персонажа
-§dPigman Disguise@§dПигмен Маскировка
-§7Disguise yourself as a pigman@§7Маскировка себя под пигмена
-§aA §dRare Thunder Effect§a!@§aA §dРедкий Эффект Грома§a!
-§aA §dRare Steampunk Dagger§a!@§aA §dРедкий Стимпанк Кинжал§a!
-§aA §6Epic Half-Moon Bow§a!@§aA §6Эпический Полу-месяц Лук§a!
-§6Corrupted Dagger@§6Испорченный Кинжал
-§7Disguise your dagger with a corrupted flair@§7Маскирует твой кинжал под стиль порчи
-§6Banana Sword@§6Банан Меч
-§7Disguise your dagger/spear as a banana sword@§7Маскирует твой кинжал/трезубец под меч-банан
-§aA §6Epic Golden Spear§a!@§aA §6Эпическое Золотое Копье§a!
-§6Ripple Effect@§6Эффект Пульсации
-§7Create a ripple effect around your character@§7Создает эффект пульсации вокруг персонажа
-§fCow Disguise@§fКоровья Маскировка
-§7Disguise yourself as a cow@§7Маскировка себя в корову
-§3You are now disguised as a §bcow@§3Ты замаскировался под §bкорову
-§dThunder Effect@§dЭффект Грома
-§3You are now disguised as a §bpigman@§3Ты замаскировался под §bпигмена
-§3You are no longer disguised as a §bspider@§3Ты больше не маскируешься под §bпаука
-§cPhoenix Dagger@§cКинжал Феникса
-§7Disguise your dagger with a fiery flair@Замаскируй свое копье огненной способностью
-§3You are now disguised as a §bzombie@§3Ты замаскировался под §bзомби
-§3You are no longer disguised as a §bsheep@§3Ты больше не маскируешься под §bовцу
-§3You are no longer disguised as a §bzombie@§3Ты больше не маскируешься под §bзомби
-§dEarth Effect@Эффект Земли
-§7Create an earth effect around your character@§7Создает эффект земли вокруг персонажа
-§dZombie Disguise@§dЗомби Маскировка
-§7Disguise yourself as a zombie@§7Замаскируй себя под зомби
-§3You are no longer disguised as a §bpigman@Ты больше не маскируешься под §bпигмена
-§dWater Effect@§dЭффект Воды
-§7Create an water effect around your character@§7Создает эффект воды вокруг персонажа
-§3You are no longer disguised as a §bcow@§3Ты больше не маскируешься под §bкорову
+§dFood Relik@§dБрокколи Релик
+§cDern Spear@§cДерн Копье
+§cDern Bow@§cДерн Лук
+§cDern Wand@§cДерн Посох
 §6Half-Moon Bow@§6Полу-месяц Лук
-§7Disguise your bow with a lunar flair@Маскирует твой лук под лунный стиль
-§aA §dRare Spider Disguise§a!@§aA §dРедкая Паучья Маскировка§a!
-§fChocolate Wybel Token@§fШоколадный Вубел Жетон
-§dPink Wybel Token@§dРозовый Вубел Жетон
-§3You now have a §bPink Wybel@§3Теперь у тебя есть §bРозовый Вубел
-§aA §dRare Steampunk Wand§a!@§aA §dРедкий Стимпанк Посох§a!
-§3You now have a §bChrome Cybel@§3Теперь у тебя есть §bХромовый Кубел
-§6Chrome Cybel Token@§6Хромовый Кубел Жетон
-§7This token can be redeemed for one cybel. Be careful, this item can not be scrapped after use@§7Этот жетон можно обменять на одного кубела. Осторожнее, этот предмет не может быть утилизирован после использования
-§4You don't have any pets...@§4У тебя нет никаких питомцев...
-§6Futuristic Bow@§6Футуристический Лук
-§7Disguise your bow with a futuristic flair@§7Маскирует твой лук под футуристический стиль
-§aA §cGodly Ozoth Effect§a!@§cБожественный Эффект Озот§a!
-§3You now have a §bChocolate Wybel@§3Теперь у тебя есть §bШоколадный Вубел
-§7Disguise your dagger as a piece of food@§7Максирует твой кинжал под кусок еды
-§7You have set your helmet skin to Adventurer's Hat@§7Ты установил в качестве своего скин шлема Шапку Путешественника
-§6Storm Effect@§6Эффект Шторма
-§7Create a storm effect around your character@§7Создает эффект шторма вокруг персонажа
-§6Corrupted Wand@§6Испорченный Посох
-§7Disguise your wand with a corrupted flair@§7Маскирует твой посох под стиль порчи
-§6Bovemist Effect@§6Эффект Бовемиста
-§7Give your character a bovemist appearance@§7Дает твоему персонажу внешний вид бовемиста
-§6Pentagram Effect@§6Эффект пентаграммы
-§7Create a pentagram effect around your character@§7Создает эффект пентаграммы вокруг персонажа
-§cAngels Wings Effect@§cЭффект Крыльев Ангела
-§7Give your character angel wings@§7Дает твоему персонажу крылья ангела
-§6Golden Spear@§6Золотое Копье
-§7Disguise your spear as a golden masterpiece@§7Маскирует твое копье под золотой шедевр
-§aA §dRare Mint Wybel Token§a!@§dРедкий Мятный Вубел Жетон§a!
-§6Golden Bow@§6Золотой Лук
-§7Disguise your bow as a golden masterpiece@§7Маскирует твой лук под золотой шедевр
-§6Floating Fairy Effect@§6Эффект Крыльев Феи
-§7Give your character a fairy companion@§7Дает твоему персонажу фею компаньона
-§aA §dRare Frying Pan§a!@§dРедкая Сковорода§a!
-§aA §dRare Air Aura Effect§a!@§dРедкий Эффект Ауры Воздуха§a!
-§aA §dRare Food Dagger§a!@§dРедкий Кинжал Куриная Ножка§a!
-§cKing Effect@§cЭффект Короля
-§7Give your character a king appearance@§7Дает твоему персонажу внешний вид короля
 §6Half-Moon Dagger@§6Полу-месяц Кинжал
-§7Disguise your dagger with a lunar flair@§7Маскирует твой кинжал под лунный стиль
-§6Anti-Bovemist Effect@§6Эффект Анти-Бовемиста
-§7Give your character an anti-bovemist appearance@§7Дает твоему персонажу внешний вид анти-бовемиста
-§6Golden Dagger@§6Золотой Кинжал
-§7Disguise your dagger as a golden masterpiece@§7Маскирует твой кинжал под золотой шедевр
-§6Bronze Cybel Token@§6Бронзовый Кубел Жетон
-§3You now have a §bBronze Cybel@§3§3Теперь у тебя есть §bБронзовый Кубел
-§aA §6Epic Fellowship Wooden Wand§a!@§6Эпический Деревянный Посох Дружбы§a!
-§6Futuristic Dagger@§6Футуристический Кинжал
-§7Disguise your dagger with a futuristic flair@§7Маскирует твой кинжал под футуристический стиль
 §6Half-Moon Wand@§6Полу-месяц Посох
-§7Disguise your wand with a lunar flair@§7Маскирует твой посох под лунный стиль
-§6Skeleton Horse Cloak@§6Скелетон Плащ для Коня
-§7Disguise your horses into a skeletal beast@§7Маскирует твою лошадь под скелет зверя
-§aA §dRare Pigman Disguise§a!@§dРедкая Пигмен Маскировка§a!
+§6Half-Moon Spear@§6Полу-месяц Копье
+§dLetter Swirl Effect@§dЭффект вращающихся букв
+§fFire Attack Effect@§fЭффект Атаки Огня
+§fLetter Attack Effect@§fЭффект букв
+§fCloud Attack Effect@§fЭффект Облака
+§fWet Drip Effect@§fЭффект Мокрых Капель
+§fPotion Swirl Effect@§fЭффект Вихря Зелий
+§fSpark Attack Effect@§fЭффект Искр
+§cBone Wings Effect@§cЭффект Костлявых Крыльев
+§4Amadel Effect@§4Эффект Амаделя
+§cFairy Wings Effect@§cЭффект Сказочных Крыльев
+§fEmerald Swirl Effect@§fЭффект эмеральдного вихря
+§fSlime Effect@§fЭффект Слайма
+§dAir Aura Effect@§dЭффект Ауры Воздуха
+§dMusic Swirl Effect@§dЭффект Круговорота Музыки
+§fWitch Brew Effect@§fЭффект Зелья Ведьмы
+§fMagic Swirl Effect@§fЭффект Магического Круговорота
+§fFire Swirl Effect@§fЭффект Круговорота Огня
+§fSmoke Swirl Effect@§fЭффект Кругворота Дыма
+§dHeart Swirl Effect@§dЭффект Круговорота Сердец
+§dTornado Effect@§dЭффект Торнадо
+§fEmerald Attack Effect@§fЭмеральдный Эффект Атаки
+§cOzoth Effect@§cОзот Эффект
+§fCloud Swirl Effect@§fЭффект Водворота Облаков
+§fRedstone Swirl Effect@§fЭффект Редстоун Круговорта
+§dLava Attack Effect@§dЭффект Лава Атаки
+§dFire Effect@§dЭффект Огня
+§6Ripple Effect@§6Эффект Пульсации
+§dThunder Effect@§dЭффект Грома
+§dEarth Effect@Эффект Земли
+§dWater Effect@§dЭффект Воды
+§6Storm Effect@§6Эффект Шторма
+§6Bovemist Effect@§6Эффект Бовемиста
+§6Pentagram Effect@§6Эффект пентаграммы
+§cAngels Wings Effect@§cЭффект Крыльев Ангела
+§6Floating Fairy Effect@§6Эффект Крыльев Феи
+§cKing Effect@§cЭффект Короля
+§6Anti-Bovemist Effect@§6Эффект Анти-Бовемиста
+§cDemon Wings Effect@§cЭффект Крыльев Демона
+§cPhoenix Wings Effect@§cЭффект Крыльев Феникса
+§7Create a spark effect whenever you hit!@§7Создает эффект искр при ударе!
+§7Create a cloud effect whenever you hit!@§7Создает эффект облака при ударе!
+§7Create a fire effect whenever you hit!@§7Создает эффект огня при атаке!
+§7Create a Letter effect whenever you hit!@§7Создает эффект букв при ударе!
+§7Create a Emerald effect whenever you hit!@§7Создает эффект эмеральдов при атаке!
+§7Create a lava effect whenever you hit!@§7Создает эффект лавы при ударе!
+§7Create an fire effect around your character@§7Создает эффект огня вокруг персонажа
+§7Create an earth effect around your character@§7Создает эффект земли вокруг персонажа
+§7Create an water effect around your character@§7Создает эффект воды вокруг персонажа
+§7Create a letters effect around your character@§7Создает эффект вращающихся букв вокруг игрока
+§7Create a potion effect around your character@Создает вокруг персонажа эффект зелья
+§7Create a emerald effect around your character@§7Создает эффект эмеральдов вокруг персонажа
+§7Create a air aura effect around your character@§7Создает эффект воздушной ауры вокруг персонажа
+§7Create a music effect around your character@§7Создает эффект музыки вокруг персонажа
+§7Create a magic effect around your character@§7Создает эффект магии вокруг персонажа
+§7Create a fire effect around your character@§7Создает эффект огня вокруг персонажа
+§7Create a smoke effect around your character@§7Создает эффект дыма вокруг персонажа
+§7Create a heart effect around your character@§7Создает эффект сердечек вокруг персонажа
+§7Create a tornado effect around your character@§7Создает эффект торнадо вокруг персонажа
+§7Create a cloud effect around your character@§7Создает эффект облаков вокруг персонажа
+§7Create a redstone effect around your character@§7Создает редстоун эффект вокруг персонажа
+§7Create a ripple effect around your character@§7Создает эффект пульсации вокруг персонажа
+§7Create a storm effect around your character@§7Создает эффект шторма вокруг персонажа
+§7Create a pentagram effect around your character@§7Создает эффект пентаграммы вокруг персонажа
+§fChicken Disguise@§fПеревоплощение в курицу
+§fPig Disguise@§fМаскировка в свинью
+§fSheep Disguise@§fМаскировка в овцу
+§dSpider Disguise@§dМаскировка в паука
+§dCreeper Disguise@§dКрипер Маскировка
+§dPigman Disguise@§dПигмен Маскировка
+§fCow Disguise@§fКоровья Маскировка
+§dZombie Disguise@§dЗомби Маскировка
+§4Frosty Bow@§4Морозный Лук
+§6Pirate Spear@§6Копье Пирата
+§6Pirate Wand@§6Посох Пирата
+§6Pirate Hook@§6Крюк Пирата
+§aA §8§k|||§4 Black Market §8§k|||§4 Frosty Relik§a!@§8§k|||§4 Черный Маркет §8§k|||§4 Морозный Релик§a!
+§aA §8§k|||§4 Black Market §8§k|||§4 Angel Wybel Token§a!@§8§k|||§4 Черный Маркет §8§k|||§4 Ангел Вубел Жетон§a!
+§aA §6Epic Golden Bow§a!@§aA §6Эпический Золотой Лук§a!
+§aA §6Epic Half-Moon Spear§a!@§aA §6Редкое Полу-месяц Копье§a!
+§aA §6Epic Half-Moon Bow§a!@§aA §6Эпический Полу-месяц Лук§a!
+§aA §6Epic Golden Spear§a!@§aA §6Эпическое Золотое Копье§a!
+§aA §6Epic Fellowship Wooden Wand§a!@§6Эпический Деревянный Посох Дружбы§a!
 §aA §6Epic Futuristic Spear§a!@§6Эпическое Футуристичное Копье§a!
 §aA §6Epic Banana Sword§a!@§6Эпический Меч Банан§a!
 §aA §6Epic Half-Moon Dagger§a!@§6Эпический Полу-Месяц Кинжал§a!
-§aA §cGodly Phoenix Wand§a!@§cБожественный Посох Феникса§a!
 §aA §6Epic Sea Blue Wybel Token§a!@§6Эпический Морской Вубел Жетон§a!
+§aA §6Epic Chrome Cybel Token§a!@§6Эпический Хромовый Кубел Жетон§a!
+§aA §6Epic Golden Dagger§a!@§6Эпический Золотой Кинжал§a!
+§aA §6Epic Corrupted Spear§a!@§6Эпическое Испорченное Копье§a!
+§aA §6Epic Futuristic Wand§a!@§6Эпический Футуристический Посох§a!
+§aA §6Epic Fellowship Dark Wand§a!@§6Эпический Темный Посох Дружбы§a!
+§aA §6Epic Pentagram Effect§a!@§6Эпический Эффект Пентаграммы§a!
+§aA §6Epic Fellowship Relik§a!@§6Эпический Релик Дружбы§a!
+§aA §6Epic Half-Moon Relik§a!@§6Эпический Полу-Месяц Релик§a!
+§aA §6Epic Carbon Fiber Cybel Token§a!@§6Эпический Карбоновый Кубел Жетон§a!
+§aA §6Epic Futuristic Dagger§a!@§6Эпический Футуристический Кинжал§a!
+§aA §6Epic Futuristic Relik§a!@§6Эпический Футуристический Релик§a!
+§aA §6Epic Corrupted Relik§a!@§6Эпический Испорченный Релик§a!
+§aA §cGodly Ozoth Effect§a!@§cБожественный Эффект Озот§a!
+§aA §cGodly Phoenix Wand§a!@§cБожественный Посох Феникса§a!
+§aA §cGodly Phoenix Dagger§a!@§cБожественный Кинжал Феникса§a!
+§aA §cGodly Phoenix Relik§a!@§cБожественный Релик Феникса§a!
+§aA §cGodly Phoenix Spear§a!@§cБожественное Копье Феникса§a!
+§aA §cGodly Fairy Wings Effect§a!@§cБожественный Эффект Сказочных Крыльев§a!
+§aA §cGodly Dern Dagger§a!@§cБожественный Дерн Кинжал§a!
+§aA §cGodly Dern Wand§a!@§cБожественный Дерн Посох§a!
+§aA §dRare Letter Swirl Effect§a!@§dРедкий Эффект Водоворота Букв§a!
+§aA §dRare Lava Attack Effect§a!@§aA §dРедкий Эффект Атаки Лавы§a!
+§aA §dRare Food Wand§a!@§aA §dРедкий Рыба-меч Посох§a!
+§aA §dRare Water Effect§a!@§aA §dРедкий Эффект Воды§a!
+§aA §dRare Zombie Horse Cloak§a!@§aA §dРедкий Зомби Плащ Для Коня§a!
+§aA §dRare Thunder Effect§a!@§aA §dРедкий Эффект Грома§a!
+§aA §dRare Steampunk Dagger§a!@§aA §dРедкий Стимпанк Кинжал§a!
+§aA §dRare Spider Disguise§a!@§aA §dРедкая Паучья Маскировка§a!
+§aA §dRare Steampunk Wand§a!@§aA §dРедкий Стимпанк Посох§a!
+§aA §dRare Mint Wybel Token§a!@§dРедкий Мятный Вубел Жетон§a!
+§aA §dRare Frying Pan§a!@§dРедкая Сковорода§a!
+§aA §dRare Air Aura Effect§a!@§dРедкий Эффект Ауры Воздуха§a!
+§aA §dRare Food Dagger§a!@§dРедкий Кинжал Куриная Ножка§a!
+§aA §dRare Pigman Disguise§a!@§dРедкая Пигмен Маскировка§a!
 §aA §dRare Creeper Disguise§a!@§dРедкая Маскировка в Крипера§a!
 §aA §dRare Candle Staff§a!@§dРедкое Оружие Свеча§a!
-§cOrange Wybel Token@§cОранжевый Вубел Жетон
-§3You now have a §bOrange Wybel@§3Теперь у тебя есть §bОранжевый Вубел
-§cDemon Wings Effect@§cЭффект Крыльев Демона
-§7Give your character demon wings@§7Дает твоему персонажу крылья демона
-§6Fellowship Bow@§6Лук Дружбы
-§7Disguise your bow with a adventurous flair@§7Маскирует твой лук под стиль приключений
-§aA §cGodly Phoenix Dagger§a!@§cБожественный Кинжал Феникса
-§6Fellowship Wooden Wand@§6Деревянный Посох Дружбы
-§cDern Spear@§cДерн Копье
-§7Disguise your spear with a dark flair@§7Маскирует твое копье под темный стиль
 §aA §dRare Steampunk Bow§a!@§dРедкий Стимпанк Лук
-§6Sky Blue Wybel Token@§6Голубой Вубел Жетон
-§3You now have a §bSky Blue Wybel@§3Теперь у тебя есть §bГолубой Вубел
-§6Fellowship Dagger@§6Кинжал Дружбы
-§7Disguise your dagger with a adventurous flair@§7Маскирует твой кинжал под стиль приключений
-§6Fellowship Dark Wand@§6Темный Посох Дружбы
-§7Disguise your wand with a adventurous flair@§7Маскирует твой посох под стиль приключений
-§cDern Bow@§cДерн Лук
+§aA §dRare Fire Effect§a!@§dРедкий Эффект Огня§a!
+§aA §dRare Food Spear§a!@§dРедкое Шашлык Копье§a!
+§aA §dRare Pink Wybel Token§a!@§dРедкий Розовый Вубел Жетон§a!
+§aA §dRare Music Swirl Effect§a!@§dРедкий Эффект Круговорота Музыки§a!
+§aA §dRare Earth Effect§a!@§dРедкий Эффект Земли§a!
+§aA §dRare Steampunk Sword§a!@§dРедкий Стимпанк Меч§a!
+§aA §dRare Heart Swirl Effect§a!@§dРедкий Эффект Круговорота Сердец§a!
+§aA §dRare Violet Wybel Token§a!@§dРедкий Фиолетовый Вубел Жетон§a!
+§aA §dRare Steampunk Relik§a!@§dРедкий Стимпанк Релик§a!
+§3You are now disguised as a §bsheep@§3Ты замаскировался в §bовцу
+§3You are now disguised as a §bchicken@§3Ты замаскировался под §bкурицу
+§3You are now disguised as a §bspider@§3Ты замаскировался под §bпаука
+§3You are now disguised as a §bpig@§3Ты замаскировался под §bсвинью
+§3You are now disguised as a §bcreeper@§3Ты замаскировался под §bкрипера
+§3You are now disguised as a §bcow@§3Ты замаскировался под §bкорову
+§3You are now disguised as a §bpigman@§3Ты замаскировался под §bпигмена
+§3You are now disguised as a §bzombie@§3Ты замаскировался под §bзомби
+§3You are no longer disguised as a §bpig@§3Ты больше не маскируешься под §bсвинью
+§3You are no longer disguised as a §bchicken@§3Ты больше не маскируешься под §bкурицу
+§3You are no longer disguised as a §bspider@§3Ты больше не маскируешься под §bпаука
+§3You are no longer disguised as a §bsheep@§3Ты больше не маскируешься под §bовцу
+§3You are no longer disguised as a §bzombie@§3Ты больше не маскируешься под §bзомби
+§3You are no longer disguised as a §bpigman@Ты больше не маскируешься под §bпигмена
+§3You are no longer disguised as a §bcow@§3Ты больше не маскируешься под §bкорову
+§3You are no longer disguised as a §bcreeper@§3Ты больше не маскируешься под §bкрипера
+§7Disguise your staff as a candle@§7Маскирует твое оружие под свечу
+§7Disguise your horses into a zombie beast@§7Маскирует твою лошадь под зомби зверя
+§7Disguise your horses into a skeletal beast@§7Маскирует твою лошадь под скелет зверя
+§7Disguise yourself as a chicken@§7Маскировка себя в курицу
+§7Disguise yourself as a pig@§7Маскировка себя в свинью
+§7Disguise yourself as a sheep@§7Маскировка себя под овцу
+§7Disguise yourself as a spider@§7Маскировка себя под паука
+§7Disguise yourself as a creeper@§7Маскировка себя под крипера
+§7Disguise yourself as a pigman@§7Маскировка себя под пигмена
+§7Disguise yourself as a cow@§7Маскировка себя в корову
+§7Disguise yourself as a zombie@§7Маскировка себя под зомби
+§7Disguise your relik as a piece of food@§7Маскирует твой релик под кусок еды
+§7Disguise your relik with a steampunk flair@§7Маскирует твой релик под стимпанк стиль
+§7Disguise your relik as a golden masterpiece@§7Маскирует твой релик под золотой шедевр
+§7Disguise your relik with a adventurous flair@§7Маскирует твой релик под стиль приключений
+§7Disguise your relik with a futuristic flair@§7Маскирует твой релик под футуристический стиль
+§7Disguise your bow as a piece of food@§7Маскирует твой лук под кусок еды
+§7Disguise your bow with a steampunk flair@§7Маскирует твой лук под стимпанк стиль
+§7Disguise your bow with a corrupted flair@§7Маскирует твой лук под стиль порчи
+§7Disguise your bow with a lunar flair@Маскирует твой лук под лунный стиль
+§7Disguise your bow with a futuristic flair@§7Маскирует твой лук под футуристический стиль
+§7Disguise your bow as a golden masterpiece@§7Маскирует твой лук под золотой шедевр
+§7Disguise your bow with a adventurous flair@§7Маскирует твой лук под стиль приключений
 §7Disguise your bow with a dark flair@§7Маскирует твой лук под темный стиль
+§7Disguise your bow with a fiery flair@§7Маскирует твой лук под огненный стиль
+§7Disguise your bow as a frosty masterpiece@§7Маскирует твой лук под ледяной шедевр
+§7Disguise your wand as a golden masterpiece@§7Маскирует твой посох под золотой шедевр
+§7Disguise your wand as a piece of food@§7Маскирует твой посох под кусок еды
+§7Disguise your wand as a map of our world@§7Маскирует твой посох под карту мира
+§7Disguise your wand with a steampunk flair@§7Маскирует твой посох под стимпанк стиль
+§7Disguise your wand with a corrupted flair@§7Маскирует твой посох под стиль порчи
+§7Disguise your wand with a lunar flair@§7Маскирует твой посох под лунный стиль
+§7Disguise your wand with a adventurous flair@§7Маскирует твой посох под стиль приключений
+§7Disguise your wand with a futuristic flair@§7Маскирует твой посох под футуристический стиль
+§7Disguise your wand with a dark flair@§7Маскирует твой посох под темный стиль
+§7Disguise your wand with a fiery flair@§7Замаскируй свой посох огненной способностью
+§7Disguise your spear with a corrupted flair@§7Маскирует твое копье под стиль порчи
+§7Disguise your spear with a fiery flair@§7Замаскируй свое копье огненной способностью
+§7Disguise your spear with a steampunk flair@Маскирует твое копье под стиль стимпанк
+§7Disguise your spear with a dark flair@§7Маскирует твое копье под темный стиль
+§7Disguise your spear with a futuristic flair@§7Маскирует твое копье под футуристический стиль
+§7Disguise your spear with a lunar flair@§7Маскирует твое копье под лунный стиль
+§7Disguise your spear as a piece of food@Маскирует твое копье под кусок еды
+§7Disguise your spear as a golden masterpiece@§7Маскирует твое копье под золотой шедевр
+§7Disguise your spear as a wooden oar@§7Маскирует твое копье под деревянное весло
+§7Disguise your dagger with a steampunk flair@Маскирует твой кинжал под стиль стимпанк
+§7Disguise your dagger with a corrupted flair@§7Маскирует твой кинжал под стиль порчи
+§7Disguise your dagger/spear as a banana sword@§7Маскирует твой кинжал/трезубец под меч-банан
+§7Disguise your dagger with a fiery flair@Замаскируй свое копье огненной способностью
+§7Disguise your dagger as a piece of food@§7Максирует твой кинжал под кусок еды
+§7Disguise your dagger with a lunar flair@§7Маскирует твой кинжал под лунный стиль
+§7Disguise your dagger as a golden masterpiece@§7Маскирует твой кинжал под золотой шедевр
+§7Disguise your dagger with a futuristic flair@§7Маскирует твой кинжал под футуристический стиль
+§7Disguise your dagger with a adventurous flair@§7Маскирует твой кинжал под стиль приключений
+§7Disguise your dagger as a sharp, pirate hook@§7Маскирует твой кинжал под острый пиратский крюк
 
 ###################################DUNGEONS##################################
 §7The door suddenly opens, as if the Keystone Guardian's presence activated it...@§7Дверь внезапно открывается, как будто присутствие Защитника Ключа активировало ее...
@@ -1073,16 +1101,15 @@
 §c[§4!§c]§7 You're under attack! Defend yourself by aiming and firing your ship's cannons.@§c[§4!§c]§7 Ты находишься под атакой! Защити себя, путем прицеливания и стрельбы из пушек своего корабля.
 §c[§4!§c] §cYour ship has been damaged! Integrity remaining: §7[§a|||||||||§4|§7]@§c[§4!§c] §cТвой корабль был поврежден! Оставшаяся прочность: §7[§a|||||||||§4|§7]
 §c[§4!§c] §cYour ship has been damaged! Integrity remaining: §7[§a||||||||§4||§7]@§c[§4!§c] §cТвой корабль был поврежден! Оставшаяся прочность: §7[§a||||||||§4||§7]
-§7[5/15]@ 
 §c[§4!§c] §cYour ship has been damaged! Integrity remaining: §7[§a|||||||§4|||§7]@§c[§4!§c] §cТвой корабль был поврежден! Оставшаяся прочность: §7[§a|||||||§4|||§7]
-§7[10/15]@ 
 §c[§4!§c] §cYour ship has been damaged! Integrity remaining: §7[§a||||||§4||||§7]@§c[§4!§c] §cТвой корабль был поврежден! Оставшаяся прочность: §7[§a||||||§4||||§7]
-§7[15/15]@ 
 §c[§4!§c] §cYour ship has been damaged! Integrity remaining: §7[§a|||||§4|||||§7]@§c[§4!§c] §cТвой корабль был поврежден! Оставшаяся прочность: §7[§a|||||§4|||||§7]
 §c[§4!§c] §cYour ship has been damaged! Integrity remaining: §7[§a||||§4||||||§7]@§c[§4!§c] §cТвой корабль был поврежден! Оставшаяся прочность: §7[§a||||§4||||||§7]
 §c[§4!§c] §cYour ship has been damaged! Integrity remaining: §7[§a|||§4|||||||§7]@§c[§4!§c] §cТвой корабль был поврежден! Оставшаяся прочность: §7[§a|||§4|||||||§7]
 §c[§4!§c] §cYour ship has been damaged! Integrity remaining: §7[§a||§4||||||||§7]@§c[§4!§c] §cТвой корабль был поврежден! Оставшаяся прочность: §7[§a||§4||||||||§7]
-§c[§4!§c] §cYour ship has been damaged! Integrity remaining: §7[§A§a|§4|||||||||§7]@§c[§4!§c] §cТвой корабль был поврежден! Оставшаяся прочность: §7[§A§a|§4|||||||||§7]
+§c[§4!§c] §cYour ship has been damaged! Integrity remaining: §7[§A§a|§4|||||||||§7]@§c[§4!§c] §cТвой корабль был поврежден! Оставшаяся прочность: §7[§a§a|§4|||||||||§7]
+§c[§4!§c] §cYour ship has been damaged! Integrity remaining: §7[§7A§a|§4|||||||||§7]@§c[§4!§c] §cТвой корабль был поврежден! Оставшаяся прочность: §7[§7A§a|§4|||||||||§7]
+§c[§4!§c] §cYour ship has been damaged! Integrity remaining: §7[§4||||||||||§7]@§c[§4!§c] §cТвой корабль был поврежден! Оставшаяся прочность: §7[§4||||||||||§7]
 §c[§4!§c] §cYour ship has been damaged! Integrity remaining: §7[§a§4||||||||||§7]@§c[§4!§c] §cТвой корабль был поврежден! Оставшаяся прочность: §7[§a§4||||||||||§7]
 §c[§4!§c] §7Align your cannon with an attacking pirate and fire to destroy them, but be careful - if one reaches your ship you will be boarded!@§c[§4!§c] §7Выровняй свою пушку с атакующим пиратом, используя элементы управления, и стреляй, чтобы уничтожить их. Но будь осторожен - если кто-то достигнет твоего корабля, он будет поврежден!
 §7Get to the §6§lTreasure Vault §7in §4§l20 §7seconds before it closes!@§7Доберись до §6§lХранилища с сокровищами§7 за §4§l20 §7 секунд, прежде чем оно закроется!
@@ -1164,7 +1191,7 @@
 ###################################LIBRARIES/TEXTS##################################
 §e                         §e§lPowder Manual@§e                        §e§lРуководство о порошках
 §6                     Chapter 1 - The Basics@§6                     Глава 1 - Основы
-§7    §7§oThere exist five varieties of magic powder, each corresponding to one of five different elements; §c✹ Fire§7, §b❉ Water§7, §e✦ Thunder§7, §2✤ Earth§7§o, and §f❋ Air§7.@§7    §7§oСуществуют пять разновидностей магических порошков, каждый из которых соответствует одному из пяти различных элементов: §f❋ Воздух§a, §e✦ Гром§a, §2✤ Земля§a, §4✹ Огонь§a, и §b❉ Вода§a.
+§7    §7§oThere exist five varieties of magic powder, each corresponding to one of five different elements; §c✹ Fire§7, §b❉ Water§7, §e✦ Thunder§7, §2✤ Earth§7§o, and §f❋ Air§7.@§7    §7§oСуществуют пять разновидностей магических порошков, каждый из которых соответствует одному из пяти различных элементов: §f❋ Воздух§a, §e✦ Гром§a, §2✤ Земля§a, §4✹ Огонь§7, и §b❉ Вода§7.
 §7    §7§oIt is possible to augment items with these powders, if one is versed in the art of enchantment. Many offer this service for a price, as Powder Masters.@§7    §7§oМожно дополнять предметы этими порошками, если разобраться в искусстве чарования. Многие предлагают такую услугу за определенную плату, например Мастера Порошков.
 §7    §7§oCertain items have a higher magical capacity, and thusly are able to hold more powders within them. Some have many, some have few, others still have none.@§7    §7§oРазличные предметы имеют более высокую магическую вместимость, и таким образом, способны вмещать больше порошков внутри себя. Некоторые вмещают много, некоторые мало, другие вообще не вмещают.
 §7    §7§oShould a §7§l§oweapon §7be enchanted with a powder, the powder will imbue the item with a slight amount of elemental damage, but also transfer basic neutral damage into its element.@§7    §7§oЕсли §7§l§oоружие§7 будет зачаровано порошком, то порошок наполнит предмет небольшим количеством элементального урона, и также перенесет основной нейтральный урон в его элемент.
@@ -1441,6 +1468,18 @@
 §7    §7§oLeading us to believe that the Ahms region has always been fractured, and this is just a tale passed down to explain what can not be explained.@§7    §7§oЭто все заставляет нас поверить в то, что регион Амс всегда был сломан, и это просто история, переданная, чтобы объяснить то, что не может быть объяснено.
 §4    §4§oThere is a handwritten note at the bottom...@§4    §4§oВнизу есть заметка от руки...
 §7    §7§oShould you ever want to waste your seeds, the location is [630,147,-4590]@§7    §7§oЕсли когда-нибудь захочешь потратить свои семена, координаты [630,147,-4590]
+§7End of Chapter I.@§7Конец Главы I.
+§7End of Chapter II.@§7Конец Главы II.
+§7End of Chapter III.@§7Конец Главы III.
+§7End of Chapter IV.@§7Конец Главы IV.
+§7End of Chapter V.@§7Конец Главы V.
+§7End of Chapter VI.@§7Конец Главы VI.
+§7End of Chapter VII.@§7Конец Главы VII.
+§7End of Chapter VIII.@§7Конец Главы VIII.
+§7End of Chapter IX.@§7Конец Главы IX.
+§7End of Chapter X.@§7Конец Главы X.
+§7End of Chapter XI.@§7Конец Главы XI.
+§7§lThe End.@§7§lКонец.
 
 #########################################MERCHANTS############################################
 §5Key Collector: §dYou have access to the dungeon... This time only.@§5Сборщик Ключей: §dТы можешь войти в данж... Но только в этот раз.
@@ -1457,7 +1496,7 @@
 §5Item Identifier: §dAdd items to identify first!@§5Идентификатор Предметов: §dСначала добавь предметы для идентификации!
 §5Item Identifier: §dI can only identify 8 items at a time.@§5Идентификатор Предметов: §dЯ могу идентифицировать только 8 предметов за раз.
 §5Blacksmith: §dI can't buy that item! I only accept weapons, accessories, potions, armour, ingredients, resources, and crafted items.@§5Кузнец: §dЯ не могу купить этот предмет! Я принимаю только оружие, аксессуары, зелья, броню, ингредиенты, ресурсы и крафтовые предметы.
-§5Key Collector: §dYou are free to enter the dungeon at no cost for the duration of the dungeon bomb. §3[Purchase your own at §bstore.wynncraft.com§3]@§5Сборщик Ключей: §dТы можешь бесплатно войти в данж во время действия данж бомбы. §3[Купи свою на §bstore.wynncraft.com§3]
+§5Key Collector: §dYou are free to enter the dungeon at no cost for the duration of the dungeon bomb. §3[Purchase your own at §bwynncraft.com/store§3]@§5Сборщик Ключей: §dТы можешь бесплатно войти в данж во время действия данж бомбы. §3[Купи свою на §bwynncraft.com/store§3]
 §5Item Identifier: §dThere was no space in your inventory. I dropped your items on the ground.@§5Идентификатор Предметов: §dВ твоем инвентаре не было места. Я выбросил предметы на землю.
 §5Guild Master: §dCome back when you're combat level 40@§5Мастер Гильдий: §dВозвращайся когда достигнешь 40 комбат уровня
 §5Guild Master: §dCome back when you have 5 soul points@§5Мастер Гильдий: §dВозвращайся когда у тебя будет 5 очков душ
@@ -1469,34 +1508,18 @@
 §5Guild Master: §dPlease only use english characters A-Z in your guild prefix.@§5Мастер Гильдий: §dПожалуйста используй только английские буквы A-Z в префиксе гильдии.
 
 ###########################################OBJECTIVES#################################################
-§a                           Gather Resources@                        §aСбор ресурсов
-§c                            Slay Lv. 40+ Mobs@§c                         Убийство Ур. 40+ Мобов
-§a                            Slay Lv. 40+ Mobs@§a                         Убийство Ур. 40+ Мобов
-§a                            Slay Lv. 20+ Mobs@§a                         Убийство Ур. 20+ Мобов
-§a                                Craft Items@§a                             Крафт предметов
-§a                               Finish Quests@§a                            Прохождение квестов
 §c                               Loot Chests@§c                            Нахождение сундуков
-§a                             Slay Lv. 1+ Mobs@§a                         Убийство Ур. 1+ Мобов
-§c                            Slay Lv. 60+ Mobs@§c                         Убийство Ур. 60+ Мобов
-§a                             Buy from Market@§a                          Покупка на маркете
-§a                             Gather Resources@§a                          Сбор ресурсов
-§a                             Win Dungeons@§a                          Прохождение данжей
-§a                             Find Discoveries@§a                          Нахождение Открытий
-§a                               Loot Chests@§a                            Открытие Сундуков
-§c                               Win Dungeons@§c                            Прохождение Данжей
-§a                               Win Dungeons@§a                            Прохождение Данжей
-§c                            Slay Lv. 10+ Mobs@§c                            Убей Ур. 10+ Мобов
-§a                            Slay Lv. 10+ Mobs@§a                         Убей Ур. 10+ Мобов
-§c                            Slay Lv. 50+ Mobs@§c                         Убей Ур. 50+ Мобов
-§a                            Slay Lv. 50+ Mobs@§a                         Убей Ур. 50+ Мобов
-§a                            Slay Lv. 60+ Mobs@§a                         Убей Ур. 60+ Мобов
-§c                            Slay Lv. 90+ Mobs@§c                         Убей Ур. 90+ Мобов
-§c                            Slay Lv. 70+ Mobs@§c                         Убей Ур. 70+ Мобов
-§a                            Slay Lv. 30+ Mobs@§a                         Убей Ур. 30+ Мобов
+§c                               Win Dungeons@§c                             Прохождение Данжей
+§c                            Slay Lv. 10+ Mobs@§c                         Убей Ур. 10+ Мобов
 §c                            Slay Lv. 20+ Mobs@§c                         Убей Ур. 20+ Мобов
-§c                            Slay Lv. 80+ Mobs@§c                         Убей Ур. 80+ Мобов
-§c                           Slay Lv. 100+ Mobs@§c                         Убей Ур. 100+ Мобов
 §c                            Slay Lv. 30+ Mobs@§c                         Убей Ур. 30+ Мобов
+§c                            Slay Lv. 40+ Mobs@§c                         Убей Ур. 40+ Мобов
+§c                            Slay Lv. 50+ Mobs@§c                         Убей Ур. 50+ Мобов
+§c                            Slay Lv. 60+ Mobs@§c                         Убей Ур. 60+ Мобов
+§c                            Slay Lv. 70+ Mobs@§c                         Убей Ур. 70+ Мобов
+§c                            Slay Lv. 80+ Mobs@§c                         Убей Ур. 80+ Мобов
+§c                            Slay Lv. 90+ Mobs@§c                         Убей Ур. 90+ Мобов
+§c                           Slay Lv. 100+ Mobs@§c                         Убей Ур. 100+ Мобов
 §c                           Gather Resources@§c                        Сбор Ресурсов
 §c                                Craft Items@§c                             Крафт Предметов
 §c                                Gather Ore@§c                             Сбор Руды
@@ -1506,6 +1529,22 @@
 §c                                Gather Fish@§c                             Ловля Рыбы
 §c                            Loot Chests T3+@§c                         Открытие Сундуков У3+
 §c                   Trade 24² with Lv. 1-10 Newbie@§c                 Торговля с новичком Ур. 1-10
+§a                           Gather Resources@                        §aСбор ресурсов
+§a                                Craft Items@§a                             Крафт предметов
+§a                               Finish Quests@§a                            Прохождение квестов
+§a                             Slay Lv. 1+ Mobs@§a                         Убийство Ур. 1+ Мобов
+§a                             Buy from Market@§a                          Покупка на маркете
+§a                             Gather Resources@§a                          Сбор ресурсов
+§a                             Win Dungeons@§a                             Прохождение данжей
+§a                             Find Discoveries@§a                          Нахождение Открытий
+§a                               Loot Chests@§a                            Открытие Сундуков
+§a                               Win Dungeons@§a                            Прохождение Данжей
+§a                            Slay Lv. 10+ Mobs@§a                         Убей Ур. 10+ Мобов
+§a                            Slay Lv. 20+ Mobs@§a                         Убей Ур. 20+ Мобов
+§a                            Slay Lv. 30+ Mobs@§a                         Убей Ур. 30+ Мобов
+§a                            Slay Lv. 40+ Mobs@§a                         Убей Ур. 40+ Мобов
+§a                            Slay Lv. 50+ Mobs@§a                         Убей Ур. 50+ Мобов
+§a                            Slay Lv. 60+ Mobs@§a                         Убей Ур. 60+ Мобов
 
 ############################################OTHERS###############################################
 §7You walk away wondering if the citizen stands all day long welcoming adventurers...@§7Ты уходишь, задаваясь вопросом - стоит ли этот житель здесь весь день, приветствуя путешественников...
@@ -1534,6 +1573,7 @@
 §a- §7Vanish will make you disappear into the shadows, confusing your opponent@§a- §7Исчезновение заставит тебя исчезнуть в тени, сбивая с толку твоего противника
 §a- §7Multi Hit will throw your opponent into the air while damaging them@§a- §7Мега Удар подбрасывает твоих противников в воздух, нанося им урон
 §a- §7Arrow Shield will summon a shield of arrows, hurting anything that touches it@§a- §7Щит Стрел вызывает щит из стрел, причиняя боль всему, что касается его
+§a- §7Dagger Aura will summon a shield of arrows, hurting anything that touches it@§a- §7Кинжальная Аура вызывает щит из стрел, причиняя боль всему, что касается его
 §a- §7Go to §fwynncraft.com/class§f §7for info about this upgrade@§a- §7Узнай на §fwynncraft.com/class§f §7больше информации об этом апгрейде
 §a- §7Ice Snake will throw a snake of ice, freezing your enemies over a long distance@§a- §7Ледяная Змея выпускает ледяную змею, замораживая врагов на большом расстоянии
 §a- §7Leap will make you run quickly in a particular direction@§a- §7Прыжок поможет тебе быстро передвигаться в определенном направлении
@@ -1548,7 +1588,12 @@
 §a- §7Haul will pull yourself towards your active totem@§a- §7Бросок будет тянуть тебя к твоему активному тотему
 §a- §7Wind Surge will cast a damaging aura around your active totem@§a- §7Воронка Бури кастует разрушительную ауру вокруг твоего активного тотема
 §a- §7Soar will pull yourself towards your active totem@§a- §7Взлет будет тянуть тебя к твоему активному тотему
-§a- §7Uproot will pull your enemies towards yourself@§a- §7Изгнание будет притягивать ваших врагов к себе
+§a- §7Uproot will pull your enemies towards yourself@§a- §7Изгнание будет притягивать твоих врагов к себе
+§a- §7Cry of the Gods will make a loud screech, hurting mobs and buffing all nearby players@§a- §7Плач Богов будет издавать громкий крик, причиняя боль мобам и бафая всех ближайших игроков
+§a- §7Shadow Clone will make you disappear into the shadows, confusing your opponent@§a- §7Теневой Клон заставит тебя исчезнуть в тени, сбивая с толку твоего противника
+§a- §7Leopard Punches will throw your opponent into the air while damaging them@§a- §7Удары Леопарда подбрасывают твоих противников в воздух, нанося им урон
+§a- §7Blinding Cloud will throw a cloud of smoke, damaging mobs that are stuck inside@§a- §7Ослепляющее Облако выбрасывает облако дыма, нанося урон мобам, застрявшим внутри него
+§a- §7Gale Funnel will pull your enemies towards yourself@§a- §7Воронка Бури будет притягивать твоих врагов к себе
 §a+ Spell Upgrade §2[Bash I -> II]@§a+ Апгрейд заклинания §2[Оглушение I -> II]
 §a+ Spell Upgrade §2[Bash II -> III]@§a+ Апгрейд заклинания §2[Оглушение II -> III]
 §a+ Spell Upgrade §2[Heal I -> II]@§a+ Апгрейд заклинания §2[Исцеление I -> II]
@@ -1614,6 +1659,9 @@
 §a+ New Spell §2[Creeper Dart]@§a+ Новое заклинание §2[Дротик Крипера]
 §a+ Spell Upgrade §2[Creeper Dart I -> II]@§a+ Апгрейд заклинания §2[Дротик Крипера I -> II]
 §a+ Spell Upgrade §2[Creeper Dart II -> III]@§a+ Апгрейд заклинания §2[Дротик Крипера II -> III]
+§a+ New Spell §2[Dagger Aura]@§a+ Новое заклинание §2[Кинжальная Аура]
+§a+ Spell Upgrade §2[Dagger Aura I -> II]@§a+ Апгрейд заклинания §2[Кинжальная Аура I -> II]
+§a+ Spell Upgrade §2[Dagger Aura II -> III]@§a+ Апгрейд заклинания §2[Кинжальная Аура II -> III]
 §a+ New Spell §2[Blink]@§a+ Новое заклинание §2[Ослепление]
 §a+ Spell Upgrade §2[Blink I -> II]@§a+ Апгрейд заклинания §2[Ослепление I -> II]
 §a+ Spell Upgrade §2[Blink II -> III]@§a+ Апгрейд заклинания §2[Ослепление II -> III]
@@ -1641,11 +1689,26 @@
 §a+ New Spell §2[Gale Funnel]@§a+ Новое Заклинание §2[Воронка Бури]
 §a+ Spell Upgrade §2[Gale Funnel I -> II]@§a+ Апгрейд Заклинания §2[Воронка Бури I -> II]
 §a+ Spell Upgrade §2[Gale Funnel II -> III]@§a+ Апгрейд Заклинания §2[Воронка Бури II -> III
+§a+ New Spell §2[Heaven Jolt]@§a+ Новое Заклинание §2[Небесный Удар]
+§a+ Spell Upgrade §2[Heaven Jolt I -> II]@§a+ Апгрейд Заклинания §2[Небесный Удар I -> II]
+§a+ Spell Upgrade §2[Heaven Jolt II -> III]@§a+ Апгрейд Заклинания §2[Небесный Удар II -> III
+§a+ New Spell §2[Cry of the Gods]@§a+ Новое Заклинание §2[Плач Богов]
+§a+ Spell Upgrade §2[Cry of the Gods I -> II]@§a+ Апгрейд Заклинания §2[Плач Богов I -> II]
+§a+ Spell Upgrade §2[Cry of the Gods II -> III]@§a+ Апгрейд Заклинания §2[Плач Богов II -> III
+§a+ New Spell §2[Shadow Clone]@§a+ Новое Заклинание §2[Теневой Клон]
+§a+ Spell Upgrade §2[Shadow Clone I -> II]@§a+ Апгрейд Заклинания §2[Теневой Клон I -> II]
+§a+ Spell Upgrade §2[Shadow Clone II -> III]@§a+ Апгрейд Заклинания §2[Теневой Клон II -> III
+§a+ New Spell §2[Leopard Punches]@§a+ Новое Заклинание §2[Удары Леопарда]
+§a+ Spell Upgrade §2[Leopard Punches I -> II]@§a+ Апгрейд Заклинания §2[Удары Леопарда I -> II]
+§a+ Spell Upgrade §2[Leopard Punches II -> III]@§a+ Апгрейд Заклинания §2[Удары Леопарда II -> III
+§a+ New Spell §2[Blinding Cloud]@§a+ Новое Заклинание §2[Ослепляющее Облако]
+§a+ Spell Upgrade §2[Blinding Cloud I -> II]@§a+ Апгрейд Заклинания §2[Ослепляющее Облако I -> II]
+§a+ Spell Upgrade §2[Blinding Cloud II -> III]@§a+ Апгрейд Заклинания §2[Ослепляющее Облако II -> III
 
 #################################################SYSTEM################################################
 §cThe server is restarting@§cСервер перезагружается
 §bServer restarting!@§bПерезагрузка сервера!
-§f                         §2[Objective Completed]@§f                         §2[Цель Выполнена]
+§f                         §2[Objective Completed]@§f                           §2[Цель Выполнена]
                          §4[Objective Completed]@                         §4[Цель Выполнена]
 §f                         §4[Objective Completed]@§f                         §4[Цель Выполнена]
                            §6[Area Discovered]@                           §6[Открыта Территория]
@@ -1653,7 +1716,7 @@
 §d            Rewards:@§d            Награда:
 §d     Info:@§d     Инфо:
 §6                                §6§lLevel Up!@                          §6§lУровень повышен!
-                         §2[Objective Completed]@                         §2[Цель завершена]
+                         §2[Objective Completed]@                           §2[Цель завершена]
 §2                         [Mini-Quest Completed]@                         §2[Мини-Квест Пройден]
 §6§l              Thank you for your purchase!@               §6§lСпасибо за твою покупку!
 §7     Your continuous support is what keeps Wynncraft alive@      §7Твоя постоянная поддержка - это то, что держит Wynncraft на плаву
@@ -1717,6 +1780,7 @@
 §7+2 Skill Points §8[Open the character menu to use them]@§7+2 Очка умений [Открой меню персонажа для их использования]
 §7+5 Maximum HP@§7+5 Очков здоровья
 §cYour items are damaged and have become less effective. Bring them to a Blacksmith to repair them.@§cТвои предметы повредились и стали менее эффективными. Принеси их к Кузнецу, чтобы починить.
+§eYou have broken weapons that can be repaired! Visit the Weaponsmith to repair them.@§eУ тебя есть сломанные оружия, которые можно починить! Посети Кузнеца для их починки.
 §41 soul point has been lost...@§41 очко душ было потрачено...
 §4You can skip the tutorial by typing: §c/skiptutorial§4. You will not receive resources, tools, or a crafted item by doing this.@§4Ты можешь пропустить туториал командой §c/skiptutorial§4. Ты не получишь ресурсы, инструменты, или крафтовые предметы, сделав это.
 §cYou cannot drop locked items! Use /itemlock while holding the item again to unlock it.@§cТы не можешь выбросить заблокированные предметы! Используй /itemlock, держа предмет в руке, чтобы разблокировать его.
@@ -1805,6 +1869,7 @@ Your client seems to be spamming us!@Похоже твой клиент спам
 §cInvalid syntax: /find [player]@§cНеправильный синтаксис: /find [игрок]
 §cYou don't have any available trade slots. Go to your trade overview and make some space!@§cУ тебя нет доступных торговых слотов. Перейди в свое обзорное меню торговли и освободи немного места!
 §cThe server you were previously on went down, you have been connected to a fallback server@§cСервер, на котором ты был ранее, вышел из строя. Ты был подключен к резервному серверу
+§cThe server you were previously on went down, you have been connected to the lobby@§cСервер, на котором ты был ранее, вышел из строя. Ты был подключен к лобби
 §6Type the price in emeralds or type 'cancel' to cancel:@§6Напиши цену в эмеральдах, или 'cancel' для отмены:
 §6Type the amount you wish to buy or type 'cancel' to cancel:@§6Напиши количество, которое желаешь купить, или 'cancel' для отмены:
 §6Type the amount you wish to sell or type 'cancel' to cancel:@§6Напиши количество, которое желаешь продать, или 'cancel' для отмены:
@@ -1817,7 +1882,7 @@ Your client seems to be spamming us!@Похоже твой клиент спам
 §cThe market is not available for ironman players!@§cМаркет недоступен для игроков в режиме Железный Человек!
 §cYou already have some Food active...@§cНа тебя уже действует Еда...
 §cYou already have a Scroll active...@§cНа тебя уже действует Свиток...
-§4That class is VIP only! Buy VIP at §cstore.wynncraft.com@§4Этот класс только для VIP игроков! Купи VIP на §cstore.wynncraft.com
+§4That class is VIP only! Buy VIP at §cwynncraft.com/store@§4Этот класс только для VIP игроков! Купи VIP на §cwynncraft.com/store
 §7[Be sure to use exact names, prediction does not work if the user is on a separate server]@§7[Обязательно используй точные ники, прогнозирование не работает, если пользователь находится на отдельном сервере]
 §4You need to add 5 rewards of the same type to upgrade.@§4Тебе нужно добавить 5 наград того же уровня для апгрейда.
 §4You don't have any crates...@§4У тебя нет никаких контейнеров...
@@ -1838,7 +1903,7 @@ The server is full!@§4Сервер заполнен!
 You're rejoining too quickly! Give us a moment to save your data.@§4Ты слишком быстро перезаходишь! Дай нам время, чтобы сохранить твои данные.
 §2You will no longer see the class selection screen!@§2Ты больше не увидишь экран выбора класса!
 §7(You can still use /class to change your class)@§7(Ты по-прежнему можешь использовать /class для смены класса)
-§bThis dungeon is free for the duration of the Dungeon Bomb! Buy your own at §3store.wynncraft.com@§bВход в этот данж свободен на время действия Данж Бомбы! Купи свою на §3store.wynncraft.com
+§bThis dungeon is free for the duration of the Dungeon Bomb! Buy your own at §3wynncraft.com/store@§bВход в этот данж свободен на время действия Данж Бомбы! Купи свою на §3wynncraft.com/store
 §4You cannot damage mobs while dueling!@§4Ты не можешь бить мобов во время дуэли!
 §4You are already in a duel.@§4Ты уже находишься в дуэли.
 §7No soul points have been lost.@§7Очки душ не были утрачены.
@@ -1847,8 +1912,6 @@ You're rejoining too quickly! Give us a moment to save your data.@§4Ты сли
 §2You will now receive the resource pack warning again!@§2Теперь ты снова получаешь предупреждения о ресурспаке!
 §cOops! Something went wrong! You have been sent back to Ragni.@§cУпс! Что-то пошло не так! Ты был отправлен обратно в Рагни.
 §6Usage: §f/particles <off/low/medium/high/veryhigh/highest/[particles per tick]>@§6Использование: §f/particles <off/low/medium/high/veryhigh/highest/[частицы за тик]>
-§aYour particle limit is now §fhighest (-1)@§aТвой лимит частиц теперь §fсамый высокий (-1)
-§aYour particle limit is now §f1 (1)@§aТвой лимит частиц теперь §f1 (1)
 §7-------------§4 Wynncraft Help §7-------------@§7-------------§4 Wynncraft Помощь §7-------------
 §4You are not at the start of the tutorial area!@§4Ты не находишься на старте туториала!
 §3Visit §bwynncraft.com/store§b §3to get your own!@§3Посети §bwynncraft.com/store§b §3чтобы получить свою!
@@ -1866,7 +1929,7 @@ You're rejoining too quickly! Give us a moment to save your data.@§4Ты сли
 §7Buy VIP+ now at §fwynncraft.com/store§7!@§7Купи VIP+ сейчас на §fwynncraft.com/store§7!
 §cYou need more soul points...@§cТебе нужно больше очков душ...
 §3Visit §bwynncraft.com/store§b §3to buy your own.@§3Посети §bwynncraft.com/store§b §3чтобы купить свою.
-§3That class is VIP+ only! Buy VIP+ at §bstore.wynncraft.com@§3Этот класс только для VIP+! Купи VIP+ на §bstore.wynncraft.com
+§3That class is VIP+ only! Buy VIP+ at §bwynncraft.com/store@§3Этот класс только для VIP+! Купи VIP+ на §bwynncraft.com/store
 Unknown command. Type "/help" for help.@Неизвестная команда. Напиши "/help" для помощи.
 §2Music is now fading out...@§2Музыка теперь исчезает...
 §2You will now hear music again!@§2Теперь ты снова слышишь музыку!
@@ -1879,7 +1942,7 @@ Unknown command. Type "/help" for help.@Неизвестная команда. �
 §5Can't find that player! Try again?@§5Не можем найти этого игрока! Попробуй еще?
 §cYou already have a Potion active...@§cНа тебя уже действует зелье...
 §cYou need at least 3 soul points to reset your skills.@§cТебе нужно как минимум 3 очка душ, чтобы сбросить очки умений.
-§4This command is VIP+ only! Buy VIP+ at §cstore.wynncraft.com@§4Эта команда только для VIP+! Купи VIP+ на §cstore.wynncraft.com
+§4This command is VIP+ only! Buy VIP+ at §cwynncraft.com/store@§4Эта команда только для VIP+! Купи VIP+ на §cwynncraft.com/store
 §cInvalid command. /report [name] [reason]@§cНеправильная команда. /report [ник] [причина]
 §cYour report is being processed.@§cТвой репорт рассматривается.
 §cYou can only report players once every 2 minutes.@§cТы можешь репортить игроков раз в 2 минуты.
@@ -1887,7 +1950,7 @@ Unknown command. Type "/help" for help.@Неизвестная команда. �
 §2You will now see the combat levels of players in chat!@§2Теперь ты видишь комбат уровень игроков в чате!
 §cInvalid number input. Please use a number between 0-100.@§cНеверный ввод числа. Пожалуйста, используй число от 0 до 100.
 §4You are missing the basement key!@§4Тебе не хватает ключа от подвала!
-§4This command is VIP only! Buy VIP at §cstore.wynncraft.com@§4Эта команда только для VIP! Купи VIP на §cstore.wynncraft.com
+§4This command is VIP only! Buy VIP at §cwynncraft.com/store@§4Эта команда только для VIP! Купи VIP на §cwynncraft.com/store
 §cYou are not allowed to sell currency on the market!@§cТы не можешь продавать валюту через маркет!
 §4You do not have enough space in your bank!@§4У тебя недостаточно места в банке!
 §2You will now see the total levels of players in chat!@§2Теперь ты видишь общий уровень игроков в чате!
@@ -1917,7 +1980,6 @@ Unknown command. Type "/help" for help.@Неизвестная команда. �
 §4Please have only the pet you want to rename spawned.@§4Пожалуйста, оставь заспавненным только одного питомца, которого ты хочешь переименовать.
 §7You have immodestly thanked yourself!@§7Ты нескромно поблагодарил себя!
 §cCould not connect to target server, you have been moved to a fallback server.@§cНе удалось подключиться к выбраному серверу, ты был перемещен на резервный сервер.
-§aYour particle limit is now §foff (0)@§aТвой лимит частиц теперь §fотключен (0)
 §b - §7VIP Rank@§b - §7VIP Ранг
 §b - §7VIP+ Rank@§b - §7VIP+ Ранг
 §6Usage: §f/rename <name>@§6Использование: §f/rename <имя>
@@ -1926,9 +1988,6 @@ Unknown command. Type "/help" for help.@Неизвестная команда. �
 §cYou do not hold enough of that item to sell! Try again.@§cУ тебя недостаточно этого предмета для продажи! Попробуй еще раз.
 Flying is not enabled on this server@Нельзя летать на этом сервере
 You are not whitelisted on this server!@Тебя нет в вайтлисте этого сервера!
-§aYour particle limit is now §flow (50)@§aТвой лимит частиц теперь §fнизкий (50)
-§aYour particle limit is now §fhigh (200)@§aТвой лимит частиц теперь §fвысокий (200)
-§aYour particle limit is now §flow (100)@§aТвой лимит частиц теперь §fнизкий (100)
 §2You can no longer see swear words in chat!@§2Ты больше не видишь бранные слова в чате!
 §2You can now see swear words again!@§2Ты видишь бранные слова снова! 
 §cInvalid amount! Please try again with a lower number.@§cНеправильное количество! Попробуй еще раз с меньшим числом.
@@ -1970,6 +2029,7 @@ You are not whitelisted on this server!@Тебя нет в вайтлисте э
 §5You need a HERO rank to participate in the HERO beta. Get one at §dstore.wynncraft.com@§5Тебе нужен HERO ранг для участия в HERO бете. Купи на §dstore.wynncraft.com
                §c§lClick here to toggle hunted mode@               §c§lКликни здесь для включения режима охотника
                       §4§oThis will enable PvP combat@                      §4§oЭто включит ПвП режим
+                      §4§oThis will disable PvP combat@                      §4§oЭто выключит ПвП режим
 §7You have disabled ingredient auto pickup.@§7Ты отключил авто-подбор ингредиентов.
 §7You have enabled ingredient auto pickup.@§7Ты включил авто-подбор ингредиентов.
 §4You have no active totems near you.@§4Вокруг тебя нет активных тотемов.
@@ -1984,6 +2044,7 @@ You are not whitelisted on this server!@Тебя нет в вайтлисте э
 §3You are no longer disguised as a §bcreeper@§3Ты больше не маскируешься под §bкрипера
 §cYou've restarted the starting quest!@§cТы перезапустил начальный квест!
 §c§lLog in to §f§neu.wynncraft.com§c§l for less lag.@§c§lЗаходи через §f§neu.wynncraft.com§c§l чтобы играть с меньшим пингом.
+§c§lLog in to §feu.wynncraft.com§c§l for less lag.@§c§lЗаходи через §f§neu.wynncraft.com§c§l чтобы играть с меньшим пингом.
 §cAll characters and progress are shared between locations.@§cВсе персонажи и прогресс синхронизируются между серверами.
 §7What message would you like to shout to the entire network? Say '§fcancel§7' to stop.@§7Какое сообщение ты хочешь отправить на все сервера? Напиши '§fcancel§7' для отмены.
 §4Error: Do not include links in your shout!@§4Ошибка: Нельзя включать ссылки в свой шаут!
@@ -2006,6 +2067,7 @@ You are not whitelisted on this server!@Тебя нет в вайтлисте э
 §cBy farming with spare tools on you, your success chance is lowered.@§cПри земледелии с запасными инструментами в инвентаре, твой шанс на успех снижается.
 §cBy fishing with spare tools on you, your success chance is lowered.@§cПри рыбалке с запасными инструментами в инвентаре, твой шанс на успех снижается.
 §cBy mining with spare tools on you, your success chance is lowered.@§cПри добыче с запасными инструментами в инвентаре, твой шанс на успех снижается.
+§4Your tool has 0 durability left! You will not receive any new resources until you repair it at a Blacksmith.@§4У твоего инструмента осталось 0 прочности! Ты не будешь получать новых ресурсов, пока не починишь его у Кузнеца.
 §cYou logged out in a boss room, so you were brought back.@§cТы вышел во время битвы с босом, поэтому тебя вернули обратно.
 §2You have hidden ghost players.@§2Ты скрыл игроков призраков
 §2You will now see ghost players.@§2Ты снова видишь игроков призраков
@@ -2013,7 +2075,7 @@ You are not whitelisted on this server!@Тебя нет в вайтлисте э
 §2You will see the combat bar.@§2Ты снова видишь комбат бар
 §2You have hidden the pouch message.@§2Ты скрыл сообщения о мешке.
 §2You will see the pouch message.@§2Ты снова видишь сообщения о мешке.
-§5That class is HERO only! Buy HERO at §dstore.wynncraft.com@§5Этот класс только для HERO! Купи HERO на §dstore.wynncraft.com
+§5That class is HERO only! Buy HERO at §dwynncraft.com/store@§5Этот класс только для HERO! Купи HERO на §dwynncraft.com/store
 §4You can't use commands whilst trading!@§4Ты не можешь использовать команды во время торговли!
 §cYour chat input has been cancelled due to moving!@§cТвой ввод в чат был отменен из-за движения!
 §6You've dropped:@§6С тебя выпало:
@@ -2032,764 +2094,32 @@ You are not whitelisted on this server!@Тебя нет в вайтлисте э
 §4You need to be holding a crafted item to rename it!@§4Тебе нужно держать крафтовый предмет, чтобы переименовать его!
 §3You have thrown an item bomb too recently, please wait.@§3Ты уже бросал недавно предметную бомбу, пожалуйта подожди.
                   §c§l§nClick here to toggle hunted mode@                  §c§l§nКликни здесь для переключения режима охотника
+                  §c§lClick here to toggle hunted mode@                  §c§l§nКликни здесь для переключения режима охотника
 §f                  §c§l§nClick here to toggle hunted mode@§f                  §c§l§nКликни здесь для переключения режима охотника
 §f                      §4§oThis will enable PvP combat@§f                      §4§oЭто включит ПвП
-
-#################################TERRITORY DISCOVERIES#################################
-                                   Plains@ 
-                             Arachnida Cave@ 
-                          Nemract Plains West@ 
-                              §ePit of Despair@ 
-                        §eChallenge of the Blades@ 
-                                Black Magic@ 
-                             Corrupted Hand@ 
-                             Spiraling Trees@ 
-                           Road to Corruption@ 
-		                Light Realm East Mid-Upper@ 
-                        Light Realm East Upper@ 
-                     Light Realm Entrance Upper@ 
-                          Orphion's Seal Upper@ 
-                          Light Realm East Mid@ 
-                        Light Realm East Lower@ 
-                              Orphion's Seal@ 
-                          Aldorei Valley Lower@ 
-                               §eAldorei Valley@ 
-                            Aldorei Valley Mid@ 
-                          Aldorei Valley Upper@ 
-                              Aldorei’s River@ 
-§f                                Green Camp@ 
-§f                                 Red Camp@ 
-§f                       Quartz Mines North West@ 
-§f                       Quartz Mines North East@ 
-§f                       Quartz Mines South West@ 
-§f                              §eKaroc Quarry@ 
-                       Pigmen Ravines Entrance@ 
-                             §ePigmen's Ravine@ 
-§f                            Bucie South West@ 
-§f                            Bucie North West@ 
-§f                                    §eBucie@ 
-§f                            Bucie North East@ 
-§f                              Llevigar Farm@ 
-                          South Pigmen Ravines@ 
-                        Light Forest North Exit@ 
-                          Light Forest Canyon@ 
-                             Path to Cinfras@ 
-                         Light Forest East Mid@ 
-                         Light Forest West Mid@ 
-                         Light Forest Entrance@ 
-                            §eLight Forest Gate@ 
-                                Fleris Trail@ 
-                             Abandoned Farm@ 
-                           Road to Time Valley@ 
-                               §eDelnar Manor	@ 
-                                    §eRagni@ 
-                          Dernal Jungle Lower@ 
-                              §eEmerald Trail֎@ 
-                          Ragni Main Entrance@ 
-                         Nivla Forest Entrance@ 
-                                §eDead Island@ 
-                        Dead Island South West@ 
-                        Dead Island North West@ 
-                        Dead Island North East@ 
-                        Dead Island South East@ 
-                                Maltic Plains@ 
-                                §eNivla Woods@ 
-                            Nivla Forest Exit@ 
-                            Nivla Forest Edge@ 
-                           Detlas Far Suburbs@ 
-                             §eDetlas Suburbs֎@ 
-                          Detlas Close Suburbs@ 
-                                  §eDetlas֎@ 
-                                §eBob's Tomb֎@ 
-                              Volcano Lower@ 
-                              §eVolcanic Isles@ 
-                                  §eNemract@ 
-                          Nether Plains Upper@ 
-                                  §eLusuco@ 
-                                Twain Lake@ 
-                           §eThe House of Twain@ 
-                         §eWynnExcavation Site B@ 
-                       Nesaak Bridge Transition@ 
-                            §eThe Great Bridge@ 
-                          Great Bridge Nesaak@ 
-                          Great Bridge Jungle@ 
-                               Jungle Lower@ 
-                                 Jungle Mid@ 
-                               Jungle Upper@ 
-                               §eIboju Village@ 
-                                Jungle Lake@ 
-                                Herb Cave@ 
-                                   §eTroms@ 
-                               §eTroms Castle@ 
-                               §eAldorei Town@ 
-                    Aldorei Valley South Entrance@ 
-                           Aldorei’s Waterfall@ 
-                          Cinfras’s Small Farm@ 
-                                  Guild Hall@ 
-                             §eLetvus Airbase@ 
-                               §eThe Guild Hall@ 
-                     Nesaak Plains Mid North West@ 
-                        §eAbandoned Lumber Yard@ 
-                       Cinfras County Mid-Upper@ 
-                         Cinfras County Upper@ 
-                         Gylia Lake South East@ 
-                                 §eLake Gylia@ 
-                         Gylia Lake North East@ 
-                            §eGylia Watch Tower@ 
-                               Jitak’s Farm@ 
-                            Abandoned Tower@ 
-                            Corrupted Village@ 
-                         Gylia Lake North West@ 
-                                 Gert Camp@ 
-                                  §eLlevigar@ 
-                              Corkus Castle@ 
-                               §eCorkus City֎@ 
-                       Nesaak Plains South West@ 
-                   Nesaak Plains Upper North West@ 
-§f                   Nesaak Plains Upper North West@ 
-                                 Icy Island@ 
-                       Quartz Mines North East@ 
-                     Pre-Light Forest Transition@ 
-                            Bucie South East@ 
-                          Swamp Mountain Base@ 
-                              Meteor Crater@ 
-                            Bucie North West@ 
-                                    §eBucie@ 
-                            Bucie South West@ 
-                                §eRiver Sage@ 
-                           Orc Battlegrounds@ 
-                            Bucie North East@ 
-                           Ragni East Suburbs@ 
-                             Leadin Fortress@ 
-                         Road To Light Forest@ 
-                           North Nivla Forest@ 
-§f                                Ragni Plains@ 
-§f                                   Plains@ 
-                               Katoa Ranch@ 
-§f                                §eNivla Woods@ 
-§f                           North Nivla Forest@ 
-§f                            Nivla Forest Edge@ 
-§f                        Detlas Trail West Plains@ 
-§f                           Detlas Far Suburbs@ 
-                        Detlas Trail East Plains@ 
-                        Detlas Trail West Plains@ 
-§f                             §eDetlas Suburbs֎@ 
-§f                          Detlas Close Suburbs@ 
-                            Mining Base Lower@ 
-§f                        Detlas Trail East Plains@ 
-§f                           Llevigar Gate West@ 
-§f                       Llevigar Farm Plains East@ 
-§f                       Llevigar Farm Plains West@ 
-§f                      Llevigar Plains West Lower@ 
-§f                      Llevigar Plains East Lower@ 
-§f                                 Orc Lake@ 
-§f                      Llevigar Plains East Upper@ 
-§f                      Llevigar Plains West Upper@ 
-§f                            Swamp West Lower@ 
-§f                     Pre-Light Forest Transition@ 
-§f                              Meteor Crater@ 
-§f                               Swamp Lower@ 
-§f                          Swamp Mountain Base@ 
-§f                Swamp Dark Forest Transition Lower@ 
-§f                              Swamp West Mid@ 
-§f                              Swamp East Mid@ 
-§f                         Swamp East Mid-Upper@ 
-§f                            Swamp West Upper@ 
-§f                                    §eOlux֎@ 
-§f                           Swamp Plains Basin@ 
-§f                         Swamp West Mid-Upper@ 
-§f                            Entrance to Olux@ 
-§f                                §eWorm Holes@ 
-§f                            Swamp East Upper@ 
-§f                Swamp Mountain Transition Mid-Upper@ 
-§f                    Swamp Mountain Transition Mid@ 
-§f                  Swamp Mountain Transition Upper@ 
-§f                  Swamp Mountain Transition Lower@ 
-§f                           §eIron Golem Factory@ 
-§f                             §eQuartz Mansion@ 
-§f                              §eVolcanic Isles@ 
-§f                              Volcano Lower@ 
-§f                              §eZhight Island֎@ 
-§f                               §eMage Island֎@ 
-§f                              §eSkiens Island֎@ 
-§f                               §eMaro Peaks֎@ 
-§f                                §ePirate Cove@ 
-§f                               §eTroms Castle@ 
-§f                            §eTribal Sanctuary@ 
-§f                         Savannah West Lower@ 
-§f                  Swamp Dark Forest Transition Mid@ 
-§f                            §eOlux Lumber Yard@ 
-§f                            Taproot Descent@ 
-§f                Swamp Dark Forest Transition Upper@ 
-§f                             Fortress North@ 
-§f                             Fortress South@ 
-§f                              Gelibord Castle@ 
-§f                       Gelibord Corrupted Farm@ 
-§f                                  Gelibord@ 
-§f                                 §eGelibord֎@ 
-§f                             Twisted Housing@ 
-§f                                  §eTaproot@ 
-§f                          Dernal Jungle Lower@ 
-§f                          Dernal Jungle Upper@ 
-§f                               §eDelnar Manor@ 
-§f                            Dernal Jungle Mid@ 
-§f                            Swamp East Lower@ 
-§f                           Orc Battlegrounds@ 
-§f                             §eLeadin Orc Fort@ 
-§f                             Leadin Fortress@ 
-§f                         Road To Light Forest@ 
-§f                             §eCaritat Mansion@ 
-§f                            §eDark Forest Gate@ 
-§f                              §eCastle Dullahan@ 
-§f                           Abandoned Church@ 
-§f                            Corrupted Impact	@ 
-§f                                Fleris Trail@ 
-§f                            §eLight Forest Gate@ 
-§f                         Light Forest Entrance@ 
-§f                                  §eSelchar֎@ 
-§f                             Santa's Hideout@ 
-§f                         Savannah East Upper@ 
-§f                              Desert Upper@ 
-§f                           Desert West Upper @ 
-§f                             Desert East Mid@ 
-§f                           Desert East Upper@ 
-§f                            §eInvaded Barracks@ 
-                               §eAldorei Town @ 
-                                §eGeyser Pit@ 
-§f                            Rymek East Upper@ 
-                              Regular Island@ 
-                             §eSunrise Canyon@ 
-§f                                 Lost Atoll@ 
-§f                               Jungle Lower@ 
-§f                                 Jungle Mid@ 
-§f                                Jungle Lake@ 
-§f                               Jungle Upper@ 
-§f                                   §eTroms@ 
-§f                               §eIboju Village@ 
-§f                         Savannah West Upper@ 
-§f                               §ePirate's Bay@ 
-§f                           §eThe House of Twain@ 
-§f                                Twain Lake@ 
-§f                         §eWynnExcavation Site B@ 
-§f                              Nodguj Nation@ 
-§f                                §eIce Islands@ 
-§f                              Dujgon Nation@ 
-§f                                Plains Lake@ 
-§f                                 Orc Road@ 
-§f                       Quartz Mines South East@ 
-§f                                §eRiver Sage@ 
-§f                            Bucie South East@ 
-§f                                Black Camp@ 
-                               Kandon Ridge@ 
-                                  Sky Falls@ 
-                          Raider's Base Upper@ 
-                             Central Islands@ 
-§f                               §eBremminglar֎@ 
-§f                          Nether Plains Upper@ 
-                          Aldorei’s North Exit@ 
-                           §eMolten Heights Gate@ 
-                              §eLost Colossus@ 
-                         Light Realm Corruption@ 
-§f                            Mining Base Lower@ 
-§f                       Nesaak Bridge Transition@ 
-§f                               Icy Descent@ 
-§f                                  §eLusuco@ 
-§f                           §eTower of Ascension@ 
-                             Corrupted Hand	@ 
-§f                             §eRooster Island֎@ 
-§f                         §eWynnExcavation Site A@ 
-§f                                 Lion Lair@ 
-§f                                 §eOwl Tribe@ 
-§f                                §eEagle Tribe@ 
-                         §eArena of the Legends@ 
-                      Light Realm East Mid-Upper@ 
-                           §eTemple of Legends֎@ 
-§f                             Mine Base Plains@ 
-§f                                   §eRymek@ 
-§f                            Rymek East Lower@ 
-                                 §eBear Zoo@ 
-                         §eWynnExcavation Site D@ 
-                                  §eTaproot@ 
-§f                         Savannah East Lower@ 
-§f                                    §eAlmuj@ 
-§f                           Desert West Lower@ 
-§f                              Desert Lower@ 
-§f                            Rymek West Upper@ 
-§f                            §eAlmuj Great River@ 
-§f                            Desert Mid-Lower@ 
-§f                            Desert Mid-Upper@ 
-§f                         Ternaves Plains Lower@ 
-§f                            Mining Base Upper@ 
-§f                            §eAbandoned Mines@ 
-§f                             Abandoned Pass@ 
-§f                            Rymek West Lower@ 
-§f                           Cathedral Harbour@ 
-§f                       Nesaak Plains South East@ 
-§f                       Nesaak Plains South West@ 
-                                §eLazarus Pit@ 
-                             §eLeadin Orc Fort@ 
-                            Dernal Jungle Mid@ 
-                               §eDelnar Manor@ 
-§f                                Little Wood@ 
-                              Volcano Upper@ 
-§f                             Abandoned Farm@ 
-§f                                 §eSavannah@ 
-§f                                §eTernaves֎@ 
-                               §eTroms Castle@ 
-§f                        Detlas Trail East Plains@ 
-                         §eWynnExcavation Site B@ 
-                                §eTime Valley֎@ 
-                         Nivla Forest Entrance@ 
-                                   Plains@ 
-                            Qira's Battle Room@ 
-                          Dernal Jungle Upper@ 
-                           Durum Isles Lower@ 
-                              Ruined Houses@ 
-                           Lighthouse Plateau@ 
-                              Mountain Edge@ 
-                     Entrance to Thesead South@ 
-                              §eNorth Lusuco@ 
-                               Bloody Beach@ 
-                               Avos Temple@ 
-                              Corkus Docks@ 
-                     Entrance to Thesead North@ 
-                        Cliffside Passage North@ 
-                            Air Temple Lower@ 
-                                Bandits Toll@ 
-                              Cliffside Valley@ 
-                             Canyon Walk Way@ 
-                            Southern Outpost@ 
-                             §eFallen Factory֎@ 
-                           Factory Entrance@ 
-                          Corkus Countryside@ 
-                            Corkus Outskirts@ 
-                             Corkus City Mine@ 
-                             Corkus Mountain@ 
-                          Corkus Forest North@ 
-                          Corkus Forest South@ 
-                               Twisted Ridge@ 
-                           §eLegendary Island֎@ 
-                              §eKandon-Beda֎@ 
-                                Sky Castle@ 
-                                 §eAhmsord֎@ 
-                            Sky Island Ascent@ 
-                          Raider's Base Lower@ 
-                               §eRaiders' Port@ 
-                              §eJofash Tunnel@ 
-                         Ternaves Plains Lower@ 
-                        Path to Ahmsord Lower@ 
-                        Path to Ahmsord Upper@ 
-                             Crater Descent@ 
-                            Lava Lake Bridge@ 
-                          Molten Heights Portal@ 
-                                  §eRodoroc@ 
-                               Road To Mine@ 
-                       Corkus Abandoned Tower@ 
-                             §eAvos Territory@ 
-                              Chained House	@ 
-                            Thesead Suburbs@ 
-                            Cliffside Waterfall@ 
-                            Canyon High Path@ 
-                                Hive South@ 
-                               §eOzoth's Spire@ 
-                       Path To Ozoth’s Spire Mid@ 
-                                   Statue@ 
-                                    §eRelos@ 
-                               Phinas Farm@ 
-                               Angel Refuge@ 
-                             §eDogun's Retreat@ 
-                             Mine Base Plains@ 
-                                Plains Lake@ 
-                           Thanos Exit Upper@ 
-                               §eThe Qira Hive@ 
-                     Path To Ozoth’s Spire Lower@ 
-                           Thanos Valley West@ 
-                                Thanos Exit@ 
-                                  §eThanos֎@ 
-                           Military Base Lower@ 
-                          Path To Military Base@ 
-                           Military Base Upper@ 
-                               Military Base@ 
-                            §eKitrios Barracks@ 
-                         §eWynnExcavation Site A@ 
-                       Quartz Mines North West@ 
-                              Llevigar Farm@ 
-                              Rymek East Mid@ 
-                            §eAbandoned Mines@ 
-                               Temple Island@ 
-                                Snail Island@ 
-                            Dragonling Nests@ 
-                           Abandoned Church@ 
-                            Astraulus' Tower@ 
-                          §eUpper Molten Heights@ 
-                           Desert West Lower@ 
-                              Desert Lower@ 
-                                    §eMaex@ 
-                               Swamp Island@ 
-                           Ahmsord Outskirts@ 
-                            Rymek East Upper@ 
-                            Rymek West Upper@ 
-                                 §eOwl Tribe@ 
-                            Corkus Sea Cove@ 
-                            Corkus Sea Port@ 
-                            Corkus City South@ 
-                               §eDeath's Realm@ 
-                         Savannah West Lower@ 
-                         Savannah East Lower@ 
-                            Desert Mid-Lower@ 
-                              §eJofash Docks@ 
-§f                          Nether Plains Lower@ 
-§f                               Angry Village@ 
-§f                          §eRoots of Corruption@ 
-§f                                  §eElkurn֎@ 
-                       Cinfras County Mid-Lower@ 
-                         Cinfras County Lower@ 
-§f                            §eSanctuary Bridge@ 
-§f                               Elkurn Fields@ 
-                              §eSkiens Island֎@ 
-                                  Thanos@ 
-                          §eRoots of Corruption@ 
-                          Nether Plains Lower@ 
-                               §eSeavale Reef@ 
-§f                               §eSeavale Reef@ 
-                                Little Wood@ 
-                                Tree Island@ 
-§f                              Nemract Road@ 
-§f                                  §eNemract@ 
-                               Plains Coast@ 
-§f                               Plains Coast@ 
-§f                           Nemract Cathedral@ 
-§f                          Nemract Plains East@ 
-                              Road to Elkurn@ 
-                               Mummy's Tomb@ 
-                           Desert West Upper@ 
-                           Durum Isles Upper@ 
-                            Durum Isles East@ 
-                               §eBovine Barn@ 
-                                §eDurum Isles@ 
-                                  §eSelchar֎@ 
-                                  Mt. Wynn@ 
-                              Nemract Road@ 
-§f                            §eAncient Nemract֎@ 
-                                  §eElkurn֎@ 
-                            §eSanctuary Bridge@ 
-                         Savannah West Upper@ 
-                             §eRooster Island֎@ 
-                            §eTribal Sanctuary@ 
-                             Aldorei Lowlands@ 
-                           Llevigar Gate East@ 
-                      Llevigar Plains West Upper@ 
-                      Llevigar Plains West Lower@ 
-                       Llevigar Farm Plains East@ 
-                           Llevigar Gate West@ 
-                       Llevigar Farm Plains West@ 
-                                Green Camp@ 
-                               §ePirate's Bay@ 
-                                Black Camp@ 
-                         Savannah East Upper@ 
-                                    §eAlmuj@ 
-                            Desert Mid-Upper@ 
-                            §eAlmuj Great River@ 
-                           Desert East Lower@ 
-§f                           Desert East Lower@ 
-                             Desert East Mid@ 
-                              Desert Upper@ 
-                           Desert East Upper@ 
-                            §eInvaded Barracks@ 
-                         Gylia Lake South West@ 
-                               Kandon Farm@ 
-                               Old Coal Mine@ 
-                                §eGert Camp֎@ 
-                             Path To Thanos@ 
-                      Cinfras Thanos Transition@ 
-                           Bandit Cave Lower@ 
-                             Burning Airship@ 
-                           Bandit Cave Upper@ 
-                      Canyon Entrance Waterfall@ 
-                             Bandit Camp Exit@ 
-                         Canyon Path North Mid@ 
-                        Canyon Mountain South@ 
-                          Canyon Valley South@ 
-                     Path To Ozoth’s Spire Upper@ 
-                               Burning Farm@ 
-                               Ghostly Path@ 
-                            Path To The Arch@ 
-                        Canyon Path South East@ 
-                           §eIron Golem Factory@ 
-                               Angry Village@ 
-                          Nemract Plains East@ 
-                              §eCastle Dullahan@ 
-                                §eTernaves֎@ 
-                                 §eSavannah@ 
-	                            Nesaak Transition@ 
-§f                            Nesaak Transition@ 
-                       Nesaak Plains North East@ 
-§f                       Nesaak Plains North East@ 
-§f                                   §eNesaak@ 
-                       Nesaak Plains South East@ 
-                                   §eNesaak@ 
-                                  Gelibord@ 
-                                 §eGelibord֎@ 
-                             Twisted Housing@ 
-§f                            Nivla Forest Exit@ 
-§f                           South Nivla Forest@ 
-§f                              Road to Elkurn@ 
-§f                               Maltic Coast@ 
-§f                                   §eMaltic֎@ 
-                                 Orc Road@ 
-                                 Red Camp@ 
-§f                       Pigmen Ravines Entrance@ 
-§f                             §ePigmen's Ravine@ 
-§f                          South Pigmen Ravines@ 
-§f                              §eCoastal Trail֎@ 
-                      Llevigar Plains East Lower@ 
-                      Llevigar Plains East Upper@ 
-                                 Orc Lake@ 
-§f                              Farmers Valley@ 
-§f                                    §eRagni@ 
-§f                              §eEmerald Trail֎@ 
-§f                          Ragni Main Entrance@ 
-§f                         Nivla Forest Entrance@ 
-§f                                §eNivla Village@ 
-§f                           Ragni East Suburbs@ 
-§f                          Ragni North Suburbs@ 
-§f                               Katoa Ranch@ 
-§f                              §eKatoa Ranch֎@ 
-§f                         Ragni North Entrance@ 
-§f                                Maltic Plains@ 
-§f                                §eTime Valley֎@ 
-§f                                  §eDetlas֎@ 
-§f                             Corrupted Road@ 
-§f                           Road to Time Valley@ 
-                               Molten Reach@ 
-                              Volcanic Slope@ 
-                               Efelim Village@ 
-                           Efelim South Plains@ 
-                    Light Forest North Entrance@ 
-                    Light Forest South Entrance@ 
-                       Light Forest West Lower@ 
-                       Light Forest West Upper@ 
-                        Efelim South East Plains@ 
-                            Efelim East Plains@ 
-                                    §eEfilim@ 
-§f                          Nemract Plains West@ 
-§f                                  Mt. Wynn@ 
-                            Swamp West Lower@ 
-                               Swamp Lower@ 
-                       Light Forest East Upper@ 
-                               §eThe Forgery@ 
-                            Cinfras Entrance@ 
-                                  §eCinfras֎@ 
-                       Quartz Mines South West@ 
-                              §eKaroc Quarry@ 
-                             Fortress North@ 
-                       Quartz Mines South East@ 
-                            Entrance to Olux@ 
-                  Swamp Dark Forest Transition Mid@ 
-                            Cinfras Outskirts@ 
-                              §eLight's Secret@ 
-                          Light Realm Entrance@ 
-                       Light Forest East Lower@ 
-                           Dark Forest Village@ 
-                            Corrupted Impact@ 
-                             Banshees Cave@ 
-                              §eHouse of Talor@ 
-                            §eOlux Lumber Yard@ 
-                            Taproot Descent@ 
-                Swamp Dark Forest Transition Upper@ 
-                            §eDark Forest Gate@ 
-                       Gelibord Corrupted Farm@ 
-                             §eQuartz Mansion@ 
-§f                                §eBlack Road@ 
-§f                         Ternaves Plains Upper@ 
-                                §eBlack Road@ 
-                         Ternaves Plains Upper@ 
-                         Ragni North Entrance@ 
-                              §eCoastal Trail֎@ 
-                               Maltic Coast@ 
-                                   §eMaltic֎@ 
-                              Farmers Valley@ 
-                                Ragni Plains@ 
-                              §eKatoa Ranch֎@ 
-                                  Lexdale@ 
-                            Graveyard North@ 
-                                  §eLexdale֎@ 
-	                             Abandoned Pass@ 
-                            Mining Base Upper@ 
-                            Rymek West Lower@ 
-                                   §eRymek@ 
-                            Rymek East Lower@ 
-                             §eHalf-Moon Island@ 
-                            Gromblins Hideout@ 
-                              Path To Prison@ 
-                             Lexdales Prison@ 
-                          Ragni North Suburbs@ 
-                           South Nivla Forest@ 
-                                §eNivla Village@ 
-                           Swamp Plains Basin@ 
-                                    §eOlux֎@ 
-                           Cathedral Harbour@ 
-                           Nemract Cathedral@ 
-                            §eAncient Nemract֎@ 
-                  Swamp Mountain Transition Upper@ 
-                Swamp Mountain Transition Mid-Upper@ 
-                               Elkurn Fields@ 
-                             Corrupted Road@ 
-                            Shanjugin’s River@ 
-                             Fortress South@ 
-                            Graveyard South@ 
-                              Rymek West Mid@ 
-§f                              Rymek West Mid@ 
-§f                               Mummy's Tomb@ 
-                         Swamp West Mid-Upper@ 
-                            Swamp West Upper@ 
-                                §eWorm Holes@ 
-                            Swamp East Upper@ 
-                         Swamp East Mid-Upper@ 
-                    Swamp Mountain Transition Mid@ 
-                  Swamp Mountain Transition Lower@ 
-                              Swamp West Mid@ 
-                            Swamp East Lower@ 
-                              Swamp East Mid@ 
-                Swamp Dark Forest Transition Lower@ 
-                              §eEntamis Village@ 
-                              §eZhight Island֎@ 
-                               §eMaro Peaks֎@ 
-                             Lone Farmstead@ 
-                               Hobbit River@ 
-                     Aldorei Valley West Entrance@ 
-                                 §eThe Shiar@ 
-                                 §eThesead֎@ 
-                                  Thesead@ 
-                             Krolton’s Cave@ 
-                        Temple of the Lost East@ 
-                      Canyon Waterfall Mid North@ 
-                            Canyon Fortress@ 
-                            Valley of the Lost@ 
-                            Canyon Survivor@ 
-                       Canyon Lower South East@ 
-                          Cliff Side of the Lost@ 
-                             Canyon Dropoff@ 
-                              Mountain Path@ 
-                       Canyon Upper North West@ 
-                        Canyon Waterfall North@ 
-                              Aldorei’s Arch@ 
-                        Canyon Path South West@ 
-                            §eBantisu Air Temple@ 
-                            Air Temple Upper@ 
-                               Cliffside Lake@ 
-                          Canyon Of The Lost@ 
-                            Cliffside Passage@ 
-                               Ranol’s Farm@ 
-                                    Eltom@ 
-                                   §eEltom֎@ 
-                              Active Volcano@ 
-                                 Lava Lake@ 
-                            §eFreezing Heights@ 
-                             §eDragon Skeleton@ 
-                            Llevigar Entrance@ 
-                                §eGavel Gate@ 
-                              Nodguj Nation@ 
-                                §eIce Islands@ 
-                              Dujgon Nation@ 
-                                 Lion Lair@ 
-                               §eBremminglar֎@ 
-                               §eMage Island֎@ 
-                             Santa's Hideout@ 
-                                §eEagle Tribe@ 
-                              Mesquis Tower@ 
-                             §eCaritat Mansion@ 
-                        Cherry Blossom Forest@ 
-                               §eCrystal Falls@ 
-                              Gelibord Castle@ 
-                        Light Forest South Exit@ 
-                                Mantis Nest@ 
-                   Dark Forest Cinfras Transition@ 
-                   Nesaak Plains Lower North West@ 
-§f                   Nesaak Plains Lower North West@ 
-                               Icy Descent@ 
-                           §eTower of Ascension@ 
-                                 Lost Atoll@ 
-                                §ePirate Cove@ 
-                         Canyon Mountain East@ 
-                           Wizard Tower North@ 
-                        Canyon Path North West@ 
-                         Entrance to Rodoroc@ 
-§f                              Rymek East Mid@ 
-                             §eRotten Passage@ 
-§f                                Little Wood@ 
-§f                     Nesaak Plains Mid North West@ 
-§f                        §eAbandoned Lumber Yard@ 
-§f                            Llevigar Entrance@ 
-§f                                §eGavel Gate@ 
-§f                                  §eLlevigar@ 
-§f                           Llevigar Gate East@ 
-                         §eWynnExcavation Site A@ 
-§f                                §eDurum Isles@ 
-§f                          Great Bridge Nesaak@ 
-§f                            §eThe Great Bridge@ 
-§f                          Great Bridge Jungle@ 
-§f                            §eTribal Sanctuary@ 
-§f                               §eIboju Village@ 
-                            Nesaak Transition@ 
-§f                             §eSunrise Canyon@ 
-§f                             §eRotten Passage@ 
-                            §eFountain of Youth@ 
-                             Abandoned Pass@ 
-§f                           Desert West Upper@ 
-§f                            Rymek East Upper@ 
-§f                               Twisted Ridge@ 
-§f                            Corrupted Impact@ 
-§f                             §eHalf-Moon Island@ 
-                              Chained House@ 
-                     Entrance to Thesead South@ 
-                               Wybel Island@ 
-§f                                 §eBear Zoo@ 
-§f                               §eBovine Barn@ 
-§f                          §eRoots of Corruption@ 
-                              Regular Island@ 
-                               Imperial Gate@ 
-                                 §eThe Moon@ 
-§f                            §eFountain of Youth@ 
-                             §ePrison of Souls@ 
-                           §ePlague Laboratory@ 
-§f                              §eEntamis Village@ 
-                          §eAerie of the Recluse@ 
-                         Light Realm Mushrooms@ 
-                             Light Realm East@ 
-§f                                §eBob's Tomb֎@ 
-                               §e??????????@ 
-                         §eAltar of Sanctification@ 
-§f                                 Lion Lair@ 
-                             §eRuined Olmic City@ 
-                              §eOlmic Cathedral@ 
-                              §eEyeball Forest@ 
-                              §eTown of Lutho@ 
-                         §eCarnivorous Creature@ 
-                          §eThe Eldritch Outlook@ 
-                               §eToxic Wastes@ 
-                                §eVoid Valley@ 
-                               §eDark Obelisk@ 
-§f                              §eNorth Lusuco@ 
-§f                        Efelim South East Plains@ 
-§f                           Efelim South Plains@ 
-§f                                Herb Cave@ 
-                              §ePortal to Dern@ 
-                             The Silent Road@ 
-                            The Broken Road@ 
-                               Worm Tunnel@ 
-§f                                 Icy Island@ 
-                                 Toxic Drip@ 
-                                 Sacrifice@ 
-                             Sinister Forest@ 
+§4That item is untradeable...@§4Этот предмет нельзя продать...
+§cValid pet names only contain letters and numbers!@§cВ имени должны быть только буквы и числа!
+§fUnknown command. Type "/help" for help.@§fНеизвестная команда. Напиши "/help" для помощи.
+§cSorry, the trade market will be back shortly!@§cЧто-то случилось, трейд маркет скоро заработает снова!
+§4They were not added to your ignore list.@§4Он не был добавлен в твой игнор лист.
+§4Did you spell their name correctly?@§4Ты написал его имя правильно?
+§4You must be further away from any existing totems...@§4Ты должен быть дальше от любых существующих тотемов...
+§4You have not donated to rename your pets.@§4Ты не донатер, чтобы переименовывать своих питомцев.
+§4You do not have any pets!@§4У тебя нет никаких питомцев!
+§4You cannot disguise while PvP is enabled!@§4Ты не можешь использовать маскировки с включенным ПвП!
+§aOkay, your shout has been cancelled.@§aХорошо, твое сообщение было отменено.
+§4Your friend's name cannot be longer than 16 characters!@§4Имя твоего друга не может быть длиннее 16 символов!
+§4Your character is permanently hunted mode.@§4Твой персонаж в постоянном режиме ПвП.
+§cTo start a friendly duel, disable hunted mode.@§cДля старта дружеской дуэли необходимо отключить режим охотника.
+§cYou're not allowed on this server!@§cТебе нельзя на этот сервер!
+§cYou were undisguised because you left the server.@§cТвоя маскировка была отключена, так как ты вышел с сервера.
+§4Sorry, you cannot use a crate here. Finish the dungeon first.@§4Извини, ты не можешь окрыть здесь контейнер. Закончи сначала данж.
+§7Note: You've just messaged an admin of Wynncraft. We tend to get a lot of messages, so please don't be frustrated if you don't get a response.@§7Заметка: Ты только что написал администратору сервера. Они, как правило, получают много сообщений, поэтому не расстраивайся, если не получишь ответа.
+§4You cannot craft while dueling!@§4Ты не можешь крафтить во время дуэли!
 
 ###################################SECRET DISCOVERIES#######################################
-§f                              §bA Hero's Origin@ 
-§f                         §bRagni's Secret Library@ 
-§f                                 §bWatchmen@ 
                             §bNecklace Chamber@ 
                               §bLost Avos City@ 
-§f                                §bTemple Ruin@ 
                          §bRelos's Secret Library@ 
                        §bLusuco's Secret Library	@ 
                                §bCrate Crane@ 
@@ -2797,13 +2127,9 @@ You are not whitelisted on this server!@Тебя нет в вайтлисте э
                          §bBak'al's Destruction 3@ 
                            §bBeneath the Roots@ 
                          §bBak'al's Destruction 2@ 
-§f                            §bTemple of Swords@ 
-§f                                 §bQuicksand@ 
-§f                         §bBak'al's Destruction 2@ 
                                §bWrecking Ball@ 
                                 §bRymek Thief@ 
                         §bDesert Royal Residence@ 
-§f                                §bBoulder Pit@ 
                                 §bTotem Pole@ 
                           §bWynn Plains Monument@ 
                               §bA Hero's Origin@ 
@@ -2820,21 +2146,6 @@ You are not whitelisted on this server!@Тебя нет в вайтлисте э
                                 §bTemple Ruin@ 
                             §bTemple of Swords@ 
                                  §bQuicksand@ 
-§f                           §bBeneath the Roots@ 
-§f                             §bBoulder Breaker@ 
-§f                             §bHistorical Maltic@ 
-§f                           §bWater of the Past@ 
-§f                         §bBak'al's Destruction 1@ 
-§f                         §bBak'al's Destruction 3@ 
-§f                               §bTimeless Ruin@ 
-§f                         §bSomewhere In Between@ 
-§f                               §bCrate Crane@ 
-§f                             §bMining Operation@ 
-§f                          §bWynn Plains Monument@ 
-§f                                §bTotem Pole@ 
-§f                               §bWrecking Ball@ 
-§f                                §bRymek Thief@ 
-§f                        §bDesert Royal Residence@ 
                        §bLusuco's Secret Library@ 
                           §bFrozen Cave Hideout@ 
                                 §bWolf Temple@ 
@@ -2854,5 +2165,29 @@ You are not whitelisted on this server!@Тебя нет в вайтлисте э
                             §bA Deathly Warning@ 
                                §bTorn in Twain@ 
                               §bPottery Wheel@ 
+                        §bSilent Expanse's Secret@ 
+§f                              §bA Hero's Origin@ 
+§f                         §bRagni's Secret Library@ 
+§f                                 §bWatchmen@ 
+§f                                §bTemple Ruin@ 
+§f                            §bTemple of Swords@ 
+§f                                 §bQuicksand@ 
+§f                         §bBak'al's Destruction 2@ 
+§f                                §bBoulder Pit@ 
+§f                           §bBeneath the Roots@ 
+§f                             §bBoulder Breaker@ 
+§f                             §bHistorical Maltic@ 
+§f                           §bWater of the Past@ 
+§f                         §bBak'al's Destruction 1@ 
+§f                         §bBak'al's Destruction 3@ 
+§f                               §bTimeless Ruin@ 
+§f                         §bSomewhere In Between@ 
+§f                               §bCrate Crane@ 
+§f                             §bMining Operation@ 
+§f                          §bWynn Plains Monument@ 
+§f                                §bTotem Pole@ 
+§f                               §bWrecking Ball@ 
+§f                                §bRymek Thief@ 
+§f                        §bDesert Royal Residence@ 
 §f                          §bThe Lone Telescope@ 
 §f                              §bPottery Wheel@ 

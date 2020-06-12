@@ -55,9 +55,9 @@
 §eWar Machines have been destroyed@§eМашины были уничтожены
 §a[1/3] Hints found@§a[1/3] Подсказок найдено
 §a[2/3] Hints found@§a[2/3] Подсказок найдено
+§a[3/3] Hints found@§a[3/3] Подсказок найдено
 §c§k||§cUna§ku§cthor§ki§czed ac§kc§cess de§kt§cected§k||@§c§k||§cОбн§ka§cру§kzh§cен несанкц§kioni§cрованный до§ks§cтуп§k||
 §c§k||§cMan§ku§cal Interven§kt§cion req§ku§cired§k||@§c§k||§cТре§kbu§cется ручн§ko§cе вме§ksha§cтельство§k||
-§a[3/3] Hints found@§a[3/3] Подсказок найдено
 §2Maxie: §aThis town is usually full of life.@§2Макси: §aЭтот город обычно полон жизни.
 §aBut Corkus has a secret...@§aНо у Коркуса есть секрет...
 §aOur own creations have rebelled against us.@§aНаши собственные создания восстали против нас.
@@ -66,46 +66,16 @@
 §aEven in rust, they are still powerful.@§aДаже в ржавчине, они все еще сильны.
 §aWe have tried to remove them but the factory always makes more.@§aМы пытались уничтожить их, но фабрика всегда делает больше.
 §aIt is Corkus’s greatest failure. It must be stopped.@§aЭто самая большая ошибка Коркуса. Это нужно остановить.
-§4/§c!§4\§c §dSystem Deactivation In:§c §5§l15§c §4/§c!§4\@§4/§c!§4\§c §dСистема Деактивируется через:§c §5§l15§c §4/§c!§4\
-§4/§c!§4\§c §dSystem Deactivation In:§c §5§l14§c §4/§c!§4\@§4/§c!§4\§c §dСистема Деактивируется через:§c §5§l14§c §4/§c!§4\
-§4/§c!§4\§c §dSystem Deactivation In:§c §5§l13§c §4/§c!§4\@§4/§c!§4\§c §dСистема Деактивируется через:§c §5§l13§c §4/§c!§4\
-§4/§c!§4\§c §dSystem Deactivation In:§c §5§l12§c §4/§c!§4\@§4/§c!§4\§c §dСистема Деактивируется через:§c §5§l12§c §4/§c!§4\
-§4/§c!§4\§c §dSystem Deactivation In:§c §5§l11§c §4/§c!§4\@§4/§c!§4\§c §dСистема Деактивируется через:§c §5§l11§c §4/§c!§4\
-§4/§c!§4\§c §dSystem Deactivation In:§c §5§l10§c §4/§c!§4\@§4/§c!§4\§c §dСистема Деактивируется через:§c §5§l10§c §4/§c!§4\
-§4/§c!§4\§c §dSystem Deactivation In:§c §5§l9§c §4/§c!§4\@§4/§c!§4\§c §dСистема Деактивируется через:§c §5§l9§c §4/§c!§4\
-§4/§c!§4\§c §dSystem Deactivation In:§c §5§l8§c §4/§c!§4\@§4/§c!§4\§c §dСистема Деактивируется через:§c §5§l8§c §4/§c!§4\
-§4/§c!§4\§c §dSystem Deactivation In:§c §5§l7§c §4/§c!§4\@§4/§c!§4\§c §dСистема Деактивируется через:§c §5§l17§c §4/§c!§4\
-§4/§c!§4\§c §dSystem Deactivation In:§c §5§l6§c §4/§c!§4\@§4/§c!§4\§c §dСистема Деактивируется через:§c §5§l16§c §4/§c!§4\
-§4/§c!§4\§c §dSystem Deactivation In:§c §5§l5§c §4/§c!§4\@§4/§c!§4\§c §dСистема Деактивируется через:§c §5§l15§c §4/§c!§4\
-§4/§c!§4\§c §dSystem Deactivation In:§c §5§l4§c §4/§c!§4\@§4/§c!§4\§c §dСистема Деактивируется через:§c §5§l14§c §4/§c!§4\
 §4/§c!§4\§c §dReactivation Sucessful!§c §4/§c!§4\@§4/§c!§4\§c §dДеактивация Успешна!§c §4/§c!§4\
+§4/§c!§4\§c §dReactivation Failed!§c §4/§c!§4\@§4/§c!§4\§c §dДеактивация Провалена!§c §4/§c!§4\
 §4Try again!@§4Попробуй снова!
 §7§l100 Meters Under Ahmsord@§7§l100 Метров под Амсордом
 §7§l300 Meters Under Ahmsord@§7§l300 Метров под Амсордом
 §7§l700 Meters Under Ahmsord@§7§l700 Метров под Амсордом
-§62:00 left until the bridge is built@§62:00 осталось до постройки моста
-§61:50 left@§61:50 осталось
-§61:40 left@§61:40 осталось
-§61:30 left@§61:30 осталось
-§61:20 left@§61:20 осталось
-§61:10 left@§61:10 осталось
-§61:00 left@§61:00 осталось
-§60:50 left@§60:50 осталось
-§60:40 left@§60:40 осталось
-§60:30 left@§60:30 осталось
-§60:20 left@§60:20 осталось
-§60:10 left@§60:10 осталось
+ until the bridge is built@§62:00 осталось до постройки моста
 §6Bridge built!@§6Мост построен!
 §cLava starts in...@§cЛава начнется через...
 §7You've been knocked out...@§7Ты был нокаутирован...
-§7[0/7] Bodies Cleaned@§7[0/7] Тел Очищено
-§7[1/7] Bodies Cleaned@§7[1/7] Тел Очищено
-§7[2/7] Bodies Cleaned@§7[2/7] Тела Очищено
-§7[3/7] Bodies Cleaned@§7[3/7] Тела Очищено
-§7[4/7] Bodies Cleaned@§7[4/7] Тела Очищено
-§7[5/7] Bodies Cleaned@§7[5/7] Тел Очищено
-§7[6/7] Bodies Cleaned@§7[6/7] Тел Очищено
-§7[7/7] Bodies Cleaned@§7[7/7] Тел Очищено
 §8Cast spells!@§8Кастуй заклинания!
 §7Poor town@§7Бедный городок
 §7Fruma@§7Фрума
@@ -148,6 +118,15 @@
 §4You failed!@§4Ты не справился!
 §cTry again@§cПопробуй снова
 §cTake out the summoner!@§cУбери призывателя!
+§c1:30 minutes left!@§c1:30 минут осталось!
+§c1:20 minutes left!@§c1:20 минут осталось!
+§c1:10 minutes left!@§c1:10 минут осталось!
+§c1 minute left!@§c1 минута осталась!
+§c50 seconds left!@§c50 секунд осталось!
+§c40 seconds left!@§c40 секунд осталось!
+§c30 seconds left!@§c30 секунд осталось!
+§c20 seconds left!@§c20 секунд осталось!
+§c10 seconds left!@§c10 секунд осталось!
 
 ###########################Crates################################
 §7Click to stop the items@§7Кликни, чтобы остановить предметы
@@ -169,7 +148,9 @@
 §fChocolate Wybel Token@§fШоколадный Вубел Жетон
 §dPink Wybel Token@§dРозовый Вубел Жетон
 §cOrange Wybel Token@§cОранжевый Вубел Жетон
+§cOrange Cybel Token@§cОранжевый Кубел Жетон
 §6Sky Blue Wybel Token@§6Голубой Вубел Жетон
+§6Sea Blue Wybel Token@§6Голубой Вубел Жетон
 §6Golden Wand@§6Золотой Посох
 §6Golden Bow@§6Золотой Лук
 §6Golden Spear@§6Золотое Копье
@@ -182,6 +163,7 @@
 §6Half-Moon Bow@§6Полу-Месяц Лук
 §6Half-Moon Wand@§6Полу-Месяц Посох
 §6Half-Moon Dagger@§6Полу-Месяц Кинжал
+§6Half-Moon Spear@§6Полу-Месяц Копье
 §6Fellowship Dagger@§6Кинжал Дружбы
 §6Fellowship Dark Wand@§6Темный Посох Дружбы
 §6Fellowship Bow@§6Лук Дружбы
@@ -195,6 +177,7 @@
 §fEmerald Swirl Effect@§fЭффект Эмеральдного Вихря
 §fSlime Effect@§fЭффект Слайма
 §cFairy Wings Effect@§cЭффект Сказочных Крыльев
+§cPhoenix Wings Effect@§cЭффект Крыльев Феникса
 §cBone Wings Effect@§cЭффект Костлявых Крыльев
 §dAir Aura Effect@§dЭффект Ауры Воздуха
 §dMusic Swirl Effect@§dЭффект Круговорота Музыки
@@ -243,11 +226,30 @@
 §6Corrupted Wand@§6Испорченный Посох
 §6Futuristic Bow@§6Футуристический Лук
 §6Futuristic Dagger@§6Футуристический Кинжал
+§6Futuristic Spear@§6Футуристичное Копье
+§6Futuristic Wand@§6Футуристический Посох
 §dFood Bow@§dЛук Банан
 §dFood Wand@§dРыба-Меч Посох
 §dFood Spear@§dШашлык Копье
 §dFood Dagger@§dКуриная Ножка Кинжал
 §6Banana Sword@§6Меч Банан
+§dFood Relik@§dБрокколи Релик
+§dSteampunk Relik@§dСтимпанк Релик
+§cPhoenix Wand@§cПосох Феникса
+§cPhoenix Bow@§cЛук Феникса
+§cPhoenix Relik@§cРелик Феникса
+§cDern Wand@§cДерн Посох
+§cDern Relik@§cДерн Релик
+§6Golden Relik@§6Золотой Релик
+§6Fellowship Relik@§6Релик Дружбы
+§6Carbon Fiber Cybel Token@§6Карбоновый Кубел Жетон
+§6Futuristic Relik@§6Футуристический Релик
+§4Frosty Relik@§4Морозный Релик
+§4Frosty Bow@§4Морозный Лук
+§4Frosty Staff@§4Морозный Посох
+§6Pirate Spear@§6Пиратское Копье
+§6Pirate Wand@§6Пиратский Посох
+§6Pirate Hook@§6Пиратский Крюк
 
 #########################System##################################
 §bServer restarting!@§bРестарт сервера!
@@ -267,6 +269,7 @@ Flying is not enabled on this server@Нельзя летать на сервер
 Your client seems to be spamming us!@Твой клиент спамит нам!
 You are not whitelisted on this server!@Тебя нет в вайтлисте!
 §cYou are not whitelisted on this server!@§cТебя нет в вайтлисте сервера!
+§cYou're not allowed on this server!@§cТебе нельзя на этот сервер!
 Server closed@Сервер закрыт
 §aSAFE@§aБЕЗОПАСНО
 §cUNSAFE@§cНЕБЕЗОПАСНО
@@ -274,6 +277,7 @@ Server closed@Сервер закрыт
 §cHunted Enabled (PvP on)@§cОхотник Включен (ПвП вкл)
 §cHunted Disabled (PvP off)@§cОхотник Выключен (ПвП выкл)
 We are §arestarting§f, please join back in a moment!@§fМы §aперезагружаемся§f. Пожалуйста, присоединяйтесь к нам через минуту!
+§dYou have logged in somewhere else@§dТы залогинен где-то еще
 
 #########################Spells###############################
 §aL§7-§aL§7-§7§n?@§aЛ§7-§aЛ§7-§7§n?
@@ -310,22 +314,15 @@ We are §arestarting§f, please join back in a moment!@§fМы §aперезаг
 §6§lLet's Party!@§6§lДавайте веселиться!
 §7Click to shoot, Sneak to jump@§7Кликни для выстрела, Присядь для прыжка
 §aYou've entered the warzone@§aТы вошел в зону захвата
-§6900 Mobs Left@§6900 Мобов Осталось
-§6800 Mobs Left@§6800 Мобов Осталось
-§6700 Mobs Left@§6700 Мобов Осталось
-§6600 Mobs Left@§6600 Мобов Осталось
-§6500 Mobs Left@§6500 Мобов Осталось
-§6400 Mobs Left@§6400 Мобов Осталось
-§6300 Mobs Left@§6300 Мобов Осталось
-§6200 Mobs Left@§6200 Мобов Осталось
-§6100 Mobs Left@§6100 Мобов Осталось
-§60 Mobs Left@§60 Мобов Осталось
 §f464 AP@§f464 ПП
 §f886 AP@§f886 ПП
-§a100 BP@§a100 ДП
 §f347 AP@§f347 ПП
-§f(After Portal)@§f(После Портала)
 §f162 AP@§f162 ПП
+§8550 AP@§8550 ПП
+§f570 AP@§f570 ПП
+§7800 BP@§7800 ДП
+§a100 BP@§a100 ДП
+§f(After Portal)@§f(После Портала)
 §3§lModeler's §bWorkshop@§3§lМастерская §bМоделиста
 §7§nPosing for you@§7§nПозирует для тебя
 §7§nShaping the world@§7§nДелают сервер
@@ -335,13 +332,12 @@ We are §arestarting§f, please join back in a moment!@§fМы §aперезаг
 §2✔ §7§nQuality Assured§7 §4✘@§2✔ §7§nКонтроль Качества§7 §4✘
 §7Zooming In...@§7Приближение...
 §8Uses Left@§8Использований Осталось
-§8550 AP@§8550 ПП
 §fTwains Graveyard@§fМогила Твейна
-§f570 AP@§f570 ПП
 §2Mael: §a§lENOUGH.@§2Маэл: §a§lДОСТАТОЧНО.
-§7800 BP@§7800 ДП
 §fNivla Forest@§fЛес Нивла
 §fRagni@§fРагни
+§7§nMusic to our ears@§7§nМузыка для наших ушей
+§3§lComposer's §bHall@§b§lЗал §3Композиторов 
 
 #############################Discoveries#########################
 §bTemple of Swords@§bХрам Мечей
@@ -390,6 +386,7 @@ We are §arestarting§f, please join back in a moment!@§fМы §aперезаг
 §bSpace Between Realities@§bПространство Между Реальностями
 §bOtherworldly Occurrence@§bПотустороннее Явление
 §bFate of the Olm@§bСудьба Олмов
+§bSilent Expanse's Secret@§bСекрет Тихого Пространства
 
 ################################Dungeons#############################
 §8Decrepit Sewers@§8Ветхая Канализация
