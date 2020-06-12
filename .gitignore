@@ -14,10 +14,7 @@ out
 .idea
 
 # gradle
-gradlew
-gradlew.bat
 build
-gradle
 .gradle
 
 # other
