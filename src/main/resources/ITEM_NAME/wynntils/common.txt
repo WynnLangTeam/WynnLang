@@ -3,12 +3,12 @@
 §b§lQuests@§b§lКвесты
 §b§lSecret Discoveries@§b§lСекретные Открытия
 §f§lMini-Quests@§f§lМини-Квесты
-§cPotion of Healing§4 [3/3]@§cЗелье Лечения §4 [3/3]
-§cPotion of Healing§4 [2/3]@§cЗелье Лечения §4 [2/3]
-§cPotion of Healing§4 [1/3]@§cЗелье Лечения §4 [1/3]
-§cPotion of Healing§4 [3/3]À@§cЗелье Лечения §4 [3/3]
 §cPotion of Healing§4 [1/3]À@§cЗелье Лечения §4 [1/3]
+§cPotion of Healing§4 [1/3]@§cЗелье Лечения §4 [1/3]
+§cPotion of Healing§4 [2/3]@§cЗелье Лечения §4 [2/3]
 §cPotion of Healing§4 [2/3]À@§cЗелье Лечения §4 [2/3]
+§cPotion of Healing§4 [3/3]À@§cЗелье Лечения §4 [3/3]
+§cPotion of Healing§4 [3/3]@§cЗелье Лечения §4 [3/3]
 
 ##############################UNIDENTIFIED ITEMS##############################
 §eUnidentified Wand@§eНеидентифицированный Посох
@@ -17,11 +17,11 @@
 §aUnidentified Wand@§aНеидентифицированный Посох
 §cUnidentified Wand@§cНеидентифицированный Посох
 §5Unidentified Wand@§5Неидентифицированный Посох
-§5Unidentified Dagger@§5Неидентифицированный Кинжал
 §eUnidentified Dagger@§eНеидентифицированный Кинжал
 §dUnidentified Dagger@§dНеидентифицированный Кинжал
 §bUnidentified Dagger@§bНеидентифицированный Кинжал
 §aUnidentified Dagger@§aНеидентифицированный Кинжал
+§5Unidentified Dagger@§5Неидентифицированный Кинжал
 §eUnidentified Bow@§eНеидентифицированный Лук
 §dUnidentified Bow@§dНеидентифицированный Лук
 §bUnidentified Bow@§bНеидентифицированный Лук

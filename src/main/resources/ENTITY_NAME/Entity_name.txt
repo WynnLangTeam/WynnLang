@@ -179,6 +179,7 @@ Assassin@Ассасин
 §aSound Wave Emitter§6 [Lv. 61]@§aИзлучатель Звуковых Волн§6 [Ур. 61]
 §aPotion§6 [Lv. 1]@§aЗелье§6 [Ур. 1]
 §aStone Tablet§6 [Lv. 1]@§aКаменная Плита§6 [Ур. 1]
+§aStone §6[Lv. 0]@§aКамень §6[Ур. 0]
 
 #####################MERCHANTS###########################
 §dDungeon Merchant@§dДанж Торговец
@@ -288,35 +289,6 @@ Assassin@Ассасин
 §dMiner Pass Merchant@§dТорговец Пропусками в Шахту
 
 ############################NPC\QUESTS NPC###########################
-§2§aSlaying Post §2[Combat Lv. 73]@§2§aДоска Заданий §2[Комбат Ур. 73]
-§2§aSlaying Post §2[Combat Lv. 5]@§2§aДоска Заданий §2[Комбат Ур. 5]
-§2§aSlaying Post §2[Combat Lv. 70]@§2§aДоска Заданий §2[Комбат Ур. 70]
-§2§aSlaying Post §2[Combat Lv. 50]@§2§aДоска Заданий §2[Комбат Ур. 50]
-§2§aSlaying Post §2[Combat Lv. 78]@§2§aДоска Заданий §2[Комбат Ур. 78]
-§2§aSlaying Post §2[Combat Lv. 15]@§2§aДоска Заданий §2[Комбат Ур. 15]
-§2§aSlaying Post §2[Combat Lv. 60]@§2§aДоска Заданий §2[Комбат Ур. 60]
-§2§aSlaying Post §2[Combat Lv. 75]@§2§aДоска Заданий §2[Комбат Ур. 75]
-§2§aSlaying Post §2[Combat Lv. 55]@§2§aДоска Заданий §2[Комбат Ур. 55]
-§2§aSlaying Post §2[Combat Lv. 25]@§2§aДоска Заданий §2[Комбат Ур. 25]
-§2§aSlaying Post §2[Combat Lv. 35]@§2§aДоска Заданий §2[Комбат Ур. 35]
-§2§aSlaying Post §2[Combat Lv. 30]@§2§aДоска Заданий §2[Комбат Ур. 30]
-§2§aSlaying Post §2[Combat Lv. 88]@§2§aДоска Заданий §2[Комбат Ур. 88]
-§2§aSlaying Post §2[Combat Lv. 45]@§2§aДоска Заданий §2[Комбат Ур. 45]
-§2§aSlaying Post §2[Combat Lv. 40]@§2§aДоска Заданий §2[Комбат Ур. 40]
-§2§aSlaying Post §2[Combat Lv. 83]@§2§aДоска Заданий §2[Комбат Ур. 83]
-§2§aSlaying Post §2[Combat Lv. 98]@§2§aДоска Заданий §2[Комбат Ур. 98]
-§2§aSlaying Post §2[Combat Lv. 94]@§2§aДоска Заданий §2[Комбат Ур. 94]
-§2§aSlaying Post §2[Combat Lv. 90]@§2§aДоска Заданий §2[Комбат Ур. 90]
-§2§aSlaying Post §2[Combat Lv. 80]@§2§aДоска Заданий §2[Комбат Ур. 80]
-§2§aSlaying Post §2[Combat Lv. 91]@§2§aДоска Заданий §2[Комбат Ур. 91]
-§2§aSlaying Post §2[Combat Lv. 85]@§2§aДоска Заданий §2[Комбат Ур. 85]
-§2§aSlaying Post §2[Combat Lv. 97]@§2§aДоска Заданий §2[Комбат Ур. 97]
-§2§aSlaying Post §2[Combat Lv. 92]@§2§aДоска Заданий §2[Комбат Ур. 92]
-§2§aSlaying Post §2[Combat Lv. 95]@§2§aДоска Заданий §2[Комбат Ур. 95]
-§2§aSlaying Post §2[Combat Lv. 93]@§2§aДоска Заданий §2[Комбат Ур. 93]
-§2§aSlaying Post §2[Combat Lv. 65]@§2§aДоска Заданий §2[Комбат Ур. 65]
-§2§aSlaying Post §2[Combat Lv. 96]@§2§aДоска Заданий §2[Комбат Ур. 96]
-§2§aSlaying Post §2[Combat Lv. 99]@§2§aДоска Заданий §2[Комбат Ур. 99]
 §7NPC@§7НПС
 §2§fSteve@§2§fСтив
 §2§fHaba@§2§fХаба
@@ -611,7 +583,7 @@ Assassin@Ассасин
 §2Pacal@§2Пакал
 §2Excavator Lykron@§2Раскопщик Ликрон
 §2Twendle@§2Твендл
-§2Alem@§2Алем
+§2Alem@§2Алэм
 §2Flendar@§2Флендар
 §2Troms Guard@§2Страж Тромса 
 §2Dropped Journal@§2Брошенный Журнал
@@ -1074,56 +1046,6 @@ Assassin@Ассасин
 §2Geologist@§2Геолог
 §2Dwarven Miner@§2Гном Шахтер
 §2Deathknell Wretch@§2Смертельная Тварь
-§2Thunder Catalyst Collector 1@§2Сборщик Катализаторов Грома 1
-§2Thunder Catalyst Collector 2@§2Сборщик Катализаторов Грома 2
-§2Thunder Catalyst Collector 3@§2Сборщик Катализаторов Грома 3
-§2Thunder Catalyst Collector 4@§2Сборщик Катализаторов Грома 4
-§2Thunder Catalyst Collector 5@§2Сборщик Катализаторов Грома 5
-§2Thunder Catalyst Collector 6@§2Сборщик Катализаторов Грома 6
-§2Thunder Catalyst Collector 7@§2Сборщик Катализаторов Грома 7
-§2Thunder Catalyst Collector 8@§2Сборщик Катализаторов Грома 8
-§2Thunder Catalyst Collector 9@§2Сборщик Катализаторов Грома 9
-§2Thunder Catalyst Collector 10@§2Сборщик Катализаторов Грома 10
-§2Air Catalyst Collector 1@§2Сборщик Катализаторов Воздуха 1
-§2Air Catalyst Collector 2@§2Сборщик Катализаторов Воздуха 2
-§2Air Catalyst Collector 3@§2Сборщик Катализаторов Воздуха 3
-§2Air Catalyst Collector 4@§2Сборщик Катализаторов Воздуха 4
-§2Air Catalyst Collector 5@§2Сборщик Катализаторов Воздуха 5
-§2Air Catalyst Collector 6@§2Сборщик Катализаторов Воздуха 6
-§2Air Catalyst Collector 7@§2Сборщик Катализаторов Воздуха 7
-§2Air Catalyst Collector 8@§2Сборщик Катализаторов Воздуха 8
-§2Air Catalyst Collector 9@§2Сборщик Катализаторов Воздуха 9
-§2Air Catalyst Collector 10@§2Сборщик Катализаторов Воздуха 10
-§2Earth Catalyst Collector 1@§2Сборщик Катализаторов Земли 1
-§2Earth Catalyst Collector 2@§2Сборщик Катализаторов Земли 2
-§2Earth Catalyst Collector 3@§2Сборщик Катализаторов Земли 3
-§2Earth Catalyst Collector 4@§2Сборщик Катализаторов Земли 4
-§2Earth Catalyst Collector 5@§2Сборщик Катализаторов Земли 5
-§2Earth Catalyst Collector 6@§2Сборщик Катализаторов Земли 6
-§2Earth Catalyst Collector 7@§2Сборщик Катализаторов Земли 7
-§2Earth Catalyst Collector 8@§2Сборщик Катализаторов Земли 8
-§2Earth Catalyst Collector 9@§2Сборщик Катализаторов Земли 9
-§2Earth Catalyst Collector 10@§2Сборщик Катализаторов Земли 10
-§2Water Catalyst Collector 1@§2Сборщик Катализаторов Воды 1
-§2Water Catalyst Collector 2@§2Сборщик Катализаторов Воды 2
-§2Water Catalyst Collector 3@§2Сборщик Катализаторов Воды 3
-§2Water Catalyst Collector 4@§2Сборщик Катализаторов Воды 4
-§2Water Catalyst Collector 5@§2Сборщик Катализаторов Воды 5
-§2Water Catalyst Collector 6@§2Сборщик Катализаторов Воды 6
-§2Water Catalyst Collector 7@§2Сборщик Катализаторов Воды 7
-§2Water Catalyst Collector 8@§2Сборщик Катализаторов Воды 8
-§2Water Catalyst Collector 9@§2Сборщик Катализаторов Воды 9
-§2Water Catalyst Collector 10@§2Сборщик Катализаторов Воды 10
-§2Fire Catalyst Collector 1@§2Сборщик Катализаторов Огня 1
-§2Fire Catalyst Collector 2@§2Сборщик Катализаторов Огня 2
-§2Fire Catalyst Collector 3@§2Сборщик Катализаторов Огня 3
-§2Fire Catalyst Collector 4@§2Сборщик Катализаторов Огня 4
-§2Fire Catalyst Collector 5@§2Сборщик Катализаторов Огня 5
-§2Fire Catalyst Collector 6@§2Сборщик Катализаторов Огня 6
-§2Fire Catalyst Collector 7@§2Сборщик Катализаторов Огня 7
-§2Fire Catalyst Collector 8@§2Сборщик Катализаторов Огня 8
-§2Fire Catalyst Collector 9@§2Сборщик Катализаторов Огня 9
-§2Fire Catalyst Collector 10@§2Сборщик Катализаторов Огня 10
 §2Master Catalyst Collector@§2Сборщик Мастер Катализаторов
 §fCanyon Hermit@§fОтшельник Каньона
 §fFisherman@§fРыбак
@@ -1300,6 +1222,8 @@ Old Druid@Старый Друид
 §6[§e|||Mini§8ng|||§6]@§6[§e|||Добы§8ча|||§6]
 §6[§e|||Mining§8|||§6]@§6[§e|||Добыча§8|||§6]
 §2[§a|||Mining||§8|§2]@§2[§a|||Добыча||§8|§2]
+§4[§c|||F§8arming|||§4]@§4[§c|||У§8борка|||§4]
+§4[§c||§8|Farming|||§4]@§4[§c||§8|Уборка|||§4]
 §4[§c|||§8Farming|||§4]@§4[§c|||§8Уборка|||§4]
 §6[§e|||Fa§8rming|||§6]@§6[§e|||Уб§8орка|||§6]
 §6[§e|||Farm§8ing|||§6]@§6[§e|||Убор§8ка|||§6]
@@ -1312,6 +1236,7 @@ Old Druid@Старый Друид
 §2[§a|||Farming||§8|§2]@§2[§a|||Уборка||§8|§2]
 §6[§e|||F§8arming|||§6]@§6[§e|||У§8борка|||§6]
 §2[§a|||Farming§8|||§2]@§2[§a|||Уборка§8|||§2]
+§4[§c||§8|Chopping|||§4]@§4[§c||§8|Вырубка|||§4]
 §4[§c|||§8Chopping|||§4]@§4[§c|||§8Вырубка|||§4]
 §4[§c|||C§8hopping|||§4]@§4[§c|||В§8ырубка|||§4]
 §6[§e|||Ch§8opping|||§6]@§6[§e|||Вы§8рубка|||§6]
@@ -1327,6 +1252,7 @@ Old Druid@Старый Друид
 §6[§e|||Choppin§8g|||§6]@§6[§e|||Вырубк§8а|||§6]
 §6[§e|||C§8hopping|||§6]@§6[§e|||В§8ырубка|||§6]
 §4[§c|||§8Fishing|||§4]@§4[§c|||§8Рыбалка|||§4]
+§4[§c|||F§8ishing|||§4]@§4[§c|||Р§8ыбалка|||§4]
 §6[§e|||Fishi§8ng|||§6]@§6[§e|||Рыбал§8ка|||§6]
 §6[§e|||Fishing§8|||§6]@§6[§e|||Рыбалка§8|||§6]
 §2[§a|||Fishing||§8|§2]@§2[§a|||Рыбалка||§8|§2]
@@ -1338,6 +1264,7 @@ Old Druid@Старый Друид
 §2[§a|||Fishing|||§2]@§2[§a|||Рыбалка|||§2]
 §2[§a|||Fishing§8|||§2]@§2[§a|||Рыбалка§8|||§2]
 §6[§e|||F§8ishing|||§6]@§6[§e|||Р§8ыбалка|||§6]
+§6[§c||§8|Fishing|||§6]@§6[§c||§8|Рыбалка|||§6]
 §aMushroom@§aГриб
 §2[§a+1§2 Red Mushroom]@§2[§a+1§2 Красный Гриб]
 §2[§a+1§2 Brown Mushroom]@§2[§a+1§2 Коричневый Гриб]
@@ -1733,13 +1660,13 @@ Floor §64@Этаж §64
 Floor §65@Этаж §65
 Floor §66@Этаж §66
 Floor §67@Этаж §67
-Level §c90-100@Уровень §c90-100
 Level §c40-50@Уровень §c40-50
 Level §c50-60@Уровень §c50-60
 Level §c80-90@Уровень §c80-90
 Level §c60-70@Уровень §c60-70
-Level §c100-110@Уровень §c100-110
 Level §c70-80@Уровень §c70-80
+Level §c90-100@Уровень §c90-100
+Level §c100-110@Уровень §c100-110
 §4§lCorrupted §7§lDecrepit Sewers@§4§lИспорченная §7§lВетхая Канализация
 §b§lIce Barrows@§b§lЛедяной Курган
 §aCut cactus@§aПорезать кактус
@@ -1996,7 +1923,7 @@ dust@пыль
 §7the lesson@§7урока
 §a§lTol Altar@§a§lТол Алтарь
 §7Exchange §4[4 Nii Runes] §7for §2[1 Tol Rune]@§7Обменяй §4[4 Нии Руны] §7на §2[1 Тол Руну]
-§7Exchange §3[2 Uth Runes] §7for §2[1 Tol Rune]@§7Обменяй §3[2 Утх Руны] §7нв §2[1 Тол Руну]
+§7Exchange §3[2 Uth Runes] §7for §2[1 Tol Rune]@§7Обменяй §3[2 Утх Руны] §7на §2[1 Тол Руну]
 §6Resource Mine@§6Шахта с Ресурсами
 §7Engraved Stone@§7Могильная Плита
 §aChoose the correct §cvein§a to cut@§aВыбери правильную §cлиану§a для обрезания
@@ -2014,7 +1941,7 @@ dust@пыль
 §7Broken Pickaxe@§7Сломанная Кирка
 §8Right-Click to get Item@§8Правый Клик для получения Предмета
 §7Right-Click to@§7Правый Клик для
-§8Drop the Rock@§8DБросить Камень
+§8Drop the Rock@§8Сброса Камня
 §7Insert Key@§7Вставить Ключ
 §2Right-Click to@§2Правый Клик для
 §fGet the §7§l[Unstable Ore]@§fДобычи §7§l[Нестабильной Руды]
@@ -2088,7 +2015,6 @@ Gift From Dern@Подарок из Дерна
 §7Level: §f78@§7Уровень: §f78
 §7Level: §f27@§7Уровень: §f27
 §7Level: §f36@§7Уровень: §f36
-§7Level: 90@§7Уровень: §f90
 §7Level: §f45@§7Уровень: §f45
 §7Level: §f100@§7Уровень: §f100
 §7Get §6[1 Key]@§7Добудь §6[1 Ключ]
@@ -2162,6 +2088,14 @@ Gift From Dern@Подарок из Дерна
 §4EXIT@§4ВЫХОД
 §4Exit@§4Выход
 §cExit@§cВыход
+§cBoss Altar@§cБосс Алтарь
+§aRight-Click with an Empty Hand@§aПравый Клик пустой рукой
+§ato Interact@§aдля взаимодействия
+§aOpen the Loot Chest@§aОткрытия Сундука с Лутом
+§7[Shared]@§7[Поделены]
+§2Right-Click with §7[1 Reaper's Bone]@§2Правый Клик §7[1 Костью Жнеца]
+§ato Open The Exit@§aчтобы Открыть Выход
+§aBreak the Pillar@§aРазрушения Опоры
 
 ######################KEY GUARDIANS###########################
 §cDecrepit Sewers Key Guardian§6 [Lv. 9]@§cЗащитник Ключа от Ветхой Канализации§6 [Ур. 9]
@@ -2369,7 +2303,7 @@ Gift From Dern@Подарок из Дерна
 §aHooded Figure§6 [Lv. 72]@§aФигура В Капюшоне§6 [Ур. 72]
 §aGiant Roach§6 [Lv. 72]@§aГигантская Плотва§6 [Ур. 72]
 §aNauter§6 [Lv. 45]@§aНаутер§6 [Ур. 45]
-§aMael§6 [Lv. 0]@§aМаел§6 [Ур. 0]
+§aMael§6 [Lv. 0]@§aМаэл§6 [Ур. 0]
 §aWraith§6 [Lv. 0]@§aПризрак§6 [Ур. 0]
 §aRabbit§6 [Lv. 2]@§aКролик§6 [Ур. 2]
 §aEarth Powder Spirit§6 [Lv. 1]@§aДух Порошка Земли§6 [Ур. 1]
@@ -2676,6 +2610,8 @@ Sheep@Овца
 Grumpy Old Man@Старик
 §dCandle Staff@§dОружие Свеча
 §cPhoenix Bow@§cЛук Феникса
+§cPhoenix Wand@§cПосох Феникса
+§cPhoenix Relik@§cРелик Феникса
 §6Hand Cannon@§6Ручная Пушка
 §4Adventurer's Hat@§4Шапка Путешественника
 §fPig Disguise@§fМаскировка в Свинью
@@ -2724,18 +2660,22 @@ Orange Cybel@Оранжевый Кубел
 §6Golden Wand@§6Золотой Посох
 §6Golden Bow@§6Золотой Лук
 §6Golden Dagger@§6Золотой Кинжал
+§6Golden Relik@§6Золотой Релик
 §6Half-Moon Dagger@§6Полу-Месяц Кинжал
 §6Half-Moon Spear@§6Полу-Месяц Копье
 §6Half-Moon Bow@§6Полу-Месяц Лук
 §6Half-Moon Wand@§6Полу-Месяц Посох
+§6Half-Moon Relik@§6Полу-Месяц Релик
 §6Fellowship Wooden Wand@§6Братский Деревянный Посох
 §6Fellowship Dark Wand@§6Братский Темный Посох
 §6Fellowship Bow@§6Братский Лук
 §6Fellowship Dagger@§6Кинжал Дружбы
+§6Fellowship Relik@§6Релик Дружбы
 §6Futuristic Wand@§6Футуристический Посох
 §6Futuristic Spear@§6Футуристическое Копье
 §6Futuristic Bow@§6Футуристический Лук
 §6Futuristic Dagger@§6Футуристический Кинжал
+§6Futuristic Relik@§6Футуристический Релик
 §6Anti-Bovemist Effect@§6Анти-Бовемист Эффект
 §6Floating Fairy Effect@§6Эффект Плавающей Феи
 §6Pentagram Effect@§6Эффект Пентаграммы
@@ -2746,6 +2686,7 @@ Orange Cybel@Оранжевый Кубел
 §fFire Swirl Effect@§fЭффект Круговорота Огня
 §fCloud Attack Effect@§fЭффект Атаки Облака
 §fCloud Swirl Effect@§fЭффект Круговорота Облаков
+§fSpark Attack Effect@§fЭффект Атаки Искр
 §fEmerald Swirl Effect@§fЭффект Эмеральдного Вихря
 §fFire Attack Effect@§fЭффект Атаки Огня
 §fPotion Swirl Effect@§fЭффект Вихря Зелий
@@ -2779,15 +2720,28 @@ Orange Cybel@Оранжевый Кубел
 §dFood Dagger@§dКуриная Ножка Кинжал
 §dFood Wand@§dРыба-Меч Посох
 §dFood Spear@§dШашлык Копье
+§dFood Relik@§dБрокколи Релик
 §6Corrupted Spear@§6Испорченное Копье
 §6Corrupted Wand@§6Испорченный Посох
 §6Corrupted Dagger@§6Испорченный Кинжал
+§6Corrupted Relik@§6Испорченный Релик
 §dSteampunk Sword@§dСтимпанк Меч
 §dSteampunk Wand@§dСтимпанк Посох
 §dSteampunk Bow@§dСтимпанк Лук
 §dSteampunk Dagger@§dСтимпанк Кинжал
+§dSteampunk Relik@§dСтимпанк Релик
 §cDern Wand@§cДерн Посох
 §cDern Spear@§cДерн Копье
+§cDern Relik@§cДерн Релик
+§6Pirate Spear@§6Пиратское Копье
+§6Pirate Wand@§6Пиратский Посох
+§6Pirate Hook@§6Пиратский Крюк
+§6Pirate Cannon@§6Пиратская Пушка
+§6Pirate Relik@§6Пиратский Релик
+§4Frosty Relik@§4Морозный Релик
+§4Frosty Bow@§4Морозный Лук
+§4Frosty Staff@§4Морозный Посох
+§4Yahya's Fantasy@§4Фантазия Яхуи
 §7Disguise@§7Маскировка
 §7Pet@§7Питомец
 §7Gear Skin@§7Скин для Оружия

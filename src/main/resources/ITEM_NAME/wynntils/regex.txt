@@ -1,1 +1,3 @@
-§f§lPage (\d+)§c >§4>§c>§4>§c>@§f§lСтраница (r1)§c >§4>§c>§4>§c>
+§f§lPage (\d+§c >§4>§c>§4>§c>)@§f§lСтраница (r1)
+§a§lEU World (\d+)@§a§lEU Мир (r1)
+§a§lWorld (\d+)@§a§lМир (r1)

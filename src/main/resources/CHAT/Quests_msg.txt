@@ -14,7 +14,7 @@
 §4There is an odd skeleton wearing earmuffs ahead.@§4Впереди странный скелет с надетыми наушниками.
 §7The light dog lunges towards you!@§7Собака света напала на тебя!
 §7The seed must have hatched! But if something hatched from the seed... then where did it go?@§7Семя выглядит так, как будто кто-то вылупился из него! Но если оно вылупилось...куда же оно делось?
-§7A piece of the creeper came along with you after the blast catapulted you here. Maybe Thomas would like to take a look at it.@Кусочек крипера прилетел вместе с тобой после того, как взрыв катапультировал тебя сюда. Может быть, Томас хотел бы взглянуть на него.
+§7A piece of the creeper came along with you after the blast catapulted you here. Maybe Thomas would like to take a look at it.@§7Кусочек крипера прилетел вместе с тобой после того, как взрыв катапультировал тебя сюда. Может быть, Томас хотел бы взглянуть на него.
 §7You should head back to the mage with the wand.@§7Ты должен вернуться с посохом назад к магу.
 §7This is the Temple of Time...@§7Это Храм Времени...
 §7Here you can visit the memories of this land...@§7Здесь ты можешь посетить воспоминания об этой земле...
@@ -869,8 +869,8 @@ Rynver's teeth fall out of his mouth as he talks.@§7Зубы Ринвера с�
 §4There is no time for resting now!@§4Сейчас не время для отдыха!
 §7Your backpack seems awfully quiet for once. Maybe it is best to avoid this place for now.@§7В твоей сумке кажется ужасно тихо. Возможно, лучше стоит избегать этого места.
 §7You feel your bag shuffle around...feels like something fell out.@§7Ты чувствуешь, как твоя сумка зашевелилась...как будто что-то выпало.
-§7Confused, you pick to mushroom up to examine it. What even is this thing?@§7Смущенный, ты берешь гриб, чтобы изучить его. Что это вообще такое?
-§7Without dwelling on it too much, you take the talking mushroom and put it in your satchel. @§7Не зацикливаясь на этом слишком долго, ты берешь говорящий гриб и кладешь его в свою сумку.
+§7Confused, you pick the mushroom up to examine it. What even is this thing?@§7Смущенный, ты берешь гриб, чтобы изучить его. Что это вообще такое?
+§7Without dwelling on it too much, you take the talking mushroom and put it in your satchel.@§7Не зацикливаясь на этом слишком долго, ты берешь говорящий гриб и кладешь его в свою сумку.
 §7[+1 Bottled Water]@§7[+1 Бутылка Воды]
 §7[+1 Sponge]@§7[+1 Губка]
 §7[+1 Gunpowder Crate]@§7[+1 Контейнер с Порохом]
@@ -890,6 +890,11 @@ Rynver's teeth fall out of his mouth as he talks.@§7Зубы Ринвера с�
 §7[+1536 Emeralds]@§7[+1536 Эмеральдов]
 §7[+640 Emeralds]@§7[+640 Эмеральдов]
 §7[+3 Emerald Blocks]@§7[+3 Блока Эмеральдов]
+§7[+8 Emeralds]@§7[+8 Эмеральдов]
+§7[+1 Unidentified Helmet]@§7[+1 Неидентифицированный Шлем]
+§7[+2 Wheat String]@§7[+2 Пшеничных Нити]
+§7[+2 Gudgeon Oil]@§7[+2 Жира Пескаря]
+§7[+2 Copper Ingot]@§7[+2 Слитка Меди]
 §4You need a Spoon in order to advance!@§4Тебе нужна ложка, чтобы продвинуться дальше!
 §7You need to snatch the treasure first before you escape!@§7Ты должен схватить сокровище, прежде чем бежать!
 §7Cosmic magic is being studied presently by magical experts. There are few conclusive truths of cosmic energies, one such being that it is only found in things fallen from the sky.@§7Космическая магия в настоящее время изучается магическими экспертами. Существует несколько неоспоримых истин о космических энергиях, одна из которых заключается в том, что она встречается только в вещах, упавших с неба.
@@ -996,10 +1001,13 @@ Rynver's teeth fall out of his mouth as he talks.@§7Зубы Ринвера с�
 §7You need to finish your schedule before you start your day!@§7Ты должен закончить выбирать свое расписание, прежде чем начать свой день!
 §7You look at the papers...@§7Ты смотришь на бумаги...
 §7The fire class has been restarted...@§7Урок огня был перезапущен...
+§7The species class has been restarted...@§7Урок видов был перезапущен...
+§7The wybels class has been restarted...@§7Урок вубелов был перезапущен...
+§7The air class has been restarted...@§7Урок воздуха был перезапущен...
+§7The effects class has been restarted...@§7Урок эффектов был перезапущен...
 §7The meteor sample has been interacted with...@§7С образцом метеорита было проведено взаимодействие...
 §7The void sample has been interacted with...@§7С пустотным образцом было проведено взаимодействие..
 §7The quartz sample has been interacted with...@§7С образцом кварца было проведено взаимодействие..
-§7The species class has been restarted...@§7Урок видов был перезапущен...
 §7As you leave the cave your wings vanish...@§7Как только ты выходишь из пещеры твои крылья исчезают...
 §7As you enter the cave your wings come back...@§7Как только ты входишь в пещеру твои крылья возвращаются...
 §4You shouldn't go further inside yet...@§4Тебе пока не стоит заходить внутрь...
@@ -1131,7 +1139,6 @@ Rynver's teeth fall out of his mouth as he talks.@§7Зубы Ринвера с�
 §7Could it be linked to the bookshelves?@§7Может быть, это связано с книжными полками?
 §7The sound of a door opening is heard...@§7Раздается звук открывающейся двери...
 §4Better not messing with the teleport panel right now.@§4Лучше не возиться с панелью телепорта прямо сейчас.
-§7The thunder class has been restarted...@§7Урок грома был перезапущен...
 §4The cave is too dark for you to see anything. You turn around and walk away.@§4В пещере слишком темно, чтобы что-то разглядеть. Ты поворачиваешься и уходишь.
 §7[+896 Emeralds]@§7[+896 Эмеральдов]
 §7[Objective: Murder 10 Ragni Citizens]@§7[Цель: Убей 10 Жителей Рагни]
@@ -1202,6 +1209,8 @@ Rynver's teeth fall out of his mouth as he talks.@§7Зубы Ринвера с�
 §7The water class has been restarted...@§7Урок воды был перезапущен...
 §7The nature class has been restarted...@§7Урок природы был перезапущен...
 §7The earth class has been restarted...@§7Урок земли был перезапущен...
+§7The materials class has been restarted...@§7Урок материалов был перезапущен...
+§7The thunder class has been restarted...@§7Урок грома был перезапущен...
 §4You need Mr. Caritat's Letter to advance!@§4Тебе нужно письмо Мр. Каритата, чтобы продолжить!
 §4You should probably stay away from here for now, it seems dangerous.@§4Тебе, наверное, лучше пока держаться подальше отсюда, это кажется опасным.
 §4A magical force repels you from the tower.@§4Магическая сила отталкивает тебя от башни.
@@ -1209,6 +1218,45 @@ Rynver's teeth fall out of his mouth as he talks.@§7Зубы Ринвера с�
 §4The temple seems very ominous, it's best not to enter for now.@§4Храм кажется очень зловещим, в него лучше пока не входить.
 §cYou've already used this workbench.@§cТы уже пользовался этим верстаком.
 §4This doesn't seem safe. Before going anywhere, talk to Ibele!@§4Это не кажется безопасным. Прежде чем куда-то идти, поговори с Ибель!
+§4You can hear strange sounds from the cave depths, it's better to stay out for now.@§4Из глубины пещеры доносятся странные звуки, лучше пока туда не соваться.
+§4A weird buzzing sound comes from the cave, you should not venture further.@§4Странный жужжащий звук доносится из пещеры, ты не должен рисковать и идти дальше.
+§4The heat of the flames prevents you from going any further@§4Жар пламени мешает тебе идти дальше.
+§7It's been opened by Honip... What could be inside?@§7Его открыл Хонип... Что может быть внутри?
+§7I learned about some rumours involving separatists. I should continue helping locals to find out more.@§7Я узнал о некоторых слухах, связанных с сепаратистами. Я должен продолжать помогать местным жителям, чтобы узнать больше.
+§4You need to meet up with the employee before you go here!@§4Тебе нужно встретиться со служащим, прежде чем ты отправишься сюда!
+§4The corruption is too strong for you to enter...@§4Порча слишком сильна для тебя, чтобы войти...
+§7This will teleport you back on the island. Click again to confirm.@§7Это телепортирует тебя обратно на остров. Нажми еще раз для подтверждения.
+§7§kBe §ksure §kto §kdrink §kyour §kNemract §kWhiskey@§7§kUbedis §kchto §kvipesh §kdsvoy §7§kNemract §kViski
+§7You landed on a small island, you have to find a way to leave!@§7Ты приземлился на маленький остров, ты должен найти способ выбраться!
+§4A load growl can be heard inside the cave.@§4В пещере послышалось тяжелое рычание.
+§4Ask Crank before going down into the void!@§4Спроси Крэнка, прежде чем спуститься в пустоту!
+§4Talk to the Trials Overseer first!@§4Поговори сначала с Смотрителем Испытаний!
+§cIf you want this door to open, you must first use the catapult and then interact with the Grandmaster.@§cЕсли ты хочешь, чтобы эта дверь открылась, ты должен сначала использовать катапульту, а затем поговорить с Грандмастером.
+§4A weird smell is coming from this hole,@§4Из этой дыры исходит странный запах
+§4You should probably give the Sunblight Boots to one of those two.@§4Ты должен отдать эти ботинки одному из эльфов на выбор.
+§4You cannot enter the kitchen just yet!@§4Ты не можешь войти на кухню прямо сейчас!
+§4A weird buzzing noise comes from the cave, you should not venture further.@§4Из пещеры доносится странное жужжание, ты не должен продвигаться дальше.
+§4You shouldn't enter this tomb, unless you have a good reason.@§4Ты не должен входить в эту гробницу, если у тебя нет веской причины.
+§4Weird sounds can be heard, best to stay back.@§4Странные звуки можно услышать, лучше всего держаться подальше.
+§fTo repair the mechanical core, select a color and connect the clay with the same colored glass block by clicking the iron blocks.@§fЧтобы восстановить механическое ядро, выбери цвет и соедини глину с тем же цветным стеклянным блоком, нажимая на железные блоки.
+§4You hear cracks and stones falling within the cave. It isn't safe to explore it.@§4Ты слышишь как камни падают в пещере. Исследовать ее небезопасно.
+§7You quickly reclaim the sceptre...@§7Ты быстро возвратил себе скипетр...
+§7This will trigger the Theorick battle from A Hunter's Calling. Click again to confirm.@§7Это активирует битву с Теориком из A Hunter's Calling. Кликни снова для подтверждения.
+§7You try to read the label, but it strains your eyes just looking at it. All you can make out is "Vial of D§7§kern§7§k§mic E§7§o§k§mss§4§o§k§mence§f"§7...@§7Ты пытаешься прочитать этикетку, но даже взгляд на нее напрягает глаза. Все что ты можешь прочитать это "Пробирка D§7§kern§7§k§mic E§7§o§k§mss§4§o§k§mence"§7...
+§7You find the strange trinket the camper mentioned... It seems to be a key of sorts.@§7Ты находишь странную безделушку, о которой упоминал отдыхающий... Похоже, это своего рода ключ.
+§4You should probably talk to that guy first.@§4Наверное, тебе стоит сначала поговорить с этим парнем.
+§4The collector won't accept any further tokens. You're free to move on.@§4Сборщик больше не будет принимать никаких жетонов. Ты можешь двигаться дальше.
+§7You should go through the exit to leave the cave.@§7Ты должен пройти через выход, чтобы покинуть пещеру.
+§7There is something not letting you go through...@§7Есть что-то, что не дает тебе пройти...
+§4The rusty guillotine looks as though it could collapse at any moment.@§4Ржавая гильотина выглядит так, словно может рухнуть в любой момент.
+§4A blood-curdling roar shakes the ground beneath your feet.@§4Леденящий кровь рев сотрясает землю под твоими ногами.
+§a>§a§kBring§f §a§kthe§f §a§kkeys§f §a§kto§f §a§kwhere§f §a§kmadman§f §a§kdwells.@§a>§a§kPrinesi §a§kkluchi §a§ktuda §a§kgde §a§kbezumec §a§kzhivet.
+§7Without an explanation you don't feel like going down there yet.@§7Без объяснения причин тебе пока не хочется туда спускаться.
+§7It appears the Wynnter Fair has packed up and left for another year.@§7Похоже, Зимняя Ярмарка собрала вещи и уехала еще на год.
+§4You probably shouldn't be exploring this part of the castle without permission.@§4Тебе вероятно не следует исследовать эту часть замка без разрешения.
+§7The exit has opened...@§7Выход открылся...
+§4Don't forget to take the totem!@§4Не забудь взять тотем!
+§4The Monolith rules you unworthy.@§4Монолит управляет тобой недостойно.
 
 ################################QUEST NAMES####################################
 §e                          §e§lArachnids' Ascent@ 
@@ -1445,3 +1493,9 @@ Rynver's teeth fall out of his mouth as he talks.@§7Зубы Ринвера с�
 §a                         §a§lGather Light Logs II@ 
 §a                        §a§lGather Light Logs III@ 
 §a                             §a§lGather Carp II@ 
+§a                               §a§lGather Rice II@ 
+§a                                 §a§lGather Rice@ 
+§a                                 §a§lGather Bass@ 
+§a                               §a§lGather Sorghum@ 
+§a                               §a§lGather Cobalt@ 
+§a                               §a§lGather Koi@ 
