@@ -13,7 +13,7 @@
 §7[5/5] §2C.S.S Wavebreaker Captain: §aSeems like we're 'ere!@§7[5/5] §2Капитан К.С.С Волнореза: §aПохоже мы приплыли!
 §7[1/20] §2Corkus Delegate: §aIt's such an honour to have a Wynn soldier visit our island.@§7[1/20] §2Делегат Коркуса: §aЭто такая честь, солдат из провинции Винн посещает наш остров.
 §7[2/20] §2Corkus Delegate: §aWe were hoping for a true envoy, but you will do.@§7[2/20] §2Делегат Коркуса: §aМы ожидали настоящего посланника, но и ты сойдешь.
-§7[3/20] §2Corkus Delegate: §aIf you follow me, I'll give you a tour of the city.@§7[3/20] §2Делегат Коркуса: §aЕсли ты проследуй за мной, то я покажу тебе город.
+§7[3/20] §2Corkus Delegate: §aIf you follow me, I'll give you a tour of the city.@§7[3/20] §2Делегат Коркуса: §aЕсли ты проследуешь за мной, то я покажу тебе город.
 §7[4/20] §2Corkus Delegate: §aWe first arrived on Corkus 350 years ago.@§7[4/20] §2Делегат Коркуса: §aВпервые мы прибыли в Коркус 350 лет назад.
 §7[5/20] §2Corkus Delegate: §aThe Corkians, like you, are from Fruma originally... @§7[5/20] §2Делегат Коркуса: §aЖители Коркуса, как и ты, когда-то прибыли из провинции Фрума...
 §7[6/20] §2Corkus Delegate: §a...But§a let's not talk about that.@§7[6/20] §2Делегат Коркуса: §a...Но давай не будем говорить об этом.
