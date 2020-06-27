@@ -1733,7 +1733,6 @@
 §f                  §6§nClick here to claim your rewards!@§f                    §6§nНажми сюда, чтобы забрать награду!
                   §6§nClick here to claim your rewards!@                  §6§nНажми сюда, чтобы забрать награду!
                   §6Click here to claim your rewards!@                  §6Нажми сюда, чтобы забрать награду!
-§4You need to wait §c150 seconds§4 after logging in to gather from this resource!@§4Тебе нужно подождать §c150 секунд §4после входа на сервер чтобы собрать этот ресурс!
 §4You need to find all of the discoveries in §cSilent Expanse§4 before you can enter this area.@§4Тебе нужно найти все открытия в §cТихом Пространстве§4 прежде чем войти сюда.
              §4You have enabled hunted mode (PvP on)!@             §4Ты включил режим охотника (ПвП вкл)!
        §4§lYou are currently in hunted mode (PvP on)!@       §4§lТы находишься в режиме охотника (ПвП вкл)!
@@ -1747,8 +1746,6 @@
 §cLoading the WynnPack...@§cЗагружаем WynnPack...
 §6Thank you for using the WynnPack. Enjoy the game!@§6Спасибо, что используешь WynnPack. Наслаждайся игрой!
 §cSelect a class! Each class is saved individually across all servers, you can come back at any time with /class and select another class!@§cВыбери класс! Каждый класс сохраняется индивидуально на всех серверах, ты можешь в любой момент набрать /class и выбрать другой!
-§4You need to wait §c60 seconds§4 after logging in to gather from this resource!@§4Тебе нужно подождать §c60 секунд §4после входа на сервер чтобы собрать этот ресурс!
-§4You need to wait §c30 seconds§4 after logging in to gather from this resource!@§4Тебе нужно подождать §c30 секунд§4 после входа на сервер чтобы собрать этот ресурс!
 §4Invalid command... Type /help for a list of commands@§4Неизвестная команда... Напиши /help для списка команд
 §4§lYou have died...@§4§lТы погиб...
 §72 soul points have been lost...@§72 очка душ было утеряно...
@@ -1874,7 +1871,6 @@ Your client seems to be spamming us!@Похоже твой клиент спам
 §6Type the amount you wish to buy or type 'cancel' to cancel:@§6Напиши количество, которое желаешь купить, или 'cancel' для отмены:
 §6Type the amount you wish to sell or type 'cancel' to cancel:@§6Напиши количество, которое желаешь продать, или 'cancel' для отмены:
 §7Please type an item name in chat!@§7Пожалуйста напиши название предмета в чат!
-§4You need to wait §c120 seconds§4 after logging in to gather from this resource!@§4Тебе нужно подождать §c120 секунд §4после входа на сервер чтобы собрать этот ресурс!
 §dVisit the Trade Market to claim your emeralds@§dПосети Трейд Маркет, чтобы забрать свои эмеральды
 §cOnly quest and crafted items are usable by craftsmen!@§cТолько квестовые и крафтовые предметы можно использовать в режиме Ремесленник!
 §cThe bank is not available for ironman players!@§cБанк недоступен для игроков в режиме Железный Человек!
