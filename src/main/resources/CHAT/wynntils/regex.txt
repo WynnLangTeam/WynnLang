@@ -65,3 +65,4 @@
 §7Please wait an additional (\d+) minutes before opening this chest.@§7Пожалуйста подожди еще (r1) минут, прежде чем открывать сундук.
 §7\[Daily Rewards: (§a\d+) emeralds§7\]@§7[Ежедневная награда: (r1) эмеральдов§7]
 §7\[Daily Rewards: (§a\d+) emeralds§7 and (§b\d+) items§7\]@§7[Ежедневная награда: (r1) эмеральдов§7 и (r2) предмета§7]
+§4You need to wait (§c\d+) seconds§4 after logging in to gather from this resource!@§4Тебе нужно подождать (r1) секунд §4после входа на сервер чтобы собрать этот ресурс!
