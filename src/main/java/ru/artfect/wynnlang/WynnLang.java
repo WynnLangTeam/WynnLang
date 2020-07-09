@@ -39,6 +39,8 @@ public class WynnLang {
         MinecraftForge.EVENT_BUS.register(new Network());
         MinecraftForge.EVENT_BUS.register(new MessageHandler());
 
+        Config.loadConfigFromFile();
+        new Log();
         StringLoader.load();
     }
 
@@ -48,8 +50,6 @@ public class WynnLang {
         ClientCommandHandler.instance.registerCommand(new WynnLangCommand(new UpdateManager()));
         ClientCommandHandler.instance.registerCommand(new RuCommand());
 
-        Config.loadConfigFromFile();
-        new Log();
         Reference.ruChat = new RuChat();
         RuChat.startTimer();
     }
