@@ -58,9 +58,7 @@ public class MessageHandler extends ChannelInboundHandlerAdapter {
 
     @SubscribeEvent
     public void onMessage(ClientChatReceivedEvent e) {
-        if (e.getType() == ChatType.GAME_INFO || !Reference.onWynncraft || !Reference.modEnabled) {
-            return;
-        }
-        new Chat(e).translate();
+        if (e.getType() != ChatType.GAME_INFO && Reference.onWynncraft && Reference.modEnabled)
+            new Chat(e).translate();
     }
 }
