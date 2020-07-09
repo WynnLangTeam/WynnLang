@@ -30,7 +30,7 @@ public class WynnLang {
     public static Map<Class<? extends TranslateType>, HashMap<Pattern, String>> regex = new HashMap<>();
 
     @EventHandler
-    public void preinit(FMLPreInitializationEvent event) throws IllegalAccessException, InstantiationException {
+    public void preinit(FMLPreInitializationEvent event) throws IllegalAccessException, InstantiationException, IOException {
         Reference.keyBindings[0] = new KeyBinding("Показ оригинальных строк", Keyboard.KEY_F8, "WynnLang");
         ClientRegistry.registerKeyBinding(Reference.keyBindings[0]);
 
@@ -40,12 +40,12 @@ public class WynnLang {
         MinecraftForge.EVENT_BUS.register(new MessageHandler());
 
         Config.loadConfigFromFile();
-        new Log();
+        Log.init();
         StringLoader.load();
     }
 
     @EventHandler
-    public void init(FMLInitializationEvent event) throws IOException {
+    public void init(FMLInitializationEvent event) {
         new ReverseTranslation();
         ClientCommandHandler.instance.registerCommand(new WynnLangCommand(new UpdateManager()));
         ClientCommandHandler.instance.registerCommand(new RuCommand());

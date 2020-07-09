@@ -26,11 +26,11 @@ import java.util.concurrent.TimeUnit;
 public class Log {
     public static boolean enabled = true;
     private static final String LOG_PATH = Minecraft.getMinecraft().mcDataDir + "/config/WynnLang/Logs/";
-    
-    private static Map<Class <? extends TranslateType>, List<String>> oldStr = new HashMap<>();
-    private static Map<Class <? extends TranslateType>, List<String>> newStr = new HashMap<>();
 
-    public Log() throws IOException {
+    private static Map<Class<? extends TranslateType>, List<String>> oldStr = new HashMap<>();
+    private static Map<Class<? extends TranslateType>, List<String>> newStr = new HashMap<>();
+
+    public static void init() throws IOException {
         initLogs();
 
         Multithreading.schedule(() -> {
@@ -41,8 +41,8 @@ public class Log {
             }
         }, 1, 1, TimeUnit.MINUTES);
     }
-    
-    public static void initLogs() throws IOException{
+
+    public static void initLogs() throws IOException {
         Path lpath = Paths.get(LOG_PATH);
         if (!Files.exists(lpath)) {
             Files.createDirectories(lpath);
@@ -53,13 +53,13 @@ public class Log {
         if (!Reference.onWynncraft) {
             return;
         }
-        List<NameValuePair> params = new ArrayList<NameValuePair>();
+        List<NameValuePair> params = new ArrayList<>();
         params.add(new BasicNameValuePair("UUID", Minecraft.getMinecraft().getSession().getProfile().getId().toString()));
         params.add(new BasicNameValuePair("ver", Reference.VERSION));
 
         for (Class<? extends TranslateType> tClass : newStr.keySet()) {
             List<String> strList = newStr.get(tClass);
-        	TranslateType type = tClass.newInstance();
+            TranslateType type = tClass.newInstance();
             if (strList.isEmpty()) {
                 continue;
             }
@@ -86,10 +86,10 @@ public class Log {
             if (p.toFile().exists()) {
                 oldStr.put(tClass, Files.readAllLines(p));
             } else {
-                oldStr.put(tClass, new ArrayList<String>());
+                oldStr.put(tClass, new ArrayList<>());
                 p.toFile().createNewFile();
             }
-            newStr.put(tClass, new ArrayList<String>());
+            newStr.put(tClass, new ArrayList<>());
         } catch (IOException ignored) {
 
         }
