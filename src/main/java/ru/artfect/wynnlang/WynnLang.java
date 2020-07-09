@@ -19,6 +19,7 @@ import ru.artfect.wynnlang.translate.ReverseTranslation;
 
 import java.io.IOException;
 import java.util.HashMap;
+import java.util.Map;
 import java.util.regex.Pattern;
 
 @Mod(modid = Reference.MOD_ID, name = Reference.NAME, version = Reference.VERSION)
