@@ -55,10 +55,4 @@ public class MessageHandler extends ChannelInboundHandlerAdapter {
         } // мраааак
         super.channelRead(ctx, msg);
     }
-
-    @SubscribeEvent
-    public void onMessage(ClientChatReceivedEvent e) {
-        if (e.getType() != ChatType.GAME_INFO && Reference.onWynncraft && Reference.modEnabled)
-            new Chat(e).translate();
-    }
 }
