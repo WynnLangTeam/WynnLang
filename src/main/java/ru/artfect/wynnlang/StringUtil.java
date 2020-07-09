@@ -9,24 +9,34 @@ import java.util.regex.Pattern;
 
 public class StringUtil {
     public static String handleString(TranslateType type, String str) {
+        return handleString(type.getClass(), str);
+    }
+
+    public static String handleString(Class<? extends TranslateType> type, String str) {
         String s = str.replace("§r", "");
-        String replace = findReplace(type.getClass(), s);
+        String replace = findReplace(type, s);
         if (replace != null) {
             return replace.isEmpty() ? null : replaceFound(type, s, replace);
         } else {
-            Log.addString(type.getClass(), s);
+            Log.addString(type, s);
             return null;
         }
+
     }
 
     private static String replaceFound(TranslateType type, String str, String replace) {
+        return replaceFound(type.getClass(), str, replace);
+    }
+
+    private static String replaceFound(Class<? extends TranslateType> type, String str, String replace) {
         if (Reference.modEnabled && !ReverseTranslation.enabled) {
-            ReverseTranslation.translated.get(type.getClass()).put(replace, str);
+            ReverseTranslation.translated.get(type).put(replace, str);
             return replace;
         } else {
-            ReverseTranslation.translated.get(type.getClass()).put(str, replace);
+            ReverseTranslation.translated.get(type).put(str, replace);
             return null;
         }
+
     }
 
     public static String findReplace(Class<? extends TranslateType> type, String str) {

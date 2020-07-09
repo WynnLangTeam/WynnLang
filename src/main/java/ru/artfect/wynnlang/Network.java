@@ -21,7 +21,7 @@ public class Network {
         Minecraft mc = Minecraft.getMinecraft();
         if (!mc.isSingleplayer() && mc.getCurrentServerData() != null && (ip.contains("wynncraft.com") || ip.contains("wynncraft.org") || ip.contains("wynncraft.net"))) {
             Reference.onWynncraft = true;
-            e.getManager().channel().pipeline().addBefore("fml:packet_handler", "wynnlang:packet_handler", new MessageHandler());
+            //e.getManager().channel().pipeline().addBefore("fml:packet_handler", "wynnlang:packet_handler", new MessageHandler());
 
             if (!Reference.ruChat.isAlive() && Reference.ruChat.enabled) {
             	Reference.ruChat = new RuChat();
