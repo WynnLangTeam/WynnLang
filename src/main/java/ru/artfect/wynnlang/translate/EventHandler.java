@@ -1,10 +1,14 @@
 package ru.artfect.wynnlang.translate;
 
 import net.minecraft.util.text.ChatType;
+import net.minecraft.util.text.ITextComponent;
 import net.minecraftforge.client.event.ClientChatReceivedEvent;
+import net.minecraftforge.client.event.RenderGameOverlayEvent;
 import net.minecraftforge.event.entity.player.ItemTooltipEvent;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.eventhandler.SubscribeEvent;
+import ru.artfect.translates.BossBar;
+import ru.artfect.translates.Chat;
 import ru.artfect.translates.ItemLore;
 import ru.artfect.translates.ItemName;
 import ru.artfect.wynnlang.Reference;
@@ -20,12 +24,12 @@ public class EventHandler {
     @SubscribeEvent
     public static void onChatMessage(ClientChatReceivedEvent event) {
         if (event.getType() != ChatType.GAME_INFO && Reference.onWynncraft && Reference.modEnabled)
-            WynnLangTextComponent.tryToTranslate(event.getMessage()).ifPresent(event::setMessage);
+            WynnLangTextComponent.tryToTranslate(event.getMessage(), Chat.class).ifPresent(event::setMessage);
     }
 
     @SubscribeEvent
     public static void onItemToltip(ItemTooltipEvent event) {
-        if (WynnLang.translated) {
+        if (Reference.onWynncraft && Reference.modEnabled && WynnLang.translated) {
             List<String> toolTip = event.getToolTip();
             String itemName = toolTip.get(0);
             String nameReplace = StringUtil.handleString(ItemName.class, itemName);
@@ -38,7 +42,14 @@ public class EventHandler {
                     toolTip.set(j, replace);
             }
         }
+    }
 
-
+    @SubscribeEvent
+    public static void onBossBar(RenderGameOverlayEvent.BossInfo event) {
+        if (Reference.onWynncraft && Reference.modEnabled && WynnLang.translated) {
+            ITextComponent name = event.getBossInfo().getName();
+            if(!(name instanceof WynnLangTextComponent))
+                WynnLangTextComponent.tryToTranslate(name, BossBar.class).ifPresent(event.getBossInfo()::setName)
+        }
     }
 }

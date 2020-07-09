@@ -7,13 +7,14 @@ import net.minecraft.util.text.TextComponentString;
 import net.minecraft.util.text.event.ClickEvent;
 import net.minecraft.util.text.event.HoverEvent;
 import ru.artfect.translates.Chat;
+import ru.artfect.translates.TranslateType;
 import ru.artfect.wynnlang.StringUtil;
 import ru.artfect.wynnlang.WynnLang;
 
 import java.util.Optional;
 
 public class WynnLangTextComponent extends TextComponentBase {
-    public static Optional<WynnLangTextComponent> tryToTranslate(ITextComponent original) {
+    public static Optional<WynnLangTextComponent> tryToTranslate(ITextComponent original, Class<? extends TranslateType> type) {
         String str = original.getFormattedText();
 
         ClickEvent clickEvent = null;
@@ -26,7 +27,7 @@ public class WynnLangTextComponent extends TextComponentBase {
             }
         }
 
-        String replace = StringUtil.handleString(Chat.class, str);
+        String replace = StringUtil.handleString(type, str);
         if (replace != null) {
             TextComponentString msg = new TextComponentString(replace);
             if (clickEvent != null || hoverEvent != null) {
