@@ -49,7 +49,7 @@ public class EventHandler {
         if (Reference.onWynncraft && Reference.modEnabled && WynnLang.translated) {
             ITextComponent name = event.getBossInfo().getName();
             if(!(name instanceof WynnLangTextComponent))
-                WynnLangTextComponent.tryToTranslate(name, BossBar.class).ifPresent(event.getBossInfo()::setName)
+                WynnLangTextComponent.tryToTranslate(name, BossBar.class).ifPresent(event.getBossInfo()::setName);
         }
     }
 }
