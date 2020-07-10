@@ -9,11 +9,11 @@ import net.minecraftforge.fml.common.eventhandler.Event;
 import java.util.List;
 import java.util.stream.Collectors;
 
-public class PlayerListForTab extends Event {
+public class PlayerListForTabEvent extends Event {
 
     public final List<PlayerData> playerDataList;
 
-    public PlayerListForTab(SPacketPlayerListItem packet) {
+    public PlayerListForTabEvent(SPacketPlayerListItem packet) {
         playerDataList = packet.getEntries().stream().map(i -> new PlayerData(i.getPing(), i.getGameMode(), i.getProfile(), i.getDisplayName())).collect(Collectors.toList());
     }
 
