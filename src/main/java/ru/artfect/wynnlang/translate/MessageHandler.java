@@ -2,57 +2,54 @@ package ru.artfect.wynnlang.translate;
 
 import io.netty.channel.ChannelHandlerContext;
 import io.netty.channel.ChannelInboundHandlerAdapter;
-import net.minecraft.item.ItemStack;
-import net.minecraft.network.play.server.*;
-import net.minecraft.util.text.ChatType;
-import net.minecraftforge.client.event.ClientChatReceivedEvent;
+import net.minecraft.client.Minecraft;
+import net.minecraft.network.play.server.SPacketOpenWindow;
+import net.minecraft.network.play.server.SPacketPlayerListItem;
+import net.minecraft.network.play.server.SPacketTitle;
+import net.minecraft.network.play.server.SPacketUpdateScore;
+import net.minecraft.scoreboard.IScoreCriteria;
+import net.minecraft.scoreboard.Score;
+import net.minecraft.scoreboard.ScoreObjective;
 import net.minecraftforge.common.MinecraftForge;
-import net.minecraftforge.fml.common.eventhandler.SubscribeEvent;
-import ru.artfect.translates.*;
-import ru.artfect.wynnlang.Reference;
+import ru.artfect.wynnlang.event.ClientContainerOpenEvent;
+import ru.artfect.wynnlang.event.PlayerListForTabEvent;
+import ru.artfect.wynnlang.event.ShowTitleEvent;
+import ru.artfect.wynnlang.event.UpdateScoreboardEvent;
 
-import java.util.List;
+import java.util.stream.Collectors;
 
 public class MessageHandler extends ChannelInboundHandlerAdapter {
-    public MessageHandler() {
-        MinecraftForge.EVENT_BUS.register(this);
-    }
 
     @Override
     public void channelRead(ChannelHandlerContext ctx, Object msg) throws Exception {
-        if (msg == null) {
+        if (msg == null)
             return;
-        }
-        if (msg instanceof SPacketWindowItems) {
-            SPacketWindowItems p = (SPacketWindowItems) msg;
-            List<ItemStack> items = p.getItemStacks();
-            for (ItemStack item : items) {
-                new ItemName(item).translate();
-                new ItemLore(item).translate();
-            }
-        } else if (msg instanceof SPacketSetSlot) {
-            SPacketSetSlot p = (SPacketSetSlot) msg;
-            new ItemName(p.getStack()).translate();
-            new ItemLore(p.getStack()).translate();
-        } else if (msg instanceof SPacketEntityMetadata) {
-            SPacketEntityMetadata p = (SPacketEntityMetadata) msg;
-            new Entity(p.getDataManagerEntries()).translate();
-        } else if (msg instanceof SPacketTitle) {
+
+        if (msg instanceof SPacketTitle) {
             SPacketTitle p = (SPacketTitle) msg;
-            msg = new Title(p).translatePacket();
+            ShowTitleEvent event = new ShowTitleEvent(p.getType(), p.getMessage(), p.getFadeInTime(), p.getDisplayTime(), p.getFadeOutTime());
+            MinecraftForge.EVENT_BUS.post(event);
+            msg = new SPacketTitle(event.getType(), event.getMessage(), event.getFadeInTime(), event.getDisplayTime(), event.getFadeOutTime());
         } else if (msg instanceof SPacketPlayerListItem) {
             SPacketPlayerListItem p = (SPacketPlayerListItem) msg;
-            new Playerlist(p).translate();
+            PlayerListForTabEvent event = new PlayerListForTabEvent(p);
+            MinecraftForge.EVENT_BUS.post(event);
+            p.getEntries().clear();
+            p.getEntries().addAll(event.playerDataList.stream().map(i -> p.new AddPlayerData(i.profile, i.ping, i.gamemode, i.displayName)).collect(Collectors.toList()));
         } else if (msg instanceof SPacketOpenWindow) {
             SPacketOpenWindow p = (SPacketOpenWindow) msg;
-            msg = new InventoryName(p).translatePacket();
-        } else if (msg instanceof SPacketUpdateBossInfo) {
-            SPacketUpdateBossInfo p = (SPacketUpdateBossInfo) msg;
-            msg = new BossBar(p).translatePacket();
+            ClientContainerOpenEvent event = new ClientContainerOpenEvent(p.getWindowId(), p.getGuiId(), p.getWindowTitle(), p.getSlotCount(), p.getEntityId());
+            MinecraftForge.EVENT_BUS.post(event);
+            msg = new SPacketOpenWindow(event.getWindowId(), event.getInventoryType(), event.getWindowTitle(), event.getSlotCount(), event.getEntityId());
         } else if (msg instanceof SPacketUpdateScore) {
             SPacketUpdateScore p = (SPacketUpdateScore) msg;
-            msg = new Scoreboard(p).translatePacket();
-        } // мраааак
+            UpdateScoreboardEvent event = new UpdateScoreboardEvent(p.getPlayerName(), p.getObjectiveName(), p.getScoreValue());
+            MinecraftForge.EVENT_BUS.post(event);
+            net.minecraft.scoreboard.Scoreboard sb = Minecraft.getMinecraft().player.getWorldScoreboard();
+            Score score = new Score(sb, new ScoreObjective(sb, event.getObjective(), IScoreCriteria.DUMMY), event.getName());
+            score.setScorePoints(event.getValue());
+            msg = new SPacketUpdateScore(score);
+        }
         super.channelRead(ctx, msg);
     }
 }
