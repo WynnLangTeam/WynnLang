@@ -23,15 +23,6 @@ buildscript {
 }
 apply plugin: 'java'
 
-jar {
-    manifest {
-        attributes 'FMLCorePlugin': 'ru.artfect.wynnlang.hooklib.minecraft.ExampleHookLoader'
-        attributes 'FMLCorePluginContainsFMLMod': 'true'
-        attributes 'Created-By': '1.7.0 (Oracle Corporation)'
-    }
-}
-
-
 apply plugin: 'net.minecraftforge.gradle.forge'
 
 ext.modversion = "${project.version}"
