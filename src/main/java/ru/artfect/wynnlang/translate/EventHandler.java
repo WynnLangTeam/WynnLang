@@ -60,4 +60,20 @@ public class EventHandler {
         if (replace != null)
             event.setWindowTitle(new WynnLangTextComponent(event.getWindowTitle(), new TextComponentString(replace)));
     }
+
+    @SubscribeEvent
+    public static void onTabShow(PlayerListForTab event) {
+        List<PlayerListForTab.PlayerData> playerlist = event.playerDataList;
+        for (int i = 0; i != playerlist.size(); i++) {
+            PlayerListForTab.PlayerData data = playerlist.get(i);
+            if (data.displayName != null) {
+                String str = data.displayName.getFormattedText();
+                if (!str.isEmpty()) {
+                    String replace = StringUtil.findReplace(Playerlist.class, str);
+                    if (replace != null && !replace.isEmpty())
+                        playerlist.set(i, new PlayerListForTab.PlayerData(data.ping, data.gamemode, data.profile, new WynnLangTextComponent(data.displayName, new TextComponentString(replace))));
+                }
+            }
+        }
+    }
 }
