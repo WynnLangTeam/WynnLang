@@ -1,3 +1,10 @@
+apply plugin: 'idea'
+
+idea {
+    module {
+        inheritOutputDirs = true
+    }
+}
 buildscript {
     repositories {
         mavenCentral()
@@ -14,6 +21,16 @@ buildscript {
         classpath 'net.minecraftforge.gradle:ForgeGradle:2.3-SNAPSHOT'
     }
 }
+apply plugin: 'java'
+
+jar {
+    manifest {
+        attributes 'FMLCorePlugin': 'ru.artfect.wynnlang.hooklib.minecraft.ExampleHookLoader'
+        attributes 'FMLCorePluginContainsFMLMod': 'true'
+        attributes 'Created-By': '1.7.0 (Oracle Corporation)'
+    }
+}
+
 
 apply plugin: 'net.minecraftforge.gradle.forge'
 
@@ -58,10 +75,10 @@ processResources {
         include 'mcmod.info'
 
         expand([
-                'modid'          : project.name,
-                'version'        : modversion,
-                'mcversion'      : project.version_minecraft,
-                'forgeversion'   : project.version_forge
+                'modid'       : project.name,
+                'version'     : modversion,
+                'mcversion'   : project.version_minecraft,
+                'forgeversion': project.version_forge
         ])
     }
 
