@@ -76,4 +76,12 @@ public class EventHandler {
             }
         }
     }
+
+    @SubscribeEvent
+    public static void onScoreBoard(UpdateScoreboardEvent event) {
+        String replace = StringUtil.handleString(Scoreboard.class, event.getName());
+        if (replace != null)
+            event.setName(replace);
+    }
+
 }
