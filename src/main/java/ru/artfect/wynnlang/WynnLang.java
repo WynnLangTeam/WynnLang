@@ -45,10 +45,11 @@ public class WynnLang {
     }
 
     @EventHandler
-    public void init(FMLInitializationEvent event) {
+    public void init(FMLInitializationEvent event) throws IOException, IllegalAccessException, InstantiationException {
         new ReverseTranslation();
         ClientCommandHandler.instance.registerCommand(new WynnLangCommand(new UpdateManager()));
         ClientCommandHandler.instance.registerCommand(new RuCommand());
+
 
         Reference.ruChat = new RuChat();
         RuChat.startTimer();
