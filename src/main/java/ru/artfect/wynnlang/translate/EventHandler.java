@@ -84,4 +84,13 @@ public class EventHandler {
             event.setName(replace);
     }
 
+    @SubscribeEvent
+    public static void onTitle(ShowTitleEvent event) {
+        if (event.getMessage() != null) {
+            String str = event.getMessage().getFormattedText().replace("§r", "");
+            String replace = StringUtil.handleString(Title.class, str);
+            if (replace != null)
+                event.setMessage(new WynnLangTextComponent(event.getMessage(), new TextComponentString(replace)));
+        }
+    }
 }
