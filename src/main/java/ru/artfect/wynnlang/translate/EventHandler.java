@@ -1,19 +1,21 @@
 package ru.artfect.wynnlang.translate;
 
+import net.minecraft.entity.Entity;
 import net.minecraft.util.text.ChatType;
 import net.minecraft.util.text.ITextComponent;
+import net.minecraft.util.text.TextComponentString;
 import net.minecraftforge.client.event.ClientChatReceivedEvent;
 import net.minecraftforge.client.event.RenderGameOverlayEvent;
+import net.minecraftforge.event.entity.EntityEvent;
 import net.minecraftforge.event.entity.player.ItemTooltipEvent;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.eventhandler.SubscribeEvent;
-import ru.artfect.translates.BossBar;
-import ru.artfect.translates.Chat;
-import ru.artfect.translates.ItemLore;
-import ru.artfect.translates.ItemName;
+import net.minecraftforge.fml.common.gameevent.TickEvent;
+import ru.artfect.translates.*;
 import ru.artfect.wynnlang.Reference;
 import ru.artfect.wynnlang.StringUtil;
 import ru.artfect.wynnlang.WynnLang;
+import ru.artfect.wynnlang.event.*;
 import ru.artfect.wynnlang.utils.WynnLangTextComponent;
 
 import java.util.List;
@@ -48,8 +50,14 @@ public class EventHandler {
     public static void onBossBar(RenderGameOverlayEvent.BossInfo event) {
         if (Reference.onWynncraft && Reference.modEnabled && WynnLang.translated) {
             ITextComponent name = event.getBossInfo().getName();
-            if(!(name instanceof WynnLangTextComponent))
+            if (!(name instanceof WynnLangTextComponent))
                 WynnLangTextComponent.tryToTranslate(name, BossBar.class).ifPresent(event.getBossInfo()::setName);
         }
+    }
+    @SubscribeEvent
+    public static void onInventoryOpen(ClientContainerOpenEvent event) {
+        String replace = StringUtil.handleString(InventoryName.class, event.getWindowTitle().getUnformattedText());
+        if (replace != null)
+            event.setWindowTitle(new WynnLangTextComponent(event.getWindowTitle(), new TextComponentString(replace)));
     }
 }
