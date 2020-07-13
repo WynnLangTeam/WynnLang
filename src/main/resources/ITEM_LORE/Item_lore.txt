@@ -1571,13 +1571,13 @@
 §a➽ Range             §a■§a■§a■§a■§a■@§a➽ Дальность             §a■§a■§a■§a■§a■
 §d✺ Spells             §a■§a■§a■§7■§7■@§d✺ Заклинания             §a■§a■§a■§7■§7■
 §7§7Benefiting from the highest@§7§7Пользуясь самой высокой 
-§7range in the game, Archers@§7дальностью в игре, лучники 
-§7can comfortably keep their@§7могут комфортно держать 
+§7range in the game, Archers@§7дальностью в игре, лучники\ 
+§7can comfortably keep their@§7может комфортно держать 
 §7distance from enemies while@§7дистанцию от врагов, одновременно 
-§7dishing out high levels@§7нанося много 
-§7of damage. But they must@§7урона. Но они должны 
+§7dishing out high levels@§7нанося им много 
+§7of damage. But they must@§7урона. Но он должен 
 §7be wary of attacks, as their@§7остерегаться нападений, так как 
-§7defence is low.@§7их защита слаба.
+§7defence is low.@§7его защита слаба.
 §eLearn more on our website@§eУзнай больше на нашем сайте
 §6         wynncraft.com@ 
 §c❤ Defence          §a■§a■§a■§a■§a■@§c❤ Защита          §a■§a■§a■§a■§a■
@@ -1585,31 +1585,31 @@
 §d✺ Spells             §a■§a■§7■§7■§7■@§d✺ Заклинания             §a■§a■§7■§7■§7■
 §7§7The Warrior offers the@§7§7Воин может взять на себя 
 §7mightiest enemies to take@§7самых могущественных врагов, 
-§7them on, as they boast the@§7так как они могут похвастаться 
+§7them on, as they boast the@§7так как он может похвастаться 
 §7highest defence value in@§7самым высоким количеством защиты 
-§7the game and deal a fair@§7в игре и наносят достаточное 
+§7the game and deal a fair@§7в игре, и наносит достаточное 
 §7amount of damage. However,@§7количество урона. Однако, 
-§7for what they have in raw@§7несмотря на их грубую 
-§7power, they lack in magical@§7силу, им не хватает магического
+§7for what they have in raw@§7несмотря на его грубую 
+§7power, they lack in magical@§7силу, ему не хватает магического
 §7prowess.@§7мастерства.
 §c❤ Defence          §a■§a■§a■§7■§7■@§c❤ Защита          §a■§a■§a■§7■§7■
 §a➽ Range             §a■§a■§a■§7■§7■@§a➽ Дальность             §a■§a■§a■§7■§7■
 §d✺ Spells             §a■§a■§a■§a■§a■@§d✺ Заклинания             §a■§a■§a■§a■§a■
-§7§7Mages are naturally talented@§7§7Маги от природы талантливы 
+§7§7Mages are naturally talented@§7§7Маг от природы талантлив 
 §7in the magical arts. While@§7в магическом искусстве. В то время, 
-§7their raw damage may be@§7как их грубый урон может считаться 
-§7considered weaker, they@§7более слабым, они 
-§7offer a great amount of@§7предлагают большое количество 
+§7their raw damage may be@§7как его урон может считаться 
+§7considered weaker, they@§7более слабым, он 
+§7offer a great amount of@§7предлагает большое количество 
 §7utility and versatility@§7полезности и универсальности 
-§7with their spells.@§7с их заклинаниями.
+§7with their spells.@§7со своими заклинаниями.
 §c❤ Defence          §a■§a■§a■§a■§7■@§c❤ Защита          §a■§a■§a■§a■§7■
 §a➽ Range             §a■§7■§7■§7■§7■@§a➽ Дальность             §a■§7■§7■§7■§7■
 §7§7The Assassin is the deadliest@§7§7Ассасин является самым смертоносным 
 §7of all the classes, exploiting@§7из всех классов, используя 
 §7enemies weak spots to deal@§7слабые места врагов для нанесения 
-§7massive amounts of damage@§7большого количество урона 
-§7from the shadows, however@§7из тени, однако 
-§7they endanger themselves@§7они подвергают себя опасности, 
+§7massive amounts of damage@§7из тени большого 
+§7from the shadows, however@§7количества урона, однако 
+§7they endanger themselves@§7он подвергает себя опасности, 
 §7by having to get extremely@§7подбираясь очень 
 §7close to the enemy.@§7близко к врагу.
 §c❤ Defence          §7■§7■§7■§7■§7■@§c❤ Защита          §7■§7■§7■§7■§7■
@@ -1617,9 +1617,9 @@
 §d✺ Spells             §a■§a■§a■§a■§7■@§d✺ Заклинания             §a■§a■§a■§a■§7■
 §7§7The Shaman benefits from@§7§7Шаман получает преимущество от 
 §7powerful buffs, displacement,@§7мощных баффов, перемещения 
-§7and crowd-control abilities@§7и способности контролировать толпу, 
+§7and crowd-control abilities@§7и способности контролировать толпу 
 §7at the cost of low defences.@§7в обмен на низкую защиту. 
-§7Using combos, they can aggressively@§7Используя комбо, шаманы могут агрессивно 
+§7Using combos, they can aggressively@§7Используя комбо, шаман может агрессивно 
 §7engage huge amounts of enemies.@§7атаковать огромное количество врагов.
 §7Requires:@§7Необходим:
 §7Most of your items will drop@§7Большинство твоих предметов выпадет
