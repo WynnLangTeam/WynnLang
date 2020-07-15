@@ -1379,7 +1379,7 @@ QUESTS/Lost_Soles
 §7and [Abysso Galoshes] to Ferndor @§7и [Abysso Galoshes] Ферндору 
  
 QUESTS/Lost_Tower  
-§7Talk to Laen in Nemract @§7Поговори с Лаэн в Немракте на 
+§7Talk to Laen in Nemract @§7Поговори с Лаэн в Немракте 
 §7[24,37,-2199]@ 
 §7Find the lost tower in @§7Найди потерянную башню 
 §7Ancient Nemract @§7в Древнем Немракте 
@@ -1425,7 +1425,7 @@ QUESTS/Master_Piece
 §7Caissop @§7к Кайзопу 
  
 QUESTS/Meaningful_Holiday 
-§7Talk to Haily in Almuj @§7Поговори с Хэйли в Алмуже на 
+§7Talk to Haily in Almuj @§7Поговори с Хэйли в Алмуже 
 §7[929,75,-1899]@ 
 §7Go talk to Haily's friend @§7Поговори с другом Хэйли 
 §7Nick at the poor area @§7Ником в бедном районе 
@@ -2339,7 +2339,7 @@ QUESTS/The_Maiden_Tower
 §7Essence] to Sherk at @§7Эссенцию] к Шерку на 
  
 QUESTS/The_Mercenary  
-§7Talk to Mylo in Nemract @§7Поговори с Майло в Немракте на 
+§7Talk to Mylo in Nemract @§7Поговори с Майло в Немракте 
 §7[184,54,-2141]@ 
 §7Talk to Amerigo in Almuj @§7Поговори с Америго в Алмуже 
 §7[978,83,-1973]@ 
