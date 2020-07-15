@@ -243,7 +243,7 @@
 §5Only (§d\d+) more combat level(|s)§5 until you earn the §dLeap upgrade@§5Еще (r1) комбат уровней§5 и ты изучишь §dапгрейд Прыжка 
 §5Only (§d\d+) more combat level(|s)§5 until you earn the §dBlink upgrade@§5Еще (r1) комбат уровней§5 и ты изучишь §dапгрейд Ослепления
 §5Only (§d\d+) more combat level(|s)§5 until you earn the §dSky Emblem upgrade@§5Еще (r1) комбат уровней§5 и ты изучишь §dапгрейд Небесной Эмблемы
-§5Only (§d\d+) more combat level(|s)§5 until you earn the §dTotem upgrade@§5Еще (r1) комбат уровней§5 и ты изучишь §dзаклинание Тотем
+§5Only (§d\d+) more combat level(|s)§5 until you earn the §dTotem upgrade@§5Еще (r1) комбат уровней§5 и ты изучишь §dапгрейд Тотема
 §5Only (§d\d+) more combat level(|s)§5 until you earn the §dHaul upgrade@§5Еще (r1) комбат уровней§5 и ты изучишь §dапгрейд Броска
 §5Only (§d\d+) more combat level(|s)§5 until you earn the §dUproot upgrade@§5Еще (r1) комбат уровней§5 и ты изучишь §dапгрейд Изгнания
 §5Only (§d\d+) more combat level(|s)§5 until you earn the §dAura upgrade@§5Еще (r1) комбат уровней§5 и ты изучишь §dапгрейд Ауры
