@@ -1143,7 +1143,7 @@
 §6Great job! You've completed the CorruptedÀÀÀIceÀÀÀBarrows Dungeon!@§6Отличная работа! Ты прошел Испорченный Данж Ледяной Курган!
 §6Great job! You've completed the CorruptedÀÀÀUnderworldÀÀÀCrypt Dungeon!@§6Отличная работа! Ты прошел Испорченный Данж Подземный Склеп!
 §6Great job! You've completed the CorruptedÀÀÀUndergrowthÀÀÀRuins Dungeon!@§6Отличная работа! Ты прошел Испорченный Данж Заросшие Руины!
-§6Great job! You've completed the EldritchÀÀÀOutlook Dungeon!@§6Отличная работа! Ты прошел Испорченный Данж Жуткого Наблюдателя!
+§6Great job! You've completed the EldritchÀÀÀOutlook Dungeon!@§6Отличная работа! Ты прошел Данж Жуткого Наблюдателя!
 §5Key Collector: §dYou cannot enter this dungeon unless you give me §3[1 CorruptedÀÀÀSand-SweptÀÀÀTomb Key]§d.@§5Сборщик Ключей: §dТы не можешь войти в этот данж без §3[1 Испорченного Ключа от Песчаной Гробницы]§d.
 §5Key Collector: §dYou cannot enter this dungeon unless you give me §3[1 CorruptedÀÀÀIceÀÀÀBarrows Key]§d.@§5Сборщик Ключей: §dТы не можешь войти в этот данж без §3[1 Испорченного Ключа от Ледяного Кургана]§d.
 §5Key Collector: §dYou cannot enter this dungeon unless you give me §3[1 InfestedÀÀÀPit Key]§d.@§5Сборщик Ключей: §dТы не можешь войти в этот данж без §3[1 Ключа от Зараженной Ямы]§d.
