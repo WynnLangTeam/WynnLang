@@ -416,8 +416,6 @@
 §7The totem contains a lot of magical@§7Тотем содержит много магической
 §7nature energy. If released@§7энергии природы. Если ее выпустить, 
 §7unknown effects may occur.@§7могут возникнуть неизвестные эффекты.
-§7§kBe §ksure §kto §kdrink §kyour @§7§kUbedis §kchto §kvipesh §kdsvoy
-§7§kNemract §kWhiskey @§7§kNemract §kViski
 §7Exchange this for an@§7Обменяй это на
 §7item at the §fSquid Shop@§7предмет в §fМагазине Кальмара
 §7Trade for prizes at the@§7Обменяй на призы в
