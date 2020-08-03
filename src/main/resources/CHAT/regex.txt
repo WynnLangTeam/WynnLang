@@ -136,9 +136,9 @@
 ([ ]+)§fMost Mobs Killed: (§b[a-zA-Z0-9_]{1,16}) \((\d+)\)@(r1)§fБольше убил мобов: (r2) ((r3))
 §3You have joined (§b[A-Za-z]+§3!)@§3Ты присоединился к (r1)
 (§4.*) is not a real guild.@(r1) гильдии не существует.
-(§b[a-zA-Z0-9_]{1,16}) has purchased (\d+) mobs for (.*), costing (\d+) emeralds.@(r1) купил (r2) мобов для (r3), заплатив (r4) эмеральдов.
 (§c[a-zA-Z0-9_]{1,16}) attacked (.*) owned by (\[[A-Za-z]+\]!)@(r1) атаковал (r2) захваченную (r3)
 (§c\[[A-Za-z]+\]) has taken control of (.*)@(r1) захватили контроль над (r2)
+§3\[§3INFO\]§b ([a-zA-Z0-9_]{1,16}) has purchased (\d+) mobs for (.*), costing (\d+) emeralds.@§3[ИНФО] §b(r1) купил (r2) мобов для (r3), заплатив (r4) эмеральдов.
 §3\[§3INFO\]§b ([a-zA-Z0-9_]{1,16}) has invited ([a-zA-Z0-9_]{1,16}) to the guild.@§3[ИНФО] §b(r1) пригласил (r2) в гильдию.
 §3\[§3INFO\]§b ([a-zA-Z0-9_]{1,16}) has set ([a-zA-Z0-9_]{1,16})'(s|) guild rank from ([A-Za-z]+) to ([A-Za-z]+)@§3[§3ИНФО]§b (r1) поменял ранг гильдии (r2) с (r4) на (r5)
 §3\[§3INFO\]§b ([a-zA-Z0-9_]{1,16}) has joined the guild! Say hello!@§3[ИНФО] §b(r1) присоединился к гильдии! Скажите привет!
