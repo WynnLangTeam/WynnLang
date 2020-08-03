@@ -172,6 +172,7 @@
 (§c[a-zA-Z0-9_]{1,16}§4) is already in a guild.@(r1) уже находится в гильдии.
 (§b[A-Za-z§\[\] ]+) has taken control of (.*)@(r1) захватили контроль над (r2)
 (§b[a-zA-Z0-9_]{1,16}) just contributed (\d+) emeralds to the guild!@(r1) внес (r2) эмеральдов в гильдию!
+(§3\[§3²\]§b [a-zA-Z0-9_]{1,16}) just contributed (\d+) emeralds to the guild!@(r1) внес (r2) эмеральдов в гильдию!
 (§b[a-zA-Z0-9_]{1,16}) just contributed 1 emerald to the guild!@(r1) внес 1 эмеральд в гильдию!
 §bCongratulations! The guild has taken control of (.*) from ([A-Za-z ]+!!!)@§bПоздравляем! Гильдия взяла контроль над (r1) у (r2)
 §3You will now contribute (§b\d+%§3) of your XP to (§b[A-Za-z ]+§3.)@§3Теперь ты вносишь (r1) от своих очков опыта в (r2)
