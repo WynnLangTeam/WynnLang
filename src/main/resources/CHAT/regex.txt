@@ -384,7 +384,7 @@
 (§b[a-zA-Z0-9_]{1,16})'s §3bomb has expired. You can buy Profession XP bombs at our website, §bwynncraft.com\/store@§3Бомба от (r1) §3закончилась. Ты можешь купить XP Профессий бомбу на нашем сайте, §bwynncraft.com/store
 (§b[a-zA-Z0-9_]{1,16})'s Party Bomb §3has run out! Visit §bwynncraft.com/store§b §3to get your own!@§3Пати Бомба от (r1) §3закончилась! Посети §bwynncraft.com/store§b §3чтобы купить свою!
 (§b[a-zA-Z0-9_]{1,16})'s Disguise Bomb §3has run out! Visit §bwynncraft.com\/store§b §3to get your own!@§bМаскировочная Бомба от (r1) §3закончилась! Посети §bwynncraft.com/store§b §3чтобы получить свою!
-(§7[a-zA-Z0-9_]{1,16})said thank you for supporting Wynncraft!@(r1) сказал тебе спасибо за поддержку Wynncraft!
+(§7[a-zA-Z0-9_]{1,16}) ?said thank you for supporting Wynncraft!@(r1) сказал тебе спасибо за поддержку Wynncraft!
 §7You have thanked ([a-zA-Z0-9_]{1,16})@§7Ты поблагодарил (r1)
 §7Want to thank (§f[a-zA-Z0-9_]{1,16}§7\?) §b§nClick here to thank them!@§7Хочешь поблагодарить (r1) §b§nНажми сюда, чтобы поблагодарить!
 (§b[a-zA-Z0-9_]{1,16})'s Disguise Bomb§3 has exploded! You are now a (§b[A-Za-z]+.§3) Buy your own at§b §bwynncraft.com\/store§3!@§bМаскировочная Бомба (r1)§3 взорвалась! Ты стал (r2) Купи свою собственную на§b §bwynncraft.com/store§3!
