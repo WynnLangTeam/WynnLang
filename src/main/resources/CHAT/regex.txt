@@ -23,7 +23,7 @@
 ###########################################OTHERS##################################################
 §6\[Info\] §eWatch your personal progress at §6(.*)§e!@§6[Инфо] §eСмотри свою персональную статистику на §6(r1)§e!
 §6\[Info\] §eLook at your own personal stats at §6(.*)§e!@§6[§eИнфо§6] §eПосмотри свою персональную статистику на §6(r1)§e!
-(§4[a-zA-Z0-9_]{1,16}§c) is currently on server (\d+)@(r1) сейчас на сервере (r2)
+(§4[a-zA-Z0-9_]{1,16}§c) is currently on server ([a-zA-Z0-9]+)@(r1) сейчас на сервере (r2)
 §3\[Parkour\] §bCongratulations! §3([a-zA-Z0-9_]{1,16})§b finished the parkour in §3([0-9\.]+) seconds§b!@§3[Паркур] §bПоздравляем! §3(r1)§b закончил паркур за §3(r2) секунд§b!
 §5Key Collector: §dYou do not yet have a high enough combat level to access this dungeon. Come back when you're at least combat level (\d+).@§5Сборщик Ключей: §dУ тебя недостаточный комбат уровень для доступа в этот данж. Возвращайся, когда будешь (r1) комбат уровня.
 §3\[Parkour\] §bYou completed §3Lv. (\d+)§b in §([0-9\.]+) seconds§b.@§3[Паркур] §bТы завершил §3Ур. (r1)§b за §(r2) секунд§b.
