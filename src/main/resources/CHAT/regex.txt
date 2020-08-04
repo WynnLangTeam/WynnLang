@@ -146,6 +146,7 @@
 §3\[§3INFO\]§b ([a-zA-Z0-9_]{1,16}) changed the guild banner, costing (\d+) emeralds.@§3[ИНФО] §b(r1) изменил баннер гильдии, стоимость (r2) эмеральдов.
 §3\[§3INFO\]§b ([a-zA-Z0-9_]{1,16}) has left the guild.@§3[ИНФО] §b(r1) вышел из гильдии.
 §3\[§3INFO\]§b ([a-zA-Z0-9_]{1,16}) has disbanded the guild.@§3[ИНФО] §b(r1) расформировал гильдию.
+^§b( |)([a-zA-Z0-9_]{1,16}) has purchased (\d+) mobs for (.*), costing (\d+) emeralds.@§b(r2) купил (r3) мобов для (r4), заплатив (r5) эмеральдов.
 ^§b( |)([a-zA-Z0-9_]{1,16}) has invited ([a-zA-Z0-9_]{1,16}) to the guild.@§b(r2) пригласил (r3) в гильдию.
 ^§b( |)([a-zA-Z0-9_]{1,16}) has kicked ([a-zA-Z0-9_]{1,16}) from the guild@§b(r2) кикнул (r3) из гильдии
 ^§b( |)([a-zA-Z0-9_]{1,16}) has set ([a-zA-Z0-9_]{1,16})'(s|) guild rank from ([A-Za-z]+) to ([A-Za-z]+)@§b(r2) поменял ранг гильдии (r3) с (r5) на (r6)
