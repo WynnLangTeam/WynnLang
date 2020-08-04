@@ -399,7 +399,7 @@
 (§e[a-zA-Z0-9_]{1,16}) has been removed from your friends!@(r1) был убран из друзей!
 (§e[a-zA-Z0-9_]{1,16}) has joined the party.@(r1) присоединился к пати.
 §eParty members: (.*)@§eУчастники пати: (r1)
-§eYou have been invited to join ([a-zA-Z0-9_]{1,16})'s party.@§eТы был приглашен присоединиться к (r1) пати.
+§eYou have been invited to join ([a-zA-Z0-9_]{1,16})'s? party.@§eТы был приглашен присоединиться к (r1) пати.
 (§e[a-zA-Z0-9_]{1,16}) has left the party.@(r1) покинул пати.
 (§e[a-zA-Z0-9_]{1,16}) is not a friend! Type §6\/friend list§e.@(r1) не является другом! Напиши §6/friend list§e.
 (§e[a-zA-Z0-9_]{1,16}) is already a friend! Type §6\/friend list§e.@(r1) уже твой друг! Напиши §6/friend list§e.
