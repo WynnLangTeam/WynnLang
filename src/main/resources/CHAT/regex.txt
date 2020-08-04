@@ -149,7 +149,7 @@
 ^§b( |)([a-zA-Z0-9_]{1,16}) has purchased (\d+) mobs for (.*), costing (\d+) emeralds.@§b(r2) купил (r3) мобов для (r4), заплатив (r5) эмеральдов.
 ^§b( |)([a-zA-Z0-9_]{1,16}) has invited ([a-zA-Z0-9_]{1,16}) to the guild.@§b(r2) пригласил (r3) в гильдию.
 ^§b( |)([a-zA-Z0-9_]{1,16}) has kicked ([a-zA-Z0-9_]{1,16}) from the guild@§b(r2) кикнул (r3) из гильдии
-^§b( |)([a-zA-Z0-9_]{1,16}) has set ([a-zA-Z0-9_]{1,16})'(s|) guild rank from ([A-Za-z]+) to ([A-Za-z]+)@§b(r2) поменял ранг гильдии (r3) с (r5) на (r6)
+^§b( |)([a-zA-Z0-9_]{1,16}) has set ([a-zA-Z0-9_]{1,16})'(s|) (guild|)rank from ([A-Za-z]+) to ([A-Za-z]+)@§b(r2) поменял ранг гильдии (r3) с (r6) на (r7)
 ^§b( |)([a-zA-Z0-9_]{1,16}) has joined the guild! Say hello!@§b(r2) присоединился к гильдии! Скажите привет!
 ^§b( |)([a-zA-Z0-9_]{1,16}) has left the guild.@§b(r2) вышел из гильдии.
 (§b.*§3) is not a member of the guild@(r1) не является участником гильдии
