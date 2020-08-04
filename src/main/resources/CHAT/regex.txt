@@ -134,7 +134,7 @@
 ([ ]+)§fMost Damage Taken: (§b[a-zA-Z0-9_]{1,16}) \((\d+)\)@(r1)§fБольше получил урона: (r2) ((r3))
 ([ ]+)§fMost Damage Healed: (§b[a-zA-Z0-9_]{1,16}) \((\d+)\)@(r1)§fБольше урона вылечил: (r2) ((r3))
 ([ ]+)§fMost Mobs Killed: (§b[a-zA-Z0-9_]{1,16}) \((\d+)\)@(r1)§fБольше убил мобов: (r2) ((r3))
-§3You have joined (§b[A-Za-z]+§3!)@§3Ты присоединился к (r1)
+§3You have joined (§b[A-Za-z ]+§3!)@§3Ты присоединился к (r1)
 (§4.*) is not a real guild.@(r1) гильдии не существует.
 (§c[a-zA-Z0-9_]{1,16}) attacked (.*) owned by (\[[A-Za-z]+\]!)@(r1) атаковал (r2) захваченную (r3)
 (§c\[[A-Za-z]+\]) has taken control of (.*)@(r1) захватили контроль над (r2)
