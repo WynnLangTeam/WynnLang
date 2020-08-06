@@ -164,6 +164,7 @@
 §6Half-Moon Wand@§6Полу-Месяц Посох
 §6Half-Moon Dagger@§6Полу-Месяц Кинжал
 §6Half-Moon Spear@§6Полу-Месяц Копье
+§6Half-Moon Relik@§6Полу-Месяц Релик
 §6Fellowship Dagger@§6Кинжал Дружбы
 §6Fellowship Dark Wand@§6Темный Посох Дружбы
 §6Fellowship Bow@§6Лук Дружбы
@@ -179,6 +180,7 @@
 §cFairy Wings Effect@§cЭффект Сказочных Крыльев
 §cPhoenix Wings Effect@§cЭффект Крыльев Феникса
 §cBone Wings Effect@§cЭффект Костлявых Крыльев
+§cDemon Wings Effect@§cЭффект Крыльев Демона
 §dAir Aura Effect@§dЭффект Ауры Воздуха
 §dMusic Swirl Effect@§dЭффект Круговорота Музыки
 §fWitch Brew Effect@§fЭффект Зелья Ведьмы
@@ -224,6 +226,7 @@
 §6Corrupted Spear@§6Испорченное Копье
 §6Corrupted Dagger@§6Испорченный Кинжал
 §6Corrupted Wand@§6Испорченный Посох
+§6Corrupted Relik@§6Испорченный Релик
 §6Futuristic Bow@§6Футуристический Лук
 §6Futuristic Dagger@§6Футуристический Кинжал
 §6Futuristic Spear@§6Футуристичное Копье
@@ -240,6 +243,7 @@
 §cPhoenix Relik@§cРелик Феникса
 §cDern Wand@§cДерн Посох
 §cDern Relik@§cДерн Релик
+§cDern Dagger@§cДерн Кинжал
 §6Golden Relik@§6Золотой Релик
 §6Fellowship Relik@§6Релик Дружбы
 §6Carbon Fiber Cybel Token@§6Карбоновый Кубел Жетон
@@ -249,6 +253,8 @@
 §4Frosty Staff@§4Морозный Посох
 §6Pirate Spear@§6Пиратское Копье
 §6Pirate Wand@§6Пиратский Посох
+§6Pirate Relik@§6Пиратский Релик
+§6Pirate Cannon@§6Пиратская Пушка
 §6Pirate Hook@§6Пиратский Крюк
 
 #########################System##################################
