@@ -1,9 +1,9 @@
-§cSkeletal Archer§6 [Lv. 2]
-§cZombified Warrior§6 [Lv. 3]
-§cHonour Guard§6 [Lv. 70]
-§cVyrwolf§6 [Lv. 70]
-§cWeak Mage Zombie§6 [Lv. 2]
-§cMad Explorer§6 [Lv. 90]
+§cSkeletal Archer§6 [Lv. 2]@ 
+§cZombified Warrior§6 [Lv. 3]@ 
+§cHonour Guard§6 [Lv. 70]@ 
+§cVyrwolf§6 [Lv. 70]@ 
+§cWeak Mage Zombie§6 [Lv. 2]@ 
+§cMad Explorer§6 [Lv. 90]@ 
 §cZombie Grook§6 [Lv. 5]@ 
 §cZombie Archer§6 [Lv. 4]@ 
 §cZombie§6 [Lv. 3]@ 
