@@ -25,6 +25,8 @@ Assassin@Ассасин
 §cMiner§6 [Lv. 1]@§cШахтер§6 [Ур. 1]
 §cMiner Chief§6 [Lv. 1]@§cШеф Шахтер§6 [Ур. 1]
 §cBob the Zombie§6 [Lv. 1]@§cБоб Зомби§6 [Ур. 1]
+CT Pet - GM@КТ - GM Питомец
+[Disguised]@[Замаскирован]
 
 ###################################ITEMS##################################
 §aScientist Remains§6 [Lv. 1]@§aОстанки Ученого§6 [Ур. 1]
@@ -505,6 +507,7 @@ Assassin@Ассасин
 §2§fLutho Citizen@§2§fЖитель Луто
 §2§fNOTE@§2§fЗАМЕТКА
 §2§fResearch Notes@§2§fИсследовательские Заметки
+§2§fExplorer's Log@§2§fЖурнал Исследователя
 §2Construction Villager@§2Житель Строитель
 §2Sergeant Klafson@§2Сержант Клафсон
 §2Farmer Cevalus@§2Фермер Цевалус
@@ -1431,6 +1434,7 @@ Old Druid@Старый Друид
 §bDusk Kantyr§6 [Lv. 110]@§bСумеречный Кантир§6 [Ур. 110]
 §bChalky Kanter§6 [Lv. 110]@§bБледный Кантер§6 [Ур. 110]
 §bCompeting Queen Contestant§6 [Lv. 97]@§bКонкурирующий Королева Кандидат§6 [Ур. 97]
+§bSoldier§6 [Lv. 5]@§bСолдат§6 [Ур. 5]
 
 ############################INSCRIPTIONS################################
 §bSiegfried Figurine@§bСтатуэтка Зигфрида
@@ -2585,6 +2589,7 @@ Gift From Dern@Подарок из Дерна
 §aDogun Statue§6 [Lv. 90]@§aСтатуя Догуна§6 [Ур. 90]
 §aCheese Merchant§6 [Lv. 100]@§aПродавец Сыра§6 [Ур. 100]
 §aRat Thief§6 [Lv. 80]@§aКрыса Вор§6 [Ур. 80]
+§aWynnExcavation Worker§6 [Lv. 65]@§aРаботник ВиннЭкскавейшен§6 [Ур. 65]
 
 #################################CRATES################################
 §eLoot Crate T1@§eЛут Контейнер У1
@@ -2741,6 +2746,7 @@ Orange Cybel@Оранжевый Кубел
 §4Frosty Relik@§4Морозный Релик
 §4Frosty Bow@§4Морозный Лук
 §4Frosty Staff@§4Морозный Посох
+§4Frosty Spear@§4Морозное Копье
 §4Yahya's Fantasy@§4Фантазия Яхуи
 §7Disguise@§7Маскировка
 §7Pet@§7Питомец
