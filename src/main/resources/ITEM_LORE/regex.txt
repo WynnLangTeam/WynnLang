@@ -116,20 +116,7 @@
 
 ###################################POTIONS######################################
 (§[cbf]   - )§7Damage Boost: (\+\d+%)@(r1)§7Увеличение Урона: (r2)
-(§[bfce])   - §7Duration: ([0-9\.]+) (seconds|Sec.)@(r1)   - §7Длительность: (r2) секунд
 §a- §7Coords: (§f[0-9\- ,]+)@§a- §7Координаты: (r1)
-§a- §7Effect: (§f\+\d+§c) ✹ Defence@§a- §7Эффект: (r1) ✹ Защиты
-§a- §7Effect: (§f\+\d+§2) ✤ Strength@§a- §7Эффект: (r1) ✤ Силы
-§a- §7Effect: (§f\+\d+§e) ✦ Dexterity@§a- §7Эффект: (r1) ✦ Точности
-§a- §7Effect: (§f\+\d+§b) ❉ Intelligence@§a- §7Эффект: (r1) ❉ Интеллекта
-§a- §7Effect: (§f\+\d+§f) ❋ Agility@§a- §7Эффект: (r1) ❋ Ловкости
-§a- §7Effect: (§f\+\d+%?) Spell Damage@§a- §7Эффект: (r1) Урона Заклинаний
-§a- §7Effect: (§f\+\d+%) Walk Speed@§a- §7Эффект: (r1) Скорости
-§a- §7Effect: (§f\+\d+%?) Main Attack Damage@§a- §7Эффект: (r1) Урона Основной Атаки
-§a- §7Effect: (§f\+\d+%?) Main Attack Neutral Damage@§a- §7Эффект: (r1) Нейтрального Урона Основной Атаки
-§a- §7Effect: (§f\+\d+) Health@§a- §7Эффект: (r1) Здоровья
-§a- §7Effect: (§f\+\d+%?) Melee Damage@§a- §7Эффект: (r1) Ближнего Урона
-(§[346af]- )§7Duration: (§f\d+) Seconds@(r1)§7Длительность: (r2) Секунд
 (§8\d+) and boost your Melee$@(r1) и увеличит твой Ближний
 (§8\d+) and boost your Health@(r1) и увеличит твое Здоровье
 (§8\d+) and boost your Walk Speed@(r1) и увеличит твою Скорость
