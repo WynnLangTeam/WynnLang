@@ -1065,9 +1065,9 @@
 §7Disguise your wand with a adventurous flair@§7Маскирует твой посох под стиль приключений
 §7Disguise your wand with a futuristic flair@§7Маскирует твой посох под футуристический стиль
 §7Disguise your wand with a dark flair@§7Маскирует твой посох под темный стиль
-§7Disguise your wand with a fiery flair@§7Замаскируй свой посох огненной способностью
+§7Disguise your wand with a fiery flair@§7Маскирует твой посох под огненный стиль
 §7Disguise your spear with a corrupted flair@§7Маскирует твое копье под стиль порчи
-§7Disguise your spear with a fiery flair@§7Замаскируй свое копье огненной способностью
+§7Disguise your spear with a fiery flair@§7Маскирует твое копье под огненный стиль
 §7Disguise your spear with a steampunk flair@Маскирует твое копье под стиль стимпанк
 §7Disguise your spear with a dark flair@§7Маскирует твое копье под темный стиль
 §7Disguise your spear with a futuristic flair@§7Маскирует твое копье под футуристический стиль
@@ -1078,7 +1078,7 @@
 §7Disguise your dagger with a steampunk flair@Маскирует твой кинжал под стиль стимпанк
 §7Disguise your dagger with a corrupted flair@§7Маскирует твой кинжал под стиль порчи
 §7Disguise your dagger/spear as a banana sword@§7Маскирует твой кинжал/трезубец под меч-банан
-§7Disguise your dagger with a fiery flair@Замаскируй свое копье огненной способностью
+§7Disguise your dagger with a fiery flair@§7Маскирует твой кинжал под огненный стиль
 §7Disguise your dagger as a piece of food@§7Максирует твой кинжал под кусок еды
 §7Disguise your dagger with a lunar flair@§7Маскирует твой кинжал под лунный стиль
 §7Disguise your dagger as a golden masterpiece@§7Маскирует твой кинжал под золотой шедевр
