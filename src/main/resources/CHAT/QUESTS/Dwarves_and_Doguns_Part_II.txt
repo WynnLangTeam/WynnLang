@@ -71,3 +71,4 @@
 §7[1/3] §2Adoda: §aA fire starter? Yeah, I think I left one on the roof.@§7[1/3] §2Адоба: §aЗажигалка? Да, кажется, я оставил одну на крыше.
 §7[2/3] §2Adoda: §aIf you can get up there you can help yourself to it.@§7[2/3] §2Адоба: §aЕсли ты сможешь подняться туда, то можешь ее забрать.
 §7[3/3] §2Adoda: §aI wasted a lot of money on that thing. Turns out lava does the same job.@§7[3/3] §2Адоба: §aЯ потратил кучу денег на эту штуку. А оказалось, лава делает ту же работу.
+§7[1/1] §2Axelus: §aJust head through the tunnel below the symbol on the wall and bring us the dragon bone.@§7[1/1] §2Акселус: §aПросто пройди через туннель под символом на стене и принеси нам драконью кость.

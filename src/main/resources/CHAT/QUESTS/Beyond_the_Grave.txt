@@ -70,3 +70,4 @@
 §7[2/4] §2Death: §aI GUESS YOU WILL GET WHAT YOU WANTED...@§7[2/4] §2Смерть: §aДУМАЮ, ТЫ ПОЛУЧИШЬ ТО, ЧТО ХОЧЕШЬ...
 §7[3/4] §2Death: §aANOTHER DOOR.@§7[3/4] §2Смерть: §aЕЩЕ ОДНУ ДВЕРЬ.
 §7[4/4] §2Death: §aDO YOU REALLY THINK IT WAS WORTH YOUR TIME?@§7[4/4] §2Смерть: §aДЕЙСТВИТЕЛЬНО ДУМАЕШЬ, ЧТО ЭТО СТОИЛО ТВОЕГО ВРЕМЕНИ?
+§7[1/1] §2Death: §aPLEASE DON'T TOUCH ANY JARS YOU FIND, ESPECIALLY MY JAR OF DIRT.@§7[1/1] §2Смерть: §aПОЖАЛУЙСТА, НЕ ТРОГАЙ НИКАКИХ ГОРШКОВ, ОСОБЕННО МОЙ ГОРШОК С ЗЕМЛЕЙ.

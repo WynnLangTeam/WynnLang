@@ -72,6 +72,7 @@ QUESTS/Aldorei%27s_Secret_Part_II
 §7Battle through the fourth room @§7Пройди с боем через четвертую комнату 
 §7of Togak's dungeon @§7Тогак данжа 
 §7Battle through the eighth room @§7Пройди с боем через восьмую комнату 
+§7ninth room of Togak's dungeon @§7в девятой комнате данжа Тогака 
 §7Speak with Togak once more @§7Поговори с Тогаком еще раз 
 §7Choose @§7Выбери 
 §7Turn in your receipt to @§7Верни свою квитанцию 
@@ -486,7 +487,11 @@ QUESTS/Cowfusion
 §7up the boulder and head @§7и пройти в проход 
 §7through the passage behind it @§7позади него 
 §7Explore Veekhat's underground laboratory @§7Исследуй подземную лабораторию Викхата 
+§7Head through the tunnel @§7Пройди через тоннель
 §7Walk through the portal @§7Пройди через портал 
+§7Defeat Veekhat the Minotaur and @§7Победи Викхата и 
+§7open Veekhat's Cabinet with [1 @§7открой его кабинет с помощью 
+§7Veekhat's Cabinet Key] @§7[1 Ключа от Кабинета Викхата]
 §7Return to Ranol and tell @§7Вернись к Ранолу 
 §7him about the wizard's death @§7и расскажи ему о смерти ученого 
  
@@ -745,6 +750,8 @@ QUESTS/Enter_the_Dojo
 §7Solve the puzzle of sight @§7Разгадай пазл 
 §7in the Shìjué Room in @§7в Shijue комнате 
 §7the sight challenge @§7в испытании вИденья 
+§7Ascend the Qiangdu Room in @§7Вознесись наверх в Qiangdu комнате 
+§7the physical strength challenge @§7в испытании силы 
 §7Find the green tea recipe @§7Найди рецепт 
 §7scroll in the temple's scroll @§7зеленого чая 
 §7library @§7в библиотеке храма 
@@ -1102,6 +1109,8 @@ QUESTS/General%27s_Orders
 §7the general's office @§7офис генерала 
 §7Defeat the Corpus Accipientis @§7Победи Corpus Accipientis 
 §7Return to General Lecade @§7Вернись к Генералу Лекейду 
+§7Give the Malleable Slime to @§7Отдай тягучую слизь 
+§7General Lecade @§7Генералу Лекейду 
  
 QUESTS/Grand_Youth 
 §7Talk to Monte at @§7Поговори с Монтэ на 
@@ -1215,6 +1224,7 @@ QUESTS/Hollow_Sirene
 §7[-660,43,-5199]@ 
 §7Investigate the supernatural cave at @§7Посети сверхъестественную пещеру на
 §7[-739,43,-5271]@ 
+§7and find the banshee. @§7и найди Банши. 
 §7Return to Laloire and tell @§7Вернись к Лалоиру и расскажи 
 §7him about the eerie howl. @§7ему о жутком вое. 
 §7Talk to the Pastor Nitram @§7Поговори с Пастор Нитрамом 
@@ -2205,6 +2215,8 @@ QUESTS/The_Hidden_City
 §7Head to @§7Отправляйся на 
 §7[890,47,-5388]@ 
 §7to find the human town @§7и найди город людей 
+§7Return to the human face @§7Вернись к чеовеческому лицу 
+§7and inspect the loud noise @§7и исследуй громкий звук 
 §7Lead the Curious Villager back @§7Отведи любопытного жителя обратно 
 §7to his camp @§7в его лагерь 
 §7Talk to Eltom Guard @Поговори с Элтом Стражем 
@@ -2281,6 +2293,9 @@ QUESTS/The_Hunger_of_Gerts_Part_I
 §7on Barricade Keyhole to escape @§7на замке баррикад для побега 
 §7Make your way to Big @§7Найди путь в 
 §7Butchs room @§7комнату Мясника 
+§7Defeat Big Butch and put @§7Победи Мясника и помести 
+§7[1 Security Card] into the @§7[1 Карточку Безопасности] в 
+§7Security Machine @§7Машину Безопасности 
 §7Leave the Gerten prison and @§7Покинь тюрьму Гертов 
 §7return to Cikal to tell @§7и вернись к Цикалу 
 §7him about the tunnels @§7с рассказом о тоннелях 
@@ -2799,7 +2814,9 @@ QUESTS/Zhight_Island_(Quest)
 §7a way out @§7выход 
 §7clue missing. @§7пропавшие подсказки 
 §7Continue through the hideout! @§7Продвигайся через укрытие! 
-§7Explore @§7Исследуй 
+§7Explore @§7Исследуй
+§7Wait @§7Подожди 
+§7Continue through the secret passageway @§7Продолжай идти по секретному проходу
 
 #############################MINI QUESTS#########################################
 §7Bring [5 Forest Webs] to @§7Принеси [5 Forest Webs] к 

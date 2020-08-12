@@ -1257,6 +1257,26 @@ Rynver's teeth fall out of his mouth as he talks.@§7Зубы Ринвера с�
 §7The exit has opened...@§7Выход открылся...
 §4Don't forget to take the totem!@§4Не забудь взять тотем!
 §4The Monolith rules you unworthy.@§4Монолит управляет тобой недостойно.
+§4This area is off limits.@§4Эта территория закрыта для посещения.
+§7§kThis §khint §kwill §ktell §kyou §kwhere §kto §kgo §knext: §khttp://jumla.in/Kk@§7§kEta §kpodskazka §krasskazet §ktebe §kkuda §kidti §kdalshe: §khttp://jumla.in/Kk
+§4It seems rather dangerous to be up here, you should probably head back down.@§4Здесь наверху довольно опасно, тебе наверное лучше спуститься вниз.
+§4This passage seems too unstable to safely traverse.@§4Этот проход кажется слишком неустойчивым, чтобы его можно было безопасно пересечь.
+§4You shouldn't leave without the Tnt!@§4Тебе не следует уходить без динамита!
+§4No need to go back into that wreckage, Relend's all right now!@§4Нет необходимости возвращаться к месту крушения, с Релендом уже все нормально!
+§4It's a long swim home, there has to be a better solution...@§4Это долгий путь домой, должно быть решение получше...
+§4Why are you even in this tunnel? Did the gerts not hold you back?@§4Почему ты вообще в этом туннеле? Разве Герты не схватили тебя?
+§4The abomination inside this cave is too fearsome for you to handle.@§4Гадость внутри этой пещеры слишком страшна для тебя, чтобы справиться с ней.
+§4Isn't there something you forgot in Timmy's Bedroom?@§4Разве ты ничего не забыл в спальне Тимми?
+§4It would be dangerous to endure these challenges with your little experience!@§4Было бы опасно выдержать эти челленджи с твоим небольшим опытом!
+§4You should get off of this ship before it takes off.@§4Ты должен покинуть этот корабль до того, как он взлетит.
+§4The passage seems dark and narrow. Not where you're supposed to be now.@§4Проход кажется темным и узким. Не тот, где ты должен быть сейчас.
+§4Look for the crystal!@§4Ищи кристалл!
+§4You cannot leave yet, you need to listen...@§4Ты еще не можешь уйти, тебе нужно слушать...
+§7A mysterious force pushes you back...@§7Таинственная сила толкает тебя назад...
+§7You've escaped in the nick of time!@§7Ты сбежал в самый последний момент!
+§7After looking at your map, you conclude that you need to go to [1003,139,-4853] to obtain the §3[Snail Slime]§7.@§7Посмотрев на свою карту, ты понял что нужно идти на координаты [1003,139,-4853], чтобы добыть §3[Слизь Змеи]§7.
+§cYou've already made the stew, this pot is useless..@§cТы уже приготовил рагу, этот горшок бесполезен..
+§cYou should speak to Relend first.@§cТы должен поговорить сначала с Релендом.
 
 ################################QUEST NAMES####################################
 §e                          §e§lArachnids' Ascent@ 
@@ -1499,3 +1519,10 @@ Rynver's teeth fall out of his mouth as he talks.@§7Зубы Ринвера с�
 §a                               §a§lGather Sorghum@ 
 §a                               §a§lGather Cobalt@ 
 §a                               §a§lGather Koi@ 
+§a                           §a§lGather Icefish II@ 
+§a                            §a§lGather Piranhas@ 
+§a                          §a§lGather Piranhas II@ 
+§a                               §a§lGather Millet@ 
+§a                            §a§lGather Millet II@ 
+§a                             §a§lGather Koi II@ 
+§a                           §a§lGather Millet III@ 

@@ -89,6 +89,8 @@
 §e   \+(\d+) Gold Token(s|)@§e   +(r1) Золотых жетонов
 §4We couldn't find player: (.*)@§4Мы не можем найти игрока (r1)
 §aYour particle limit is now (.*)@§aТвой лимит частиц теперь (r1)
+§4You cannot message ([a-zA-Z0-9_]{1,16}) because you are ignoring them!@§4Ты не можешь писать сообщения (r1), потому что он в игнор листе!
+§4Type '\/ignore remove ([a-zA-Z0-9_]{1,16})' to stop ignoring them.@§4Напиши "/ignore remove (r1)" 
 
 #######################################PVP/DEATH######################################################
 (§6[a-zA-Z0-9_]{1,16}) was killed.@(r1) был убит.
@@ -175,6 +177,7 @@
 (§b[a-zA-Z0-9_]{1,16}) just contributed (\d+) emeralds to the guild!@(r1) внес (r2) эмеральдов в гильдию!
 (§3\[§3²\]§b [a-zA-Z0-9_]{1,16}) just contributed (\d+) emeralds to the guild!@(r1) внес (r2) эмеральдов в гильдию!
 (§b[a-zA-Z0-9_]{1,16}) just contributed 1 emerald to the guild!@(r1) внес 1 эмеральд в гильдию!
+(§3\[§3²\]§b [a-zA-Z0-9_]{1,16}) just contributed 1 emerald to the guild!@(r1) внес 1 эмеральд в гильдию!
 §bCongratulations! The guild has taken control of (.*) from ([A-Za-z ]+!!!)@§bПоздравляем! Гильдия взяла контроль над (r1) у (r2)
 §3You will now contribute (§b\d+%§3) of your XP to (§b[A-Za-z ]+§3.)@§3Теперь ты вносишь (r1) от своих очков опыта в (r2)
 §bCongratulations! Your guild has gained control of (.*)@§bПоздравляем! Ваша гильдия взяла контроль над (r1)
@@ -530,6 +533,8 @@
 §7\[1\/5\] §2Aledar: §a...wait§a, ([a-zA-Z0-9_]{1,16})\? You got to the other side then...\? Good...@§7[1/5] §2Аледар: §a...подожди§a, (r1)? Ты перебрался на другую сторону...? Хорошо...
 §7\[8\/20\] §2Aledar: §aI §amean...look§a at the state I'm in, ([a-zA-Z0-9_]{1,16})! I'm on death's door already, and you've proven yourself far stronger than I am even at my best.@§7[8/20] §2Аледар: §aЯ про то...посмотри, в каком я состоянии, (r1)! Я уже на пороге смерти, а ты доказал, что ты намного сильнее меня даже в моих лучших проявлениях.
 §7\[13\/20\] §2Aledar: §aGrab the blade, ([a-zA-Z0-9_]{1,16}).@§7[13/20] §2Аледар: §aВозьми клинок, (r1).
+§7\[1\/1\] §2Aledar: §aWe can't leave each other behind. ([a-zA-Z0-9_]{1,16}), keep moving!@§7[1/1] §2Аледар: §aМы не можем бросить друг друга. (r1), продолжай идти!
+§7\[1\/7\] §2Aledar: §aNo! No! This is bad, really bad! We have to go ([a-zA-Z0-9_]{1,16})! Now!@§7[1/7] §2Аледар: §aНет! Нет! Это плохо, очень плохо! Мы должны идти (r1)! Сейчас же!
 §7Hello, ([a-zA-Z0-9_]{1,16}).@§7Здравствуй, (r1).
 
 §7\[3\/4\] §2Employee: §aYes sir, everything went smoothly, ([a-zA-Z0-9_]{1,16}) did a great thing for the company.@§7[3/4] §2Служащий: §aДа сэр, все прошло гладко, (r1) сделал великое дело для компании.

@@ -5770,3 +5770,564 @@ Dam: 4-6@
 §7- Major's Badge@ 
 §7§kBe §ksure §kto §kdrink §kyour @ 
 §7§kNemract §kWhiskey @ 
+§7- §aLeaf Boots [4]@ 
+§7- §aPigman Helmet [15]@ 
+§7- §eRunner's Vest [9]@ 
+§7- §aSpore Cap [13]@ 
+§7- §fStone-hewn Bow [2]@ 
+§7- §aMorph-Steel [75]@ 
+§7- §dAlice's Sleeve [14]@ 
+§7- §fAndesite-hewn Stick [8]@ 
+§7- Conscription Letter@ 
+§7- §dCarvel's Creation [14]@ 
+§7- §fStone-hewn Stick [2]@ 
+§7- §fAndesite-hewn Bow [8]@ 
+§7- §eAldorei's Training Bow [5]@ 
+§7- §bMaltic's Old Spear [7]@ 
+§7- §eThe Scarecrow's Arm [3]@ 
+§7- §eRagni's Spear [8]@ 
+§7- §eThief's Dagger [8]@ 
+§7- §eDetlas' Stick [7]@ 
+§7- §dThe King's Robe [3]@ 
+§7- §dThe Queen's Tiara [5]@ 
+§7- §eBob's Lost Leggings [58]@ 
+§7- §dKelight's Toothbrush [17]@ 
+§7- §eThe Old King's Crown [14]@ 
+§7- §aPigman Battle Hammer [16]@ 
+§7- §aBony Bow [22]@ 
+§7- §dSayleros' Brother's Misfortune [22]@ 
+§7- §dRagon's Bracelet [10]@ 
+§7- §aAdventurer's Boots [27]@ 
+§7- §dAsher's Relic [17]@ 
+§7- §dDern's Shadow [10]@ 
+§7- §aAdventurer's Cap [26]@ 
+§7- §aNether Cap [24]@ 
+§7- §aMorph-Gold [25]@ 
+§7- §aLeaf Cap [2]@ 
+§7- §aAdventurer's Pants [28]@ 
+§7- §aAdventurer's Tunic [29]@ 
+§7- §fHigh-Quality Chain Boots [58]@ 
+§7- §aPotion of §2✤ Strength [2]@ 
+§7- §aMorph-Topaz [12]@ 
+§7- §dEnzan's Lucky Charm [3]@ 
+§7- §dTarod's Parka [10]@ 
+§7- §aBandit's Ring [32]@ 
+§7- §bWitherhead's Bow [12]@ 
+§7- §aLeaf Pants [5]@ 
+§7- §aMorph-Ruby [62]@ 
+§7- §aJester Ring [69]@ 
+§7- §dSarnfic's Lost Treasure [63]@ 
+§7- §bRemikas' Righteousness [63]@ 
+§7- §eDeath's Toe [49]@ 
+§7- §aMorph-Iron [50]@ 
+§7- §aLeaf Tunic [6]@ 
+§7- §dSquall's Breath [89]@ 
+§7- §fStone-hewn Spear [2]@ 
+§7- §bCancer֎ [98]@ 
+§7- §eYahya's Nail Clipper [17]@ 
+§7- §fGranite-hewn Relik [22]@ 
+§7- §dSpider's Eye Pendant [20]@ 
+§7- §eBig Ol' Hammer [23]@ 
+§7- §eNemract's Bow [7]@ 
+§7- §ePriest's Underwears [34]@ 
+§7- §fStone-hewn Relik [2]@ 
+§7- §bThe Berserker's Helm [34]@ 
+§7- §eSaint's Scar [24]@ 
+§7- §dCharon's Left Arm [21]@ 
+§7- §dDrale's Hide [9]@ 
+§7- §fAndesite-hewn Shears [8]@ 
+§7- §aSnow Tunic [44]@ 
+§7- §aSnow Helmet [42]@ 
+§7- §aSnow Pants [43]@ 
+§7- §fGranite-hewn Bow [22]@ 
+§7- §bGiant's Bracer [42]@ 
+§7- §fDiorite-hewn Relik [15]@ 
+§7- §fStone-hewn Shears [2]@ 
+§7- Sharp Edge@ 
+§7- §fDiorite-hewn Bow [15]@ 
+§7- §fAndesite-hewn Spear [8]@ 
+§7- §eDevil's Scissor [31]@ 
+§7- §eButcher's Clever [46]@ 
+§7- §aMorph-Amethyst [37]@ 
+§7- §dHamsey's Brilliance [96]@ 
+§7- §dDurum's Journey [48]@ 
+§7- §dHellkite's Wing [52]@ 
+§7- §ePigman's Ribbing [50]@ 
+§7- §dMonk's Battle Staff [50]@ 
+§7- §dSano's Wisdom [51]@ 
+§7- §eSorcerer's Stick [46]@ 
+§7- Witch-Brewed Flask of Arcanicity [35]@ 
+§7- §fGranite-hewn Shears [22]@ 
+§7- §aBandit's Bangle [36]@ 
+§7- §eSquidword's Clarinet [17]@ 
+§7- §bGale's Force [95]@ 
+§7- §bTisaun's Proof [88]@ 
+§7- §fDiorite-hewn Shears [15]@ 
+§7- §fAndesite-hewn Relik [8]@ 
+§7- §dCross-Aegis [45]@ 
+§7- §aJester Necklace [54]@ 
+§7- §dAdigard's Snowshoes [30]@ 
+§7- §bRagni's Mail [50]@ 
+§7- §aPotion of §f❋ Agility [2]@ 
+§7- §dDern's Desolation [29]@ 
+§7- §fHigh-Quality Chain Helmet [57]@ 
+§7- Runner's Helm of the Zebra [37]@ 
+§7- Runner's Diadem of the Wolf [36]@ 
+§7- §dEnsa's Ideals [84]@ 
+§7- §aSlime Plate [53]@ 
+§7- §eCopper-Alloy Boots [38]@ 
+§7- §dGernald's Amulet [43]@ 
+§7- §eBob's Battle Chestplate [45]@ 
+§7- §eSkeleton's Bone [14]@ 
+§7- §dMonk's Cowl [12]@ 
+§7- §dOrmrod's Isolation [33]@ 
+§7- §fHigh-Quality Chain Mail [60]@ 
+§7- Dripping Sheet of the Sea's [32]@ 
+§7- §ePigman's Loincloth [16]@ 
+§7- §fGranite-hewn Stick [22]@ 
+§7- §aSpore Shortsword [15]@ 
+§7- §bOlux's Prized Wand [55]@ 
+§7- Runner's Ringlet of Speed [1]@ 
+§7- §fDiorite-hewn Stick [15]@ 
+§7- §fDiorite-hewn Spear [15]@ 
+§7- §aMorph-Emerald [87]@ 
+§7- §eAldorei's Vision [82]@ 
+§7- §dCerid's Precision [42]@ 
+§7- §aVisceral Toe [69]@ 
+§7- §aVisceral Legs [70]@ 
+§7- §dNaragath's Hoof [58]@ 
+§7- §bSeven-League Boots [44]@ 
+§7- §dFate's Shear [97]@ 
+§7- §6Potion of Wisdom [1]@ 
+§7- §bOhms' Wish [64]@ 
+§7- §dStylist's Scissors [36]@ 
+§7- Bandit's Greatbow of Magic [33]@ 
+§7- §cMirror's Edge [63]@ 
+§7- §dFavian's Wing [36]@ 
+§7- §bKelight's Shield [64]@ 
+§7- §dTakan's Treachery [30]@ 
+§7- §eThe Knight's Chestplate [43]@ 
+§7- §bWinter's Essence [44]@ 
+§7- §eWirt's Leg [42]@ 
+§7- §dSlime-Blend Leggings [15]@ 
+§7- §aPotion of §e✦ Dexterity [2]@ 
+§7- §aGhostly Cap [48]@ 
+§7- §bAlmuj's Daggers [20]@ 
+§7- §fHigh-Quality Chain Leggings [59]@ 
+§7- §dSkien's Paranoia [60]@ 
+§7- §dCarvel's Sight [16]@ 
+§7- §dCyclops' Spear [24]@ 
+§7- §eMaltic's Aid [18]@ 
+§7- §eRagni's Old Shoes [39]@ 
+§7- §bNemract's Ruin [27]@ 
+§7- §eAbout-Face [86]@ 
+§7- §bPost-Ultima [76]@ 
+§7- §dTherck's Irritation [9]@ 
+§7- §eBronze-Plated Greaves [26]@ 
+§7- §dAdmiral's Aegis [21]@ 
+§7- §aSilverfish Boots [32]@ 
+§7- §aSilverfish Helm [34]@ 
+§7- §dSiwel's Guilt [74]@ 
+§7- §dHallfred's Greed [41]@ 
+§7- Powerful Destroyer of the Warrior's [41]@ 
+§7- Slow-Cooked Supper of the Shield [42]@ 
+§7- Odd-Smelling Tincture of Power [42]@ 
+§7- Witch-Brewed Pot of Trapped souls [42]@ 
+§7- §dSomeone Else's Knife [19]@ 
+§7- §fGranite-hewn Spear [22]@ 
+§7- §aOutlaw Boots [36]@ 
+§7- §dRemikas' Sanctuary [68]@ 
+§7- §aBony Circlet [21]@ 
+§7- §eHiker's Boots [20]@ 
+§7- §eDetlas' Skin [29]@ 
+§7- Rending Cannon of Thunder-Calling [29]@ 
+§7- §aBandit's Knuckle [34]@ 
+§7- Fighter's Reaver of the Bear [27]@ 
+§7- Fighter's Reaver of the Bear [29]@ 
+§7- §dSkien's Madness [56]@ 
+§7- §aPotion of §c✹ Defence [2]@ 
+§7- §eBlood-Soaked Claws [21]@ 
+§7- §aUltramarine Boots [61]@ 
+§7- §eNivla's Arch [45]@ 
+§7- §eGavel's Memory [36]@ 
+§7- §aPotion of §e✦ Dexterity [1]@ 
+§7- §aMorph-Stardust [100]@ 
+§7- §aVisceral Skullcap [68]@ 
+§7- §dIk-El-Van [66]@ 
+§7- §eNilrem's Curse [40]@ 
+§7- §aUltramarine Cape [65]@ 
+§7- §aUltramarine Crown [59]@ 
+§7- §aUltramarine Belt [63]@ 
+§7- §aSnow Boots [41]@ 
+§7- §dMarius' Lament [49]@ 
+§7- §eRacer's Shoes [60]@ 
+§7- §6Potion of Wisdom [2]@ 
+§7- §eAssassin's Hood [41]@ 
+§7- §eEnderman's Feet [62]@ 
+§7- §dThe Brigand's Brogues [25]@ 
+§7- §eHero's Beginning [27]@ 
+§7- §ePaladin's Hammer [69]@ 
+§7- §dArakadicus' Maw [98]@ 
+§7- §bAlmuj's Walker [25]@ 
+§7- §eOzoth's Breath [49]@ 
+§7- §eArakadicus' Claw [66]@ 
+§7- §eNesaak's Shadow [54]@ 
+§7- §bNemract's Rage [30]@ 
+§7- §bKatoa's Warmth [23]@ 
+§7- §dKaas' Fur [40]@ 
+§7- §dRycar's Swagger [62]@ 
+§7- §bDetlas' Legacy [25]@ 
+§7- §aBlack Tunic [33]@ 
+§7- §bThe Visionary's Vice [82]@ 
+§7- Slow-Cooked Cereal of the Shield [3]@ 
+§7- Slow-Cooked Cuisine of Protection [4]@ 
+§7- §aJester Bracelet [72]@ 
+§7- Bantisu's Parchment of the Hurricane [7]@ 
+§7- §eDruid's Ring [65]@ 
+§7- §bNature's Gift [61]@ 
+§7- §aPotion of §b❉ Intelligence [2]@ 
+§7- The Necromancer's Cage of the Magi [42]@ 
+§7- Fiery Aura@ 
+§7- Pirate's Edge of the Clouds [46]@ 
+§7- §eArakadicus' Leg [67]@ 
+§7- §aHorse Mask [42]@ 
+§7- §dVandal's Touch [74]@ 
+§7- §dRayshyroth's Knowledge [66]@ 
+§7- Warrior's Blade of the Bull [25]@ 
+§7- §eConductor's Baton [62]@ 
+§7- Valkyrie's Knuckles of Strength [27]@ 
+§7- §aPotion of §2✤ Strength [3]@ 
+§7- §dHellkite's Beak [71]@ 
+§7- §aNether Boots [28]@ 
+§7- Corkian's Switchblade of Decomposition [47]@ 
+§7- Warrior's Sabre of the Forest [48]@ 
+§7- §dTarod's Search [47]@ 
+§7- Bandit's Beads of the Vampire [45]@ 
+§7- Thief's Collar of the Skyraider [45]@ 
+§7- Pirate's Necklace of the Racoon [49]@ 
+§7- §aBlack Cap [33]@ 
+§7- §eFisher's Mail [22]@ 
+§7- Runner's Gold Ring of Agility [11]@ 
+§7- §bBabylon's Scale [65]@ 
+§7- §eDancer's Rhythm [51]@ 
+§7- §eCollier's Guard [64]@ 
+§7- §eDead Man's Flats [55]@ 
+§7- Phoenix-Feathered Shovel of Recovery [12]@ 
+§7- §eQuartz-Laced Leggings [53]@ 
+§7- §eNesaak's Will [46]@ 
+§7- §aHorse Hoof [40]@ 
+§7- §aGhostly Tunic [51]@ 
+§7- §aSlime Boots [51]@ 
+§7- §aBlack Boots [33]@ 
+§7- §bHeaven's Gate [65]@ 
+§7- Skyraiders's Bracelet of the Crow [33]@ 
+§7- Crackling Diamond Ring of Thunder-Calling [36]@ 
+§7- The Necromancer's Knuckles of Spells [39]@ 
+§7- Pirate's Arm Guard of Sneaking [33]@ 
+§7- §dMagellan's Sail [75]@ 
+§7- Cleric's Footwear of Water [50]@ 
+§7- Cleric's Soles of Water [52]@ 
+§7- Cleric's Soles of the Conjurer [53]@ 
+§7- Cleric's Short Bow of the Wise [52]@ 
+§7- §aPotion of §f❋ Agility [3]@ 
+§7- §aPotion of §c✹ Defence [1]@ 
+§7- §dSky Chef's Apron [96]@ 
+§7- §dEnsa's Resolve [96]@ 
+§7- §aGhostly Boots [49]@ 
+§7- §aBlack Pants [33]@ 
+§7- §eTroms' Climbing Trousers [53]@ 
+§7- §bPerun's Crown [59]@ 
+§7- §aTribal Boots [18]@ 
+§7- §aTribal Tunic [18]@ 
+§7- §aTribal Pants [18]@ 
+§7- §aOutlaw Pants [37]@ 
+§7- Aggressive Scimitar of the Warrior's [8]@ 
+§7- Solar Edge of Magma-Shaping [18]@ 
+§7- Slang-Ridden Scroll on War [28]@ 
+§7- Fighter's Machete of the Rabid [39]@ 
+§7- Old Explosives@ 
+§7- Enhanced Dynamics Microchip@ 
+§7- Engraved Tablet@ 
+§7- Bottled Decay@ 
+§7- §dCalamaro's Bow [43]@ 
+§7- §bBob's Mythic Spear [75]@ 
+§7- §dThe Queen's Headpiece [98]@ 
+§7- Skyraiders's Collar of the Skyraider [50]@ 
+§7- §dKrolton's Cruelty [88]@ 
+§7- Corkian's Mace of the Skywalker [47]@ 
+§7- §eCopper-Alloy Pike [42]@ 
+§7- §dCerid's Dynamo [59]@ 
+§7- §dKelight's Gauntlet [69]@ 
+§7- Expensive Rune of Pick-pocketing [39]@ 
+§7- §aPotion of §e✦ Dexterity [5]@ 
+§7- Shiny Pebble@ 
+§7- Lockpicking Kit@ 
+§7- §aPotion of §f❋ Agility [5]@ 
+§7- §aPotion of §2✤ Strength [5]@ 
+§7- §aPotion of §b❉ Intelligence [5]@ 
+§7- Gylia Essence@ 
+§7- Decaying Heart@ 
+§7- §bArakadicus' Body [21]@ 
+§7- Leopard Blood@ 
+§7- §bNether's Scar [95]@ 
+§7- §aPotion of §e✦ Dexterity [6]@ 
+§7- §aOutlaw Cap [39]@ 
+§7- §aOutlaw Tunic [38]@ 
+§7- §aBeachside Conch [19]@ 
+§7- Cleric's Cutlass of the Ocean [52]@ 
+§7- Cleric's Shank of Mariana [51]@ 
+§7- §bOlux's Prized Bow [55]@ 
+§7- §eTerra's Mold [90]@ 
+§7- Crunchy Cross Spear of the Warrior's [64]@ 
+§7- Runner's Relik of Quickness [5]@ 
+§7- §eSano's Care [90]@ 
+§7- Warrior's Claymore of Chaos [13]@ 
+§7- Berserker's Destroyer of the Bear [17]@ 
+§7- Cleric's Jacket of the Seafarer [61]@ 
+§7- Sentient Shadow@ 
+§7- §dRelend's Refrain [90]@ 
+§7- §dThe Master's Gi [89]@ 
+§7- §eBard's Song [79]@ 
+§7- §eTroms' Pride [70]@ 
+§7- §aNether Pants [27]@ 
+§7- Earthly Aura@ 
+§7- Bamboo@ 
+§7- Corbys Innards@ 
+§7- Plucked Feather@ 
+§7- Runner's Ringlet of the Zebra [8]@ 
+§7- Berserker's Great Hammer of Pandemonium [19]@ 
+§7- Pirate's Bone of Pandemonium [63]@ 
+§7- Corkian's Dagger of Lightning [69]@ 
+§7- Berserker's Shiv of Clashing [68]@ 
+§7- Hollow Shirt of Cloud-Walking [62]@ 
+§7- §eGriswold's Edge [60]@ 
+§7- §aPotion of §e✦ Dexterity [4]@ 
+§7- Fighter's Claws of the Farstrider [68]@ 
+§7- Thief's Rifle of Greed [64]@ 
+§7- Rough Slingshot of Thunder-Calling [64]@ 
+§7- Melted Steel@ 
+§7- Marrow Dust@ 
+§7- Pirate's Locket of the Vampire [61]@ 
+§7- §eWhite-Hot Leggings [88]@ 
+§7- §eProto-Shield [74]@ 
+§7- Runner's Focus of Power [11]@ 
+§7- Runner's Wand of Power [13]@ 
+§7- Slow-Cooked Dinner full of Calcium [10]@ 
+§7- Brutal Rapier of the Warrior's [21]@ 
+§7- §aTribal Cap [18]@ 
+§7- §aBandit's Locket [38]@ 
+§7- Soggy Stone@ 
+§7- Violent Garments of the Warrior's [64]@ 
+§7- Warrior's Girdle of the Warrior's [65]@ 
+§7- Fighter's Pendant of Magic [66]@ 
+§7- The Necromancer's Locket of the Owl [64]@ 
+§7- Overloading Pendant of Thunder-Calling [68]@ 
+§7- §dRycar's Bravado [58]@ 
+§7- Well-Brewed Vial of Aging [61]@ 
+§7- Well-Brewed Potion of Vision [61]@ 
+§7- Well-Brewed Dram of Endurance [60]@ 
+§7- Kerasot Sporehead@ 
+§7- Well-Done Meal of Extortion [61]@ 
+§7- Well-Brewed Beverage of Vision [64]@ 
+§7- Warrior's Razor of Wrath [47]@ 
+§7- §dAriodo's Dial [63]@ 
+§7- §eBalloon's Bane [79]@ 
+§7- §aNether Tunic [25]@ 
+§7- §dSanta's Coat [32]@ 
+§7- Slow-Cooked Lunch with Iron [62]@ 
+§7- §aPotion of §e✦ Dexterity [3]@ 
+§7- Shocking Parchment of the Sea's [66]@ 
+§7- Slow-Cooked Feast of Protection [65]@ 
+§7- §aPotion of §f❋ Agility [1]@ 
+§7- §dLaen's Curiosity [25]@ 
+§7- Slow-Cooked Cereal of Protection [67]@ 
+§7- §dCzytash's Compass [55]@ 
+§7- Runner's Bracer of the Rabbit [14]@ 
+§7- Warrior's Trousers of the Shaman [46]@ 
+§7- Beastial Viscera@ 
+§7- Runner's Trousers of the Eagle [8]@ 
+§7- §aBeachside Headwrap [17]@ 
+§7- Warrior's Dagger of the Fighters [21]@ 
+§7- Berserker's Razor of the Rabid [21]@ 
+§7- Smashing Razor of the Warrior's [21]@ 
+§7- Skyraiders's Breastplate of Thieves [80]@ 
+§7- Runner's Relik of Swiftness [18]@ 
+§7- Berserker's Machete of Brutality [70]@ 
+§7- Corkian's Spear of Sparks [73]@ 
+§7- §dCalamaro's Relik [43]@ 
+§7- §dEnsa's Failure [98]@ 
+§7- Runner's Shoes of Hyperactivity [28]@ 
+§7- Warrior's Falchion of the Breeze [71]@ 
+§7- Fighter's Razor of Ascension [72]@ 
+§7- Brutal Reaver of Cloud-Walking [73]@ 
+§7- §aSkien's Fatigues [57]@ 
+§7- §bOld Keeper's Ring [82]@ 
+§7- §aVisceral Chest [71]@ 
+§7- The Necromancer's Shoes of Wisdom [33]@ 
+§7- §dCrook's March [82]@ 
+§7- §bOlux's Prized Relik [55]@ 
+§7- §eDart Frog's Skin [85]@ 
+§7- §eEsper's Focus [84]@ 
+§7- §eNether's Deep [84]@ 
+§7- Yahya's Tincture made by Yahya [73]@ 
+§7- §dRandall's Leg Plating [38]@ 
+§7- Pirate's Recurve Bow of Sneaking [71]@ 
+§7- Solar Boots of Magma-Shaping [72]@ 
+§7- Spellbreaking Breastplate of Thunder-Calling [79]@ 
+§7- §bOlux's Prized Dagger [55]@ 
+§7- Pirate's Chestplate of the Skyraider [81]@ 
+§7- Bandit's Cage of the Bandit [81]@ 
+§7- Thief's Chestplate of the Leach [81]@ 
+§7- Pirate's Cage of the Bat [81]@ 
+§7- §eBylvis' Pitchfork [99]@ 
+§7- Phoenix-Feathered Coat of the Rabid [87]@ 
+§7- Valkyrie's Cuirass of Decay [87]@ 
+§7- §dCalamaro's Staff [43]@ 
+§7- Bandit's Ring of the Jackal [27]@ 
+§7- §eRodoroc's Pride [98]@ 
+§7- §aBear Body [16]@ 
+§7- §aBear Mask [15]@ 
+§7- §aChampion Helmet [75]@ 
+§7- §aElf Robe [50]@ 
+§7- §eSelchar's Famous Breeches [25]@ 
+§7- §aSkien Boots [53]@ 
+§7- Burning Soul@ 
+§7- Rock-Hard Beak@ 
+§7- Goblin Tooth@ 
+§7- §dCalamaro's Sword [43]@ 
+§7- Defishious@ 
+§7- Fish Tail@ 
+§7- Bantisu's Book from Gale [9]@ 
+§7- Runner's Ring of the Zebra [1]@ 
+§7- §aGhostly Pants [50]@ 
+§7- §fMama Zomble's Memory [1]@ 
+§7- Thief's Shank of the Eagle [32]@ 
+§7- Skyraiders's Ring of Distractions [17]@ 
+§7- Thief's Gold Ring of Sneaking [16]@ 
+§7- Iceberries@ 
+§7- §bBob's Mythic Daggers [75]@ 
+§7- Pirate's Ring of the Bat [15]@ 
+§7- Crunchy Destroyer of the Warrior's [38]@ 
+§7- Fiery Impaler of Magma-Shaping [38]@ 
+§7- Valkyrie's Shiv of the Flames [36]@ 
+§7- Runner's Yumi of Agility [4]@ 
+§7- Runner's Recurve Bow of the Zebra [5]@ 
+§7- The Necromancer's Jacket of Conjuration [22]@ 
+§7- The Necromancer's Shoulderguard of Mana [26]@ 
+§7- §bBob's Mythic Wand [75]@ 
+§7- Pirate's Diamond Ring of the Crow [48]@ 
+§7- Runner's Wrappings of the Cheetah [49]@ 
+§7- Myconid Spores@ 
+§7- §eNether's Reach [95]@ 
+§7- Optic Lens@ 
+§7- Runner's Circle of the Zebra [3]@ 
+§7- Lunar Chunk@ 
+§7- Backslashing Relik of Magma-Shaping [29]@ 
+§7- Thief's Ring of the Leach [36]@ 
+§7- §dLecade's Rank [79]@ 
+§7- §aPotion of §b❉ Intelligence [4]@ 
+§7- §dChef Hamsey's Apron [96]@ 
+§7- Voltaic Paper of the Sea's [21]@ 
+§7- Slow-Cooked Cereal with Iron [5]@ 
+§7- Bantisu's Parchment of Zephra [8]@ 
+§7- Bantisu's Rune of Zephra [7]@ 
+§7- §eThe Courier's Cape [86]@ 
+§7- Primordial Soul@ 
+§7- §dCalamaro's Spear [43]@ 
+§7- Bandit's Snack of Sneakiness [88]@ 
+§7- Runner's Diamond Ring of the Zebra [1]@ 
+§7- Berserker's Falchion of Power [7]@ 
+§7- Warrior's Shiv of Chaos [7]@ 
+§7- Fighting Stick@ 
+§7- Serpent Tongue@ 
+§7- Slow-Cooked Dish full of Calcium [35]@ 
+§7- §dTisaun's Honour [88]@ 
+§7- Tenebrous Plasma@ 
+§7- §dTogak's Vision [77]@ 
+§7- §eBantisu's Approach [86]@ 
+§7- Decayed Cutlass of the Warrior's [17]@ 
+§7- Fighter's Sabre of Clashing [10]@ 
+§7- Demonic Ashes@ 
+§7- Toxic Lumps@ 
+§7- Insanity Star@ 
+§7- Condensed Darkness@ 
+§7- Alnamar Meat@ 
+§7- Thief's Loop of the Crow [37]@ 
+§7- Skyraiders's Tip of the Vampire [35]@ 
+§7- §eDemon's Will [97]@ 
+§7- Curse Gland@ 
+§7- Fiberglass Frame@ 
+§7- Throbbing Avos Heart@ 
+§7- Void Essence@ 
+§7- Tentacle@ 
+§7- Piercing Talons@ 
+§7- World Illuminator@ 
+§7- Ashen Hide@ 
+§7- Soulbound Cinders@ 
+§7- Pirate Beard@ 
+§7- Runner's Walkers of the Lost [47]@ 
+§7- Crystalline Growth@ 
+§7- Thief's Cage of the Villagers [5]@ 
+§7- Flameheart@ 
+§7- Calmed Thunder@ 
+§7- Luu Luu Vertebrae@ 
+§7- Green Foot@ 
+§7- Forgotten Pickaxe@ 
+§7- Gollier Iron@ 
+§7- Sentient Water@ 
+§7- Fighter's Rapier of Protection [49]@ 
+§7- The Necromancer's Chestplate of Oblivion [48]@ 
+§7- Runner's Tunic of Agility [47]@ 
+§7- §eThe Crow's Nest [27]@ 
+§7- Thief's Cog of the Racoon [45]@ 
+§7- Blunt Cannon of Magma-Shaping [9]@ 
+§7- Slow-Cooked Supper of Tanking [6]@ 
+§7- Bantisu's Tome from Gale [9]@ 
+§7- Slow-Cooked Supper of Tanking [3]@ 
+§7- Slow-Cooked Dish of Tanking [7]@ 
+§7- Slow-Cooked Meal full of Calcium [7]@ 
+§7- Manis Carapace@ 
+§7- Plane of Nonexistence@ 
+§7- Fighter's Javelin of the Bull [8]@ 
+§7- Warrior's Spire of Power [9]@ 
+§7- §aChampion Chestplate [75]@ 
+§7- §aChampion Leggings [75]@ 
+§7- §aChampion Boots [75]@ 
+§7- Bandit's Circle of the Villagers [26]@ 
+§7- Bandit's Gold Ring of the Bat [28]@ 
+§7- Slang-Ridden Book of Corruption [29]@ 
+§7- Slang-Ridden Tome of the Fighter [27]@ 
+§7- Skyraiders's Loop of the Bandit [43]@ 
+§7- Thief's Ringlet of the Bandit [43]@ 
+§7- Bandit's Ringlet of the Vampire [43]@ 
+§7- Runner's Circlet of Speed [12]@ 
+§7- Runner's String of Sprinting [23]@ 
+§7- Pirate's Choker of the Skyraider [36]@ 
+§7- Thief's Diamond Ring of the Bandit [47]@ 
+§7- Slow-Cooked Dinner of Looting [18]@ 
+§7- Nose Ring@ 
+§7- Diamond Relik of Cloud-Walking [17]@ 
+§7- Pirate's Ringlet of the Vampire [34]@ 
+§7- Pirate's Ringlet of Sneaking [33]@ 
+§7- Bandit's Cog of Distractions [34]@ 
+§7- Skyraiders's Loop of the Pirate [37]@ 
+§7- §eAldorei's Tear [77]@ 
+§7- Bandit's Dinner of Extortion [29]@ 
+§7- Bandit's Food of Sneakiness [26]@ 
+§7- Bandit's Feast of Looting [27]@ 
+§7- Fighter's Rapier of the Rabid [18]@ 
+§7- Skyraiders's Cog of the Jackal [8]@ 
+§7- Bandit's Circle of the Leach [16]@ 
+§7- Burning Pike of Magma-Shaping [37]@ 
+§7- Fighter's Destroyer of the Berserker [39]@ 
+§7- Pirate's Diamond Ring of the Bat [44]@ 
+§7- Bandit's Circle of Thieves [45]@ 
+§7- Thief's Gold Ring of Greed [45]@ 
+§7- Bandit's Tip of the Vampire [44]@ 
+§7- Skyraiders's Ringlet of the Bandit [45]@ 
+§7- Bandit's Loop of the Bandit [47]@ 
+§7- Runner's Focus of the Eagle [16]@ 
+§7- Backslashing Stave of Magma-Shaping [19]@ 
+§7- Pirate's Locket of the Leach [10]@ 
+§7- §aSkien Leggings [55]@ 
+§7- Phoenix-Feathered Root of Courage [22]@ 

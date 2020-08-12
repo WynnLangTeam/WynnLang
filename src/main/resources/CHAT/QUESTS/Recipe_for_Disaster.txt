@@ -114,11 +114,11 @@
 §7[1/1] §2Brie: §aRemember, we need §3[Snail Slime]§a, §3[Voidroot]§a, §3[Zork Rinds]§a and §3[Quicksalt]§a to make the stew!@§7[1/1] §2Бри: §aПомни, нам нужна §3[Слизь змеи]§a, §3[Корень Пустоты]§a, §3[Шкура Зорка]§a и §3[Быстрая Соль]§a чтобы сделать рагу!
 §7[1/7] §2Kale: §aWhen Hamsey told me about a good friend of his, I didn't expect... this.@§7[1/7] §2Кейл: §aКогда Хемзи говорил о хорошем друге, я не ожидал увидеть... тебя.
 §7[2/7] §2Kale: §aJust get me everything we need and stay quiet, I'm not in the mood for chit-chat.@§7[2/7] §2Кейл: §aПросто принеси мне все, что я скажу. И не слова больше! Я не в настроении, чтобы болтать с тобой.
-§7[3/7] §2Kale: §aI don't want my reputation tarnished by the likes of you.@§7[3/7] §2Кейл: §aЯ не хочу потерять свою репутацию из-за таких, как ты.
+§7[3/7] §2Kale: §aI don't want my reputation tarnished by the likes of §a§lyou§a..@§7[3/7] §2Кейл: §aЯ не хочу потерять свою репутацию из-за таких, как §a§lты§a..
 §7[4/7] §2Kale: §aListen up, I'm not going to say this again. Take notes.@§7[4/7] §2Кейл: §aСлушай сюда, я не буду повторять снова. Возьми список.
-§7[5/7] §2Kale: §aThe key ingredient in my amazing omelette is obviously the [Blue-Ring Grook Egg], which of course you didn't know.@§7[5/7] §2Кейл: §aГлавный ингредиент моего восхитительного омлета, это конечно же §3[Синее Яйцо Грукa]§a, о котором ты ничего не слышал.
-§7[6/7] §2Kale: §aSecondly what we need is some [Snail Slime], which is at Snail Island, of course.@§7[6/7] §2Кейл: §aВторое - §3[Слизь Змеи]§a, которую найдешь на острове змей, естественно.
-§7[7/7] §2Kale: §aLastly you need a [Talking Mushroom] which is found on the swamp Sky Island.@§7[7/7] §2Кейл: §aИ последнее, §3[Говорящий Гриб]§a, который найдешь в болоте на Летающих островах.
+§7[5/7] §2Kale: §aThe key ingredient in my amazing omelette is obviously the §3[Blue-Ring Grook Egg]§a, which of course you didn't know.@§7[5/7] §2Кейл: §aГлавный ингредиент моего восхитительного омлета, это конечно же §3[Синее Яйцо Грукa]§a, о котором ты ничего не слышал.
+§7[6/7] §2Kale: §aSecondly what we need is some §3[Snail Slime]§a, which is at Snail Island, of course.@§7[6/7] §2Кейл: §aВторое - §3[Слизь Змеи]§a, которую найдешь на острове змей, естественно.
+§7[7/7] §2Kale: §aLastly you need a §3[Talking Mushroom] §a which is found on the swamp Sky Island.@§7[7/7] §2Кейл: §aИ последнее, §3[Говорящий Гриб]§a, который найдешь в болоте на Летающих островах.
 §7[1/3] §2Kale: §aOh, it's you again. You got the ingredients... it's about time!@§7[1/3] §2Кейл: §aАх, снова ты. Принес ингредиенты... самое время!
 §7[2/3] §2Kale: §aAll you need to do is bring the dish to Hamsey's private dining area. There is an entrance ahead and to my left.@§7[2/3] §2Кейл: §aТеперь тебе всего лишь нужно отдать это Хемзи в его комнате для дегустации. Вход в нее слева от меня.
 §7[3/3] §2Kale: §aSince you decided to get help from clearly the best chef in the kitchen, you'll easily win against Hamsey. Thanks to me, mind you!@§7[3/3] §2Кейл: §aПоскольку у тебя была помощь от лучшего шефа на этой кухне, то ты легко победишь. Благодаря мне, заметь!
@@ -138,6 +138,7 @@
 §7[1/1] §2Snail Race Supervisor: §aFeel free to train a-gainst U-snail Bolt at any time.@§7[1/1] §2Супервайзер Улиточных Гонок: §aНе стесняйся тренироваться против У-снейл Болта в любое время.
 §7[1/2] §2Regular Humyn: §aHow humyns converse Wynnic? Humyns uncover paper-read from blue space-rock!@§7[1/2] §2Обычный Чуловек: §aКак чуловеки изучить wynnic? Чуловеки узнать бумага читать из синий космический камень!
 §7[2/2] §2Regular Humyn: §aHumyns have created other small spacezoom! Discover more quicksalt from saltcave to refine burnmilk to return to blue spacerock!@§7[2/2] §2Обычный Чуловек: §aЧуловеки создать другой корабль-космос! Найти больше быстрая соль в пещера-соль и переработать в молоко-топливо для вернуться на синий космический камень!
+§7[1/1] §2Crank: §aWhy 'ello there, friend. Back to go down to the void again?@§7[1/1] §2Крэнк: §aНу здравствуй, дружище. Вернулся, чтобы снова спуститься в пустоту?
 ======================================================================================
 §7[1/1]§f §2Astralaus: §aWelcome to Astralaus' Astral House! Can you get to the top by flipping gravity?@§7[1/1] §2Астралаус: §aДобро пожаловать в астральный дом Астралаусa! Сможешь ли ты добраться до вершины, преодолев гравитацию?
 §7[1/2]§f §2Astralaus: §aAstronomical progress! But this is just the beginning!@§7[1/2] §2Астралаус: §aАстрономический прогресс! Но это только начало!

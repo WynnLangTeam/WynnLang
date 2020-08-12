@@ -144,3 +144,5 @@
 §7[1/1] §2Aledar: §aWhere are you going? Don't leave us!@§7[1/1] §2Аледар: §aКуда ты уходишь? Не покидай нас!
 §7[1/1] §2Aledar: §aJust §bleft-click the rock §ato break it!@§7[1/1] §2Аледар: §aНажми §bЛевым Кликом по камню§a чтобы сломать его!
 §7[1/1] §2Tasim: §aWhere do you think you're going?! You can't make that jump...@§7[1/1] §2Тасим: §aИ куда ты направляешься?! Ты не сможешь сделать этот прыжок...
+§7[1/1] §2Tasim: §aWe must check out the bridge, come back soldier!@§7[1/1] §2Тасим: §aМы должны проверить мост, вернись, солдат!
+§7[1/1] §2Tasim: §We must check out the bridge, come back soldier!@§7[1/1] §2Тасим: §aМы должны проверить мост, вернись, солдат!

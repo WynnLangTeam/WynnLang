@@ -82,3 +82,4 @@
 §7[1/1] §2Asher: §aI miss seeing the past. It was such an interesting place.@§7[1/1] §2Ашер: §aЯ скучаю по прошлому. Это было такое интересное место.
 §7[1/1] §2Asher: §aDon't come back here until you find my shovel, or I'll have you thrown in jail!@§7[1/1] §2Ашер: §aНе возвращайся сюда, пока не найдешь мою лопату, или я брошу тебя в тюрьму! §6[-572, -1104]
 §7[1/1] §2Old Man Martyn: §aWhenever you're ready to save Asher, step through the rift.@§7[1/1] §2Старик Мартин: §aКогда будешь готов спасти Ашерa - зайди в портал.
+§7[1/3] §2Old Man: §a@§7[1/3] §2Старик: §a

@@ -197,3 +197,6 @@
 §7[1/2] §2Elphaba: §aWhere do you think you're going?! This is the most dangerous mission in the history of this province that only the strongest and bravest can face!@§7[1/2] §2Эльфаба: §aКуда это ты собрался? Это самая опасная миссия в истории этой провинции, с которой могут справиться только самые сильные и храбрые!
 §7[2/2] §2Elphaba: §aCome back when you are level 100 and then I might allow you to take part in this mission!@§7[2/2] §2Эльфаба: §aВернись, когда достигнешь 100 уровня, и тогда я могу позволить тебе принять участие в этой миссии!
 §7[1/1] §2Aledar: §aWhat do you think you're doing? You can't just jump in the lava like that.@§7[1/1] §2Аледар: §aЧто ты собрался делать? Ты не можешь просто так прыгнуть в лаву.
+§7[3/7] §2Aledar: §aWho's that?! Is that a... Miner? How is this possible?@§7[3/7] §2Аледар: §aКто это?! Это... Шахтер? Как это возможно?
+§7[4/7] §2Aledar: §aHello? Are you… OK?@§7[4/7] §2Аледар: §aПривет? Ты... в порядке?
+§7[5/7] §2Aledar: §aWait did you hear that?!@§7[5/7] §2Аледар: §aМинутку, ты слышал это?!

@@ -195,7 +195,7 @@ Fire Catalyst (I|II|III|V|VI|VII|VIII|IX|X)$@§fКатализатор Огня 
 §fUnprocessed Carp§8 (.*)@§fНеобработанный Карп§8 (r1)
 §fUnprocessed Icefish§8 (.*)@§fНеобработанная Щука§8 (r1)
 §fUnprocessed Piranha§8 (.*)@§fНеобработанная Пиранья§8 (r1)
-§fUnprocessed Molten Eel§8 (.*)@§fНеобработанный Молтен Угорь §8 (r1)
+§fUnprocessed Molten Eel§8 (.*)@§fНеобработанный Угорь §8 (r1)
 §fUnprocessed Koi§8 (.*)@§fНеобработанный Сазан§8 (r1)
 §fUnprocessed Starfish§8 (.*)@§fНеобработанная Морская Звезда§8 (r1)
 §fUnprocessed Bass§8 (.*)@§fНеобработанный Окунь§8 (r1)

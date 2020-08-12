@@ -6,3 +6,4 @@
 §7[1/1] §2Prison Guard: §aYou are trespassing on private property. Just get out of here, our cells are too full. We prefer 72's and up anyway.@§7[1/1] §2Страж Тюрьмы: §aТы вторгся на частную собственность. Просто убирайся отсюда, наши камеры переполнены. Мы предпочитаем 72-го уровня и выше, в любом случае.
 §7[1/1] §2Prison Guard: §aNo trespassing!@§7[1/1] §2Страж Тюрьмы: §aНикаких посторонних!
 §7[1/1] §2The Guardian: §aStranger! If you value your life, you will walk away, and never return!@§7[1/1] §2Охранник: §aНезнакомец! Если ты ценишь свою жизнь, ты уйдешь и никогда не вернешься!
+§7[1/1] §2Prison Guard: §aPrison Guard: §aWatch out for those dogs, recruit! They're not trained to obey humans! Why did the warden hire a human anyway?@§7[1/1] §2Страж Тюрьмы: §aБерегись этих собак, рекрут! Они не обучены повиноваться людям! И вообще, зачем смотритель нанял сюда человека?

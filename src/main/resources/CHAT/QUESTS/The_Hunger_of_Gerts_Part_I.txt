@@ -84,3 +84,5 @@
 §7[1/1] §2Gylia Watch Guard: §aWe don't allow outsiders in our library, however, if you help Cikal with the gert problem, he might let you in.@§7[1/1] §2Страж Башни Гилия: §aМы не допускаем посторонних в нашу библиотеку, однако, если ты поможешь Цикалу с проблемой с Гертами, он может тебя впустить.
 §7[1/1] §2Comor: §aHead to my friend's cell up over there! @§7[1/1] §2Комор: §aОтправляйся в камеру моего друга вон там!
 §7[1/1] §2Jitak: §aAll my sheep... Dead... How am I going keep my tailoring business alive?@§7[1/1] §2Житак: §aВсе мои овцы... Мертвы... Как же мне тогда сохранить свой портняжный бизнес?
+§7[1/1] §2Gerten Chief Lobo: §aLeave gert alone! Gert do hard think! You help gert only when level 78!@§7[1/1] §2Герт Шеф Лобо: §aОставь Герт в покой! Герт надо подумать! Твоя помочь герт только на уровень 78!
+§7[1/1] §2Gerten Guard: §aHuman back to cell!@§7[1/1] §2Герт Страж: §aЧеловек вернуться в клетка!

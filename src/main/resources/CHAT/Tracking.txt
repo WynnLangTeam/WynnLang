@@ -16,17 +16,27 @@
 §7Explore the cave at [271, 39, -1225] for the Shard.@§7Исследуй пещеру на [271, 39, -1225] в поисках Осколка
 §7Kill the Progenitors to open the entrance.@§7Убей Progenitor'а чтобы открыть вход.
 §7Kill the Mangled Progeny for the [1 Corrupted Pearl].@§7Убей Mangled Progeny и получи [1 Испорченную Жемчужину].
+§7Get the Shard with Aledar.@§7Добудь осколок вместе с Аледаром 
 §7Kill the Black Geist.@§7Убей Black Geist.
+§7Go back to the Blacksmith with the Darkness Item.@§7Вернись к Кузнецу с Предметом Тьмы. 
 §7Chase the beast for the Shard.@§7Преследуй зверя с осколком
+§7Follow your team towards the Silent Expanse's entrance.@§7Следуй за своей командой ко входу в Тихое Пространство 
+§7Defeat the Beast@§7Победи зверя 
+§7Plan a way of killing the beast.@§7Придумай план по убийству зверя. 
+§7Re-open the closed entrance with the other warriors.@§7Снова открой закрытый вход с другими войнами. 
 §7Explore the Silent Expanse.@§7Исследуй Тихое Пространство
 §7Find Aledar, Lucio and Elphaba in the Fallen City.@§7Найди Аледара, Луцио и Эльфабу в Опустевшем Городе.
 §7Find Aledar and Elphaba in the Fallen City.@§7Найди Аледара и Эльфабу в Опустевшем Городе. 
 §7Find Aledar in the Fallen City.@§7Найди Аледара в Опустевшем Городе.
+§7Escort Aledar through the Eyeball Forest to Lutho.@§7Доставь Аледара через Лес с Глазами в Луто. 
 =====A_Journey_Further 
 §7Talk to Aledar in Lutho at [977, 75, -732]@§7Поговори с Аледаром в Луто [977, 75, -732]
 §7Continue your journey with Aledar.@§7Продолжи свое путешествие с Аледаром.
 §7Use Void Holes to try and get behind the spike barrier@§7Используй Пустотные Дыры чтобы попасть за шипы
+§7Jump into the void hole.@§7Прыгни в пустотную дыру. 
 §7Find a way to help Aledar get to the other side of the spike barrier.@§7Найди способ помочь Аледару попасть на другую сторону барьера из шипов
+§7Right click to grab the blade in the altar.@§7Возьми клинок с алтаря. 
+§7Sacrifice Aledar.@§7Пожертвуй Аледаром. 
 =====A_Hunter's_Calling 
 §7Explore the deepest part of the Silent Expanse@§7Исследуй глубинные части Тихого Пространства
 §7The besieged origin. To end, one must begin.@§7Осажденное начало. Чтобы закончить, нужно начать.
@@ -38,6 +48,7 @@
 §7Head back to the excavation camp.@§7Иди обратно к раскопкам в лагере.
 §7The cruel. The kind. The selfish. The just. He who travelled life with confliction. Who faced eternity served cold. To his end.@§7Жестокий. Добрый. Эгоистичный. Простой. Тот, кто двигался по жизни с конфликтом. Тот, кто столкнулся с холодной вечностью. До своего конца.
 §7Head to Nesaak and locate Theorick.@§7Отправляйся в Несаак и найди Теорика. 
+§7Defeat Theorick@§7Победи Теорика 
 §7An end, ousted by further action. An end, brought to six. An end, to the surety of the haughty. An end, of the §7world...in§7 some fashion.@§7Конец, свергнутый другими действиями. Конец, принесенный шестью. Конец, к уверенности надменных. Конец мира...в некотором роде.
 §7Make your way to the end of the cave.@§7Доберись до конца пещеры.
 §7Return back up the cave and fix a way out.@§7Вернись обратно в пещеру и исправь выход наружу.
@@ -797,6 +808,8 @@
 §7Meet up with Chef Hamsey in Ahmsord at [949,129,-4475]@§7Встреться с Шефом Хемзи в Амсорде на [949,129,-4475]
 §7Find Chef Hamsey in his kitchen@§7Найди Шефа Хемзи на его кухне
 §7Speak to Brie for her to introduce herself@§7Поговори с Бри для ее представления себя
+§7Speak to Frank for him to introduce himself@§7Поговори с Френком для его представления себя 
+§7Speak to Kale for him to introduce himself@§7Поговори с Кейлом для его представления себя 
 §7Choose the chef you want to work with@§7Выбери того шефа, с кем ты будешь работать
 §7Present the ingredients to your chosen chef@§7Отдай найденные ингредиенты выбранному шефу
 §7Present your dish to Chef Hamsey@§7Покажи свое блюдо Шефу Хемзи
@@ -846,10 +859,13 @@
 §7Report back to Nasea about the whole incident@§7Сообщи Насеа об этом инциденте 
 ======Royal_Trials 
 §7Talk to the Skyraider Guard at [1476,84,-4336]@§7Поговори со Скайрайдер Стражем на [1476,84,-4336]
+§7Talk to the Hrona at [1470,85,-4334]@§7Поговори с Хроной на [1470,85,-4334]
 §7Buy a Female Pirate Wig at Ahmsord then enter the basement in which the trials are being held at [1476,82,-4340]@§7Купи Женский Парик Пирата в Амсорде и затем войди в подвал, в котором проходят испытания [1476,82,-4340]
 §7Approach the stage@§7Подойди к сцене
 §7Listen to the trials overseer's speech@§7Послушай речь смотрительницы испытаний 
+§7Defeat the cockpit room of the combat challenge@§7Победи в комнате кубрика в комбат челлендже 
 §7Break into the mansion@§7Проникни в поместье
+§7Get the treasure to the trials overseer outside of the mansion's window@§7Доставь сокровище до смотрительницы испытаний снаружи окна поместья 
 ======Sewers_of_Ragni 
 §7The lieutenant at [-890,60,-1874] needs help.@§7Лейтенанту на [-890,60,-1874] требуется помощь 
 §7Meet up with the lieutenant outside the sewer entrance at [-921,78,-1918]@§7Встреться с лейтенантом возле входа в канализацию на [-921,78,-1918]
@@ -930,6 +946,7 @@
 §7Speak to Grenot outside the Thesead coal mine at [676,78,-5020]@§7Поговори с Гренотом снаружи угольной шахты Тесеада на [676,78,-5020]
 §7Enter the coal mine@§7Войди в угольную шахту 
 §7Progress through the coal mine@§7Продвигайся вперед по шахте
+§7Escape the coal mine!@§7Сбеги из шахты! 
 §7Return to Grenot@§7Вернись к Греноту
 ======The_Canyon_Guides
 §7Speak to Gana at [444,104,-4805]@§7Поговори с Ганой на [444,104,-4805]
@@ -1037,6 +1054,7 @@
 §7Escape your cell@§7Сбеги из клетки
 §7Escape the Gerten prison@§7Сбеги из тюрьмы Гертов
 §7Head to the cell at [-808,47,-8217] and investigate@§7Подойди к клетке на [-808,47,-8217] и исследуй
+§7Talk to the Comor@§7Поговори с Комором 
 §7Kill the Hungry Gert and return to Comor with the [Cell Key]@§7Убей голодного Герта и вернись к Комору с [Ключом от клетки]
 §7Kill the Gerten Prison Warden and use the Barricade Key on Barricade Keyhole to escape@§7Убей Надзирателя Герт Тюрьмы и используй Ключ от Баррикад на замке баррикад для побега 
 §7Leave the Gerten prison and return to Cikal to tell him about the tunnels@§7Покинь тюрьму Гертов и вернись к Цикалу с рассказом о тоннелях
@@ -1100,6 +1118,7 @@
 §7Prepare to enter the Thunder division@§7Подготовься к прохождению Дивизии Грома 
 §7Collect 5 Thunder Catalyst I@§7Собери 5 Катализатор Земли I 
 §7Collect 5 Thunder Catalyst II@§7Собери 5 Катализатор Земли II
+§7Collect 5 Thunder Catalyst VI@§7Собери 5 Катализатор Грома VI 
 §7Collect 5 Thunder Catalyst VII@§7Собери 5 Катализатор Земли VII
 §7Collect 5 Thunder Catalyst IX@§7Собери 5 Катализатор Земли IX
 §7Defeat the Psychomancer and collect 1 Thunder Catalyst X@§7Победи Psychomancer и собери 1 Катализатор Земли X
@@ -1118,6 +1137,7 @@
 §7Collect 5 Air Catalyst I@§7Собери 5 Катализатор Воздуха I
 §7Collect 5 Air Catalyst II@§7Собери 5 Катализатор Воздуха II
 §7Collect 5 Air Catalyst V@§7Собери 5 Катализатор Воздуха V 
+§7Collect 5 Air Catalyst VI@§7Собери 5 Катализатор Воздуха VI 
 §7Collect 5 Air Catalyst VIII@§7Собери 5 Катализатор Воздуха VIII
 §7Talk to Yansur to receive your prize for overcoming the Air Division@§7Поговори с Янсуром и получи свой приз за прохождение Дивизии Воздуха 
 §7Prepare to enter the Fire division@§7Подготовься к прохождению Дивизии Огня
@@ -1254,6 +1274,7 @@
 §7Find the three map fragments by following the eyes and return to Thomas.@§7Найди 3 фрагмента карты, идя по следу глаз, и вернись к Томасу
 §7Enter the traitor camp@§7Войди в лагерь предателей
 §7Speak to Rebel Leader Amadel@§7Поговори с их лидером Амаделем
+§7Talk to Excavator Amadel@§7Поговори с Раскопщиком Амаделем
 §7Go to Site D [-874,22,-349]@§7Иди к Site D [-874,22,-349]
 §7Search the excavation site@§7Продвигайся вдоль раскопок 
 §7Talk to Excavator Admin Uci@§7Поговори с Раскопщиком Админом Уки
@@ -1265,6 +1286,7 @@
 §7Teleport to the Ancient City@§7Телепортируйся в Древний Город
 §7Explore The Ancient City@§7Исследуй Древний Город
 §7Speak to Amadels assistant@§7Поговори с Ассистентом Амадела
+§7Fight Amadel@§7Сразись с Amadel 
 §7Kill Amadel@§7Убей Амадела
 §7Fight Corrupted Amadel@§7Сразись с Corrupted Amadel
 §7Kill Corruped Amadel@§7Убей Corruped Amadel
@@ -1286,6 +1308,7 @@
 §7Explore@§7Исследуй
 §7Explore the house to find a way out@§7Исследуй дом чтобы найти выход 
 §7Wait@§7Подожди
+§7Continue through the hideout!@§7Продвигайся через укрытие! 
 
 #########################################MINI-QUESTS##############################################
 §7Bring [15 Snow Clumps] to the Slaying Post [Combat Lv. 40] at [82,69,-725]@§7Принеси [15 Snow Clumps] к Доске Заданий [Комбат Ур. 40] на [82,69,-725]
@@ -1316,65 +1339,97 @@
 §7Bring [25 Holy Powders] to the Slaying Post [Combat Lv. 98] at [1005,118,-4790]@§7Принеси [25 Holy Powders] к Доске Заданий [Комбат Ур. 98] на [1005,118,-4790]
 §7Bring [15 Dragonling Scales] to the Slaying Post [Combat Lv. 99] at [1348,124,-4470]@§7Принеси [15 Dragonling Scales] к Доске Заданий [Комбат Ур. 99] на [1348,124,-4470]
 §7Bring [24 Fluffy Fur] to the Slaying Post [Combat Lv. 88] at [135,53,-4399]@§7Принеси [24 Fluffy Fur] к Доске Заданий [Комбат Ур. 88] на [135,53,-4399]
-§7Bring §3[16 Willow Wood] §7or §3[16 Willow Paper] §7to the §aGathering Post §2[Woodcutting Lv. 23]@§7Принеси §3[16 Древесины Ивы] §7или §3[16 Ивовой Бумаги] §7к §aДоске Сбора §2[Лесорубство Ур. 23]
-§7Bring [16 Willow Wood] or [16 Willow Paper] to the Gathering Post [Woodcutting Lv. 23] at [16,37,-2203]@§7Принеси [16 Древесины Ивы] или [16 Ивовой Бумаги] к Доске Сбора [Лесорубство Ур. 23] на [16,37,-2203]
-§7Bring §3[12 Oak Wood] §7or §3[12 Oak Paper] §7to the §aGathering Post §2[Woodcutting Lv. 8]@§7Принеси §3[12 Древесины Дуба] §7или §3[12 Дубовой Бумаги] §7к §aДоске Сбора §2[Лесорубство Ур. 8]
 §7Bring [12 Oak Wood] or [12 Oak Paper] to the Gathering Post [Woodcutting Lv. 8] at [-433,67,-1591]@§7Принеси [12 Древесины Дуба] или [12 Дубовой Бумаги] к Доске Сбора [Лесорубство Ур. 8] на [-433,67,-1591]
-§7Bring §3[14 Birch Wood] §7or §3[14 Birch Paper] §7to the §aGathering Post §2[Woodcutting Lv. 18]@§7Принеси §3[14 Древесины Березы] §7или §3[14 Березовой Бумаги] §7к §aДоске Сбора §2[Лесорубство Ур. 18]
-§7Bring §3[24 Willow Wood] §7or §3[24 Willow Paper] §7to the §aGathering Post §2[Woodcutting Lv. 28]@§7Принеси §3[24 Древесины Ивы] §7или §3[24 Ивовой Бумаги] §7к §aДоске Сбора §2[Лесорубство Ур. 28]
-§7Bring [24 Willow Wood] or [24 Willow Paper] to the Gathering Post [Woodcutting Lv. 28] at [223,43,-2047]@§7Принеси [24 Древесины Ивы] или [24 Ивовой Бумаги] к Доске Сбора [Лесорубство Ур. 28] на [223,43,-2047]
-§7Bring §3[20 Acacia Wood] §7or §3[20 Acacia Paper] §7to the §aGathering Post §2[Woodcutting Lv. 33]@§7Принеси §3[20 Древесины Акации] §7или §3[20 Акациевой Бумаги] §7к §aДоске Сбора §2[Лесорубство Ур. 33]
-§7Bring [20 Acacia Wood] or [20 Acacia Paper] to the Gathering Post [Woodcutting Lv. 33] at [630,68,-1978]@§7Принеси [20 Древесины Акации] или [20 Акациевой Бумаги] к Доске Сбора [Лесорубство Ур. 33] на [630,68,-1978]
-§7Bring §3[30 Acacia Wood] §7or §3[30 Acacia Paper] §7to the §aGathering Post §2[Woodcutting Lv. 38]@§7Принеси §3[30 Древесины Акации] §7или §3[30 Акациевой Бумаги] §7к §aДоске Сбора §2[Лесорубство Ур. 38]
-§7Bring §3[24 Spruce Wood] §7or §3[24 Spruce Paper] §7to the §aGathering Post §2[Woodcutting Lv. 43]@§7Принеси §3[24 Древесины Ели] §7или §3[24 Еловой Бумаги] §7к §aДоске Сбора §2[Лесорубство Ур. 43]
 §7Bring [36 Avo Wood] or [36 Avo Paper] to the Gathering Post [Woodcutting Lv. 91] at [-1710,67,-2802]@§7Принеси [36 Древесины Авокадо] или [36 Авокадовой Бумаги] к Доске Сбора [Лесорубство Ур. 91] на [-1710,67,-2802]
 §7Bring [48 Avo Wood] or [48 Avo Paper] to the Gathering Post [Woodcutting Lv. 93] at [-1836,105,-2906]@§7Принеси [48 Древесины Авокадо] или [48 Авокадовой Бумаги] к Доске Сбора [Лесорубство Ур. 93] на [-1836,105,-2906]
+§7Bring [14 Birch Wood] or [14 Birch Paper] to the Gathering Post [Woodcutting Lv. 18] at [182,67,-1597]@§7Принеси §3[14 Древесины Березы] §7или §3[14 Березовой Бумаги] §7к §aДоске Сбора §2[Лесорубство Ур. 18] на [182,67,-1597]
+§7Bring [26 Bamboo] to the Gathering Post [Woodcutting Lv. 88] at [87,81,-4340]@§7Принеси [26 Бамбука] к Доске Сбора [Лесорубство Ур. 88]
+§7Bring [52 Pine Wood] or [52 Pine Paper] to the Gathering Post [Woodcutting Lv. 86] at [-1339,113,-2870]@§7Принеси [52 Древесины Сосны] или [52 Сосновой Бумаги] к Доске Сбора [Лесорубство Ур. 86]
+§7Bring [16 Gold Ingots] or [16 Gold Gems] to the Gathering Post [Mining Lv. 23] at [424,66,-1275]@§7Принеси [16 Золотых Слитков] или [16 Золотых Камней] к Доске Сбора [Добыча Руды Ур. 23] на [424,66,-1275]
+§7Bring [24 Gold Ingots] or [24 Gold Gems] to the Gathering Post [Mining Lv. 28] at [833,38,-1282]@§7Принеси [24 Золотых Слитков] или [24 Золотых Камней] к Доске Сбора [Добыча Руды Ур. 28] на [833,38,-1282]
+§7Bring [12 Gudgeon Oil] or [12 Gudgeon Meat] to the Gathering Post [Fishing Lv. 8] at [-637,67,-1558]@§7Принеси [12 Жира Пескаря] или [12 Мяса Пескаря] к Доске Сбора [Рыболовство Ур. 8] на [-637,67,-1558]
+§7Bring [14 Trout Oil] or [14 Trout Meat] to the Gathering Post [Fishing Lv. 18] at [53,60,-1547]@§7Принеси [14 Жира Форели] или [14 Мяса Форели] к Доске Сбора [Рыболовство Ур. 18] на [53,60,-1547]
+§7Bring [16 Salmon Oil] or [16 Salmon Meat] to the Gathering Post [Fishing Lv. 23] at [220,34,-2131]@§7Принеси [16 Жира Лосося] §7или [16 Мяса Лосося] §7к Доске Сбора [Рыболовство Ур. 23] на [220,34,-2131]
+§7Bring [20 Malt String] or [20 Malt Grains] to the Gathering Post [Farming Lv. 33] at [1280,77,-1981]@§7Принеси [20 Солодовых Нитей] или [20 Солодовых Зерен] к Доске Сбора [Земледелие Ур. 33] на [1280,77,-1981]
+§7Bring [30 Malt String] or [30 Malt Grains] to the Gathering Post [Farming Lv. 38] at [1427,88,-1607]@§7Принеси [30 Солодовых Нитей] или [30 Солодовых Зерен] к Доске Сбора [Земледелие Ур. 38] на [1427,88,-1607]
+§7Bring [20 Carp Oil] or [20 Carp Meat] to the Gathering Post [Fishing Lv. 33] at [1317,74,-1838]@§7Принеси [20 Жира Карпа] или [20 Мяса Карпа] к Доске Заданий [Рыболовство Ур. 33] на [1317,74,-1838]
+§7Bring [14 Granite Ingots] or [14 Granite Gems] to the Gathering Post [Mining Lv. 18] at [-879,111,-1330]@§7Принеси [14 Гранитных Слитков] или [14 Гранитных Камней] к §aДоске Заданий [Добыча Руды Ур. 18] на [-879,111,-1330]
+§7Bring [20 Sandstone Ingots] or [20 Sandstone Gems] to the Gathering Post [Mining Lv. 33] at [1162,75,-1849]@§7Принеси [20 Песчаных Слитков] или [20 Песчаных Камней] к Доске Заданий [Добыча Руды Ур. 33] на [1162,75,-1849]
+§7Bring [36 Molten Ingots] or [36 Molten Gems] to the Gathering Post [Mining Lv. 91] at [1229,20,-5470]@§7Принеси [36 Молтен Слитков] или [36 Молтен Камней] к Доске Сбора [Добыча Руды Ур. 91] на [1229,20,-5470]
+§7Bring [48 Molten Ingots] or [48 Molten Gems] to the Gathering Post [Mining Lv. 93] at [1394,68,-5609]@§7Принеси [48 Молтен Слитков] или [48 Молтен Камней] к Доске Сбора [Добыча Руды Ур. 93] на [1394,68,-5609]
+§7Bring [12 Copper Ingots] or [12 Copper Gems] to the Gathering Post [Mining Lv. 8] at [-563,68,-1547]@§7Принеси [12 Медных Слитков] §7или [12 Медных Камней] §7к Доске Сбора [Добыча Руды Ур. 8] на [-563,68,-1547]
+§7Bring [12 Wheat String] or [12 Wheat Grains] to the Gathering Post [Farming Lv. 8] at [-781,66,-1742]@§7Принеси [12 Пшеничных Нитей] §7или [12 Пшеничных Зерен] §7к Доске Сбора [Земледелие Ур. 8] на [-781,66,-1742]
+§7Bring [30 Dark Wood] or [30 Dark Paper] to the Gathering Post [Woodcutting Lv. 61] at [-1253,42,-5385]@§7Принеси [30 Древесины Каштана] или [30 Каштановой Бумаги] к Доске Заданий [Лесорубство Ур. 61] на [-1253,42,-5385]
+§7Bring [36 Dark Wood] or [36 Dark Paper] to the Gathering Post [Woodcutting Lv. 63] at [-1066,43,-5156]@§7Принеси [36 Древесины Каштана] или [36 Каштановой Бумаги] к Доске Заданий [Лесорубство Ур. 63] на [-1066,43,-5156]
+§7Bring [44 Dark Wood] or [44 Dark Paper] to the Gathering Post [Woodcutting Lv. 68] at [952,47,-3883]@§7Принеси [44 Древесины Каштана] или [44 Каштановой Бумаги] к Доске Заданий [Лесорубство Ур. 68] на [952,47,-3883]
+§7Bring [30 Millet String] or [30 Millet Grains] to the Gathering Post [Farming Lv. 61] at [-1385,42,-4541]@§7Принеси [30 Нитей Просо] или [30 Просо Зерен] к Доске Сбора [Земледелие Ур. 61] на [-1385,42,-4541]
+§7Bring [36 Millet String] or [36 Millet Grains] to the Gathering Post [Farming Lv. 63] at [-1278,44,-4547]@§7Принеси [36 Нитей Просо] или [36 Просо Зерен] к Доске Сбора [Земледелие Ур. 63] на [-1278,44,-4547]
+§7Bring [44 Millet String] or [44 Millet Grains] to the Gathering Post [Farming Lv. 68] at [-733,75,-4494]@§7Принеси [44 Нити Просо] или [44 Просо Зерен] к Доске Сбора [Земледелие Ур. 68] на [-733,75,-4494]
+§7Bring [16 Oat String] or [16 Oat Grains] to the Gathering Post [Farming Lv. 23] at [-48,36,-2500]@§7Принеси [16 Овсяных Нитей] или [16 Овсяных Зерен] к Доске Сбора [Земледелие Ур. 23] на [-48,36,-2500]
+§7Bring [24 Oat String] or [24 Oat Grains] to the Gathering Post [Farming Lv. 28] at [788,71,-1559]@§7Принеси [24 Овсяных Нитей] §7или [24 Овсяных Зерен] §7к Доске Сбора [Земледелие Ур. 28] на [788,71,-1559]
+§7Bring [62 Diamond Ingots] or [62 Diamond Gems] to the Gathering Post [Mining Lv. 88] at [369,77,-5070]@§7Принеси [62 Алмазных Слитка] или [62 Алмазных Камня] к Доске Сбора [Добыча Руды Ур. 88] на [369,77,-5070]
+§7Bring [34 Diamond Ingots] or [34 Diamond Gems] to the Gathering Post [Mining Lv. 81] at [337,27,-5356]@§7Принеси [34 Алмазных Слитка] или [34 Алмазных Камня] к Доске Сбора [Добыча Руды Ур. 81] на [337,27,-5356]
+§7Bring [44 Diamond Ingots] or [44 Diamond Gems] to the Gathering Post [Mining Lv. 83] at [641,29,-4793]@§7Принеси [44 Алмазных Слитка] или [44 Алмазных Камня] к Доске Сбора [Добыча Руды Ур. 83] на [641,29,-4793]
+§7Bring [52 Diamond Ingots] or [52 Diamond Gems] to the Gathering Post [Mining Lv. 86] at [27,42,-4672]@§7Принеси [52 Алмазных Слитка] или [52 Алмазных Камня] к Доске Сбора [Добыча Руды Ур. 86] на [27,42,-4672]
+§7Bring [20 Acacia Wood] or [20 Acacia Paper] to the Gathering Post [Woodcutting Lv. 33] at [630,68,-1978]@§7Принеси [20 Древесины Акации] или [20 Акациевой Бумаги] к Доске Сбора [Лесорубство Ур. 33] на [630,68,-1978]
+§7Bring [30 Acacia Wood] or [30 Acacia Paper] to the Gathering Post [Woodcutting Lv. 38] at [1226,116,-1391]@§7Принеси §3[30 Древесины Акации] §7или §3[30 Акациевой Бумаги] §7к §aДоске Заданий §2[Лесорубство Ур. 38]
+§7Bring [16 Willow Wood] or [16 Willow Paper] to the Gathering Post [Woodcutting Lv. 23] at [16,37,-2203]@§7Принеси [16 Древесины Ивы] или [16 Ивовой Бумаги] к Доске Сбора [Лесорубство Ур. 23] на [16,37,-2203]
+§7Bring [24 Willow Wood] or [24 Willow Paper] to the Gathering Post [Woodcutting Lv. 28] at [223,43,-2047]@§7Принеси [24 Древесины Ивы] или [24 Ивовой Бумаги] к Доске Сбора [Лесорубство Ур. 28] на [223,43,-2047]
+§7Bring [24 Spruce Wood] or [24 Spruce Paper] to the Gathering Post [Woodcutting Lv. 43] at [46,67,-813]@§7Принеси [24 Древесины Ели] или [24 Еловой Бумаги] к Доске Сбора [Лесорубство Ур. 43] на [46,67,-813]
+§7Bring [36 Spruce Wood] or [36 Spruce Paper] to the Gathering Post [Woodcutting Lv. 48] at [-175,66,-923]@§7Принеси [36 Древесины Ели] или [36 Еловой Бумаги] к Доске Заданий [Лесорубство Ур. 48] на [-175,66,-923]
+§7Bring [24 Hops String] or [24 Hops Grains] to the Gathering Post [Farming Lv. 43] at [-1557,50,-4987]@§7Принеси [24 Хмельных Нитей] или [24 Хмельных Зерен] к Доске Сбора [Земледелие Ур. 43] на [-1557,50,-4987]
+§7Bring [28 Piranha Oil] or [28 Piranha Meat] to the Gathering Post [Fishing Lv. 53] at [-667,62,-637]@§7Принеси [28 Жира Пираньи] или [28 Мяса Пираньи] к Доске Сбора [Рыболовство Ур. 53] на [-667,62,-637]
+§7Bring [24 Icefish Oil] or [24 Icefish Meat] to the Gathering Post [Fishing Lv. 43] at [84,66,-921]@§7Принеси [24 Жира Щуки] или [24 Мяса Щуки] к Доске Заданий [Рыболовство Ур. 43] на [84,66,-921]
+§7Bring [28 Rye String] or [28 Rye Grains] to the Gathering Post [Farming Lv. 53] at [-2191,59,-5416]@§7Принеси [28 Ржаных Нитей] или [28 Ржаных Зерен] к Доске Сбора [Земледелие Ур. 53] на [-2191,59,-5416]
+§7Bring [42 Rye String] or [42 Rye Grains] to the Gathering Post [Farming Lv. 58] at [-1903,56,-5278]@§7Принеси [42 Ржаных Нити] или [42 Ржаного Зерна] к Доске Сбора [Земледелие Ур. 58] на [-1903,56,-5278]
+§7Bring [36 Koi Oil] or [36 Koi Meat] to the Gathering Post [Fishing Lv. 63] at [-831,23,-410]@§7Принеси [36 Жира Сазана] или [36 Мяса Сазана] к Доске Заданий [Рыболовство Ур. 63] на [-831,23,-410]
+§7Bring [36 Iron Ingots] or [36 Iron Gems] to the Gathering Post [Mining Lv. 48] at [-433,25,-388]@§7Принеси [36 Железных Слитков] или [36 Железных Камней] к Доске Заданий [Добыча Руды Ур. 48] на [-433,25,-388]
+§7Bring [24 Iron Ingots] or [24 Iron Gems] to the Gathering Post [Mining Lv. 43] at [1067,65,-3363]@§7Принеси [24 Железных Слитка] или [24 Железных Камня] к Доске Заданий [Добыча Руды Ур. 43] на [1067,65,-3363]
+§7Bring [42 Silver Ingots] or [42 Silver Gems] to the Gathering Post [Mining Lv. 58] at [-915,44,-3809]@§7Принеси [42 Серебряных Слитка] или [42 Серебряных Камня] к Доске Заданий [Добыча Руды Ур. 58] на [-915,44,-3809]
+§7Bring [28 Silver Ingots] or [28 Silver Gems] to the Gathering Post [Mining Lv. 53] at [-1707,54,-5146]@§7Принеси [28 Серебряных Слитков] или [28 Серебряных Камней] к Доске Заданий [Добыча Руды Ур. 53] на [-1707,54,-5146]
+§7Bring [30 Cobalt Ingots] or [30 Cobalt Gems] to the Gathering Post [Mining Lv. 61] at [-896,24,-679]@§7Принеси [30 Кобальтовых Слитков] или [30 Кобальтовых Камней] к Доске Заданий [Добыча Руды Ур. 61] на [-896,24,-679]
+§7Bring [36 Cobalt Ingots] or [36 Cobalt Gems] to the Gathering Post [Mining Lv. 63] at [-1277,25,-5528]@§7Принеси [36 Кобальтовых Слитков] или [36 Кобальтовых Камней] к Доске Заданий [Добыча Руды Ур. 63] на [-1277,25,-5528]
+§7Bring [28 Jungle Wood] or [28 Jungle Paper] to the Gathering Post [Woodcutting Lv. 53] at [-571,62,-738]@§7Принеси [28 Древесины Амаранта] или [28 Амарантовой Бумаги] к Доске Заданий [Лесорубство Ур. 53] на [-571,62,-738]
+§7Bring [42 Jungle Wood] or [42 Jungle Paper] to the Gathering Post [Woodcutting Lv. 58] at [-685,58,-884]@§7Принеси [42 Древесины Амаранта] или [42 Амарантовой Бумаги] к Доске Заданий [Лесорубство Ур. 58] на [-685,58,-884]
+§7Bring [14 Barley String] or [14 Barley Grains] to the Gathering Post [Farming Lv. 18] at [-539,101,-1306]@§7Принеси [14 Ячменных Нитей] или [14 Ячменных Зерен] к Доске Сбора [Земледелие Ур. 18] на [-539,101,-1306]
+§7Bring §3[16 Willow Wood] §7or §3[16 Willow Paper] §7to the §aGathering Post §2[Woodcutting Lv. 23]@§7Принеси §3[16 Древесины Ивы] §7или §3[16 Ивовой Бумаги] §7к §aДоске Сбора §2[Лесорубство Ур. 23]
+§7Bring §3[12 Oak Wood] §7or §3[12 Oak Paper] §7to the §aGathering Post §2[Woodcutting Lv. 8]@§7Принеси §3[12 Древесины Дуба] §7или §3[12 Дубовой Бумаги] §7к §aДоске Сбора §2[Лесорубство Ур. 8]
+§7Bring §3[14 Birch Wood] §7or §3[14 Birch Paper] §7to the §aGathering Post §2[Woodcutting Lv. 18]@§7Принеси §3[14 Древесины Березы] §7или §3[14 Березовой Бумаги] §7к §aДоске Сбора §2[Лесорубство Ур. 18]
+§7Bring §3[24 Willow Wood] §7or §3[24 Willow Paper] §7to the §aGathering Post §2[Woodcutting Lv. 28]@§7Принеси §3[24 Древесины Ивы] §7или §3[24 Ивовой Бумаги] §7к §aДоске Сбора §2[Лесорубство Ур. 28]
+§7Bring §3[20 Acacia Wood] §7or §3[20 Acacia Paper] §7to the §aGathering Post §2[Woodcutting Lv. 33]@§7Принеси §3[20 Древесины Акации] §7или §3[20 Акациевой Бумаги] §7к §aДоске Сбора §2[Лесорубство Ур. 33]
+§7Bring §3[30 Acacia Wood] §7or §3[30 Acacia Paper] §7to the §aGathering Post §2[Woodcutting Lv. 38]@§7Принеси §3[30 Древесины Акации] §7или §3[30 Акациевой Бумаги] §7к §aДоске Сбора §2[Лесорубство Ур. 38]
+§7Bring §3[24 Spruce Wood] §7or §3[24 Spruce Paper] §7to the §aGathering Post §2[Woodcutting Lv. 43]@§7Принеси §3[24 Древесины Ели] §7или §3[24 Еловой Бумаги] §7к §aДоске Сбора §2[Лесорубство Ур. 43]
+§7Bring §3[36 Spruce Wood] §7or §3[36 Spruce Paper] §7to the §aGathering Post §2[Woodcutting Lv. 48]@§7Принеси §3[36 Древесины Ели] §7или §3[36 Еловой Бумаги] §7к §aДоске Заданий §2[Лесорубство Ур. 48]
 §7Bring §3[36 Avo Wood] §7or §3[36 Avo Paper] §7to the §aGathering Post §2[Woodcutting Lv. 91]@§7Принеси §3[36 Древесины Авокадо] §7или §3[36 Авокадовой Бумаги] §7к §aДоске Сбора §2[Лесорубство Ур. 91]
 §7Bring §3[48 Avo Wood] §7or §3[48 Avo Paper] §7to the §aGathering Post §2[Woodcutting Lv. 93]@§7Принеси §3[48 Древесины Авокадо] §7или §3[48 Авокадовой Бумаги] §7к §aДоске Сбора §2[Лесорубство Ур. 93]
 §7Bring §3[40 Light Wood] §7or §3[40 Light Paper] §7to the §aGathering Post §2[Woodcutting Lv. 73]@§7Принеси §3[40 Древесины Клена] §7или §3[40 Кленовой Бумаги] §7к §aДоске Сбора §2[Лесорубство Ур. 73]
 §7Bring §3[48 Light Wood] §7or §3[48 Light Paper] §7to the §aGathering Post §2[Woodcutting Lv. 78]@§7Принеси §3[48 Древесины Клена] §7или §3[48 Кленовой Бумаги] §7к §aДоске Сбора §2[Лесорубство Ур. 78]
-§7Bring [14 Birch Wood] or [14 Birch Paper] to the Gathering Post [Woodcutting Lv. 18] at [182,67,-1597]@§7Принеси §3[14 Древесины Березы] §7или §3[14 Березовой Бумаги] §7к §aДоске Сбора §2[Лесорубство Ур. 18] на [182,67,-1597]
-§7Bring [26 Bamboo] to the Gathering Post [Woodcutting Lv. 88] at [87,81,-4340]@§7Принеси [26 Бамбука] к Доске Сбора [Лесорубство Ур. 88]
 §7Bring §3[26 Bamboo] §7to the §aGathering Post §2[Woodcutting Lv. 88]@§7Принеси §3[26 Бамбука] §7к §aДоске Сбора §2[Лесорубство Ур. 88]
 §7Bring §3[34 Pine Wood] §7or §3[34 Pine Paper] §7to the §aGathering Post §2[Woodcutting Lv. 81]@§7Принеси §3[34 Древесины Сосны] §7или §3[34 Сосновой Бумаги] §7к §aДоске Сбора §2[Лесорубство Ур. 81]
 §7Bring §3[44 Pine Wood] §7or §3[44 Pine Paper] §7to the §aGathering Post §2[Woodcutting Lv. 83]@§7Принеси §3[44 Древесины Сосны] §7или §3[44 Сосновой Бумаги] §7к §aДоске Сбора §2[Лесорубство Ур. 83]
 §7Bring §3[52 Pine Wood] §7or §3[52 Pine Paper] §7to the §aGathering Post §2[Woodcutting Lv. 86]@§7Принеси §3[52 Древесины Сосны] §7или §3[52 Сосновой Бумаги] §7к §aДоске Сбора §2[Лесорубство Ур. 86]
-§7Bring [52 Pine Wood] or [52 Pine Paper] to the Gathering Post [Woodcutting Lv. 86] at [-1339,113,-2870]@§7Принеси [52 Древесины Сосны] или [52 Сосновой Бумаги] к Доске Сбора [Лесорубство Ур. 86]
 §7Bring §3[12 Copper Ingots] §7or §3[12 Copper Gems] §7to the §aGathering Post §2[Mining Lv. 8]@§7Принеси §3[12 Медных Слитков] §7или §3[12 Медных Камней] §7к §aДоске Сбора §2[Добыча Руды Ур. 8]
-§7Bring [16 Gold Ingots] or [16 Gold Gems] to the Gathering Post [Mining Lv. 23] at [424,66,-1275]@§7Принеси [16 Золотых Слитков] или [16 Золотых Камней] к Доске Сбора [Добыча Руды Ур. 23] на [424,66,-1275]
 §7Bring §3[16 Gold Ingots] §7or §3[16 Gold Gems] §7to the §aGathering Post §2[Mining Lv. 23]@§7Принеси §3[16 Золотых Слитков] §7или §3[16 Золотых Камней] §7к §aДоске Сбора §2[Добыча Руды Ур. 23]
-§7Bring [24 Gold Ingots] or [24 Gold Gems] to the Gathering Post [Mining Lv. 28] at [833,38,-1282]@§7Принеси [24 Золотых Слитков] или [24 Золотых Камней] к Доске Сбора [Добыча Руды Ур. 28] на [833,38,-1282]
 §7Bring §3[24 Gold Ingots] §7or §3[24 Gold Gems] §7to the §aGathering Post §2[Mining Lv. 28]@§7Принеси §3[24 Золотых Слитков] §7или §3[24 Золотых Камней] §7к §aДоске Сбора §2[Добыча Руды Ур. 28]
 §7Bring §3[12 Gudgeon Oil] §7or §3[12 Gudgeon Meat] §7to the §aGathering Post §2[Fishing Lv. 8]@§7Принеси §3[12 Жира Пескаря] §7или §3[12 Мяса Пескаря] §7к §aДоске Сбора §2[Рыболовство Ур. 8]
-§7Bring [12 Gudgeon Oil] or [12 Gudgeon Meat] to the Gathering Post [Fishing Lv. 8] at [-637,67,-1558]@§7Принеси [12 Жира Пескаря] или [12 Мяса Пескаря] к Доске Сбора [Рыболовство Ур. 8] на [-637,67,-1558]
 §7Bring §3[16 Salmon Oil] §7or §3[16 Salmon Meat] §7to the §aGathering Post §2[Fishing Lv. 23]@§7Принеси §3[16 Жира Лосося] §7или §3[16 Мяса Лосося] §7к §aДоске Сбора §2[Рыболовство Ур. 23]
 §7Bring §3[14 Trout Oil] §7or §3[14 Trout Meat] §7to the §aGathering Post §2[Fishing Lv. 18]@§7Принеси §3[14 Жира Форели] §7или §3[14 Мяса Форели] §7к §aДоске Сбора §2[Рыболовство Ур. 18]
-§7Bring [14 Trout Oil] or [14 Trout Meat] to the Gathering Post [Fishing Lv. 18] at [53,60,-1547]@§7Принеси [14 Жира Форели] или [14 Мяса Форели] к Доске Сбора [Рыболовство Ур. 18] на [53,60,-1547]
-§7Bring [16 Salmon Oil] or [16 Salmon Meat] to the Gathering Post [Fishing Lv. 23] at [220,34,-2131]@§7Принеси [16 Жира Лосося] §7или [16 Мяса Лосося] §7к Доске Сбора [Рыболовство Ур. 23] на [220,34,-2131]
 §7Bring §3[24 Salmon Oil] §7or §3[24 Salmon Meat] §7to the §aGathering Post §2[Fishing Lv. 28]@§7Принеси §3[24 Жира Лосося] §7или §3[24 Мяса Лосося] §7к §aДоске Сбора §2[Рыболовство Ур. 28]
 §7Bring §3[12 Wheat String] §7or §3[12 Wheat Grains] §7to the §aGathering Post §2[Farming Lv. 8]@§7Принеси §3[12 Пшеничных Нитей] §7или §3[12 Пшеничных Зерен] §7к §aДоске Сбора §2[Земледелие Ур. 8]
 §7Bring §3[14 Barley String] §7or §3[14 Barley Grains] §7to the §aGathering Post §2[Farming Lv. 18]@§7Принеси §3[14 Ячменных Нитей] §7или §3[14 Ячменных Зерен] §7к §aДоске Сбора §2[Земледелие Ур. 18]
 §7Bring §3[16 Oat String] §7or §3[16 Oat Grains] §7to the §aGathering Post §2[Farming Lv. 23]@§7Принеси §3[16 Овсяных Нитей] §7или §3[16 Овсяных Зерен] §7к §aДоске Сбора §2[Земледелие Ур. 23]
-§7Bring [16 Oat String] or [16 Oat Grains] to the Gathering Post [Farming Lv. 23] at [-48,36,-2500]@§7Принеси [16 Овсяных Нитей] или [16 Овсяных Зерен] к Доске Сбора [Земледелие Ур. 23] на [-48,36,-2500]
 §7Bring §3[20 Malt String] §7or §3[20 Malt Grains] §7to the §aGathering Post §2[Farming Lv. 33]@§7Принеси §3[20 Солодовых Нитей] §7или §3[20 Солодовых Зерен] §7к §aДоске Сбора §2[Земледелие Ур. 33]
-§7Bring [20 Malt String] or [20 Malt Grains] to the Gathering Post [Farming Lv. 33] at [1280,77,-1981]@§7Принеси [20 Солодовых Нитей] или [20 Солодовых Зерен] к Доске Сбора [Земледелие Ур. 33] на [1280,77,-1981]
-§7Bring [30 Malt String] or [30 Malt Grains] to the Gathering Post [Farming Lv. 38] at [1427,88,-1607]@§7Принеси [30 Солодовых Нитей] или [30 Солодовых Зерен] к Доске Сбора [Земледелие Ур. 38] на [1427,88,-1607]
 §7Bring §3[24 Oat String] §7or §3[24 Oat Grains] §7to the §aGathering Post §2[Farming Lv. 28]@§7Принеси §3[24 Овсяных Нитей] §7или §3[24 Овсяных Зерен] §7к §aДоске Сбора §2[Земледелие Ур. 28]
 §7Bring §3[30 Malt String] §7or §3[30 Malt Grains] §7to the §aGathering Post §2[Farming Lv. 38]@§7Принеси §3[30 Солодовых Нитей] §7или §3[30 Солодовых Зерен] §7к §aДоске Сбора §2[Земледелие Ур. 38]
 §7Bring §3[24 Hops String] §7or §3[24 Hops Grains] §7to the §aGathering Post §2[Farming Lv. 43]@§7Принеси §3[24 Хмельных Нитей] §7или §3[24 Хмельных Зерен] §7к §aДоске Сбора §2[Земледелие Ур. 43]
 §7Bring §3[20 Carp Oil] §7or §3[20 Carp Meat] §7to the §aGathering Post §2[Fishing Lv. 33]@§7Принеси §3[20 Жира Карпа] §7или §3[20 Мяса Карпа] §7к §aДоске Заданий §2[Рыболовство Ур. 33]
-§7Bring [20 Carp Oil] or [20 Carp Meat] to the Gathering Post [Fishing Lv. 33] at [1317,74,-1838]@§7Принеси [20 Жира Карпа] или [20 Мяса Карпа] к Доске Заданий [Рыболовство Ур. 33] на [1317,74,-1838]
 §7Bring §3[24 Icefish Oil] §7or §3[24 Icefish Meat] §7to the §aGathering Post §2[Fishing Lv. 43]@§7Принеси §3[24 Жира Щуки] §7или §3[24 Мяса Щуки] §7к §aДоске Заданий §2[Рыболовство Ур. 43]
+§7Bring §3[36 Icefish Oil] §7or §3[36 Icefish Meat] §7to the §aGathering Post §2[Fishing Lv. 48]@§7Принеси §3[36 Жира Щуки] §7или §3[36 Мяса Щуки] §7к §aДоске Заданий §2[Рыболовство Ур. 48]
 §7Bring §3[14 Granite Ingots] §7or §3[14 Granite Gems] §7to the §aGathering Post §2[Mining Lv. 18]@§7Принеси §3[14 Гранитных Слитков] §7или §3[14 Гранитных Камней] §7к §aДоске Заданий §2[Добыча Руды Ур. 18]
-§7Bring [14 Granite Ingots] or [14 Granite Gems] to the Gathering Post [Mining Lv. 18] at [-879,111,-1330]@§7Принеси [14 Гранитных Слитков] или [14 Гранитных Камней] к §aДоске Заданий [Добыча Руды Ур. 18] на [-879,111,-1330]
 §7Bring §3[20 Sandstone Ingots] §7or §3[20 Sandstone Gems] §7to the §aGathering Post §2[Mining Lv. 33]@§7Принеси §3[20 Песчаных Слитков] §7или §3[20 Песчаных Камней] §7к §aДоске Заданий §2[Добыча Руды Ур. 33]
-§7Bring [20 Sandstone Ingots] or [20 Sandstone Gems] to the Gathering Post [Mining Lv. 33] at [1162,75,-1849]@§7Принеси [20 Песчаных Слитков] или [20 Песчаных Камней] к Доске Заданий [Добыча Руды Ур. 33] на [1162,75,-1849]
-§7Bring [62 Diamond Ingots] or [62 Diamond Gems] to the Gathering Post [Mining Lv. 88] at [369,77,-5070]@§7Принеси [62 Алмазных Слитка] или [62 Алмазных Камня] к Доске Сбора [Добыча Руды Ур. 88] на [369,77,-5070]
 §7Bring §3[62 Diamond Ingots] §7or §3[62 Diamond Gems] §7to the §aGathering Post §2[Mining Lv. 88]@§7Принеси §3[62 Алмазных Слитка] §7или §3[62 Алмазных Камня] §7к §aДоске Сбора §2[Добыча Руды Ур. 88]
 §7Bring §3[44 Diamond Ingots] §7or §3[44 Diamond Gems] §7to the §aGathering Post §2[Mining Lv. 83]@§7Принеси §3[44 Алмазных Слитка] §7или §3[44 Алмазных Камня] §7к §aДоске Сбора §2[Добыча Руды Ур. 83]
 §7Bring §3[34 Diamond Ingots] §7or §3[34 Diamond Gems] §7to the §aGathering Post §2[Mining Lv. 81]@§7Принеси §3[34 Алмазных Слитка] §7или §3[34 Алмазных Камня] §7к §aДоске Сбора §2[Добыча Руды Ур. 81]
-§7Bring [36 Molten Ingots] or [36 Molten Gems] to the Gathering Post [Mining Lv. 91] at [1229,20,-5470]@§7Принеси [36 Молтен Слитков] или [36 Молтен Камней] к Доске Сбора [Добыча Руды Ур. 91] на [1229,20,-5470]
-§7Bring [48 Molten Ingots] or [48 Molten Gems] to the Gathering Post [Mining Lv. 93] at [1394,68,-5609]@§7Принеси [48 Молтен Слитков] или [48 Молтен Камней] к Доске Сбора [Добыча Руды Ур. 93] на [1394,68,-5609]
 §7Bring §3[36 Molten Ingots] §7or §3[36 Molten Gems] §7to the §aGathering Post §2[Mining Lv. 91]@§7Принеси §3[36 Молтен Слитков] §7или §3[36 Молтен Камней] §7к §aДоске Сбора §2[Добыча Руды Ур. 91]
 §7Bring §3[48 Molten Ingots] §7or §3[48 Molten Gems] §7to the §aGathering Post §2[Mining Lv. 93]@§7Принеси §3[48 Молтен Слитков] §7или §3[48 Молтен Камней] §7к §aДоске Сбора §2[Добыча Руды Ур. 93]
 §7Bring §3[32 Kanderstone Ingots] §7or §3[32 Kanderstone Gems] §7to the §aGathering Post §2[Mining Lv. 71]@§7Принеси §3[32 Кандерстоун Слитка] §7или §3[32 Кандерстоун Камня] §7к §aДоске Сбора §2[Добыча Руды Ур. 71]
@@ -1387,11 +1442,6 @@
 §7Bring §3[36 Dark Wood] §7or §3[36 Dark Paper] §7to the §aGathering Post §2[Woodcutting Lv. 63]@§7Принеси §3[36 Древесины Каштана] §7или §3[36 Каштановой Бумаги] §7к §aДоске Заданий §2[Лесорубство Ур. 63]
 §7Bring §3[44 Dark Wood] §7or §3[44 Dark Paper] §7to the §aGathering Post §2[Woodcutting Lv. 68]@§7Принеси §3[44 Древесины Каштана] §7или §3[44 Каштановой Бумаги] §7к §aДоске Заданий §2[Лесорубство Ур. 68]
 §7Bring §3[32 Light Wood] §7or §3[32 Light Paper] §7to the §aGathering Post §2[Woodcutting Lv. 71]@§7Принеси §3[32 Древесины Клена] §7или §3[32 Кленовой Бумаги] §7к §aДоске Заданий §2[Лесорубство Ур. 71]
-§7Bring [30 Acacia Wood] or [30 Acacia Paper] to the Gathering Post [Woodcutting Lv. 38] at [1226,116,-1391]@§7Принеси §3[30 Древесины Акации] §7или §3[30 Акациевой Бумаги] §7к §aДоске Заданий §2[Лесорубство Ур. 38]
-§7Bring §3[36 Spruce Wood] §7or §3[36 Spruce Paper] §7to the §aGathering Post §2[Woodcutting Lv. 48]@§7Принеси §3[36 Древесины Ели] §7или §3[36 Еловой Бумаги] §7к §aДоске Заданий §2[Лесорубство Ур. 48]
-§7Bring [12 Copper Ingots] or [12 Copper Gems] to the Gathering Post [Mining Lv. 8] at [-563,68,-1547]@§7Принеси [12 Медных Слитков] §7или [12 Медных Камней] §7к Доске Сбора [Добыча Руды Ур. 8] на [-563,68,-1547]
-§7Bring [12 Wheat String] or [12 Wheat Grains] to the Gathering Post [Farming Lv. 8] at [-781,66,-1742]@§7Принеси [12 Пшеничных Нитей] §7или [12 Пшеничных Зерен] §7к Доске Сбора [Земледелие Ур. 8] на [-781,66,-1742]
-§7Bring [24 Oat String] or [24 Oat Grains] to the Gathering Post [Farming Lv. 28] at [788,71,-1559]@§7Принеси [24 Овсяных Нитей] §7или [24 Овсяных Зерен] §7к Доске Сбора [Земледелие Ур. 28] на [788,71,-1559]
 §7Bring §3[30 Sandstone Ingots] §7or §3[30 Sandstone Gems] §7to the §aGathering Post §2[Mining Lv. 38]@§7Принеси §3[30 Песчаных Слитков] §7или §3[30 Песчаных Камней] §7к §aДоске Заданий §2[Добыча Руды Ур. 38]
 §7Bring §3[36 Hops String] §7or §3[36 Hops Grains] §7to the §aGathering Post §2[Farming Lv. 48]@§7Принеси §3[36 Хмельных Нитей] §7или §3[36 Хмельных Зерен] §7к §aДоске Сбора §2[Земледелие Ур. 48]
 §7Bring §3[36 Iron Ingots] §7or §3[36 Iron Gems] §7to the §aGathering Post §2[Mining Lv. 48]@§7Принеси §3[36 Железных Слитков] §7или §3[36 Железных Камней] §7к §aДоске Заданий §2[Добыча Руды Ур. 48]
@@ -1399,6 +1449,7 @@
 §7Bring §3[28 Silver Ingots] §7or §3[28 Silver Gems] §7to the §aGathering Post §2[Mining Lv. 53]@§7Принеси §3[28 Серебряных Слитков] §7или §3[28 Серебряных Камней] §7к §aДоске Заданий §2[Добыча Руды Ур. 53]
 §7Bring §3[42 Silver Ingots] §7or §3[42 Silver Gems] §7to the §aGathering Post §2[Mining Lv. 58]@§7Принеси §3[42 Серебряных Слитка] §7или §3[42 Серебряных Камня] §7к §aДоске Заданий §2[Добыча Руды Ур. 58]
 §7Bring §3[44 Koi Oil] §7or §3[44 Koi Meat] §7to the §aGathering Post §2[Fishing Lv. 68]@§7Принеси §3[44 Жира Сазана] §7или §3[44 Мяса Сазана] §7к §aДоске Заданий §2[Рыболовство Ур. 68]
+§7Bring §3[36 Koi Oil] §7or §3[36 Koi Meat] §7to the §aGathering Post §2[Fishing Lv. 63]@§7Принеси §3[36 Жира Сазана] §7или §3[36 Мяса Сазана] §7к §aДоске Заданий §2[Рыболовство Ур. 63]
 §7Bring §3[30 Koi Oil] §7or §3[30 Koi Meat] §7to the §aGathering Post §2[Fishing Lv. 61]@§7Принеси §3[30 Жира Сазана] §7или §3[30 Мяса Сазана] §7к §aДоске Заданий §2[Рыболовство Ур. 61]
 §7Bring §3[30 Carp Oil] §7or §3[30 Carp Meat] §7to the §aGathering Post §2[Fishing Lv. 38]@§7Принеси §3[30 Жира Карпа] §7или §3[30 Мяса Карпа] §7к §aДоске Заданий §2[Рыболовство Ур. 38]
 §7Bring §3[40 Gylia Oil] §7or §3[40 Gylia Meat] §7to the §aGathering Post §2[Fishing Lv. 73]@§7Принеси §3[40 Жира Гилия] §7или §3[40 Мяса Гилия] §7к §aДоске Заданий §2[Рыболовство Ур. 73]
@@ -1415,6 +1466,8 @@
 §7Bring §3[34 Rice String] §7or §3[34 Rice Grains] §7to the §aGathering Post §2[Farming Lv. 81]@§7Принеси §3[34 Рисовых Нити] §7или §3[34 Рисового Зерна] §7к §aДоске Сбора §2[Земледелие Ур. 81]
 §7Bring §3[34 Bass Oil] §7or §3[34 Bass Meat] §7to the §aGathering Post §2[Fishing Lv. 81]@§7Принеси §3[34 Жира Окуня] §7или §3[34 Мяса Окуня] §7к §aДоске Заданий §2[Рыболовство Ур. 81]
 §7Bring §3[36 Sorghum String] §7or §3[36 Sorghum Grains] §7to the §aGathering Post §2[Farming Lv. 91]@§7Принеси §3[36 Сорго Нитей] §7или §3[36 Сорго Зерен] §7к §aДоске Сбора §2[Земледелие Ур. 91]
-§7Bring [34 Diamond Ingots] or [34 Diamond Gems] to the Gathering Post [Mining Lv. 81] at [337,27,-5356]@§7Принеси [34 Алмазных Слитка] или [34 Алмазных Камня] к Доске Сбора [Добыча Руды Ур. 81] на [337,27,-5356]
-§7Bring [44 Diamond Ingots] or [44 Diamond Gems] to the Gathering Post [Mining Lv. 83] at [641,29,-4793]@§7Принеси [44 Алмазных Слитка] или [44 Алмазных Камня] к Доске Сбора [Добыча Руды Ур. 83] на [641,29,-4793]
-§7Bring [52 Diamond Ingots] or [52 Diamond Gems] to the Gathering Post [Mining Lv. 86] at [27,42,-4672]@§7Принеси [52 Алмазных Слитка] или [52 Алмазных Камня] к Доске Сбора [Добыча Руды Ур. 86] на [27,42,-4672]
+§7Bring §3[28 Piranha Oil] §7or §3[28 Piranha Meat] §7to the §aGathering Post §2[Fishing Lv. 53]@§7Принеси §3[28 Жира Пираньи] §7или §3[28 Мяса Пираньи] §7к §aДоске Сбора §2[Рыболовство Ур. 53]
+§7Bring §3[42 Piranha Oil] §7or §3[42 Piranha Meat] §7to the §aGathering Post §2[Fishing Lv. 58]@§7Принеси §3[42 Жира Пираньи] §7или §3[42 Мяса Пираньи] §7к §aДоске Сбора §2[Рыболовство Ур. 58]
+§7Bring §3[30 Millet String] §7or §3[30 Millet Grains] §7to the §aGathering Post §2[Farming Lv. 61]@§7Принеси §3[30 Нитей Просо] §7или §3[30 Просо Зерен] §7к §aДоске Сбора §2[Земледелие Ур. 61]
+§7Bring §3[36 Millet String] §7or §3[36 Millet Grains] §7to the §aGathering Post §2[Farming Lv. 63]@§7Принеси §3[36 Нитей Просо] §7или §3[36 Просо Зерен] §7к §aДоске Сбора §2[Земледелие Ур. 63]
+§7Bring §3[44 Millet String] §7or §3[44 Millet Grains] §7to the §aGathering Post §2[Farming Lv. 68]@§7Принеси §3[44 Нити Просо] §7или §3[44 Просо Зерен] §7к §aДоске Сбора §2[Земледелие Ур. 68]

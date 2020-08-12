@@ -412,6 +412,8 @@
 §4Your guild can only start a battle every 10 seconds!@§4Твоя гильдия может начинать захват только каждые 10 секунд!
 §cYou must be a Recruiter to use this command.@§cТы должен быть рекрутером для использования этой команды.
 §4If you leave, the guild will be disbanded. You must have a §cchief§4 to take over for you.@§4Если ты уйдешь, то гильдия будет распущена. Назначь игрока §cшефом§4 чтобы он занял твое место.
+§3You cannot recruit that many mobs!@§3Ты не можешь завербовать столько мобов!
+§4You cannot trade while a Guild War is about to start!@§4Ты не можешь торговать, так как захват территории скоро начнется!
 
 ###################################QUEST/DUNGEON REWARDS##################################
 §7[+1 Selchar Teleportation Scroll]@§7[+1 Сельчар свиток телепортации]
@@ -572,6 +574,7 @@
 §d            - §7Gnome's Ring@ 
 §d            - §7Giant's Ring@ 
 §d            - §7+Ring of Rubies@ 
+§d   +800000 Experience Points@§d   +800000 Очков Опыта
 §b   +1 Diamond Token@§b   +1 Алмазный жетон
 §7[+Witherhead's Rib]@§7[+Ребро Визерхеда]
 §7[+Decrepit Sewers Fragment]@§7[+Фрагмент Ветхой Канализации]
@@ -804,6 +807,7 @@
 §6Corrupted Spear@§6Испорченное Копье
 §6Corrupted Dagger@§6Испорченный Кинжал
 §6Corrupted Wand@§6Испорченный Посох
+§6Corrupted Relik@§6Испорченный Релик
 §6Futuristic Bow@§6Футуристический Лук
 §6Futuristic Dagger@§6Футуристический Кинжал
 §6Futuristic Spear@§6Футуристическое Копье
@@ -818,6 +822,7 @@
 §cPhoenix Dagger@§cКинжал Феникса
 §cPhoenix Wand@§cПосох Феникса
 §cPhoenix Bow@§cЛук Феникса
+§cPhoenix Relik@§cРелик Феникса
 §6Golden Wand@§6Золотой Посох
 §6Golden Spear@§6Золотое Копье
 §6Golden Bow@§6Золотой Лук
@@ -842,10 +847,13 @@
 §3You now have a §bBronze Cybel@§3§3Теперь у тебя есть §bБронзовый Кубел
 §3You now have a §bOrange Cybel@§3Теперь у тебя есть §bОранжевый Кубел
 §3You now have a §bCarbon Fiber Cybel@§3Теперь у тебя есть §bКарбоновый Кубел
+§3You now have a §bRainbow Wybel@§3Теперь у тебя есть §bРадужный Вубел
+§3You now have a §bDragon Wybel@§3Теперь у тебя есть §bВубел Дракон
 §3You now have a §bAngel Wybel@§3Теперь у тебя есть §bВубел Ангел
 §7Give your character the Wet Drip effect@Создает вокруг персонажа эффект мокрых капель
 §7Give your character the Amadel effect@§7Дает твоему персонажу эффект Амаделя
 §7Give your character the Witch Brew effect@§7Дает втоему персонажу эффект зелья ведьмы
+§7Give your character the Lake Gylia effect@§7Дает твоему персонажу эффект Озера Гилия
 §7Give your character a fairy companion@§7Дает твоему персонажу фею компаньона
 §7Give your character bone wings@§7Дает твоему персонажу костлявые крылья
 §7Give your character fairy wings@§7Дает твоему персонажу эффект сказочных крыльев
@@ -878,49 +886,53 @@
 §cDern Spear@§cДерн Копье
 §cDern Bow@§cДерн Лук
 §cDern Wand@§cДерн Посох
+§cDern Dagger@§cДерн Кинжал
+§cDern Relik@§cДерн Релик
 §6Half-Moon Bow@§6Полу-месяц Лук
 §6Half-Moon Dagger@§6Полу-месяц Кинжал
 §6Half-Moon Wand@§6Полу-месяц Посох
 §6Half-Moon Spear@§6Полу-месяц Копье
-§dLetter Swirl Effect@§dЭффект вращающихся букв
+§6Half-Moon Relik@§6Полу-Месяц Релик
+§4Amadel Effect@§4Эффект Амаделя
 §fFire Attack Effect@§fЭффект Атаки Огня
 §fLetter Attack Effect@§fЭффект букв
 §fCloud Attack Effect@§fЭффект Облака
 §fWet Drip Effect@§fЭффект Мокрых Капель
 §fPotion Swirl Effect@§fЭффект Вихря Зелий
 §fSpark Attack Effect@§fЭффект Искр
-§cBone Wings Effect@§cЭффект Костлявых Крыльев
-§4Amadel Effect@§4Эффект Амаделя
-§cFairy Wings Effect@§cЭффект Сказочных Крыльев
 §fEmerald Swirl Effect@§fЭффект эмеральдного вихря
 §fSlime Effect@§fЭффект Слайма
-§dAir Aura Effect@§dЭффект Ауры Воздуха
-§dMusic Swirl Effect@§dЭффект Круговорота Музыки
 §fWitch Brew Effect@§fЭффект Зелья Ведьмы
 §fMagic Swirl Effect@§fЭффект Магического Круговорота
 §fFire Swirl Effect@§fЭффект Круговорота Огня
 §fSmoke Swirl Effect@§fЭффект Кругворота Дыма
-§dHeart Swirl Effect@§dЭффект Круговорота Сердец
-§dTornado Effect@§dЭффект Торнадо
 §fEmerald Attack Effect@§fЭмеральдный Эффект Атаки
-§cOzoth Effect@§cОзот Эффект
 §fCloud Swirl Effect@§fЭффект Водворота Облаков
 §fRedstone Swirl Effect@§fЭффект Редстоун Круговорта
-§dLava Attack Effect@§dЭффект Лава Атаки
-§dFire Effect@§dЭффект Огня
+§cBone Wings Effect@§cЭффект Костлявых Крыльев
+§cFairy Wings Effect@§cЭффект Сказочных Крыльев
+§cOzoth Effect@§cОзот Эффект
+§cAngels Wings Effect@§cЭффект Крыльев Ангела
+§cKing Effect@§cЭффект Короля
+§cDemon Wings Effect@§cЭффект Крыльев Демона
+§cPhoenix Wings Effect@§cЭффект Крыльев Феникса
+§cLake Gylia Effect@§cЭффект Озера Гилия
 §6Ripple Effect@§6Эффект Пульсации
-§dThunder Effect@§dЭффект Грома
-§dEarth Effect@Эффект Земли
-§dWater Effect@§dЭффект Воды
 §6Storm Effect@§6Эффект Шторма
 §6Bovemist Effect@§6Эффект Бовемиста
 §6Pentagram Effect@§6Эффект пентаграммы
-§cAngels Wings Effect@§cЭффект Крыльев Ангела
 §6Floating Fairy Effect@§6Эффект Крыльев Феи
-§cKing Effect@§cЭффект Короля
 §6Anti-Bovemist Effect@§6Эффект Анти-Бовемиста
-§cDemon Wings Effect@§cЭффект Крыльев Демона
-§cPhoenix Wings Effect@§cЭффект Крыльев Феникса
+§dLetter Swirl Effect@§dЭффект вращающихся букв
+§dAir Aura Effect@§dЭффект Ауры Воздуха
+§dMusic Swirl Effect@§dЭффект Круговорота Музыки
+§dHeart Swirl Effect@§dЭффект Круговорота Сердец
+§dTornado Effect@§dЭффект Торнадо
+§dLava Attack Effect@§dЭффект Лава Атаки
+§dFire Effect@§dЭффект Огня
+§dThunder Effect@§dЭффект Грома
+§dEarth Effect@Эффект Земли
+§dWater Effect@§dЭффект Воды
 §7Create a spark effect whenever you hit!@§7Создает эффект искр при ударе!
 §7Create a cloud effect whenever you hit!@§7Создает эффект облака при ударе!
 §7Create a fire effect whenever you hit!@§7Создает эффект огня при атаке!
@@ -957,8 +969,13 @@
 §6Pirate Spear@§6Копье Пирата
 §6Pirate Wand@§6Посох Пирата
 §6Pirate Hook@§6Крюк Пирата
+§6Pirate Cannon@§6Пиратская Пушка
+§6Pirate Relik@§6Пиратский Релик
 §aA §8§k|||§4 Black Market §8§k|||§4 Frosty Relik§a!@§8§k|||§4 Черный Маркет §8§k|||§4 Морозный Релик§a!
 §aA §8§k|||§4 Black Market §8§k|||§4 Angel Wybel Token§a!@§8§k|||§4 Черный Маркет §8§k|||§4 Ангел Вубел Жетон§a!
+§aA §8§k|||§4 Black Market §8§k|||§4 Rainbow Wybel Token§a!@§8§k|||§4 Черный Маркет §8§k|||§4 Радужный Вубел Жетон§a!
+§aA §8§k|||§4 Black Market §8§k|||§4 Dragon Wybel Token§a!@§8§k|||§4 Черный Маркет §8§k|||§4 Вубел Дракон Жетон§a!
+§aA §8§k|||§4 Black Market §8§k|||§4 Frosty Staff§a!@§8§k|||§4 Черный Маркет §8§k|||§4 Морозный Посох§a!
 §aA §6Epic Golden Bow§a!@§aA §6Эпический Золотой Лук§a!
 §aA §6Epic Half-Moon Spear§a!@§aA §6Редкое Полу-месяц Копье§a!
 §aA §6Epic Half-Moon Bow§a!@§aA §6Эпический Полу-месяц Лук§a!
@@ -980,6 +997,15 @@
 §aA §6Epic Futuristic Dagger§a!@§6Эпический Футуристический Кинжал§a!
 §aA §6Epic Futuristic Relik§a!@§6Эпический Футуристический Релик§a!
 §aA §6Epic Corrupted Relik§a!@§6Эпический Испорченный Релик§a!
+§aA §6Epic Corrupted Wand§a!@§6Эпический Испорченный Посох§a!
+§aA §6Epic Storm Effect§a!@§6Эпический Эффект Шторма§a!
+§aA §6Epic Pirate Relik§a!@§6Эпический Пиратский Релик§a!
+§aA §6Epic Half-Moon Wand§a!@§6Эпический Полу-Месяц Посох§a!
+§aA §6Epic Corrupted Dagger§a!@§6Эпический Испорченный Кинжал§a!
+§aA §6Epic Skeleton Horse Cloak§a!@§6Эпический Скелетон Плащ для Коня§a!
+§aA §6Epic Fellowship Bow§a!@§6Эпический Лук Дружбы§a!
+§aA §6Epic Hand Cannon§a!@§6Эпическая Ручная Пушка§a!
+§aA §6Epic Anti-Bovemist Effect§a!@§6Эпический Эффект Анти-Бовемиста§a!
 §aA §cGodly Ozoth Effect§a!@§cБожественный Эффект Озот§a!
 §aA §cGodly Phoenix Wand§a!@§cБожественный Посох Феникса§a!
 §aA §cGodly Phoenix Dagger§a!@§cБожественный Кинжал Феникса§a!
@@ -988,6 +1014,11 @@
 §aA §cGodly Fairy Wings Effect§a!@§cБожественный Эффект Сказочных Крыльев§a!
 §aA §cGodly Dern Dagger§a!@§cБожественный Дерн Кинжал§a!
 §aA §cGodly Dern Wand§a!@§cБожественный Дерн Посох§a!
+§aA §cGodly Orange Cybel Token§a!@§cБожественный Оранжевый Кубел Жетон§a!
+§aA §cGodly Phoenix Wings Effect§a!@§cБожественный Эффект Крыльев Феникса§a!
+§aA §cGodly Demon Wings Effect§a!@§cБожественный Эффект Крыльев Демона§a!
+§aA §cGodly Dern Bow§a!@§cБожественный Дерн Лук§a!
+§aA §cGodly Orange Wybel Token§a!@§cБожественный Оранжевый Вубел Жетон§a!
 §aA §dRare Letter Swirl Effect§a!@§dРедкий Эффект Водоворота Букв§a!
 §aA §dRare Lava Attack Effect§a!@§aA §dРедкий Эффект Атаки Лавы§a!
 §aA §dRare Food Wand§a!@§aA §dРедкий Рыба-меч Посох§a!
@@ -1014,6 +1045,10 @@
 §aA §dRare Heart Swirl Effect§a!@§dРедкий Эффект Круговорота Сердец§a!
 §aA §dRare Violet Wybel Token§a!@§dРедкий Фиолетовый Вубел Жетон§a!
 §aA §dRare Steampunk Relik§a!@§dРедкий Стимпанк Релик§a!
+§aA §dRare Zombie Disguise§a!@§dРедкая Зомби Маскировка§a!
+§aA §dRare Food Bow§a!@§dРедкий Лук Банан§a!
+§aA §dRare Food Relik§a!@§dРедкий Брокколи Релик§a!
+§aA §dRare Tornado Effect§a!@§dРедкий Эффект Торнадо§a!
 §3You are now disguised as a §bsheep@§3Ты замаскировался в §bовцу
 §3You are now disguised as a §bchicken@§3Ты замаскировался под §bкурицу
 §3You are now disguised as a §bspider@§3Ты замаскировался под §bпаука
@@ -1041,20 +1076,26 @@
 §7Disguise yourself as a pigman@§7Маскировка себя под пигмена
 §7Disguise yourself as a cow@§7Маскировка себя в корову
 §7Disguise yourself as a zombie@§7Маскировка себя под зомби
-§7Disguise your relik as a piece of food@§7Маскирует твой релик под кусок еды
 §7Disguise your relik with a steampunk flair@§7Маскирует твой релик под стимпанк стиль
-§7Disguise your relik as a golden masterpiece@§7Маскирует твой релик под золотой шедевр
 §7Disguise your relik with a adventurous flair@§7Маскирует твой релик под стиль приключений
 §7Disguise your relik with a futuristic flair@§7Маскирует твой релик под футуристический стиль
-§7Disguise your bow as a piece of food@§7Маскирует твой лук под кусок еды
+§7Disguise your relik with a dark flair@§7Маскирует твой релик под темный стиль
+§7Disguise your relik with a fiery flair@§7Маскирует твой релик под огненный стиль
+§7Disguise your relik with a lunar flair@§7Маскирует твой релик под лунный стиль
+§7Disguise your relik with a corrupted flair@§7Маскирует твой релик под стиль порчи
+§7Disguise your relik as a piece of food@§7Маскирует твой релик под кусок еды
+§7Disguise your relik as a golden masterpiece@§7Маскирует твой релик под золотой шедевр
+§7Disguise your relik as a rusty anchor@§7Маскирует твой релик под ржавый якорь
 §7Disguise your bow with a steampunk flair@§7Маскирует твой лук под стимпанк стиль
 §7Disguise your bow with a corrupted flair@§7Маскирует твой лук под стиль порчи
 §7Disguise your bow with a lunar flair@Маскирует твой лук под лунный стиль
 §7Disguise your bow with a futuristic flair@§7Маскирует твой лук под футуристический стиль
-§7Disguise your bow as a golden masterpiece@§7Маскирует твой лук под золотой шедевр
 §7Disguise your bow with a adventurous flair@§7Маскирует твой лук под стиль приключений
 §7Disguise your bow with a dark flair@§7Маскирует твой лук под темный стиль
 §7Disguise your bow with a fiery flair@§7Маскирует твой лук под огненный стиль
+§7Disguise your bow as a piece of food@§7Маскирует твой лук под кусок еды
+§7Disguise your bow as a cast-iron, ship sinker@§7Маскирует твой лук под чугунное корабельное грузило
+§7Disguise your bow as a golden masterpiece@§7Маскирует твой лук под золотой шедевр
 §7Disguise your bow as a frosty masterpiece@§7Маскирует твой лук под ледяной шедевр
 §7Disguise your wand as a golden masterpiece@§7Маскирует твой посох под золотой шедевр
 §7Disguise your wand as a piece of food@§7Маскирует твой посох под кусок еды
@@ -1077,14 +1118,15 @@
 §7Disguise your spear as a wooden oar@§7Маскирует твое копье под деревянное весло
 §7Disguise your dagger with a steampunk flair@Маскирует твой кинжал под стиль стимпанк
 §7Disguise your dagger with a corrupted flair@§7Маскирует твой кинжал под стиль порчи
-§7Disguise your dagger/spear as a banana sword@§7Маскирует твой кинжал/трезубец под меч-банан
 §7Disguise your dagger with a fiery flair@§7Маскирует твой кинжал под огненный стиль
-§7Disguise your dagger as a piece of food@§7Максирует твой кинжал под кусок еды
 §7Disguise your dagger with a lunar flair@§7Маскирует твой кинжал под лунный стиль
-§7Disguise your dagger as a golden masterpiece@§7Маскирует твой кинжал под золотой шедевр
 §7Disguise your dagger with a futuristic flair@§7Маскирует твой кинжал под футуристический стиль
 §7Disguise your dagger with a adventurous flair@§7Маскирует твой кинжал под стиль приключений
+§7Disguise your dagger with a dark flair@§7Маскирует твой кинжал под темный стиль
+§7Disguise your dagger as a piece of food@§7Максирует твой кинжал под кусок еды
+§7Disguise your dagger as a golden masterpiece@§7Маскирует твой кинжал под золотой шедевр
 §7Disguise your dagger as a sharp, pirate hook@§7Маскирует твой кинжал под острый пиратский крюк
+§7Disguise your dagger/spear as a banana sword@§7Маскирует твой кинжал/трезубец под меч-банан
 
 ###################################DUNGEONS##################################
 §7The door suddenly opens, as if the Keystone Guardian's presence activated it...@§7Дверь внезапно открывается, как будто присутствие Защитника Ключа активировало ее...
@@ -1506,6 +1548,7 @@
 §5Guild Master: §dYour prefix must have exactly 3 characters.@§5Мастер Гильдий: §dПрефикс должен содержать ровно 3 символа.
 §5Guild Master: §dIt seems that there is already a guild with that prefix... Try again!@§5Мастер Гильдий: §dПохоже уже есть такая гильдия с этим префиксом... Попробуй еще раз!
 §5Guild Master: §dPlease only use english characters A-Z in your guild prefix.@§5Мастер Гильдий: §dПожалуйста используй только английские буквы A-Z в префиксе гильдии.
+§dI can only reveal 8 item names at a time.@§dЯ могу раскрыть только 8 названий предметов за раз.
 
 ###########################################OBJECTIVES#################################################
 §c                               Loot Chests@§c                            Нахождение сундуков
@@ -2112,6 +2155,20 @@ You are not whitelisted on this server!@Тебя нет в вайтлисте э
 §4Sorry, you cannot use a crate here. Finish the dungeon first.@§4Извини, ты не можешь окрыть здесь контейнер. Закончи сначала данж.
 §7Note: You've just messaged an admin of Wynncraft. We tend to get a lot of messages, so please don't be frustrated if you don't get a response.@§7Заметка: Ты только что написал администратору сервера. Они, как правило, получают много сообщений, поэтому не расстраивайся, если не получишь ответа.
 §4You cannot craft while dueling!@§4Ты не можешь крафтить во время дуэли!
+§eThis party is full! Try again soon...@§eЭта пати заполнена! Попробуй снова позже...
+§b - §7HERO Rank@§b - §7Ранг HERO
+§2You no longer have a tag.@§2У тебя больше нет тэга.
+§2You will now have a tag!@§2У тебя снова есть тэг!
+§4There has been an error. Your location may have been changed...@§4Произошла ошибка. Возможно, ваше местоположение было изменено...
+§cYou are already connected there, try again.@§cТы уже подключен, попробуй еще раз.
+We are §arestarting§f, please join back in a moment!@Мы §aперезагружаемся§f, пожалуйста возвращайтесь через минуту!
+§fWe are §arestarting§f, please join back in a moment!@§fМы §aперезагружаемся§f, пожалуйста возвращайтесь через минуту!
+[Quest Book Updated]@§7[Квестовая книга обновлена]
+§a>Access denied.@§a>Доступ запрещен.
+§3This bomb can not be thrown at this time, there's already an active dungeon bomb@§3Эта бомба не может быть сейчас брошена, так как уже есть активная данж бомба
+§7Already recieved rewards@§7Уже полученные награды
+§cInvalid Arguments. Example: /guild kick [player]@§cНеправильные аргументы. Пример: /guild kick [ник]
+§4You need to be undisguised to toggle hunted.@§4Тебе нужно выйти из маскировки, чтобы переключить режим охотника.
 
 ###################################SECRET DISCOVERIES#######################################
                             §bNecklace Chamber@ 
