@@ -1,0 +1,142 @@
+###############################Territory###########################################
+§ePit of Despair@§eЯма Отчаяния
+§eThe Forgery@§eКузница
+§eChallenge of the Blades@§eИспытание Клинков
+§eAldorei Valley@§eДолина Алдорей
+§eKaroc Quarry@§eКарьер Карок
+§ePigmen's Ravine@§eОвраг Пигменов
+§eBucie@§eБучи
+§eLight Forest Gate@§eВорота в Светлый Лес
+§eDelnar Manor@§eПоместье Дельнар
+§eRagni@§eРагни
+§eEmerald Trail֎@§eЭмеральдная Тропа
+§eDead Island@§eМертвый Остров
+§eNivla Woods@§eЛес Нивла
+§eDetlas Suburbs֎@§eОкраины Детласа
+§eDetlas֎@§eДетлас
+§eMaltic֎@§eМалтик
+§eKatoa Ranch֎@§eРанчо Катоа
+§eBob's Tomb֎@§eГробница Боба
+§eVolcanic Isles@§eВулканические Острова
+§eNemract@§eНемракт
+§eNivla Village@§eДеревня Нивла
+§eTime Valley֎@§eДолина Времени
+§eLusuco@§eЛусуко
+§eThe House of Twain@§eДом Твейнов
+§eCoastal Trail֎@§eПрибрежная Тропа
+§eWynnExcavation Site B@§eВиннЭкскавейшен Часть B
+§eThe Great Bridge@§eВеликий Мост
+§eIboju Village@§eДеревня Ибоджу
+§eBlack Road@§eЧерная Дорога
+§eSavannah@§eСаванна
+§eTroms@§eТромс
+§eTroms Castle@§eЗамок Тромса
+§eAldorei Town@§eГород Алдорей
+§eLetvus Airbase@§eАвиабаза Летвус
+§eThe Guild Hall@§eЗал Гильдий
+§eAbandoned Lumber Yard@§eЗаброшенная Ярмарка
+§eLake Gylia@§eОзеро Гилия
+§eGylia Watch Tower@§eБашня Стражей Гилия
+§eLlevigar@§eЛлевигар
+§eCorkus City֎@§eКоркус Сити
+§eRiver Sage@§eМудрая Река
+§eEfilim@§eЭфилим
+§eBear Zoo@§eЗоопарк
+§eCinfras֎@§eЦинфрас
+§eLight's Secret@§eСекрет Света
+§eHouse of Talor@§eДом Талора
+§eOlux Lumber Yard@§eЛесопилка Олукса
+§eDark Forest Gate@§eВорота в Темный Лес
+§eQuartz Mansion@§eКварцевое Поместье
+§eElkurn֎@§eЭлкурн
+§eSanctuary Bridge@§eМост к Святилищу
+§eLexdale֎@§eЛексдэйл
+§eRymek@§eРимек
+§eHalf-Moon Island@§eОстров Полумесяца
+§eOlux֎@§eОлукс
+§eAncient Nemract֎@§eДревний Немракт
+§eWorm Holes@§eЧервоточины
+§eEntamis Village@§eДеревня Энтамис
+§eZhight Island֎@§eОстров Жигта
+§eMaro Peaks֎@§eВершины Маро
+§eThe Shiar@§eШир
+§eThesead֎@§eТесеад
+§eBantisu Air Temple@§eВоздушный Храм Бантису
+§eEltom֎@§eЭлтом
+§eFreezing Heights@§eЛедяные Высоты
+§eDragon Skeleton@§eСкелет Дракона
+§eGavel Gate@§eВорота в Гавел
+§eIce Islands@§eЛедяные Острова
+§eBremminglar֎@§eБремминглар
+§eMage Island֎@§eОстров Магов
+§eEagle Tribe@§eПлемя Орлов
+§eCaritat Mansion@§eПоместье Каритат
+§eCrystal Falls@§eКристальные Водопады
+§eTower of Ascension@§eБашня Вознесения
+§ePirate Cove@§eПиратская Бухта
+§eSelchar֎@§eСельчар
+§eNesaak@§eНесаак
+§eGelibord֎@§eГелиборд
+§eCastle Dullahan@§eЗамок Дуллахана
+§eTernaves֎@§eТернейвс
+§ePirate's Bay@§eПиратский Залив
+§eAlmuj@§eАлмуж
+§eAlmuj Great River@§eВеликая Река Алмужа
+§eInvaded Barracks@§eЗахваченные Казармы
+§eGert Camp֎@§eЛагерь Гертов
+§eIron Golem Factory@§eФабрика Железных Големов
+§eTribal Sanctuary@§eПлеменное Святилище
+§eRooster Island֎@§eОстров Рустер
+§eRoots of Corruption@§eКорни Порчи
+§eSeavale Reef@§eРиф Сивейл
+§eDurum Isles@§eОстрова Дурум
+§eBovine Barn@§eБычий Сарай
+§eSkiens Island֎@§eОстров Скиенса
+§eDeath's Realm@§eЦарство Смерти
+§eJofash Docks@§eДжофаш Доки
+§eAbandoned Mines@§eЗаброшенные Шахты
+§eUpper Molten Heights@§eВерхние Расплавленные Высоты
+§eMaex@§eМаэкс
+§eOwl Tribe@§eПлемя Сов
+§eWynnExcavation Site A@§eВиннЭкскавейшен Часть A
+§eKitrios Barracks@§eКазармы Китриоса
+§eThanos֎@§eТанос
+§eThe Qira Hive@§eУлей Киры
+§eOzoth's Spire@§eШпиль Озот
+§eRelos@§eРелос
+§eAvos Territory@§eТерритория Авосов
+§eFallen Factory֎@§eЗаброшенная Фабрика
+§eLegendary Island֎@§eЛегендарный Остров
+§eKandon-Beda֎@§eКандон-Бэда
+§eAhmsord֎@§eАмсорд
+§eRaiders' Port@§eГавань Рейдеров
+§eJofash Tunnel@§eДжофаш Тоннель
+§eRodoroc@§eРодорок
+§eNorth Lusuco@§eСевер Лусуко
+§eLeadin Orc Fort@§eФорт Орков Леадин
+§eLazarus Pit@§eЛазарус Яма
+§eTaproot@§eКорень
+§eWynnExcavation Site D@§eВиннЭкскавейшен Часть D
+§eTemple of Legends֎@§eХрам Легенд
+§eFountain of Youth@§eФонтан Молодости
+§eArena of the Legends@§eАрена Легенд
+§eRotten Passage@§eГнилой Проход
+§eMolten Heights Gate@§eВорота в Расплавленные Высоты
+§eLost Colossus@§eПотерянный Колосс
+§eGeyser Pit@§eГейзерная Яма
+§eSunrise Canyon@§eРассветный Каньон
+§eThe Moon@§eЛуна
+§ePrison of Souls@§eТюрьма Душ
+§ePlague Laboratory@§eЧумная Лаборатория
+§eAerie of the Recluse@§eГнездо Отшельника
+§eAltar of Sanctification@§eАлтарь Освящения
+§eEyeball Forest@§eГлазастый Лес
+§eRuined Olmic City@§eРазрушенный Город Олмов
+§eOlmic Cathedral@§eСобор Олмов
+§eTown of Lutho@§eГород Луто
+§eCarnivorous Creature@§eПлотоядное Существо
+§eThe Eldritch Outlook@§eЖуткий Наблюдатель
+§eToxic Wastes@§eТоксичные Отходы
+§eVoid Valley@§eДолина Пустоты
+§eDark Obelisk@§eТемный Обелиск
+§ePortal to Dern@§eПортал в Дерн
