@@ -603,7 +603,6 @@
 §f§lJukebox Menu@§f§lМеню Проигрывателя
 §f§lBack@§f§lНазад
 §f§lPrice Check@§f§lПроверка Цены
-§l§a[+] Create a new character@§l§a[+] Создать нового персонажа
 §eFilter Frontpage@§eФильтр Титульной Страницы
 §bReveal Item Names@§bРаскрыть Название Предметов
 §7§lSearch Item@§7§lПоиск Предметов
@@ -697,7 +696,6 @@
 §cClick here to take all items@§cКликни тут, чтобы забрать все предметы
 §aConfirm §2[Delete Character]@§aПодтвердить §2[Удалить Персонажа]
 §cCancel §4[Do not delete]@§cОтмена §4[Не удалять]
-§cDeleting...@§cУдаление...
 §6Increase Level §8[1]@§6Повысить Уровень §8[1]
 §6Decrease Level §8[1]@§6Понизить Уровень §8[1]
 §6Increase Level §8[2]@§6Повысить Уровень §8[2]
