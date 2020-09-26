@@ -30,3 +30,5 @@
 §a- §7Effect: (§f\+\d+%?) Melee Damage@§a- §7Эффект: (r1) Ближнего Урона
 (§[346af]- )§7Duration: (§f\d+) Seconds@(r1)§7Длительность: (r2) Секунд
 §e- §7Level: (§f\d+)@§e- §7Уровень: (r1)
+§e- §7Soul Points: (§f\d+)@§e- §7Очков Душ: (r1)
+§e- §7Finished Quests: (§f[0-9\/]+)@§e- §7Завершенных Квестов: (r1)
