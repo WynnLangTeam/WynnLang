@@ -9,6 +9,8 @@
 §cPotion of Healing§4 [2/3]À@§cЗелье Лечения §4 [2/3]
 §cPotion of Healing§4 [3/3]À@§cЗелье Лечения §4 [3/3]
 §cPotion of Healing§4 [3/3]@§cЗелье Лечения §4 [3/3]
+§l§a[+] Create a new character@§l§a[+] Создать нового персонажа
+§cDeleting...@§cУдаление...
 
 ##############################UNIDENTIFIED ITEMS##############################
 §eUnidentified Wand@§eНеидентифицированный Посох
