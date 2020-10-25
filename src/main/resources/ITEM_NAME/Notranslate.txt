@@ -3464,7 +3464,6 @@ Messenger Cap@
 §bCapricorn@ 
 §dParadox@ 
 §fImpeccable Light Spruce Spear@ 
-§fAngelic Blasting Gel@ 
 §fImpeccable Diorite Bow@ 
 §fCloudy Diamond Boots@ 
 §fCloudy Diamond Helmet@ 
