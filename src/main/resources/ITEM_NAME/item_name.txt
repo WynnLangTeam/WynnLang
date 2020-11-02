@@ -2222,7 +2222,6 @@ Dragon Food@Драконья Еда
 §fChestnut Horse@§fКаштановая Лошадь
 §fWhite HorseÀ@§fБелая Лошадь
 §fWhite Horse@§fБелая Лошадь
-§dFragmentÀ@§dФрагмент
 §3Repair ScrapÀ@§3Скрап для Починки
 §3Repair Scrap@§3Скрап для Починки
 Repair Scrap@Скрап для Починки
