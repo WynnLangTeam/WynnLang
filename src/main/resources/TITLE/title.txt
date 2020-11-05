@@ -11,7 +11,7 @@
 §4You didn't make it!@§4Ничего не вышло!
 §6Bridge has deployed!@§6Мост был достроен!
 §6The bridge has deployed!@§6Мост достроился!
-§aTHEY ARE IN THERE!@§aОНИ УЖЕ ТАМ!
+§aTHEY ARE IN THERE!@§aОНИ УЖЕ ТУТ!
 §eTry to find a way out!@§eПопробуй найти выход!
 §7Seems like there's a discussion going on...@§7Похоже, тут идет дискуссия...
 §eSeems like there's something going on at the tomb...@§eПохоже, в гробнице что-то происходит.
