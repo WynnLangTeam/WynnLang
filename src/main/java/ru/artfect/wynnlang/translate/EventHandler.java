@@ -95,7 +95,10 @@ public class EventHandler {
 
     @SubscribeEvent
     public static void onTitle(ShowTitleEvent event) {
-        tryToTranslate(event.getMessage().getFormattedText().replace("§r", ""), Title.class)
+        Optional.ofNullable(event.getMessage())
+                .map(ITextComponent::getFormattedText)
+                .map(i -> i.replace("§r", ""))
+                .flatMap(i -> tryToTranslate(i, Title.class))
                 .ifPresent(replace -> event.setMessage(new WynnLangTextComponent(event.getMessage(), new TextComponentString(replace))));
     }
 
