@@ -1,6 +1,7 @@
 package ru.artfect.wynnlang.hooklib.hooks;
 
 import net.minecraft.entity.Entity;
+import net.minecraft.entity.passive.EntityVillager;
 import net.minecraft.util.text.ITextComponent;
 import net.minecraft.util.text.Style;
 import net.minecraft.util.text.TextComponentBase;
@@ -10,8 +11,18 @@ import ru.artfect.wynnlang.hooklib.asm.Hook;
 import ru.artfect.wynnlang.hooklib.asm.ReturnCondition;
 
 public class EventHooks {
+
     @Hook(injectOnExit = true, returnCondition = ReturnCondition.ALWAYS)
     public static ITextComponent getDisplayName(Entity entity, @Hook.ReturnValue ITextComponent returnValue) {
+        return hookEntityName(entity, returnValue);
+    }
+
+    @Hook(injectOnExit = true, returnCondition = ReturnCondition.ALWAYS)
+    public static ITextComponent getDisplayName(EntityVillager entity, @Hook.ReturnValue ITextComponent returnValue) {
+        return hookEntityName(entity, returnValue);
+    }
+
+    private static ITextComponent hookEntityName(Entity entity, @Hook.ReturnValue ITextComponent returnValue) {
         EntityNameEvent event = new EntityNameEvent(entity, returnValue);
         MinecraftForge.EVENT_BUS.post(event);
         return event.getName();
@@ -30,6 +41,7 @@ public class EventHooks {
         i = 31 * i + hashCodeOfNullable(style.insertion);
         return i;
     }
+
     @Hook(returnCondition = ReturnCondition.ALWAYS)
     public static int hashCode(TextComponentBase textComponentBase) {
         return 31 * hashCodeOfNullable(textComponentBase.style) + hashCodeOfNullable(textComponentBase.siblings);
