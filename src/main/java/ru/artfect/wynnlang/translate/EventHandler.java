@@ -5,7 +5,6 @@ import net.minecraft.util.text.ITextComponent;
 import net.minecraft.util.text.TextComponentString;
 import net.minecraftforge.client.event.ClientChatReceivedEvent;
 import net.minecraftforge.client.event.RenderGameOverlayEvent;
-import net.minecraftforge.event.entity.EntityEvent;
 import net.minecraftforge.event.entity.player.ItemTooltipEvent;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.eventhandler.SubscribeEvent;
@@ -13,14 +12,14 @@ import ru.artfect.translates.*;
 import ru.artfect.wynnlang.Reference;
 import ru.artfect.wynnlang.StringUtil;
 import ru.artfect.wynnlang.WynnLang;
-import ru.artfect.wynnlang.event.ClientContainerOpenEvent;
-import ru.artfect.wynnlang.event.PlayerListForTabEvent;
-import ru.artfect.wynnlang.event.ShowTitleEvent;
-import ru.artfect.wynnlang.event.UpdateScoreboardEvent;
+import ru.artfect.wynnlang.event.*;
 import ru.artfect.wynnlang.utils.WynnLangTextComponent;
 
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 import java.util.Optional;
+import java.util.function.Function;
 
 @Mod.EventBusSubscriber(modid = Reference.MOD_ID)
 public class EventHandler {
@@ -57,10 +56,12 @@ public class EventHandler {
         }
     }
 
+    private static Map<ITextComponent, Optional<WynnLangTextComponent>> entityNamesCache = new HashMap<>();
+
     @SubscribeEvent
-    public static void onEntityName(EntityEvent.EntityConstructing event) {
-        tryToTranslate(event.getEntity().getName(), ru.artfect.translates.Entity.class)
-                .ifPresent(event.getEntity()::setCustomNameTag);
+    public static void onEntityName(EntityNameEvent event) {
+        entityNamesCache.computeIfAbsent(event.getName(), fromName -> WynnLangTextComponent.tryToTranslate(fromName, Entity.class))
+                .ifPresent(event::setName);
     }
 
     @SubscribeEvent
