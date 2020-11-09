@@ -8,7 +8,6 @@ import net.minecraftforge.fml.common.gameevent.TickEvent;
 import net.minecraftforge.fml.common.gameevent.TickEvent.Phase;
 import net.minecraftforge.fml.relauncher.ReflectionHelper;
 import org.lwjgl.input.Keyboard;
-import org.lwjgl.input.Mouse;
 import ru.artfect.translates.TranslateType;
 import ru.artfect.wynnlang.Reference;
 import ru.artfect.wynnlang.WynnLang;
@@ -27,23 +26,20 @@ public class ReverseTranslation {
         MinecraftForge.EVENT_BUS.register(this);
     }
 
+    private static boolean prevPressed = false;
+
     @SubscribeEvent
     public void tick(TickEvent.ClientTickEvent e) {
         if (e.phase != Phase.START || !Reference.onWynncraft || !Reference.modEnabled) {
             return;
         }
 
-        boolean pressed;
-        int key = Reference.keyBindings[0].getKeyCode();
-        pressed = key < 0 ? Mouse.isButtonDown(key + 100) : Keyboard.isKeyDown(key);
+        boolean pressed = Keyboard.isKeyDown(Reference.hotToggle.getKeyCode());
 
-        if (pressed && !enabled) {
-            enabled = true;
-            reverse();
-        } else if (!pressed && enabled) {
-            enabled = false;
-            reverse();
-        }
+        if (!prevPressed && pressed)
+            enabled = !enabled;
+
+        prevPressed = pressed;
     }
 
     public static void reverse() {

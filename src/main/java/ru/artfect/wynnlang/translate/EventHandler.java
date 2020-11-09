@@ -93,7 +93,7 @@ public class EventHandler {
                 .ifPresent(event::setName);
     }
 
-    @SubscribeEvent
+    //@SubscribeEvent
     public static void onTitle(ShowTitleEvent event) {
         tryToTranslate(event.getMessage().getFormattedText().replace("§r", ""), Title.class)
                 .ifPresent(replace -> event.setMessage(new WynnLangTextComponent(event.getMessage(), new TextComponentString(replace))));

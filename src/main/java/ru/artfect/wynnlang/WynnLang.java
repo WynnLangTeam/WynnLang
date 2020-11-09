@@ -31,8 +31,8 @@ public class WynnLang {
 
     @EventHandler
     public void preinit(FMLPreInitializationEvent event) throws IllegalAccessException, InstantiationException, IOException {
-        Reference.keyBindings[0] = new KeyBinding("Показ оригинальных строк", Keyboard.KEY_F8, "WynnLang");
-        ClientRegistry.registerKeyBinding(Reference.keyBindings[0]);
+        Reference.hotToggle = new KeyBinding("Показ оригинальных строк", Keyboard.KEY_F8, "WynnLang");
+        ClientRegistry.registerKeyBinding(Reference.hotToggle);
 
         Reference.modFile = event.getSourceFile();
 

@@ -15,5 +15,5 @@ public class Reference {
     public static RuChat ruChat;
     public static boolean onWynncraft = false;
     public static boolean modEnabled = true;
-    public static KeyBinding[] keyBindings = new KeyBinding[1];
+    public static KeyBinding hotToggle;
 }
