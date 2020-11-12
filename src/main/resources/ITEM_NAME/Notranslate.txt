@@ -3876,7 +3876,6 @@ Monk's Cowl@
 §eDragon Fang@ 
 §dHammer of the Blacksmith@ 
 §dMedico@ 
-Dangling Elevator Rope@ 
 §dHydra@ 
 §eCyclone@ 
 Knight Boots@ 
