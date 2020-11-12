@@ -2314,6 +2314,7 @@ Granitic Key@§fГранитный Ключ
 Laboratory Key@Лабораторный Ключ
 §bWynnterfest 2016 Souvenir@§bСувенир Wynnterfest 2016
 §fAngelic Blasting Gel@§fАнгельский Взрывной Гель
+Dangling Elevator Rope@§fСвисающая Веревка
 Refined Copper Ingot 1@Переработанный Слиток Меди 1
 Refined Copper Ingot 2@Переработанный Слиток Меди 2
 Refined Copper Ingot 3@Переработанный Слиток Меди 3
