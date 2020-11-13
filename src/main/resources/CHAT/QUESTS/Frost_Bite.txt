@@ -6,7 +6,7 @@
 §7[4/9] §2Eppo: §aFor the love of Bob... Why won't you just break?@§7[4/9] §2Эппо: §aРади святого Бобa... Почему он не хочет ломаться?
 §7[5/9] §2Eppo: §aThis ice was created by Theorick, a Twain who defended this area many many years ago.@§7[5/9] §2Эппо: §aЭтот лед был создан Теориком из семьи Твейн - он защищал эти земли много-много лет назад.
 §7[6/9] §2Eppo: §aWhen the corruption got too much... He froze everything, including the people. Do you see them in there?@§7[6/9] §2Эппо: §aКогда порча зашла слишком далеко... Он заморозил все, включая людей. Ты видишь их внутри?
-§7[7/9] §2Eppo: §aWe've tried desperately to get them out, but we've tried all the equipment we had, including this Corkian drill.@§7[7/9] §2Эппо: §aМы отчаянно пытались вытащить их, но уже перепробовали все оборудование, что у нас было, даже этот бур из Corkus'а.
+§7[7/9] §2Eppo: §aWe've tried desperately to get them out, but we've tried all the equipment we had, including this Corkian drill.@§7[7/9] §2Эппо: §aМы отчаянно пытались вытащить их, но уже перепробовали все оборудование, что у нас было, даже этот бур из Коркуса.
 §7[8/9] §2Eppo: §aMaybe we should get more destructive... The demolition expert, Rhudya, is further down the cave.@§7[8/9] §2Эппо: §aМожет мы должны быть более разрушительными... Мастер по разрушениям, Рудя, находится внизу пещеры.
 §7[9/9] §2Eppo: §aIt's a long shot, but worth a try. Would you be able to get it while I clear this space?@§7[9/9] §2Эппо: §aЭто большой риск, но нужно попробовать. Сможешь сходить туда, пока я тут все очищу?
 §7[1/3] §2Rhudya: §aWhup! You're on private property, y'know! Oh, Eppo sent ya? That's fair enough.@§7[1/3] §2Рудя: §aЭй! Ты на частной территории! Ох, Эппо послал тебя. Ну тогда оправдан.
