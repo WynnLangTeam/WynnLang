@@ -7,6 +7,7 @@ import net.minecraftforge.client.event.ClientChatReceivedEvent;
 import net.minecraftforge.client.event.RenderGameOverlayEvent;
 import net.minecraftforge.event.entity.player.ItemTooltipEvent;
 import net.minecraftforge.fml.common.Mod;
+import net.minecraftforge.fml.common.eventhandler.EventPriority;
 import net.minecraftforge.fml.common.eventhandler.SubscribeEvent;
 import ru.artfect.translates.*;
 import ru.artfect.wynnlang.Reference;
@@ -64,7 +65,7 @@ public class EventHandler {
                 .ifPresent(event::setName);
     }
 
-    @SubscribeEvent
+    @SubscribeEvent(priority = EventPriority.LOW)
     public static void onInventoryOpen(ClientContainerOpenEvent event) {
         tryToTranslate(event.getWindowTitle().getUnformattedText(), InventoryName.class)
                 .ifPresent(replace -> event.setWindowTitle(new WynnLangTextComponent(event.getWindowTitle(), new TextComponentString(replace))));
