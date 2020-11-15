@@ -47,13 +47,12 @@ public class EventHandler {
         }
     }
 
+    private static Map<ITextComponent, Optional<WynnLangTextComponent>> bossNameCache = new HashMap<>();
+
     @SubscribeEvent
-    public static void onBossBar(RenderGameOverlayEvent.BossInfo event) {
-        if (Reference.onWynncraft && Reference.modEnabled && WynnLang.translated) {
-            ITextComponent name = event.getBossInfo().getName();
-            if (!(name instanceof WynnLangTextComponent))
-                WynnLangTextComponent.tryToTranslate(name, BossBar.class).ifPresent(event.getBossInfo()::setName);
-        }
+    public static void onBossBar(BossBarEvent event) {
+        bossNameCache.computeIfAbsent(event.getName(), fromName -> WynnLangTextComponent.tryToTranslate(fromName, BossBar.class))
+                .ifPresent(event::setName);
     }
 
     private static Map<ITextComponent, Optional<WynnLangTextComponent>> entityNamesCache = new HashMap<>();

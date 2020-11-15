@@ -16,5 +16,6 @@ public class WynnLangHookLoader extends HookLoader {
     public void registerHooks() {
         //регистрируем класс, где есть методы с аннотацией @Hook
         registerHookContainer("ru.artfect.wynnlang.hooklib.hooks.EventHooks");
+        registerHookContainer("ru.artfect.wynnlang.hooklib.hooks.BossBarEventHooks");
     }
 }
