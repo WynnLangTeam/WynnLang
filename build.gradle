@@ -40,6 +40,14 @@ compileJava {
     options.encoding = 'UTF-8'
 }
 
+jar {
+    manifest {
+        attributes 'FMLCorePlugin': 'ru.artfect.wynnlang.hooklib.WynnLangHookLoader'
+        attributes 'FMLCorePluginContainsFMLMod': 'true'
+        attributes 'Created-By': '1.7.0 (Oracle Corporation)'
+    }
+}
+
 minecraft {
     version = "${project.version_minecraft}-${project.version_forge}"
 
