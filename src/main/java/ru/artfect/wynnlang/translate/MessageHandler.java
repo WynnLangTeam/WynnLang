@@ -3,7 +3,6 @@ package ru.artfect.wynnlang.translate;
 import io.netty.channel.ChannelHandlerContext;
 import io.netty.channel.ChannelInboundHandlerAdapter;
 import net.minecraft.client.Minecraft;
-import net.minecraft.network.play.server.SPacketOpenWindow;
 import net.minecraft.network.play.server.SPacketPlayerListItem;
 import net.minecraft.network.play.server.SPacketTitle;
 import net.minecraft.network.play.server.SPacketUpdateScore;
@@ -11,7 +10,6 @@ import net.minecraft.scoreboard.IScoreCriteria;
 import net.minecraft.scoreboard.Score;
 import net.minecraft.scoreboard.ScoreObjective;
 import net.minecraftforge.common.MinecraftForge;
-import ru.artfect.wynnlang.event.ClientContainerOpenEvent;
 import ru.artfect.wynnlang.event.PlayerListForTabEvent;
 import ru.artfect.wynnlang.event.ShowTitleEvent;
 import ru.artfect.wynnlang.event.UpdateScoreboardEvent;
@@ -36,11 +34,6 @@ public class MessageHandler extends ChannelInboundHandlerAdapter {
             MinecraftForge.EVENT_BUS.post(event);
             p.getEntries().clear();
             p.getEntries().addAll(event.playerDataList.stream().map(i -> p.new AddPlayerData(i.profile, i.ping, i.gamemode, i.displayName)).collect(Collectors.toList()));
-        } else if (msg instanceof SPacketOpenWindow) {
-            SPacketOpenWindow p = (SPacketOpenWindow) msg;
-            ClientContainerOpenEvent event = new ClientContainerOpenEvent(p.getWindowId(), p.getGuiId(), p.getWindowTitle(), p.getSlotCount(), p.getEntityId());
-            MinecraftForge.EVENT_BUS.post(event);
-            msg = new SPacketOpenWindow(event.getWindowId(), event.getInventoryType(), event.getWindowTitle(), event.getSlotCount(), event.getEntityId());
         } else if (msg instanceof SPacketUpdateScore) {
             SPacketUpdateScore p = (SPacketUpdateScore) msg;
             UpdateScoreboardEvent event = new UpdateScoreboardEvent(p.getPlayerName(), p.getObjectiveName(), p.getScoreValue());

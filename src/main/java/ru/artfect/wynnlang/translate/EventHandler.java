@@ -58,6 +58,7 @@ public class EventHandler {
     }
 
     private static Map<ITextComponent, Optional<WynnLangTextComponent>> entityNamesCache = new HashMap<>();
+    private static Map<ITextComponent, Optional<WynnLangTextComponent>> windowsNamesCache = new HashMap<>();
 
     @SubscribeEvent
     public static void onEntityName(EntityNameEvent event) {
@@ -65,10 +66,10 @@ public class EventHandler {
                 .ifPresent(event::setName);
     }
 
-    @SubscribeEvent(priority = EventPriority.LOW)
-    public static void onInventoryOpen(ClientContainerOpenEvent event) {
-        tryToTranslate(event.getWindowTitle().getUnformattedText(), InventoryName.class)
-                .ifPresent(replace -> event.setWindowTitle(new WynnLangTextComponent(event.getWindowTitle(), new TextComponentString(replace))));
+    @SubscribeEvent
+    public static void onWindowName(WindowNameEvent event) {
+        windowsNamesCache.computeIfAbsent(event.getName(), fromName -> WynnLangTextComponent.tryToTranslate(fromName, InventoryName.class))
+                .ifPresent(event::setName);
     }
 
     @SubscribeEvent
