@@ -22,7 +22,7 @@ public class EventHooks {
         return hookEntityName(entity, returnValue);
     }
 
-    private static ITextComponent hookEntityName(Entity entity, @Hook.ReturnValue ITextComponent returnValue) {
+    private static ITextComponent hookEntityName(Entity entity, ITextComponent returnValue) {
         EntityNameEvent event = new EntityNameEvent(entity, returnValue);
         MinecraftForge.EVENT_BUS.post(event);
         return event.getName();

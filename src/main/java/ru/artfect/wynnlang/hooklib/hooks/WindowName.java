@@ -11,7 +11,7 @@ public class WindowName {
         return hookWindowName(inventoryBasic, returnValue);
     }
 
-    private static ITextComponent hookWindowName(InventoryBasic inventoryBasic, @Hook.ReturnValue ITextComponent returnValue) {
+    private static ITextComponent hookWindowName(InventoryBasic inventoryBasic, ITextComponent returnValue) {
         //EntityNameEvent event = new WindowNameEvent(entity, returnValue);
         //MinecraftForge.EVENT_BUS.post(event);
         //return event.getName();
