@@ -65,6 +65,10 @@ minecraft {
     replace '${forgeversion}', project.version_forge
 }
 
+runClient {
+    args "--username=${username}", "--password=${password}"
+}
+
 processResources {
     // this will ensure that this task is redone when the versions change.
     inputs.property 'version', project.version
