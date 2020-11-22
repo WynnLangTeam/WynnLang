@@ -242,7 +242,7 @@
 §7The book is torn in half. The rest of the entry must be somewhere nearby...@§7Книга разорвана пополам. Остальная часть записи должна быть где-то поблизости...
 §7The voice of the past echoes on the wind...@§7Голос прошлого перекликается с ветром...
 §7''A stranger came into town today all the way from Ragni. Ragni of all places! What do the folk there want with us in this small town?''@§7"Сегодня из Рагни в город приехал незнакомец. Почему-то именно из Рагни! Что их народ хочет от нас в этом маленьком городке?"
-§7''It's nothing but farmland for as far as the eye can see around here. I want some excitement! I want to go to Ragni and see the castle there!''@§7“Там нет ничего, кроме ферм, насколько мне удалось узнать. Мне нужно немного эмоций! Я хочу пойти в Ragni, и посмотреть тамошний замок!”
+§7''It's nothing but farmland for as far as the eye can see around here. I want some excitement! I want to go to Ragni and see the castle there!''@§7“Там нет ничего, кроме ферм, насколько мне удалось узнать. Мне нужно немного эмоций! Я хочу пойти в Рагни, и посмотреть тамошний замок!”
 §7''Then again, the roads are more dangerous now than they ever have been.  If rumors are to be trusted, you can't step three feet out of town without running into an undead''@§7"Опять же, дороги сейчас наиболее опасны, чем когда-либо. Если слухи заслуживают доверия, вы не можете выйти на три шага из города, не столкнувшись с нежитью"
 §7''Who knows, maybe this'll all blow over soon...''@§7"Кто знает, может быть, это все скоро закончится..."
 §7''I was talking to Mary the other day. She said some of the survivors are planning to make the trip to Troms or Ragni.''@§7"Я разговаривал с Мэри на днях. Она сказала, что некоторые из выживших планируют отправиться в Тромс или Рагни."
