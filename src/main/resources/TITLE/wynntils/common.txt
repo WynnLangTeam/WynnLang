@@ -34,7 +34,7 @@
 §eAldorei Town@§eГород Алдорей
 §eLetvus Airbase@§eАвиабаза Летвус
 §eThe Guild Hall@§eЗал Гильдий
-§eAbandoned Lumber Yard@§eЗаброшенная Ярмарка
+§eAbandoned Lumber Yard@§eЗаброшенная Лесопилка
 §eLake Gylia@§eОзеро Гилия
 §eGylia Watch Tower@§eБашня Стражей Гилия
 §eLlevigar@§eЛлевигар
