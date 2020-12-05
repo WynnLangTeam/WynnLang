@@ -391,6 +391,7 @@
 (§7[a-zA-Z0-9_]{1,16}) ?said thank you for supporting Wynncraft!@(r1) сказал тебе спасибо за поддержку Wynncraft!
 §7You have thanked ([a-zA-Z0-9_]{1,16})@§7Ты поблагодарил (r1)
 §7Want to thank (§f[a-zA-Z0-9_]{1,16}§7\?) §b§nClick here to thank them!@§7Хочешь поблагодарить (r1) §b§nНажми сюда, чтобы поблагодарить!
+§7Want to thank (§f[a-zA-Z0-9_]{1,16}§7\?) §bClick here to thank them!@§7Хочешь поблагодарить (r1) §bНажми сюда, чтобы поблагодарить!
 (§b[a-zA-Z0-9_]{1,16})'s Disguise Bomb§3 has exploded! You are now a (§b[A-Za-z]+.§3) Buy your own at§b §bwynncraft.com\/store§3!@§bМаскировочная Бомба (r1)§3 взорвалась! Ты стал (r2) Купи свою собственную на§b §bwynncraft.com/store§3!
 §3You are inside of (§b[a-zA-Z0-9_]{1,16})'s§3 mob totem. Get your own mob totems by buying a rank at §bwynncraft.com/store@§3Ты внутри (r1)§3 моб тотема. Получи свой моб тотем при покупке ранга на §bwynncraft.com/store
 (§b[a-zA-Z0-9_]{1,16}§3) has placed a mob totem at (§b[0-9 \-,]+§3!)$@(r1) поставил моб тотем на (r2)
