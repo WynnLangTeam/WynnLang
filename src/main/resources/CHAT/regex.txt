@@ -82,7 +82,7 @@
 (§e[a-zA-Z0-9_]{1,16}) has been removed from your ignore list!@(r1) был убран из твоего игнор листа!
 (§e[a-zA-Z0-9_]{1,16}) is already ignored!@(r1) уже игнорируется!
 (§e[a-zA-Z0-9_]{1,16}) is not being ignored!@(r1) не был в игноре!
-§7You have automatically connected to (§f[A-Z0-9]+§7). Type \/lobby to select another server.@§7Ты автоматически присоединился к (r1). Напиши /lobby если нужно подключиться к другому серверу.
+§7You have automatically connected to (§fWC[A-Z0-9]+§7). Type \/lobby to select another server.@§7Ты автоматически присоединился к (r1). Напиши /lobby если нужно подключиться к другому серверу.
 §7You have automatically connected to §flobby(\d+)§7. Type \/lobby to select another server.@§7Ты автоматически присоединился к §f(r1) лобби§7. Напиши /lobby если нужно подключиться к другому серверу.
 §6   \+(\d+) Bronze Token(s|)@§6   +(r1) Бронзовых жетонов
 §f   \+(\d+) Silver Token(s|)@§f   +(r1) Серерянных жетонов
