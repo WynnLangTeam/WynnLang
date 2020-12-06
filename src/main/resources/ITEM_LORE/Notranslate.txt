@@ -6331,3 +6331,72 @@ Dam: 4-6@
 §7- Pirate's Locket of the Leach [10]@ 
 §7- §aSkien Leggings [55]@ 
 §7- Phoenix-Feathered Root of Courage [22]@ 
+§7- Ancient Moss@ 
+§7- Elephant Toenail@ 
+§7- Rock-Hard Beak@ 
+§7- Fiery Aura@ 
+§7- Shiny Pebble@ 
+§7- Hardened Magma@ 
+§7- Pirate Beard@ 
+§7- Nose Ring@ 
+§7- Cortrich Eggs@ 
+§7- Terra Steel@ 
+§7- Iceberries@ 
+§7- Marrow Dust@ 
+§7- Void Essence@ 
+§7- Lockpicking Kit@ 
+§7- Cyclops Eye@ 
+§7- Manis Carapace@ 
+§7- Engraved Tablet@ 
+§7- Old Explosives@ 
+§7- Ashen Hide@ 
+§7- Durable Skin@ 
+§7- Protective Fabric@ 
+§7- Lost Spirit@ 
+§7- Sentient Shadow@ 
+§7- Crystalline Growth@ 
+§7- Forgotten Pickaxe@ 
+§7- Kaian Scroll@ 
+§f1 x §dUnidentified Wand@ 
+§f1 x §fOak Wood§6 [§e✫§8✫✫§6]@ 
+§6 - §a✔ §21 Twilight-Gilded Cloak@ 
+§7- Plucked Feather@ 
+§a- §2Water Relic Chestplate@ 
+§6 - §a✔ §21 Soulflare@ 
+§6 - §a✔ §21 Silver Solar Ring@ 
+§6 - §a✔ §21 Gold Solar Ring@ 
+§a- §2Beachside Conch@ 
+§7- Burning Soul@ 
+§7- §8Snail Mail@ 
+§7- §8Snail Boots@ 
+§7- §8Snail Leggings@ 
+§7- §8Snail Helm@ 
+§a- §2Snail Boots@ 
+§a- §2Snail Leggings@ 
+§a- §2Snail Mail@ 
+§a- §2Snail Helm@ 
+§7- Hellish Cinders@ 
+§7- Corbys Innards@ 
+§a- §2Thunder Relic Boots@ 
+§6 - §a✔ §21 Intensity@ 
+§7 - §f1,344 §3Repair ScrapÀ@ 
+§7- Recluse Venom Sac@ 
+§6 - §a✔ §21 Boreal-Patterned Crown@ 
+§a- §2Visceral Chest@ 
+§a- §2Visceral Skullcap@ 
+§7- Sealed Blaze@ 
+§7- Major's Badge@ 
+§7- Wood Scrap@ 
+§a- §2Horse Mask@ 
+§7- Router's Shield@ 
+§7- Sentient Water@ 
+§7- Herbstzeitlose@ 
+§7- Tenebrous Plasma@ 
+§7- Gollier Iron@ 
+§7- Demonic Ashes@ 
+§7- Myconid Spores@ 
+§7- Succulent Crab Meat@ 
+§7- Golden Avia Feather@ 
+§a- §2Visceral Legs@ 
+§a- §2Visceral Toe@ 
+§6 - §a✔ §28 Red Mushroom [✫✫✫]@ 
