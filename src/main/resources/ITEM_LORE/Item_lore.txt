@@ -635,6 +635,7 @@
             §f5§7 Decay String§f Ⓙ@            §f5§7 Зараженных Нитей§f Ⓙ
             §f10§7 Decay String§f Ⓙ@            §f10§7 Зараженных Нитей§f Ⓙ
 		    §f10§7 Decay Grains§f Ⓙ@            §f10§7 Зараженных Зерен§f Ⓙ
+            §f10§7 Decay Grains§f Ⓙ@            §f10§7 Зараженных Зерен§f Ⓙ
             §f5§7 Decay Grains§f Ⓙ@            §f5§7 Зараженных Зерен§f Ⓙ
             §f5§7 Light Wood§f Ⓒ@            §f5§7 Древесины Клена§f Ⓒ
             §f10§7 Light Wood§f Ⓒ@            §f10§7 Древесины Клена§f Ⓒ
@@ -852,7 +853,6 @@
              §f18§7 Dernic Oil§f Ⓚ@             §f18§7 Дерник Жира§f Ⓚ
              §f12§7 Dernic Paper§f Ⓒ@             §f12§7 Дерник Бумаги§f Ⓒ
              §f6§7 Dernic Paper§f Ⓒ@             §f6§7 Дерник Бумаги§f Ⓒ
-            §f10§7 Decay Grains§f Ⓙ@            §f10§7 Дерник Зерен§f Ⓙ
              §f12§7 Dernic String§f Ⓙ@             §f12§7 Дерник Нитей§f Ⓙ
              §f6§7 Dernic String§f Ⓙ@             §f6§7 Дерник Нитей§f Ⓙ
 
