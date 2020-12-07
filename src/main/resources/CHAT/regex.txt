@@ -435,6 +435,7 @@
 §7\[1\/1\] §2Aledar: §aHey, ([a-zA-Z0-9_]{1,16}), follow me!@§7[1/1] §2Аледар: §aЭй, (r1), следуй за мной!
 §7\[1\/1\] §2Aledar: §aHey, ([a-zA-Z0-9_]{1,16})! That's the wrong way!@§7[1/1] §2Аледар: §aЭй, (r1)! Это неправильный путь!
 §7\[7\/8\] §2Guard: §aIn my current state, I'm too weak to destroy this boulder. But since you're a Shaman, ([a-zA-Z0-9_]{1,16}), you can help me.@§7[7/8] §2Страж: §aВ моем нынешнем состоянии я слишком слаб, чтобы сломать этот камень. Но поскольку ты Шаман, (r1), ты можешь помочь мне.
+§7\[7\/8\] §2Guard: §aIn my current state, I'm too weak to destroy this boulder. But since you're a Skyseer, ([a-zA-Z0-9_]{1,16}), you can help me.@§7[7/8] §2Страж: §aВ моем нынешнем состоянии я слишком слаб, чтобы сломать этот камень. Но поскольку ты Провидец, (r1), ты можешь помочь мне.
 §7\[7\/8\] §2Guard: §a([a-zA-Z0-9_]{1,16}), you're an Assassin, right\? Walk up to the boulder for me.@§7[7/8] §2Страж: §a(r1), ты ведь ассасин, верно? Встань поближе к стене, ради меня.
 §7\[7\/8\] §2Guard: §a([a-zA-Z0-9_]{1,16}), you're a Mage, right\? Gonna need you to stay close to me.@§7[7/8] §2Страж: §a(r1), ты ведь маг, верно? Встань поближе ко мне.
 §7\[7\/8\] §2Guard: §a([a-zA-Z0-9_]{1,16}), you're a Warrior, right\? Walk up to the boulder for me.@§7[7/8] §2Страж: §a(r1), ты ведь воин, верно? Встань поближе к стене, ради меня.
