@@ -321,6 +321,7 @@
 §7Enter the body of Garaheth@§7Войди в тело Гарахета
 §7Freeze any vital point of Garaheth you can find!@§7Заморозь любые жизненно-важные точки Гарахета, которые сможешь найти!
 §7Get out of Garaheth!@§7Выйди из Гарахета!
+§7Speak with the King of Rodoroc and the Dogun Chieftain.@§7Поговори с Королем Родорока и Вождем Догунов 
 =======Dwelling_Walls 
 §7Talk to Leucsaa at [201,38,-2173]@§7Поговори с Леуксаа на [201,38,-2173]
 §7Enter the mansion@§7Войди в поместье
@@ -719,6 +720,8 @@
 §7Clean the bodies in the boat. Look for clues on how to escape at the same time. -Bodies cleaned: 1/7@§7Очисти тела на лодке. Поищи подсказки о том как сбежать в это же время. -Тел очищено: 1/7
 §7Clean the bodies in the boat. Look for clues on how to escape at the same time. -Bodies cleaned: 4/7@§7Очисти тела на лодке. Поищи подсказки о том как сбежать в это же время. -Тел очищено: 4/7
 §7You noticed the cannon could be used to escape. Clean the bodies and see what Honip tells you! -Bodies cleaned: 5/7@§7Ты заметил, что пушку можно ипользовать для побега. Очисти тела и посмотри, что скажет Хонип! -Тел очищено: 5/7
+§7You noticed the cannon could be used to escape. Clean the bodies and see what Honip tells you! -Bodies cleaned: 3/7@§7Ты заметил, что пушку можно использовать для побега. Очисти тела и посмотри, что Хонип скажет тебе! - Тел очищено: 3/7
+§7You noticed the cannon could be used to escape. Clean the bodies and see what Honip tells you! -Bodies cleaned: 1/7@§7Ты заметил, что пушку можно использовать для побега. Очисти тела и посмотри, что Хонип скажет тебе! - Тел очищено: 1/7
 =====Mixed_Feelings 
 §7Go for a drink at the Corkus Docks Inn, [-1414, 46, -2921]@§7Пойди выпить в Доки Коркусa на [-1414, 46, -2921]
 §7Talk to Javen to find out more about what happened.@§7Поговори с Джавеном и узнай больше о том, что произошло.
@@ -1339,11 +1342,13 @@
 §7Bring [25 Holy Powders] to the Slaying Post [Combat Lv. 98] at [1005,118,-4790]@§7Принеси [25 Holy Powders] к Доске Заданий [Комбат Ур. 98] на [1005,118,-4790]
 §7Bring [15 Dragonling Scales] to the Slaying Post [Combat Lv. 99] at [1348,124,-4470]@§7Принеси [15 Dragonling Scales] к Доске Заданий [Комбат Ур. 99] на [1348,124,-4470]
 §7Bring [24 Fluffy Fur] to the Slaying Post [Combat Lv. 88] at [135,53,-4399]@§7Принеси [24 Fluffy Fur] к Доске Заданий [Комбат Ур. 88] на [135,53,-4399]
+§7Bring [15 Arcane Anomalies] to the Slaying Post [Combat Lv. 75] at [-677,42,-4948]@§7Принеси [15 Arcane Anomalies] к Доске Заданий [Комбат Ур. 75] на [-677,42,-4948]
 §7Bring [12 Oak Wood] or [12 Oak Paper] to the Gathering Post [Woodcutting Lv. 8] at [-433,67,-1591]@§7Принеси [12 Древесины Дуба] или [12 Дубовой Бумаги] к Доске Сбора [Лесорубство Ур. 8] на [-433,67,-1591]
 §7Bring [36 Avo Wood] or [36 Avo Paper] to the Gathering Post [Woodcutting Lv. 91] at [-1710,67,-2802]@§7Принеси [36 Древесины Авокадо] или [36 Авокадовой Бумаги] к Доске Сбора [Лесорубство Ур. 91] на [-1710,67,-2802]
 §7Bring [48 Avo Wood] or [48 Avo Paper] to the Gathering Post [Woodcutting Lv. 93] at [-1836,105,-2906]@§7Принеси [48 Древесины Авокадо] или [48 Авокадовой Бумаги] к Доске Сбора [Лесорубство Ур. 93] на [-1836,105,-2906]
 §7Bring [14 Birch Wood] or [14 Birch Paper] to the Gathering Post [Woodcutting Lv. 18] at [182,67,-1597]@§7Принеси §3[14 Древесины Березы] §7или §3[14 Березовой Бумаги] §7к §aДоске Сбора §2[Лесорубство Ур. 18] на [182,67,-1597]
 §7Bring [26 Bamboo] to the Gathering Post [Woodcutting Lv. 88] at [87,81,-4340]@§7Принеси [26 Бамбука] к Доске Сбора [Лесорубство Ур. 88]
+§7Bring [44 Pine Wood] or [44 Pine Paper] to the Gathering Post [Woodcutting Lv. 83] at [646,77,-5058]@§7Принеси [44 Древесины Сосны] или [44 Сосновой Бумаги] к Доске Сбора [Лесорубство Ур. 83] на [646,77,-5058]
 §7Bring [52 Pine Wood] or [52 Pine Paper] to the Gathering Post [Woodcutting Lv. 86] at [-1339,113,-2870]@§7Принеси [52 Древесины Сосны] или [52 Сосновой Бумаги] к Доске Сбора [Лесорубство Ур. 86]
 §7Bring [16 Gold Ingots] or [16 Gold Gems] to the Gathering Post [Mining Lv. 23] at [424,66,-1275]@§7Принеси [16 Золотых Слитков] или [16 Золотых Камней] к Доске Сбора [Добыча Руды Ур. 23] на [424,66,-1275]
 §7Bring [24 Gold Ingots] or [24 Gold Gems] to the Gathering Post [Mining Lv. 28] at [833,38,-1282]@§7Принеси [24 Золотых Слитков] или [24 Золотых Камней] к Доске Сбора [Добыча Руды Ур. 28] на [833,38,-1282]
@@ -1392,6 +1397,9 @@
 §7Bring [28 Jungle Wood] or [28 Jungle Paper] to the Gathering Post [Woodcutting Lv. 53] at [-571,62,-738]@§7Принеси [28 Древесины Амаранта] или [28 Амарантовой Бумаги] к Доске Заданий [Лесорубство Ур. 53] на [-571,62,-738]
 §7Bring [42 Jungle Wood] or [42 Jungle Paper] to the Gathering Post [Woodcutting Lv. 58] at [-685,58,-884]@§7Принеси [42 Древесины Амаранта] или [42 Амарантовой Бумаги] к Доске Заданий [Лесорубство Ур. 58] на [-685,58,-884]
 §7Bring [14 Barley String] or [14 Barley Grains] to the Gathering Post [Farming Lv. 18] at [-539,101,-1306]@§7Принеси [14 Ячменных Нитей] или [14 Ячменных Зерен] к Доске Сбора [Земледелие Ур. 18] на [-539,101,-1306]
+§7Bring [34 Bass Oil] or [34 Bass Meat] to the Gathering Post [Fishing Lv. 81] at [105,45,-4987]@§7Принеси §3[34 Жира Окуня] §7или §3[34 Мяса Окуня] §7к §aДоске Заданий §2[Рыболовство Ур. 81] на [105,45,-4987]
+§7Bring [62 Rice String] or [62 Rice Grains] to the Gathering Post [Farming Lv. 88] at [79,44,-4772]@§7Принеси [62 Рисовых Нити] §7или [62 Рисового Зерна] §7к Доске Сбора [Земледелие Ур. 88] на [79,44,-4772]
+§7Bring [52 Rice String] or [52 Rice Grains] to the Gathering Post [Farming Lv. 86] at [743,44,-5318]@§7Принеси [52 Рисовых Нити] §7или [52 Рисового Зерна] §7к Доске Сбора [Земледелие Ур. 86] на [743,44,-5318]
 §7Bring §3[16 Willow Wood] §7or §3[16 Willow Paper] §7to the §aGathering Post §2[Woodcutting Lv. 23]@§7Принеси §3[16 Древесины Ивы] §7или §3[16 Ивовой Бумаги] §7к §aДоске Сбора §2[Лесорубство Ур. 23]
 §7Bring §3[12 Oak Wood] §7or §3[12 Oak Paper] §7to the §aGathering Post §2[Woodcutting Lv. 8]@§7Принеси §3[12 Древесины Дуба] §7или §3[12 Дубовой Бумаги] §7к §aДоске Сбора §2[Лесорубство Ур. 8]
 §7Bring §3[14 Birch Wood] §7or §3[14 Birch Paper] §7to the §aGathering Post §2[Woodcutting Lv. 18]@§7Принеси §3[14 Древесины Березы] §7или §3[14 Березовой Бумаги] §7к §aДоске Сбора §2[Лесорубство Ур. 18]
@@ -1428,6 +1436,7 @@
 §7Bring §3[14 Granite Ingots] §7or §3[14 Granite Gems] §7to the §aGathering Post §2[Mining Lv. 18]@§7Принеси §3[14 Гранитных Слитков] §7или §3[14 Гранитных Камней] §7к §aДоске Заданий §2[Добыча Руды Ур. 18]
 §7Bring §3[20 Sandstone Ingots] §7or §3[20 Sandstone Gems] §7to the §aGathering Post §2[Mining Lv. 33]@§7Принеси §3[20 Песчаных Слитков] §7или §3[20 Песчаных Камней] §7к §aДоске Заданий §2[Добыча Руды Ур. 33]
 §7Bring §3[62 Diamond Ingots] §7or §3[62 Diamond Gems] §7to the §aGathering Post §2[Mining Lv. 88]@§7Принеси §3[62 Алмазных Слитка] §7или §3[62 Алмазных Камня] §7к §aДоске Сбора §2[Добыча Руды Ур. 88]
+§7Bring §3[52 Diamond Ingots] §7or §3[52 Diamond Gems] §7to the §aGathering Post §2[Mining Lv. 86]@§7Принеси §3[52 Алмазных Слитка] или §3[52 Алмазных Камня] к §aДоске Сбора §2[Добыча Руды Ур. 86]
 §7Bring §3[44 Diamond Ingots] §7or §3[44 Diamond Gems] §7to the §aGathering Post §2[Mining Lv. 83]@§7Принеси §3[44 Алмазных Слитка] §7или §3[44 Алмазных Камня] §7к §aДоске Сбора §2[Добыча Руды Ур. 83]
 §7Bring §3[34 Diamond Ingots] §7or §3[34 Diamond Gems] §7to the §aGathering Post §2[Mining Lv. 81]@§7Принеси §3[34 Алмазных Слитка] §7или §3[34 Алмазных Камня] §7к §aДоске Сбора §2[Добыча Руды Ур. 81]
 §7Bring §3[36 Molten Ingots] §7or §3[36 Molten Gems] §7to the §aGathering Post §2[Mining Lv. 91]@§7Принеси §3[36 Молтен Слитков] §7или §3[36 Молтен Камней] §7к §aДоске Сбора §2[Добыча Руды Ур. 91]
@@ -1464,6 +1473,8 @@
 §7Bring §3[48 Decay String] §7or §3[48 Decay Grains] §7to the §aGathering Post §2[Farming Lv. 78]@§7Принеси §3[48 Зараженных Нитей] §7или §3[48 Зараженного Зерна] §7к §aДоске Сбора §2[Земледелие Ур. 78]
 §7Bring §3[44 Rice String] §7or §3[44 Rice Grains] §7to the §aGathering Post §2[Farming Lv. 83]@§7Принеси §3[44 Рисовых Нити] §7или §3[44 Рисового Зерна] §7к §aДоске Сбора §2[Земледелие Ур. 83]
 §7Bring §3[34 Rice String] §7or §3[34 Rice Grains] §7to the §aGathering Post §2[Farming Lv. 81]@§7Принеси §3[34 Рисовых Нити] §7или §3[34 Рисового Зерна] §7к §aДоске Сбора §2[Земледелие Ур. 81]
+§7Bring §3[52 Rice String] §7or §3[52 Rice Grains] §7to the §aGathering Post §2[Farming Lv. 86]@§7Принеси §3[52 Рисовых Нити] §7или §3[52 Рисового Зерна] §7к §aДоске Сбора §2[Земледелие Ур. 86]
+§7Bring §3[62 Rice String] §7or §3[62 Rice Grains] §7to the §aGathering Post §2[Farming Lv. 88]@§7Принеси §3[62 Рисовых Нити] §7или §3[62 Рисового Зерна] §7к §aДоске Сбора §2[Земледелие Ур. 88]
 §7Bring §3[34 Bass Oil] §7or §3[34 Bass Meat] §7to the §aGathering Post §2[Fishing Lv. 81]@§7Принеси §3[34 Жира Окуня] §7или §3[34 Мяса Окуня] §7к §aДоске Заданий §2[Рыболовство Ур. 81]
 §7Bring §3[36 Sorghum String] §7or §3[36 Sorghum Grains] §7to the §aGathering Post §2[Farming Lv. 91]@§7Принеси §3[36 Сорго Нитей] §7или §3[36 Сорго Зерен] §7к §aДоске Сбора §2[Земледелие Ур. 91]
 §7Bring §3[28 Piranha Oil] §7or §3[28 Piranha Meat] §7to the §aGathering Post §2[Fishing Lv. 53]@§7Принеси §3[28 Жира Пираньи] §7или §3[28 Мяса Пираньи] §7к §aДоске Сбора §2[Рыболовство Ур. 53]

@@ -223,6 +223,7 @@
 §7- Refined Millet String 1@§7- Переработанная Нить Просо 1
 §7- Refined Millet String 2@§7- Переработанная Нить Просо 2
 §7- Refined Millet String 3@§7- Переработанная Нить Просо 3
+§7- Refined Pine Wood 2@§7- Переработанная Древесина Сосны 2
 
 ###########################OTHERS###############################
 §7Currency@§7Валюта
@@ -264,7 +265,8 @@
 §eFol§klo§ew t§kh§eis cha§kr§et §kw§ehile §eusi§kng§e t§ehe mac§kh§eine§ks§e.@§eSle§kdu§ei e§kt§eoi tab§kli§ece §kvo §evremya §eispolzo§kvaniya§e mas§kch§ei§kn§i.
 §eThi§ks§e she§ke§et shou§kld§e be §egi§kve§en to §e§kt§ehe bl§ko§eody@§eEto§kt§e li§ks§et sled§kuet§e §eot§kda§et kro§kva§evim
 §esp§ki§ekes.@§esch§ki§epam.
-§7Illuminates@§7Освети 
+§7Illuminates@§7Освети
+§cPurchase Ended@§cПокупка Завершена 
 
 ###############################QUEST ITEMS##################################
 §7Deliver Goods to:@§7Доставить товары на:
@@ -659,6 +661,7 @@
             §f12§7 Sorghum String§f Ⓙ@            §f12§7 Сорго Нитей§f Ⓙ
             §f6§7 Sorghum String§f Ⓙ@            §f6§7 Сорго Нитей§f Ⓙ
             §f12§7 Sorghum Grains§f Ⓙ@            §f12§7 Сорго Зерен§f Ⓙ
+            §f6§7 Sorghum Grains§f Ⓙ@            §f6§7 Сорго Зерен§f Ⓙ
             §f6§7 Avo Wood§f Ⓒ@            §f6§7 Древесины Авокадо§f Ⓒ
             §f12§7 Avo Wood§f Ⓒ@            §f12§7 Древесины Авокадо§f Ⓒ
             §f12§7 Avo Paper§f Ⓒ@            §f12§7 Авокадовой Бумаги§f Ⓒ
@@ -673,6 +676,7 @@
 §c✖ Lv. 70: §f10§7 Gylia Meat§f Ⓚ@§c✖ Ур. 70: §f10§7 Мяса Гилия§f Ⓚ
 §a✔ Lv. 70: §f10§7 Gylia Meat§f Ⓚ@§a✔ Ур. 70: §f10§7 Мяса Гилия§f Ⓚ
 §c✖ Lv. 80: §f10§7 Bass Meat§f Ⓚ@§c✖ Ур. 80: §f10§7 Мяса Окуня§f Ⓚ
+§a✔ Lv. 80: §f10§7 Bass Meat§f Ⓚ@§a✔ Ур. 80: §f10§7 Мяса Окуня§f Ⓚ
 §a✔ Lv. 80: §f10§7 Bass Oil§f Ⓚ@§a✔ Ур. 80: §f10§7 Жира Окуня§f Ⓚ
 §c✖ Lv. 80: §f10§7 Bass Oil§f Ⓚ@§c✖ Ур. 80: §f10§7 Жира Окуня§f Ⓚ
 §c✖ Lv. 80: §f5§7 Bass Oil§f Ⓚ@§c✖ Ур. 80: §f5§7 Жира Окуня§f Ⓚ
@@ -680,6 +684,8 @@
             §f5§7 Bass Oil§f Ⓚ@            §f5§7 Жира Окуня§f Ⓚ
             §f10§7 Bass Oil§f Ⓚ@            §f10§7 Жира Окуня§f Ⓚ
             §f15§7 Bass Oil§f Ⓚ@            §f15§7 Жира Окуня§f Ⓚ
+§c✖ Lv. 90: §f12§7 Molten Meat§f Ⓚ@§c✖ Ур. 90: §f12§7 Мяса Угря§f Ⓚ
+§a✔ Lv. 90: §f12§7 Molten Meat§f Ⓚ@§a✔ Ур. 90: §f12§7 Мяса Угря§f Ⓚ
 §c✖ Lv. 90: §f12§7 Molten Oil§f Ⓚ@§c✖ Ур. 90: §f12§7 Жира Угря§f Ⓚ
 §c✖ Lv. 90: §f6§7 Molten Oil§f Ⓚ@§c✖ Ур. 90: §f6§7 Жира Угря§f Ⓚ
 §a✔ Lv. 90: §f12§7 Molten Oil§f Ⓚ@§a✔ Ур. 90: §f12§7 Жира Угря§f Ⓚ
@@ -832,8 +838,11 @@
              §f12§7 Hemp Grains§f Ⓙ@             §f12§7 Конопляных Зерен§f Ⓙ
              §f12§7 Hemp String§f Ⓙ@             §f12§7 Конопляных Нитей§f Ⓙ
              §f6§7 Hemp String§f Ⓙ@             §f6§7 Конопляных Нитей§f Ⓙ
+             §f6§7 Hemp Grains§f Ⓙ@             §f6§7 Конопляных Зерен§f Ⓙ
 §c✖ Lv. 50: §f8§7 Piranha Meat§f Ⓚ@§c✖ Ур. 50: §f8§7 Мяса Пираньи§f Ⓚ
 §a✔ Lv. 50: §f8§7 Piranha Meat§f Ⓚ@§a✔ Ур. 50: §f8§7 Мяса Пираньи§f Ⓚ
+§c✖ Lv. 100: §f12§7 Starfish Meat§f Ⓚ@§c✖ Ур. 100: §f12§7 Мяса Морской Звезды§f Ⓚ
+§a✔ Lv. 100: §f12§7 Starfish Meat§f Ⓚ@§a✔ Ур. 100: §f12§7 Мяса Морской Звезды§f Ⓚ
 §c✖ Lv. 100: §f12§7 Starfish Oil§f Ⓚ@§c✖ Ур. 100: §f12§7 Жира Морской Звезды§f Ⓚ
 §c✖ Lv. 100: §f6§7 Starfish Oil§f Ⓚ@§c✖ Ур. 100: §f6§7 Жира Морской Звезды§f Ⓚ
 §a✔ Lv. 100: §f12§7 Starfish Oil§f Ⓚ@§a✔ Ур. 100: §f12§7 Жира Морской Звезды§f Ⓚ
@@ -847,6 +856,10 @@
 §a✔ Lv. 103: §f12§7 Dernic Ingot§f Ⓑ@§a✔ Ур. 103: §f12§7 Дерник Слитков§f Ⓑ
 §c✖ Lv. 103: §f6§7 Dernic Gem§f Ⓑ@§c✖ Ур. 103: §f6§7 Дерник Камней§f Ⓑ
 §a✔ Lv. 103: §f6§7 Dernic Gem§f Ⓑ@§a✔ Ур. 103: §f6§7 Дерник Камней§f Ⓑ
+§c✖ Lv. 103: §f6§7 Dernic Oil§f Ⓚ@§c✖ Ур. 103: §f6§7 Дерник Жира§f Ⓚ
+§a✔ Lv. 103: §f6§7 Dernic Oil§f Ⓚ@§a✔ Ур. 103: §f6§7 Дерник Жира§f Ⓚ
+§c✖ Lv. 103: §f12§7 Dernic Meat§f Ⓚ@§c✖ Ур. 103: §f12§7 Дерник Мяса§f Ⓚ
+§a✔ Lv. 103: §f12§7 Dernic Meat§f Ⓚ@§a✔ Ур. 103: §f12§7 Дерник Мяса§f Ⓚ
              §f6§7 Dernic Oil§f Ⓚ@             §f6§7 Дерник Жира§f Ⓚ
              §f12§7 Dernic Oil§f Ⓚ@             §f12§7 Дерник Жира§f Ⓚ
              §f18§7 Dernic Oil§f Ⓚ@             §f18§7 Дерник Жира§f Ⓚ
@@ -854,6 +867,10 @@
              §f6§7 Dernic Paper§f Ⓒ@             §f6§7 Дерник Бумаги§f Ⓒ
              §f12§7 Dernic String§f Ⓙ@             §f12§7 Дерник Нитей§f Ⓙ
              §f6§7 Dernic String§f Ⓙ@             §f6§7 Дерник Нитей§f Ⓙ
+             §f12§7 Dernic Grains§f Ⓙ@            §f12§7 Дерник Зерен§f Ⓙ
+             §f6§7 Dernic Grains§f Ⓙ@             §f6§7 Дерник Зерен§f Ⓙ
+             §f12§7 Dernic Wood§f Ⓒ@             §f12§7 Дерник Древесины§f Ⓒ
+             §f6§7 Dernic Wood§f Ⓒ@             §f6§7 Дерник Древесины§f Ⓒ
 
 #############################POWDERS#############################
 §8Adding 2 powders of tier 4-6@§8Добавление 2 порошков уровня 4-6
@@ -2435,6 +2452,10 @@
 §7phoenix wings@§7крылья феникса
 §7fairy wings@§7крылья феи
 §7bone wings@§7костлявые крылья
+§7Disguise your mushroom@§7Маскирует твой гриб 
+§7as a helmet!@§7под шлем!
+§7Wait, it's the other@§7Погоди-ка, все
+§7way round!@§7наоборот!
 
 #########################UNIDENTIFIED##########################
 §e- §eUnidentified Spear@§e- §eНеидентифицированное Копье
@@ -2544,6 +2565,7 @@
 §7- §dUnidentified Relik@§7- §dНеидентифицированный Релик
 §e- §aUnidentified Relik@§e- §aНеидентифицированный Релик
 §7- §aUnidentified Relik@§7- §aНеидентифицированный Релик
+§7- §cUnidentified Charm@§7- §cНеидентифицированный Талисман
 
 ############################ITEMS#############################
 §7Crafting Material@§7Материал для Крафта

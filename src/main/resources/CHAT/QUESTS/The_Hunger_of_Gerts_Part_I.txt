@@ -86,3 +86,4 @@
 §7[1/1] §2Jitak: §aAll my sheep... Dead... How am I going keep my tailoring business alive?@§7[1/1] §2Житак: §aВсе мои овцы... Мертвы... Как же мне тогда сохранить свой портняжный бизнес?
 §7[1/1] §2Gerten Chief Lobo: §aLeave gert alone! Gert do hard think! You help gert only when level 78!@§7[1/1] §2Герт Шеф Лобо: §aОставь Герт в покой! Герт надо подумать! Твоя помочь герт только на уровень 78!
 §7[1/1] §2Gerten Guard: §aHuman back to cell!@§7[1/1] §2Герт Страж: §aЧеловек вернуться в клетка!
+§7[1/1] §2Gerten Hunter: §aYou no allow to enter tunnel!@§7[1/1] §2Герт Охотник: §aТвоя не разрешено входить тоннель!

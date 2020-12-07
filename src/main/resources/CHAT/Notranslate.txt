@@ -1735,3 +1735,5 @@ Prove you have visted every hour on the clock.@
 §f                            Gromblins Hideout@ 
 §f                              Mesquis Tower@ 
 §f                             §bRuins of Detlas@ 
+§f                           Durum Isles Lower@ 
+§f                           Durum Isles Upper@ 

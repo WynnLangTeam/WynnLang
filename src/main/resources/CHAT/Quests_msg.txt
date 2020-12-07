@@ -1277,6 +1277,11 @@ Rynver's teeth fall out of his mouth as he talks.@§7Зубы Ринвера с�
 §7After looking at your map, you conclude that you need to go to [1003,139,-4853] to obtain the §3[Snail Slime]§7.@§7Посмотрев на свою карту, ты понял что нужно идти на координаты [1003,139,-4853], чтобы добыть §3[Слизь Змеи]§7.
 §cYou've already made the stew, this pot is useless..@§cТы уже приготовил рагу, этот горшок бесполезен..
 §cYou should speak to Relend first.@§cТы должен поговорить сначала с Релендом.
+§4You were crushed by the collapsing cave! You must wait for help to arrive!@§4Ты был раздавлен обрушившейся пещерой! Подожди, пока прибудет помощь!
+§aHelp has started to arrive!@§aПомощь начала прибывать!
+§aHelp has arrived@§aПомощь прибыла
+§cYou should probably bring the sceptre with you...@§cТебе, наверное, стоит взять скипетр с собой...
+§4The mechanical noises coming from this room have a distinct rusty sound to them. Probably best to leave it alone.@§4Механические звуки, доносящиеся из этой комнаты, имеют отчетливый ржавый звук. Наверное, лучше оставить ее в покое.
 
 ################################QUEST NAMES####################################
 §e                          §e§lArachnids' Ascent@ 
@@ -1526,3 +1531,7 @@ Rynver's teeth fall out of his mouth as he talks.@§7Зубы Ринвера с�
 §a                            §a§lGather Millet II@ 
 §a                             §a§lGather Koi II@ 
 §a                           §a§lGather Millet III@ 
+§a                              §a§lGather Rice III@ 
+§a                               §a§lGather Rice IV@ 
+§a                          §a§lGather Diamonds III@ 
+§a                           §a§lGather Icefish II@ 
