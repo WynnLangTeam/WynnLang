@@ -9,9 +9,6 @@ public class ShowTitleEvent extends Event {
 
     private SPacketTitle.Type type;
     private ITextComponent message;
-    private int fadeInTime;
-    private int displayTime;
-    private int fadeOutTime;
 
     public SPacketTitle.Type getType() {
         return type;
@@ -29,35 +26,8 @@ public class ShowTitleEvent extends Event {
         this.message = message;
     }
 
-    public int getFadeInTime() {
-        return fadeInTime;
-    }
-
-    public void setFadeInTime(int fadeInTime) {
-        this.fadeInTime = fadeInTime;
-    }
-
-    public int getDisplayTime() {
-        return displayTime;
-    }
-
-    public void setDisplayTime(int displayTime) {
-        this.displayTime = displayTime;
-    }
-
-    public int getFadeOutTime() {
-        return fadeOutTime;
-    }
-
-    public void setFadeOutTime(int fadeOutTime) {
-        this.fadeOutTime = fadeOutTime;
-    }
-
-    public ShowTitleEvent(SPacketTitle.Type type, ITextComponent message, int fadeInTime, int displayTime, int fadeOutTime) {
+    public ShowTitleEvent(SPacketTitle.Type type, ITextComponent message) {
         this.type = type;
         this.message = message;
-        this.fadeInTime = fadeInTime;
-        this.displayTime = displayTime;
-        this.fadeOutTime = fadeOutTime;
     }
 }
