@@ -10,7 +10,7 @@ import ru.artfect.wynnlang.event.EntityNameEvent;
 import ru.artfect.wynnlang.hooklib.asm.Hook;
 import ru.artfect.wynnlang.hooklib.asm.ReturnCondition;
 
-public class EventHooks {
+public class EntityNameHooks {
 
     @Hook(injectOnExit = true, returnCondition = ReturnCondition.ALWAYS)
     public static ITextComponent getDisplayName(Entity entity, @Hook.ReturnValue ITextComponent returnValue) {
