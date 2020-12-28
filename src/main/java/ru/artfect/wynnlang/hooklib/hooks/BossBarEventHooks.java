@@ -10,7 +10,6 @@ import ru.artfect.wynnlang.hooklib.asm.ReturnCondition;
 public class BossBarEventHooks {
     @Hook(injectOnExit = true, returnCondition = ReturnCondition.ALWAYS)
     public static ITextComponent getName(BossInfo bossInfo, @Hook.ReturnValue ITextComponent returnValue) {
-        System.out.println(returnValue);
         BossBarEvent event = new BossBarEvent(returnValue);
         MinecraftForge.EVENT_BUS.post(event);
         return event.getName();
