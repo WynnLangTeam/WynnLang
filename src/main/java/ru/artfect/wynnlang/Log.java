@@ -25,7 +25,7 @@ import java.util.concurrent.TimeUnit;
 
 public class Log {
     public static boolean enabled = true;
-    private static final String LOG_PATH = Minecraft.getMinecraft().mcDataDir + "/config/WynnLang/Logs/";
+    private static final String LOG_PATH = Minecraft.getMinecraft().gameDir + "/config/WynnLang/Logs/";
 
     private static Map<Class<? extends TranslateType>, List<String>> oldStr = new HashMap<>();
     private static Map<Class<? extends TranslateType>, List<String>> newStr = new HashMap<>();
