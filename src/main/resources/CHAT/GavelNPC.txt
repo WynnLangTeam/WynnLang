@@ -68,6 +68,17 @@
 §7[3/5] §2Camar: §aNow, these here golems walking the Cinfras Plains are ancient, but the big guy makes them look like newborns. That one is at least one millennia old!@§7[3/5] §2Камар: §aГолемы, гуляющие по равнинам Цинфраса, очень древние, но тот большой парень делает их похожими на младенцев. Этому по меньшей мере одно тысячелетие!
 §7[4/5] §2Camar: §aHe's made out of metal that not even the dwarves recognize and covered in runes not even the elves can decipher.@§7[4/5] §2Камар: §aОн сделан из металла, который даже гномы не знают, и покрыт рунами, которые даже эльфы не могут расшифровать.
 §7[5/5] §2Camar: §aIf I were you, I'd admire it from afar, like me. I've seen the thing tear bandits into bits without hesitation!@§7[5/5] §2Камар: §aНа твоем месте я бы восхищался им издалека, как и я. Я видел, как эта тварь без колебаний разорвала бандитов на куски!
+§7[1/4] §2Cinfras Citizen: §aHmph. Another adventurer from Wynn, I see? Have you taken a great look at the statue of our... "great" hero?@§7[1/4] §2Житель Цинфраса: §aХм. Еще один искатель приключений из Винн, я вижу? Ты хорошо посмотрел на нашу статую?... "великого" героя?
+§7[2/4] §2Cinfras Citizen: §aAwful, isn't it? Of course it is, you fool! Does anyone ever realize the travesty that statue brings to us!?@§7[2/4] §2Житель Цинфраса: §aУжасна, не так ли? Конечно это так, ты дурак! Кто-нибудь когда-нибудь осознает те издевательства, которые эта статуя приносит нам!?
+§7[3/4] §2Cinfras Citizen: §aEveryone I know is downright obsessed with him! Donating emeralds... and even praying for him?@§7[3/4] §2Житель Цинфраса: §aВсе, кого я знаю, просто одержимы ей! Дарят эмеральды... и даже молятся ему?
+§7[4/4] §2Cinfras Citizen: §aWho even is this... Siegfried? Thinking he's greater than the §a§otrue §afounder of our nation!? Pah! I spit on his statue!@§7[4/4] §2Житель Цинфраса: §aКто он вообще такой этот... Зигфрид? Думает, что он лучше, чем истинный §a§oоснователь§a нашей нации!? Тьфу! Я плюю на его статую!
+§7[1/1] §2Juggler: §aA'ight, let's go.@§7[1/1] §2Трюкач: §aХорошо, погнали.
+§7[1/1] §2Juggler: §aThe best part about my job is when I get to throw people away!@§7[1/1] §2Трюкач: §aСамое лучшее в моей работе - это когда я выбрасываю людей!
+§7[1/1] §2Juggler: §aBuckle up, it's juggle time. §a§oWoo§a!@§7[1/1] §2Трюкач: §aПристегнись, пора трюкачить. §a§oВуху§a!
+§7[1/1] §2Juggler: §aReady? Well, that doesn't matter, here I go.@§7[1/1] §2Трюкач: §aГотов? Ну, уже плевать, я лечу.
+§7[1/1] §2Juggler: §a...Oh§a, right. Good luck!@§7[1/1] §2Трюкач: §a...Ох, верно. Удачи!
+§7[1/1] §2Juggler: §aWell SORRY to bother you, but the guys over there are NOT a charity. Unfortunately.@§7[1/1] §2Трюкач: §aНу, ИЗВИНИ что беспокою, но ребята там НЕ занимаются благотворительностью. К сожалению.
+§7[1/1] §2Box: §aThank you for your donation to Siegfried!@§7[1/1] §2Коробка: §aСпасибо за ваш донат Зигфриду!
 
 ######################################LLEVIGAR####################################
 §7[1/2] §2Llevigar Citizen: §aThe power plant is having problems. If that thing explodes, it'll take the whole city with it!@§7[1/2] §2Житель Ллевигара: §aНа электростанции возникли проблемы. Если эта штука взорвется, то разнесет весь город!
@@ -116,7 +127,7 @@
 §7[5/6] §2Ahmsord Citizen: §aHe had killed them all before they could even deal a blow to him. He even had time to pose for a picture.@§7[5/6] §2Житель Амсорда: §aОн убил их всех прежде, чем они смогли нанести ему удар. Он даже успел попозировать для картины.
 §7[6/6] §2Ahmsord Citizen: §aThat story sounds amazing, Siegfried must be as legendary as they say. I wish I could have been there to see it.@§7[6/6] §2Житель Амсорда: §aЭта история звучит потрясающе, Зигфрид должно быть такой же легендарный, как о нем говорят. Хотел бы я на него посмотреть.
 §7[1/3] §2Ahmsord Citizen: §aDo you know about Wybels, those cute little fluffy creatures?@§7[1/3] §2Житель Амсорда: §aЗнаешь ли ты о Вубелах, этих милых маленьких пушистых существах?
-§7[2/3] §2Ahmsord Citizen: §aThey §ajust...appeared§a one day, and now a lot of people have them as pets, myself included!@§7[2/3] §2Житель Амсорда: §aОни просто появились в один прекрасный день, и теперь многие люди держат их в качестве домашних животных, включая меня!
+§7[2/3] §2Ahmsord Citizen: §aThey just... appeared one day, and now a lot of people have them as pets, myself included!@§7[2/3] §2Житель Амсорда: §aОни просто появились в один прекрасный день, и теперь многие люди держат их в качестве домашних животных, включая меня!
 §7[3/3] §2Ahmsord Citizen: §aThere's an entire island filled with wild Wybels on the lower level of the skylands. It's rather tricky to get to, though.@§7[3/3] §2Житель Амсорда: §aНа нижнем уровне летающих островов есть целый остров, наполненный дикими Вубелами. Хотя, туда немного сложно добраться.
 §7[1/6] §2Ahmsord Citizen: §aYou see this scorched patch of land here? There's an incredible tale behind it.@§7[1/6] §2Житель Амсорда: §aВидишь этот выжженный участок земли? За ним стоит невероятная история.
 §7[2/6] §2Ahmsord Citizen: §aOne day, on what seemed to be a peaceful day, a dragon came and attacked our city of Ahmsord!@§7[2/6] §2Житель Амсорда: §aОднажды, в один из мирных дней, прилетел дракон и напал на наш город Амсорд!
@@ -243,8 +254,8 @@
 
 #####################################KANDON-BEDA#####################################
 §7[1/3] §2Kandon-Beda Citizen: §aI'm curious about the statue on the other side of the cliff this town is built into.@§7[1/3] §2Житель Кандон-Бэда: §aМне любопытна статуя на другой стороне скалы, в которую встроен этот город.
-§7[2/3] §2Kandon-Beda Citizen: §aIt's absolutely colossal! There seems to be an entrance to something beneath its feet, but it just leads to a dead end.@§7[2/3] §2Житель Кандон-Бэда: §aОна совершенно колоссальная! Кажется, что там даже есть вход куда-то под ногами, но он просто приводит к тупику.
-§7[3/3] §2Kandon-Beda Citizen: §aPerhaps one day the entrance will open up, and we'll be able to see what's inside.@§7[3/3] §2Житель Кандон-Бэда: §aВозможно однажды вход откроется, и мы сможем увидеть, что внутри.
+§7[2/3] §2Kandon-Beda Citizen: §aIt's absolutely colossal! There seems to be an entrance to something beneath its feet, but I'm too scared to enter it.@§7[2/3] §2Житель Кандон-Бэда: §aОна совершенно колоссальная! Кажется, что там даже есть вход куда-то под ногами, но я слишком боюсь войти туда.
+§7[3/3] §2Kandon-Beda Citizen: §aPerhaps one day I'll be able to see what's inside.@§7[3/3] §2Житель Кандон-Бэда: §aВозможно однажды я смогу увидеть, что там внутри.
 §7[1/2] §2Hot Air Balloon Captain: §aHello, just climb aboard and I'll take you to Kandon-Beda in Gavel!@§7[1/2] §2Капитан Дирижабля: §aПривет, просто поднимайся на борт, и я отвезу тебя в Кандон-Бэда, в провинцию Гавел!
 §7[2/2] §2Hot Air Balloon Captain: §aWe want to open up international travel!@§7[2/2] §2Капитан Дирижабля: §aМы хотим открыть международные перелеты!
 §7[1/1] §2Hot Air Balloon Captain: §aAlrighty, we are almost in Gavel, hold tight.@§7[1/1] §2Капитан Дирижабля: §aЧудно, мы почти в Гавеле, держись крепче.
@@ -331,3 +342,7 @@
 §7[1/2] §2Irahe: §aOh, hello. I finally got a few words out of that old Referick fellow earlier.@§7[1/2] §2Ирахе: §aОх, привет. Я наконец-то услышала несколько слов от того старика Реферика.
 §7[2/2] §2Irahe: §aI saw you going in and out of his house a few times, did you happen to help him?@§7[2/2] §2Ирахе: §aЯ видела, как ты входил и выходил из его дома несколько раз, ты случайно не помогал ему?
 §7[1/1] §2???: §aHey, don't go through there yet! I have something important to tell you first.@§7[1/1] §2???: §aЭй, не ходи туда пока! Сначала я должен сказать тебе кое-что важное.
+§7[1/4] §2Frustrated Citizen: §aOh, come §a§lon§a! I can't believe I-@§7[1/4] §2Растроенный Житель: §aДа ладно тебе! Не могу поверить, что я-
+§7[2/4] §2Frustrated Citizen: §aAnd who are you supposed to be? Some kind of guard? Well, §a§oguard§a, do your guard things!!@§7[2/4] §2Растроенный Житель: §aИ кем ты должен быть? Каким-то охранником? Ну, §a§oохранник§a, делай свои охранные дела!!
+§7[3/4] §2Frustrated Citizen: §aWhat am I talking about? What do you §a§omean§a, what am I talking about? I just got scammed!! By the guy in that stall behind me!@§7[3/4] §2Растроенный Житель: §aО чем я говорю? Что ты имеешь в виду, о чем я говорю? Меня только что обманули!! Клянусь парнем в палатке позади меня!
+§7[4/4] §2Frustrated Citizen: §aAnd apparently nobody cares! He's selling absolutely defective products, and nobody seems to mind or care!! I hate this city, I hate the guards, and I especially hate §a§oyou§a!!!@§7[4/4] §2Растроенный Житель: §aИ, судя по всему, это никого не волнует! Он продает абсолютно некачественную продукцию, и никто, кажется, не возражает и всем плевать!! Я ненавижу этот город, ненавижу стражу и особенно ненавижу §a§oтебя§a!!!

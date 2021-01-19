@@ -140,3 +140,9 @@
 §eVoid Valley@§eДолина Пустоты
 §eDark Obelisk@§eТемный Обелиск
 §ePortal to Dern@§eПортал в Дерн
+§eNest of the Grootslangs@§eГнездо Грутслангов
+§eBottomless Pit@§eБездонная Яма
+§eMonument to Siegfried@§eМонумент Зигфрида
+§eThe Canyon Colossus@§eКолосс Каньона
+§eThe Gateway to Light@§eВорота к Свету
+§eOrphion's Nexus of Light@§eНексус Орфиона

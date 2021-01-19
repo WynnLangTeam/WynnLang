@@ -1,6 +1,6 @@
 §7[1/1] §2Troms Mage: §aStay back! I'm casting a fireball at this barrier!@§7[1/1] §2Маг Тромса: §aОтойди! Я использую огненный шар на этом барьере!
 §7[1/8] §2Troms Mage: §aGah, no use. Again.@§7[1/8] §2Маг Тромса: §aБлин, бесполезно. Снова.
-§7[2/8] §2Troms Mage: §aAh, I didn’t expect to see a Ragni soldier out here. Perhaps you can assist me?@§7[2/8] §2Маг Тромса: §aАх, не ожидала увидеть здесь солдата из Ragni. Возможно, ты сможешь помочь мне.
+§7[2/8] §2Troms Mage: §aAh, I didn’t expect to see a Ragni soldier out here. Perhaps you can assist me?@§7[2/8] §2Маг Тромса: §aАх, не ожидала увидеть здесь солдата из Рагни. Возможно, ты сможешь помочь мне.
 §7[3/8] §2Troms Mage: §aThis is the second cave in the jungle to start spewing out aggressive slimes.@§7[3/8] §2Маг Тромса: §aЭто уже вторая пещера в джунглях, которая начала извергать из себя агрессивных слаймов.
 §7[4/8] §2Troms Mage: §aBeing so close to Troms, it’s become a major problem.@§7[4/8] §2Маг Тромса: §aИ поскольку она близка к Тромсу, то это становится большой проблемой.
 §7[5/8] §2Troms Mage: §aWe tried to attack it, but this barrier is shaman magic, horrendously powerful too. The only way it could be this strong is if many lives were taken to make it...@§7[5/8] §2Маг Тромса: §aМы пытались напасть на нее, но этот барьер - шаманская магия, к тому же чудовищно мощная. Она может быть такой сильной только в том случае, если на ее создание ушло много жизней...

@@ -127,3 +127,4 @@
 §b§lA Deathly WarningÀ@§b§lСмертельное ПредупреждениеÀ
 §b§lThe Lone TelescopeÀ@§b§lОдинокий ТелескопÀ
 §b§lA Wynnic ExcavationÀ@§b§lВинник РаскопкиÀ
+§b§lFar From the RootsÀ@§b§lДалеко от Корней

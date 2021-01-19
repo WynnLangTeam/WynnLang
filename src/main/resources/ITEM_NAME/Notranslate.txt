@@ -761,7 +761,6 @@ Ragni Fatigues@
 §bBlue MaskÀ@ 
 §bEtherealÀ@ 
 §dHorseshoeÀ@ 
-§fSlime Glob@ 
 §dGert Shakestomper ToefeetÀ@ 
 §dLetumÀ@ 
 Boots of the Sorcerer@ 

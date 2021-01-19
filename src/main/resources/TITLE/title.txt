@@ -127,6 +127,53 @@
 §c30 seconds left!@§c30 секунд осталось!
 §c20 seconds left!@§c20 секунд осталось!
 §c10 seconds left!@§c10 секунд осталось!
+§f2 minutes remain@§f2 минуты осталось
+§4§lSiegfried Has Died@§4§lЗигфрид погиб
+§c§oYou'll have to continue alone.@§c§oТебе нужно продолжать одному.
+§7Travelling...@§7Путешествуем...
+§eChief's Suspicion@§eПодозрение Шефа
+§7Try Again...@§7Попробуй снова...
+§eThe cave is collapsing!@§eПещера рушится!
+§4! §cRUN §4!@§4! §cБЕГИ §4!
+§7[§cSurvive!§7]@§7[§cВыживи!§7]
+§2Olux Secret Room@§2Секретная Комната Олукса
+§aMeeting in progress...@§aВстреча в процессе...
+§4You failed@§4Ты не справился
+§cTry again!@§cПопробуй еще раз!
+§7[1/1] §2???: §aYou have proven yourself worthy of the Root.@§7[1/1] §2???: §aТы доказал, что достоин Корня.
+§aThe Taproot@§aСтержневой Корень
+§70AP@§70ПП (После Портала)
+§710AP@§710ПП
+§790AP@§790ПП
+§7780AP@§780ПП
+§7200 AP@§200ПП
+§7800 AP@§800ПП
+§7820 AP@§820ПП
+Earlier...@Ранее...
+§aLari's Camp@§aЛагерь Лари
+§7Outrun the explosions to succeed!@§7Сбеги от взрыва, чтобы спастись!
+§5The Lazarus Pit@§5Лазарус Яма
+§dWater of Vitality@§dЖизнеспособная Вода
+§6§kLari@ 
+§e§kServant of Light@ 
+§6Lari@§6Лари
+§eServant of Light@§eСлуга Света
+§aLet me show you our reality, human.@§aПозволь мне показать тебе нашу реальность, человек.
+§aThis is our world, the physical plane.@§aЭто наш мир, в физическом плане.
+§aThe majority of the people here only knows of this world.@§aБольшинство людей здесь знают только об этом мире.
+§aHowever...@§aОднако...
+§dThe Plane of Influence@§dЭто Сферы Влияния.
+§aThe realms of influence are connected to our world.@§aЦарства влияния связаны с нашим миром.
+§aThese realms are in constant battle with each other.@§aЭти царства находятся в постоянной борьбе друг с другом.
+§aWhat happens in one realm, affects the corresponding one.@§aТо, что происходит в одном царстве, влияет на другое.
+§aThe Realms of Influence have a Beast in charge of keeping balance.@§aВ царствах влияния есть зверь, отвечающий за поддержание равновесия.
+§aAnd right now... The Light Beast Orphion is losing the battle.@§aИ прямо сейчас... Зверь Света Орфион проигрывает битву.
+§aLight has been infected.@§aСвет был инфицирован.
+§aThe Decay is the result of light fading.@§aЗаражение является результатом угасания Царства Света.
+§aThis is where we need you. You need to enter the Realm of Light.@§aВот здесь ты нам нужен. Тебе нужно войти в Царство Света.
+§aDarkness is winning, the Dern Beast will soon devour all light.@§aТьма побеждает, Зверь Дерна скоро поглотит весь свет.
+§cCancelled.@§cОтмененно.
+§e§lThe Realm of Light@§e§lЦарство Света
 
 ###########################Crates################################
 §7Click to stop the items@§7Кликни, чтобы остановить предметы
@@ -269,6 +316,7 @@
 §cThe server you were previously on went down, you have been connected to a fallback server@§cСервер, на котором ты был ранее, вышел из строя, ты был подключен к резервному серверу
 The server is full!@Сервер заполнен!
 You're rejoining too quickly! Give us a moment to save your data.@Ты слишком быстро перезаходишь! Дай нам время, чтобы сохранить твои данные.
+§eYou're rejoining too quickly! Give us a moment to save your data.@§eТы слишком быстро перезаходишь! Дай нам время, чтобы сохранить твои данные.
 §3The duel is over@§3Дуэль закончена
 [Proxy] Lost connection to server.@[Прокси] потеряно соединение с сервером.
 Flying is not enabled on this server@Нельзя летать на сервере
@@ -284,6 +332,8 @@ Server closed@Сервер закрыт
 §cHunted Disabled (PvP off)@§cОхотник Выключен (ПвП выкл)
 We are §arestarting§f, please join back in a moment!@§fМы §aперезагружаемся§f. Пожалуйста, присоединяйтесь к нам через минуту!
 §dYou have logged in somewhere else@§dТы залогинен где-то еще
+§dEdit mode enabled@§dРежим редактирования включен
+§dType §f/housing edit§d to switch back@§dНапиши §f/housing edit§d для переключения обратно
 
 #########################Spells###############################
 §aL§7-§aL§7-§7§n?@§aЛ§7-§aЛ§7-§7§n?
@@ -344,6 +394,7 @@ We are §arestarting§f, please join back in a moment!@§fМы §aперезаг
 §fRagni@§fРагни
 §7§nMusic to our ears@§7§nМузыка для наших ушей
 §3§lComposer's §bHall@§b§lЗал §3Композиторов 
+§7Wynn Plains: [1/1]@§7Равнины Винн: [1/1]
 
 #############################Discoveries#########################
 §bTemple of Swords@§bХрам Мечей
@@ -393,6 +444,7 @@ We are §arestarting§f, please join back in a moment!@§fМы §aперезаг
 §bOtherworldly Occurrence@§bПотустороннее Явление
 §bFate of the Olm@§bСудьба Олмов
 §bSilent Expanse's Secret@§bСекрет Тихого Пространства
+§bFar From the Roots@§bДалеко от Корней
 
 ################################Dungeons#############################
 §8Decrepit Sewers@§8Ветхая Канализация
@@ -415,7 +467,7 @@ We are §arestarting§f, please join back in a moment!@§fМы §aперезаг
 §4Corrupted Witherhead@§4Испорченный Визерхед
 §6Lost Sanctuary@§6Затерянное Святилище
 §9Galleon's Graveyard@§9Кладбище Галеона
-§4Redbeard@§4Редберд
+§4Redbeard@§4Рыжая Борода
 §4Garoth@§4Гарот
 §4§lCorrupted §cInfested Pit@§4§lИспорченная §cЗараженная Яма
 §4Corrupted Arakadicus@§4Испорченная Аракадикус
@@ -533,6 +585,16 @@ We are §arestarting§f, please join back in a moment!@§fМы §aперезаг
 §a§lCHECKPOINT!@§a§lЧЕКПОИНТ!
 §a§lCKPO@§a§lЕКПО
 §a§lKP@§a§lКП
+§d§lK@§d§lК
+§d§lCKP@§d§lЕК
+§d§lECKP@§d§lЕКП
+§d§lECKPO@§d§lЕКПО
+§d§lECKPOI@§d§lЕКПОИН
+§d§lHECKPOI@§d§lЕКПОИНТ
+§d§lHECKPOIN@§d§lЧЕКПОИН
+§d§lHECKPOINT@§d§lЧЕКПОИНТ
+§d§lCHECKPOINT@§d§lЧЕКПОИНТ
+§d§lCHECKPOINT!@§d§lЧЕКПОИНТ!
 §7Survive the waves!@§7Переживи волны!
 §8§k§lW@§8§k§lN
 §8§k§lWAT@§8§k§lABL
@@ -555,6 +617,7 @@ We are §arestarting§f, please join back in a moment!@§fМы §aперезаг
 §4Robob's Reinvention@ 
 §4Orange Cybel@ 
 §4Doctor Legendary@ 
+§3Miniboss Defeated@§3Минибосс Побежден
 
 ######################Entering/Leaving##################################
 §7[You are now entering PirateÀÀÀCove]@§7[Ты входишь в Пиратскую Бухту]
@@ -675,3 +738,29 @@ We are §arestarting§f, please join back in a moment!@§fМы §aперезаг
 §7[You are now entering CorruptedÀÀÀUndergrowthÀÀÀRuinsÀÀÀEntrance]@§7[Ты входишь в Испорченные Заросшие Руины]
 §7[You are now leaving CorruptedÀÀÀUndergrowthÀÀÀRuinsÀÀÀEntrance]@§7[Ты покидаешь Испорченные Заросшие Руины]
 §7[You are now entering the Update Room]@§7[Ты входишь в Апдейт Комнату]
+
+############################RAIDS############################
+§b§lSurvive §7§lfor@§b§lВыживи §7§lдля
+§3§kThe Canyon Colossus@ 
+§b§kWhen the earth begins to shatter...@ 
+§3The Canyon Colossus@§3Колосс Каньона
+§bWhen the earth begins to shatter...@§bКогда земля начнет раскалываться...
+§7[Challenge complete]@§7[Челлендж пройден]
+§7[Challenge Complete]@§7[Челлендж пройден]
+§3The Colossus@§3Колосс
+§bThe Broken Protector@§bСокрушенный Защитник
+§8§kThe defense system@ 
+§7§khas been enabled@ 
+§8The defense system@§8Системы защиты
+§7has been enabled@§7были активированы
+§4§k! SYSTEM FAILURE !@ 
+§8§kTHE DEFENSE SYSTEM HAS FAILED@ 
+§4! SYSTEM FAILURE !!@§4! СБОЙ СИСТЕМЫ !!
+§4! SYSTEM FAILURE !@§4! СБОЙ СИСТЕМЫ !
+§8THE DEFENSE SYSTEM HAS FAILED@§8СИСТЕМА ЗАЩИТЫ ВЫШЛА ИЗ СТРОЯ
+§4Raid Failed!@§4Рейд провален!
+§cToo many players have died...@§cСлишком много игроков умерло...
+§8[UpperÀÀÀPlatform]@§8[Верхняя Платформа]
+§c§lRed@§c§lКрасный
+§3§lCyan@§3§lГолубой
+§a§lLight Green@§a§lСветло-Зеленый

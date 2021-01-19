@@ -20,6 +20,7 @@ What would you like to reveal?@Что ты хочешь раскрыть?
 What would you like to buy?@Что ты хочешь купить?
 Blacksmith@Кузнец
 Daily Rewards@Ежедневная Награда
+Wynncraft Servers@Wynncraft Сервера
 Wynncraft Servers: Page 1@Wynncraft Сервера: 1 Страница
 Wynncraft Servers: Page 2@Wynncraft Сервера: 2 Страница
 §8§lEdit a Class@§8§lРедактирование Класса
@@ -50,6 +51,17 @@ Crafting Table@Верстак
 Buy a new pet@Покупка нового питомца
 Brewing Stand@Стойка Зельеварения
 §0§lBase Colour@§0§lБазовый Цвет
+Mastery Tomes@Мастерские Тома
+Go to house@Перейти в дом
+Block Shop@Магазин Блоков
+Decoration Type Blocks@Декоративные Типы Блоков
+NPC Type Blocks@НПС Типы Блоков
+Stone Type Blocks@Каменные Типы Блоков
+Wood Type Blocks@Деревянные Типы Блоков
+Cinfras Entrance@Вход в Цинфрас
+Cinfras Entrance: Guild Tower@Вход в Цинфрас: Башня Гильдии
+Create Guild@Создание Гильдии
+
 
 ###############################PROFESSIONS#############################
 Fish Refinery@Переработка Рыбы
@@ -169,3 +181,5 @@ Armor Shop@Магазин Брони
 Cookie Shop@Магазин Печенья
 Boat Shop@Магазин Лодок
 Miner Pass Shop@Магазин Пропусков
+Siegfried Fan Shop@Магазин Сувениров Зигфрида
+Merchant Booth@Торговая Палатка

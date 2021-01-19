@@ -1,0 +1,13 @@
+
+
+§7[1/10] §2Nodise: §aOh, greetings. I seldom see humans around these parts.@§7[1/10] §2Нодис: §aОх, приветствую. Я редко вижу людей в этих краях.
+§7[2/10] §2Nodise: §aI'm from Corkus. You ought to have heard of it at one point.@§7[2/10] §2Нодис: §aЯ из Коркуса. Когда-то ты должен был слышать об этом месте.
+§7[3/10] §2Sybil: §aOf course they've heard of it, like, come on!@§7[3/10] §2Сибил: §aКонечно, он слышал об этом, ну брось!
+§7[4/10] §2Nodise: §aWe are part of the Council. Maybe we'll meet there someday.@§7[4/10] §2Нодис: §aМы - часть Совета. Может быть, когда-нибудь мы там встретимся.
+§7[5/10] §2Nodise: §aSo, what brings you here? I'm personally researching about the region.@§7[5/10] §2Нодис: §aИтак, что привело тебя сюда? Я лично изучаю этот регион.
+§7[6/10] §2Sybil: §aAnd I'm starting to get bored to death!@§7[6/10] §2Сибил: §aИ я начинаю умирать от скуки!
+§7[7/10] §2Nodise: §a*sigh* You seem to be a soldier of sorts. From Wynn, right? I've never been there.@§7[7/10] §2Нодис: §a*вздыхает* ты кажется в некотором роде солдат. Из провинции Винн, верно? Я там никогда не была.
+§7[8/10] §2Sybil: §aUh, Nodise? There's a literal WAR over there? Of course we've never been there?!@§7[8/10] §2Сибил: §aУх, Нодис? Там идет настоящая ВОЙНА? Конечно, мы там никогда не были?!
+§7[9/10] §2Nodise: §aYou know, Sybil, sometimes you just have to go and take a leap of faith.@§7[9/10] §2Нодис: §aЗнаешь, Сибил, иногда нужно просто пойти и сделать решительный шаг.
+§7[10/10] §2Nodise: §aHey, soldier, no point bothering you any longer. I have some research to do.@§7[10/10] §2Нодис: §aЭй, солдат, не будем больше тебя беспокоить. Мне нужно кое-что выяснить.
+§7[1/1] §2Sybil: §aYou think I can't go to Wynn?! Well, maybe I'll go alone!@§7[1/1] §2Сибил: §aТы думаешь, я не могу приехать в Винн?! Что ж, может быть, я пойду одна!

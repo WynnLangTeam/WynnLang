@@ -10,6 +10,9 @@
 §7Go to the storage area that contains the passport, and find a way in@§7Иди в хранилище с паспортами, и найди путь внутрь
 §7Sneak around the guards in the darkness, and find a way into the vault@§7Спрячься от охранников в темноте, и найди способ попасть в хранилище
 §7Return to Doan with the [Dusty Passport]@§7Вернись к Доану с [Пыльным Паспортом]
+======A_Headless_History 
+§7Talk to Hans in the Gelibord outskirts at [-1096,42,-5384]@§7Поговори с Гансом в округе Гелиборда на [-1096,42,-5384]
+§7Keep exploring the castle.@§7Продолжай исследовать замок.
 =====A_Journey_Beyond 
 §7Join Elphaba on a mission in Detlas at [419, 67, -1533].@§7Присоединись к Эльфабе на миссию в Детласе [419, 67, -1533]
 §7Meet the other soldiers at [730, 61, -1434].@§7Встреть других солдат на [730, 61, -1434]
@@ -68,15 +71,7 @@
 §7Metal. Life. A new place... One is not sacrificed for another. Always distrusting. Tension, as the clockworks chime.@§7Металл. Жизнь. Новое место... Одно не приносится в жертву другому. Всегда недоверчивы. Напряжение, как перезвон часовых механизмов. 
 §7Return to the entity.@§7Вернись к сущности 
 =====Aldorei%27s_Secret_Part_I 
-§7Speak to Elrund outside Aldorei Valley at [-670,97,-4444]@§7Поговори с Элрундом снаружи Долины Алдорей на [-670,97,-4444]
-§7Obtain [Gemstone Dust] from the Wynn province and bring it to Elrund (Requires completion of Lost in the Jungle)@§7Добудь [Пыль драгоценного камня] из провинции Винн и принеси ее Элрунду (Необходимо пройти Lost in the Jungle)
-§7Talk to the residents of Aldorei Valley and search for clues@§7Поговори с жителями Долины Алдорей и найди улики
-§7Eavesdrop on the mysterious society@§7Подслушай загадочное общество
-§7Speak to the mysterious society@§7Поговори с загадочным обществом
-§7Leave the society's lair@§7Покинь логово общества
-§7Return to Elrund@§7Вернись к Элрунду
-§7"To the east, eat only 3 bites from a treat of flour, then align the red with the flower."@§7"На востоке, сделай только 3 укуса лакомства из муки, затем совмести красное с цветком напротив"
-§7Give the [Sunblight Boots] to Kansard or Corak@§7Отдай [Солнечные Ботинки] Канзарду или Кораку
+§7Talk to the Elf Guard at [-461, 132, -4459]@§7Поговори с Эльфом Защитником на [-461, 132, -4459]
 =====Aldorei%27s_Secret_Part_II 
 §7Speak to Legolus at [-139,92,-4445] (Requires completion of Part I)@§7Поговори с Леголусом на [-139,92,-4445] (Необходимо пройти Часть I) 
 §7Find a way into Soway's house, to the south of Legolus@§7Найди путь в дом Совэй, на юге от Леголуса 
@@ -185,7 +180,7 @@
 §7Defeat the Cockatrice at [1381,108,-1347] and collect an egg for Svin@§7Победи Cockatrice на [1381,108,-1347] и принеси яйцо для Свина 
 ======Clearing_the_Camps 
 §7Talk to Captain Kymer in Llevigar at [-2008,33,-4605]@§7Поговори с Капитаном Каймером в Ллевигарe на [-2008,33,-4605]
-§7Find and Kill Chieftans Dolg, Visbe, and Elak in the camps around Llevigar@§7Найди и убей главарей орков Долга, Висбе и Элака в лагерях вокруг Ллевигара 
+§7Find and kill Orc Chieftains Elisu, Veltu, and Ceifko in the camps around Llevigar- look for green flags@§7Найди и убей главарей орков Элису, Велту и Цейфко в лагерях вокруг Ллевигара, ищя зеленые флаги
 ======Cluck_Cluck  
 §7Talk to Nohno on Rooster Island at [-83,45,-2497]@§7Поговори с Нохно на Рустер Острове [-83,45,-2497]
 §7Bring back [1 Cluckles' Favourite Feather] to Nohno@§7Принеси [1 Любимое перо Клаклесa] Нохно
@@ -348,8 +343,8 @@
 §7Exit the Xìngzhì cave through the tunnel near the temple@§7Выйди из Xingzhi пещеры через тоннель рядом с храмом 
 §7Speak to Sensei Miyagi@§7Поговори с Сэнсей Мияги
 ======Enzan%27s_Brother 
-§7Talk to Enzan close to the exit of Ragni at [-772,67,-1572]@§7Поговори с Энзаном у выхода из Рагни на [-772,67,-1572]
-§7Find Enzan's brother near Nivla Forest@§7Найди брата Энзанa рядом с Лесом Нивла 
+§7Find Enzan's brother near the Item Identifier on the Emerald Trail at [-536,67,-1589]@§7Найди брата Энзана рядом с Идентификатором Предметов на Эмеральдном Пути [-536,67,-1589]
+§7Descend into the cave at [-538,67,-1586] and bring [1 Energy Mushroom] to Therck@§7Спустись в пещеру на [-538,67,-1586] и принеси [1 Энергетический Гриб] Терку
 ======Eye_of_the_Storm 
 §7Talk to Arwes in the ruined cathedral at [-683,45,-5347]@§7Поговори с Арвесом в разрушенном соборе на [-683,45,-5347]
 §7Search the ruins at [-714,43,-5385] to find the cultists@§7Обыщи руины на [-714,43,-5385] и найди культистов 
@@ -416,29 +411,10 @@
 §7Protect the portal.@§7Защити портал 
 §7Tell Telvu the mage what happened.@§7Расскажи магу Телву что произошло 
 ======Finding_The_Light 
-§7Talk to the Guardian of The Forest in the Light Forest at [-1128,49,-4778] (Requires completion of Taproot)@§7Поговори с Хранителем Леса в Светлом Лесу на [-1128,49,-4778] (Необходимо пройти квест Taproot)
-§7Return to the Guardian to seek guidance at [-1130,49,-4781]@§7Вернись к Хранителю для дальнейших указаний [-1130,49,-4781]
-§7Find someone in Cinfras who can help you SEE@§7Найди кого-то в Цинфрасе, кто поможет тебе УВИДЕТЬ 
-§7Talk to Ollie at [-430,46,-4855]@§7Поговори с Олли на [-430,46,-4855]
-§7Get an Eye Exam@§7Пройди проверку зрения 
-§7Talk to Charlie outside of Ollie's Optometry at [-449,46,-4840]@§7Поговори с Чарли снаружи Оптометрии Олли на [-449,46,-4840]
-§7Read Jack's run away letter in Charlie's house at [-491,54,-4989]@§7Прочитай прощальное письмо Джека в доме Чарли на [-491,54,-4989]
-§7Talk to Jack at [-448,33,-5092]@§7Поговори с Джеком на [-448,33,-5092]
-§7Find Damien near Kander Forest at [-504,43,-5181]@§7Найди Дамиена около Кандер Леса [-504,43,-5181]
-§7Talk to the Apothecary about getting medicine at house 19 in Cinfras at [-431,46,-4993]@§7Поговори с Аптекарем насчет лекарств в доме №19 в Цинфрасе на [-431,46,-4993]
-§7Break into Sasha's basement@§7Проникни в подвал Саша 
-§7Find the Arch in the Light Forest at [-1038,44,-4447]@§7Найди Арку в Светлом Лесу на [-1038,44,-4447]
-§7Talk to Sasha about her debt@§7Поговори с Саша насчет ее долга
-§7Find Gardener in The Cinfras Gardens at [-391,45,-4917]@§7Найди Садовника в саду Цинфраса на [-391,45,-4917]
-§7Search the Gardener's cart for evidence of his lies at [-376,50,-4937]@§7Обыщи повозку Садовника и найди доказательства его лжи на [-376,50,-4937]
-§7Threaten The Gardener with his receipt at [-391,45,-4917]@§7Угрожай Садовнику с его распиской на [-391,45,-4917]
-§7Talk to Sasha the Apothacary and get the medicine at [-431,46,-4993]@§7Поговори с Саша Аптекарем и получи лекарства на [-431,46,-4993]
-§7Give the medicine to Damien [-504,43,-5181]@§7Отдай лекарства Дамиену [-504,43,-5181]
-§7Tell Charlie his son Jack is okay at [-444 47 -4841]@§7Скажи Чарли, что его сын Джек впорядке [-444, 47, -4841]
-§7Return to Ollie in Cinfras at [-430,47,-4854]@§7Вернись к Олли в Цинфрасе на [-430,47,-4854]
-§7Return to the Guardian of The Forest in the Light Forest with the helmet at [-1128,49,-4778] @§7Вернись к Хранителю Леса в Светлом Лесу вместе со шлемом [-1128,49,-4778]
-§7Head back to the Arch at [-1038,44,-4447] @§7Вернись к Арке на [-1038,44,-4447]
-§7Enter The Light Realm@§7Войди в Царство Света 
+§7Find Lari in the Light Forest at [-1123,46,-4771].@§7Найди Лари в Светлом Лесу на [-1123,46,-4771].
+§7Explore the secret library and find a way to wake up the tree.@§7Исследуй секретную библиотеку и найди способ разбудить дерево.
+§7Return to Lari at [-1123,46,-4771]@§7Вернись к Лари на [-1123,46,-4771]
+§7Find the Church Library in the city of Cinfras at [-506,47,-4939].@§7Найди церковную библиотеку в Цинфрасе на [-506,47,-4939].
 ======Flight_in_Distress 
 §7Speak to the Passenger Controllant at [-172,108,-4946]@§7Поговори с Контроллером на [-172,108,-4946]
 §7Enter the airship@§7Войди на дирижабль
@@ -466,6 +442,8 @@
 §7Solve the puzzle@§7Пройди пазл
 §7Run through the door in the center of the room@§7Пройди через дверь в центре комнаты
 §7Escape@§7Сбеги
+++++
+§7Talk to the Merchant at [-963,47,-5280]@§7Поговори с Торговцем на [-963,47,-5280]
 ========From_the_Bottom  
 §7Find someone in Thanos who wants to buy [10 Troll Hair]@§7Найди кого-то в Таносе кто хочет купить [10 Troll Hair]
 §7Find someone in Thanos who wants to buy your [Unusual Egg]@§7Найди кого-то в Таносе кто хочет купить твое [Необычное Яйцо] 
@@ -608,17 +586,8 @@
 §7Get the sceptre from the abandoned house at [1220, 77, -1873]@§7Достань скипетр из разрушенного дома на [1220, 77, -1873]
 §7Return to the tomb and hand the sceptre to Lanu.@§7Вернись к гробнице и передай скипетр Лану
 =======Lazarus_Pit  
-§7Talk to Burtur at [-980,45,-5305]@§7Поговори с Буртуром на [-980,45,-5305]
-§7Take a look at the graveyard at [-998,48,-5340]@§7Посмотри на могилу на [-998,48,-5340]
-§7Go to the location shown on the gravestone@§7Иди по координатам указанным на надгробной плите
-§7Find a way into the basement@§7Найди способ попасть в подвал
-§7Find the "Wandering Man"@§7Найди "блуждающего человека" 
-§7Return to Vesdar with [16 Rotten Skin]@§7Вернись к Весдару с [16 Гнилой Кожи] 
-§7Find and enter the Lazarus Pit at [-953,81,-5465]@§7Найди и войди в Лазарус яму на [-953,81,-5465]
-§7Explore the Pit@§7Исследуй яму 
-§7Inspect the house nearby@§7Посети ближайший дом 
-§7Talk to Sesad@§7Поговори с Сесадом 
-§7Return to Burtur with [Healing Water]@§7Вернись к Буртуру с [Целебной Водой] 
+§7Speak to Burtur at [-1025,47,-5302].@§7Поговори с Буртуром на [-1025,47,-5302].
+§7Find the body of the Order's mage in Gelibord's graveyard at [-999,48,-5340].@§7Найди тело мага Ордена в гробнице Гелиборда на [-999,48,-5340].
 =========Lost_in_the_Jungle 
 §7Speak to Gracen at [-738,80,-655]@§7Поговори с Граценом на [-738,80,-655]
 §7Search the Dernel Jungle for Aryn@§7Отыщи в Дернел джунглях Арина 
@@ -854,7 +823,7 @@
 §7Go back to Nasea and tell him about Dado's response@§7Вернись к Насеа и скажи ему об ответе Дадо 
 §7Find the exiled Elf inside the web cavern at [-1785,30,-4521]@§7Найди изгнанного эльфа внутри паучей пещеры на [-1785,30,-4521]
 §7Make Dado confess by using the [Tattytale Flower]@§7Заставь Дадо признаться используя [Цветок-Болтун] 
-§7Go up the minecart hill at [-1615,86,-4555] and find the cave where Popo is hiding at@§7Поднимись на гору [-1615,86,-4555] и найди пещеру в которой прячется Popo 
+§7Go up the minecart hill at [-1615,86,-4555] and find the cave where Popo is hiding at@§7Поднимись на гору [-1615,86,-4555] и найди пещеру в которой прячется Попо 
 §7Beat up Popo and return to Nasea with the contract@§7Победи Popo и вернись к Насеа с контрактом 
 §7Go to the hidden bandit's village and investigate the mansion@§7Проникни в тайную бандитскую деревню и исследуй поместье 
 §7Break through the laboratory and destroy the giant robot@§7Проникни в лабораторию и уничтожь гигантского робота 
@@ -906,19 +875,8 @@
 §7Search around the south side of the Nether Portal for the old camp. The X on the map marked near [297,40,-1223]@§7Обыщи южную сторону от Портала в Ад и найди старый лагерь. X на карте отмечен около [297,40,-1223]
 §7Bring the acquired knowledge regarding the spell used for the sanctuary sealing back to the mages at the sanctuary.@§7Принеси полученные знания о заклинании, используемое для запечатывания святилища, обратно к магам на мосту 
 =====Taproot
-§7Talk to Hazel in the Dark Forest [-1445,46,-5509]@§7Поговори с Хазелом в Темном Лесу на [-1445,46,-5509]
-§7Find The Witch In The Dark Forest [-1260,44,-5465]@§7Найди Ведьму в Темном Лесу на [-1260,44,-5465]
-§7Grab Tiek [1 Ginseng], [1 Lobelia], and [1 Vervain] from her garden@§7Собери для Тик [1 Женьшень], [1 Лобелию], и [1 Вербену] из ее сада 
-§7Return to Tiek with [1 Ginseng], [1 Lobelia], and [1 Vervain]@§7Вернись к Тик с [1 Женьшенем], [1 Лобелией] и [1 Вербеной]
-§7Use The Potion on The Black Spot near Tieks home@§7Используй зелье на Черном Пятне рядом с домом Тик 
-§7Return the dead plant to Tiek@§7Отдай мертвый куст Тик
-§7Throw away the plant@§7Брось куст в воронку 
-§7Press the button in Tiek's basement then follow the rainbow trail@§7Нажми на кнопку в подвале Тик, и затем иди за радужным следом 
-§7Enter The Taproot@§7Войди в стержневой корень 
-§7Complete the parkour@§7Пройди паркур
-§7Speak to Tiek@§7Поговори с Тик
-§7Explore the Light Forest@§7Исследуй Светлый Лес 
-§7Talk to Tiek@§7Поговори с Тик
+§7Find Lari in the Dark Forest at [-1257,43,-5474]@§7найди Лари в Темном Лесу на [-1257,43,-5474]
+§7Explore the Light Forest.@§7Исследуй Светлый Лес.
 ======Temple_of_the_Legends
 §7Talk to Kelight at the entrance of the Temple of the Legends, close to Troms at [-693,68,-993]@§7Поговори с Келайгтом на входе в Храм Легенд, недалеко от Тромса [-693,68,-993]
 §7Bring back [1 Yahya's Stained Bowl], [1 Maltic's Recommendation Letter] and [1 Corrupted Potato] to Kelight@§7Принеси [1 Использованную Миску Яхуя], [1 Рекомендательное Письмо Малтикa], и [1 Испорченную Картошку] Келайгту 
@@ -999,25 +957,17 @@
 §7Retrieve the key from the base.@§7Забери ключ у роботов на базе
 §7Find Maxie at [-1396,66,-2400] and give him the key.@§7Найди Макси на [-1396,66,-2400] и отдай ему ключ.
 §7Find Maxie outside the Factory at [-1707,75,-2610].@§7Найди Макси снаружи фабрики на [-1707,75,-2610].
+======The_Feathers_Fly_Part_I
+§7Visit the Workshop at [-1731,134,-3267] (Requires completion of The Envoy Part II)@§7Посети мастерскую на [-1731,134,-3267] (Необходимо пройти The Envoy Part II)
+§7Meet Ava at [-1840,123,-3086]@§7Встреть Аву на [-1840,123,-3086]
 =====The_Fortuneteller 
 §7Talk to Jill in Kandon-Beda at [746,150,-4468]@§7Поговори с Джилл в Кандон-Бэда на [746,150,-4468]
 §7Search the Castle near Kandon-Beda for a treasure map at [901,96,-4406]@§7Обыщи замок рядом с Кандон-Бэда и найди карту сокровищ на [901,96,-4406]
 §7Return to Jill in Kandon-Beda with the treasure@§7Вернись к Джилл в Кандон-Бэда вместе с сокровищем
-§7Solve the treasure mystery@§7Раскрой загадку сокровища
-§7Find the beanstalk [630,147,-4590]@§7Найди бобовый стебель [630,147,-4590]
-§7Climb the beanstalk@§7Заберись на бобовый стебель
+§7Solve the treasure mystery.@§7Раскрой загадку сокровища.
+§7Find the beanstalk [630,147,-4590].@§7Найди бобовый стебель [630,147,-4590]
+§7Climb the beanstalk.@§7Заберись на бобовый стебель
 §7Speak to the Ancient Dragon@§7Поговори с Древним Драконом
-======The_Headless_Hunt 
-§7Talk to Referick in the dark forest at [-1081,48,-5368]@§7Поговори с Рефериком в Темном Лесу на [-1081,48,-5368]
-§7Investigate the strange cave under the castle further@§7Посети странную пещеру под замком неподалеку 
-§7Return the Lost Soul of Referick to its owner@§7Верни пропавшую душу Реферика ее владельцу
-§7Search for any potential source of problems with Referick@§7Отыщи потенциальный источник проблем с Рефериком 
-§7Go to the Dullahan's old mansion at [-816, 45, -5147]@§7Иди в старое поместье Дуллахана на [-816, 45, -5147] 
-§7Search the Dullahan's old mansion for the story of the Dullahan@§7Обыщи старое поместье Дуллахана и найди историю Дуллахана 
-§7Go underneath the Dullahan's mansion to investigate the blood altar@§7Иди под поместье Дуллахана и исследуй кровавый алтарь
-§7Search the torture chambers for the spirits@§7Найди в пыточных камерах духов 
-§7Destroy the Lost Spirits to free them@§7Уничтожь Lost Spirits чтобы освободить всех
-§7Show Referick proof that you have freed the spirits of the Dullahan's victims@§7Покажи Реферику доказательства, что ты освободил души жертв Дуллахана 
 ======The_Hidden_City 
 §7Talk to Narder at the Thesead Coal Mines at [661,78,-5070]@§7Поговори с Нардером возле угольной шахты Тесеадa на [661,78,-5070]
 §7Head to [890,47,-5388] to find the human town@§7Отправляйся на [890,47,-5388] и найди город людей
@@ -1039,6 +989,10 @@
 ======The_House_of_Twain
 §7Talk to Twendle at the House of Twain at [12,76,-456]@§7Поговори с Твендлом у Поместья Твейнов на [12,76,-456]
 §7Bring [1 Twain Journal] to Twendle@§7Принеси [1 Журнал Твейна] к Твендлу
+=======The Hero of Gavel
+§7Find out what's happening in the center of Ahmsord at [1028, 112, -4544]@§7Узнай что происходит в центре Амсорда на [1028, 112, -4544]
+§7Go to the Golden Eagle Theatre behind the Bank in Ahmsord at [1119, 124, -4555] for the winners to be announced.@§7Иди в Театр Золотого Орла позади банка Амсорда [1119, 124, -4555] на объявление победителя.
+§7Travel with Siegfried on his airship at the Ahmsord airship docks at [1101, 129, -4513]@§7Следуй за Зигфридом на его дирижабль в доки Амсорда на [1101, 129, -4513]
 =======The_Hunger_of_Gerts_Part_I
 §7Talk to Cikal at [-35,68,-5413]@§7Поговори с Цикалом на [-35,68,-5413]
 §7Look around the farms near the lake Gylia@§7Осмотри фермы около озера Гилия
@@ -1181,12 +1135,10 @@
 §7Dodegar wants [30 Soft Whetstones] from the large waterfall, upstream to the south-west at [-1142,58,-4432]@§7Dodegar хочет [30 Мягких Брусков] из большого водопада на юго-западе [-1142,58,-4432]
 §7Bring back [24 Royal Bug Blood] to Dodegar from the Royal Bugs at [-642,47,-4735]@§7Принеси [24 Royal Bug Blood] к Додегару с мобов Royal Bugs на [-642,47,-4735]
 =======The_Worm_Holes  
-§7Talk to Malo in the swamps at [-2062,56,-5415]@§7Поговори с Мало на болоте [-2062,56,-5415]
-§7Find the Slimy Skin, Giant Teeth, Odd Scat and Sharp Scales, then return to Malo@§7Найди Слизистую Кожу, Гигантский Зуб, Странный Помет и Острую Чешую, затем вернись к Мало
+§7See what's going on at [-2039,55,-5434]@§7Посмотри что происходит на [-2039,55,-5434]
 §7Investigate the larger holes@§7Исследуй большие дыры поблизости 
-§7Return to Malo with an unhatched egg@§7Вернись к Мало с невылупившемся яйцом 
-§7Investigate the hole to the north in the lake [-2044,50,-5529]@§7Исследуй дыру на севере в озере [-2044,50,-5529]
-§7Return to Malo@§7Вернись к Мало
+§7Look for Lari and ask what is going on at [-1982,55,-5462]@§7Отыщи Лари и спроси что происходит на [-1982,55,-5462]
+§7Investigate the worm tunnels.@§7Исследуй тоннели червей.
 ======Tower_of_Ascension 
 §7Talk to Ankou at [-350,14,-389]@§7Поговори с Анкоу на [-350,14,-389]
 §7Begin the First Floor@§7Начни Первый этаж

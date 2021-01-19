@@ -46,7 +46,7 @@ QUESTS/Dwelling_Walls.txt
 QUESTS/Elemental_Exercise.txt
 QUESTS/Enter_the_Dojo.txt
 QUESTS/Enzan%27s_Brother.txt
-QUESTS/Eye_of_the_Storm.txt
+QUESTS/Lexdale_Witch_Trials.txt
 QUESTS/Fallen_Delivery.txt
 QUESTS/Fantastic_Voyage.txt
 QUESTS/Fate_of_the_Fallen.txt
@@ -115,7 +115,7 @@ QUESTS/The_Dark_Descent.txt
 QUESTS/The_Envoy_Part_I.txt
 QUESTS/The_Envoy_Part_II.txt
 QUESTS/The_Fortuneteller.txt
-QUESTS/The_Headless_Hunt.txt
+QUESTS/A_Headless_History.txt
 QUESTS/The_Hidden_City.txt
 QUESTS/The_House_of_Twain_(Quest).txt
 QUESTS/The_Hunger_of_Gerts_Part_I.txt
@@ -144,3 +144,6 @@ QUESTS/WynnExcavation_Site_B.txt
 QUESTS/WynnExcavation_Site_C.txt
 QUESTS/WynnExcavation_Site_D.txt
 QUESTS/Zhight_Island_(Quest).txt
+QUESTS/The_Hero_of_Gavel.txt
+QUESTS/The_Feathers_Fly_Part_I.txt
+QUESTS/The_Feathers_Fly_Part_II.txt

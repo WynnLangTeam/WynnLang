@@ -29,9 +29,8 @@ QUESTS/﻿Acquiring_Credentials
 §7[Dusty Passport]@§7[Пыльным Паспортом] 
  
 QUESTS/Aldorei%27s_Secret_Part_I 
-§7Speak to Elrund outside Aldorei @§7Поговори с Элрундом снаружи 
-§7Valley at @§7Долины Алдорей на 
-§7[-670,97,-4444]@ 
+§7Talk to the Elf Guard @§7Поговори с Эльфом Защитником 
+§7at [-461, 132, -4459] @§7на [-461, 132, -4459]
 §7Obtain [Gemstone Dust] from the @§7Добудь [Пыль драгоценного камня] 
 §7Wynn province and bring it @§7из провинции Винн и принеси 
 §7to Elrund (Requires completion of @§7ее Элрунду (Необходимо 
@@ -211,9 +210,24 @@ QUESTS/A_Grave_Mistake
 §7 ,.; §l[157,78,-377] §4':, @ 
 §7§4.;§lI§4. ,§ltold§4;. .,§lyou§4; :§lto§4, .,§lstay§4; @§7§4.;§lЯ§4. ,§lГОВОРИЛ§4;. .,§lТЕБЕ§4, .,§lДЕРЖАТЬСЯ§4;. 
 §7§4'§lI§4, :§ltold§4.; .§lyou§4; '§lto§4;. ,§lstay§4' @§7§4.;§lЯ§4. ,§lГОВОРИЛ§4;. .,§lТЕБЕ§4, .,§lДЕРЖАТЬСЯ§4;.
-§7.§laway§4'; @§7.§lПОДАЛЬШЕ§4; 
-§7.§laway§4; @§7.§lПОДАЛЬШЕ§4; 
+§7.§laway§4'; @§4.§lПОДАЛЬШЕ§4; 
+§7.§laway§4; @§4.§lПОДАЛЬШЕ§4; 
 §7§4.§lReturn§4;' §lto§4:, '§lAlem;, @§7§4.§lВернись§4;' §lк§4:, '§lАлему;, 
+
+QUESTS/A_Headless_History
+§7Talk to Hans in the @§7Поговрри с Гансом в 
+§7village next to Gelibord at @§7деревне рядом с Гелибордом на 
+§7[-1096,42,-5384]@ 
+§7Investigate the strange cave under @§7Посети странную пещеру 
+§7the castle further @§7под замком неподалеку 
+§7Return the Lost Soul of @§7Верни пропавшую душу 
+§7Referick to its owner @§7Реферика ее владельцу 
+
+§7Talk to Lari outside the @§7Поговори с Лари снаружи 
+§7weird gate at @§7странных ворот на 
+§7[-1329,85,-5606]@ 
+§7Explore the Light Forest. @§7Исследуй Светлый Лес. 
+§7Keep exploring the castle. @§7Продолжай исследовать замок. 
 
 QUESTS/A_Hunter's_Calling 
 §7Explore the deepest part of @§7Исследуй глубинные части 
@@ -414,12 +428,13 @@ QUESTS/Canyon_Condor
 §7Svin @§7Свина 
  
 QUESTS/Clearing_the_Camps 
-§7Talk to Captain Kymer in @§7Поговори с Капитаном Каймером 
+§7Talk to Captain Kymer outside @§7Поговори с Капитаном Каймером снаружи 
 §7Llevigar at @§7в Ллевигаре на 
 §7[-2008,33,-4605]@ 
-§7Find and Kill Chieftans Dolg, @§7Найди и убей главарей орков Долга, 
-§7Visbe, and Elak in the @§7Висбе и Элака в 
-§7camps around Llevigar @§7лагерях вокруг Ллевигара 
+§7Find and kill Orc Chieftains @§7Найди и убей главарей Орков 
+§7Elisu, Veltu, and Ceifko in @§7Элису, Велту и Цейфко в 
+§7the camps around Llevigar- look @§7лагерях вокруг Ллевигара, ищя 
+§7for green flags @§7зеленые флаги
  
 QUESTS/Cluck_Cluck  
 §7Talk to Nohno on Rooster @§7Поговори с Нохно на Рустер 
@@ -726,8 +741,8 @@ QUESTS/Dwelling_Walls
  
 QUESTS/﻿Elemental_Exercise  
 §7Talk to Ragon on the @§7Поговори с Рагоном 
-§7south-east end of the Nivla @§7в юго-восточной части Нивла 
-§7Forest at @§7Леса на 
+§7south-east end of the Nivla @§7в Нивла 
+§7Forest at @§7Лесу на 
 §7[-80,67,-1391]@ 
 §7Test your fire based weapon @§7Протестируй свое огненное оружие 
 §7on the captured creature by @§7на пойманном монстре 
@@ -770,53 +785,14 @@ QUESTS/Enzan%27s_Brother
 §7Talk to Enzan close to @§7Поговори с Энзаном 
 §7the exit of Ragni at @§7у выхода из Рагни на 
 §7[-772,67,-1572]@ 
-§7Find Enzan's brother near Nivla @§7Найди брата Энзана 
-§7Forest @§7рядом с Лесом Нивла 
- 
-QUESTS/Eye_of_the_Storm 
-§7Talk to Arwes in the @§7Поговори с Арвесом 
-§7ruined cathedral at @§7в разрушенном соборе на 
-§7[-683,45,-5347]@ 
-§7Search the ruins at @§7Обыщи руины на 
-§7[-714,43,-5385]@ 
-§7to find the cultists @§7и найди культистов 
-§7Find Talos in the crypt @§7Найди Талоса в гробнице 
-§7Kill the hellhound and free @§7Убей цербера и освободи 
-§7Talos @§7Талоса 
-§7Return to Arwes in the @§7Вернись к Арвесу в 
-§7cathedral @§7соборе 
-§7Talk to Ceyquin in Lexdale @§7Поговори с Сейквином в Лексдейл 
-§7[-611,46,-5458]@ 
-§7Climb to the balcony in @§7Поднимись на балкон 
-§7Ceyquin's house @§7в доме Сейквина 
-§7Return to Ceyquin @§7Вернись к Сейквину 
-§7Enter the tunnel under Ceyquin's @§7Войди в тоннель под Сейквина 
-§7house @§7домом 
-§7Escape through the cavern and @§7Сбеги через пещеру 
-§7find Rismor in his house @§7и найди Рисмора в его доме на 
-§7[-472,66,-5536]@ 
-§7Find the Guardian and the @§7Найди Guardian of the Order 
-§7ancient blood oak, south of @§7на древнем кровавом дереве, 
-§7Rismor's house at @§7на юге от дома Рисмора 
-§7[-461,56,-5397]@ 
-§7Kill the Guardian and bring @§7Убей Guardian of the Order 
-§7the [Lost Spell Scroll] to @§7и принеси [Потерянный Свиток Заклинания] 
-§7Rismor @§7к Рисмору 
-§7Enter the Pit of Despair @§7Войди в Яму Отчаяния 
-§7Find a passage deeper into @§7Найди проход 
-§7the Pit @§7вглубь Ямы 
-§7Talk to Harker @§7Поговори с Харкером 
-§7Enter the ritual chamber @§7Войди в ритуальную комнату 
-§7Approach Naragath's Altar @§7Подойди к алтарю Нарагата 
-§7Travel deeper into the cave @§7Продвигайся вглубь пещеры 
-§7Collect [5 Icons of Naragath] @§7Собери [5 икон Нарагата] 
-§7from the Hierophants and give @§7с иерофантов и отдай 
-§7them to Harker @§7их Харкеру 
-§7Kill Naragath and give the @§7Убей Нарагата 
-§7[Eye of Blood] to Harker @§7и отдай [Глаз Крови] Харкеру 
-§7Leave the Pit of Despair @§7Покинь Яму Отчаяния 
-§7Give the [Eye of Blood] @§7Отдай [Глаз Крови] 
-§7to Rismor @§7Рисмору 
+§7Find Enzan's brother near the @§7Найди брата Энзана рядом с 
+§7Item Identifier on the Emerald @§7Идентификатором Предметов на Эмеральдном 
+§7Trail at @§7Пути на 
+§7[-536,67,-1589]@ 
+§7Descend into the cave at @§7Спустись в пещеру на 
+§7[-538,67,-1586]@ 
+§7and bring [1 Energy Mushroom] @§7и принеси [1 Энергетический Гриб]
+§7to Therck @§7Терку 
  
 QUESTS/Fallen_Delivery 
 §7Talk to Bricot at @§7Поговори с Брикотом на 
@@ -913,58 +889,21 @@ QUESTS/Fate_of_the_Fallen
 §7happened. @§7что произошло 
  
 QUESTS/Finding_The_Light 
-§7Talk to the Guardian of @§7Поговори с Хранителем Леса 
-§7The Forest in the Light @§7в Светлой части 
-§7[-1128,49,-4778]@ 
+§7Find Lari in the Light @§7Найди Лари в Светлом 
+§7Forest at [-1123,46,-4771]. @§7Лесу на [-1123,46,-4771].
 §7(Requires completion of Taproot) @§7(Необходимо пройти квест Taproot) 
-§7Find the Arch in the @§7Найди Арку 
-§7Light Forest at @§7в Светлом Лесу на 
-§7[-1038,44,-4447]@ 
-§7Return to the Guardian to @§7Вернись к Хранителю 
-§7seek guidance at @§7для дальнейших указаний 
-§7[-1130,49,-4781]@ 
-§7Find someone in Cinfras who @§7Найди кого-то в Цинфрасе, 
-§7can help you SEE @§7кто поможет тебе УВИДЕТЬ 
-§7Get an Eye Exam @§7Пройди проверку зрения 
-§7Talk to Ollie at @§7Поговори с Олли на 
-§7[-430,46,-4855]@ 
-§7Talk to Charlie outside of @§7Поговори с Чарли снаружи 
-§7Ollie's Optometry at @§7Оптометрии Олли на 
-§7[-449,46,-4840]@ 
-§7Read Jack's run away letter @§7Прочитай прощальное письмо Джека 
-§7in Charlie's house at @§7в доме Чарли на 
-§7[-491,54,-4989]@ 
-§7Talk to Jack at @§7Поговори с Джеком на 
-§7[-448,33,-5092]@ 
-§7Find Damien near Kander Forest @§7Найди Дамиена около Кандер Леса 
-§7[-504,43,-5181]@ 
-§7Talk to the Apothecary about @§7Поговори с Аптекарем 
-§7getting medicine at house 19 @§7насчет лекарств в доме №19 
-§7in Cinfras at @§7в Цинфрасе на 
-§7[-431,46,-4993]@ 
-§7Break into Sasha's basement @§7Проникни в подвал Саша 
-§7Talk to Sasha about her @§7Поговори с Саша насчет ее 
-§7debt @§7долга 
-§7Find Gardener in The Cinfras @§7Найди Садовника 
-§7Gardens at @§7в саду Цинфраса на 
-§7[-391,45,-4917]@ 
-§7Search the Gardener's cart for @§7Обыщи повозку Садовника 
-§7evidence of his lies at @§7и найди доказательства его лжи 
-§7[-376,50,-4937]@ 
-§7Threaten The Gardener with his @§7Угрожай Садовнику с его 
-§7receipt at @§7распиской на 
-§7Talk to Sasha the Apothacary @§7Поговори с Саша Аптекарем 
-§7and get the medicine at @§7и получи лекарства на 
-§7Give the medicine to Damien @§7Отдай лекарства Дамиену 
-§7Tell Charlie his son Jack @§7Скажи Чарли, что его 
-§7is okay at [-444 47 @§7сын Джек впорядке [-444, 47, 
-§7-4841] @ 
-§7Return to Ollie in Cinfras @§7Вернись к Олли в Цинфрасе 
-§7[-430,47,-4854]@ 
-§7Return to the Guardian of @§7Вернись к Хранителю Леса 
-§7Forest with the helmet at @§7в Светлом Лесу вместе со шлемом 
-§7Head back to the Arch @§7Вернись к Арке 
-§7Enter The Light Realm @§7Войди в Царство Света 
+
+§7Find the Church Library in @§7Найди церковную библиотеку 
+§7the city of Cinfras at @§7в Цинфрасе на 
+§7[-506,47,-4939]. @ 
+§7Explore the secret library and @§7Исследуй секретную библиотеку и 
+§7find a way to wake @§7найди способ 
+§7up the tree. @§7разбудить дерево.
+§7Return to Lari at @§7Вернись к Лари на 
+§7[-1123,46,-4771]@ 
+§7Find the Canned Abis cave @§7Найди пещеру с Коно Полей 
+§7[-744,11,-4591]@ 
+§7Talk to the Guardian @§7Поговори с Защитником
  
 QUESTS/Flight_in_Distress 
 §7Speak to the Passenger Controllant @§7Поговори с Контроллером 
@@ -1009,9 +948,8 @@ QUESTS/Flight_in_Distress
 §7Detlas docks @§7в доках Детласа 
  
 QUESTS/Forbidden_Prison 
-§7Something looks suspicious in the @§7Что-то подозрительное 
-§7prison at @§7происходит в тюрьме на 
-§7[-829,83,-5539]@ 
+§7Talk to the Merchant at @§7Поговори с Торговцем на 
+§7[-963,47,-5280]@ 
 §7Escape the prison @§7Сбеги из тюрьмы 
 §7Find a disguise @§7Найди форму для маскировки 
 §7Don't alert the dogs @§7Не потревожь собак 
@@ -1043,8 +981,7 @@ QUESTS/From_the_Bottom
 §7of the Elven God Entia] @§7Эльфийского Бога Энтия] 
  
 QUESTS/From_the_Mountains  
-§7Talk to Anrod at his @§7Поговори с Анродом 
-§7[-1367,43,-4542]@ 
+§7at [-1366, 42, -4543] @§7 [-1366, 42, -4543]
 §7Climb the mountain behind Anrod's @§7Заберись на гору позади 
 §7house, and find Rynver at @§7дома Анрода, и найди Ринвера на 
 §7[-1383,79,-4459]@ 
@@ -1087,8 +1024,8 @@ QUESTS/Frost_Bite
  
 QUESTS/General%27s_Orders 
 §7Speak to Private Tylas outside @§7Поговори с Рядовым Тиласом снаружи 
-§7of the fort at @§7крепости на 
-§7[115,53,-5439]@ 
+§7of Kitrios Barracks at @§7Казарм Китриоса на 
+§7[121,49,-5437]@ 
 §7Speak to General Lecade @§7Поговори с Генералом Лекейдом 
 §7Go through the Mountain Spring @§7Пройди через таверну 
 §7Tavern to reach the roof @§7Mountain Spring и поднимись
@@ -1195,8 +1132,8 @@ QUESTS/Haven_Antiquity
 §7about the mystery @§7насчет загадки 
  
 QUESTS/Heart_of_Llevigar  
-§7Find Zenam in his laboratory @§7Найди Зенама в его 
-§7in Llevigar at @§7лаборатории в Ллевигаре на 
+§7Find Zenam in the Llevigar @§7Найди Зенама на электростанции  
+§7power control center at @§7в Ллевигаре на 
 §7[-1872,55,-4593]@ 
 §7Enter the sewers opposite the @§7Войди в канализацию 
 §7bank of Llevigar @§7напротив банка Ллевигара 
@@ -1319,8 +1256,7 @@ QUESTS/Kingdom_of_Sand
 §7hand the sceptre to Lanu. @§7и передай скипетр Лану 
  
 QUESTS/Lazarus_Pit  
-§7Talk to Burtur at @§7Поговори с Буртуром на 
-§7[-980,45,-5305]@ 
+§7Speak to Burtur at [-1025,47,-5302]. @§7Поговори с Буртуром на [-1025,47,-5302]. 
 §7Take a look at the @§7Посмотри 
 §7graveyard at @§7на кладбище 
 §7[-998,48,-5340]@ 
@@ -1338,6 +1274,51 @@ QUESTS/Lazarus_Pit
 §7Talk to Sesad @§7Поговори с Сесадом 
 §7Return to Burtur with [Healing @§7Вернись к Буртуру с [Целебной 
 §7Water] @§7Водой] 
+ 
+QUESTS/Lexdale_Witch_Trials
+§7See what's going on in @§7Посмотри что происходит в 
+§7the center of Lexdale at @§7центре Лексдейла на 
+§7[-604,45,-5444]. @ 
+§7Search the ruins at @§7Обыщи руины на 
+§7[-714,43,-5385]@ 
+§7to find the cultists @§7и найди культистов 
+§7Find Talos in the crypt @§7Найди Талоса в гробнице 
+§7Kill the hellhound and free @§7Убей цербера и освободи 
+§7Talos @§7Талоса 
+§7Return to Arwes in the @§7Вернись к Арвесу в 
+§7cathedral @§7соборе 
+§7Talk to Ceyquin in Lexdale @§7Поговори с Сейквином в Лексдейл 
+§7[-611,46,-5458]@ 
+§7Climb to the balcony in @§7Поднимись на балкон 
+§7Ceyquin's house @§7в доме Сейквина 
+§7Return to Ceyquin @§7Вернись к Сейквину 
+§7Enter the tunnel under Ceyquin's @§7Войди в тоннель под Сейквина 
+§7house @§7домом 
+§7Escape through the cavern and @§7Сбеги через пещеру 
+§7find Rismor in his house @§7и найди Рисмора в его доме на 
+§7[-472,66,-5536]@ 
+§7Find the Guardian and the @§7Найди Guardian of the Order 
+§7ancient blood oak, south of @§7на древнем кровавом дереве, 
+§7Rismor's house at @§7на юге от дома Рисмора 
+§7[-461,56,-5397]@ 
+§7Kill the Guardian and bring @§7Убей Guardian of the Order 
+§7the [Lost Spell Scroll] to @§7и принеси [Потерянный Свиток Заклинания] 
+§7Rismor @§7к Рисмору 
+§7Enter the Pit of Despair @§7Войди в Яму Отчаяния 
+§7Find a passage deeper into @§7Найди проход 
+§7the Pit @§7вглубь Ямы 
+§7Talk to Harker @§7Поговори с Харкером 
+§7Enter the ritual chamber @§7Войди в ритуальную комнату 
+§7Approach Naragath's Altar @§7Подойди к алтарю Нарагата 
+§7Travel deeper into the cave @§7Продвигайся вглубь пещеры 
+§7Collect [5 Icons of Naragath] @§7Собери [5 икон Нарагата] 
+§7from the Hierophants and give @§7с иерофантов и отдай 
+§7them to Harker @§7их Харкеру 
+§7Kill Naragath and give the @§7Убей Нарагата 
+§7[Eye of Blood] to Harker @§7и отдай [Глаз Крови] Харкеру 
+§7Leave the Pit of Despair @§7Покинь Яму Отчаяния 
+§7Give the [Eye of Blood] @§7Отдай [Глаз Крови] 
+§7to Rismor @§7Рисмору 
  
 QUESTS/Lost_in_the_Jungle 
 §7Speak to Gracen at @§7Поговори с Граценом на 
@@ -1414,7 +1395,7 @@ QUESTS/Maltic%27s_Well
 §7Bottle] to Rynend @§7Бутылку Ведьмы] Риненду 
  
 QUESTS/Master_Piece  
-§7Talk to Caissop, the Artist, @§7Поговори с художником Кайзопом 
+§7Talk to Caissop the artist, @§7Поговори с художником Кайзопом 
 §7in his tent at @§7в его палатке на 
 §7[-1802,55,-5190]@ 
 §7Search for the first mythical @§7Отыщи первое мифическое 
@@ -1587,7 +1568,7 @@ QUESTS/Murder_Mystery
 
 QUESTS/Mushroom_Man  
 §7Talk to Yahya "The Mushroom @§7Поговори с Яхуя "Грибной 
-§7Man" in Nivla's Forest at @§7 Человек" в Нивла Лесу на 
+§7Man" in Nivla Woods at @§7 Человек" в Нивла Лесу на 
 §7[-277,69,-1681]@ 
 §7Bring back [1 Red Mushrooms] @§7Принеси [1 Red Mushroom] 
 §7and [1 Brown Mushrooms] to @§7и [1 Brown Mushroom] для 
@@ -1597,8 +1578,8 @@ QUESTS/Mushroom_Man
 §7Bring back [1 Bowl] to @§7Принеси [1 Миску] для 
  
 QUESTS/﻿One_Thousand_Meters_Under 
-§7Read the Help Wanted sign @§7Прочитай "Требуется Помощь" 
-§7in Ahmsord at @§7доску в Амсорде на 
+§7Read the Help Wanted sign @§7Прочитай "Требуется Помощь" доску 
+§7in Ahmsord at @§7в Амсорде на 
 §7[1108,107,-4555]@ 
 §7Talk to The Secretary at @§7Поговори с Секретарем на 
 §7[1121,101,-4525]@ 
@@ -1705,7 +1686,7 @@ QUESTS/Potion_Making
 §7the Black Road at @§7на дороге 
 §7[617,67,-1612]@ 
 §7Bring back [8 Red Mushrooms] @§7Принеси [8 Red Mushroom] 
-§7to The Assistant @§7Ассистенту 
+§7to The Assistant @§7к Ассистенту 
 §7Enter the hut and slay @§7Войди в хижину 
 §7Essren @§7и убей Эссрена 
 §7Bring back Essren's Dusty Coat @§7Вернись с Пыльным Пальто Эссрена 
@@ -1832,8 +1813,9 @@ QUESTS/Reincarnation
 §7of Approval] to Batelu @§7Боба] к Батэлу 
  
 QUESTS/Rise_of_the_Quartron  
-§7Talk to Nasea in @§7Поговори с Насеа на 
-§7[-1673,52,-4370]@ 
+§7Talk to Nasea in the @§7Поговори с Насеа в 
+§7Karoc Quarry at @§7Карьере Карок на 
+§7[-1663,46,-4376]@ 
 §7Talk to Dado at @§7Поговори с Дадо 
 §7[-1607,48,-4455]@ 
 §7and see if he is @§7и посмотри, 
@@ -1903,8 +1885,8 @@ QUESTS/Sewers_of_Ragni
 §7Talk to Jenprest @§7Поговори с Дженпрест 
  
 QUESTS/Shattered_Minds 
-§7Talk to Likeru in Efilim @§7Поговори с Ликеру в Эфилиме 
-§7[-1058,44,-5008]@ 
+§7Speak to Likeru in Efilim @§7Поговори с Ликеру в Эфилиме 
+§7at [-1058,44,-5008]. @§7на [-1058,44,-5008].
 §7Look for the caves to @§7Найди пещеру 
 §7the northwest of Efilim @§7на северо-западе от Эфилима 
 §7Find the mushroom Likeru is @§7Найди гриб, который 
@@ -1971,9 +1953,8 @@ QUESTS/Studying_the_Corrupt
 §7mages at the sanctuary. @§7обратно к магам на мосту 
  
 QUESTS/Taproot_(Quest)  
-§7Talk to Hazel in the @§7Поговори с Хазелом 
-§7Dark Forest @§7в Темном Лесу на 
-§7[-1445,46,-5509]@ 
+§7Find Lari in the Dark @§7Найди Лари в Темном 
+§7[-1257,43,-5474]@ 
 §7Find The Witch In The @§7Найди Ведьму 
 §7[-1260,44,-5465]@ 
 §7Grab Tiek [1 Ginseng], [1 @§7Собери для Тик [1 Женьшень], 
@@ -2084,7 +2065,7 @@ QUESTS/The_Canyon_Guides
  
 QUESTS/The_Corrupted_Village 
 §7Speak to Orikal outside the @§7Поговори с Орикалом снаружи 
-§7Angry Village at [318,78,-1097]. @§7Злой Деревни на [318,78,-1097] 
+§7Corrupted Village at [318,78,-1097].@§7Испорченной Деревни на [318,78,-1097] 
 §7Examine the nearby corrupted spike @§7Посети вершину ближайшего шипа 
 §7to the Northeast at [352,69,-1124]. @§7на северо-востоке [352,69,-1124] 
 §7Climb the spike to see @§7Залезь на шип, возможно 
@@ -2169,6 +2150,18 @@ QUESTS/The_Envoy_Part_II
 §7Find Maxie outside the Factory @§7Найди Макси снаружи фабрики 
 §7at [-1707,75,-2610]. @§7на [-1707,75,-2610]. 
 
+QUESTS/The_Feathers_Fly_Part_I
+§7Visit the Workshop at @§7Посети мастерскую на 
+§7[-1731,134,-3267]@ 
+§7(Requires completion of The Envoy @§7(Необходимо пройти The Envoy 
+§7Part II) @ 
+§7Distract the Avos Chief at @§7Отвлеки Шефа Авосов на 
+§7[-1819,131,-3071]@ 
+
+QUESTS/The_Feathers_Fly_Part_II
+§7Meet Ava near Corkus City @§7Встреть Аву рядом с Коркус Сити 
+§7[-1573,86,-2762]@ 
+
 QUESTS/The_Fortuneteller 
 §7Talk to Jill in Kandon-Beda @§7Поговори с Джилл в Кандон-Бэда 
 §7[746,150,-4468]@ 
@@ -2177,37 +2170,28 @@ QUESTS/The_Fortuneteller
 §7[901,96,-4406]@ 
 §7Return to Jill in Kandon-Beda @Вернись к Джилл в Кандон-Бэда 
 §7with the treasure @вместе с сокровищем 
-§7Solve the treasure mystery @§7Раскрой загадку сокровища 
-§7Find the beanstalk @§7Найди бобовый стебель 
-§7[630,147,-4590]@ 
-§7Climb the beanstalk @§7Заберись на бобовый стебель 
+§7Solve the treasure mystery. @§7Раскрой загадку сокровища 
+§7Find the beanstalk [630,147,-4590]. @§7Найди бобовый стебель [630,147,-4590].
+§7Climb the beanstalk. @§7Заберись на бобовый стебель 
 §7Speak to the Ancient Dragon @§7Поговори с Древним Драконом 
  
-QUESTS/The_Headless_Hunt 
-§7Talk to Referick in the @§7Поговори с Рефериком 
-§7dark forest at @§7в Темном Лесу на 
-§7[-1081,48,-5368]@ 
-§7Investigate the strange cave under @§7Посети странную пещеру 
-§7the castle further @§7под замком неподалеку 
-§7Return the Lost Soul of @§7Верни пропавшую душу 
-§7Referick to its owner @§7Реферика ее владельцу 
-§7Search for any potential source @§7Отыщи потенциальный источник 
-§7of problems with Referick @§7проблем с Рефериком 
-§7Go to the Dullahan's old @§7Иди в старое поместье 
-§7mansion at [-816, 45, -5147] @§7Дуллахана на [-816, 45, -5147] 
-§7Search the Dullahan's old mansion @§7Обыщи старое поместье 
-§7for the story of the @§7Дуллахана и найди историю 
-§7Dullahan @§7Дуллахана 
-§7Go underneath the Dullahan's mansion @§7Иди под поместье Дуллахана 
-§7to investigate the blood altar @§7и исследуй кровавый алтарь 
-§7Search the torture chambers for @§7Найди в пыточных камерах 
-§7the spirits @§7духов 
-§7Destroy the Lost Spirits to @§7Уничтожь Lost Spirits 
-§7free them @§7чтобы освободить всех 
-§7Show Referick proof that you @§7Покажи Реферику доказательства, 
-§7have freed the spirits of @§7что ты освободил души 
-§7the Dullahan's victims @§7жертв Дуллахана 
- 
+QUESTS/The_Hero_of_Gavel
+§7Find out what's happening in @§7Узнай что происходит в 
+§7the center of Ahmsord at @§7центре Амсорда на 
+§7[1028, 112, -4544] @ 
+§7Bring all three Limited Siegfried @§7Принеси все три лимитированных 
+§7Collection items to the merchant @§7предмета коллекции Зигфрида к торговцу 
+§7in Ahmsord Center at [1034, @§7в центре Амсорда на [1034, 
+§7115, -4533] @ 
+§7Go to the Golden Eagle @§7Иди в Театр Золотого 
+§7Theatre behind the Bank in @§7Орла позади 
+§7Ahmsord at [1119, 124, -4555] @§7банка Амсорда [1119, 124, -4555] 
+§7for the winners to be @§7на объявление 
+§7announced. @§7победителя.
+§7Travel with Siegfried on his @§7Следуй за Зигфридом на его 
+§7airship at the Ahmsord airship @§7дирижабль в доки Амсорда
+§7docks at [1101, 129, -4513] @§7на [1101, 129, -4513] 
+
 QUESTS/The_Hidden_City 
 §7Talk to Narder at the @§7Поговори с Нардером возле 
 §7Thesead Coal Mines at @§7угольной шахты Тесеада на 
@@ -2576,19 +2560,11 @@ QUESTS/The_Ultimate_Weapon
 §7[-642,47,-4735]@ 
  
 QUESTS/The_Worm_Holes  
-§7Talk to Malo in the @§7Поговори с Мало 
-§7swamps at @§7на болоте 
-§7[-2062,56,-5415]@ 
-§7Find the Slimy Skin, Giant @§7Найди Слизистую Кожу, Гигантский 
-§7Teeth, Odd Scat and Sharp @§7Зуб, Странный Помет и 
-§7Scales, then return to Malo @§7Острую Чешую, затем вернись к Мало 
-§7Investigate the larger holes @§7Исследуй большие дыры поблизости 
-§7Return to Malo with an @§7Вернись к Мало 
-§7unhatched egg @§7с невылупившемся яйцом 
-§7Investigate the hole to the @§7Исследуй дыру 
-§7north in the lake @§7на севере в озере 
-§7[-2044,50,-5529]@ 
-§7Return to Malo @§7Вернись к Мало 
+§7See what's going on at @§7Посмотри что происходит на 
+§7[-2039,55,-5434]@ 
+§7Look for Lari and ask @§7Отыщи Лари и спроси 
+§7what is going on at @§7что происходит на 
+§7[-1982,55,-5462]@ 
  
 QUESTS/Tower_of_Ascension 
 §7Talk to Ankou at @§7Поговори с Анкоу на 
@@ -2817,6 +2793,10 @@ QUESTS/Zhight_Island_(Quest)
 §7Explore @§7Исследуй
 §7Wait @§7Подожди 
 §7Continue through the secret passageway @§7Продолжай идти по секретному проходу
+§7[-1613,51,-4964]@ 
+§7[-1744,66,-5478]@ 
+§7[-1991,34,-4658]@ 
+§7at [-1366, 42, -4543] @§7 на [-1366, 42, -4543] 
 
 #############################MINI QUESTS#########################################
 §7Bring [5 Forest Webs] to @§7Принеси [5 Forest Webs] к 

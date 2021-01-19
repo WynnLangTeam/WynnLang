@@ -682,13 +682,13 @@
 §f        Select §6§lShaman@§f        Выбрать §6§lШамана
 §f        Select §6§lSkyseer@§f        Выбрать §6§lПровидца
 §7Accessory Slot@§7Слот для Аксессуара
-§lAttack Effect@§7§lЭффекты Атаки
-§lPlayer Effects@§7§lЭффекты Игрока
-§lPets@§7§lПитомцы
-§lGear Skins@§7§lОружейные Скины
-§lDisguises@§7§lМаскировки
-§lMob Totems@§7§lМоб Тотемы
-§lBomb@§7§lБомбы
+§f§lAttack Effects@§7§lЭффекты Атаки
+§f§lPlayer Effects@§7§lЭффекты Игрока
+§f§lPets@§7§lПитомцы
+§f§lGear Skins@§7§lОружейные Скины
+§f§lDisguises@§7§lМаскировки
+§f§lMob Totems@§7§lМоб Тотемы
+§f§lBombs@§7§lБомбы
 §4You have not unlocked this spell!@§4Ты не открыл это заклинание!
 §4You don't have enough mana to do that spell!@§4Недостаточно маны для этого заклинания!
 §aConfirm Identification@§aПодтвердить идентификацию
@@ -735,6 +735,7 @@
 §c§lCancel@§c§lОтмена
 §aOpen Crates@§aОткрыть Контейнеры
 §eScrap Rewards@§eУтилизировать Награды
+§3Scrap rewards@§3Утилизировать Награды
 §7§lClick Items to Sell@§7§lКликни на Предметы для Продажи
 §f§lBuy on the Exchange@§f§lКупить в Обменнике
 §aAdd Powders To Your Items@§aДобавить Порошки на Предметы
@@ -781,6 +782,68 @@
 §cClick to confirm@§cКликни для подтверждения
 §c§lBack to Icon Selection@§c§lВернуться к Выбору Иконок
 §6Go To The Previous Page@§6Назад к Предыдущей Странице
+§6§lClass Backups@§6§lБэкапы Классов
+§5Mastery Tomes@§5Тома Мастера
+§5§lMastery Tomes@§5§lТома Мастера
+§b§lView Your Guild@§b§lПросмотр Своей Гильдии
+§c§lGuild Bank@§c§lБанк Гильдии
+§6§lChange Banner@§6§lИзменить Баннер
+§d§lView Diplomacy@§d§lПросмотр Дипломатии
+§f§lGuild Output@§f§lВыход Гильдии
+§5Weapon Mastery Tome Slot@§5Том Мастера Оружия Слот
+§5Slaying Mastery Tome Slot@§5Том Мастера Убийцы Слот
+§5Armour Mastery Tome Slot@§5Том Мастера Оружейника Слот
+§5Gathering Mastery Tome Slot@§5Том Мастера Собирателя Слот
+§5Dungeoneering Mastery Tome Slot@§5Том Мастера Данжей Слот
+§6Purchase a House@§6Купить Дом
+§6Go to your house@§6Перейти в свой дом
+§bJoin another player's house@§bПерейти к дому другого игрока
+§aMove your house here@§aПередвинуть свой дом сюда
+§fStone Type Blocks@§fКаменные Типы Блоков
+§eWood Type Blocks@§eДеревянные Типы Блоков
+§aNature Type Blocks@§aПриродные Типы Блоков
+§bDecoration Type Blocks@§bДекорационные Типы Блоков
+§dNPC Type Blocks@§dНПС Типы Блоков
+§7Back to Categories@§7Назад к Категориям
+§dItem Identifier@§dИдентификатор Предметов
+§dBlacksmith@§dКузнец
+§dPowder Master@§dМастер Порошков
+§dTrade Market@§dТрейд Маркет
+§dBuild Stand@§dБилд Стенд
+§dBank@§dБанк
+§dWoodworking Station@§dСтанция Деревообработки
+§dWeaponsmithing Station@§dСтанция Оружейного Дела
+§dArmouring Station@§dСтанция Изготовления Брони 
+§dTailoring Station@§dСтанция Портняжного Дела
+§dJeweling Station@§dСтанция Изготовления Аксессуаров
+§dAlchemism Station@§dСтанция Алхимии
+§dScribing Station@§dСтанция Изготовления Свитков
+§dCooking Station@§dСтанция Кулинарии
+§bLeft-Click§f to edit icon@§bЛевый Клик§f для редактирования иконки 
+§a§lAttack with your own emeralds@§a§lАтаковать со своими эмеральдами
+§6§lAttack with your Guild's emeralds@§6§lАтаковать с эмеральдами гильдии
+§7§lBack@§7§lНазад
+§3§lGuild Tower@§3§lБашня Гильдии
+§d§lBonus@§d§lБонус
+§b§lTotal Cost (per hour)@§b§lОбщая Цена (в час)
+§a§lResources@§a§lРесурсы
+§e§lTrading Route@§e§lТорговые Пути
+§a§lTaxes@§a§lНалоги
+§b§lSet as HQ@§b§lУстановить как штаб
+§7§lCancel@§7§lОтмена
+§e§lChange Name@§e§lИзменить Название
+§e§lChange Tag@§e§lИзменить Тэг
+§b§lCreate Guild@§b§lСоздать Гильдию
+§bClick to edit description@§bКликни для редактирования описания
+§aConfirm Booth@§aПодтвердить Палатку
+§7Join a new lobby@§7Присоединиться к новому лобби
+§6Back to Server List@§6Назад к Списку Серверов
+§fLobby 3@§fЛобби 3
+§fLobby 2@§fЛобби 2
+§fLobby 1@§fЛобби 1
+§7Back to Compass@§7Назад в Компас
+§7Back to Use Menu@§7Назад в Меню Использований
+§eAvailable Pets@§eДоступные Питомцы
 
 ######################################SHOPS#################################################
 §aTribal Weapon Shop@§aМагазин Оружия Племени
@@ -882,6 +945,7 @@
 §aCandy Shop@§aМагазин Конфет
 §aMysterious Shop@§aЗагадочный Магазин
 §aMiner Pass Shop@§aМагазин Пропусков
+§aSiegfried Fan Shop@§aМагазин Сувениров Зигфрида
 
 ##########################################FILTERS#############################################
 §7§lAdd Crafted Items Only Filter@§7§lДобавить Фильтр "Крафтовые Предметы"
@@ -1451,8 +1515,8 @@ Witness Report II@§fОтчет Свидетеля II
 §dHelmet of Shimmering Light@§dШлем Мерцающего Света
 Helmet of Shimmering Light@§fШлем Мерцающего Света
 §fSayleros' Brother Ashes@§fПрах Брата Сайлероса
-§eClimbing Helmet@§eАльпинистский Шлем
-§fClimbing Helmet@§fАльпинистский Шлем
+§eClimbing Helmet@§eКаска Альпиниста
+§fClimbing Helmet@§fКаска Альпиниста
 §fMaltic's Recommendation Letter@§fРекомендательное письмо Малтика
 §eFactory Helmet@§eФабричный Шлем
 §fQuartz Contract - Q Project@§fКварц Контракт - Проект Ы
@@ -1942,6 +2006,36 @@ Haunted Mask@§fПроклятая Маска
 §fPig Meat@§fМясо Свиньи
 §fReaper's Bone@§fКость Жнеца
 §4§lSacrificial Blade@§4§lЖертвенный Клинок
+§fSlime Glob@§fКомок слизи
+§6Corroded Key@§6Ржавый Ключ
+§fMysterious Skin@§fЗагадочная Кожа
+§fCheese@§fСыр
+§fSiegfried's Sword@§fМеч Зигфрида
+§d§lScavenger Hunt Ticket@§d§lБилет на Охоту за Сокровищами
+§fEnergy Mushroom@§fЭнергетический Гриб
+§fChief Elisu's Head@§fГолова Шефа Элизу
+§fSiegfried's Map@§fКарта Зигфрида
+§fAncient Bucket@§fДревнее Ведро
+§fWater Bucket@§fВедро Воды
+§fHard Leather@§fТвердая Кожа
+§fOld Cloth@§fСтарая Ткань
+§fHard Leather Boots@§fЖесткие Кожаные Сапоги
+§fLava Bucket@§fВедро Лавы
+§fCanned Abis@§fКоно Поля
+§fDecayed Matter@§fГнилое Вещество
+Az Rune@§fАз Руна
+§fAz Rune@§fАз Руна
+§fIron Cog Piece@§fЖелезный Кусок Шестеренки
+§fSoul of Referick@§fДуша Реферика
+§fCastle Door 1@§fДверь Замка 1
+§fCastle Key 2@§fКлюч Замка 2
+§fBowl of Food@§fТарелка Еды
+§fHuge cake@§fБольшой торт
+§aCosmic Ward@§aКосмическая Камера
+§fSpell of the Waking Forest@§fЗаклинание Пробуждения Леса
+§fVial of Blood@§fФлакон с кровью
+Iron Bars@Железные Прутья
+§7Water@§7Вода
 
 ###################################CRATES####################################
 §e§lLoot Crate §6[Tier I]@§e§lЛут Контейнер §6[Уровень I]
@@ -2129,6 +2223,40 @@ Haunted Mask@§fПроклятая Маска
 §4Frosty Bow@§4Морозный Лук
 §4Frosty Staff@§4Морозный Посох
 §4Frosty Spear@§4Морозное Копье
+§6x1 Pirate Hook@§6x1 Пиратский Крюк
+§6x1 Futuristic Dagger@§6x1 Футуристический Кинжал
+§6x1 Half-Moon Spear@§6x1 Копье Полу-Месяц
+§cx1 Dern Dagger@§6x1 Дерн Кинжал
+§6x1 Hand Cannon@§6x1 Ручная Пушка
+§dx1 Steampunk Bow@§6x1 Стимпанк Лук
+§fx6 Mob Totem@§fx6 Моб Тотемов
+§3Buy a §bChicken@§3Купить §bКурицу
+§3Buy a §bCow@§3Купить §bКорову
+§3Buy a §bPig@§3Купить §bСвинью
+§3Buy a §bSheep@§3Купить §bОвцу
+§3Buy a §bZombie@§3Купить §bЗомби
+§3Buy a §bSkeleton@§3Купить §bСкелета
+§3Buy a §bSpider@§3Купить §bПаука
+§3Buy a §bPigman@§3Купить §bПигмена
+§3Buy a §bCave Spider@§3Купить §bПещерного Паука
+§3Buy a §bWolf@§3Купить §bВолка
+§3Buy a §bOcelot@§3Купить §bОцелота
+§3Buy a §bMooshroom@§3Купить §bГриб
+§3Buy a §bVillager@§3Купить §bЖителя
+§3Buy a §bSlime@§3Купить §bСлайма
+§3Buy a §bSquid@§3Купить §bСквида
+§3Buy a §bMagma Slime@§3Купить §bМагма Слайма
+§3Buy a §bIron Golem@§3Купить §bЖелезного Голема
+§3Buy a §bBlaze@§3Купить §bБлейза
+§3Buy a §bEnderman@§3Купить §bЭндермена
+§3Buy a §bWitch@§3Купить §bВедьму
+§3Buy a §bWither Skeleton@§3Купить §bВизер Скелета
+§3Buy a §bMinecart@§3Купить §bВагонетку
+§3Buy a §bBoat@§3Купить §bЛодку
+§3Buy a §bFloating Eye@§3Купить §bЛетающий Глаз
+§3Buy a §bGhostly Painting@§3Купить §bПризрачную Картину
+§3Buy a §bPerl@§3Купить §bПерл
+§3Buy a §bWither@§3Купить §bВизера
 
 ##############################ITEMS####################################
 §6§lSiegfried Mug@§6§lКружка Зигфрида
@@ -2269,6 +2397,7 @@ Bunch O' Books@§fМножество Книг
 Mountain O' Books@§fГора Книг
 §fLactic Acid Bacteria@§fМолочнокислая Бактерия
 Cinfras' Busted Clock@Сломанные Часы Цинфраса
+§fThe Shiar's Maddening Clock@§fСводящие с ума Часы Шира
 Flamingo Feather@Перо Фламинго
 Painting@Картина
 Snowbell@Снижок
@@ -2320,6 +2449,7 @@ Laboratory Key@Лабораторный Ключ
 Dangling Elevator Rope@§fСвисающая Веревка
 Fresh Clay@§fСвежая Глина
 §7Toxic Mushroom@§7Токсичный Гриб
+§dMysterious Egg@§dЗагадочное Яйцо
 Refined Copper Ingot 1@Переработанный Слиток Меди 1
 Refined Copper Ingot 2@Переработанный Слиток Меди 2
 Refined Copper Ingot 3@Переработанный Слиток Меди 3
@@ -2439,3 +2569,6 @@ Crafted Chestplate@Крафтовый Нагрудник
 Crafted ChestplateÀ@Крафтовый Нагрудник
 Crafted Relik@Крафтовый Релик
 Crafted RelikÀ@Крафтовый Релик
+
+############################OTHERS##########################################
+§f§oCinfras@§f§oЦинфрас

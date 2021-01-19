@@ -39,6 +39,8 @@ Thunder Catalyst (I|II|III|IV|V|VI|VII|IX|X)$@§fКатализатор Гром
 Air Catalyst (I|II|III|IV|V|VI|VII|VIII|IX|X)$@§fКатализатор Воздуха (r1)
 Water Catalyst (I|II|III|IV|V|VI|VII|VIII|IX|X)$@§fКатализатор Воды (r1)
 Fire Catalyst (I|II|III|V|VI|VII|VIII|IX|X)$@§fКатализатор Огня (r1)
+(§b[a-zA-Z0-9_]{1,16})'s §7Shop@§7Магазин (r1)
+§b§lWorld (\d+§3) \(Recommended\)@§b§lМир (r1) (Рекомендуемый)
 
 #############################GUILD##########################################
 §7§lRogue Combat Lv. (\d+)@§7§lРазбойник Комбат Ур. (r1)
@@ -52,6 +54,15 @@ Fire Catalyst (I|II|III|V|VI|VII|VIII|IX|X)$@§fКатализатор Огня 
 §7§lHonour Guard Combat Lv. (\d+)@§7§lПочетный Защитник Комбат Ур. (r1)
 §7§lPattern (\d+)@§7§lШаблон (r1)
 §7§lColour (\d+)@§7§lЦвет (r1)
+(§b§[a-zA-Z]+§3§l) \[Lv. (\d+\])@(r1) [Ур. (r2)
+§e§lTerritories (\[\d+\])@§e§lТерритории (r1)
+(§b[a-zA-z0-9 ]+§6) \[Lv. (\d+\])@(r1) [Ур. (r2)
+§6§lDamage §7\[Lv. (\d+\])@§6§lУрон §7[Ур. (r1)
+§a§lAttack §7\[Lv. (\d+\])@§a§lАтака §7[Ур. (r1)
+§c§lHealth §7\[Lv. (\d+\])@§c§lЗдоровье §7[Ур. (r1)
+§b§lDefence §7\[Lv. (\d+\])@§b§lЗащита §7[Ур. (r1)
+§3§lNearby Territories (§7\[\d+x\])@§3§lБлижайшие Территории (r1)
+(§b§l[a-zA-Z]+§3§l) \[Lv. (\d+\])@(r1) [Ур. (r2)
 
 #############################TRADE MARKET######################################
 §7Forward to §fPage (\d+)@§7Перейти на §f(r1) страницу

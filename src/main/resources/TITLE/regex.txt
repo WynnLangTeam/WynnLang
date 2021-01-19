@@ -28,3 +28,4 @@
 §8\[§7!§8\] §7Congratulations to (§f[a-zA-Z0-9_]{1,16}§7) for reaching §flevel (\d+) in §fⒶ§7 Cooking§7!@§8[§7!§8] §7Поздравляем (r1) с достижением §f(r2) уровня в §fⒶ§7 Кулинарии§7!
 §8\[§7!§8\] §7Congratulations to (§f[a-zA-Z0-9_]{1,16}§7) for reaching §flevel (\d+) in §fⒻ§7 Tailoring§7!@§8[§7!§8] §7Поздравляем (r1) с достижением §f(r2) уровня в §fⒻ§7 Портняжном Деле§7!
 §8\[§7!§8\] §7Congratulations to (§f[a-zA-Z0-9_]{1,16}§7) for reaching §flevel (\d+) in §fⒺ§7 Scribing§7!@§8[§7!§8] §7Поздравляем (r1) с достижением §f(r2) уровня в §fⒺ§7 Изготовлении Свитков§7! 
+(^§7\d+)s$@(r1)с
