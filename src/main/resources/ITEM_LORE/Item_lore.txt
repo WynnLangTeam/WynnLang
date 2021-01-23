@@ -1809,6 +1809,7 @@
 §2   - §7Radius: 6.5 blocks@§2   - §7Радиус: 6.5 блоков
 §2   - §7Radius: 7 blocks@§2   - §7Радиус: 7 блоков
 §2   - §7Radius: 5 blocks@§2   - §7Радиус: 5 блоков
+§2   - §7Radius: 4.4 blocks@§2   - §7Радиус: 4.4 блока
 §e   - §7Chains: 8@§e   - §7Цепей: 8
 §e   - §7Chains: 9@§e   - §7Цепей: 9
 §e   - §7Chains: 7@§e   - §7Цепей: 7
@@ -2241,13 +2242,13 @@
 §7higher tier@§7высокого уровня
 §7You cannot afford this!@§7Ты не можешь себе позволить это!
 §fWynn Plains@§fВинн Равнины
-§8Open the §7attack effect§8 menu@§8Открыть меню §7эффектов атаки
-§8Open the §7player effect§8 menu@§8Открыть меню §7эффектов игрока
-§8Open the §7pet§8 menu@§8Открыть меню §7питомцев
-§8Open the §7gear skin§8 menu@§8Открыть меню §7скинов оружия
-§8Open the §7disguise§8 menu@§8Открыть меню §7маскировок
-§8Open the §7mob totem§8 menu@§8Открыть меню §7моб тотемов
-§8Open the §7bomb§8 menu@§8Открыть меню §7бомб
+§8Open the §7Attack Effects§8 menu@§8Открыть меню §7эффектов атаки
+§8Open the §7Player Effects§8 menu@§8Открыть меню §7эффектов игрока
+§8Open the §7Pets§8 menu@§8Открыть меню §7питомцев
+§8Open the §7Gear Skins§8 menu@§8Открыть меню §7скинов оружия
+§8Open the §7Disguises§8 menu@§8Открыть меню §7маскировок
+§8Open the §7Mob Totems§8 menu@§8Открыть меню §7моб тотемов
+§8Open the §7Bombs§8 menu@§8Открыть меню §7бомб
 §7Click to confirm@§7Кликни для подтверждения
 §7You will NOT be able to get it back later@§7Ты НЕ сможешь вернуть его обратно
 §cRefining...@§cПереработка...
@@ -2409,13 +2410,14 @@
 §7- §fBob Reincarnation Combat Lv. 110§7 [1] §f3072§7²@§7- §fBob Reincarnation Комбат Ур. 110§7 [1] §f3072§7²
 §7Tomes are special raid rewards@§7Тома - это специальные награды за рейд
 §7which can buff your character@§7которые могут бафать твоего персонажа
-§c✖ Quest Req: The Worm Holes§8 (Lv. 54)@§c✖ Квест Необ: The Worm Holes§8 (Ур. 54)
-§a✔ Quest Req: The Worm Holes§8 (Lv. 54)@§a✔ Квест Необ: The Worm Holes§8 (Ур. 54)
+§c✖ Quest Req: Realm of Light I - The Worm Holes§8 (Lv. 54)@§c✖ Квест Необ: Realm of Light I - The Worm Holes§8 (Ур. 54)
+§a✔ Quest Req: Realm of Light I - The Worm Holes§8 (Lv. 54)@§a✔ Квест Необ: Realm of Light I - The Worm Holes§8 (Ур. 54)
 §6Requirements: @§6Требования: 
 §6- §c✖ §7Raid Req: Nest of the Grootslangs@§6- §c✖ §7Рейд Необ.: Гнездо Грутслангов
 §6- §a✔ §7Raid Req: Nest of the Grootslangs@§6- §a✔ §7Рейд Необ.: Гнездо Грутслангов
 §6- §a✔ §7Quest Req: Lost Royalty@§6- §a✔ §7Квест Необ.: Lost Royalty
 §6- §c✖ §7Quest Req: Lost Royalty@§6- §c✖ §7Квест Необ.: Lost Royalty
+§6- §a✔ §7Quest Req: Temple of the Legends@§6- §a✔ §7Квест Необ.: Temple of the Legends
 §7You will be able to access it@§7Ты можешь получить доступ к нему
 §7at any time from the housing@§7в любое время через
 §7hot air balloons@§7воздушный шар
@@ -2464,6 +2466,9 @@
 §7from Ragni to Ragni@§7Из Рагни в Рагни
 §7from Ragni to Nemract@§7Из Рагни в Немракт
 §7from Ragni to Nesaak@§7Из Рагни в Несаак
+§d§lRIGHT-CLICK TO TRACK@§d§lПРАВЫЙ КЛИК ДЛЯ ОТСЛЕЖИВАНИЯ
+§7Click here to@§7Кликни здесь для
+§7scrap your rewards.@§7утилизации своих наград.
 
 ##############################GUILDS#################################
 §7Rank: §fOwner@§7Ранг: §fВладелец

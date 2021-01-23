@@ -110,3 +110,7 @@
 §3§b+Heart of the Pack: §3Nearby@§3§b+Heart of the Pack: §3Ближайшие
 §3players gain 35% of the health@§3игроки получают 35% здоровья
 §3you naturally regenerate@§3которое ты регенирируешь
+§3§b+Cherry Bombs: §3Your Smoke@§3§b+Cherry Bombs: §3Твои дымовые 
+§3Bombs explodes instantly on@§3бомбы взрываются мгновенно при
+§3contact, dealing 110% damage@§3контакте, нанося 110% урона
+§3each@§3каждая

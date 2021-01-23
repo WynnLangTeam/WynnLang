@@ -1,32 +1,6 @@
 QUESTS/﻿Acquiring_Credentials 
-§7Speak to Doan at @§7Поговори с Доаном на 
-§7[-267,59,-4973]@ 
-§7regarding his passport @§7по поводу его паспорта 
-§7Look around the airbase for @§7Обыщи авиабазу, и найди 
-§7clues as to where the @§7подсказки, куда могли 
-§7thieves might be @§7пойти воры 
-§7Find a way to find @§7Найди способ 
-§7out about the password @§7узнать пароль
-§7Look through all of the @§7Отыщи в воде 
-§7water for the ticket and @§7билет и 
-§7then return it @§7верни его
-§7Speak to the guard again @§7Поговори с охранником снова
-§7Look around the black market @§7Отыщи на черном рынке 
-§7for someone with information about @§7кого-нибудь с информацией 
-§7the passport @§7о паспорте
-§7Infiltrate the administrational office in @§7Проникни в административный офис 
-§7order to bring back the @§7и принеси назад 
-§7[Secret Documents] @§7[Секретные Документы]
-§7Sneak around the guards in @§7Спрячься от охранников 
-§7the darkness, and find a @§7в темноте, и найди способ 
-§7way into the vault @§7попасть в хранилище
-§7Return to the Document Merchant @§7Вернись к Торговцу Документами 
-§7with the [Secret Documents] @§7с [Секретными Документами]
-§7Go to the storage area @§7Иди в хранилище 
-§7that contains the passport, and @§7 с паспортами, и найди 
-§7find a way in @§7путь внутрь 
-§7Return to Doan with the @§7Вернись к Доану с 
-§7[Dusty Passport]@§7[Пыльным Паспортом] 
+§7Get a Gavellian Passport at @Добудь Гавеллианский паспорт на 
+§7[-256,57,-4983]. @ 
  
 QUESTS/Aldorei%27s_Secret_Part_I 
 §7Talk to the Elf Guard @§7Поговори с Эльфом Защитником 
@@ -215,13 +189,16 @@ QUESTS/A_Grave_Mistake
 §7§4.§lReturn§4;' §lto§4:, '§lAlem;, @§7§4.§lВернись§4;' §lк§4:, '§lАлему;, 
 
 QUESTS/A_Headless_History
-§7Talk to Hans in the @§7Поговрри с Гансом в 
+§7Talk to Hans in the @§7Поговори с Гансом в 
 §7village next to Gelibord at @§7деревне рядом с Гелибордом на 
+§7Gelibord outskirts at @§7окраинах Гелиборда на 
 §7[-1096,42,-5384]@ 
 §7Investigate the strange cave under @§7Посети странную пещеру 
 §7the castle further @§7под замком неподалеку 
 §7Return the Lost Soul of @§7Верни пропавшую душу 
 §7Referick to its owner @§7Реферика ее владельцу 
+§7Enter the last door in @§7Войди в последнюю дверь в 
+§7the dining hall. @§7столовой.
 
 §7Talk to Lari outside the @§7Поговори с Лари снаружи 
 §7weird gate at @§7странных ворот на 
@@ -904,6 +881,8 @@ QUESTS/Finding_The_Light
 §7Find the Canned Abis cave @§7Найди пещеру с Коно Полей 
 §7[-744,11,-4591]@ 
 §7Talk to the Guardian @§7Поговори с Защитником
+§7Return to the Tree at @§7Вернись к Дереву на 
+§7[-1123,46,-4771]. @ 
  
 QUESTS/Flight_in_Distress 
 §7Speak to the Passenger Controllant @§7Поговори с Контроллером 
@@ -1260,20 +1239,11 @@ QUESTS/Lazarus_Pit
 §7Take a look at the @§7Посмотри 
 §7graveyard at @§7на кладбище 
 §7[-998,48,-5340]@ 
-§7Go to the location shown @§7Иди по координатам 
-§7on the gravestone @§7указанным на надгробной плите 
-§7Find a way into the @§7Найди путь попасть 
-§7Find the "Wandering Man" @§7Найди "блуждающего человека" 
-§7Return to Vesdar with [16 @§7Вернись к Весдару с [16 
-§7Rotten Skin] @§7Гнилой Кожи] 
-§7Find and enter the Lazarus @§7Найди и войди 
-§7Pit at @§7в Лазарус яму на 
-§7[-953,81,-5465]@ 
-§7Explore the Pit @§7Исследуй яму 
-§7Inspect the house nearby @§7Посети ближайший дом 
-§7Talk to Sesad @§7Поговори с Сесадом 
-§7Return to Burtur with [Healing @§7Вернись к Буртуру с [Целебной 
-§7Water] @§7Водой] 
+§7Check in with Burtur about @§7Поговори с Буртуром насчет 
+§7the attack at [-1025,47,-5302]. @§7атаки на [-1025,47,-5302]. 
+§7Find the body of the @§7Найди тело участника 
+§7Order's mage in Gelibord's graveyard @§7Ордена магов на кладбище Гелиборда 
+§7at [-999,48,-5340]. @§7на [-999,48,-5340].
  
 QUESTS/Lexdale_Witch_Trials
 §7See what's going on in @§7Посмотри что происходит в 
@@ -2476,26 +2446,11 @@ QUESTS/The_Qira_Hive_(Quest)
 §7complete the Hive Challenge @§7заверши Челлендж Улья 
 
 QUESTS/The_Realm_of_Light_(Quest) 
-§7Speak to Aluxander in the @§7Поговори с Алуксандером 
-§7Realm of Light at @§7в Царстве Света на 
-§7[-1164,57,-6759]@ 
-§7(Requires completion of Finding the @§7(Необходимо пройти квест 
-§7Light) @§7Finding of Light) 
-§7Follow the trail of corruption @§7Следуй по пути порчи 
-§7Investigate the cave @§7Посети пещеру 
-§7Speak to Heliorion at @§7Поговори с Хелиорионом 
-§7[-1068,50,-7001]@ 
-§7Bring [7 Light Residue] and @§7Принеси [7 Остатков света] и 
-§7[3 Illuminated Mushrooms] to Heliorion @§7[3 Освещенных Гриба] к Хелиориону 
-§7Bring [10 Glowing Powder] to @§7Принеси [10 Сияющего Порошка] 
-§7Heliorion @§7Хелиориону 
-§7Follow the trails to the @§7Следуй по пути 
-§7seeds of corruption and destroy @§7к семенам и уничтожь их, 
-§7them, then report back to @§7затем сообщи 
-§7Heliorion at @§7об этом Хелиориону 
-§7Speak to Gaclux in front @§7Поговори с Гаклуксом 
-§7of the rune at @§7перед руной на 
-§7[-366,59,-6733]@ 
+§7Talk to Lari at @§7Поговори с Лари на 
+§7[-856,58,-6002]@ 
+§7in the Realm of Light. @§7в Царстве Света. 
+§7Continue up the road towards @§7Продвигайся по дороге к 
+§7Orphion's of Nexus of Light. @§7Нексусу Орфиона.
  
 QUESTS/The_Shadow_of_the_Beast 
 §7Talk to Dereg in his @§7Поговори с Дереком 
@@ -2797,6 +2752,15 @@ QUESTS/Zhight_Island_(Quest)
 §7[-1744,66,-5478]@ 
 §7[-1991,34,-4658]@ 
 §7at [-1366, 42, -4543] @§7 на [-1366, 42, -4543] 
+§7at [746,150,-4468]. @§7на [746,150,-4468]. 
++++++++++++++++++
+§7in the Temporary Camp at @§7во временном лагере на 
+§7[-1499,47,-5349]. @ 
+§7Meet up with Lari at @§7Встреться с Лари на 
+§7[-1053,46,-4363]. @ 
+§7Investigate his house for clues @§7Исследуй его дом в поисках подсказок 
+§7as to what could have @§7о том, что могло произойти.
+++++++++++++++++++
 
 #############################MINI QUESTS#########################################
 §7Bring [5 Forest Webs] to @§7Принеси [5 Forest Webs] к 

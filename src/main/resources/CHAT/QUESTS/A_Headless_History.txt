@@ -42,7 +42,7 @@
 §7[1/13] §2Lari: §a§oBe done! I bind you with Orphion's light!@§7[1/13] §2Лари: §a§oХватит! Я связываю тебя светом Орфиона!
 §7[2/13] §2Lari: §aWait...it...it's§a n-not holding?!@§7[2/13] §2Лари: §aПодожди...это...н-не сдержало его?!
 §7[3/13] §2Dullahan: §aLARIII! Where are you?! I can help!!@§7[3/13] §2Дуллахан: §aЛАРРИИ! Где ты?! Я могу помочь!!
-§7[4/13] §2Dullahan: §aUgh, I saw her with §athat...THING§a, but...@§7[4/13] §2Дуллахан: §aУх, я видел ее с этим ... СУЩЕСТВОМ, но.....
+§7[4/13] §2Dullahan: §aUgh, I saw her with §athat...THING§a, but...@§7[4/13] §2Дуллахан: §aУх, я видел ее с этим ... СУЩЕСТВОМ, но...
 §7[5/13] §2Dullahan: §aMy visions didn't show an exact enough spot... LARIII?@§7[5/13] §2Дуллахан: §aМои видЕния не показывали достаточно точного места... ЛААРИИ?
 §7[6/13] §2Dullahan: §aI...what§a is... What left the land scarred like this?!@§7[6/13] §2Дуллахан: §aЯ...что за... Что оставило на земле такие шрамы?!
 §7[7/13] §2Dullahan: §aWas...was§a this their clash...? L-LARI! LARIIII! WHERE ARE YOU?!@§7[7/13] §2Дуллахан: §aБыло ли... было ли это их столкновение..? Л-ЛАРИ! ЛАРИИИИ! ГДЕ ТЫ?!

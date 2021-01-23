@@ -31,6 +31,9 @@ CT Pet - GM@КТ - GM Питомец
 §cEnergized Mushroom§6 [Lv. 7]@§cЭнергетический Гриб§6 [Ур. 7]
 §cLari§6 [Lv. 150]@§cЛари§6 [Ур. 150]
 §a§eUpcoming Attack§6 [Lv. 75]@§a§eПредстоящая Атака§6 [Ур. 75]
+§f Grüner Apfel@§f Зеленое Яблоко
+§fPink Woolly@§fРозовый Пушистик
+§ePink Woolly@§eРозовый Пушистик
 
 ###################################ITEMS##################################
 §aScientist Remains§6 [Lv. 1]@§aОстанки Ученого§6 [Ур. 1]
@@ -202,6 +205,10 @@ CT Pet - GM@КТ - GM Питомец
 §aCanned Abis§6 [Lv. 71]@§aКоно Поля§6 [Ур. 71]
 §aWedding Band§6 [Lv. 1]@§aОбручальная Лента§6 [Ур. 1]
 §cFaded Map§6 [Lv. 1]@§aВыцветшая Карта§6 [Ур. 1]
+§aStrange Coin§6 [Lv. 1]@§aСтранная Монета§6 [Ур. 1]
+§aAz Rune§6 [Lv. 60]@§aАз Руна§6 [Ур. 60]
+§aSoft Whetstone§6 [Lv. 75]@§aМягкий Брусок§6 [Ур. 75]
+§aSparkling Glider§6 [Lv. 80]@§aСверкающий Планер§6 [Ур. 80]
 
 #####################MERCHANTS###########################
 §dDungeon Merchant@§dДанж Торговец
@@ -549,6 +556,12 @@ CT Pet - GM@КТ - GM Питомец
 §2§fFrustrated Citizen@§2§fРастроенный Житель
 §2§fTailor's Notes@§2§fЗаметки Портного
 §2§fCorkian Jeweler@§2§fТрюкач Коркуса
+§2§fExplorer@§2§fИсследователь
+§2§fGavellian Soldier@§2§fГавеллианский Солдат
+§2§fStone Inscription@§2§fКаменная Надпись
+§2§fEnd of Royalty - Cinfrasian Uprising@§2§fКонец королевской власти - Восстание Цинфраса
+§2§fStudy of the Goliaths@§2§fИзучение Голиафов
+§2§fFall of the Twins@§2§fПадение Близнецов
 §2Construction Villager@§2Житель Строитель
 §2Sergeant Klafson@§2Сержант Клафсон
 §2Farmer Cevalus@§2Фермер Цевалус
@@ -1122,6 +1135,14 @@ CT Pet - GM@КТ - GM Питомец
 §2Retired Clockmaker@§2Отставной Часовщик
 §2Guardian of the Forest - Information@§2Защитник Леса - Информация
 §2Elder@§2Старец
+§2Customs Officer@§2Таможенник
+§2Old Book@§2Старая Книга
+§2Gelibord Guard@§2Страж Гелиборда
+§2Plaque§0@§2Табличка
+§2Curious Light Creature@§2Любопытное Существо Света
+§2Bulbo@§2Бульбо
+§2Nodise@§2Нодис
+§2Sybil@§2Сибил
 §fFisherman@§fРыбак
 §fSnoo@§fСну
 §fPirate@§fПират
@@ -1139,6 +1160,8 @@ Dernel Mage@Дернел Маг
 Gert@Герт
 Gylia Farmer@Фермер Гилия
 Old Druid@Старый Друид
+§4Bak'al@§4Бак'ал
+§4Bak'al:@§4Бак'ал:
 
 ######################PROFESSIONS##################################
 §aCopper@§aМедь
@@ -1515,10 +1538,15 @@ Old Druid@Старый Друид
 §bWynnic Soldier§6 [Lv. 60]@§bВинник Солдат§6 [Ур. 60]
 §bGavellian Soldier§6 [Lv. 55]@§bГавеллианский Солдат§6 [Ур. 55]
 §bCinfras Entrance Tower@§bВходная Башня Цинфраса
-§bThesead Guard Golem§6 [Lv. 90]@§bГолем Охранник Тесеада§6 [Ур. 90]
+§bThesead Guard Golem§6 [Lv. 90]@§bГолем Страж Тесеада§6 [Ур. 90]
 §bRagni Soldier§6 [Lv. 45]@§bРагни Солдат§6 [Ур. 45]
 §bBucie Guard§6 [Lv. 50]@§bБучи Солдат§6 [Ур. 50]
 §bBucie Archer§6 [Lv. 50]@§bБучи Лучник§6 [Ур. 50]
+§bOfficer§6 [Lv. 95]@§bОфицер§6 [Ур. 95]
+§bAhmsord Guard Golem§6 [Lv. 110]@§bГолем Страж Амсорда§6 [Ур. 110]
+§bOlux Guard Golem§6 [Lv. 55]@§bГолем Страж Олукса§6 [Ур. 55]
+§bBurtur§6 [Lv. 65]@§bБуртур§6 [Ур. 65]
+§bChlorophyll Muncher§6 [Lv. 64]@§bПожиратель Хлорофилла§6 [Ур. 64]
 
 ############################INSCRIPTIONS################################
 §bSiegfried Figurine@§bСтатуэтка Зигфрида
@@ -2167,6 +2195,8 @@ Gift From Dern@Подарок из Дерна
 §7Get §e[Food Storage Key]@§7Добудь §e[Ключ от Хранилища Еды]
 §7Get §e[2 Sleeper Spores]@§7Добудь §e[2 Усыпляющих Споры]
 §7Get §e[3 Explosive Mass]@§7Добудь §e[3 Взрывчатой Массы]
+§7Get §e[1 Ice Token]@§7Добудь §e[1 Жетон Льда]
+§7Get §e[5 Sun Tokens]@§7Добудь §e[5 Жетонов Солнца]
 §7Difficulty: §aEasy@§7Сложность: §aЛегкий
 §7Difficulty: §eMedium@§7Сложность: §eСредний
 §7Difficulty: §4Extreme@§7Сложность: §4Экстрим
@@ -2201,12 +2231,6 @@ Gift From Dern@Подарок из Дерна
 §7to break through@§7чтобы прорваться
 §bRight Click@§bПравый Клик
 §9Cyclone Blue@§9Синий Циклон
-§cRaid@§cРейд
-§2§lNest of the Grootslangs@§2§lГнездо Грутслангов
-§7Quest Req: §fThe Worm Holes@§7Квест Необ.: §fThe Worm Holes
-§7Max Party Lv: §f300@§7Макс Пати Уровень: §f300
-§7Player Req: §f4@§7Игроков Необ.: §f4
-§7Req: §b2 §7[§bAz Rune§7]@§7Необ: §b2 §7[§bАз Руны§7]
 §6Block Bank@§6Банк Блоков
 §7View Block Shop!@§7Просмотр Магазина Блоков!
 §7Type §b/housing edit§7 to edit@§7Напиши §b/housing edit§7 для редактирования
@@ -2236,6 +2260,7 @@ Gift From Dern@Подарок из Дерна
 §7Combat Lv. Min: §f95@§7Комбат Ур. Мин: §f95
 §7Req: §b4 §7[§bTol Rune§7]@§7Необ: §b4 §7[§bТол Руны§7]
 §cYou must have a §dHERO§c rank or higher to use this!@§cУ тебя должен быть §dHERO§c ранг или выше для использования этого!
+§cYou must have a §6CHAMPION§c rank or higher to use this!@§cУ тебя должен быть §6CHAMPION§c ранг или выше для использования этого!
 §fInformation Post@§fИнформационный Пост
 §fJuggler@§fТрюкач
 §a§lAhmsord@§a§lАмсорд
@@ -2275,6 +2300,17 @@ Gift From Dern@Подарок из Дерна
 §a§lThe Realm of Light§0@§a§lЦарство Света
 §a§lRealm of War§0@§a§lЦарство Войны
 §a§lRealm of Darkness§0@§a§lЦарство Тьмы
+§7NPC§7@§7НПС§7
+§bRight-Click §ato donate an emerald.§0@§bПравый Клик §aчтобы задонатить эмеральд.§0
+§cOrc@§cОрк
+§2Input: §aRiver@§2Вход: §aРека
+§2Output: §aCavern@§2Выход: §aПещера
+§c20s@§c20с
+§4§lDANGER!@§4§lОПАСНО!
+§6[Lv. 95] Area@§6[Ур. 95] Территория
+§a§lThesead@§a§lТесеад
+§7[§62 Sleeper Spore's§7]@§7[§62 Усыпляющих Споры§7]
+§aCobblestone@§aБулыжник
 
 ######################KEY GUARDIANS###########################
 §cDecrepit Sewers Key Guardian§6 [Lv. 9]@§cЗащитник Ключа от Ветхой Канализации§6 [Ур. 9]
@@ -2792,6 +2828,17 @@ Gift From Dern@Подарок из Дерна
 §a§8???§6 [Lv. 65]@§a§8???§6 [Ур. 65]
 §aTied up Ladder§6 [Lv. 71]@§aПривязанная Лестница§6 [Ур. 71]
 §aElder§6 [Lv. 75]@§aСтарец§6 [Ур. 75]
+§aAirbase Worker§6 [Lv. 75]@§aРаботник Авиабазы§6 [Ур. 75]
+§a§6 [Lv. 2]@§a§6 [Ур. 2]
+§a§0§6 [Lv. 1]@§a§0§6 [Ур. 1]
+§aBlacksmith Villager§6 [Lv. 1]@§aЖитель Кузнец§6 [Ур. 1]
+§aDead Villager§6 [Lv. 1]@§aМертвый Житель§6 [Ур. 1]
+§a§bLonely Fairy§6 [Lv. 75]@§a§bОдинокая Фея§6 [Ур. 75]
+§a§bJoyful Fairy§6 [Lv. 75]@§a§bРадостная Фея§6 [Ур. 75]
+§a֎§6 [Lv. 1]@§a֎§6 [Ур. 1]
+§aBulbo§6 [Lv. 1]@§aБульбо§6 [Ур. 1]
+§aCouncil Member Nodise§6 [Lv. 95]@§aУчастник Совета Нодис§6 [Ур. 95]
+§aCouncil Member Sybil§6 [Lv. 95]@§aУчастник Совета Сибил§6 [Ур. 95]
 
 #################################CRATES################################
 §eLoot Crate T1@§eЛут Контейнер У1
@@ -3073,23 +3120,38 @@ Orange Cybel@Оранжевый Кубел
 §a§oWait!@§a§oПогоди!
 §a§o*inaudible*@§a§o*Невнятно бормочет*
 ==
-§c§lLEAVE!§0@§c§lУХОДИ!§0
-§aLet me in! Please!@§aПустите меня! Пожалуйста!
-§aPlease... I just want to help.@§aПожалуйста... Я просто хочу помочь.
-§aThe ultimate prison of pure light will stop you!@§aМощная тюрьма чистого света остановит тебя!
-§aWhy are you not scared?@§aПочему ты не испуган?
-§aI saw her. She needs me...@§aЯ видел ее. Она нуждается во мне.
-§aWhere is she?@§aГде она?
-§aMy vision...@§aМое зрение...
-§aWhat in the world is this.@§aЧто же это такое?
-§aLight and dark.@§aСвет и тьма.
-§aMagic, dont let me down!@§aМагия, не подведи меня!
-§aCome on flowers. We got this!@§aДавайте, цветы. У нас получилось!
+§a§oBe done! I bind you with Orphion's light!@§a§oХватит! Я связываю тебя светом Орфиона!
+§aWait...it...it's n-not holding?!@§aПодожди...это...н-не сдержало его?!
+§aLARIII! Where are you?! I can help!!@§aЛАРРИИ! Где ты?! Я могу помочь!!
+§aUgh, I saw her with that...THING, but...@§aУх, я видел ее с этим ... СУЩЕСТВОМ, но...
+§aMy visions didn't show an exact enough spot... LARIII?@§aМои видЕния не показывали достаточно точного места... ЛААРИИ?
+§aI...what is... What left the land scarred like this?!@§aЯ...что за... Что оставило на земле такие шрамы?!
+§aWas...was this their clash...? L-LARI! LARIIII! WHERE ARE YOU?!@§aБыло ли... было ли это их столкновение..? Л-ЛАРИ! ЛАРИИИИ! ГДЕ ТЫ?!
+§aSit as still as you can, I have healing spells prepared.@§aСядь и не двигайся, я приготовил исцеляющие заклинания.
+§aI ask the land for its life to save another. Grant me this!@§aЯ прошу землю, за свою жизнь, чтобы спасти другую. Даруй мне ее!
 §aDullahan!@§aДуллахан!
-§aThank Orphion your safe!@§aСлава Орфиону ты в безопасности!
-§2Dullahan: §aBack off!@§2Дуллахан: §aНазад!
-§2Lari: §aWATCH OUT!@§2Лари: §aОСТОРОЖНЕЕ!
-§2Dullahan: §aNot a scratch!?!@§2Дуллахан: Даже ни царапины!?!
+§aOh, what am I going to do with you...@§aОх, что же мне с тобой делать...
+§2Dullahan: §aAWAY! You keep away from us!!@§2Дуллахан: §aПРОЧЬ! Держись от нас подальше!!
+§2Lari: §aIt's under you! MOVE!!@§2Лари: §aОн под тобой! УХОДИ!!
+§2Dullahan: §aIt's shrugging my attacks off, Lari! Come on, do SOMETHING!@§2Дуллахан: §aОн уворачивается от моих атак, Лари! Давай, сделай ЧТО-НИБУДЬ!
+==
+§a§oWait! Something... Something's not@§a§o1
+§a§oquite right...@§a§o1
+§a§oNo... No, no - what now?!@§a§o1
+§c§oI'm afraid this ends here.@§c§o1
+§a§oWho... Or rather what... Are you?@§a§o1
+§c§oYou. Finally I meet someone who@§c§o1
+§c§omatches my power once more.@§c§o11
+§c§oBut you're too late.@§c§o1
+§a§oMatches your power..? Wait, you're...@§a§o1
+§a§oNo, no, what did you do to §lhim§a§o?!@§a§o1
+§c§oWhy don't you come and find out?@§c§o1
+§a§oThat's it. I'm tired of this.@§a§o1
+§a§oI'm about to §lkill you§a.@§a§o1
+§a§oNo... I'm not letting YOU run away!@§a§o1
+§c§oThen come. Come, and let your god perish.@§c§o1
+§a§o§lSee you on the other side.@§a§o1
+§c§oWait, it's unthinkable you'll-@§c§o1
 
 ################################TERRITORY###########################
 §f§lRagni Main Entrance@ 
@@ -3496,3 +3558,135 @@ Orange Cybel@Оранжевый Кубел
 §6§lAerie of the Recluse@ 
 §6§lGeyser Pit@ 
 §6§lBottomless Pit@ 
+
+#########################RAIDS###################################
+§cRaid@§cРейд
+§2§lNest of the Grootslangs@§2§lГнездо Грутслангов
+§7Quest Req: §fThe Worm Holes@§7Квест Необ.: §fThe Worm Holes
+§7Max Party Lv: §f320@§7Макс. Уровень Пати: §f320
+§7Player Req: §f4@§7Игроков Необ.: §f4
+§7Req: §b2 §7[§bAz Rune§7]@§7Необ: §b2 §7[§bАз Руны§7]
+§6§lOrphion's Nexus of Light@§6§lНексус Света Орфиона
+§7Player Req: §f4-6@§7Игроков Необ.: §f4-6
+§7Quest Req: §fThe Realm of Light V@§7Квест Необ.: §fThe Realm of Light V
+§eTeleport Back to Exit@§eТелепорт Обратно к Выходу
+§6§lTeleporter@§6§lТелепортер
+§e[Quest Req: Realm of Light]@§e[Квест Необ.: Realm of Light]
+§7Req: §b3 §7[§bUth Rune§7]@§7Необ.: §b3 §7[§bУтх Руны§7]
+§3§lInstructions@§3§lИнструкции
+§7Every §b1 minute §7new passageways open.@§7Каждую §b1 минуту §7открываются новые проходы.
+§7Complete the challenges in the passageways@§7Пройди испытания в проходах
+§7to get resources and re-open the exit@§7чтобы получить ресурсы и снова открыть выход
+§3Right-Click to@§3Правый Клик для
+§bOpen the exit §6[0/10]@§bОткрытия выхода §6[0/10]
+§bOpen the exit §6[1/10]@§bОткрытия выхода §6[1/10]
+§bOpen the exit §6[2/10]@§bОткрытия выхода §6[2/10]
+§bOpen the exit §6[3/10]@§bОткрытия выхода §6[3/10]
+§bOpen the exit §6[4/10]@§bОткрытия выхода §6[4/10]
+§bOpen the exit §6[5/10]@§bОткрытия выхода §6[5/10]
+§bOpen the exit §6[6/10]@§bОткрытия выхода §6[6/10]
+§bOpen the exit §6[7/10]@§bОткрытия выхода §6[7/10]
+§bOpen the exit §6[8/10]@§bОткрытия выхода §6[8/10]
+§bOpen the exit §6[9/10]@§bОткрытия выхода §6[9/10]
+§3Players inside@§3Игроков внутри
+§6[0/1]@ 
+§6[0/2]@ 
+§6[1/2]@ 
+§7to get the resource.@§7получения ресурса.
+§7Kill the Miniboss@§7Убей Минибосса
+§c§lFight!@§c§lБитва!
+§7Get to the end of the parkour@§7Пройди до конца паркура
+§c§lParkour!@§c§lПаркур!
+§bTo get §7[1 Iron Bars]@§bДля получения §7[1 Железного Прута]
+§3Gather at the center@§3Соберитесь в центре
+§bto open the exit@§bдля открытия выхода
+§8§lGiant I@ 
+§b+ 3000 §7Health Bonus@§b+ 3000 §7Бонуса к Здоровью
+§b+ 400 §7Health Regen Raw@§b+ 400 §7Регена Здоровья
+§c§lPestilent I@ 
+§b+5000 §7Poison@§b+5000 §7Яда
+§b+40 §7Strength@§b+40 §7Силы
+§b+400 §7Life Steal@§b+400 §7Вампиризма
+§5§lMonk I@ 
+§b+70 §7Agility@§b+70 §7Ловкости
+§b+2 §7Mana Regen@§b+2 §7Мана Регена
+§b+40 §7Intelligence@§b+40 §7Интеллекта
+§2§lRight-click@§2§lПравый Клик
+§afor more information@§aдля большей информации
+§7§lStonewalker I@ 
+§b+40 §7Defense@§b+40 §7Защиты
+§b+50% §7Main Attack Damage@§b+50% §7Урона Основной Атаки
+§a§lIntrepid I@ 
+§b+100% §7Sprint@§b+100% §7Спринта
+§b+40 §7Dexterity@§b+40 §7Точности
+§b+45% §7Walk Speed@§b+45% §7Скорости
+§3§lHold the Platforms@§3§lудержание платформ
+§73 passageways will randomly open.@§73 прохода рандомно открываются.
+§7The players must spread within §b5 seconds@§7Игроки должны распределиться в течение §b5 секунд
+§7and simultaneously hold §b3 platforms §7for §b60 seconds§7.@§7и одновременно удерживать §b3 платформы §7в течение §b60 секунд.
+§7The passageway will close in@§7Проход закроется через
+§b5 seconds@§b5 секунд
+§b4 seconds@§b4 секунды
+§b3 seconds@§b3 секунды
+§b2 seconds@§b2 секунды
+§b1 second@§b1 секунду
+§8§lGiant II@ 
+§b+50 §7Defense@§b+50 §7Защиты
+§b+5000 §7Health Bonus@§b+5000 §7Бонуса к Здоровью
+§c§lPestilent II@ 
+§b+5 §7Mana Steal@§b+5 §7Кражи Маны
+§b+500 §7Life Steal@§b+500 §7Вампиризма
+§a§lIntrepid II@ 
+§b+60 §7Dexterity@§b+60 §7Точности
+§b+40% §7Spell Damage@§b+40% §7Урона Заклинаний
+§b+1 §7Attack Damage Bonus@§b+1 §7Бонус к Урону от Атаки
+§7§lStonewalker II@ 
+§b+35% §7Exploding@§b+35% §7Взрывов
+§b+1000 §7Main Attack Damage@§b+1000 §7Урона Основной Атаки
+§5§lMonk II@ 
+§b+50% §7Speed@§b+50% §7Скорости
+§b+3 §7Mana Regen@§b+3 §7Регена Маны
+§b+30 §7Intelligence@§b+30 §7Интеллекта
+§7Prevent the lava behind you from overflowing@§7Предотврати переполнение лавы позади тебя
+§7by using the water from the nearby pond.@§7используя воду из ближайшего пруда.
+§7Succeeding §b5 times §7will create a platform@§7После успешных §b5 попыток§7 создастся платформа
+§7that must be held until the team gets to the end.@§7которая будет держаться пока команда не дойдет до конца.
+§bget water@§bполучения воды
+§7Right-click to@§7Правый клик для
+§8§lGiant III@ 
+§b+7000 §7Health Bonus@§b+7000 §7Бонуса к Здоровью
+§b+ §7Guardian Major ID@ 
+§b+1000 §7Health Regen Raw@§b+1000 §7Регена Здоровья
+§7§lStonewalker III@ 
+§b+150% §7Main Attack Damage@§b+150% §7Урона Основной Атаки
+§b+ §7Explosive Impact Major ID@ 
+§c§lPestilent III@ 
+§b+600 §7Life Steal@§b+600 §7Вампиризма
+§b+ §7Plague Major ID@ 
+§a§lIntrepid III@ 
+§b+ §7Lightweight Major ID@ 
+§b+ §7Saviour's Sacrifice Major ID@ 
+§5§lMonk III@ 
+§b+5 §7Mana Regen@§b+5 §7Регена Маны
+§b+50% §7Reflection@§b+50% §7Отражения
+§b+100% §7Spell Damage@§b+100% §7Урона Заклинаний
+§9§lThe Canyon Colossus@§9§lКолосс Каньона
+§7[Lv. 250]@§7[Ур. 250]
+§4§l[§cBoss Fight§4§l]@§4§l[§cБитва с Боссом§4§l]
+§7Hold the §bUpper §7and §bLower §7platforms@§7Удерживай §bВерхние §7и §bНижние §7платформы
+§7to open the multiple doors.@§7для открытия множества дверей.
+§7for §b60 seconds@§7в течение §b60 секунд
+§2Hold the §bUpper Platform@§2Удерживай §bВерхнюю Платформу
+§ato open the door@§aдля открытия двери
+§2Hold the §bLower Platform@§2Удерживай §bНижнюю Платформу
+§aFor §b60 seconds §ato open the door@§aв течение §b60 секунд §aдля открытия двери
+§aFor §b60 seconds §ato open the exit@§aв течение §b60 секунд §aдля открытия выхода
+§c§lRun!@§c§lЗабег!
+§7Get to the end of the room@§7Доберись до конца комнаты
+§7avoiding the rocks to get the resource.@§7избегая камни для получения ресурса.
+§bUse the wings@§bИспользование Крыльев
+§7Use the wings to find the maze's exit@§7Используй крылья для нахождения выхода из лабиринта.
+§7Memorize the path and escort your team to the exit.@§7Запомни путь и проведи свою команду к выходу.
+§c§lPuzzle!@§c§lПазл!
+§7Survive §b60 seconds@§7Выживи §b60 секунд
+§7stepping on the right colored blocks.@§7оставаясь на блоках правильного цвета.

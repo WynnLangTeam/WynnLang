@@ -1066,3 +1066,27 @@
 §7aristocrat, this castle has been overtaken @§7замок был захвачен Дуллаханом - 
 §7by Dullahan, an enigmatic Elf who @§7загадочным эльфом, который терроризировал 
 §7terrorized the Dark Forest for decades. @§7Темный Лес на протяжении десятилетий.
+
+§7An intense well of gravity sits @§7На границе пустоты находится мощный 
+§7atop the border of the void, @§7колодец гравитации, втягивающий в себя 
+§7drawing in anything fallen into it. @§7все, что в него упало. Существа, 
+§7Creatures seem to still live down @§7кажется, все еще живут 
+§7here... @§7здесь...
+
+§7Built by the most skilled sculptors @§7Построенный самыми искусными скульпторами 
+§7in Gavel, no expense was spared @§7Гавела, на сооружение этого 
+§7in constructing this enormous monument to @§7огромного памятника Герою Гавела 
+§7Gavel's hero. @§7не жалели средств.
+
+§7Secluded beneath the remains of a @§7Уединенное под остатками колоссального 
+§7colossal tree, this bizarre structure acts @§7дерева, это причудливое сооружение 
+§7as a gateway to the Realm @§7действует как ворота в Царство Света - 
+§7of Light, an otherworldly realm beyond @§7потустороннее царство за пределами 
+§7imagination. @§7воображения.
+
+§7Thought only to be a myth, @§7Считаясь лишь мифом, эта легендарная 
+§7this legendary structure acts as a @§7структура служит нексусом для 
+§7nexus for the Realm of Light's @§7силы Царства Света. Где-то в его 
+§7power. Somewhere within its enigmatic halls @§7загадочных залах находится 
+§7lies Orphion, the physical manifestation of @§7Орфион - физическое проявление самого 
+§7Light itself. @§7Света.
