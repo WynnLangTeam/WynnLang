@@ -46,11 +46,11 @@ public class StringLoader {
 
             // p' = "§aStray Page - §c(\d+)§4❤"
             // r' = "§aБлуждающая Страница - §c(r1)§4❤"
+
             if (p.matches("§.+§6 \\[Lv\\. [0-9]+\\]") && r.matches("§.+§6 \\[Ур. [0-9]+\\]")) {
-                String baseOriginalName = p.substring(0, p.indexOf("§6")).replace("?", "\\?");
+                String baseOriginalName = p.substring(0, p.indexOf("§6"));
                 String baseTranslatedName = r.substring(0, r.indexOf("§6"));
-                System.out.println("test| " + baseOriginalName + " - §c(\\d+)§4❤" + "  |  " + baseTranslatedName + " - §c(r1)§4❤");
-                bossBar.put(Pattern.compile(baseOriginalName + " - §c(\\d+)§4❤"), baseTranslatedName + " - §c(r1)§4❤");
+                bossBar.put(Pattern.compile(baseOriginalName.replace("?", "\\?") + " - §c(\\d+)§4❤"), baseTranslatedName + " - §c(r1)§4❤");
             }
         });
     }

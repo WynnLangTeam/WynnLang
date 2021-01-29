@@ -1,6 +1,6 @@
 ##################################DO NOT TRANSLATE##################################
 §[ac].*§[24] \[.*\]@ 
-§[ebac].* - §c\d+§4❤$@ 
+# §[ebac].* - §c\d+§4❤$@
 §cTrained Lion Cub - §c\d+§4❤ - §7§7@ 
 §cWannabe Assassin - §c\d+§4❤ - §7§7@ 
 §cYoung Grootslang - §c\d+§4❤ - §7§7@ 

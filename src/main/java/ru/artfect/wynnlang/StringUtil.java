@@ -22,8 +22,6 @@ public class StringUtil {
 
     public static String handleString(Class<? extends TranslateType> type, String str) {
         String s = str.replace("§r", "");
-        if (type == BossBar.class)
-            System.out.println(s.replace('§','&'));
         String replace = findReplace(type, s);
         if (replace != null) {
             return replace.isEmpty() ? null : replaceFound(type, s, replace);
