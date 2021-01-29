@@ -25,7 +25,9 @@ public class StringLoader {
         loadType(BossBar.class);
         loadType(Scoreboard.class);
 
-        if(Loader.isModLoaded("wynnexp")){
+        generateMobBossBarFromRegularNames();
+
+        if (Loader.isModLoaded("wynnexp")) {
             WynnLang.common.get(ItemName.class).remove("§dQuest Book");
             HashMap<String, String> loreMap = WynnLang.common.get(ItemLore.class);
             loreMap.remove("§a\u2714§7 Class Req: Mage/Dark Wizard");
@@ -33,6 +35,24 @@ public class StringLoader {
             loreMap.remove("§a\u2714§7 Class Req: Archer/Hunter");
             loreMap.remove("§a\u2714§7 Class Req: Shaman/Skyseer");
         }
+    }
+
+    private static void generateMobBossBarFromRegularNames() {
+        HashMap<Pattern, String> bossBar = WynnLang.regex.get(BossBar.class);
+        HashMap<String, String> entity = WynnLang.common.get(Entity.class);
+        entity.forEach((p, r) -> {
+            // p = "§aStray Page§6 [Lv. 1]"
+            // r = "§aБлуждающая Страница§6 [Ур. 1]"
+
+            // p' = "§aStray Page - §c(\d+)§4❤"
+            // r' = "§aБлуждающая Страница - §c(r1)§4❤"
+            if (p.matches("§.+§6 \\[Lv\\. [0-9]+\\]") && r.matches("§.+§6 \\[Ур. [0-9]+\\]")) {
+                String baseOriginalName = p.substring(0, p.indexOf("§6")).replace("?", "\\?");
+                String baseTranslatedName = r.substring(0, r.indexOf("§6"));
+                System.out.println("test| " + baseOriginalName + " - §c(\\d+)§4❤" + "  |  " + baseTranslatedName + " - §c(r1)§4❤");
+                bossBar.put(Pattern.compile(baseOriginalName + " - §c(\\d+)§4❤"), baseTranslatedName + " - §c(r1)§4❤");
+            }
+        });
     }
 
     private static void loadType(Class<? extends TranslateType> type) throws IllegalAccessException, InstantiationException {
@@ -52,7 +72,7 @@ public class StringLoader {
             while ((line = br.readLine()) != null) {
                 loadFile(name + "/" + line, map, false);
             }
-            if(!Loader.isModLoaded("wynntils")){
+            if (!Loader.isModLoaded("wynntils")) {
                 loadFile(name + "/wynntils/regex.txt", WynnLang.regex.get(type), true);
                 loadFile(name + "/wynntils/common.txt", WynnLang.common.get(type), false);
             }
