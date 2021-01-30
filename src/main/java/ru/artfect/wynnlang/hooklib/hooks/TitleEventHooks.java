@@ -68,11 +68,13 @@ public class TitleEventHooks {
                 GlStateManager.pushMatrix();
                 GlStateManager.scale(4.0F, 4.0F, 4.0F);
                 int l = opacity << 24 & -16777216;
-                guiIngameForge.getFontRenderer().drawString(title.getFormattedText(), (float) (-guiIngameForge.getFontRenderer().getStringWidth(title.getUnformattedText()) / 2), -10.0F, 16777215 | l, true);
+                if (title != null)
+                    guiIngameForge.getFontRenderer().drawString(title.getFormattedText(), (float) (-guiIngameForge.getFontRenderer().getStringWidth(title.getUnformattedText()) / 2), -10.0F, 16777215 | l, true);
                 GlStateManager.popMatrix();
                 GlStateManager.pushMatrix();
                 GlStateManager.scale(2.0F, 2.0F, 2.0F);
-                guiIngameForge.getFontRenderer().drawString(subTitle.getFormattedText(), (float) (-guiIngameForge.getFontRenderer().getStringWidth(subTitle.getUnformattedText()) / 2), 5.0F, 16777215 | l, true);
+                if (subTitle != null)
+                    guiIngameForge.getFontRenderer().drawString(subTitle.getFormattedText(), (float) (-guiIngameForge.getFontRenderer().getStringWidth(subTitle.getUnformattedText()) / 2), 5.0F, 16777215 | l, true);
                 GlStateManager.popMatrix();
                 GlStateManager.disableBlend();
                 GlStateManager.popMatrix();
