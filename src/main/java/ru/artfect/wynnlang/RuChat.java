@@ -26,6 +26,7 @@ public class RuChat extends Thread {
     public RuChat(){
     	String[] chatMuted = Config.getStringArray("Chat", "Muted", new String[0]);
         muted.addAll(Arrays.asList(chatMuted));
+        muted.replaceAll(String::toUpperCase);
         MinecraftForge.EVENT_BUS.register(this);
     }
     
@@ -39,6 +40,7 @@ public class RuChat extends Thread {
     }
     
     public static void mutePlayer(String playerName){
+        playerName = playerName.toUpperCase();
         if (!muted.contains(playerName)) {
         	muted.add(playerName);
             WynnLang.sendMessage("§rВы §cбольше не будете§r получать сообщения от игрока " + playerName);
