@@ -1,4 +1,4 @@
-package com.github.mouse0w0.example.mixin;
+package ru.artfect.wynnlang.mixin;
 
 import net.minecraft.client.Minecraft;
 import org.apache.logging.log4j.Logger;
