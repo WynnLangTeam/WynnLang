@@ -11,7 +11,6 @@ import net.minecraftforge.fml.common.Mod.EventHandler;
 import net.minecraftforge.fml.common.event.FMLInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 import org.lwjgl.input.Keyboard;
-import ru.artfect.translates.TranslateType;
 import ru.artfect.wynnlang.command.RuCommand;
 import ru.artfect.wynnlang.command.WynnLangCommand;
 import ru.artfect.wynnlang.translate.MessageHandler;
@@ -26,8 +25,12 @@ import java.util.regex.Pattern;
 public class WynnLang {
     public static boolean translated = true;
 
-    public static Map<Class<? extends TranslateType>, HashMap<String, String>> common = new HashMap<>();
-    public static Map<Class<? extends TranslateType>, HashMap<Pattern, String>> regex = new HashMap<>();
+    public static Map<TextType, HashMap<String, String>> common = new HashMap<>();
+    public static Map<TextType, HashMap<Pattern, String>> regex = new HashMap<>();
+
+    public static void sendMessage(String message) {
+        Minecraft.getMinecraft().player.sendMessage(new TextComponentString(Reference.CHAT_PREFIX + " " + message));
+    }
 
     @EventHandler
     public void preinit(FMLPreInitializationEvent event) throws IllegalAccessException, InstantiationException, IOException {
@@ -50,12 +53,19 @@ public class WynnLang {
         ClientCommandHandler.instance.registerCommand(new WynnLangCommand(new UpdateManager()));
         ClientCommandHandler.instance.registerCommand(new RuCommand());
 
-
         Reference.ruChat = new RuChat();
         RuChat.startTimer();
     }
 
-    public static void sendMessage(String message) {
-        Minecraft.getMinecraft().player.sendMessage(new TextComponentString(Reference.CHAT_PREFIX + " " + message));
+    public enum TextType {
+        BOSSBAR,
+        CHAT,
+        ENTITY_NAME,
+        INVENTORY_NAME,
+        ITEM_LORE,
+        ITEM_NAME,
+        PLAYERLIST,
+        SCOREBOARD,
+        TITLE
     }
 }

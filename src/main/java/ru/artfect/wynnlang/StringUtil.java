@@ -5,8 +5,6 @@ import net.minecraft.util.text.Style;
 import net.minecraft.util.text.TextComponentString;
 import net.minecraft.util.text.event.ClickEvent;
 import net.minecraft.util.text.event.HoverEvent;
-import ru.artfect.translates.BossBar;
-import ru.artfect.translates.TranslateType;
 import ru.artfect.wynnlang.translate.ReverseTranslation;
 import ru.artfect.wynnlang.utils.WynnLangTextComponent;
 
@@ -16,40 +14,32 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 public class StringUtil {
-    public static String handleString(TranslateType type, String str) {
-        return handleString(type.getClass(), str);
-    }
-
-    public static String handleString(Class<? extends TranslateType> type, String str) {
+    public static String handleString(WynnLang.TextType textType, String str) {
         String s = str.replace("§r", "");
-        String replace = findReplace(type, s);
+        String replace = findReplace(textType, s);
         if (replace != null) {
-            return replace.isEmpty() ? null : replaceFound(type, s, replace);
+            return replace.isEmpty() ? null : replaceFound(textType, s, replace);
         } else {
-            Log.addString(type, s);
+            Log.addString(textType, s);
             return null;
         }
 
     }
 
-    private static String replaceFound(TranslateType type, String str, String replace) {
-        return replaceFound(type.getClass(), str, replace);
-    }
-
-    private static String replaceFound(Class<? extends TranslateType> type, String str, String replace) {
+    private static String replaceFound(WynnLang.TextType textType, String str, String replace) {
         if (Reference.modEnabled && !ReverseTranslation.enabled) {
-            ReverseTranslation.translated.get(type).put(replace, str);
+            ReverseTranslation.translated.get(textType).put(replace, str);
             return replace;
         } else {
-            ReverseTranslation.translated.get(type).put(str, replace);
+            ReverseTranslation.translated.get(textType).put(str, replace);
             return null;
         }
 
     }
 
-    public static String findReplace(Class<? extends TranslateType> type, String str) {
-        String replace = WynnLang.common.get(type).get(str);
-        return replace == null ? findReplaceRegex(WynnLang.regex.get(type), str) : replace;
+    public static String findReplace(WynnLang.TextType textType, String str) {
+        String replace = WynnLang.common.get(textType).get(str);
+        return replace == null ? findReplaceRegex(WynnLang.regex.get(textType), str) : replace;
     }
 
     private static String findReplaceRegex(Map<Pattern, String> map, String str) {
@@ -66,15 +56,15 @@ public class StringUtil {
         return null;
     }
 
-    public static Optional<String> tryToTranslate(String original, Class<? extends TranslateType> type) {
+    public static Optional<String> tryToTranslate(String original, WynnLang.TextType textType) {
         if (Reference.onWynncraft && Reference.modEnabled && WynnLang.translated)
-            return Optional.ofNullable(handleString(type, original));
+            return Optional.ofNullable(handleString(textType, original));
         else
             return Optional.empty();
 
     }
 
-    public static Optional<WynnLangTextComponent> tryToTranslate(ITextComponent original, Class<? extends TranslateType> type) {
+    public static Optional<WynnLangTextComponent> tryToTranslate(ITextComponent original, WynnLang.TextType textType) {
         String str = original.getFormattedText();
 
         ClickEvent clickEvent = null;
@@ -87,7 +77,7 @@ public class StringUtil {
             }
         }
 
-        String replace = handleString(type, str);
+        String replace = handleString(textType, str);
         if (replace != null) {
             TextComponentString msg = new TextComponentString(replace);
             if (clickEvent != null || hoverEvent != null) {
