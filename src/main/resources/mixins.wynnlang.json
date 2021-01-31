@@ -2,7 +2,8 @@
   "compatibilityLevel": "JAVA_8",
   "package": "ru.artfect.wynnlang.mixin",
   "mixins": [
-    "MixinMinecraft"
+    "MixinMinecraft",
+    "TestMixin"
   ],
   "client": [],
   "server": []
