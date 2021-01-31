@@ -10,7 +10,7 @@ public class Config {
 
     public static void loadConfigFromFile() {
         try {
-            config = new Configuration(new File(Minecraft.getMinecraft().mcDataDir + "/config/WynnLang/config.cfg"));
+            config = new Configuration(new File(Minecraft.getMinecraft().gameDir + "/config/WynnLang/config.cfg"));
             config.load();
             Log.enabled = config.get("Options", "Logging", true).getBoolean();
             Reference.modEnabled = config.get("Options", "Enabled", true).getBoolean();
