@@ -750,6 +750,18 @@ Prove you have visted every hour on the clock.@
 §aWynncraft: §fIn about 30 seconds, around 1 in 12 players will need to log back in! Sorry about that! If you're kicked, you'll be able to log back in immediately afterwards.@ 
 §aWynncraft: §fSorry everyone I yeeted the servers@ 
 §aWynncraft: §fThey're unyeeted now@ 
+§4/toggle [swears/blood/insults/autojoin/music/vet/war/guildjoin/attacksound/rpwarning/100/sb/autotracking/pouchmsg/combatbar/playerghosts/popups/guildpopups/friendpopups/beacon]@ 
+§d            - §7+1 First Steps@ 
+§7[2/6]@ 
+§7[1/6]@ 
+§7[3/6]@ 
+§7[4/6]@ 
+§7[5/6]@ 
+§7[6/6]@ 
+§7ⓐⓦⓐⓚⓔⓝⓘⓝⓖ ⓣⓗⓔ ⓖⓤⓐⓡⓓⓘⓐⓝ ⓞⓕ ⓣⓗⓔ ⓕⓞⓡⓔⓢⓣ ⓡⓔⓠⓤⓘⓡⓔⓢ ⓜⓞⓡⓔ ⓣⓗⓐⓝ ⓙⓤⓢⓣ ⓜⓐⓖⓘⓒ@ 
+§7ⓐ ⓟⓛⓐⓝⓣ ⓕⓡⓞⓜ ⓦⓘⓣⓗⓘⓝ ⓣⓗⓔ ⓛⓘⓖⓗⓣ ⓕⓞⓡⓔⓢⓢ ⓦⓘⓛⓛ ⓗⓔⓛⓟ @ 
+§7ⓘⓕ ⓗⓞⓟⓔ ⓘⓢ ⓝⓞⓣ ⓛⓞⓢⓣ@ 
+§7ⓢⓔⓒⓡⓔⓣⓢ ⓤⓝⓒⓞⓥⓔⓡⓔⓓ ⓘⓝ ⓣⓗⓔ ⓞⓛⓓⓔⓢⓣ ⓞⓕ ⓛⓘⓑⓡⓐⓡⓘⓔⓢ ⓘⓝ ⓒⓘⓝⓕⓡⓐⓢ@ 
 
 #################################TERRITORY DISCOVERIES#################################
                                    Plains@ 
@@ -1735,3 +1747,5 @@ Prove you have visted every hour on the clock.@
 §f                            Gromblins Hideout@ 
 §f                              Mesquis Tower@ 
 §f                             §bRuins of Detlas@ 
+§f                           Durum Isles Lower@ 
+§f                           Durum Isles Upper@ 

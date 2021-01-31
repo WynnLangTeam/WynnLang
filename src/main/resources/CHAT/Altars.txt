@@ -56,3 +56,25 @@
 
 #######################Challenge of the Blades#####################
 §7[1/1] §2Blade of Shade: §aAha...you'll be a very interesting quarry to catch, human...@§7[1/1] §2Blade of Shade: §aАга...Ты будешь очень интересной пойманной жертвой, человек...
+
+#######################Bottomless Pit#####################
+§7There's... nothing here?@§7Здесь... ничего нет?
+§7There has to be something down here, you can feel it watching you...@§7Здесь, внизу, должно быть что-то, ты чувствуешь как он наблюдает за тобой...
+§7You just took a huge fall, you're §cvulnerable, §7something's there but y§co§7u can'§ct see it §7where is it@§7Ты только что сильно упал, ты §cуязвим§7, что-то есть, но §cты§7 не видишь §cего, §7где он
+§cwhere is it §7whe§cre is it where is it §7you §cc§7a§cn'§7t §cfind it where is it you're going to §4die §cif you don't find it §4fi§cnd it §4FIND IT@§cгде он, §7гд§cе он, где он, где он§7, ты не §cмож§7е§cшь найти его, где он, §4ты умрешь§c, если не найдешь его, §4най§cдешь его, §4НАЙДЕШЬ ЕГО
+§4IT'S THERE §cYOU CAN SE§4E IT AND IT'S §4§lTOO STRONG §4YOU'RE GOING TO §4§lDIE AND THERE'S NO WAY OUT §cWHY DI§4D §cYOU §4COME DOWN HERE@§4ОН ТАМ §cТЫ МОЖЕШЬ ВИД§4ЕТЬ ЕГО И ОН §4§lСЛИШКОМ СИЛЕН §4ТЫ §4§lУМРЕШЬ И НЕТ НИКАКОГО ВЫХОДА §cПОЧЕМУ ТЫ §4СПУСТИЛСЯ СЮДА
+§4PANIC PA§4§lNIC PANIC P§4ANIC PANIC PAN§4§lIC@§4ПАНИКА §4§lПАНИКА ПА§4НИКА ПАНИКА ПАНИКА ПА§4§lНИКА
+§4§lNONONONONON§4ONONO§4§lNONO §4YOU §4§lCAN'T DO THIS@§4§lНЕТНЕТНЕТНЕТНЕТНЕТНЕТ§4НЕТНЕТ§4§lНЕТ §4ТЫ §4§lНЕ МОЖЕШЬ ЭТОГО СДЕЛАТЬ
+§4RUN AWAY §4§lBUT WHERE THERE'S NO PLACE TO@§4УБЕГАЙ §4§lНО КУДА ЗДЕСЬ НЕ КУДА БЕЖАТЬ
+§4§lCAN'T THINK STRAIGHT CAN'T CALM DOWN@§4§lНЕ МОГУ ЯСНО МЫСЛИТЬ НЕ МОГУ УСПОКОИТЬСЯ
+§4YOU HAVE TO STRU§4§lG§4GL§4§lE BUT IT WON'T BE ENOUGH@§4ТЫ ДОЛЖЕН БОР§4§lОТ§4ЬС§4§lЯ, НО ЭТОГО БУДЕТ НЕДОСТАТОЧНО
+§cSTOP PA§4NICKING YO§4§lU CAN'T STOP PANICKING YOU@§cПЕРЕСТАНЬ ПА§4НИКОВАТЬ ТЫ Н§4§lЕ МОЖЕШЬ ПЕРЕСТАТЬ ПАНИКОВАТЬ ТЫ
+§4§lCAN'T STOP PANICKING §4YOU CA§4§lN'T STOP PANICKING@§4§lНЕ МОГУ ПЕРЕСТАТЬ ПАНИКОВАТЬ §4ТЫ Н§4§lЕ МОЖЕШЬ ПЕРЕСТАТЬ ПАНИКОВАТЬ
+§4§lYOU CAN'T STOP PANICKING §4YOU CAN'T §4§lSTOP@§4§lТЫ НЕ МОЖЕШЬ ПЕРЕСТАТЬ ПАНИКОВАТЬ §4ТЫ НЕ МОЖЕШЬ О§4§lСТАНОВИТЬСЯ
+§4§lPANICKING YOU CAN'T §4STOP PANICKING §4§lYOU CAN'T@§4§lПАНИКОВАТЬ ТЫ НЕ МОЖЕШЬ §4ПЕРЕСТАТЬ ПАНИКОВАТЬ §4§lНЕ МОЖЕШЬ
+§4§lYOU CAN'T YOU CAN'T YOU CAN'T YOU CAN'T YOU CAN'T@§4§lТЫ НЕ МОЖЕШЬ ТЫ НЕ МОЖЕШЬ ТЫ НЕ МОЖЕШЬ ТЫ НЕ МОЖЕШЬ ТЫ НЕ МОЖЕШЬ ТЫ НЕ МОЖЕШЬ
+§cCAUGHT I§4T'S CAUGHT YOU IT'S §4§lCAUGHT YOU@§cПОЙМАЛ О§4Н ПОЙМАЛ ТЕБЯ ОН §4§lПОЙМАЛ ТЕБЯ
+§4WHAT ARE YOU DOI§4§lNG §4YOU NEED TO MOVE §4§lYOU CAN'T@§4ЧТО ТЫ ДЕЛА§4§lЕШЬ §4ТЕБЕ НУЖНО ДВИГАТЬСЯ Т§4§lЫ НЕ МОЖЕШЬ
+§4CAN'T MOVE YOUR BODY §4§lIT'S COMING FO§4R YOU GET OUT@§4НЕ МОГУ ПОШЕВЕЛИТЬ СВОИМ ТЕЛОМ §4§lОН ИДЕТ ЗА §4ТОБОЙ УБИРАЙСЯ
+§4§lYOU'RE CAUGHT YO§4U'RE TRAPPED §4§lNO §4WAY OUT@§4§lТЫ ПОЙМАН Т§4Ы В ЛОВУШКЕ §4§lНЕТ §4ВЫХОДА
+§4MOVE M§4§lOVE MOV§4E MOVE §4§lMOVE M§4OVE MOVE M§4§lOVE MOVE §4MOVE@§4ДВИГАЙСЯ ДВИГАЙСЯ ДВИГ§4§lАЙСЯ ДВИГАЙСЯ ДВ§4ИГАЙСЯ ДВИГАЙСЯ ДВИ§4§lГАЙСЯ §4ДВИГАЙСЯ

@@ -17,3 +17,10 @@
 §7[2/4] §2The Cook: §aYou can get eggs at the ranch north of Ragni, by killing some chickens.@§7[2/4] §2Повар: §aТы можешь получить яйца на ранчо к северу от Рагни, убив несколько куриц. §6[X: -794, Z: -1922]
 §7[3/4] §2The Cook: §aYou can get milk by buying it from a merchant there as well.@§7[3/4] §2Повар: §aМолоко можешь получить, купив его у торговца там же.
 §7[4/4] §2The Cook: §aYou can get wheat grains by farming some from the fields close to Ragni's north entrance.@§7[4/4] §2Повар: §aТы можешь получить пшеничные зерна, собрав их с полей рядом с северным входом в Рагни, или на том же ранчо.
+
+
+
+§7[1/4] §2Bored Farmer: §aHello there! Are you looking for cooking materials? I can help with that.@§7[1/4] §2Скучающий Фермер: §aПриветствую! Ищешь материалы для готовки? Могу помочь с этим.
+§7[2/4] §2Bored Farmer: §aFor §3[Egg]§a, you can get them by slaying a few chickens.@§7[2/4] §2Скучающий Фермер: §3[Яйца]§a можно получить, если убить несколько куриц.
+§7[3/4] §2Bored Farmer: §aFor §3[Bucket of Milk]§a, we have our very own merchant selling those right over there.@§7[3/4] §2Скучающий Фермер: §3[Ведро Молока]§a можно купить у торговца прямо вон там.
+§7[4/4] §2Bored Farmer: §aFor §3[Wheat Grains]§a, get a scythe from the Tool Merchant and §bRight-Click §awheat nearby. Make sure they are of the same quality.@§7[4/4] §2Скучающий Фермер: §aДля §3[Пшеничных Зерен]§a добудь мотыгу у Торговца Инструментами и жми §bПравым Кликом§a по пшенице. Убедись, что они будут одинакового уровня.

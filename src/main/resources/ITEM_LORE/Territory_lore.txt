@@ -73,9 +73,9 @@
 §7years of war - sometimes barely. @§71000 лет войны - иногда был близок к краху.
 §7It is the hometown of the @§7 Это родной город 146-летнего 
 §7146 year old hero Bob, who @§7старого героя по имени Боб, которого 
-§7hasn’t been seen in 16 years. @§7не видели уже 16 лет.
+§7hasn't been seen in 16 years. @§7не видели уже 16 лет.
 
-§7The trail through Nivla Forest to @§7Путь через Лес Нивла 
+§7The trail through Nivla Woods to @§7Путь через Лес Нивла 
 §7Detlas, the central city of the @§7в Детлас, центральный город 
 §7Wynn Province. @§7провинции Винн.
 
@@ -112,7 +112,7 @@
 §7the province. @§7в провинции.
 
 §7The first town founded by Villagers @§7Первый город, построенный расой 
-§7in the Wynn province. Maltic’s beach @§7жителей в провинции Винн. Пляж Малтика - 
+§7in the Wynn province. Maltic's beach @§7жителей в провинции Винн. Пляж Малтика - 
 §7is the site of a shipwreck @§7это место крушения корабля, 
 §7that crashed upon its shores 100 @§7разбившегося на берегах 100 лет 
 §7years ago. @§7назад.
@@ -197,12 +197,12 @@
 §7speculate that these mines are hiding @§7остановились. Некоторые предполагают, что эти 
 §7an even greater danger... @§7шахты скрывают еще большую опасность...
 
-§7Founded in 970AP after the waves @§7Основанный в 970 году после 
-§7calmed, this city became the bridge @§7открытия портала, этот город стал мостом 
-§7between Gavel and Wynn. It flourishes @§7между провинциями Гавел и Винн. 
-§7in trade and enjoys a safe @§7Он процветает в торговле и имеет 
-§7haven from the dangers of both @§7безопасное убежище от опасностей обеих 
-§7provinces. @§7провинций.
+§7Founded in 970 AP after the @§7Основанный в 970 году после 
+§7waves calmed, this city became the @§7открытия портала, этот город стал мостом 
+§7bridge between Gavel and Wynn. It @§7между провинциями Гавел и Винн. 
+§7flourishes in trade and enjoys a @§7Он процветает в торговле и имеет 
+§7safe haven from the dangers of @§7безопасное убежище от опасностей обеих 
+§7both provinces. @§7провинций.
 
 §7Ocean currents flow and intertwine to @§7Океанские течения текут и переплетаются здесь, 
 §7form these renowned reefs, bursting with @§7чтобы сформировать эти знаменитые рифы, 
@@ -261,9 +261,9 @@
 §7years. @§7лет.
 
 §7This massive doorway serves as the @§7Массивная дверь служит входом 
-§7main entrance to the province of @§7в провинцию Гавел. Она проходит 
-§7Gavel. Through it lies the imperial @§7через имперский кварцевый 
-§7quartz city of Llevigar. @§7город Ллевигар.
+§7main entrance to the province of @§7в провинцию Гавел. Она 
+§7Gavel. Through it lies the quartz @§7проходит через кварцевый 
+§7city of Llevigar. @§7город Ллевигар.
 
 §7The city of Llevigar is the @§7Город Ллевигар - это первое, 
 §7first sight adventurers see in Gavel. @§7что видят приезжие в Гавел. 
@@ -273,7 +273,7 @@
 §7Gavel. @§7в провинции Гавел.
 
 §7In the center of the unnaturally @§7В центре неестественно замерзшего 
-§7frozen forest lies the small village @§7леса находится небольшая деревня 
+§7frozen forest lies the small town @§7леса находится небольшой городок 
 §7of Nesaak. Their main source of @§7Несаак. Их основным источником добычи 
 §7food is ice fishing. @§7пропитания является рыбалка.
 
@@ -283,7 +283,7 @@
 §7was frozen over, their bodies still @§7заморожена, их тела продолжают охотиться 
 §7hunt those who draw near. @§7на тех, кто бродит рядом.
 
-§7The small village of Bucie is @§7В небольшой деревне Бучи 
+§7The small town of Bucie is @§7В небольшом городке Бучи 
 §7home to many farmers, who produce @§7проживает много фермеров, которые 
 §7the crops for the nearby cities @§7производят урожай для близлежащих городов
 §7of Llevigar and Olux. @§7Ллевигар и Олукс.
@@ -428,7 +428,7 @@
 §7airship travel center. @§7авиационного центра путешествий
 
 §7The Guild Hall is where the @§7Зал Гильдий - место, где 
-§7most prestigous guilds gather, and where @§7собираются самые престижные гильдии, 
+§7most prestigious guilds gather, and where @§7собираются самые престижные гильдии, 
 §7you can create your own. You @§7и где ты можешь создать свою 
 §7can also get to Letvus Airbase @§7собственную. Также отсюда можно попасть 
 §7through here. @§7на авиабазу Летвус.
@@ -1038,3 +1038,55 @@
 §7outbreak of the Corruption War. The @§7войны с порчей. Глаз наблюдал 
 §7Eye has watched all intruders.. and @§7за всеми незваными гостями... 
 §7all attempts at escape. @§7и за всеми попытками к бегству.
+
+§7Just beyond this now abandoned ruin @§7Сразу за этими ныне заброшенными развалинами 
+§7lies a dug out nest crawling @§7лежит выкопанное гнездо, кишащее 
+§7with infantile Grootslangs. If left to @§7инфантильными Грутслангами. Если оставить их 
+§7mature, these newborn creatures will grow @§7взрослеть, эти новорожденные существа вырастут 
+§7powerful enough to decimate the swamp. @§7достаточно сильными, чтобы уничтожить болото.
+
+§7Corruption crawls where one can not @§7Порча распространяется там, 
+§7see. The darkness; the depths; the @§7где ее не видно. В темноте, 
+§7mind. @§7глубинах, умах.
+
+§7A sight to behold, this enormous @§7Как достопримечательность для созерцания, эта 
+§7statue has resided in the Canyon @§7огромная статуя была в Каньоне 
+§7of the Lost for as long @§7Потерянных так долго, как только 
+§7as history can tell. Its magic @§7может рассказать история. Ее магия 
+§7permeates throughout the entire canyon, making @§7пронизывает весь каньон, делая его 
+§7it nigh-impossible to navigate. @§7почти невозможным для навигации.
+
+§7Secluded beneath the remains of a @§7Уединенное под остатками колоссального 
+§7colossal tree, this bizarre structure acts @§7дерева, это причудливое сооружение 
+§7as a gateway to the Realm @§7действует как ворота в Царство 
+§7of Light, an otherworldly realm beyond @§7Света - потустороннее царство за 
+§7imagination. @§7пределами воображения.
+
+§7Once the home of a wealthy @§7Когда-то дом богатого аристократа, этот 
+§7aristocrat, this castle has been overtaken @§7замок был захвачен Дуллаханом - 
+§7by Dullahan, an enigmatic Elf who @§7загадочным эльфом, который терроризировал 
+§7terrorized the Dark Forest for decades. @§7Темный Лес на протяжении десятилетий.
+
+§7An intense well of gravity sits @§7На границе пустоты находится мощный 
+§7atop the border of the void, @§7колодец гравитации, втягивающий в себя 
+§7drawing in anything fallen into it. @§7все, что в него упало. Существа, 
+§7Creatures seem to still live down @§7кажется, все еще живут 
+§7here... @§7здесь...
+
+§7Built by the most skilled sculptors @§7Построенный самыми искусными скульпторами 
+§7in Gavel, no expense was spared @§7Гавела, на сооружение этого 
+§7in constructing this enormous monument to @§7огромного памятника Герою Гавела 
+§7Gavel's hero. @§7не жалели средств.
+
+§7Secluded beneath the remains of a @§7Уединенное под остатками колоссального 
+§7colossal tree, this bizarre structure acts @§7дерева, это причудливое сооружение 
+§7as a gateway to the Realm @§7действует как ворота в Царство Света - 
+§7of Light, an otherworldly realm beyond @§7потустороннее царство за пределами 
+§7imagination. @§7воображения.
+
+§7Thought only to be a myth, @§7Считаясь лишь мифом, эта легендарная 
+§7this legendary structure acts as a @§7структура служит нексусом для 
+§7nexus for the Realm of Light's @§7силы Царства Света. Где-то в его 
+§7power. Somewhere within its enigmatic halls @§7загадочных залах находится 
+§7lies Orphion, the physical manifestation of @§7Орфион - физическое проявление самого 
+§7Light itself. @§7Света.

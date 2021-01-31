@@ -69,8 +69,8 @@
 §3under 50% maximum health, nearby@§3до 50% от максимума здоровья ближайшие
 §3allies gain 50% bonus damage@§3союзники получают 50% бонус к урону
 §3and defence@§3и защите
-§3§b+Magnet: §3Pulls items within@§3§b+Magnet: §3Притягивает ближайшие предметы
-§3an 8 block radius towards you@§3к тебе в радиусе 8 блоков
+§3§b+Magnet: §3Pulls items dropped@§3§b+Magnet: §3Притягивает ближайшие выпавшие с 
+§3by mobs nearby towards you@§3мобов предметы к тебе
 §3§b+Intervene: §350% of damage@§3§b+Intervene: §350% урона
 §3taken by nearby allies is redirected@§3полученного ближайшими союзниками передается
 §3to you@§3тебе
@@ -110,3 +110,7 @@
 §3§b+Heart of the Pack: §3Nearby@§3§b+Heart of the Pack: §3Ближайшие
 §3players gain 35% of the health@§3игроки получают 35% здоровья
 §3you naturally regenerate@§3которое ты регенирируешь
+§3§b+Cherry Bombs: §3Your Smoke@§3§b+Cherry Bombs: §3Твои дымовые 
+§3Bombs explodes instantly on@§3бомбы взрываются мгновенно при
+§3contact, dealing 110% damage@§3контакте, нанося 110% урона
+§3each@§3каждая

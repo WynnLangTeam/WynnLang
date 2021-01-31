@@ -108,6 +108,7 @@
 §7[1/1] §2Guard: §aHalt! You can't enter the cave until you craft a weapon!@§7[1/1] §2Страж: §aСтоять! Вы не можете войти в пещеру, пока не скрафтите оружие!
 §7[8/8] §2Guard: §aNow, cast your Holy Blast spell by clicking §bRight-Left-Right§a!@§7[8/8] §2Страж: §aТеперь используй свое заклинание "Святой Взрыв", кликнув §b§lПравая-Левая-Правая§a!
 §7[8/8] §2Guard: §aAll I need is for you to use your Totem spell. To cast it, click §bRight-Left-Right§a!@§7[8/8] §2Страж: §aВсе, что мне нужно, это чтобы ты использовал свое заклинание "Тотем". Для его каста, кликни §bПравая-Левая-Правая§a!
+§7[8/8] §2Guard: §aAll I need is for you to use your Sky Emblem spell. To cast it, click §bRight-Left-Right§a!@§7[8/8] §2Страж: §aВсе, что мне нужно, это чтобы ты использовал свое заклинание "Небесная Эмблема". Для его каста, кликни §bПравая-Левая-Правая§a!
 §7[8/8] §2Guard: §aNow, cast your Remedy spell by clicking §bRight-Left-Right§a!@§7[8/8] §2Страж: §aТеперь используй свое заклинание "Лечение", кликнув §b§lПравая-Левая-Правая§a!
 §7[1/1] §2Guard: §aCast your spell by clicking §bLeft-Right-Left§a!@§7[1/1] §2Страж: §aИспользуй свое заклинание, кликнув §b§lЛевая-Правая-Левая§a!
 §7[1/1] §2Guard: §aHalt! Before you enter, show me your weapon by §b§lright-clicking§a on me!@§7[1/1] §2Страж: §aСтоять! Прежде чем войдешь, покажи мне свое оружие, §b§lкликнув§a на меня!
@@ -134,6 +135,7 @@
 §7[2/2] §2Aledar: §aUse §b2 ingots§a and §b1 wood§a to forge §3[1 Dagger]§a and then show it to the guard.@§7[2/2] §2Аледар: §aИспользуй §b2 слитка§a и §b1 древесину§a для крафта §3[1 Кинжала]§a и затем покажи его стражу.
 §7[2/2] §2Aledar: §aUse §b2 string§a and §b1 wood§a to craft §3[1 Bow]§a and then show it to the guard.@§7[2/2] §2Аледар: §aИспользуй §b2 нити§a и §b1 древесину§a для крафта §3[1 Лука]§a и затем покажи его стражу.
 §7[1/1] §2Guard: §aCast your Totem spell by clicking §bRight-Left-Right§a!@§7[1/1] §2Страж: §aИспользуй свое Тотем заклинание, кликнув §bПравая-Левая-Правая§a!
+§7[1/1] §2Guard: §aCast your Sky Emblem spell by clicking §bRight-Left-Right§a!@§7[1/1] §2Страж: §aИспользуй свое Небесная Эмблема заклинание, кликнув §bПравая-Левая-Правая§a!
 §7[1/1] §2Aledar: §aWe shouldn't enter that cave yet!@§7[1/1] §2Аледар: §aМы не должны пока заходить в эту пещеру!
 §7[1/1] §2Aledar: §aDon't leave yet! I'd love to keep going, but first we need to get protection.@§7[1/1] §2Аледар: §aНе уходи пока! Я бы с удовольствием продолжил, но сначала нам нужна защита.
 §7[1/1] §2Soldier: §aEnter the cave and get some armour in the loot chest.@§7[1/1] §2Солдат: §aВойди в пещеру и добудь немного брони в сундуке с лутом.

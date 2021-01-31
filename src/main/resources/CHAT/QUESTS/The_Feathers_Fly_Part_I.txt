@@ -1,0 +1,34 @@
+§7[1/7] §2???: §aOh?! Hold on, is anyone there..!@§7[1/7] §2???: §aЭй?! Погодите, здесь кто-нибудь есть...?
+§7[2/7] §2Ava: §aWhy hello there! Whatcha doin' here? I'm §a§lAva§a!@§7[2/7] §2Ава: §aНу, здравствуй! Что ты здесь делаешь? Я §a§lАва!
+§7[3/7] §2Ava: §aWant a quick job? How 'bout helpin' me out?! That was perfect timing!@§7[3/7] §2Ава: §aХочешь быструю работенку? Как насчет того, чтобы помочь мне?! Ты пришел очень вовремя!
+§7[4/7] §2Ava: §aY'see, while the other Avos hate it, I just find electromagic so fascinating!@§7[4/7] §2Ава: §aВидишь ли, в то время как другие Авосы ненавидят ее, я нахожу электромагию такой очаровательной!
+§7[5/7] §2Ava: §aLook, I think I got a breakthrough invention. If it works... Oh man...@§7[5/7] §2Ава: §aСлушай, я думаю, что у меня есть прорывное изобретение. Если это сработает... Ох дружище...
+§7[6/7] §2Ava: §aI just need to harness some nature magic, and there's an amazing source in the §bchief's hut§a. Ya comin'?@§7[6/7] §2Ава: §aМне просто нужно использовать природную магию, а в §bхижине вождя§a есть ее удивительный источник. Ты идешь?
+§7[7/7] §2Ava: §aDon't you worry about rewards! I got you! See ya' there!@§7[7/7] §2Ава: §aНе беспокойся о вознаграждении! Думаю мы договорились! Увидимся там!
+§7[1/6] §2Ava: §aHey! You showed up! Listen up, here's the plan...@§7[1/6] §2Ава: §aЭй! Ты пришел! Слушай, вот какой план...
+§7[2/6] §2Ava: §aThere's a small museum inside the hut with all kinds of trophies.@§7[2/6] §2Ава: §aВнутри хижины есть небольшой музей со всевозможными трофеями.
+§7[3/6] §2Ava: §aOur chief is quite the talkative fella, and I can guarantee he'd love to tell you stories.@§7[3/6] §2Ава: §aНаш шеф довольно разговорчивый парень, и я могу гарантировать, что он с удовольствием расскажет тебе истории.
+§7[4/6] §2Ava: §aThat should keep him and his guards busy. And that's where I come in!@§7[4/6] §2Ава: §aЭто должно занять его и его охранников. И вот тут-то в дело вступаю я!
+§7[5/6] §2Ava: §aI'll take that chance to sneak behind the throne, where our sacred totem is. I'm not stealing it, don't worry!@§7[5/6] §2Ава: §aЯ воспользуюсь этим шансом и прокрадусь за трон, где находится наш священный тотем. Красть его я не буду, не волнуйся!
+§7[6/6] §2Ava: §aI'm a little clumsy, but I'm sure I can count on ya'! No matter what, §bkeep the chief busy§a!@§7[6/6] §2Ава: §aЯ немного неуклюжа, но уверена, что могу на тебя рассчитывать! Что бы ни случилось, §bшеф должен быть занят§a!
+§7[1/5] §2Avos Chieftain: §aGreetings, human. Welcome back.@§7[1/5] §2Вождь Авосов: §aПриветствую тебя, человек. С возвращением.
+§7[2/5] §2Avos Chieftain: §aSo, what brings you here, hm?@§7[2/5] §2Вождь Авосов: §aТак что же привело тебя сюда, а?
+§7[3/5] §2Avos Chieftain: §aOh, you want to learn more about us... Of course, of course!@§7[3/5] §2Вождь Авосов: §aО, ты хочешь узнать о нас побольше... Конечно, конечно!
+§7[4/5] §2Avos Chieftain: §aWe have a room where I can show you some of our history.@§7[4/5] §2Вождь Авосов: §aУ нас есть комната, где я могу показать тебе кое-что из нашей истории.
+§7[5/5] §2Avos Chieftain: §aYou're in luck, I'm in a good mood. Follow me then.@§7[5/5] §2Вождь Авосов: §aТебе повезло, я в хорошем настроении. Следуй за мной тогда.
+§7[1/1] §2Avos Chieftain: §aJust show me what you're interested about.@§7[1/1] §2Вождь Авосов: §aПросто покажи мне, что тебя заинтересует.
+§7[1/2] §2Avos Chief: §aAh, history first! Great, great!@§7[1/2] §2Шеф Авосов: §aАх, история прежде всего! Отлично, отлично!
+§7[1/2] §2Avos Chief: §aHey, would you listen to me?@§7[1/2] §2Шеф Авосов: §aЭй, ты меня выслушаешь?
+§7[2/2] §2Avos Chief: §aIt's a custom for every Avos chief to keep their feathers somewhere. I guess I left that here.@§7[2/2] §2Шеф Авосов: §aУ каждого вождя Авосов есть обычай хранить где-нибудь свои перья. Наверное, я оставил их здесь.
+§7[1/2] §2Avos Chief: §aOh, this is quite the important tome.@§7[1/2] §2Шеф Авосов: §aОх, это очень важный том.
+§7[1/2] §2Avos Chief: §aGah!@§7[1/2] §2Шеф Авосов: §aЧерт!
+§7[2/2] §2Avos Chief: §aIt's alright, these books aren't important... Be careful though.@§7[2/2] §2Шеф Авосов: §aВсе в порядке, эти книги не важны... Но будь осторожен.
+§7[1/1] §2Avos Chieftain: §aWhat was that?!@§7[1/1] §2Вождь Авосов: §aЧто это было?!
+§7[1/2] §2Avos Chief: §aOh, do you prefer books?@§7[1/2] §2Шеф Авосов: §aОх, ты предпочитаешь книги?
+§7[1/3] §2Avos Chief: §aOh, more interested about the tree?@§7[1/3] §2Шеф Авосов: §aОх, проявляешь интерес к этому дереву?
+§7[2/3] §2Avos Chief: §aIt's one of a kind! We planted it eons ago. It has never ever grown an inch. Or moved.@§7[2/3] §2Шеф Авосов: §aЭто единственное в своем роде! Мы посадили его целую вечность назад. Оно никогда не вырастало ни на сантиметр. Или двигалось.
+§7[3/3] §2Avos Chief: §aNever died or anything either. For all we know, it might predate your corruption too!@§7[3/3] §2Шеф Авосов: §aНикогда не умирало или что-то в этом роде. Насколько нам известно, оно могло еще появиться и до вашей порчи!
+§7[1/1] §2Avos Chief: §aHuman? Why are you leaving?@§7[1/1] §2Шеф Авосов: §aЧеловек? Почему ты собираешься уходить?
+§7[1/2] §2Avos Chief: §aGah! You startled me!@§7[1/2] §2Шеф Авосов: §aАах! Ты напугал меня!
+§7[1/4] §2Avos Shaman: §aOh, you're the not-Corkian Human.@§7[1/4] §2Шаман Авосов: §aОх, ты не человек из Коркуса.
+§7[2/4] §2Avos Shaman: §aHave you heard? Electromagic isn't limited to Corkians.@§7[2/4] §2Шаман Авосов: §aТы уже слышал? Электромагия не ограничивается Коркианцами.

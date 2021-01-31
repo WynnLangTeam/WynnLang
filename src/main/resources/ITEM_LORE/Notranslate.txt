@@ -6331,3 +6331,139 @@ Dam: 4-6@
 §7- Pirate's Locket of the Leach [10]@ 
 §7- §aSkien Leggings [55]@ 
 §7- Phoenix-Feathered Root of Courage [22]@ 
+§7- Ancient Moss@ 
+§7- Elephant Toenail@ 
+§7- Rock-Hard Beak@ 
+§7- Fiery Aura@ 
+§7- Shiny Pebble@ 
+§7- Hardened Magma@ 
+§7- Pirate Beard@ 
+§7- Nose Ring@ 
+§7- Cortrich Eggs@ 
+§7- Terra Steel@ 
+§7- Iceberries@ 
+§7- Marrow Dust@ 
+§7- Void Essence@ 
+§7- Lockpicking Kit@ 
+§7- Cyclops Eye@ 
+§7- Manis Carapace@ 
+§7- Engraved Tablet@ 
+§7- Old Explosives@ 
+§7- Ashen Hide@ 
+§7- Durable Skin@ 
+§7- Protective Fabric@ 
+§7- Lost Spirit@ 
+§7- Sentient Shadow@ 
+§7- Crystalline Growth@ 
+§7- Forgotten Pickaxe@ 
+§7- Kaian Scroll@ 
+§f1 x §dUnidentified Wand@ 
+§f1 x §fOak Wood§6 [§e✫§8✫✫§6]@ 
+§6 - §a✔ §21 Twilight-Gilded Cloak@ 
+§7- Plucked Feather@ 
+§a- §2Water Relic Chestplate@ 
+§6 - §a✔ §21 Soulflare@ 
+§6 - §a✔ §21 Silver Solar Ring@ 
+§6 - §a✔ §21 Gold Solar Ring@ 
+§a- §2Beachside Conch@ 
+§7- Burning Soul@ 
+§7- §8Snail Mail@ 
+§7- §8Snail Boots@ 
+§7- §8Snail Leggings@ 
+§7- §8Snail Helm@ 
+§a- §2Snail Boots@ 
+§a- §2Snail Leggings@ 
+§a- §2Snail Mail@ 
+§a- §2Snail Helm@ 
+§7- Hellish Cinders@ 
+§7- Corbys Innards@ 
+§a- §2Thunder Relic Boots@ 
+§6 - §a✔ §21 Intensity@ 
+§7 - §f1,344 §3Repair ScrapÀ@ 
+§7- Recluse Venom Sac@ 
+§6 - §a✔ §21 Boreal-Patterned Crown@ 
+§a- §2Visceral Chest@ 
+§a- §2Visceral Skullcap@ 
+§7- Sealed Blaze@ 
+§7- Major's Badge@ 
+§7- Wood Scrap@ 
+§a- §2Horse Mask@ 
+§7- Router's Shield@ 
+§7- Sentient Water@ 
+§7- Herbstzeitlose@ 
+§7- Tenebrous Plasma@ 
+§7- Gollier Iron@ 
+§7- Demonic Ashes@ 
+§7- Myconid Spores@ 
+§7- Succulent Crab Meat@ 
+§7- Golden Avia Feather@ 
+§a- §2Visceral Legs@ 
+§a- §2Visceral Toe@ 
+§6 - §a✔ §28 Red Mushroom [✫✫✫]@ 
+§fwynncraft.com/store@ 
+    §2[§8|||||||0%|||||||§2] §f1§7/112 XP@ 
+§7Discounted delights!@ 
+§f   ...@ 
+§7- §8Flashfire Knuckle@ 
+§7- §8Flashfire Gauntlet@ 
+§7- §8Jester Necklace@ 
+§7- §8Jester Ring@ 
+§7- §8Jester Bracelet@ 
+§7- §8Morph-Gold@ 
+§7- §8Morph-Emerald@ 
+§7- §8Morph-Ruby@ 
+§7- §8Morph-Iron@ 
+§7- §8Morph-Stardust@ 
+§7- §8Morph-Topaz@ 
+§7- §8Morph-Steel@ 
+§7- §8Morph-Amethyst@ 
+§a- §2Flashfire Knuckle@ 
+§a- §2Flashfire Gauntlet@ 
+§a- §2Jester Ring@ 
+§7- §8Adventurer's Tunic@ 
+§7- §8Adventurer's Pants@ 
+§7- §8Adventurer's Cap@ 
+§7- §8Adventurer's Boots@ 
+§7- §8Champion Boots@ 
+§7- §8Champion Chestplate@ 
+§7- §8Champion Helmet@ 
+§7- §8Champion Leggings@ 
+§7- §8Cosmic Walkers@ 
+§7- §8Cosmic Visor@ 
+§7- §8Cosmic Ward@ 
+§7- §8Cosmic Vest@ 
+§7- §8Ghostly Boots@ 
+§7- §8Ghostly Cap@ 
+§7- §8Ghostly Pants@ 
+§7- §8Ghostly Tunic@ 
+§a- §2Morph-Iron@ 
+§a- §2Morph-Gold@ 
+§a- §2Morph-Steel@ 
+§a- §2Morph-Topaz@ 
+§a- §2Morph-Ruby@ 
+§a- §2Morph-Emerald@ 
+§a- §2Morph-Amethyst@ 
+§a- §2Morph-Stardust@ 
+§7[...]@ 
+§7[Waves Raiser]@ 
+§6- §c✖ §78192²@ 
+§6- §c✖ §716384²@ 
+§3GoodFellas§b [GFs]@ 
+§7??? @ 
+§7[162,6,-5176]@ 
+§7[136,57,-4396]@ 
+§0|@ 
+§a§l✔§f Slifix@ 
+§3Slifix§b [SLIF]@ 
+§3Slifix§b [SLIF]@ 
+§7[Zephra Shredder]@ 
+§7buy pls@ 
+§7cochie man@ 
+§7Best Item s@ 
+§7Why is this a mechanic@ 
+§7i hate weapnmerhcnat@ 
+§a§nwynncraft.com/store@ 
+§7[901,96,-4406]. @ 
+§7[162,6,-5176]@ 
+§7[977,75,-732]@ 
+§7[136,57,-4396]@ 

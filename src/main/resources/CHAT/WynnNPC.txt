@@ -107,7 +107,7 @@
 §7[1/2] §2Maltic Citizen: §aAt the northern side of the Nivla Forest, there is a very dangerous cave.@§7[1/2] §2Житель Малтика: §aНа северной стороне леса Нивла есть очень опасная пещера.
 §7[2/2] §2Maltic Citizen: §aIt's filled with an unnaturally large nest of spiders. I wouldn't dare go in there.@§7[2/2] §2Житель Малтика: §aОна заполнена неестественно большим количеством гнезд пауков. Не хотел-бы я идти туда.
 §7[1/3] §2Maltic Citizen: §aNow that you have defeated the witch, where will your adventure take you next?@§7[1/3] §2Житель Малтика: §aТеперь, когда ты победил ведьму, куда твое приключение приведет тебя дальше?
-§7[2/3] §2Maltic Citizen: §aI think you might be just the person to tackle the nest of spiders in Nivla Forest.@§7[2/3] §2Житель Малтика: §aЯ думаю, ты бы мог быть как раз тем человек, чтобы решить проблему с гнездом пауков в лесу Нивла.
+§7[2/3] §2Maltic Citizen: §aI think you might be just the person to tackle the nest of spiders in Nivla Woods.@§7[2/3] §2Житель Малтика: §aЯ думаю, ты бы мог быть как раз тем человеком, чтобы решить проблему с гнездом пауков в лесу Нивла.
 §7[3/3] §2Maltic Citizen: §aSpiders have been hunting passersby and they seem to be bigger than normal.@§7[3/3] §2Житель Малтика: §aПауки охотятся на проходящих мимо, и они кажутся крупнее обычных.
 
 ####################################RYMEK############################################

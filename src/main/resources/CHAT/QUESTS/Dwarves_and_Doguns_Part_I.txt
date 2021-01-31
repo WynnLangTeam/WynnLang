@@ -44,10 +44,10 @@
 §7[5/6] §2Axelus: §aYou are encasing live Doguns for entertainment. Public execution! This twisted display is more demonic than they ever could dream to be!@§7[5/6] §2Акселус: §aВы заливаете живых Догунов для развлечения. Публичная казнь! Это извращенное представление и то более демоническое, чем оно когда-либо могло быть!
 §7[6/6] §2Marock: §aGuards! Get this propaganda spewing half pint to the §a§lMolten Core §aPrison, §a§lnorth §aside.@§7[6/6] §2Марок: §aСтража! Отведите этого пропагандиста в тюрьму §lMolten Core Prison§a, к §lсеверу§a отсюда.
 §7[1/1] §2Dwarven Guard: §aCome along, sir. Let’s not make more of a scene.@§7[1/1] §2Гном Страж: §aПройдемте, сэр. Не будем устраивать потасовку.
-§7[1/5] §2Crowd: §aWhy would Axelus say something so blatantly wrong?@§7[1/5] §2Крауд: §aПочему Акселус говорил что-то настолько вопиюще неправильное?
-§7[2/5] §2Crowd: §aWhat was he talking about? That was all nonsense!@§7[2/5] §2Крауд: §aО чем это он говорил? Это все чепуха!
-§7[3/5] §2Crowd: §aAre they really taking him to the Molten Core? You've heard the horror stories about there, right?@§7[3/5] §2Крауд: §aОни действительно ведут его в Molten Core? Вы ведь слышали ужасные истории о ней, верно?
-§7[4/5] §2Crowd: §aWell, the expression 'no hope blows from the north' came from there, since it's on the north side...@§7[4/5] §2Крауд: §aНу, выражение "нет надежды, дующей с севера" пришло оттуда, так как она на северной стороне...
+§7[1/5] §2Crowd: §aWhy would Axelus say something so blatantly wrong?@§7[1/5] §2Голос из толпы: §aПочему Акселус говорил что-то настолько вопиюще неправильное?
+§7[2/5] §2Crowd: §aWhat was he talking about? That was all nonsense!@§7[2/5] §2Голос из толпы: §aО чем это он говорил? Это все чепуха!
+§7[3/5] §2Crowd: §aAre they really taking him to the Molten Core? You've heard the horror stories about there, right?@§7[3/5] §2Голос из толпы: §aОни действительно ведут его в Molten Core? Вы ведь слышали ужасные истории о ней, верно?
+§7[4/5] §2Crowd: §aWell, the expression 'no hope blows from the north' came from there, since it's on the north side...@§7[4/5] §2Голос из толпы: §aНу, выражение "нет надежды, дующей с севера" пришло оттуда, так как она на северной стороне...
 §7[5/5] §2Marock: §aApologies, all. I shall provide us all with a quick way back to Rodoroc on the floor here. We hope you enjoyed the show, despite the interruption!@§7[5/5] §2Марок: §aПрошу прощения у всех. Я предоставлю вам всем быстрый путь назад к Родороку, который находится здесь. Мы надеемся, что вам понравилось шоу, несмотря на перерыв!
 §7[1/4] §2Axelus: §aI see I got your attention. Interested in the truth.@§7[1/4] §2Акселус: §aЯ вижу, что привлек твое внимание. Интересует правда.
 §7[2/4] §2Axelus: §aI'm no conspiracy nut. The Dwarves have been lied to for hundreds of years about the war.@§7[2/4] §2Акселус: §aЯ не помешан на заговоре. Гномы были обманутыми о войне, в течение сотен лет.

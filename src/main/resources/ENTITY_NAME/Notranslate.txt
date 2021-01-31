@@ -1402,7 +1402,6 @@
 §cDead Pirate Guard§6 [Lv. 70]@ 
 §cCasting Raider§6 [Lv. 45]@ 
 §cHighwayman§6 [Lv. 26]@ 
-§cFaded Map§6 [Lv. 1]@ 
 §cCaptain Crookleg§6 [Lv. 68]@ 
 §cPirate Invader§6 [Lv. 62]@ 
 §cObsidian Guard§6 [Lv. 95]@ 
@@ -7159,3 +7158,101 @@ Drollings@
 Joji@ 
 Chadwick@ 
 Daybreak@ 
+§2store.wynncraft.com@ 
+§4§n/§c§n!§4§n\@ 
+§5store.wynncraft.com@ 
+§6store.wynncraft.com@ 
+§3store.wynncraft.com@ 
+§7crabs@ 
+RaveNivlaTPOrb@ 
+§a0§2/2@ 
+RaveGhostTestWool@ 
+RaveGhostTestBone@ 
+RaveGhostTestMain@ 
+VWorldBossEgg@ 
+§a§0§6 [Lv. 1]@ 
+§eDapple Donkey§6 [Lv. 4]@ 
+§eScarecrow Skirmisher§6 [Lv. 11]@ 
+§7Discounted delights!@ 
+§eKatoa Crab§6 [Lv. 4]@ 
+boattp@ 
+§7joe@ 
+tripwireMarker@ 
+boatEvent@ 
+randomPowder@ 
+goodbyeMarker@ 
+destinationMsgs@ 
+startMarker@ 
+randomGoodbye@ 
+bellMarker@ 
+§a0§2/10@ 
+§a§0§6 [Lv. 45]@ 
+awsAP_C@ 
+awsAP_E@ 
+awsAP_D@ 
+awsAP_B@ 
+awsAP_A@ 
+§ePotato Treasurer of Olux§6 [Lv. 54]@ 
+vslotsfixed@ 
+VNecklaceDisappear2@ 
+ptoDollHead@ 
+ptoDoll@ 
+RaveOrcMarker@ 
+aaronboulder1@ 
+aaronboulder3@ 
+aaronboulder2@ 
+§2[§aVIP§2]@ 
+2x ••@ 
+§a§l✔@ 
+§7✖@ 
+❤@ 
+§a§lVIP@ 
+§7store.wynncraft.com@ 
+§ePotato Treasurer of Olux§6 [Lv. 54]@ 
+§cCave Bat§6 [Lv. 54]@ 
+vslotsfixed@ 
+§eArwins§6 [Lv. 74]@ 
+§eSecurity Guard§6 [Lv. 75]@ 
+§a§0§6 [Lv. 1]@ 
+§eBystander§6 [Lv. 100]@ 
+§eMermaid§6 [Lv. 75]@ 
+§eDragon Turtle§6 [Lv. 84]@ 
+§eShimmerstalk§6 [Lv. 88]@ 
+§eHobgoblin Farmer§6 [Lv. 80]@ 
+§eThesead Marshal§6 [Lv. 85]@ 
+§eGnomish Archaeologist§6 [Lv. 80]@ 
+§eScarecrow Skirmisher§6 [Lv. 11]@ 
+§eKatoa Crab§6 [Lv. 4]@ 
+§cDrunk Property Owner§6 [Lv. 20]@ 
+§a§0§6 [Lv. 45]@ 
+§eNii Guardian§6 [Lv. 75]@ 
+§eDrunken Gambler§6 [Lv. 74]@ 
+§eCarrion Spider§6 [Lv. 94]@ 
+§c§n/§4!§c§n\@ 
+§2[§aVIP§2]@ 
+2x ••@ 
+§a§l✔@ 
+§7✖@ 
+❤@ 
+§a§lVIP@ 
+§eScarecrow Skirmisher§6 [Lv. 11]@ 
+§eZombified Sheep§6 [Lv. 8]@ 
+§eGoblin Forager§6 [Lv. 41]@ 
+§0À@ 
+§ePlains Brigand§6 [Lv. 45]@ 
+§a§0§6 [Lv. 45]@ 
+§eRoothome Overseer§6 [Lv. 47]@ 
+§eWaterway Bucket Brigade§6 [Lv. 42]@ 
+BraceFarmCloner@ 
+§eRivertunnel Digger§6 [Lv. 44]@ 
+§eRivertunnel Siever§6 [Lv. 42]@ 
+§eRivertunnel Bottler§6 [Lv. 42]@ 
+§eShineridge Orc Appraiser§6 [Lv. 45]@ 
+§eShineridge Orc Barterer§6 [Lv. 45]@ 
+§eShineridge Orc Jewelsetter§6 [Lv. 46]@ 
+§a0§2/10@ 
+§bTonnerre§6 [Lv. 55]@ 
+randomPass@ 
+§eGoblin Forager§6 [Lv. 41]@ 
+§ePlains Brigand§6 [Lv. 45]@ 
+§eAdventuring Hobbit§6 [Lv. 95]@ 

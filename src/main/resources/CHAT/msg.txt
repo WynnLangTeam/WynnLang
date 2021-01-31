@@ -4,11 +4,11 @@
 §d     -§7 Lore: §f§oVery few outsiders are allowed into Aldorei Valley, home of the elves. They consider it to be a place free of greed.@§d     -§7 Лор: §f§oОчень немногие посторонние допускаются в долину Алдорей - места, где живут эльфы. Они считают ее местом, свободным от жадности.
 §d     -§7 Lore: §f§oKaroc Quarry mines out massive amounts of quartz each day, mostly used for construction purposes. But lately, shipments have been going missing...@§d     -§7 Лор: §f§oИз шахты карьера Карок добывают огромное количество кварца каждый день, который в основном используется для строительных целей. Но в последнее время грузы стали пропадать...
 §d     -§7 Lore: §f§oThis massive, maze-like ravine is home to the Pigmen, a species of half-pig, half-human abominations that feast on any weak adventurer who happens to stumble inside.@§d     -§7 Лор: §f§oЭтот массивный овраг в виде лабиринта является домом для Пигменов - расы наполовину людей, наполовину свиньей. Они с радостью съедят любого слабого искателя приключений, на которого случайно наткнутся внутри.
-§d     -§7 Lore: §f§oThe small village of Bucie is home to many farmers, who produce the crops for the nearby cities of Llevigar and Olux.@§d     -§7 Лор: §f§oВ небольшой деревне Бучи проживает много фермеров, которые производят урожай для близлежащих городов Ллевигар и Олукс.
+§d     -§7 Lore: §f§oThe small town of Bucie is home to many farmers, who produce the crops for the nearby cities of Llevigar and Olux.@§d     -§7 Лор: §f§oВ небольшом городке Бучи проживает много фермеров, которые производят урожай для близлежащих городов Ллевигар и Олукс.
 §d     -§7 Lore: §f§oThis serves as the gateway to the brilliant Light Forest. Unlike the Dark Forest, this area hasn't been afflicted by the Decay, and remains as beautiful as ever.@§d     -§7 Лор: §f§oЭти ворота служат входом в великолепный Светлый Лес. В отличие от Темного Лесa, ему удалось сохранить свой первозданный вид, ведь заражение его не коснулось
 §d     -§7 Lore: §f§oA prestigious mansion that was once owned by the Sodeta Guild. It is said that the dangerous and powerful Abysso Galoshes were once sealed away here.@§d     -§7 Лор: §f§oПрестижный особняк, который когда-то принадлежал Гильдии Содета. Говорят, что опасные и мощные Abysso Galoshes когда-то были запечатаны здесь.
 §d     -§7 Lore: §f§oOne of two great fortresses in Wynn. Ragni has survived over 1000 years of war - sometimes barely. It is the hometown of the 146 year old hero Bob, who hasn’t been seen in 16 years.@§d     -§7 Лор: §f§oОдна из двух великих крепостей в провинции Винн. Рагни пережил более 1000 лет войны - иногда был близок к краху. Это родной город 146-летнего старого героя по имени Боб, которого не видели уже 16 лет.
-§d     -§7 Lore: §f§oThe trail through Nivla Forest to Detlas, the central city of the Wynn Province.@§d     -§7 Лор: §f§oПуть через Лес Нивла в Детлас, центральный город провинции Винн.
+§d     -§7 Lore: §f§oThe trail through Nivla Woods to Detlas, the central city of the Wynn Province.@§d     -§7 Лор: §f§oПуть через Лес Нивла в Детлас, центральный город провинции Винн.
 §d     -§7 Lore: §f§oA wealthy family claimed the entire island to settle on when the waves first settled, but a mysterious event has brought dark influence to the island, robbing it of its vibrancy.@§d     -§7 Лор: §f§oБогатая семья забронировала себе весь остров для житья, когда начались первые волны переселения, но таинственное событие принесло на остров темное влияние, лишив его живности.
 §d     -§7 Lore: §f§oThis forest has been infested with giant, mutant arachnids for countless years. They serve as the greatest obstacle for adventurers on their way to Detlas.@§d     -§7 Лор: §f§oЭтот лес заражался гигантскими паукообразными мутантами в течение бесчисленных лет. Они служат самым большим препятствием для авантюристов на пути в Детлас.
 §d     -§7 Lore: §f§oThis area is heavily defended by the armies of Detlas and Ragni to ensure food production continues.@§d     -§7 Лор: §f§oЭтот район обороняли войска Детласа и Рагни, чтобы производство продовольствия по-прежнему продолжалось.
@@ -26,14 +26,14 @@
 §d     -§7 Lore: §f§oThe royal family of Troms has been the talk of the town lately. The king's son has gone missing, while the King himself remains reclusive and paranoid...@§d     -§7 Лор: §f§oКоролевскую семью Тромсa в последнее время обсуждают все. Сын короля пропал, а сам король остается затворником и параноиком...
 §d     -§7 Lore: §f§oAldorei Town is another section of the elf city, housing many special resources and charms not found anywhere else in Gavel.@§d     -§7 Лор: §f§oГород Алдорей является еще одним местом проживания эльфов, где хранится множество ресурсов и заклинаний, которые невозможно найти нигде в Гавеле.
 §d     -§7 Lore: §f§oLetvus Airbase is the best place to go for commercial airship travel, though only the wealthiest can afford it.@§d     -§7 Лор: §f§oАвиабаза Летвус - лучшее место для коммерческих авиаперелетов, хоть только самые богатые могут себе это позволить
-§d     -§7 Lore: §f§oThe Guild Hall is where the most prestigous guilds gather, and where you can create your own. You can also get to Letvus Airbase through here.@§d     -§7 Лор: §f§oЗал Гильдий - место, где собираются самые престижные гильдии, и где вы можете создать свою собственную. Также отсюда можно попасть на авиабазу Летвус.
+§d     -§7 Lore: §f§oThe Guild Hall is where the most prestigious guilds gather, and where you can create your own. You can also get to Letvus Airbase through here.@§d     -§7 Лор: §f§oЗал Гильдий - место, где собираются самые престижные гильдии, и где вы можете создать свою собственную. Также отсюда можно попасть на авиабазу Летвус.
 §d     -§7 Lore: §f§oHundreds of years ago, the people working at this mill died in the war. Even after the land was frozen over, their bodies still hunt those who draw near.@§d     -§7 Лор: §f§oСотни лет назад люди, работающие на этой фабрике, погибли в войне. Несмотря на то, что земля была заморожена, их тела продолжают охотиться на тех, кто бродит рядом.
 §d     -§7 Lore: §f§oFor which the Gylia Plains are named, Lake Gylia is the largest lake in the world. Immense magical energy surrounds this place.@§d     -§7 Лор: §f§oНазванное в честь ближайших полей, озеро Гилия является самым большим озером в мире. Это место окружает огромная магическая энергия.
 §d     -§7 Lore: §f§oFounded after the Gerten War 200 years ago, the Gylia Watch have used this tower as their base, keeping an eye on the Gerts to prevent another attack.@§d     -§7 Лор: §f§oОснованна после войны с Гертами 200 лет назад. Стражи башни Гилия используют ее в качестве своей базы, наблюдая за тем, чтобы предотвратить еще одну атаку.
 §d     -§7 Lore: §f§oThe city of Llevigar is the first sight adventurers see in Gavel. It was built using quartz mined from the nearby Karoc Quarry. It is the most advanced city in Gavel.@§d     -§7 Лор: §f§oГород Ллевигар - это первое, что видят приезжие в Гавел. Он был построен с использованием кварца, добываемого из близлежащего карьера Карок. Это самый продвинутый город в провинции Гавел.
 §d     -§7 Lore: §f§oThe main city of the patriotic Corkians, refugees from Fruma who settled on the island. They've used the art of electromagic to build machines.@§d     -§7 Лор: §f§oГлавный город патриотических жителей Коркусa, беженцев из Фрумы, поселившихся на острове. Они использовали искусство электромагии для создания машин.
 §d     -§7 Lore: §f§oThis is the widest river in Gavel, and stretches so long that it divides the plains in two.@§d     -§7 Лор: §f§oЭто самая широкая река в провинции Гавел, и она настолько длинная, что разделяет поля на две части.
-§d     -§7 Lore: §f§oThe first town founded by Villagers in the Wynn province. Maltic’s beach is the site of a shipwreck that crashed upon its shores 100 years ago.@§d     -§7 Лор: §f§oПервый город, построенный расой жителей в провинции Винн. Пляж Малтика -  это место крушения корабля, разбившегося на берегах 100 лет назад.
+§d     -§7 Lore: §f§oThe first town founded by Villagers in the Wynn province. Maltic's beach is the site of a shipwreck that crashed upon its shores 100 years ago.@§d     -§7 Лор: §f§oПервый город, построенный расой жителей в провинции Винн. Пляж Малтика -  это место крушения корабля, разбившегося на берегах 100 лет назад.
 §d     -§7 Lore: §f§oThis beachside path is used by many travellers who seek to avoid the spider-infested route of the Emerald Trail.@§d     -§7 Лор: §f§oЭтот пляжный путь используется многими путешественниками, которые стремятся избежать зараженного пауками маршрута эмеральдовой тропы.
 §d     -§7 Lore: §f§oA small village hidden within the trees in the Nivla forest. Home of the only bowl merchant in the province.@§d     -§7 Лор: §f§oНебольшая деревня, спрятанная внутри деревьев в лесу Нивла. Дом единственного торговца мисками в провинции.
 §d     -§7 Lore: §f§oUnlike most towns in Gavel, Efilim is home to multiple races. Elves and villagers live together in harmony here.@§d     -§7 Лор: §f§oВ отличии от большинства городов в Гавеле, Эфилим является домом для многих рас. Эльфы и жители живут здесь в гармонии.
@@ -55,12 +55,11 @@
 §d     -§7 Lore: §f§oProposals to colonise Maro Peaks have long been brought up as it holds great defensive and industrial benefits, but the local animal population proves impossible to work with. It is said Bob was the first man to climb to the peak.@§d     -§7 Лор: §f§oПредложения по колонизации Вершин Маро уже давно были выдвинуты, поскольку они имеют большую оборонительную и промышленную выгоду, но с местным животным населением оказалось невозможно работать. Говорят, Боб был первым человеком, который сумел подняться на их вершину.
 §d     -§7 Lore: §f§oA village of hobbits, it is home to a blacksmith by the name of Dodegar, seeking to forge the ultimate weapon.@§d     -§7 Лор: §f§oДеревня хоббитов, и дом одного кузнеца по имени Додегар, который пытается создать смертельное оружие.
 §d     -§7 Lore: §f§oThesead is one of the smaller cities of Gavel, but its coal industry has kept it thriving. However, recently the coal mines have shut down.@§d     -§7 Лор: §f§oТесеад - один из небольших городов в Гавеле, который благодаря угольной промышленности продолжает процветать. Однако недавно угольные шахты закрылись.
-§d     -§7 Lore: §f§oBantisu Air Temple has served as a beacon in the Canyon of The Lost. The Air Monks help guide people who have gotten lost.@§d     -§7 Лор: §f§oВоздушная Башня Бантису служит маяком в Каньоне Потерянных. Воздушные монахи помогают потерявшимся людям найти выход из каньона.
 §d     -§7 Lore: §f§oThe city of Eltom is the only human residence in Gavel. Since humans aren't permitted to settle in the province, it has remained hidden to outsiders.@§d     -§7 Лор: §f§oГород Элтом - единственная человеческая резиденция в провинции Гавел. Поскольку людям не разрешается селиться в провинции, он остается скрытым для посторонних.
 §d     -§7 Lore: §f§oThese massive holes have recently begun appearing all around the swamp, creating a massive tunnel network underground.@§d     -§7 Лор: §f§oЭти массивные дыры недавно начали появляться по всему болоту, создавая огромную сеть соединенных тоннелей под землей.
 §d     -§7 Lore: §f§oCursed by an ice dragon's breath, this is a scar of the Dogun genocide.@§d     -§7 Лор: §f§oПроклятый дыханием ледяного дракона, это шрам от геноцида Догунов.
 §d     -§7 Lore: §f§oReminant of the Dogun genocide, the Dragons sided with the native residents. However, the dwarves proved to be the dominant force beneath the lava.@§d     -§7 Лор: §f§oОстатки геноцида Догунов. Драконы были на стороне коренных жителей. Однако, гномы показали кто здесь главный под лавой.
-§d     -§7 Lore: §f§oThis massive doorway serves as the main entrance to the province of Gavel. Through it lies the imperial quartz city of Llevigar.@§d     -§7 Лор: §f§oМассивная дверь служит входом в провинцию Гавел. Она проходит через имперский кварцевый город Ллевигар.
+§d     -§7 Lore: §f§oThis massive doorway serves as the main entrance to the province of Gavel. Through it lies the quartz city of Llevigar.@§d     -§7 Лор: §f§oМассивная дверь служит входом в провинцию Гавел. Она проходит через кварцевый город Ллевигар.
 §d     -§7 Lore: §f§oHome to a nation of early seafarers, they have waged war among each other for years, oblivious to the real war happening on the mainland.@§d     -§7 Лор: §f§oРодина нации ранних моряков. Они вели войну между собой в течение многих лет, не обращая внимания на настоящую войну на материке
 §d     -§7 Lore: §f§oNot many travel to this little tribal village in the savannah, but it is said to be the home of a powerful sorcerer.@§d     -§7 Лор: §f§oНе многие путешествуют в эту маленькую племенную деревню в саванне, но говорят, что она является домом могущественного колдуна.
 §d     -§7 Lore: §f§oHome to the reclusive mages responsible for calming the waves, the people on this island continue to study magic and advance their capabilities beyond any other.@§d     -§7 Лор: §f§oДом для неуловимых магов, ответственных за успокоение волн. Люди на этом острове продолжают изучать магию и продвигать свои возможности за пределы разума других.
@@ -84,7 +83,7 @@
 §d     -§7 Lore: §f§oThis egg-shaped island is home to a single resident, a featherbrained villager hermit obsessed over chickens. Rumor has it that Bob has visited the island for some reason.@§d     -§7 Лор: §f§oЭтот остров яйцевидной формы является домом для одного жителя, пернатого сельского отшельника, одержимого курицами. Ходят слухи, что Боб почему-то посещал этот остров.
 §d     -§7 Lore: §f§oThis magnificent bridge connects the mysterious ruins of Time Valley to the frigid cold of the Nesaak Tundra. In the center lies a mysterious seal that no one has been able to open.@§d     -§7 Лор: §f§oЭтот великолепный мост соединяет таинственные развалины Долины Времени с пронизывающим холодом леса Несаака. В его центре находится таинственная печать, которую никто не может открыть
 §d     -§7 Lore: §f§oDespite its proximity to the portal, this quaint town has somehow managed to survive. It was once the home of a researcher who investigated the phenomenon of corruption.@§d     -§7 Лор: §f§oНесмотря на свою близость к Порталу, этот причудливый город каким-то образом сумел выжить. Когда-то это был дом одного человека, который исследовал появление порчи.
-§d     -§7 Lore: §f§oFounded in 970AP after the waves calmed, this city became the bridge between Gavel and Wynn. It flourishes in trade and enjoys a safe haven from the dangers of both provinces.@§d     -§7 Лор: §f§oОснованный в 970 году после открытия портала, этот город стал мостом между провинциями Гавел и Винн. Он процветает в торговле и имеет безопасное убежище от опасностей обеих провинций.
+§d     -§7 Lore: §f§oFounded in 970 AP after the waves calmed, this city became the bridge between Gavel and Wynn. It flourishes in trade and enjoys a safe haven from the dangers of both provinces.@§d     -§7 Лор: §f§oОснованный в 970 году после открытия портала, этот город стал мостом между провинциями Гавел и Винн. Он процветает в торговле и имеет безопасное убежище от опасностей обеих провинций.
 §d     -§7 Lore: §f§oDespite the odd formation of land, every inch is covered in farmland, and acts as a proverbial breadbasket for the ocean capital of Selchar.@§d     -§7 Лор: §f§oНесмотря на странную территорию, каждый дюйм здесь покрыт сельскохозяйственными угодьями и выступает в качестве пресловутой житницы для океанической столицы Сельчара.
 §d     -§7 Lore: §f§oA lush cavern hidden under the barn at Durum Isles. It is bursting with life and natural energies, and is fiercely protected...@§d     -§7 Лор: §f§oПышная пещера, спрятанная под сараем на Дурум Островах. Она разрывается жизнью и природными энергиями, и яростно защищена...
 §d     -§7 Lore: §f§oA thousand years ago, a group of emerald miners unearthed a mysterious portal. Unknowingly, they doomed the province to centuries of war against the mysterious force known as corruption.@§d     -§7 Лор: §f§oТысячу лет назад группа шахтеров раскопала загадочный портал. Неосознанно они обрекли провинцию на многовековую войну против загадочной силы под названием порча.
@@ -142,6 +141,17 @@
 §d     -§7 Lore: §f§oThis valley has been overgrown with gigantic plant life. Rumors suggest that small rifts in the ground allow one to teleport.@§d     -§7 Лор: §f§oЭта долина заросла гигантской растительностью. Ходят слухи, что небольшие трещины в земле позволяют телепортироваться.
 §d     -§7 Lore: §f§oThis black obelisk bears a similar shape to the one found in Lutho, though it's unclear how they're related.@§d     -§7 Лор: §f§oЭтот черный обелиск имеет схожую форму с тем, что был найден в Луто, хотя неясно, как они связаны.
 §d     -§7 Lore: §f§oThought to be only a myth, this portal's existence confirms the legends that the Silent Expanse is a road to Dern. How to access it, though, is perhaps a mystery that can't be solved yet...@§d     -§7 Лор: §f§oСчитаясь всего лишь мифом, существование этого портала подтверждает легенды о том, что Тихое Пространство - это дорога в Дерн. Но как получить к нему доступ - это, пожалуй, загадка, которую пока не разгадать...
+§d     -§7 Lore: §f§oJust beyond this now abandoned ruin lies a dug out nest crawling with infantile Grootslangs. If left to mature, these newborn creatures will grow powerful enough to decimate the swamp.@§d     -§7 Лор: §f§oСразу за этими ныне заброшенными развалинами лежит выкопанное гнездо, кишащее инфантильными Грутслангами. Если оставить их взрослеть, эти новорожденные существа вырастут достаточно сильными, чтобы уничтожить болото.
+§d     -§7 Lore: §f§oA sight to behold, this enormous statue has resided in the Canyon of the Lost for as long as history can tell. Its magic permeates throughout the entire canyon, making it nigh-impossible to navigate.@§d     -§7 Лор: §f§oКак достопримечательность для созерцания, эта огромная статуя была в Каньоне Потерянных так долго, как только может рассказать история. Ее магия пронизывает весь каньон, делая его почти невозможным для навигации.
+§d     -§7 Lore: §f§oOnce the home of a wealthy aristocrat, this castle has been overtaken by Dullahan, an enigmatic Elf who terrorized the Dark Forest for decades.@§d     -§7 Лор: §f§oКогда-то дом богатого аристократа, этот замок был захвачен Дуллаханом - загадочным эльфом, который терроризировал Темный Лес на протяжении десятилетий.
+§d     -§7 Lore: §f§oSecluded beneath the remains of a colossal tree, this bizarre structure acts as a gateway to the Realm of Light, an otherworldly realm beyond imagination.@§d     -§7 Лор: §f§oУединенное под остатками колоссального дерева, это причудливое сооружение действует как ворота в Царство Света - потустороннее царство за пределами воображения.
+§d     -§7 Lore: §f§oAn intense well of gravity sits atop the border of the void, drawing in anything fallen into it. Creatures seem to still live down here...@§d     -§7 Лор: §f§oНа границе пустоты находится мощный колодец гравитации, втягивающий в себя все, что в него упало. Существа, кажется, все еще живут здесь...
+§d     -§7 Lore: §f§oBuilt by the most skilled sculptors in Gavel, no expense was spared in constructing this enormous monument to Gavel's hero.@§d     -§7 Лор: §f§oПостроенный самыми искусными скульпторами Гавела, на сооружение этого огромного памятника Герою Гавела не жалели средств.
+
+###########################################TERRITORY LORE NEW###############################
+  §7Bantisu Air Temple has served as a beacon in the Canyon@  §7Воздушная Башня Бантису служит маяком в Каньоне
+     §7of The Lost. The Air Monks help guide people who have@     §7 Потерянных. Воздушные монахи помогают потерявшимся людям найти
+                                §7gotten lost.@                                §7выход из каньона.
 
 ################################################DISCOVERIES###############################################
 §d     -§7 About Discovery: §f§oThe civilization that ruled this land over 1000 years ago seemed to be equally as educated as people today. There are lots of texts dedicated to the Emperor.@§d     -§7Об открытии: §f§oЦивилизация, правившая этой землей более 1000 лет назад, казалась такой же образованной, как и люди сегодня. Существует множество текстов, посвященных Императору.
@@ -191,6 +201,7 @@
 §d     -§7 About Discovery: §f§oThe connection between our world and the other realms has been shattered and warped as the war of corruption evolved.@§d     -§7 Об открытии: §f§oСвязь между нашим миром и другими царствами была разрушена и искажена по мере развития войны с порчей. 
 §d     -§7 About Discovery: §f§oMany years ago an Olmic oracle foresaw the demise of her land. To prepare for it, she created a weapon of pure light that will halt the darkness, but when the time came to use it, her descendants were unable to retrieve the bracelet.@§d     -§7 Об открытии: §f§oМного лет назад Олмский оракул предвидела гибель своего края. Чтобы подготовиться к этому, она создала оружие из чистого света, которое остановит тьму, но когда пришло время использовать его, ее потомки не смогли отыскать браслет.
 §d     -§7 About Discovery: §f§oThe Silent Expanse has acted as the gateway to Dern since the outbreak of the Corruption War. The Eye has watched all intruders.. and all attempts at escape.@§d     -§7Об открытии: §f§oТихое Пространство служило воротами в Дерн с самого начала войны с порчей. Глаз наблюдал за всеми незваными гостями... и за всеми попытками к бегству.
+§d     -§7 About Discovery: §f§oCorruption crawls where one can not see. The darkness; the depths; the mind.@§d     -§7Об открытии: §f§oПорча распространяется там, где ее не видно. В темноте, глубинах, умах.
 §7Ye who seek knowledge, follow in my footsteps and gain wisdom.@§7Тот, кто ищет знания - иди по моим стопам и обрети мудрость.
 §7The voice of the past echoes on the wind...@§7Голос прошлого перекликается с ветром...
 §f886 AP (After Portal)@§f886 ПП (После Портала)
@@ -242,7 +253,7 @@
 §7The book is torn in half. The rest of the entry must be somewhere nearby...@§7Книга разорвана пополам. Остальная часть записи должна быть где-то поблизости...
 §7The voice of the past echoes on the wind...@§7Голос прошлого перекликается с ветром...
 §7''A stranger came into town today all the way from Ragni. Ragni of all places! What do the folk there want with us in this small town?''@§7"Сегодня из Рагни в город приехал незнакомец. Почему-то именно из Рагни! Что их народ хочет от нас в этом маленьком городке?"
-§7''It's nothing but farmland for as far as the eye can see around here. I want some excitement! I want to go to Ragni and see the castle there!''@§7“Там нет ничего, кроме ферм, насколько мне удалось узнать. Мне нужно немного эмоций! Я хочу пойти в Ragni, и посмотреть тамошний замок!”
+§7''It's nothing but farmland for as far as the eye can see around here. I want some excitement! I want to go to Ragni and see the castle there!''@§7“Там нет ничего, кроме ферм, насколько мне удалось узнать. Мне нужно немного эмоций! Я хочу пойти в Рагни, и посмотреть тамошний замок!”
 §7''Then again, the roads are more dangerous now than they ever have been.  If rumors are to be trusted, you can't step three feet out of town without running into an undead''@§7"Опять же, дороги сейчас наиболее опасны, чем когда-либо. Если слухи заслуживают доверия, вы не можете выйти на три шага из города, не столкнувшись с нежитью"
 §7''Who knows, maybe this'll all blow over soon...''@§7"Кто знает, может быть, это все скоро закончится..."
 §7''I was talking to Mary the other day. She said some of the survivors are planning to make the trip to Troms or Ragni.''@§7"Я разговаривал с Мэри на днях. Она сказала, что некоторые из выживших планируют отправиться в Тромс или Рагни."
@@ -276,6 +287,7 @@
 §4It's just a heavy rock.@§4Это просто тяжелый камень.
 §4You need to find all of the discoveries in §cWynn Plains§4 before you can enter this area.@§4Тебе нужно найти все открытия в §CРавнинах Винн§4, прежде чем ты сможешь войти на эту территорию.
 §4You need to find all of the discoveries in §cDesert§4 before you can enter this area.@§4Тебе нужно найти все открытия в §CПустыне§4, прежде чем ты сможешь войти на эту территорию.
+§4You need to find all of the discoveries in §cOlux Swamp§4 before you can enter this area.@§4Тебе нужно найти все открытия на §CБолотах Олукса§4, прежде чем ты сможешь войти на эту территорию.
 §7The life force slowly fades from the creature...@§7Жизненная сила медленно покидает это существо...
 §7''That trader from Ragni was saying some disturbing things the other day.''@§7''Тот торговец из Рагни на днях говорил какие-то тревожные вещи.''
 §7''He mentioned that the undead attacks are growing more frequent all over Wynn. Even Ragni is straining under the pressure.''@§7''Он упомянул, что нападения нежити становятся все более частыми по всей провинции Винн. Даже Рагни страдает под давлением.''
@@ -384,7 +396,7 @@
 §5Guild Master: §dType /guild to see your guild menu!@§5Мастер Гильдий: §dНапиши /guild для просмотра меню гильдии!
 §5Guild Master: §dIt seems that there is already a guild with that name... Try again!@§5Мастер Гильдий: §dПохоже, что уже есть гильдия с таким именем...Попробуй другое!
 §7[-5 Soul Points]@§7[-5 Очков Душ]
-§7[-5 Liquid Emeralds]@§7[-5 Жидких Эмеральдов]
+§7[-20 Liquid Emeralds]@§7[-20 Жидких Эмеральдов]
 §7[-3 Soul Points]@§7[-3 Очка Душ]
 §7[-10000 Guild Emeralds]@§7[-10000 Эмеральдов Гильдии]
 §cInvalid Arguments. Example: /guild rank [player] [rank]@§cНеправильные аргументы. Пример: /guild rank [игрок] [ранг]
@@ -414,6 +426,48 @@
 §4If you leave, the guild will be disbanded. You must have a §cchief§4 to take over for you.@§4Если ты уйдешь, то гильдия будет распущена. Назначь игрока §cшефом§4 чтобы он занял твое место.
 §3You cannot recruit that many mobs!@§3Ты не можешь завербовать столько мобов!
 §4You cannot trade while a Guild War is about to start!@§4Ты не можешь торговать, так как захват территории скоро начнется!
+§3[§3WAR]§c §cNobody logged in for the war.@§3[§3WAR]§c §cНикто не пришел на битву.
+§4You cannot use this command while inside a war.@§4Ты не можешь использовать эту команду во время битвы.
+§3[WAR] §c5 seconds...@§3[WAR] §c5 секунд...
+§3[WAR] §c4 seconds...@§3[WAR] §c4 секунды...
+§3[WAR] §c3 seconds...@§3[WAR] §c3 секунды...
+§3[WAR] §c2 seconds...@§3[WAR] §c2 секунды...
+§3[WAR] §c1 second...@§3[WAR] §c1 секунда...
+§3[§3WAR]§c §cThe battle has begun!@§3[§3WAR]§c §cБитва началась!
+§7Guild Commands (Captain):@§7Команды гильдии (Капитан):
+§3/g §b[message]§7 - §eSend a guild message@§3/g §b[сообщение]§7 - §eОтправить сообщение в чат гильдии
+§3/guild §3manage§7 - §eOpens guild management@§3/guild §3manage§7 - §eОткрыть управление гильдией
+§3/guild §3territory§7 - §eOpens territory view@§3/guild §3territory§7 - §eОткрыть просмотр территорий
+§3/guild §3invite§b [name]§7 - §eInvites a player to join@§3/guild §3invite§b [ник]§7 - §eПригласить игрока в гильдию
+§3/guild §3uninvite§b [name]§7 - §eUninvites a player@§3/guild §3uninvite§b [ник]§7 - §eОтозвать приглашение в гильдию
+§3/guild §3join§b [tag]§7 - §eJoins a guild by tag@§3/guild §3join§b [тэг]§7 - §eПрисоединиться к гильдии по тэгу
+§3/guild §3leave§7 - §eLeaves the guild@§3/guild §3leave§7 - §eПокинуть гильдию
+§3/guild §3list§7 - §eLists guild members@§3/guild §3list§7 - §eПосмотреть список участников
+§3/guild §3leaderboard§7 - §eShows guild leaderboard@§3/guild §3leaderboard§7 - §eПоказать доску лидеров гильдий
+§3/guild §3stats§7 - §eShows guild stats@§3/guild §3stats§7 - §eПоказать статистику гильдии
+§3/guild §3xp§b [amount]§7 - §eSets XP contribution@§3/guild §3xp§b [кол-во]§7 - §eУстановить количество вносимых XP
+§3/guild §3log§7 - §eShows the guild log@§3/guild §3log§7 - §eПоказать лог гильдии
+§3/guild §3attack§7 - §eAttacks a territory@§3/guild §3attack§7 - §eАтаковать территорию
+§3/guild §3rank§b [name] [rank]§7 - §eSets a member rank@§3/guild §3rank§b [ник] [ранг]§7 - §eДать ранг участнику гильдии
+§cCanceled.@§cОтменено
+§3Choose a name for your new guild (or cancel):@§3Выбери имя для своей новой гильдии (или напиши cancel):
+§3Choose a tag for your new guild (or cancel):@§3Выбери тэг для своей новой гильдии (или напиши cancel):
+§bSorry, it looks like another guild is using that tag!@§bИзвини, похоже другая гильдия уже использует этот тэг!
+§bYour tag must be between 3 and 4 characters long!@§bТвой тэг должен быть от 3 до 4 символов!
+§bCongratulations, your guild has been formed!@§bПоздравляем, твоя гильдия была создана!
+§3You may access the menu using: §e/guild manage@§3Ты можешь перейти в меню используя: §e/guild manage
+§3Or see other guild commands using: §e/guild@§3Или посмотреть другие команды гильдий используя: §e/guild
+§3                              §3§lLevel Up!@§3                              §3§lУровень повышен!
+§7+3 Member Slots@§7+3 Слота для участников
+§7+Guild Bank@§7+Банк Гильдии
+§7+7 Bank Slots@§7+7 Слотов в банке
+§7+Traders Badge@§7+Значок Трейдеров
+§7+1 Badge Slots@§7+1 Слот для значка
+§7+1 Ally Slots@§7+1 Слот для Союзников
+§7+Peace Keepers Badge@§7+Значок Хранитилей Мира
+§7+High Ranked Bank@§7+Банк для Высокоранговых игроков
+§7+7 High Ranked Slots@§7+7 Высокоранговых Слотов Банка
+§3[WAR] §cThe war battle will start in 25 seconds.@§3[WAR] §cБитва начнется через 25 секунд.
 
 ###################################QUEST/DUNGEON REWARDS##################################
 §7[+1 Selchar Teleportation Scroll]@§7[+1 Сельчар свиток телепортации]
@@ -576,6 +630,12 @@
 §d            - §7+Ring of Rubies@ 
 §d   +800000 Experience Points@§d   +800000 Очков Опыта
 §b   +1 Diamond Token@§b   +1 Алмазный жетон
+§d            - §7+6 Az Runes@§d            - §7+6 Аз Рун
+§d            - §7+Access to §dthe Nest of the Grootslang@§d            - §7+Доступ к §dГнезду Грутслангов
+§d            - §7+Access to Mastery Tomes@§d            - §7+Доступ к Томам Мастера
+§d            - §7+Access to Light Portal@§d            - §7+Доступ к Порталу Света
+§7[+1 Spell of the Waking Forest]@§7[+1 Заклинание Пробуждения Леса]
+§7[-1 Spell]@§7[-1 Заклинание]
 §7[+Witherhead's Rib]@§7[+Ребро Визерхеда]
 §7[+Decrepit Sewers Fragment]@§7[+Фрагмент Ветхой Канализации]
 §7[+Theorick's Ice Shard]@§7[+Осколок Льда Теорика]
@@ -622,6 +682,56 @@
 §7[+1 Selchar Boat Pass]@§7[+1 Билет в Сельчар]
 §7[+1 Nemract Boat Pass]@§7[+1 Билет в Немракт]
 §7[-1 Mine Pass]@§7[-1 Пропуск в Шахту]
+§7[+4 Blank Powder IV]@§7[+4 Пустой Порошок IV]
+§7[+1 Saccharum]@§7[+1 Сахар]
+§7[-1 Rusty Shovel]@§7[-1 Ржавая Лопата]
+§7[+Access To The Resources Tunnels]@§7[+Доступ к тоннелю с ресурсами]
+§7[+1 Map Piece]@§7[+1 Кусок Карты]
+§7[+1 Treasure Map]@§7[+1 Карта Сокровищ]
+§7[+1 Bottled Water]@§7[+1 Бутылка Воды]
+§7[+1 Sponge]@§7[+1 Губка]
+§7[+1 Gunpowder Crate]@§7[+1 Контейнер с Порохом]
+§7[+1 Cannon Fuse]@§7[+1 Фитиль от Пушки]
+§7[+1 Beastly Wings]@§7[+1 Крылья]
+§7[-1 Beastly Wings]@§7[-1 Крылья]
+§7[-1 Corrupt Pearl]@§7[-1 Испорченная Жемчужина]
+§7[+2 Emerald Blocks]@§7[+2 Блока Эмеральдов]
+§7[+1 Potion of Shrinking]@§7[+1 Зелье Уменьшения]
+§7[-32 Fuel Sprites]@§7[-32 Топливных Спрайта]
+§7[-1 Soul Retainer]@§7[-1 Держатель Душ]
+§7[+2176 Emeralds]@§7[+2176 Эмеральдов]
+§7+20480 Emeralds@§7+20480 Эмеральдов
+§7+1 Eldritch Outlook Key@§7+1 Ключ от Жуткого Наблюдателя
+§7[+1 Recipe]@§7[+1 Рецепт]
+§7[+1 Amulet]@§7[+1 Амулет]
+§7[+1536 Emeralds]@§7[+1536 Эмеральдов]
+§7[+640 Emeralds]@§7[+640 Эмеральдов]
+§7[+3 Emerald Blocks]@§7[+3 Блока Эмеральдов]
+§7[+8 Emeralds]@§7[+8 Эмеральдов]
+§7[+1 Unidentified Helmet]@§7[+1 Неидентифицированный Шлем]
+§7[+2 Wheat String]@§7[+2 Пшеничных Нити]
+§7[+2 Gudgeon Oil]@§7[+2 Жира Пескаря]
+§7[+2 Copper Ingot]@§7[+2 Слитка Меди]
+§7[+896 Emeralds]@§7[+896 Эмеральдов]
+§7[+1 Scavenger Hunt Ticket]@§7[+1 Билет на Охоту за Сокровищами]
+§7[-1 Siegfried Mug]@§7[-1 Кружка Зигфрида]
+§7[-1 Siegfried Mask]@§7[-1 Маска Зигфрида]
+§7[-1 Siegfried's Autograph]@§7[-1 Автограф Зигфрида]
+§7[+1 Ancient Bucket]@§7[+1 Древнее Ведро]
+§7[+1 Water Ancient Bucket]@§7[+1 Древнее Ведро с Водой]
+§7[-1 Water Bucket]@§7[-1 Ведро с Водой]
+§7[+1 Hard Leather]@§7[+1 Твердая Кожа]
+§7[+1 Cloth]@§7[+1 Ткань]
+§7[-1 Old Cloth]@§7[-1 Старая Ткань]
+§7[-1 Hard Leather]@§7[-1 Твердая Кожа]
+§7[+1 Hard Boots]@§7[+1 Жесткие Сапоги]
+§7[-1 Ancient Bucket]@§7[-1 Древнее Ведро]
+§7[+1 Lava Bucket]@§7[+1 Ведро Лавы]
+§7[-1 Lava Bucket]@§7[-1 Ведро Лавы]
+§7[+1 Rusty Pickaxe]@§7[+1 Ржавая Кирка]
+§7[+1 Referick's Soul]@§7[+1 Душа Реферика]
+§7[-1 Referick's Soul]@§7[-1 Душа Реферика]
+§7[-1 Emerald]@§7[-1 Эмеральд]
 §4This material cannot be used for §fⒹ§c Jeweling@§4Этот материал не может быть использован в §fⒹ§c Изготовлении Аксессуаров
 §4This material cannot be used for §fⒼ§c Weaponsmithing@§4Этот материал не может быть использован в §fⒼ§c Оружейном Деле
 §4This material cannot be used for §fⒽ§c Armouring@§4Этот материал не может быть использован в §fⒽ§c Изготовлении Брони
@@ -776,6 +886,7 @@
 §4Try adding some more §cEpic§4 items.@§4Попробуй добавить больше §cЭпических§4 предметов.
 §4Try adding some more §cRare§4 items.@§4Попробуй добавить больше §cРедких§4 предметов.
 §4Try adding some more §cGodly§4 items.@§4Попробуй добавить больше §cБожественных§4 предметов.
+§a+200 §2Combat XP@§a+200 §2Комбат XP
 
 #######################################CRATES###########################################
 §d§lYou've gotten a rare§d§l reward!@§d§lТы получил редкую§d§l награду!
@@ -786,6 +897,8 @@
 §cYou now have an attack effect.@§cВыбран эффект атаки.
 §cYou no longer have any attack effects.@§cУ тебя больше нет эффектов атак.
 §7You have disabled your weapon skin.@§7Ты отключил скин для оружия.
+§7You have disabled your helmet skin.@§7Ты отключил скин для шляпы.
+§7You have set your helmet skin to Yahya's Fantasy@§7Ты установил в качестве своего скин шлема Фантазию Яхуи
 §4Uh oh! You may only upgrade rewards of the same tier...@§4Эх! Ты можешь апгрейдить награды только того же уровня...
 §cYou no longer have any effects.@§cУ тебя нет никаких эффектов.
 §7This token can be redeemed for one wybel. Be careful, this item can not be scrapped after use@§7Этот жетон можно обменять на одного вубеля. Будь осторожен, его нельзя будет утилизировать после использования
@@ -976,6 +1089,7 @@
 §aA §8§k|||§4 Black Market §8§k|||§4 Rainbow Wybel Token§a!@§8§k|||§4 Черный Маркет §8§k|||§4 Радужный Вубел Жетон§a!
 §aA §8§k|||§4 Black Market §8§k|||§4 Dragon Wybel Token§a!@§8§k|||§4 Черный Маркет §8§k|||§4 Вубел Дракон Жетон§a!
 §aA §8§k|||§4 Black Market §8§k|||§4 Frosty Staff§a!@§8§k|||§4 Черный Маркет §8§k|||§4 Морозный Посох§a!
+§aA §8§k|||§4 Black Market §8§k|||§4 Yahya's Fantasy§a!@§8§k|||§4 Черный Маркет §8§k|||§4 Фантазия Яхуи§a!
 §aA §6Epic Golden Bow§a!@§aA §6Эпический Золотой Лук§a!
 §aA §6Epic Half-Moon Spear§a!@§aA §6Редкое Полу-месяц Копье§a!
 §aA §6Epic Half-Moon Bow§a!@§aA §6Эпический Полу-месяц Лук§a!
@@ -1006,6 +1120,11 @@
 §aA §6Epic Fellowship Bow§a!@§6Эпический Лук Дружбы§a!
 §aA §6Epic Hand Cannon§a!@§6Эпическая Ручная Пушка§a!
 §aA §6Epic Anti-Bovemist Effect§a!@§6Эпический Эффект Анти-Бовемиста§a!
+§aA §6Epic Futuristic Bow§a!@§6Эпический Футуристический Лук§a!
+§aA §6Epic Bronze Cybel Token§a!@§6Эпический Бронзовый Кубел Жетон§a!
+§aA §6Epic Pirate Cannon§a!@§6Эпическая Пиратская Пушка§a!
+§aA §6Epic Floating Fairy Effect§a!@§6Эпический Эффект Крыльев Феи§a!
+§aA §6Epic Ripple Effect§a!@§6Эпический Эффект Пульсации§a!
 §aA §cGodly Ozoth Effect§a!@§cБожественный Эффект Озот§a!
 §aA §cGodly Phoenix Wand§a!@§cБожественный Посох Феникса§a!
 §aA §cGodly Phoenix Dagger§a!@§cБожественный Кинжал Феникса§a!
@@ -1019,6 +1138,8 @@
 §aA §cGodly Demon Wings Effect§a!@§cБожественный Эффект Крыльев Демона§a!
 §aA §cGodly Dern Bow§a!@§cБожественный Дерн Лук§a!
 §aA §cGodly Orange Wybel Token§a!@§cБожественный Оранжевый Вубел Жетон§a!
+§aA §cGodly Angels Wings Effect§a!@§cБожественный Эффект Крыльев Ангела§a!
+§aA §cGodly Phoenix Bow§a!@§cБожественный Лук Феникса§a!
 §aA §dRare Letter Swirl Effect§a!@§dРедкий Эффект Водоворота Букв§a!
 §aA §dRare Lava Attack Effect§a!@§aA §dРедкий Эффект Атаки Лавы§a!
 §aA §dRare Food Wand§a!@§aA §dРедкий Рыба-меч Посох§a!
@@ -1128,10 +1249,10 @@
 §7Disguise your dagger as a sharp, pirate hook@§7Маскирует твой кинжал под острый пиратский крюк
 §7Disguise your dagger/spear as a banana sword@§7Маскирует твой кинжал/трезубец под меч-банан
 
-###################################DUNGEONS##################################
+###################################DUNGEONS/RAIDS##################################
 §7The door suddenly opens, as if the Keystone Guardian's presence activated it...@§7Дверь внезапно открывается, как будто присутствие Защитника Ключа активировало ее...
 §eYou've been rocketed by the great web.@§eТы был подброшен великой паутиной.
-§6[§e!§6] §7Opening door...@§6[§e!§6] §7Открытие двери...
+§6[§e!§6] §7Opening door...@§6[§e!§6] §7Дверь открывается...
 §7The §bfollower §7is the key to revealing the §bentrance@§bПоследователь - §7это ключ для открытия §bвхода
 §6[§e!§6] §7A wave of monsters will spawn in 5 seconds!@§6[§e!§6] §7Волна монстров заспавнится через 5 секунд!
 §6[§e!§6] §7A wave of monsters has spawned! A new wave will spawn in 15 seconds!@§6[§e!§6] §7Волна монстров заспавнилась! Новая волна заспавнится через 15 секунд!
@@ -1229,6 +1350,7 @@
 §4§lYou Failed!§7 The Keystone Guardian died. Try again!@§4§lПровал! Защитник Ключа погиб. Попробуй снова!
 §cTheÀÀÀWretchesÀÀÀareÀÀÀadvancingÀÀÀfromÀÀÀtheÀÀÀbackÀÀÀofÀÀÀtheÀÀÀroom!ÀÀÀKillÀÀÀit!@§cТвари продвигаются с конца комнаты! Убей их!
 §7[1/1]ÀÀÀ§4§lTheÀÀÀEye:§5ÀÀÀ⒝⒠⒤⒟⒣ÀÀÀ⒯⒰§dÀÀÀ⒤⒨⒤⒯⒣⒠§5ÀÀÀ⒪ÀÀÀ⒨⒪§dÀÀÀ⒭⒜⒟⒣⒜⒭⒞.@ 
+§7Complete different dungeons without leaving or dying to get rewards.@§7Пройди различные данжи без ухода или смерти для получения наград.
 
 ###################################LIBRARIES/TEXTS##################################
 §e                         §e§lPowder Manual@§e                        §e§lРуководство о порошках
@@ -1502,8 +1624,8 @@
 §d                          §d§lThe Fable@§d                          §d§lСказка
 §7    §7§oOver 1000 years ago, before the great dismantling of the Ahms region, a mighty beast roamed the land.@§7    §7§oБолее 1000 лет назад, перед началом великого разрушения региона Амс, могучий зверь бродил по земле.
 §7    §7§oIt was not only a beast of immense power, but also great wisdom. Many would come from far and wide to seek its counsel.@§7    §7§oЭто было не только чудовище огромной силы, но и великой мудрости. Многие шли к нему из разных стран, чтобы обратиться за советом.
-§7    §7§oHowever, after a cataclysmic event, the region shattered, and left the beast lost all hope in villager kind.@§7    §7§oОднако после катастрофического события регион разрушился, и оставленный зверь потерял всякую надежду в роду жителей.
-§7    §7§oFor it was the desire of riches that shook the land, and the beast could not tolerate it any longer.@§7    §7§oИбо причиной было желание богатства, которое потрясло эту землю, и зверь больше не мог терпеть этого.
+§7    §7§oHowever, after a cataclysmic event, the region shattered, and the beast was left in utter disappointment.@§7    §7§oОднако после катастрофического события регион разрушился, и зверь остался в полном разачаровании.
+§7    §7§oFor it was the neglect of what the Villagers held dear for so many years that ripped apart this land, and the beast could not tolerate it any longer.@§7    §7§oИбо именно пренебрежение тем, что было дорого жителям в течение стольких лет, разорвало эту землю, и зверь больше не мог этого терпеть.
 §7    §7§oThe beast departed the fractured region, leaving the people with all the riches in the world, but no land to enjoy it with.@§7    §7§oЗверь покинул разрушенный регион, оставив людям все богатства в мире, но не землю, чтобы наслаждаться ею самому.
 §7    §7§oHe departed this land leaving only this advice: Should the greed of this land be in reprimand, seek me out. The seeds of enlightenment should be sewn at the canyon ridge.@§7    §7§oОн покинул эту землю, оставив только один совет: Если жадность на этой земле начнет порицаться - разыщите меня. Семена просветления должны быть посеяны на хребту каньона.
 §7    §7§oAlthough the location of the "Ridge" has been supposedly found, no such seed has ever grown there.@§7    §7§oНесмотря на то, что расположение “хребта” было якобы найдено, никакие семена там не вырастают.
@@ -1527,7 +1649,7 @@
 §5Key Collector: §dYou have access to the dungeon... This time only.@§5Сборщик Ключей: §dТы можешь войти в данж... Но только в этот раз.
 §5Powder Master: §dGreat doing business with you, adventurer. Come back any time!@§5Мастер Порошков: §dС тобой приятно иметь дело, путешественник. Возвращайся в любое время!
 §5Item Identifier: §dI can't identify this item! Only items with a §eunique§d, §5rare§d, §blegendary§d, §cfabled§d, §5mythic§d and §aset§d tags can be identified.@§5Идентификатор Предметов: §dЯ не могу идентифицировать этот предмет! Только предметы с §eуникальными§d, §5редкими§d, §bлегендарными§d, §cсказочными§d, §5мифическими§d и §aсет§d тэгами можно идентифицировать.
-§5Guild Master: §dYou need 5 liquid emeralds to make a guild.@§5Мастер Гильдий:§dТебе нужно 5 жидких эмеральдов, чтобы создать гильдию.
+§5Guild Master: §dYou need 20 liquid emeralds to make a guild.@§5Мастер Гильдий:§dТебе нужно 20 жидких эмеральдов, чтобы создать гильдию.
 §5Item Identifier: §dI can't identify this item! It can not be reidentified.@§5Идентификатор Предметов: §dЯ не могу идентифицировать этот предмет! Он не может быть идентифицирован повторно.
 §dIt was a pleasure doing business with you.@§dБыло приятно иметь с тобой дело
 §5Guild Master: §dYou must leave your current guild before making your own. Type /guild leave@§5Мастер Гильдий: §dТы должен выйти из своей текущей гильдии, чтобы создать свою. Напиши /guild leave
@@ -1549,6 +1671,55 @@
 §5Guild Master: §dIt seems that there is already a guild with that prefix... Try again!@§5Мастер Гильдий: §dПохоже уже есть такая гильдия с этим префиксом... Попробуй еще раз!
 §5Guild Master: §dPlease only use english characters A-Z in your guild prefix.@§5Мастер Гильдий: §dПожалуйста используй только английские буквы A-Z в префиксе гильдии.
 §dI can only reveal 8 item names at a time.@§dЯ могу раскрыть только 8 названий предметов за раз.
+§5Raid Keeper: §dYou must be the leader of your party to start this raid!@§5Хранитель Рейда: §dТы должен быть лидером своей пати для старта этого рейда!
+§5Raid Keeper: §dThis raid is currently disabled.@§5Хранитель Рейда: §dэтот рейд временно отключен.
+§5Raid Keeper: §dAll party players must be near the Keeper to start this raid!@§5Хранитель Рейда: §dВсе игроки пати должны быть рядом с Хранителем для старта этого рейда!
+§6[§e!§6] §7Gather resources from the open tunnels. The tunnels close every §b60 seconds§7.@§6[§e!§6] §7Собери ресурсы из открытых тоннелей. Тоннели закрываются каждые §b60 секунд§7.
+§6[§e!§6] §7New tunnels have opened.@§6[§e!§6] §7Новые тоннели открыты.
+§6[§e!§6] §71/10 Resources Added.@§6[§e!§6] §71/10 Ресурс Добавлен.
+§6[§e!§6] §72/10 Resources Added.@§6[§e!§6] §72/10 Ресурса Добавлено.
+§6[§e!§6] §73/10 Resources Added.@§6[§e!§6] §73/10 Ресурса Добавлено.
+§6[§e!§6] §74/10 Resources Added.@§6[§e!§6] §74/10 Ресурса Добавлено.
+§6[§e!§6] §75/10 Resources Added.@§6[§e!§6] §75/10 Ресурсов Добавлено.
+§6[§e!§6] §76/10 Resources Added.@§6[§e!§6] §76/10 Ресурсов Добавлено.
+§6[§e!§6] §77/10 Resources Added.@§6[§e!§6] §77/10 Ресурсов Добавлено.
+§6[§e!§6] §78/10 Resources Added.@§6[§e!§6] §78/10 Ресурсов Добавлено.
+§6[§e!§6] §79/10 Resources Added.@§6[§e!§6] §79/10 Ресурсов Добавлено.
+§6[§e!§6] §7A player has died! They will be brought back once the party completes the challenge!@§6[§e!§6] §7Игрок погиб! Он будет возвращен назад как только пати пройдет челлендж!
+§6[§e!§6] §7The tunnels have closed.@§6[§e!§6] §7Тоннели были закрыты.
+§7[+1 Iron Bars]@§7[+1 Железный Прут]
+§6[§e!§6] §7The exit's unlocked! Gather at the center to leave.@§6[§e!§6] §7Выход открылся! Соберитесь в центре, чтобы уйти.
+§6[§e!§6] §c§lPestilent I@ 
+  §b+ 400 §7Life Steal@  §b+ 400 §7Вампиризма
+  §b+ 5000 §7Poison@  §b+ 5000 §7Яда
+  §b+ 40 §7Strength@  §b+ 40 §7Силы
+§7§lRight-click §7again to get the power up.@§7§lПравый клик§7 еще раз чтобы выбрать бонус.
+§6[§e!§6] §7Three pathways will open, the players must hold the available platforms inside of each path for §b60 seconds§7.@§6[§e!§6] §7Откроются три пути, игроки должны удерживать доступные платформы внутри каждого пути в течение §b60 секунд§7.
+§6[§e!§6] §7You have §b5 seconds §7to spread across the open passageways.@§6[§e!§6] §7У вас есть §b5 секунд §7, чтобы распределиться по открытым проходам.
+§6[§e!§6] §7Hold the §b3 platforms §7simultaneously for §b60 seconds§7.@§6[§e!§6] §7Удерживайте §b3 платформы §7одновременно в течение §b60 секунд§7.
+§6[§e!§6] §70/3 Platforms Enabled@§6[§e!§6] §70/3 Платформ Активировано
+§6[§e!§6] §71/3 Platforms Enabled@§6[§e!§6] §71/3 Платформ Активирована
+§6[§e!§6] §72/3 Platforms Enabled@§6[§e!§6] §72/3 Платформ Активированы
+§6[§e!§6] §73/3 Platforms Enabled@§6[§e!§6] §73/3 Платформ Активированы
+§6[§e!§6] §7Platforms disabled... §bGather at the center §7for new passageways to open.@§6[§e!§6] §7Платформы отключены... §bСоберитесь в центре§7, чтобы открыть новые проходы.
+§6[§e!§6] §7You have been teleported to the center to prevent you from getting stuck.@§6[§e!§6] §7Тебя телепортировали в центр, чтобы ты не застрял.
+§6[§e!§6] §bYou failed! §7One or more of the passageways don't have players. §bGather at the center §7and try again...@§6[§e!§6] §bВы не справились! §7В одном или нескольких проходах нет игроков. §bСоберитесь в центре§7 и повторите попытку...
+§6[§e!§6] §7The passageways have closed.@§6[§e!§6] §7Проходы были закрыты.
+§6[§e!§6] §7The platforms are locked at this time.@§6[§e!§6] §7Платформы в это время закрыты.
+§6[§e!§6] §7You've successfully opened the exit!@§6[§e!§6] §7Вы успешно открыли выход!
+§6[§e!§6] §7§lStonewalker II@ 
+  §b+ 35% §7Exploding@  b+ 35% §7Взрывов
+  §b+ 1000 §7Main Attack Damage@  b+ 1000 §7Урона Основной Атаки
+§6[§e!§6] §7§lBehind you! §7One of the §7lava flows is overflowing! §b§lRight-click §7with the water to §7prevent it from burning the platforms.@§6[§e!§6] §7§lПозади тебя! §7Один из лавовых потоков переполнен! §b§lПравый клик §7с водой, чтобы предотвратить ее сжигание платформ.
+§7[+1 Water]@§7[+1 Вода]
+§6[§e!§6] §7You can only hold one Water Bucket at a time.@§6[§e!§6] §7Ты можешь держать только одно Ведро Воды за раз.
+§6[§e!§6] §7A player must stand on the platform at all times to prevent it from decaying!@§6[§e!§6] §7Игрок должен все время стоять на платформе, чтобы она не разрушалась!
+§6[§e!§6] §7The previous platform is about to decay.@§6[§e!§6] §7Предыдущая платформа вот-вот разрушится.
+§6[§e!§6] §8§lGiant III@ 
+  §b+ 7000 §7Health Bonus@  §b+ 7000 §7Бонусного Здоровья
+  §b+ 1000 §7Health Regen Raw@  §b+ 1000 §7Регена Здоровья
+  §b+ §bGuardian@  §b+ §bЗащитник
+      §750% of damage taken by nearby allies is redirected to you@      §750% урона полученного союзниками перенаправляется тебе
 
 ###########################################OBJECTIVES#################################################
 §c                               Loot Chests@§c                            Нахождение сундуков
@@ -1597,6 +1768,15 @@
 §7The Silent Expanse is indeed connected to Dern, the land of darkness. One subject has become increasingly aggressive so we decided to put it down.@§7Тихое Пространство действительно связано с Дерном - землей тьмы. Один субъект оттуда становился все более агрессивным, поэтому мы решили его уничтожить.
 §7It did not work. The Order could not scratch the creature. No magic at the school could do anything. These creatures are not meant to be studied.@§7Но это не сработало. Орден не смог поцарапать это существо. Никакая магия в школе ничего не смогла сделать. Эти существа не предназначены для изучения.
 §7The land of Darkness should NEVER be explored, there is nothing we can do. There is no hope if the creatures of Dern invade us. There is nothing we can do.@§7Земля Тьмы никогда не должна быть исследована, мы ничего не можем сделать. Не будет никакой надежды, если существа Дерна вторгнутся к нам. Мы ничего не сможем сделать.
+§8§lTHE JUGGLER'S TAVERN -§f Information@§8§lТаверна Трюкача -§f Информация
+§7§oEver wanted to explore the world? Well wish no more! We at the Juggler's Tavern are looking to create an easy way to travel for a cheap price! We have made special pathways for one-way trips to the skies, to fiery depths, and more! All in a heartbeat!@§7§oТы когда-нибудь хотел исследовать мир? Что ж, больше не нужно мечтать! Мы в таверне трюкача ищем простой способ путешествовать по дешевой цене! Мы проложили специальные тропы для путешествий в один конец к небесам, в огненные глубины и многие другие места! Все в одно мгновение!
+§7§oNote: If anyone can go and give a good smack to the last town who won't take us seriously, we'd be grateful. Or give them a snack instead or something. It might work.@§7§oПримечание: Если кто-нибудь может пойти и дать хорошую затрещину последнему городу, который не принимает нас всерьез, мы будем благодарны. Или вместо этого дайте им закусок. Это может сработать.
+§f§lUnlocked Destinations:@§f§lРазблокированные Направления:
+§a - §7Aldorei@§a - §7Алдорей
+§c - ???@ 
+§a - §7Rodoroc@§a - §7Родорок
+§a - §7Ahmsord@§a - §7Амсорд
+§cYou need to complete §4The Hidden City §cto unlock this destination.@§cТебе нужно пройти квест §4The Hidden City §cдля разблокировки этого направления.
 
 #############################################SPELLS################################################
 §a- §7Spell Usage: §fRight-Right-Right@§a- §7Использование заклинания: §fПравая-Правая-Правая
@@ -1773,6 +1953,7 @@
 §f                           §3[Discovery Found]@§f                           §3[Открытие Найдено]
 §a§l         Click here to link your forum account      @§a§l         Нажми сюда для привязки форум аккаунта
 §7Everybody gets §f2 Random Items§7! §e§nClick here to claim them!@§7Каждый получает §f2 Случайных Предмета§7! §e§nНажми сюда, чтобы забрать их!
+§7Everybody gets §f2 Random Items§7! §eClick here to claim them!@§7Каждый получает §f2 Случайных Предмета§7! §e§nНажми сюда, чтобы забрать их!
 §f                  §6§nClick here to claim your rewards!@§f                    §6§nНажми сюда, чтобы забрать награду!
                   §6§nClick here to claim your rewards!@                  §6§nНажми сюда, чтобы забрать награду!
                   §6Click here to claim your rewards!@                  §6Нажми сюда, чтобы забрать награду!
@@ -1924,6 +2105,7 @@ Your client seems to be spamming us!@Похоже твой клиент спам
 §4That class is VIP only! Buy VIP at §cwynncraft.com/store@§4Этот класс только для VIP игроков! Купи VIP на §cwynncraft.com/store
 §7[Be sure to use exact names, prediction does not work if the user is on a separate server]@§7[Обязательно используй точные ники, прогнозирование не работает, если пользователь находится на отдельном сервере]
 §4You need to add 5 rewards of the same type to upgrade.@§4Тебе нужно добавить 5 наград того же уровня для апгрейда.
+§4You need to add 5 rewards of the same tier to upgrade.@§4Тебе нужно добавить 5 наград того же уровня для апгрейда.
 §4You don't have any crates...@§4У тебя нет никаких контейнеров...
 §4You can only refine one type of item at a time@§4Ты можешь перерабатывать одновременно только один тип предметов
 §5That item is untradable!@§5Этот предмет нельзя продать!
@@ -2080,6 +2262,8 @@ You are not whitelisted on this server!@Тебя нет в вайтлисте э
 §b - §7Rat Pet@§b - §7Питомец Крыса
 §b - §7Wasp Pet@§b - §7Питомец Оса
 §b - §7Grumpy Old Man Pet@§b - §7Питомец Старик
+§b - §7Water Dragonling Pet@§b - §7Водный Драгонлинг Питомец
+§b - §7HERO Rank@§b - §7HERO Ранг
 §3You are no longer disguised as a §bcreeper@§3Ты больше не маскируешься под §bкрипера
 §cYou've restarted the starting quest!@§cТы перезапустил начальный квест!
 §c§lLog in to §f§neu.wynncraft.com§c§l for less lag.@§c§lЗаходи через §f§neu.wynncraft.com§c§l чтобы играть с меньшим пингом.
@@ -2164,11 +2348,22 @@ You are not whitelisted on this server!@Тебя нет в вайтлисте э
 We are §arestarting§f, please join back in a moment!@Мы §aперезагружаемся§f, пожалуйста возвращайтесь через минуту!
 §fWe are §arestarting§f, please join back in a moment!@§fМы §aперезагружаемся§f, пожалуйста возвращайтесь через минуту!
 [Quest Book Updated]@§7[Квестовая книга обновлена]
+§7[Quest Book Update]@§7[Квестовая книга обновлена]
 §a>Access denied.@§a>Доступ запрещен.
 §3This bomb can not be thrown at this time, there's already an active dungeon bomb@§3Эта бомба не может быть сейчас брошена, так как уже есть активная данж бомба
 §7Already recieved rewards@§7Уже полученные награды
 §cInvalid Arguments. Example: /guild kick [player]@§cНеправильные аргументы. Пример: /guild kick [ник]
 §4You need to be undisguised to toggle hunted.@§4Тебе нужно выйти из маскировки, чтобы переключить режим охотника.
+§5You have both a horse and a pet out... Put one of them away and try again.@§5У тебя заспавнены лошадь и питомец... Убери одного из них и попробуй еще раз.
+§4You cannot use /class while a crate is active.@§4Ты не можешь использовать /class пока контейнер открыт.
+§4/switch <server-name>@§4/switch <название сервера>
+§4Server is currently full!@§4Сервер заполнен!
+§7Please enter a new nickname you'd like to set.@§7Пожалуйста введи новый ник, который ты хочешь поставить.
+§cType §4"cancel" §c to cancel.@§cНапиши §4"cancel" §c для отмены.
+§cYou must be closer to an Emerald Merchant to open!@§cТы должен быть ближе к Торговцу Эмеральдами для открытия!
+§4Failed to send you to target server.§c So we're sending you back.@§4Произошла ошибка при отправке тебя на выбранный сервер.§c Так что ты был отправлен назад.
+§4You must have a §eCHAMPION§4 rank to use this feature! Visit §cwynncraft.com/store§4 to get one.@§4Тебе нужен §eCHAMPION§4 ранг для использования этой функции! Посети §cwynncraft.com/store§4 чтобы купить свой.
+§c§lYour §eCHAMPION§c badge has expired! Visit §f§lwynncraft.com/store§c§l to resubscribe@§c§lТвой §eCHAMPION§c значок закончился! Посети §f§lwynncraft.com/store§c§l для переподписки
 
 ###################################SECRET DISCOVERIES#######################################
                             §bNecklace Chamber@ 
@@ -2244,3 +2439,13 @@ We are §arestarting§f, please join back in a moment!@Мы §aперезагр�
 §f                        §bDesert Royal Residence@ 
 §f                          §bThe Lone Telescope@ 
 §f                              §bPottery Wheel@ 
+                          §bFar From the Roots@ 
+
+#################################################HOUSING################################################
+§aYou have flew to your housing island.@§aТы переместился на свой остров
+§eInteracting with the Block Bank automatically put you in housing edit mode.@§eВзаимодействие с Банком Блоков автоматически помещает тебя в режим редактирования дома.
+§eYou have left housing edit mode. §bType /housing edit to switch back.@§eТы вышел из режима редактирования дома. §bНапиши /housing edit для переключения обратно.
+§4Usage: /housing [edit/invite/visit/leave/public/kick/kickall/ban/unban] <name>@§4Использование: /housing [edit/invite/visit/leave/public/kick/kickall/ban/unban] <ник>
+§eYou have left the house.@§eТы покинул дом.
+§eYou are now in housing edit mode. §bType /housing edit to switch back.@§eТы в режиме редактирования дома. §bНапиши /housing edit для переключения обратно.
+§4You cannot afford that! Moving your house will cost 750 emeralds@§4Ты не можешь сделать это! Перемещение твоего плота стоит 750 эмеральдов

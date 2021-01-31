@@ -208,7 +208,6 @@
 §7- Refined Voidstone Gem 2@§7- Переработанный Войдстоун Камень 1
 §7- Refined Sky Wood 1@§7- Переработанная Древесина Лиственницы 1
 §7- Refined Sky Wood 2@§7- Переработанная Древесина Лиственницы 2
-§7- Refined Malt Grains 2@§7- Переработанное Солодовое Зерно 2
 §7- Refined Dark Wood 2@§7- Переработанная Древесина Каштана 2
 §7- Refined Dark Wood 1@§7- Переработанная Древесина Каштана 1
 §7- Refined Dark Wood 3@§7- Переработанная Древесина Каштана 3
@@ -224,6 +223,7 @@
 §7- Refined Millet String 1@§7- Переработанная Нить Просо 1
 §7- Refined Millet String 2@§7- Переработанная Нить Просо 2
 §7- Refined Millet String 3@§7- Переработанная Нить Просо 3
+§7- Refined Pine Wood 2@§7- Переработанная Древесина Сосны 2
 
 ###########################OTHERS###############################
 §7Currency@§7Валюта
@@ -265,7 +265,8 @@
 §eFol§klo§ew t§kh§eis cha§kr§et §kw§ehile §eusi§kng§e t§ehe mac§kh§eine§ks§e.@§eSle§kdu§ei e§kt§eoi tab§kli§ece §kvo §evremya §eispolzo§kvaniya§e mas§kch§ei§kn§i.
 §eThi§ks§e she§ke§et shou§kld§e be §egi§kve§en to §e§kt§ehe bl§ko§eody@§eEto§kt§e li§ks§et sled§kuet§e §eot§kda§et kro§kva§evim
 §esp§ki§ekes.@§esch§ki§epam.
-§7Illuminates@§7Освети 
+§7Illuminates@§7Освети
+§cPurchase Ended@§cПокупка Завершена 
 
 ###############################QUEST ITEMS##################################
 §7Deliver Goods to:@§7Доставить товары на:
@@ -541,6 +542,20 @@
 §7by following the cheese trail @§7гнезда, следуя по сырной 
 §7and get rid of the @§7тропе, и избавься от 
 §7pest. @§7вредителя.
+§7§lTier 3: §6Limited Siegfried Collection@§7§lУровень 3: §6Лимитированная Коллекция Зигфрида
+§7 - Siegfried Mug (Llevigar)@§7 - Кружка Зигфрида (Ллевигар)
+§7 - Siegfried Mask (Cinfras)@§7 - Маска Зигфрида (Цинфрас)
+§7 - Siegfried's Autograph (Ahmsord)@§7 - Автограф Зигфрида (Амсорд)
+§7It's a map of some sort of cave.@§7Это карта какой-то пещеры.
+§7It's really old.@§7Она очень старая.
+§7This ought to wake anybody.@§7Это должно кого-нибудь разбудить.
+§7Hard but sturdy.@§7Жесткий, но крепкий.
+§7Boots made out of this@§7В сапогах, сделанных из этого материала, 
+§7would probably hurt to walk in.@§7наверное было бы больно ходить.
+§7It's some old fabric.@§7Это какая-то старая ткань.
+§7It'll be great to sew stuff out of.@§7Будет здорово сшить из нее что-нибудь.
+§7It's hot to the touch.@§7Он горячий на ощупь.
+§7It's an old, rusty pickaxe.@§7Это старая ржавая кирка.
 
 #####################RECIPES################################
 §6§lRing Recipes:@§6§lРецепты Колец:
@@ -635,6 +650,7 @@
             §f5§7 Decay String§f Ⓙ@            §f5§7 Зараженных Нитей§f Ⓙ
             §f10§7 Decay String§f Ⓙ@            §f10§7 Зараженных Нитей§f Ⓙ
 		    §f10§7 Decay Grains§f Ⓙ@            §f10§7 Зараженных Зерен§f Ⓙ
+            §f10§7 Decay Grains§f Ⓙ@            §f10§7 Зараженных Зерен§f Ⓙ
             §f5§7 Decay Grains§f Ⓙ@            §f5§7 Зараженных Зерен§f Ⓙ
             §f5§7 Light Wood§f Ⓒ@            §f5§7 Древесины Клена§f Ⓒ
             §f10§7 Light Wood§f Ⓒ@            §f10§7 Древесины Клена§f Ⓒ
@@ -659,6 +675,7 @@
             §f12§7 Sorghum String§f Ⓙ@            §f12§7 Сорго Нитей§f Ⓙ
             §f6§7 Sorghum String§f Ⓙ@            §f6§7 Сорго Нитей§f Ⓙ
             §f12§7 Sorghum Grains§f Ⓙ@            §f12§7 Сорго Зерен§f Ⓙ
+            §f6§7 Sorghum Grains§f Ⓙ@            §f6§7 Сорго Зерен§f Ⓙ
             §f6§7 Avo Wood§f Ⓒ@            §f6§7 Древесины Авокадо§f Ⓒ
             §f12§7 Avo Wood§f Ⓒ@            §f12§7 Древесины Авокадо§f Ⓒ
             §f12§7 Avo Paper§f Ⓒ@            §f12§7 Авокадовой Бумаги§f Ⓒ
@@ -673,6 +690,7 @@
 §c✖ Lv. 70: §f10§7 Gylia Meat§f Ⓚ@§c✖ Ур. 70: §f10§7 Мяса Гилия§f Ⓚ
 §a✔ Lv. 70: §f10§7 Gylia Meat§f Ⓚ@§a✔ Ур. 70: §f10§7 Мяса Гилия§f Ⓚ
 §c✖ Lv. 80: §f10§7 Bass Meat§f Ⓚ@§c✖ Ур. 80: §f10§7 Мяса Окуня§f Ⓚ
+§a✔ Lv. 80: §f10§7 Bass Meat§f Ⓚ@§a✔ Ур. 80: §f10§7 Мяса Окуня§f Ⓚ
 §a✔ Lv. 80: §f10§7 Bass Oil§f Ⓚ@§a✔ Ур. 80: §f10§7 Жира Окуня§f Ⓚ
 §c✖ Lv. 80: §f10§7 Bass Oil§f Ⓚ@§c✖ Ур. 80: §f10§7 Жира Окуня§f Ⓚ
 §c✖ Lv. 80: §f5§7 Bass Oil§f Ⓚ@§c✖ Ур. 80: §f5§7 Жира Окуня§f Ⓚ
@@ -680,6 +698,8 @@
             §f5§7 Bass Oil§f Ⓚ@            §f5§7 Жира Окуня§f Ⓚ
             §f10§7 Bass Oil§f Ⓚ@            §f10§7 Жира Окуня§f Ⓚ
             §f15§7 Bass Oil§f Ⓚ@            §f15§7 Жира Окуня§f Ⓚ
+§c✖ Lv. 90: §f12§7 Molten Meat§f Ⓚ@§c✖ Ур. 90: §f12§7 Мяса Угря§f Ⓚ
+§a✔ Lv. 90: §f12§7 Molten Meat§f Ⓚ@§a✔ Ур. 90: §f12§7 Мяса Угря§f Ⓚ
 §c✖ Lv. 90: §f12§7 Molten Oil§f Ⓚ@§c✖ Ур. 90: §f12§7 Жира Угря§f Ⓚ
 §c✖ Lv. 90: §f6§7 Molten Oil§f Ⓚ@§c✖ Ур. 90: §f6§7 Жира Угря§f Ⓚ
 §a✔ Lv. 90: §f12§7 Molten Oil§f Ⓚ@§a✔ Ур. 90: §f12§7 Жира Угря§f Ⓚ
@@ -832,8 +852,11 @@
              §f12§7 Hemp Grains§f Ⓙ@             §f12§7 Конопляных Зерен§f Ⓙ
              §f12§7 Hemp String§f Ⓙ@             §f12§7 Конопляных Нитей§f Ⓙ
              §f6§7 Hemp String§f Ⓙ@             §f6§7 Конопляных Нитей§f Ⓙ
+             §f6§7 Hemp Grains§f Ⓙ@             §f6§7 Конопляных Зерен§f Ⓙ
 §c✖ Lv. 50: §f8§7 Piranha Meat§f Ⓚ@§c✖ Ур. 50: §f8§7 Мяса Пираньи§f Ⓚ
 §a✔ Lv. 50: §f8§7 Piranha Meat§f Ⓚ@§a✔ Ур. 50: §f8§7 Мяса Пираньи§f Ⓚ
+§c✖ Lv. 100: §f12§7 Starfish Meat§f Ⓚ@§c✖ Ур. 100: §f12§7 Мяса Морской Звезды§f Ⓚ
+§a✔ Lv. 100: §f12§7 Starfish Meat§f Ⓚ@§a✔ Ур. 100: §f12§7 Мяса Морской Звезды§f Ⓚ
 §c✖ Lv. 100: §f12§7 Starfish Oil§f Ⓚ@§c✖ Ур. 100: §f12§7 Жира Морской Звезды§f Ⓚ
 §c✖ Lv. 100: §f6§7 Starfish Oil§f Ⓚ@§c✖ Ур. 100: §f6§7 Жира Морской Звезды§f Ⓚ
 §a✔ Lv. 100: §f12§7 Starfish Oil§f Ⓚ@§a✔ Ур. 100: §f12§7 Жира Морской Звезды§f Ⓚ
@@ -847,14 +870,21 @@
 §a✔ Lv. 103: §f12§7 Dernic Ingot§f Ⓑ@§a✔ Ур. 103: §f12§7 Дерник Слитков§f Ⓑ
 §c✖ Lv. 103: §f6§7 Dernic Gem§f Ⓑ@§c✖ Ур. 103: §f6§7 Дерник Камней§f Ⓑ
 §a✔ Lv. 103: §f6§7 Dernic Gem§f Ⓑ@§a✔ Ур. 103: §f6§7 Дерник Камней§f Ⓑ
+§c✖ Lv. 103: §f6§7 Dernic Oil§f Ⓚ@§c✖ Ур. 103: §f6§7 Дерник Жира§f Ⓚ
+§a✔ Lv. 103: §f6§7 Dernic Oil§f Ⓚ@§a✔ Ур. 103: §f6§7 Дерник Жира§f Ⓚ
+§c✖ Lv. 103: §f12§7 Dernic Meat§f Ⓚ@§c✖ Ур. 103: §f12§7 Дерник Мяса§f Ⓚ
+§a✔ Lv. 103: §f12§7 Dernic Meat§f Ⓚ@§a✔ Ур. 103: §f12§7 Дерник Мяса§f Ⓚ
              §f6§7 Dernic Oil§f Ⓚ@             §f6§7 Дерник Жира§f Ⓚ
              §f12§7 Dernic Oil§f Ⓚ@             §f12§7 Дерник Жира§f Ⓚ
              §f18§7 Dernic Oil§f Ⓚ@             §f18§7 Дерник Жира§f Ⓚ
              §f12§7 Dernic Paper§f Ⓒ@             §f12§7 Дерник Бумаги§f Ⓒ
              §f6§7 Dernic Paper§f Ⓒ@             §f6§7 Дерник Бумаги§f Ⓒ
-            §f10§7 Decay Grains§f Ⓙ@            §f10§7 Дерник Зерен§f Ⓙ
              §f12§7 Dernic String§f Ⓙ@             §f12§7 Дерник Нитей§f Ⓙ
              §f6§7 Dernic String§f Ⓙ@             §f6§7 Дерник Нитей§f Ⓙ
+             §f12§7 Dernic Grains§f Ⓙ@            §f12§7 Дерник Зерен§f Ⓙ
+             §f6§7 Dernic Grains§f Ⓙ@             §f6§7 Дерник Зерен§f Ⓙ
+             §f12§7 Dernic Wood§f Ⓒ@             §f12§7 Дерник Древесины§f Ⓒ
+             §f6§7 Dernic Wood§f Ⓒ@             §f6§7 Дерник Древесины§f Ⓒ
 
 #############################POWDERS#############################
 §8Adding 2 powders of tier 4-6@§8Добавление 2 порошков уровня 4-6
@@ -1415,6 +1445,31 @@
 §6 - §a✔ §21 Magical Book Voucher@§6 - §a✔ §21 Ваучер на Магическую Книгу
 §6 - §c✖ §41 Magical Book Voucher@§6 - §c✖ §41 Ваучер на Магическую Книгу
 §6 - §c✖ §41 Unknown Voucher@§6 - §c✖ §41 Неизвестный Ваучер
+§6- §c✖ §72x Gudgeon Oil or Meat@§6- §c✖ §72x Жира или Мяса Пескаря
+§6- §c✖ §72x Trout Oil or Meat@§6- §c✖ §72x Жира или Мяса Форели
+§6- §c✖ §72x Salmon Oil or Meat@§6- §c✖ §72x Жира или Мяса Лосося
+§6- §c✖ §72x Carp Oil or Meat@§6- §c✖ §72x Жира или Мяса Карпа
+§6- §c✖ §72x Icefish Oil or Meat@§6- §c✖ §72x Жира или Мяса Щуки
+§6- §c✖ §72x Piranha Oil or Meat@§6- §c✖ §72x Жира или Мяса Пираньи
+§6- §c✖ §72x Koi Oil or Meat@§6- §c✖ §72x Жира или Мяса Сазана
+§6- §c✖ §72x Starfish Oil or Meat@§6- §c✖ §72x Жира или Мяса Морской Звезды
+§6- §c✖ §72x Copper Ingots or Gems@§6- §c✖ §72x Слитка или Камня Меди
+§6- §c✖ §72x Granite Ingots or Gems@§6- §c✖ §72x Слитка или Камня Гранита
+§6- §c✖ §72x Gold Ingots or Gems@§6- §c✖ §72x Слитка или Камня Золота
+§6- §c✖ §72x Sandstone Ingots or Gems@§6- §c✖ §72x Слитка или Камня Песчаника
+§6- §c✖ §72x Iron Ingots or Gems@§6- §c✖ §72x Слитка или Камня Железа
+§6- §c✖ §72x Cobalt Ingots or Gems@§6- §c✖ §72x Слитка или Камня Кобальта
+§6- §c✖ §72x Kanderstone Ingots or Gems@§6- §c✖ §72x Слитка или Камня Кандерстоуна
+§6- §c✖ §72x Diamond Ingots or Gems@§6- §c✖ §72x Слитка или Камня Алмаза
+§6- §c✖ §72x Molten Ingots or Gems@§6- §c✖ §72x Слитка или Камня Молтена
+§6- §c✖ §72x Voidstone Ingots or Gems@§6- §c✖ §72x Слитка или Камня Войдстоуна
+§6- §c✖ §72x Dernic String or Grains@§6- §c✖ §72x Нити или Семян Дерник
+§6- §c✖ §72x Oak Wood or Papers@§6- §c✖ §72x Древесины или Бумаги Дуба
+§6- §c✖ §72x Birch Wood or Papers@§6- §c✖ §72x Древесины или Бумаги Березы
+§6- §c✖ §72x Acacia Wood or Papers@§6- §c✖ §72x Древесины или Бумаги Акации
+§6- §c✖ §72x Spruce Wood or Papers@§6- §c✖ §72x Древесины или Бумаги Ели
+§6- §c✖ §72x Jungle Wood or Papers@§6- §c✖ §72x Древесины или Бумаги Амаранта
+§6- §c✖ §72x Dark Wood or Papers@§6- §c✖ §72x Древесины или Бумаги Каштана
 
 #######################CLASSES/SPELLS###################
 §eCharacter Info:@§eИнфо о персонаже:
@@ -1613,7 +1668,7 @@
 §a➽ Range             §a■§a■§a■§a■§a■@§a➽ Дальность             §a■§a■§a■§a■§a■
 §d✺ Spells             §a■§a■§a■§7■§7■@§d✺ Заклинания             §a■§a■§a■§7■§7■
 §7§7Benefiting from the highest@§7§7Пользуясь самой высокой 
-§7range in the game, Archers@§7дальностью в игре, лучники\ 
+§7range in the game, Archers@§7дальностью в игре, лучники 
 §7can comfortably keep their@§7может комфортно держать 
 §7distance from enemies while@§7дистанцию от врагов, одновременно 
 §7dishing out high levels@§7нанося им много 
@@ -1693,6 +1748,16 @@
 §6§l⚔§6 Damage           §a■§a■§a■§a■§7■@§6§l⚔§6 Урон           §a■§a■§a■§a■§7■
 §6§l⚔§6 Damage           §a■§a■§7■§7■§7■@§6§l⚔§6 Урон           §a■§a■§7■§7■§7■
 §6§l⚔§6 Damage           §a■§a■§a■§a■§a■@§6§l⚔§6 Урон           §a■§a■§a■§a■§a■
+§6Rank: §b§k|§eCHAMPION§b§k|@§6Ранг: §b§k|§eCHAMPION§b§k|
+§6Right-Click §fto edit nickname§7 (requires §eCHAMPION§7 rank)@§6Правый Клик §fдля редактирования ника§7 (необходим §eCHAMPION§7 ранг)
+§dShift-Right-Click §fto edit class§7 (requires §dHERO§7 rank)@§dШифт + Правый Клик §fдля редактирования класса§7 (необходим §dHERO§7 ранг)
+§7Get a §eCHAMPION§7 rank for@§7Купи §eCHAMPION§7 ранг для
+§7class backups and instant deletion.@§7бэкапа класса и мгновенного удаления.
+§7(Get a §eCHAMPION §7rank to use@§7(Купи §eCHAMPION §7ранг для использования
+§7these slots: §fwynncraft.com/store§7)@§7этих слотов: §fwynncraft.com/store§7)
+§7You must have a §eCHAMPION@§7Ты должен иметь §eCHAMPION
+§7rank to use this feature.@§7ранг для использования этой функции.
+§7Get it at §fwynncraft.com/store@§7Купи ее на §fwynncraft.com/store
 
 ##########################ITEMS#########################
 §c✖§7 Class Req: Mage/Dark Wizard@§c✖§7 Класс Необ.: Маг/Темный Волшебник
@@ -1744,6 +1809,7 @@
 §2   - §7Radius: 6.5 blocks@§2   - §7Радиус: 6.5 блоков
 §2   - §7Radius: 7 blocks@§2   - §7Радиус: 7 блоков
 §2   - §7Radius: 5 blocks@§2   - §7Радиус: 5 блоков
+§2   - §7Radius: 4.4 blocks@§2   - §7Радиус: 4.4 блока
 §e   - §7Chains: 8@§e   - §7Цепей: 8
 §e   - §7Chains: 9@§e   - §7Цепей: 9
 §e   - §7Chains: 7@§e   - §7Цепей: 7
@@ -2091,6 +2157,7 @@
 §7Transfer §f64²§7 into §f1²½@§7Перевести §f64²§7 в §f1²½
 §7Transfer §f1²½§7 into §f64²@§7Перевести §f1²½§7 в §f64²
 §7Click to join!@§7Кликни, чтобы присоединиться!
+§7Click to join@§7Кликни, чтобы присоединиться
 §7Having less soul points increases@§7Уменьшение количества очков душ повышает
 §7the chance of dropping items upon@§7шанс выпадения предметов при
 §7death@§7смерти
@@ -2175,13 +2242,13 @@
 §7higher tier@§7высокого уровня
 §7You cannot afford this!@§7Ты не можешь себе позволить это!
 §fWynn Plains@§fВинн Равнины
-§8Open the §7attack effect§8 menu@§8Открыть меню §7эффектов атаки
-§8Open the §7player effect§8 menu@§8Открыть меню §7эффектов игрока
-§8Open the §7pet§8 menu@§8Открыть меню §7питомцев
-§8Open the §7gear skin§8 menu@§8Открыть меню §7скинов оружия
-§8Open the §7disguise§8 menu@§8Открыть меню §7маскировок
-§8Open the §7mob totem§8 menu@§8Открыть меню §7моб тотемов
-§8Open the §7bomb§8 menu@§8Открыть меню §7бомб
+§8Open the §7Attack Effects§8 menu@§8Открыть меню §7эффектов атаки
+§8Open the §7Player Effects§8 menu@§8Открыть меню §7эффектов игрока
+§8Open the §7Pets§8 menu@§8Открыть меню §7питомцев
+§8Open the §7Gear Skins§8 menu@§8Открыть меню §7скинов оружия
+§8Open the §7Disguises§8 menu@§8Открыть меню §7маскировок
+§8Open the §7Mob Totems§8 menu@§8Открыть меню §7моб тотемов
+§8Open the §7Bombs§8 menu@§8Открыть меню §7бомб
 §7Click to confirm@§7Кликни для подтверждения
 §7You will NOT be able to get it back later@§7Ты НЕ сможешь вернуть его обратно
 §cRefining...@§cПереработка...
@@ -2318,6 +2385,7 @@
 §a- §7Type: §fBow@§a- §7Тип: §fЛук
 §a- §7Type: §fBracelet@§a- §7Тип: §fБраслет
 §a- §7Type: §fRelik@§a- §7Тип: §fРелик
+§a- §7Type: §fCharm@§a- §7Тип: §fАмулет
 §c✖§a Left-Click §7to refine to:@§c✖§a Левый Клик §7для переработки на:
 §c✖§6 Right-Click §7to refine to:@§c✖§6 Правый Клик §7для переработки на:
 §7- §aA Hunter's Calling §l✔@ 
@@ -2340,6 +2408,158 @@
 §7- §fCorrupter of Worlds Combat Lv. 100§7 [1] §f2048§7²@§7- §fРазрушитель Миров Комбат Ур. 100§7 [1] §f2048§7²
 §7- §fMaster Fire Mage Combat Lv. 100§7 [1] §f1024§7²@§7- §fМастер Маг Огня Комбат Ур. 100§7 [1] §f1024§7²
 §7- §fBob Reincarnation Combat Lv. 110§7 [1] §f3072§7²@§7- §fBob Reincarnation Комбат Ур. 110§7 [1] §f3072§7²
+§7Tomes are special raid rewards@§7Тома - это специальные награды за рейд
+§7which can buff your character@§7которые могут бафать твоего персонажа
+§c✖ Quest Req: Realm of Light I - The Worm Holes§8 (Lv. 54)@§c✖ Квест Необ: Realm of Light I - The Worm Holes§8 (Ур. 54)
+§a✔ Quest Req: Realm of Light I - The Worm Holes§8 (Lv. 54)@§a✔ Квест Необ: Realm of Light I - The Worm Holes§8 (Ур. 54)
+§6Requirements: @§6Требования: 
+§6- §c✖ §7Raid Req: Nest of the Grootslangs@§6- §c✖ §7Рейд Необ.: Гнездо Грутслангов
+§6- §a✔ §7Raid Req: Nest of the Grootslangs@§6- §a✔ §7Рейд Необ.: Гнездо Грутслангов
+§6- §a✔ §7Quest Req: Lost Royalty@§6- §a✔ §7Квест Необ.: Lost Royalty
+§6- §c✖ §7Quest Req: Lost Royalty@§6- §c✖ §7Квест Необ.: Lost Royalty
+§6- §a✔ §7Quest Req: Temple of the Legends@§6- §a✔ §7Квест Необ.: Temple of the Legends
+§7You will be able to access it@§7Ты можешь получить доступ к нему
+§7at any time from the housing@§7в любое время через
+§7hot air balloons@§7воздушный шар
+§2Price: §a750§2²@§2Цена: §a750§2²
+§7If a player has set their house@§7Если игрок открыл свой дом
+§7to public or invited you, you@§7для публики или пригласил тебя, ты
+§7can join them here@§7присоединиться к нему здесь
+§7This will move your house island@§7Это передвинет твой участок 
+§7Costs Ⓑ Mining Materials@§7Купи за Ⓑ Материалы Добычи Руд
+§7Cobblestone, Slabs,@§7Булыжники, плиты,
+§7Ores, Prismarine, etc.@§7Руды, Призмарин и т.д.
+§6Costs Ⓒ Woodcutting Material@§6Купи за Ⓒ Материалы Деревообработки
+§7Planks, Fences, Logs@§7Доски, Заборы, Бревна
+§7Trapdoors, Slabs, etc.@§7Люки, Плиты и т.д.
+§2Costs Ⓙ Farming Material@§2Купи за Ⓙ Материалы Земледелия
+§7Grass, Leaves, Dirt@§7Трава, Листва, Земля
+§7Saplings, Mushrooms, etc.@§7Саженцы, Грибы и т.д.
+§3Costs Ⓚ Fishing Materials@§3Купи за Ⓚ Материалы Рыболовства
+§7Wool, Glass, Signs,@§7Шерсть, Стекло, Таблички,
+§7Ice, Torches, etc.@§7Лед, Факела и т.д.
+§5Costs Emeralds@§5Купи за Эмеральды
+§7NPCs, Build Stand,@§7НПС, Билд Стэнды, 
+§7Crafting Stations, etc.@§7Станции Крафта и т.д.
+§dThis will add the blocks@§dЭто добавит блоки 
+§dinto your Block Chest@§dв твой Сундук с Блоками
+§6Cost:@§6Цена:
+§7Right-Click to spawn@§7Правый Клик для спавна
+§7Once spawned, left-click@§7Если заспавнен, левый клик
+§7the NPC to despawn them@§7по НПС для их деспавна
+§fLeft-Click§7 to spawn and fight with you!@§fЛевый Клик§7 для спавна и сражения вместе с тобой!
+§6Right-Click§7 to give tasks.@§6Правый Клик§7 для выдачи задания.
+§5Next Upgrades:@§5Следующие Апгрейды:
+§5- §dHigher Pet Damage II§5 [Lv. 2]@§5- §dПовышенный Урон Питомцев II§5 [Ур. 2]
+§5- §dHigher Pet Damage III§5 [Lv. 3]@§5- §dПовышенный Урон Питомцев III§5 [Ур. 3]
+§7(You must have a §eCHAMPION§7 rank to@§7(Ты должен иметь §eCHAMPION§7 ранг для
+§7train your pets higher than level 20)@§7тренировки своих питомцев выше 20 уровня)
+§cLeft-Click§7 to despawn@§cЛевый Клик§7 для деспавна
+§7The best items at the best@§7Лучшие предметы по лучшим
+§7prices!@§7ценам!
+§7This will create a merchant booth at@§7Это создаст торговую палатку на
+§7this location for §f24h@§7этом месте на §f24часа
+§7Currently in Olux@§7Сейчас в Олуксе
+§7from Olux to Olux@§7Из Олукса в Олукс
+§7from Olux to Ragni@§7Из Олукса в Рагни
+§7Currently in Ragni@§7Сейчас в Рагни
+§7from Ragni to Ragni@§7Из Рагни в Рагни
+§7from Ragni to Nemract@§7Из Рагни в Немракт
+§7from Ragni to Nesaak@§7Из Рагни в Несаак
+§d§lRIGHT-CLICK TO TRACK@§d§lПРАВЫЙ КЛИК ДЛЯ ОТСЛЕЖИВАНИЯ
+§7Click here to@§7Кликни здесь для
+§7scrap your rewards.@§7утилизации своих наград.
+
+##############################GUILDS#################################
+§7Rank: §fOwner@§7Ранг: §fВладелец
+§7Rank: §fCaptain@§7Ранг: §fКапитан
+§8Open guild management@§8Открыть управление гильдией
+§aCost (per hour):@§aЦена (в час):
+§7No owned territories@§7Нет территорий под контролем
+§bRecent Events:@§bПоследние События:
+§7Left-Click to view details@§7Левый клик для просмотра деталей
+§7Your guild has no active@§7У вашей гильдии нет активных 
+§7alliances or tributes@§7альянсов или приношений
+§8No tributes sent@§8Нет присланных приношений
+§7Left-Click to view allies@§7Левый Клик для просмотра альянсов
+§7You do not own any@§7У вас нет никаких 
+§7territories to view@территорий для просмотра
+§7Territory Defences: §aVery Low@§7Защита Территорий: §aОчень Низкая
+§7Time to Start: §f2m@§7Время для Старта: §f2мин
+§7Territory Defences: §aLow@§7Защита Территорий: §aНизкая
+§8Calculating route...@§8Высчитываем маршрут...
+§cYour guild must have a@§cВаша гильдия должна иметь 
+§cheadquarter to use this option.@§cштаб для использования этой опции.
+§7Level up your Guild Tower@§7Повысь уровень вашей Башни Гильдии
+§7to protect your territory@§7для защиты своей территории
+§dTotal Stats:@§dОбщая Статистика
+§aTower Cost (per hour):@§aЦена Башни (в час):
+§aBonus Cost (per hour):@§aЦена Бонуса (в час):
+§dGuild Output (per hour):@§dВыход Гильдии (в час):
+§7Periodically, resources from@§7Периодически, ресурсы с
+§7this territory will be brought to@§7этой территории будут доставлены в
+§7your headquarter's Guild Bank@§7ваш Банк Штаба Гильдии
+§7All excess resources will be sent@§7Все избыточные ресурсы будут отправлены
+§7to the guild headquarters using the@§7в штаб гильдии используя
+§7route shown below@§7путь указанный ниже
+§cYou must set a guild headquarters@§cТы должен установить штаб гильдии
+§cbefore viewing the trading route@§cпрежде чем смотреть торговый путь
+§3Style: §bCheapest@§3Стиль: §bСамый Дешевый
+§2Borders: §aOpen@§2Границы: §aОткрыты
+§7If resources from other guilds@§7Если ресурсы от других гильдий
+§7use this territory to travel, they@§7используют эту территорию для прохождения, они
+§7will be taxed at these rates@§7будут облагаться налогом по этим ставкам
+§7Set this territory as your@§7Установить эту территорию как ваш
+§7guild's headquarters@§7штаб гильдии
+§bHQ Bonuses:@§bБонусы Штаба:
+§7To gain resources from your@§7Для получения ресурсов от ваших 
+§7other territories, you must@§7других территорий, ты должен
+§7link them to your headquarters@§7соединить их с вашим штабом
+§7The number of owned territories@§7Количество территорий в собственности
+§7nearby will provide a boost@§7рядом будут предоставлять буст
+§3Damage & Health: +0%@§3Урон и Здоровье: +0%
+§7No guild badges@§7Нет значков гильдий
+§7Left-Click to view members@§7Левый Клик для просмотра участников
+§7Share items with other@§7Поделись предметами с другими
+§7players in the guild@§7игроками в гильдии
+§eNo recent events@§eНет недавних событий
+§7View and change your@§7Просмотр и изменение вашего
+§7current guild banner@§7текущего баннера гильдии
+§4You must be Chief rank@§4Ты должен иметь ранг Шефа
+§4or higher to use this@§4или выше для использования этого
+§e- §7§fCinfras Entrance@§e -§7§fВход в Цинфрас
+§7Total resource output@§7Общий выход ресурсов
+§7and overall costs@и общая стоимость
+§aOverall Cost (per hour):@Общая Стоимость (в час):
+§fYou have not chosen@§fТы не выбрал 
+§fa name for your guild@§fназвание для своей гильдии
+§7This name will be shown@§7Это название будет видно
+§7publicly to players@§7публично для игроков
+§fa tag for your guild@§fтэг для своей гильдии
+§7This tag will be shown@§7Этот тэг будет показан
+§7within chat messages@§7рядом с сообщениями чата
+§7You must meet all@§7Ты должен сначала соответствовать
+§7requirements first@§7всем требованиям
+§a§l✔§7 Combat Level 75@§a§l✔§7 Комбат Уровень 75
+§a§l✔§7 6 Soul Points@§a§l✔§7 6 Очков Душ
+§a§l✔§7 20 Liquid Emerald@§a§l✔§7 20 Жидких Эмеральдов
+§c✖§7 No name chosen@§c✖§7 Не выбрано название
+§c✖§7 No tag chosen@§c✖§7 Не выбран тэг
+§fa guild name or tag@§fназвание гильдии или тэг
+§7You have chosen a@§7Ты выбрал
+§7name for your guild@название для своей гильдии
+§fYou must enter a@§fТы должен ввести
+§fguild tag to use@§fтэг гильдии для использования
+§7tag for your guild@§7тэг для своей гильдии
+§fYou are ready to@§fЕсли ты готов
+§fcreate your guild@§fсоздать свою гильдию
+§7Click here when done@§7Кликни здесь когда готов
+§7§c✖§f Lv. 3: §7+Guild Bank@§7§c✖§f Ур. 3: §7+Банк Гильдии
+§7Right-Click to change badges@§7Правый Клик для изменения значка
+§7Reach guild level 3 to@§7Достигните 3 уровня гильдии для
+§7unlock the guild bank@§7открытия банка гильдии
+§7Left-Click to open editor@§7Левый Клик для открытия редактора
+§bNo recent events@§bНет недавних событий
 
 ###############################CRATES##############################
 §dRare Reward@§dРедкая Награда
@@ -2436,6 +2656,10 @@
 §7phoenix wings@§7крылья феникса
 §7fairy wings@§7крылья феи
 §7bone wings@§7костлявые крылья
+§7Disguise your mushroom@§7Маскирует твой гриб 
+§7as a helmet!@§7под шлем!
+§7Wait, it's the other@§7Погоди-ка, все
+§7way round!@§7наоборот!
 
 #########################UNIDENTIFIED##########################
 §e- §eUnidentified Spear@§e- §eНеидентифицированное Копье
@@ -2545,6 +2769,7 @@
 §7- §dUnidentified Relik@§7- §dНеидентифицированный Релик
 §e- §aUnidentified Relik@§e- §aНеидентифицированный Релик
 §7- §aUnidentified Relik@§7- §aНеидентифицированный Релик
+§7- §cUnidentified Charm@§7- §cНеидентифицированный Талисман
 
 ############################ITEMS#############################
 §7Crafting Material@§7Материал для Крафта
@@ -2701,6 +2926,12 @@
 §7A strange key engraved with a symbol of@§7Странный ключ гравирован символом 
 §7two arrows in the shape of a circle.@§7из двух стрел в форме круга.
 §7What could it possibly open?@§7Что им можно открыть?
+§4You are too far away from@§4Ты слишком далеко от 
+§4an Emerald Merchant to open@§4Торговца Эмеральдами для открытия
+§7Maybe that rat you saw@§7Может та крыса, что ты видел
+§7earlier would want this?@§7раньше захочет это?
+§7Use this item to enter §fRaids@§7Используй этот предмет для похода в §fРейды
+§7or craft a §fCorrupted Dungeon Key@§7или крафта §fИспорченного Данж Ключа
 
 ###################################WYNNIC##########################################
 §7⒯⒣⒠ ⒨⒪⒩⒮⒯⒠⒭ ⒡⒭⒪⒨ ⒝⒠⒴⒪⒩⒟ ⒣⒜⒮ ⒡⒪⒰⒩⒟ ⒰⒮.@§7⒯⒣⒠ ⒨⒪⒩⒮⒯⒠⒭ ⒡⒭⒪⒨ ⒝⒠⒴⒪⒩⒟ ⒣⒜⒮ ⒡⒪⒰⒩⒟ ⒰⒮. §d(монстр из другого царства нашел нас.)
