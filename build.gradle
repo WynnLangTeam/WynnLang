@@ -8,80 +8,84 @@ idea {
 buildscript {
     repositories {
         mavenCentral()
-        maven {
-            name = "forge"
-            url = "http://files.minecraftforge.net/maven"
-        }
-        maven {
-            name = "sonatype"
-            url = "https://oss.sonatype.org/content/repositories/snapshots/"
-        }
+        jcenter()
+        maven { url = "http://files.minecraftforge.net/maven" }
+        maven { url = "https://repo.spongepowered.org/maven" }
     }
     dependencies {
         classpath 'net.minecraftforge.gradle:ForgeGradle:2.3-SNAPSHOT'
+        classpath 'org.spongepowered:mixingradle:0.6-SNAPSHOT'
     }
 }
+
 apply plugin: 'java'
 
 apply plugin: 'net.minecraftforge.gradle.forge'
+apply plugin: 'org.spongepowered.mixin'
 
-ext.modversion = "${project.version}"
+version = mod_version
+group = mod_group
+archivesBaseName = mod_id
 
-group = 'ru.fiw.wynnlang'
-version = "${project.version_minecraft}-${modversion}"
-
-sourceCompatibility = '1.8'
-targetCompatibility = '1.8'
-
+sourceCompatibility = targetCompatibility = '1.8'
 compileJava {
-    sourceCompatibility = '1.8'
-    targetCompatibility = '1.8'
-
+    sourceCompatibility = targetCompatibility = '1.8'
+    
     options.encoding = 'UTF-8'
 }
 
-jar {
-    manifest {
-        attributes 'FMLCorePlugin': 'ru.artfect.wynnlang.hooklib.WynnLangHookLoader'
-        attributes 'FMLCorePluginContainsFMLMod': 'true'
-        attributes 'Created-By': '1.7.0 (Oracle Corporation)'
+minecraft {
+    version = "${minecraft_version}-${forge_version}"
+    runDir = "run"
+    mappings = mappings_version
+    String resolved_core_plugin = mod_core_plugin;
+    clientJvmArgs += "-Dfml.coreMods.load=${resolved_core_plugin}"
+    serverJvmArgs += "-Dfml.coreMods.load=${resolved_core_plugin}"
+    String resolved_core_config = mod_mixin_configs;
+    clientRunArgs += "--mixin ${resolved_core_config}"
+    serverRunArgs += "--mixin ${resolved_core_config}"
+}
+
+repositories {
+    maven { url = "https://repo.spongepowered.org/maven" }
+}
+
+dependencies {
+    provided('org.spongepowered:mixin:0.7.11-SNAPSHOT') {
+        exclude module: 'guava'
+        exclude module: 'commons-io'
+        exclude module: 'gson'
     }
 }
 
-minecraft {
-    version = "${project.version_minecraft}-${project.version_forge}"
-
-    if (project.hasProperty('version_mappings'))
-        mappings = project.version_mappings
-
-    if (!project.hasProperty('run_location'))
-        runDir = 'run'
-    else
-        runDir = run_location.replace('{modid}', project.name).replace('{mcversion}', project.version_minecraft)
-
-    replaceIn 'wynnlang/Reference.java'
-    replace '${version}', modversion
-    replace '${mcversion}', project.version_minecraft
-    replace '${forgeversion}', project.version_forge
-}
-
 processResources {
-    // this will ensure that this task is redone when the versions change.
-    inputs.property 'version', project.version
-    inputs.property 'mcversion', project.minecraft.version
+    inputs.property "version", project.version
+    inputs.property "mcversion", project.minecraft.version
 
     from(sourceSets.main.resources.srcDirs) {
         include 'mcmod.info'
 
-        expand([
-                'modid'       : project.name,
-                'version'     : modversion,
-                'mcversion'   : project.version_minecraft,
-                'forgeversion': project.version_forge
-        ])
+        expand 'version': project.version
     }
 
     from(sourceSets.main.resources.srcDirs) {
         exclude 'mcmod.info'
+    }
+}
+
+jar {
+    from(configurations.provided.collect {
+        it.isDirectory() ? it : zipTree(it)
+    }) {
+        exclude "LICENSE.txt", "META-INF/MANIFSET.MF", "META-INF/maven/**", "META-INF/*.RSA", "META-INF/*.SF"
+    }
+
+    manifest {
+        attributes "FMLCorePlugin": mod_core_plugin
+        attributes "FMLCorePluginContainsFMLMod": "true"
+        attributes "ForceLoadAsMod": "true"
+        attributes "TweakClass": "org.spongepowered.asm.launch.MixinTweaker"
+        attributes "TweakOrder": "0"
+        attributes "MixinConfigs": mod_mixin_configs
     }
 }
