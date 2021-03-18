@@ -1,58 +1,87 @@
-§7[1/4] §2Lari: §aPlease just, leave me be.@§7[1/4] §2Лари: §aПожалуйста, просто оставь меня в покое.
-§7[2/4] §2Lari: §aI have a job to do. I have to stop the Decay.@§7[2/4] §2Лари: §aУ меня есть задание. Я должна остановить заражение.
-§7[3/4] §2Lari: §aAnd judging by your thirst for blood and murder I assume you don't have any ideas that could be of help.@§7[3/4] §2Лари: §aИ судя по твоей жажде крови и убийства, я полагаю, у тебя нет никаких идей, которые могли бы помочь.
-§7[4/4] §2Lari: §aIf you could excuse me, my brew is ready.@§7[4/4] §2Лари: §aЕсли позволишь, мое зелье готово.
-§7[1/] §2Lari: §aAttempt number 93... I have a good feeling about this one.@§7[1/1] §2Лари: §aПопытка номер 93... У меня хорошее предчувствие на этот раз.
-§7[1/] §2Lari: §aYou are still here I see... @§7[1/1] §2Лари: §aЯ вижу, ты все еще здесь...
-§7[1/] §2Lari: §aI'm afraid these types of spots are going to keep popping up. I need to find a stop for it.@§7[1/1] §2Лари: §aЯ боюсь, что такие пятна будут появляться и дальше. Мне нужно найти способ остановить это.
-§7[3/] §2Lari: §aHere goes nothing!@§7[1/1] §2Лари: §aБудь что будет!
-§7[1/] §2Lari: §aIt's never done this before!@§7[1/1] §2Лари: §aОн никогда не делал этого раньше!
-§7[] §2Lari: §aNOT AGAIN. NOTHING EVER WORKS.@§7[1/1] §2Лари: §aТОЛЬКО НЕ СНОВА. НИЧТО НИКОГДА НЕ РАБОТАЕТ.
-§7[] §2Lari: §aI'm starting to loes hope.. You aren't helping either. You don't even know what the Decay is!@§7[1/1] §2Лари: §aЯ начинаю терять надежду.. Ты тоже не помогаешь. Ты даже не знаешь, что такое Заражение!
-§7[] §2Lari: §aJust... leave me be. Leave Gavel be. What are you even here for, you have your own problems back at your home.@§7[1/1] §2Лари: §aПросто ... оставь меня в покое. Оставь Гавел в покое. Зачем ты вообще здесь, у тебя дома свои проблемы.
-§7[] §2Lari: §aWhat... in the. Is that?@§7[1/1] §2Лари: §aЧто... за. Это?
-§7[] §2Lari: §bThe road, §alook! Does it want me to talk to it?@§7[1/1] §2Лари: §bДорога, §aсмотри! Хочет ли оно, чтобы я с ним поговорила?
-§7[1/1] §2Lari: §bFollow the trail! §aIt might be a clue.@§7[1/1] §2Лари: §aИди по следу! Возможно, это ключ к разгадке.
-§7[1/3] §2Lari: §aWhy would it lead us here.@§7[1/3] §2Лари: §aПочему он привел нас сюда?
-§7[2/3] §2Lari: §aThe door has been locked since... everything started.@§7[2/3] §2Лари: §aДверь была заперта как... все началось.
-§7[3/3] §2Lari: §aWhy would you lead me here...@§7[3/3] §2Лари: §aЗачем ты привел меня сюда...
-§7[1/3] §2Lari: §aWhat do you want!@§7[1/3] §2Лари: §aЧего ты хочешь!
-§7[2/3] §2Lari: §aTELL ME WHAT TO DO!@§7[2/3] §2Лари: §aСКАЖИ МНЕ ЧТО ДЕЛАТЬ!
-§7[2/3] §2Lari: §aYou gave me these powers but you refuse to answer me! WHAT AM I SUPPOSED TO DO.@§7[2/3] §2Лари: §aТы дал мне эти силы, но отказываешься отвечать! ЧТО МНЕ ТЕПЕРЬ ДЕЛАТЬ?
-§7[3/3] §2Lari: §aAgain..? @§7[3/3] §2Лари: §aСнова..?
-§7[2/3] §2Lari: §aIt has never... done that before.@§7[2/3] §2Лари: §aОн никогда не делал... этого раньше.
-§7[2/3] §2Lari: §aI've been here before... Multiple times! Why now, what changed.@§7[2/3] §2Лари: §aЯ уже бывала здесь раньше... Множество раз! Почему сейчас, что изменилось?
-§7[2/3] §2Lari: §aIt must want us to enter.@§7[2/3] §2Лари: §aОн хочет чтобы мы вошли.
-§7[2/3] §2Lari: §aWhat. Why. I got.... rejected?@§7[2/3] §2Лари: §aЧто. Почему? Меня.... отвергли?
-§7[1] §2???: §aI need you to observe, pay attention human. This could be our only chance.@§7[1/] §2???: §aМне нужно, чтобы ты наблюдал, обратил внимание, человек. Это может быть наш единственный шанс.
-§7[1] §2???: §aThis is a test. A question of morality. §bListen to the meeting, make your choice.@§7[1/] §2???: §aЭто испытание. Вопрос морали. §bПодслушай встречу, сделай свой выбор.
-§7[1] §2Mayor: §aThis has gone far enough. I can't do this anymore!@§7[1/] §2Мэр: §aЭто зашло слишком далеко. Я больше так не могу!
-§7[1] §2Dr. Urelix: §aYou know our deal. We are doing great things.@§7[1/] §2Др. Уреликс: §aТы знаешь наше соглашение. Мы делаем великие дела.
-§7[1] §2Dr. Urelix: §aBesides, shutting down our little agreement would cause more harm than good. You know that.@§7[1/] §2Др. Уреликс: §aКроме того, отказ от нашего маленького соглашения принесет больше вреда, чем пользы. И ты это знаешь.
-§7[1] §2Mayor: §aYou can't possibly believe that kidnapping innocent villagers is morally RIGHT?!@§7[1/] §2Мэр: §aВы же не можете поверить, что похищение невинных жителей - это морально ПРАВИЛЬНО?!
-§7[1] §2Mayor: §aI am reporting this to the detective! He will make sure to put a stop to this sinister operation!@§7[1/] §2Мэр: §aЯ сообщу об этом детективу! Он обязательно положит конец этой зловещей операции!
-§7[1] §2Dr. Urelix: §aIf you do that. Cities in the Wynn province will fall, our Golems are doing good, Mayor. The Golems changed the war!@§7[1/] §2Др. Уреликс: §aЕсли ты это сделаешь. Города в провинции Винн падут, наши големы делают добро, мэр. Големы изменили ход войны!
-§7[1] §2Mayor: §aI do not care. I'm leaving.@§7[1/] §2Мэр: §aМне плевать. Я ухожу.
-§7[1] §2???: §bYou need to make a choice. §aThe reason you are here, is to prove yourself.@§7[1/] §2???: §bТебе нужно сделать выбор. §aПричина, по которой ты здесь, заключается в том, чтобы проявить себя.
-§7[1] §2???: §bYou can just leave §aand let fate decide the outcome.@§7[1/] §2???: §bТы можешь просто уйти §aи позволить судьбе решить исход.
-§7[1] §2???: §bYou can murder the Mayor §ato stop him reporting this.@§7[1/] §2???: §bТы можешь убить мэра, §aчтобы он не сообщил об этом.
-§7[1] §2???: §bThe last option is to kill Urelix §ato stop the operation.@§7[1/] §2???: §bПоследний вариант - убить Уреликса§a, чтобы остановить операцию.
-§7[1] §2???: §aThe choice is yours to make. Think of the outcome. What's best.... @§7[1/] §2???: §aВыбор за тобой. Подумай о результате. Что будет лучше....
-§7[1/] §2Dr. Urelix: §aGood choice. We will now operate in peace thanks to you. Wynn will still stand...@§7[1/] §2Др. Уреликс: §aХороший выбор. Теперь мы будем действовать в мире благодаря тебе. Винн все равно будет существовать...
-§7[1/] §2Lari: §aDid you also get rejected..?@§7[1/1] §2Лари: §aТебя тоже отвергли..?
-§7[2/] §2Lari: §aWait a minute.... I can't believe it.@§7[1/1] §2Лари: §aПодожди минутку.... Я не могу в это поверить.
-§7[2/] §2Lari: §aA human! Why did §a§lit §achoose you! Why not me!?@§7[1/1] §2Лари: §aЧеловек! Почему §a§lон§a выбрал именно тебя? Почему не я?!
-§7[2/] §2Lari: §aYou... are getting access to the Root of time! What did you do. Why you!?@§7[1/1] §2Лари: §aТы ... получил доступ к Корню времени! Что ты сделал. Почему ты?!
-§7[2/] §2Lari: §aI can't even enter... I must've really messed up.@§7[1/1] §2Лари: §aЯ даже не могу войти... Должно быть, я действительно все испортила.
-§7[2/] §2Lari: §aLet me in! Please!@§7[1/1] §2Лари: §aПустите меня! Пожалуйста!
-§7[2/] §2Lari: §aPlease... I just want to help.@§7[1/1] §2Лари: §aПожалуйста... Я просто хочу помочь.
-§7[1/1] §2???: §aIgnore Lari, she will understand.@§7[1/1] §2???: §aНе обращай внимания на Лари, она поймет.
-§7[1/] §2???: §aFinally, I found you. The choices you made, the choices I put you through has shown me what I need.@§7[1/1] §2???: §aНаконец-то я нашел тебя. Выбор, который ты сделал, выбор, через который я заставил тебя пройти, показал мне то, что мне нужно.
-§7[2/6] §2???: §aYour world is connected to realms, realms beyond your comprehension.@§7[2/6] §2???: §aТвой мир связан с царствами, которые находятся за пределами твоего понимания.
-§7[3/6] §2???: §aLight and dark are at war, constantly. However, the war has taken a turn for the worse.@§7[3/6] §2???: §aСвет и тьма постоянно воюют. Однако война пошла в худшую сторону.
-§7[4/6] §2???: §aLight is fading. We are losing, I am losing.@§7[4/6] §2???: §aСвет угасает. Мы проигрываем, я проигрываю.
-§7[5/6] §2???: §aThere is much you do not know. I will try to show you, because you see, I need your help.@§7[5/6] §2???: §aСуществует много того, чего ты не знаешь. Я постараюсь показать тебе, потому что, видишь ли, мне нужна твоя помощь.
-§7[6/6] §2???: §aThe §dRealm of Light §aneeds you. Human.@§7[6/6] §2???: §dЦарство Света§a нуждается в тебе. Человек.
-§7[1/3] §2???: §aI need to show you something.@§7[1/3] §2???: §aМне нужно показать тебе что-то.
-§7[2/3] §2???: §bFollow the road. @§7[2/3] §2???: §bСледуй по дороге.
-§7[3/3] §2???: §aThis is A memory of the Realm. The realm is showing you what you need to see.@§7[3/3] §2???: §aЭто память Царства. Царство покажет тебе то, что нужно увидеть.
+§7[2/5] §2Lari: §aI §ahave...important§a things to do. This accursed Decay...I have to end it. This all needs to stop.@§7[2/5] §2Лари: §aУ меня есть...важные дела. Это проклятое Заражение...Я должен покончить с этим. Все это нужно прекратить.
+§7[3/5] §2Lari: §aI am thankful for your aid with §athe...the§a Grootslang, but I do not believe you will be able to help with this- Simply a matter of scale.@§7[3/5] §2Лари: §aЯ благодарна тебе за помощь с...с Грутслангом, но я не верю, что ты сможешь помочь с этим - тут просто вопрос масштаба.
+§7[4/5] §2Lari: §aI apologize, but I need to focus on my task here. If, perhaps, you could come back another time? And, I do mean that sincerely...@§7[4/5] §2Лари: §aПрошу прощения, но мне нужно сосредоточиться на своей задаче. Если возможно, ты мог бы прийти в другой раз? И я действительно говорю это искренне...
+§7[5/5] §2Lari: §aI can't even recall how many attempts this will §amake...but§a all my knowledge has gone into this. This §a§lmust §awork.@§7[5/5] §2Лари: §aДаже не могу вспомнить, сколько попыток я сделала...но все мои знания ушли на это. Это §a§lдолжно§a сработать.
+§7[1/10] §2Lari: §a...I suppose I can't fault you for being curious. You may have seen a large, dark-looking patch of ground on your way here- I am trying to tend to it once more.@§7[1/10] §2Лари: §a...Полагаю, не могу винить тебя за любопытство. Возможно, по дороге сюда ты видел большой темный участок земли - я пытаюсь еще раз его обработать.
+§7[2/10] §2Lari: §aIt §ais...the§a most obvious stain of the decay, and very §aintense...if§a I can scrub this out, the rest should follow.@§7[2/10] §2Лари: §aЭто...самое очевидное пятно заражения, и очень интенсивное...Если я смогу избавиться от него, остальные должны исчезнуть вместе с ним.
+§7[3/10] §2Lari: §aThis concoction of mine §ashould...do§a the trick!@§7[3/10] §2Лари: §aЭта моя смесь должна...сделать свое дело!
+§7[4/10] §2Lari: §aIt...it's§a working!! I can feel it, the land is reacting positively!@§7[4/10] §2Лари: §aЭто...это работает!! Я чувствую это, земля реагирует положительно!
+§7[5/10] §2Lari: §aI...I... It §awas...it§a was working, a-and... Agh, why can't I get this RIGHT?!@§7[5/10] §2Лари: §aЯ...Я... Оно ...оно работало, и-и... Ах, почему я не могу сделать это ПРАВИЛЬНО?!
+§7[6/10] §2Lari: §aHow many decades have I been doing this? How much time have I wasted, §ajust...failing§a like this?!@§7[6/10] §2Лари: §aСколько десятилетий я этим занимаюсь? Сколько времени я потратила впустую, просто...размахивая руками?!
+§7[8/10] §2Lari: §aI think you sh... Should...w-what is... Now, of all times? As I fail?!@§7[8/10] §2Лари: §aЯ думаю, ты д... Должен...ч-что такое... Сейчас, после стольких попыток? Когда я потерпела неудачу?!
+§7[9/10] §2Lari: §bThe road, §alook! He's contacting me! A-are you finally giving me the answers I've asked for?@§7[9/10] §2Лари: §bДорога,§a смотри! Он связывается со мной! Наконец-то дает мне ответы, о которых я просила?
+§7[10/10] §2Lari: §aI have to §bfollow the trail! §aI...I have to know what he's telling me!@§7[10/10] §2Лари: §aЯ должна §bидти по следу§a! Я...я должна знать, что он мне говорит!
+§7[1/12] §2Lari: §a...I followed you seeking §aanswers...and§a here, I am presented with more questions. Why did he bring us here?@§7[1/12] §2Лари: §a...Я последовала за ним в поисках ответов...и здесь мне задают еще больше вопросов. Зачем он привел нас сюда?
+§7[2/12] §2Lari: §aThis gate has appeared, immovable and impassable, since the moment §athat...that§a everything started.@§7[2/12] §2Лари: §aЭти ворота появились, неподвижные и непроходимые, с того самого момента...как все началось.
+§7[3/12] §2Lari: §aI don'§at...is§a he trying to remind me of what's at stake? Did he want to show y- No, that'§as...he§a wouldn't know §ayou...but§a then, what IS this about?!@§7[3/12] §2Лари: §aЯ не знаю ... он пытается напомнить мне, что поставлено на карту? Хочет ли он показать тебе - Нет, не...он тебя не знает...Но тогда в чем дело?!
+§7[4/12] §2Lari: §aRrgh... ANSWER ME! PLEASE! I've begged you for so long to answer!@§7[4/12] §2Лари: §aАргх... ОТВЕТЬ МНЕ! ПОЖАЛУЙСТА! Я так долго умоляла тебя ответить!
+§7[5/12] §2Lari: §aYou gave me my task and your light but never told me what to DO! I've tried everything I can think of!!@§7[5/12] §2Лари: §aТы дал мне задание и свой свет, но никогда не говорил, что мне ДЕЛАТЬ! Я перепробовала все, что только могла придумать!!
+§7[6/12] §2Lari: §aTell me! Please, just t-tell me already!! I don't know how much longer I can stand this!!@§7[6/12] §2Лари: §aСкажи мне! Пожалуйста, просто т-скажи мне уже!! Я не знаю, сколько еще смогу это выносить!!
+§7[7/12] §2Lari: §aI...a-another one? Where are you leading me now?@§7[7/12] §2Лари: §aЯ...еще один? Куда ты меня теперь ведешь?
+§7[8/12] §2Lari: §aIt...the§a gateway...? Are you...I can't understand! Why this, again?@§7[8/12] §2Лари: §aЭти...врата? .. Ты...Я не могу понять! Почему они, снова?
+§7[9/12] §2Lari: §aYou showed me this before... At first, when you first contacted me. I made the choice...@§7[9/12] §2Лари: §aТы уже показывал мне это раньше... Сначала, когда впервые связался со мной. Я сделала свой выбор...
+§7[10/12] §2Lari: §aMust I make it again? Is that it, do I need to prove myself to you once more?@§7[10/12] §2Лари: §aДолжна ли я сделать это снова? Неужели мне нужно еще раз доказать тебе свою правоту?
+§7[11/12] §2Lari: §aI...what§a? §aYou...you§a present me with this, but refuse to let me do what you want?@§7[11/12] §2Лари: §aЯ...что? Ты...ты показываешь мне это, но отказываешься позволить мне сделать то, что ты хочешь?
+§7[1/14] §2???: §a§oMy pulse... Human. I must inquire to you. I present you a test. Guide your attention to those you see.@§7[1/14] §2???: §a§oМой пульс... Человек. Я должен спросить тебя. Я представляю тебе тест. Направь свое внимание на тех, кого ты видишь.
+§7[2/14] §2???: §a§oI must see the rhythm your heart beats. §b§oListen well.@§7[2/14] §2???: §a§oЯ должен видеть ритм, в котором бьется твое сердце. Слушай внимательно.
+§7[3/14] §2Mayor: §aThis has gone far enough. I can't do this anymore! I can't give you any more and I refuse to apologize for it!@§7[3/14] §2Мэр: §aЭто зашло слишком далеко. Я больше так не могу! Не могу дать вам больше, и я отказываюсь извиняться за это!
+§7[4/14] §2Dr. Urelix: §aYou know our deal. Remember what good you are doing by following the plans I've laid out for you.@§7[4/14] §2Др.Уреликс: §aВы знаете нашу сделку. Помните, какую пользу вы делаете, следуя моим планам.
+§7[5/14] §2Dr. Urelix: §aAre you going to let your emotions cloud your judgment? You're a smarter man than that, Mr. Mayor.@§7[5/14] §2Др.Уреликс: §aВы позволите своим эмоциям затуманить ваше решение? Вы гораздо умнее, господин мэр.
+§7[6/14] §2Mayor: §aYou can't possibly believe that throwing away the lives of innocent people is right! I can't go on with this on my conscience!@§7[6/14] §2Мэр: §aВы не можете поверить, что уничтожать жизни невинных жителей - это правильно! Я не могу больше держать это на своей совести!
+§7[7/14] §2Mayor: §aDetective Hart WILL be hearing from me, and he'll be hearing everything. We can't keep sacrificing our own like this!@§7[7/14] §2Мэр: §aДетектив Харт услышит меня, и он услышит все. Мы не можем так жертвовать своими!
+§7[8/14] §2Dr. Urelix: §aOur golems have single-handedly turned the tide of the Humans' corruption war. You would save ten here and sentence a thousand to die overseas?@§7[8/14] §2Др.Уреликс: §aНаши големы в одиночку переломили ход человеческой войны с порчей. Вы спасете десять здесь и приговорите тысячу умереть за границами?
+§7[9/14] §2Mayor: §aYou're a sick, twisted man, Urelix. I will not abide by this a moment longer.@§7[9/14] §2Мэр: §aТы больной, извращенный человек, Уреликс. Я не потерплю больше ни минуты.
+§7[10/14] §2???: §b§oMy pulse, you must decide. §a§oThree paths diverge upon your road.@§7[10/14] §2???: §b§oМой пульс, ты должен решить. Три пути расходятся на твоей дороге.
+§7[11/14] §2???: §b§oYou may leave. §a§oThe rays of fate will see to destiny unfolding.@§7[11/14] §2???: §b§oТы можешь уйти. Лучи судьбы будут следить за тем, как разворачивается судьба.
+§7[12/14] §2???: §b§oYou may end this ''Mayor's'' life. §a§oBlood upon your hands in many ways.@§7[12/14] §2???: §b§oТы можешь покончить с жизнью этого "мэра". §a§oКровь тогда будет на твоих руках.
+§7[13/14] §2???: §b§oYou may end the life of Urelix. §a§oHeartbeats ceased by a bleeding heart.@§7[13/14] §2???: §b§oТы можешь покончить с жизнью Уреликса. §a§oСердцебиение прекратилось из-за кровоточащего сердца.
+§7[14/14] §2???: §a§oWhich way does your heart beat? How will you cast your light? Can you see?@§7[14/14] §2???: §a§oВ какую сторону бьется твое сердце? Как ты будешь использовать свой свет? Ты можешь увидеть?
+§7[1/1] §2???: §a§oMy pulse... The blood of a bleeding heart has poisoned me. Even if you believe the sun should shine elsewhere, you must direct it yourself.@§7[1/1] §2???: §a§oМой пульс... Кровь кровоточащего сердца отравила меня. Даже если ты веришь, что солнце должно светить в другом месте, ты должен направлять его сам.
+§7[1/5] §2???: §b§oYou must realize what is needed. §a§oYou must see light through my lens.@§7[1/5] §2???: §b§oТы должен понять, что необходимо. §a§oТы должен видеть свет через мои глаза.
+§7[2/5] §2???: §b§oTo leave... §a§oAs destiny unfolds, the sun shall set.@§7[2/5] §2???: §b§oЧтобы уйти... §a§oКогда судьба развернется, солнце сядет.
+§7[3/5] §2???: §b§oTo end this ''Mayor's'' life... §a§oTo snuff out one whose heart aches is painful.@§7[3/5] §2???: §b§oПокончить с этой жизнью "мэра"... §a§oУбить того у кого болит сердце - это больно.
+§7[4/5] §2???: §b§oTo end the life of Urelix... §a§oThe shadows of war shall engulf all.@§7[4/5] §2???: §b§oПокончить с жизнью Уреликса... §a§oТени войны поглотят всех.
+§7[5/5] §2???: §a§oMy pulse, §b§othere is only one choice. §a§oYou must do what is required, I beg of you.@§7[5/5] §2???: §a§oМой пульс, §b§oесть только один выбор.§a§o Ты должен сделать то, что требуется, умоляю тебя.
+§7[1/1] §2Dr. Urelix: §aAh, you recognize necessity. That couldn't have been §apleasant...but§a what's needed isn't pleasant, in the end.@§7[1/1] §2Др. Уреликс: §aАх, ты признал необходимость. Вряд ли это было приятно...но то, что нужно в конце концов неприятно.
+§7[1/8] §2Lari: §a...I didn't think you would be able to help, but I had to ask. §aSo...was§a this for nothing?@§7[1/8] §2Лари: §a...Я не думала, что ты сможешь помочь, но я должна была спросить. Значит...все это было напрасно?
+§7[2/8] §2Lari: §aWait...y-you...had§a a choice? He gave you the choice too?! A-Already?!@§7[2/8] §2Лари: §aПодожди...у тебя...был выбор? Он и тебе дал выбор?! У-Уже?!
+§7[3/8] §2Lari: §aWh- I don't understand! §aYou...you§a just arrived to Gavel! You haven't seen its decline! Felt its pain!@§7[3/8] §2Лари: §aЧт - я не понимаю! Ты...ты только что прибыл в Гавел! Ты не видел ее упадка! Не чувствовал ее боль!
+§7[4/8] §2Lari: §aWhat did you do?! The gate is opening? YOU did this?! I know your heart is in the right place, but you’re a stranger to this land!@§7[4/8] §2Лари: §aЧто ты сделал?! Ворота открываются? ТЫ это сделал?! Я знаю, что твое сердце в правильном месте, но ты чужой на этой земле!
+§7[5/8] §2Lari: §aI...I...rrrgh..§a. AAAAGH!! This isn't fair!! I've worked for decades and the light §ajust...throws§a me to the wayside?!@§7[5/8] §2Лари: §aЯ...я...рррр... ААА!! Это несправедливо!! Я работала десятилетиями, и свет просто...отбрасывает меня на обочину?!
+§7[6/8] §2Lari: §aPLEASE! Just let me in!@§7[6/8] §2Лари: §aПОЖАЛУЙСТА! Просто пусти меня!
+§7[7/8] §2Lari: §aPlease... You can't DO this to me!!@§7[7/8] §2Лари: §aПожалуйста... Ты не можешь так со мной ПОСТУПИТЬ!!
+§7[8/8] §2Lari: §aWhy do you want this human to §benter the Taproot?! §aWhat's special about them, what's their connection? What have they done that I haven't?! Tell me, please! Let me be useful!!@§7[8/8] §2Лари: §aПочему ты хочешь, чтобы этот человек вошел в Корень?! Что в нем особенного, какая между ними связь? Что он сделали такого, чего не сделала я?! Скажи мне, пожалуйста! Позволь мне быть полезной!!
+§7[1/1] §2???: §a§oMy pulse, you must leave her be. Her heart's emotions have overpowered her mind's judgement. She must learn to separate them as you have.@§7[1/1] §2???: §a§oМой пульс, ты должен оставить ее в покое. Эмоции ее сердца взяли верх над рассудком. Она должна научиться разделять их, как ты.
+§7[1/6] §2???: §a§oYour heartbeat beats in time with mine. Your mind is unclouded, despite the fury you have been steeped in. My pulse, you are needed.@§7[1/6] §2???: §a§oТвое сердце бьется в такт моему. Твой разум не затуманен, несмотря на ярость, в которую ты был погружен. Мой пульс, ты нужен мне.
+§7[2/6] §2???: §a§oYour eyes cannot see the scope of the realms. You must allow me to shed light upon them- You must see the connections.@§7[2/6] §2???: §a§oТвои глаза не могут видеть размах царств. Ты должен позволить мне пролить на них свет - ты должен увидеть связи.
+§7[3/6] §2???: §a§oLight... Dark... We oppose. I am light. It is dark. Our places reflect this §a§oland...and§a§o it is plain- The sun is setting. Light is fading.@§7[3/6] §2???: §a§oСвет... Тьма... Мы боремся. Я-свет. Это тьма. Наши места влияют на эту §a§oземлю§a...И здесь все ясно - Солнце садится. Свет угасает.
+§7[4/6] §2???: §a§oThe land you visit warps with the slow siphoning of my light, my blood. It becomes outlandish and strange- Oppressive and alien.@§7[4/6] §2???: §a§oЗемля, которую ты посещаешь, искажается от медленного перекачивания моего света, моей крови. Она становится диковинной и странной - Угнетающей и чуждой.
+§7[5/6] §2???: §a§oAs dusk approaches- As darkness spreads- My heart slows and stops. My pulse, you are needed. You shall be as one with me, and you shall see.@§7[5/6] §2???: §a§oПо мере приближения сумерек- по мере того как распространяется тьма, мое сердце замедляется и останавливается. Мой пульс, ты нужен мне. Ты будешь как одно целое со мной, и ты увидишь.
+§7[6/6] §2???: §a§oThe §d§oRealm of Light §a§oneeds life anew- A new pulse. It needs you.@§7[6/6] §2???: §d§oЦарство Света§a§o нуждается в новой жизни - в новом пульсе. Оно нуждается в тебе.
+§7[1/3] §2???: §a§oOur light is synchronous! You may see what I must have you see...@§7[1/3] §2???: §a§oНаш свет синхронен! Ты можешь увидеть то, что я хочу, чтобы ты увидел...
+§7[2/3] §2???: §b§oFollow the road. §a§oYou must witness the reason behind my trial.@§7[2/3] §2???: §b§oИди по дороге. §a§oТы должен засвидетельствовать причину после моих испытаний.
+§7[3/3] §2???: §a§oSee my memories. The memories of the realm. §a§oSee...and§a§o be enlightened.@§7[3/3] §2???: §a§oПосмотри на мои воспоминания. Воспоминания о царстве. Увидь...и стань просветленным.
+§7[1/1] §2???: §a§oWitness it... §a§l§oThe Equinox. §a§o Learn why you are needed, my pulse.@§7[3/3] §2???: §a§oЗасвидетельствуй это... §a§l§oРавноденствие. §a§oУзнай, зачем ты нужен, мой пульс.
+§7[1/2] §2???: §a§oWitness it. The vile emergence...@§7[3/3] §2???: §a§oЗасвидетельствуй это. Мерзкое появление..
+§7[2/2] §2???: §a§oWitness the beginning of decay.@§7[3/3] §2???: §a§oЗасвидетельствуй начало заражения.
+§7[1/17] §2Lari: §aMy light...I won't let you down!@§7[1/17] §2Лари: §aМой свет...Я тебя не подведу!
+§7[2/17] §2Lari: §aYou! You don't belong here!@§7[2/17] §2Лари: §aТы! Тебе здесь не место!
+§7[3/17] §2Lari: §aWah! Back away, I don't want to hurt you!@§7[3/17] §2Лари: §aУгх! Отойди, я не хочу причинять тебе боль!
+§7[4/17] §2Lari: §aI can do this... Orphion, lend me your voice!@§7[4/17] §2Лари: §aЯ могу это сделать... Орфион, предоставь мне свой голос!
+§7[5/17] §2Lari: §a§oReturn to your realm in peace!@§7[5/17] §2Лари: §a§oВозвращайся в свое царство с миром!
+§7[6/17] §2Lari: §a§oYour power is blinded by light. You cannot win!@§7[6/17] §2Лари: §a§oТвоя сила ослеплена светом. Ты не можешь победить!
+§7[7/17] §2Lari: §a§oPeace, strange creature! You must be peaceful!@§7[7/17] §2Лари: §a§oУспокойся, странное создание! Ты должен быть спокойным!
+§7[8/17] §2Lari: §aWhy isn't this working? Even Orphion's voice...@§7[8/17] §2Лари: §aПочему это не работает? Даже голос Орфиона...
+§7[9/17] §2Lari: §aIt's scarring the land... I need to end this, quickly...@§7[9/17] §2Лари: §aОно оставляет шрамы на земле... Мне нужно покончить с этим, и побыстрее...
+§7[10/17] §2Lari: §aHis light... This power... I can do this!@§7[10/17] §2Лари: §aЕго свет... Эта сила... Я могу это сделать!
+§7[11/17] §2Lari: §a§oThe embodiment of light supports me!@§7[11/17] §2Лари: §a§oВоплощение света поддерживает меня!
+§7[12/17] §2Lari: §a§oYou cannot fight the focus of pure light!@§7[12/17] §2Лари: §a§oТы не можешь бороться с фокусом чистого света!
+§7[13/17] §2Lari: §a§oBe done! I bind you with Orphion's light!@§7[13/17] §2Лари: §a§oСделано! Я связываю тебя светом Орфиона!
+§7[14/17] §2Lari: §aWait...it...it's§a n-not holding?!@§7[14/17] §2Лари: §aПодожди...эт...это н-не сдерживает его?!
+§7[15/17] §2???: §a§oLari... A conflicted heart failed to channel my light. She refused to battle.@§7[15/17] §2???: §a§oЛари... Противоречивое сердце не смогло направить мой свет. Она отказалась сражаться.
+§7[16/17] §2???: §a§oThe vile intruder was weak... But every opportunity to strike, exchanged for words to the deaf.@§7[16/17] §2???: §a§oМерзкий незваный гость был слаб... Но каждую возможность нанести удар, обменивали на глухие слова.
+§7[17/17] §2???: §a§oMy pulse... It pains me. Her light simply fails to shine where it is needed, and so we are here.@§7[17/17] §2???: §a§oМой пульс... Это сделало мне больно. Ее свет просто не может сиять там, где это необходимо, и поэтому мы здесь.
+§7[2/5] §2Lari: §aI work for untold years, trying to save this province, to save a §a§oRealm§a... All to so little avail. To the sound of silence from the one I'm trying to help.@§7[2/5] §2Лари: §aЯ работаю неисчислимые годы, пытаясь спасти эту провинцию, спасти §a§oЦарство§a... Но от этого мало толку. Это привело лишь к звуку тишины от того, кому я пытаюсь помочь.
+§7[3/5] §2Lari: §aAnd then, you appear, and... I still haven't ever been in there. I'd...I'd ask what it was like, but it'§as...probably§a private, right?@§7[3/5] §2Лари: §aА потом появляешься ты, и..... Я до сих пор там ни разу не была. Я бы...Я бы спросила, на что оно похоже, но это...наверное, частный разговор, верно?
+§7[4/5] §2Lari: §aAt...at§a least I have an ally now, r-right? But...I'm afraid that... N-no, it's silly, you don't need to hear me fretting.@§7[4/5] §2Лари: §aТеперь...по крайней мере, теперь у меня есть союзник, верно? Но...Боюсь, что... Н-нет, это глупо, ты не должен слышать, как я волнуюсь.
+§7[5/5] §2Lari: §aI... I promise I can still be useful. I'll... I'll find a way. I promise you. I'§all...get§a out of your way, for now.@§7[5/5] §2Лари: §aЯ... я обещаю, что все еще могу быть полезной. Я буду... Я найду способ. Обещаю тебе. Я...пока уйду с твоего пути.

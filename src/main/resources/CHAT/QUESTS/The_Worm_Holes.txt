@@ -30,13 +30,13 @@
 §7[3/3] §2Lari: §aThat's the mother Wyrm! She must be what is making the holes. We need to follow her!@§7[3/3] §2Лари: §aЭто же мать-дракон! Должно быть, это она проделывает дыры. Мы должны следовать за ней!
 §7[1/1] §2Lari: §aTake the lead.@§7[1/1] §2Лари: §aВеди нас.
 §7[1/1] §2Lari: §aNever mind the spiders, we need to keep following the Wyrm!@§7[1/1] §2Лари: §aНе обращай внимания на пауков, мы должны продолжать следовать за матерью!
-§7[2/7] §2Lari: §aI...do§a not believe we need to fight. To kill, in the end, yes? The creatures are native to here, we are invading their space.@§7[2/7] §2Лари: §aЯ...не считаю, что мы должны бороться. Убивать их, в конце концов? Эти существа родом отсюда, и мы вторгаемся в их пространство.
-§7[3/7] §2Lari: §aWhy should they be attacked for merely defending their territory? Even if they are simply animals, I believe that you can solve these problems without killing.@§7[3/7] §2Лари: §aПочему на них нападают только за то, что они защищают свою территорию? Даже если они просто животные, я верю, что мы сможем решить эту проблему, не убивая их.
+§7[2/7] §2Lari: §aI...do§a not believe we need to fight, or to kill, here? The creatures are native to here, we are invading their space.@§7[2/7] §2Лари: §aЯ...не считаю, что мы должны бороться или убивать их, в конце концов. Эти существа родом отсюда, и мы вторгаемся в их пространство.
+§7[3/7] §2Lari: §aWhy should they be attacked for merely existing in their territory? Even if they are animals, I believe that you can solve these problems without killing.@§7[3/7] §2Лари: §aПочему на них нападают только за то, что они обитают на своей территории? Даже если они просто животные, я верю, что мы сможем решить эту проблему, не убивая их.
 §7[4/7] §2Lari: §aI...understand§a you may not have the same powers as myself... And I, §aah...am§a not free of guilt, either. But I think you could stand to take a peaceful stance.@§7[4/7] §2Лари: §aЯ ... понимаю, что ты, возможно, не обладаешь такими же способностями, как я... И я, эм... не освобождаю себя от чувства вины. Но думаю, что мы могли бы занять мирную позицию.
 §7[5/7] §2Lari: §aEven if I am alone on that §afront...though§a I understand you are taught differently where you come from. I do not envy you, though I still thank you for your aid thusfar.@§7[5/7] §2Лари: §aДаже если я одна на этом фронте...хотя понимаю, что там, откуда ты пришел, вас учат по-другому. Я вам не завидую, хотя до сих пор благодарю тебя за помощь.
 §7[6/7] §2Lari: §aYour methods §aare...disagreeable§a, but you still have a sense of right to you, I feel... Well, the tunnel diverges here. We'll need to split apart.@§7[6/7] §2Лари: §aВаши методы ... неприятны, но у вас есть чувство права на это, я думаю... Что же, здесь туннель расходится. Нам нужно разделиться.
 §7[7/7] §2Lari: §aI'll go to the right, so you ought to §bcontinue to the left §ahere. I will meet up with you again soon, hopefully.@§7[7/7] §2Лари: §aЯ пойду направо, так что ты должен §bпродолжать идти налево§a. Надеюсь, мы скоро снова встретимся.
-§7[2/12] §2Lari: §aThe Grootslang is aggressive... She's scared, being so close to the surface. Stay behind me, please.@§7[2/12] §2Лари: §aГрутсланг агрессивен... Ей страшно находиться так близко к поверхности. Оставайся позади меня, пожалуйста.
+§7[2/12] §2Lari: §aThis Grootslang is uncharacteristically aggressive... She's scared, being so close to the surface. Stay behind me, please.@§7[2/12] §2Лари: §aЭтот Грутсланг нехарактерно агрессивен... Ей страшно находиться так близко к поверхности. Оставайся позади меня, пожалуйста.
 §7[3/12] §2Lari: §aAH! ⓒⓞⓢⓐⓘⓝ!@§7[3/12] §2Лари: §aАХ! ⓒⓞⓢⓐⓘⓝ!
 §7[4/12] §2Lari: §aDo not approach it! The power of the Wyrm is far too much for you!@§7[4/12] §2Лари: §aНе приближайся к ней! Сила матери слишком велика для тебя!
 §7[5/12] §2Lari: §aW-wait, again? ⓒⓞ-ⓒⓞⓢⓐ- Aah, MOVE!@§7[5/12] §2Лари: §aПодожди, снова? ⓒⓞ-ⓒⓞⓢⓐ- Аах, ДВИГАЙСЯ!
@@ -57,10 +57,10 @@
 §7[12/16] §2Lari: §aI n-need... Or... O-Or... C-Concentrate, Lari... You can do this...@§7[12/16] §2Лари: §aМне н-нужно ... Ос... Со-ср... С-Сосредоточься, Лари... Ты можешь это сделать...
 §7[13/16] §2Lari: §aⓑⓔⓐⓣⓗⓐⓒⓗ ⓜⓞⓡ ⓢⓞⓛⓐⓘⓢ! ⓓⓔⓐⓝ ⓘⓞⓝ ⓐⓝ ⓐⓝⓐⓜ ⓣⓤⓘⓡⓢⓔⓐⓒⓗ ⓢⓔⓞ!@§7[13/16] §2Лари: §aⓑⓔⓐⓣⓗⓐⓒⓗ ⓜⓞⓡ ⓢⓞⓛⓐⓘⓢ! ⓓⓔⓐⓝ ⓘⓞⓝ ⓐⓝ ⓐⓝⓐⓜ ⓣⓤⓘⓡⓢⓔⓐⓒⓗ ⓢⓔⓞ!
 §7[14/16] §2Lari: §aLET US OUT! LET US OUT OF HERE! DON'T LET US DIE LIKE THIS! I'M BEGGING YOU, PLEASE!!@§7[14/16] §2Лари: §aВЫПУСТИ НАС! ВЫПУСТИ НАС ОТСЮДА! НЕ ДАЙ НАМ ТАК УМЕРЕТЬ! Я УМОЛЯЮ ТЕБЯ, ПОЖАЛУЙСТА!!
-§7[15/16] §2Lari: §a...I...oh§a no... It... I... I j-just... I just w-wanted out... Ohhh...n-no...@§7[15/16] §2Лари: §a...Я...О Нет... это... я... я п-просто... Я просто х-хотела уйти... Оххх...н-нет...
+§7[15/16] §2Lari: §a...I...oh§a no... It's...d-d... I... I j-just... I just w-wanted out... Ohhh...n-no...@§7[15/16] §2Лари: §a...Я...О Нет... это... я... я п-просто... Я просто х-хотела уйти... Оххх...н-нет...
 §7[16/16] §2Lari: §a...w-we'§are...leaving§a. I...I c-can't look at this any more...@§7[16/16] §2Лари: §a...м-мы...уходим. Я ... я больше не могу на это смотреть...
 §7[1/5] §2Lari: §a...I... That's...m-my fault...@§7[1/5] §2Лари: §a...Я...Это...м-моя вина...
-§7[3/5] §2Lari: §aThere... There had to have been something else I could have done that would've stopped all that before it ever happened! There had to be!!@§7[3/5] §2Лари: §aТам... Должно же было быть что-то еще, что я могла бы сделать, что остановило бы все это еще до того, как это случилось! Должно было быть!!
+§7[3/5] §2Lari: §aThere...it§a didn’t feel like there §awas...anything§a left to it... But, if I’d just been quicker, then... Would §ait...would§a it even have made a difference?@§7[3/5] §2Лари: §aТам ...не было ощущения, что там...можно было сделать что-то еще... Но, если бы я только была быстрее, тогда ... .. Разве это...разве это что-то изменило бы?
 §7[4/5] §2Lari: §a...some§a savior I am... I need to be better, but what else even is there §athat...ugh§a, I'm going in circles...@§7[4/5] §2Лари: §a..какой из меня спаситель... мне нужно быть лучше, но что еще я могу сделать...тьфу, я хожу кругами...
 §7[5/5] §2Lari: §aLet's... Let's just leave...@§7[5/5] §2Лари: §aДавай... Давай просто уйдем...
 §7[1/6] §2Lari: §a...I...I can't believe this. This §ais...does§a destiny just hate me? What have I done to deserve this?!@§7[1/6] §2Лари: §a...Я ... я не могу в это поверить. Это... судьба просто ненавидит меня? Что я сделала, чтобы заслужить это?!
@@ -74,3 +74,10 @@
 §7[1/1] §2Malo: §aHurry check the holes around here for the things I asked.@§7[1/1] §2Мало: §aПоспеши проверить дыры здесь на предмет того, что я просил.
 §7[1/1] §2Malo: §aThose young Grootslangs must be out there still...@§7[1/1] §2Мало: §aЭти молодые Грутсланги должны быть еще там...
 §7[1/1] §2Malo: §aHowdy friend. Sorry but this is a military operation, come back at level 54!@§7[1/1] §2Мало: §aПривет друг. Извини, но это военная операция, вернись на 54 уровне!
+§7[1/8] §2Lari: §a...Haven’t§a we met? I have witnessed your presence in Gavel more than once.@§7[1/8] §2Лари: §a...Разве мы не встречались? Я не раз была свидетелем твоего присутствия в Гавеле.
+§7[1/1] §2Lari: §aDon't leave my side!@§7[1/1] §2Лари: §aНе уходи с моей стороны!
+§7[1/1] §2Lari: §aDon't go jumping off like that, use my magical helix to get down.@§7[1/1] §2Лари: §aНе прыгай так, используй мою магическую спираль, чтобы спуститься.
+§7[2/5] §2Lari: §aI... had to@§7[2/5] §2Лари: §aЯ... должна
+§7[5/5] §2Lari: §aLet's... just see where this tunnel goes.@§7[5/5] §2Лари: §aДавай... просто посмотрим, куда ведет этот туннель.
+§7[3/5] §2Lari: §aI know the Grootslang would cause more harm. But... still.@§7[3/5] §2Лари: §aЯ знаю, что Грутсланг причинит больше вреда. Но... все же.
+§7[4/5] §2Lari: §aMy power wasn't gifted to me for things like this!@§7[4/5] §2Лари: §aМоя сила не была дарована мне для таких вещей!

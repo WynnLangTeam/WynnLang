@@ -73,11 +73,11 @@
 §7[4/5] §2Dr. Picard: §aWait for it...@§7[4/5] §2Др. Пикард: §aСекунду...
 §7[5/5] §2Sailor Caid: §aHold up. What is going on?@§7[5/5] §2Моряк Каид: §aПодождите. Что происходит?
 §7[1/7] §2???: §aAHHH!!!!!@§7[1/7] §2???: §aАХХХ!!!!!
-§7[2/7] §2Imperial Guard §aMove.@§7[2/7] §2Имперский Страж: §aДвигай.
-§7[3/7] §2Caid §aCARA! @§7[3/7] §2Каид: §aКАРА!
+§7[2/7] §2Imperial Guard: §aMove.@§7[2/7] §2Имперский Страж: §aДвигай.
+§7[3/7] §2Caid: §aCARA! @§7[3/7] §2Каид: §aКАРА!
 §7[4/7] §2Imperial Guard: §aCara is under arrest. She is coming with me.@§7[4/7] §2Имперский Страж: §aКара арестована. Она пойдет с нами.
 §7[5/7] §2Caid: §aGET YOUR HANDS OFF OF HER!@§7[5/7] §2Каид: §aУБЕРИТЕ ОТ НЕЕ СВОИ РУКИ!
-§7[6/7] §2Imperial Guard §aPerhaps you would like to go in her place? @§7[6/7] §2Имперский Страж: §aВозможно ты хочешь пойти вместо нее?
+§7[6/7] §2Imperial Guard: §aPerhaps you would like to go in her place? @§7[6/7] §2Имперский Страж: §aВозможно ты хочешь пойти вместо нее?
 §7[7/7] §2Dr. Picard: §aHey. Earth to human.@§7[7/7] §2Др. Пикард: §aЭй, вернись на землю.
 §7[1/4] §2Dr. Picard: §aHmmm... This doesn't look too good.@§7[1/4] §2Др. Пикард: §aХммм... Это выглядит не слишком хорошо.
 §7[2/4] §2Dr. Picard: §aJust what is happening in Fruma? They've locked that province away for hundreds and hundreds of years and now this?@§7[2/4] §2Др. Пикард: §aЧто же происходит во Фруме? Эта провинция закрылась на сотни лет, а теперь еще и это?
@@ -103,7 +103,7 @@
 §7[6/23] §2Caid: §aThere is no escape here. The guards come in once in a while and take people... people who are never seen again...@§7[6/23] §2Каид: §aОтсюда нет спасения. Время от времени приходят охранники и забирают людей... людей, которых больше никогда не увидят...
 §7[7/23] §2Edwin: §aWhere are they being taken?@§7[7/23] §2Эдвин: §aКуда их везут?
 §7[8/23] §2Caid: §aNo one knows... The last person they took was... Alen? Alida? Alegar?@§7[8/23] §2Каид: §aНикто не знает... Последний человек, которого они взяли, был... Ален? Алида? Алегар?
-§7[9/23] §2Imperial Guard: §aCaid! You are being transfered.@§7[9/23] §2Имперский Страж: §aКаид! Тебя переводят в другое место.
+§7[9/23] §2Imperial Guard: §aCaid! You are being transferred.@§7[9/23] §2Имперский Страж: §aКаид! Тебя переводят в другое место.
 §7[10/23] §2Caid: §aWh-what. I... don't want to go!@§7[10/23] §2Каид: §aЧ-что. Я... не хочу идти!
 §7[11/23] §2Imperial Guard: §aWalk. Or you will be executed on the spot.@§7[11/23] §2Имперский Страж: §aДвигай. Или тебя казнят на месте.
 §7[12/23] §2Caid: §aWhat are you doing!?@§7[12/23] §2Каид: §aЧто вы делаете!?

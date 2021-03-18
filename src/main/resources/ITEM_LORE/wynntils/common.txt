@@ -1,4 +1,4 @@
-§7Right click to track@§7Правый клик для отслеживания
+§d§lRIGHT-CLICK TO TRACK@§d§lПРАВЫЙ КЛИК ДЛЯ ОТСЛЕЖИВАНИЯ
 §a-§7 Length: §fShort@§a-§7 Длительность: §fКороткий
 §a-§7 Length: §fMedium@§a-§7 Длительность: §fСредний
 §a-§7 Length: §fLong@§a-§7 Длительность: §fДлинный
@@ -84,8 +84,7 @@
 §3take fall damage@§3урон от падений
 §3significantly faster@§3значительно быстрее
 §3§b+Hawkeye: §3Arrow storm fires@§3§b+Hawkeye: §3Шторм Стрел выстреливает
-§35 arrows each dealing 120%@§35 стрелами, каждая наносит 120%
-§3damage@§3урона
+§35 arrows each dealing 80% damage@§35 стрелами, каждая наносит 80% урона
 §3§b+Sorcery: §330% chance for@§3§b+Sorcery: §330% шанс, что
 §3spells and attacks to cast@§3заклинания и атаки будут кастоваться
 §3a second time at no additional@§3второй раз без использования
@@ -93,6 +92,8 @@
 §3§b+Plague: §3Poisoned mobs@§3§b+Plague: §3Отравленные мобы
 §3spread 70% of their poison@§3распространяют 70% от своего яда
 §3to nearby mobs@§3на других мобов
+§3spread their poison to nearby@§3распространяют свой яд
+§3mobs@§3на других мобов
 §3§b+Transcendence: §350% chance@§3§b+Transcendence: §350% шанс на
 §3for spells to cost no mana@§3каст заклинания без использования
 §3when casted@§3маны
@@ -114,3 +115,10 @@
 §3Bombs explodes instantly on@§3бомбы взрываются мгновенно при
 §3contact, dealing 110% damage@§3контакте, нанося 110% урона
 §3each@§3каждая
+§3§b+Freerunner: §3Double your@§3§b+Freerunner: §3Удваивает твою
+§3sprint speed when your sprint@§3скорость спринта когда твой спринт
+§3bar is under 30%@§3бар становится ниже 30%
+§3§b+Rally: §3Charge heals you@§3§b+Rally: §3Рывок лечит тебя
+§3by 10% and nearby allies by@§3на 10% и ближайших союзников на
+§315% on impact, but becomes@§315% при ударе, но становится
+§3harmless@§3безвредным

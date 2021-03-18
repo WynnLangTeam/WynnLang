@@ -1,6 +1,6 @@
 §7[1/3] §2Wirt: §aNot so fast, you!@§7[1/3] §2Вирт: §aНе так быстро, ты!
 §7[2/3] §2Wirt: §aMy dad said I can't let any strangers through this passage!@§7[2/3] §2Вирт: §aМой отец сказал не пускать посторонних в этот проход!
-§7[3/3] §2Wirt: §aIf you want access, talk to him, he's the recruiter of the town! His name is Ildan. He's just southwest of here.@§7[3/3] §2Вирт: §aЕсли хочешь пройти, поговори с ним, он наниматель в этом городе! Его зовут Илдан. Он находится к юго-западу отсюда.
+§7[3/3] §2Wirt: §aIf you want access, talk to him, he's the recruiter of the town! His name is Ildan. §bHe's just southwest of here.@§7[3/3] §2Вирт: §aЕсли хочешь пройти, поговори с ним, он наниматель в этом городе! Его зовут Илдан. §bОн находится к юго-западу отсюда.
 §7[1/10] §2Ildan: §aOh! So you want to become a member of this town?@§7[1/10] §2Илдан: §aОх! Значит ты хочешь стать жителем города?
 §7[2/10] §2Ildan: §aYou will have to help us first, of course!@§7[2/10] §2Илдан: §aТы должен помочь нам, для начала!
 §7[3/10] §2Ildan: §aI'm sure you've noticed, but there is a tribe camp not far from here.@§7[3/10] §2Илдан: §aДумаю ты заметил, что недалеко от нас есть лагерь одного племени.
@@ -8,7 +8,7 @@
 §7[5/10] §2Ildan: §aThe tribe couldn't bear the fact that he was dead. They performed some unethical necromancy spell on him.@§7[5/10] §2Илдан: §aПлемя не смогло смириться с его утратой. И они решили воскресить его с помощью черной магии.
 §7[6/10] §2Ildan: §aThey quickly realised that it was a bad idea, so they locked him in a tomb.@§7[6/10] §2Илдан: §aНо быстро осознав, что это было большой ошибкой, они запечатали его в гробнице.
 §7[7/10] §2Ildan: §aHe keeps reviving his minions and it's causing quite some problems to our army.@§7[7/10] §2Илдан: §aОн продолжает призывать своих миньонов, и они создают проблемы для нашей армии.
-§7[8/10] §2Ildan: §aYou can access the tomb from a sacrificial shrine, I've heard, but I'm not sure how. There are probably hints nearby the shrine.@§7[8/10] §2Илдан: §aГоворят, что к нему можно попасть в гробницу через храм жертвоприношений, но я не знаю как. Возможно, ты найдешь подсказки возле самого алтаря.
+§7[8/10] §2Ildan: §aYou can access the tomb §bfrom a sacrificial shrine, §aI've heard, but I'm not sure how. There are probably §bhints nearby the shrine.@§7[8/10] §2Илдан: §aГоворят, что к нему можно попасть в гробницу §bчерез алтарь жертвоприношений§a, но я не знаю как. Возможно, ты найдешь подсказки §bвозле самого алтаря.
 §7[9/10] §2Ildan: §aBring me back §3[1 Antic Bead] §aas a proof of its death, and I will let you become a citizen.@§7[9/10] §2Илдан: §aПринеси мне §3[1 Древние бусы]§a в качестве доказательства его смерти, и тогда я позволю тебе стать жителем города.
 §7[10/10] §2Ildan: §aI've marked the direction to the shrine in your book. Remember, there should be hints right nearby the shrine. Good luck.@§7[10/10] §2Илдан: §aЯ написал координаты в твоей квестовой книге. Помни, что подсказки должны быть прямо рядом со святыней. Удачи.
 §7[1/8] §2Ildan: §aImpressive! You got the bead!@§7[1/8] §2Илдан: §aВеликолепно, ты принес бусы!

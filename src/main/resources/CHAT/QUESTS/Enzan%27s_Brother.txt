@@ -9,13 +9,13 @@
 §7[4/6] §2Therck: §aBut before I give it to you, why don't you help me with something first?@§7[4/6] §2Терк: §aНо прежде чем я отдам его тебе, почему бы тебе сначала не помочь мне кое с чем?
 §7[5/6] §2Therck: §aYou see, there's a special kind of mushroom that grows in this cave. I hear it has certain... energizing properties.@§7[5/6] §2Терк: §aВидишь ли, в этой пещере растет особый вид грибов. Слышал, что у него есть определенные... тонизирующие свойства.
 §7[6/6] §2Therck: §aIf you can bring me §3[1 Energy Mushroom]§a, I'll help you out. §bEnter the cave down the stairs, and bring me that mushroom!@§7[6/6] §2Терк: §aЕсли ты принесешь мне §3[1 Энергетический Гриб]§a, я помогу тебе. §bВойди в пещеру под лестницами и принеси мне гриб!
-§7[1/8] §2Therck: §aAh, you're back! Do you have the mushroom?@§7[1/7] §2Терк: §aОх, ты вернулся! Гриб у тебя?
-§7[2/8] §2Therck: §aExcellent... Now I might finally be able to climb these stairs!@§7[2/7] §2Терк: §aОтлично... Наконец-то я смогу забраться на эти лестницы!
-§7[3/8] §2Therck: §aWho knows, maybe there's a treasure up there?@§7[3/7] §2Терк: §aКто знает, может там наверху есть сокровища?
-§7[4/8] §2Therck: §aTake this ring. It's an accessory item! You can §bidentify it at the nearby Item Identifier§a.@§7[4/7] §2Терк: §aВозьми это кольцо. Это аксессуар! Ты можешь §bидентифицировать его у ближайшего идентификатора предметов§a.
-§7[5/8] §2Therck: §aIt's a very good ring for someone starting out like you. There's just one small issue...@§7[5/7] §2Терк: §aЭто очень хорошее кольцо для такого новичка, как ты. Есть только одна маленькая проблема...
-§7[7/8] §2Therck: §aTo wear it, you must help my friend back in Ragni. He's been pestering me for days about needing help.@§7[6/7] §2Терк: §aЧтобы носить его, ты должен помочь моему другу в Рагни. Он уже несколько дней пристает ко мне с просьбой о помощи.
-§7[8/8] §2Therck: §aOpen your §3[Quest Book]§a and §3Right-Click on Cook Assistant§a to see if you can help.@§7[7/7] §2Терк: §aОткрой свою §3[Квестовую Книгу]§a и нажми §3Правым Кликом на Cook Assistant§a чтобы посмотреть, сможешь ли ты помочь.
+§7[1/7] §2Therck: §aAh, you're back! Do you have the mushroom?@§7[1/7] §2Терк: §aОх, ты вернулся! Гриб у тебя?
+§7[2/7] §2Therck: §aExcellent... Now I might finally be able to climb these stairs!@§7[2/7] §2Терк: §aОтлично... Наконец-то я смогу забраться на эти лестницы!
+§7[3/7] §2Therck: §aWho knows, maybe there's a treasure up there?@§7[3/7] §2Терк: §aКто знает, может там наверху есть сокровища?
+§7[4/7] §2Therck: §aTake this ring. It's an accessory item! You can §bidentify it at the nearby Item Identifier§a.@§7[4/7] §2Терк: §aВозьми это кольцо. Это аксессуар! Ты можешь §bидентифицировать его у ближайшего идентификатора предметов§a.
+§7[5/7] §2Therck: §aIt's a very good ring for someone starting out like you. There's just one small issue...@§7[5/7] §2Терк: §aЭто очень хорошее кольцо для такого новичка, как ты. Есть только одна маленькая проблема...
+§7[6/7] §2Therck: §aTo wear it, you must help my friend back in Ragni. He's been pestering me for days about needing help.@§7[6/7] §2Терк: §aЧтобы носить его, ты должен помочь моему другу в Рагни. Он уже несколько дней пристает ко мне с просьбой о помощи.
+§7[7/7] §2Therck: §aOpen your §3[Quest Book]§a and §3Right-Click on Cook Assistant§a to see if you can help.@§7[7/7] §2Терк: §aОткрой свою §3[Квестовую Книгу]§a и нажми §3Правым Кликом на Cook Assistant§a чтобы посмотреть, сможешь ли ты помочь.
 
 §7[1/1] §2Enzan: §aWhat are you doing?@§7[1/1] §2Энзан: §aЧто ты делаешь?
 §7[1/1] §2Enzan: §aHey there! Still doing well after all this time?@§7[1/1] §2Энзан: §aПривет! У тебя все хорошо после стольких лет?
@@ -26,3 +26,12 @@
 §7[2/2] §2Therck: §aNo? Then what are you waiting for, §bgo back into that cave§a!@§7[2/2] §2Терк: §aНет? Тогда чего ты ждешь, §bиди обратно в ту пещеру§a!
 §7[1/2] §2Enzan: §aWhat are you waiting for?@§7[1/2] §2Энзан: §aЧего ты ждешь?
 §7[2/2] §2Enzan: §aMy brother shouldn't be hard to find, he's §a§oobsessed§a with stairs. He should be near the item identifier.@§7[2/2] §2Энзан: §aМоего брата будет не трудно найти, он §a§oодержим§a лестницами. Он должен быть рядом с идентификатором предметов.
+
+
+
+
+
+
+
+
+

@@ -154,16 +154,16 @@
 §7[2/15] §2Lari: §aH...h-hrk...g-gah, what §ais...wh-what..§a. §aYou...you§a didn't really...?@§7[2/15] §2Лари: §aЧ...чт, что это...ч-что... ты...ты на самом деле...?
 §7[3/15] §2Lari: §aTh-there's so much death... §aThe...the§a air smells like b-blood...@§7[3/15] §2Лари: §aТут так много смертей... В...в воздухе пахнет к-кровью...
 §7[4/15] §2Lari: §aThis isn't... There has to be s-some other reason, I... I can't have b-brought back a...a...@§7[4/15] §2Лари: §aЭто не так... Должна быть какая-то другая причина, я... я не могла в-вернуть...
+§7[5/15] §2Gelibord Citizen: §aP-Please, we can't afford to lose more people! There's hardly any farmers in the fields anymore, I-I'm needed elsewhere!@§7[5/15] §2Житель Гелиборда: §aП-Пожалуйста, мы не можем позволить себе потерять еще больше людей! На полях уже почти нет фермеров, я...я нужен в другом месте!
+§7[6/15] §2Dullahan: §aThe last few said similar things. Someone else I knew said similar things. Frankly, I do not care. Present your soul to me, now.@§7[6/15] §2Дуллахан: §aПоследние несколько говорили то же самое. Кое-кто из моих знакомых говорил то же самое. Честно говоря, мне все равно. А теперь предоставь мне свою душу.
+§7[7/15] §2Lari: §aDULLAHAN! What...w-what are you doing?! I... I can't believe my eyes...@§7[7/15] §2Лари: §aДУЛЛАХАН! Что...ч-что ты делаешь?! Я... Я не могу поверить своим глазам...
+§7[8/15] §2Lari: §aI... I tried to help you! I t-tried so hard at everything we did together... How could you do this to them?! §aTo...to§a me?@§7[8/15] §2Лари: §aЯ... я пыталась помочь тебе! Я так старалась во всем, что мы делали вместе... Как ты мог так с ними поступить?! Со...со мной?
+§7[9/15] §2Dullahan: §aOdd. I recall you explicitly denying the only option that would have prevented this. I warned you quite thoroughly.@§7[9/15] §2Дуллахан: §aСтранно. Помню, что ты прямо отрицала единственный вариант, который мог бы предотвратить это. Я предупреждал тебя очень тщательно.
+§7[10/15] §2Dullahan: §aYou have had many chances to end this, Lari. Do you expect me to feel sympathy, when your own actions have made me feel nothing?@§7[10/15] §2Дуллахан: §aУ тебя было много шансов покончить с этим, Лари. Неужели ты ждешь от меня сочувствия, когда твои собственные действия заставили меня ничего не чувствовать?
+§7[11/15] §2Lari: §aThis...this§a isn't like you... You would never have done this before! You dedicated your life to trying to §ahelp...so§a w-why are you...m...m-m... I-I'm leaving!!@§7[11/15] §2Лари: §aЭто...это на тебя не похоже... Ты бы никогда не сделал этого раньше! Ты посвятил свою жизнь тому, чтобы попытаться помочь...п-почему ты...я-я-я... Я ...я ухожу!!
+§7[12/15] §2Lari: §aWhat have I done...? §aThis...he's..§a. He's not th-the same anymore... What changed? Is this my fault...? I c-can't understand it...@§7[12/15] §2Лари: §aЧто я наделала?.. Это...не... Он уже не тот, что прежде... Что изменилось? Разве это моя вина? .. Я н-не могу этого понять...
+§7[13/15] §2Lari: §a...but...I'll..§a. I'll protect them. I'll protect him... §aI...there§a has to be a way. §aBut...until§a I find it...@§7[13/15] §2Лари: §a... но...я так и сделаю... Я буду их защищать. Я буду защищать его... Я...должен быть способ. Но...пока не найду...
+§7[14/15] §2Lari: §a...goodbye§a. Goodbye until the day comes when I can fill you with light once more. Goodbye until you learn... Goodbye, until I can fix you...@§7[14/15] §2Лари: §a...прощай. Прощай, пока не наступит день, когда я смогу снова наполнить тебя светом. Прощай, пока не научишься... Прощай, пока я не смогу тебя вылечить...
+§7[15/15] §2Lari: §aGoodbye, Dullahan... I'll miss you.@§7[15/15] §2Лари: §aПрощай, Дуллахан... Я буду скучать по тебе.
 
-
-§7[] §2Gelibord Citizen: §aPlease! Sir Dullahan, we don't have more money! The decay is ruining our economy!@§7[1/] §2Житель Гелиборда: §aПожалуйста! Сэр Дуллахан, у нас больше нет денег! Заражение разрушает нашу экономику!
-§7[] §2Dullahan: §aDid I ask... for an explanation, get me... my money.@§7[1/5] §2Дуллахан: §aРазве я просил... объяснение.. давай мне... мои деньги.
-§7[] §2Lari: §aDu-dullahan? The rumours... were true?@§7[3/] §2Лари: §aДу-дуллахан? Слухи... были правдой?
-§7[] §2Lari: §aI brought you back! I did so much for you! Everyone was telling me you were gone... You told me you needed time!@§7[3/] §2Лари: §aЯ вернула тебя! Я так много для тебя сделала! Все говорили мне, что ты ушел... Ты же говорил, что тебе нужно время!
-§7[] §2Dullahan: §aI am fine...@§7[1/5] §2Дуллахан: §aЯ в порядке...
-§7[] §2Lari: §aYou have murdered citizens of the city! For what!? Revenge?@§7[3/] §2Лари: §aТы убил жителей города! Ради чего?! Мести?
-§7[] §2Lari: §aLives aren't things to play with! I can't... I can't have this on my conscious! Bye Dullahan.@§7[3/] §2Лари: §aЖизнь - это не то, с чем можно играть! Не могу... Я не могу допустить этого в своем сознании! Прощай, Дуллахан.
-§7[] §2Lari: §aWhat have I done..?@§7[3/] §2Лари: §aЧто я наделала...?
-§7[] §2Lari: §aDullahan... He is gone. This isn't him! I need to do something.@§7[3/] §2Лари: §aДуллахан... Он ушел. Это не он! Мне нужно что-то сделать.
-§7[] §2Lari: §aBye Dullahan. I can't kill you, but this spell will not let you hurt anyone else...@§7[3/] §2Лари: §aПрощай, Дуллахан. Я не могу убить тебя, но это заклинание не позволит тебе причинить вред кому-либо еще...
-§7[] §2Lari: §aI miss you.@§7[3/] §2Лари: §aЯ буду скучать по тебе.
+§7[1/1] §2Referick: §aI knew it! That conniving, wretched Elf has been alive this entire time! If Dullahan isn't stopped, he'll enslave every last one of us!@§7[1/1] §2Реферик: §aЯ так и знал! Этот коварный, жалкий Эльф был жив все это время! Если Дуллахана не остановить, он поработит каждого из нас!

@@ -4,7 +4,7 @@
 §7[1/5] §2Olivin: §aMo'in! My name is Olivin.@§7[1/5] §2Оливин: §aСалют! Меня зовут Оливин.
 §7[2/5] §2Olivin: §aDoes my appearance intrigue you?@§7[2/5] §2Оливин: §aТебя заинтриговал мой внешний вид?
 §7[3/5] §2Olivin: §aI'm not from around here. In fact I am from Corkus.@§7[3/5] §2Оливин: §aВообще-то я не местный. Я из Коркуса.
-§7[4/5] §2Olivin: §aIt's an independant island to the west. In fact.. If you want to go...@§7[4/5] §2Оливин: §aЭто независимый остров на западе. По идее... Если хочешь туда съездить...
+§7[4/5] §2Olivin: §aIt's an independant island to the west. In fact... If you want to go...@§7[4/5] §2Оливин: §aЭто независимый остров на западе. По идее... Если хочешь туда съездить...
 §7[5/5] §2Olivin: §aWe're looking for Wynn representatives. Head to the C.S.S Wavebreaker down at the dock if you want to experience Corkus. Enjoy Corkus if you go!@§7[5/5] §2Оливин: §aНам нужны представители провинции Винн. Иди к К.С.С Волнорезу, что стоит в доках, если хочешь опробовать Коркус. Насладись им, если решишься поехать!
 §7[1/5] §2C.S.S Wavebreaker Captain: §aWelcam aboard me ship, I'll bring ye directly to Corkus.@§7[1/5] §2Капитан К.С.С Волнореза: §aПриветствую на борту моего корабля, я доставлю тебя прямо в Коркус.
 §7[2/5] §2C.S.S Wavebreaker Captain: §aTrust me, it is fa' more amazin than Gavel and Wynn. We even 'ave machines!@§7[2/5] §2Капитан К.С.С Волнореза: §aПоверь мне, он в разы удивительней Винна и Гавела. У нас даже есть роботы!
@@ -18,7 +18,7 @@
 §7[5/20] §2Corkus Delegate: §aThe Corkians, like you, are from Fruma originally... @§7[5/20] §2Делегат Коркуса: §aЖители Коркуса, как и ты, когда-то прибыли из провинции Фрума...
 §7[6/20] §2Corkus Delegate: §a...But§a let's not talk about that.@§7[6/20] §2Делегат Коркуса: §a...Но давай не будем говорить об этом.
 §7[7/20] §2Corkus Delegate: §aComing from Fruma, we of course knew no magic at all.@§7[7/20] §2Делегат Коркуса: §aКогда мы пришли из Фрумы, мы вообще не знали магию.
-§7[8/20] §2Corkus Delegate: §aWe soon developed our own. The rare power of Electromagic.@§7[8/20] §2Делегат Коркуса: §aНо вскоре мы изобрели свою собственную. Редкая сила под названием 'Электромагия'.
+§7[8/20] §2Corkus Delegate: §aWe soon developed our own. The rare power of §bElectromagic§a.@§7[8/20] §2Делегат Коркуса: §aНо вскоре мы изобрели свою собственную. Редкая сила под названием §bЭлектромагия§a.
 §7[9/20] §2Corkus Delegate: §aIt's a difficult modern branch of magic that allows us to create machines.@§7[9/20] §2Делегат Коркуса: §aЭто очень сложный современный вид магии, которая позволяет нам создавать роботов.
 §7[10/20] §2Corkus Delegate: §aAh, here already. Welcome to Corkus City, Capital of our island.@§7[10/20] §2Делегат Коркуса: §aО, мы уже пришли. Добро пожаловать в Коркус Сити, столицу нашего острова.
 §7[11/20] §2Corkus Delegate: §aWe've come a long way in a short time.@§7[11/20] §2Делегат Коркуса: §aМы достаточно сильно развились за все то время, что были здесь.
@@ -33,44 +33,44 @@
 §7[20/20] §2Corkus Delegate: §aGo through the western gate and head to the diner for your free feast. Enjoy!@§7[20/20] §2Делегат Коркуса: §aПройди через западные ворота и направляйся в столовую для бесплатного обеда. Наслаждайся!
 §7[1/2] §2Corkus Citizen: §aRUN!@§7[1/2] §2Житель Коркуса: §aБЕГИ!
 §7[2/2] §2Corkus Citizen: §aMechs at the Diner! Run!@§7[2/2] §2Житель Коркуса: §aРоботы в столовой! Беги!
-§7[1/4] §2Maxie: §aPst. You. Over here, behind the logs.@§7[1/4] §2Макси: §aПст. Ты. Сюда, за бревна.
-§7[2/4] §2Maxie: §aMo'in, Wynnian. Thank goodness I stopped you.@§7[2/4] §2Макси: §aСалют, житель из Винн. Слава богу я остановил тебя.
-§7[3/4] §2Maxie: §aThe diner is being raided by mechs..@§7[3/4] §2Макси: §aСтоловая была захвачена роботами...
-§7[4/4] §2Maxie: §aBefore we do anything, I have to explain what's happening here...@§7[4/4] §2Макси: §aПрежде чем мы что-то сделаем, я должен объяснить тебе, что здесь происходит...
-§7[1/1] §2Maxie: §aMy name is Maxie by the way. Nice to meet you.@§7[1/1] §2Макси: §aМеня, кстати, зовут Макси. Приятно познакомиться.
-§7[1/8] §2Maxie: §aThis town is usually full of life.@§7[1/8] §2Макси: §aЭтот город, обычно, полон жизни.
+§7[1/4] §2Maxie: §aPsst! You! Over here, behind the logs!@§7[1/4] §2Макси: §aПст! Ты! Сюда, за бревна.
+§7[2/4] §2Maxie: §aMo'in, Wynnian. Thank goodness I stopped you!@§7[2/4] §2Макси: §aСалют, житель из Винн. Слава богу я остановил тебя.
+§7[3/4] §2Maxie: §aThe diner is being raided by mechs...@§7[3/4] §2Макси: §aСтоловая была захвачена роботами...
+§7[4/4] §2Maxie: §aYou don't know, huh? Of course you don't. Let me explain.@§7[4/4] §2Макси: §aТы не знал, верно? Конечно ты не знал. Позволь мне объяснить.
+§7[1/1] §2Maxie: §aThe name's Maxie by the way. Nice to meet you.@§7[1/1] §2Макси: §aМеня, кстати, зовут Макси. Приятно познакомиться.
+§7[1/8] §2Maxie: §aThis town is usually full of life...@§7[1/8] §2Макси: §aЭтот город, обычно, полон жизни...
 §7[2/8] §2Maxie: §aBut Corkus has a secret...@§7[2/8] §2Макси: §aНо в Коркусе есть секрет...
 §7[3/8] §2Maxie: §aOur own creations have rebelled against us.@§7[3/8] §2Макси: §aНаши собственные создания восстали против нас.
 §7[4/8] §2Maxie: §aThey now raid towns for parts.@§7[4/8] §2Макси: §aТеперь они захватывают города, чтобы получить запчасти.
 §7[5/8] §2Maxie: §aMechs are getting increasingly more desperate.@§7[5/8] §2Макси: §aК сожалению, роботы становятся все более и более безумнее.
 §7[6/8] §2Maxie: §aEven in rust, they are still powerful.@§7[6/8] §2Макси: §aДаже проржавев, они все еще сильны.
 §7[7/8] §2Maxie: §aWe have tried to remove them but the factory always makes more.@§7[7/8] §2Макси: §aМы пытались уничтожать их, но фабрика делает все больше и больше.
-§7[8/8] §2Maxie: §aIt is Corkus’s greatest failure. It must be stopped.@§7[8/8] §2Макси: §aЭто самая большая ошибка Коркуса. Надо это остановить.
+§7[8/8] §2Maxie: §aIt is Corkus' greatest failure. It must be stopped.@§7[8/8] §2Макси: §aЭто самая большая ошибка Коркуса. Надо это остановить.
 §7[1/3] §2Maxie: §aWe need to act now.@§7[1/3] §2Макси: §aМы должны действовать, сейчас же.
 §7[2/3] §2Maxie: §aI can try to open the vent to sneak in.@§7[2/3] §2Макси: §aЯ могу попробовать открыть вентиляцию, чтобы пробраться внутрь.
-§7[3/3] §2Maxie: §aI know you are a stranger, but talk to me if you want to help.@§7[3/3] §2Макси: §aЗнаю что ты незнакомец, но ты можешь поговорить со мной, если тебе нужна помощь.
-§7[2/9] §2Maxie: §aAlright, I'll open the door with electromagic.@§7[2/9] §2Макси: §aХорошо, я открою дверь с помощью электромагии.
+§7[3/3] §2Maxie: §aLook... I know you're a stranger, but... If you want to help, §btalk to me§a.@§7[3/3] §2Макси: §aСлушай...Знаю, что ты незнакомец, но... если ты хочешь помочь, то §bпоговори со мной§a.
+§7[2/9] §2Maxie: §aAlright, I'll open the door with electromagic...@§7[2/9] §2Макси: §aХорошо, я открою дверь с помощью электромагии...
 §7[3/9] §2Maxie: §a...@§7[3/9] §2Макси: §a...
 §7[4/9] §2Maxie: §aGah! I can't even do the most basic spell!@§7[4/9] §2Макси: §aУх! Я даже не могу использовать самое стандартное заклинание!
-§7[5/9] §2Maxie: §aNo... Let me try again...@§7[5/9] §2Макси: §aНет... Дай попробую еще раз...
-§7[6/9] §2Maxie: §aYes! It worked!@§7[6/9] §2Макси: §aДа! Это сработало!
-§7[7/9] §2Maxie: §aI'm sorry for being useless in front of you...@§7[7/9] §2Макси: §aИзвини за то, что я такой бесполезный по сравнению с тобой...
-§7[8/9] §2Maxie: §aElectromagic is different from your magic.. I'm not very good at it...@§7[8/9] §2Макси: §aЭлектромагия отличается от твоей магии... И я не очень хорош в ней...
-§7[9/9] §2Maxie: §aI'm not sure which way it is, let's split up. I'll go to the right.@§7[9/9] §2Макси: §aНе уверен в какую нам сторону, так что давай разделимся. Я пойду направо.
+§7[5/9] §2Maxie: §aNo... L-Let me try again..!@§7[5/9] §2Макси: §aНет... Д-дай попробую еще раз..!
+§7[6/9] §2Maxie: §aYes!! It worked!@§7[6/9] §2Макси: §aДа!! Это сработало!
+§7[7/9] §2Maxie: §aLook, I-I'm sorry for slowing you down. It's just...@§7[7/9] §2Макси: §aСлушай, я ... прости, что задержал тебя. Это просто...
+§7[8/9] §2Maxie: §aElectromagic is different from your magic... And I'm not very good at it.@§7[8/9] §2Макси: §aЭлектромагия отличается от твоей магии... И я не очень хорош в ней...
+§7[9/9] §2Maxie: §aOh, two paths. Well, I'm not sure which way it is, so let's split up. I'll go to the right.@§7[9/9] §2Макси: §aОх, два пути. Ну, я не знаю, в какую сторону идти, так что давай разделимся. Я пойду направо.
 §7[1/2] §2Collector Mech: §aRETRIEVE SCRAP...@§7[1/2] §2Робот Сборщик: §aИЗВЛЕЧЬ МЕТАЛЛОЛОМ...
 §7[2/2] §2Collector Mech: §aRETURN WITH HAUL FOR CONSTRUCTION.@§7[2/2] §2Робот Сборщик: §aВЕРНУТЬСЯ С ДОБЫЧЕЙ ДЛЯ ПОСТРОЙКИ.
 §7[1/10] §2Maxie: §aOuch.@§7[1/10] §2Макси: §aАй.
-§7[2/10] §2Maxie: §aMo'in. Sorry had a problem with the-@§7[2/10] §2Макси: §aСалют. Извини, была проблема с-
-§7[3/10] §2Maxie: §aWhat in the world is that mech on top of the pile of scrap over there?@§7[3/10] §2Макси: §aЧто черт возьми этот робот делает на вершине этой кучки металлолома?
+§7[2/10] §2Maxie: §aMo'in. Sorry, had a problem with the-@§7[2/10] §2Макси: §aСалют. Извини, была проблема с-
+§7[3/10] §2Maxie: §a...What§a in the world is that mech on top of the pile of scrap over there?!@§7[3/10] §2Макси: §a...Что черт возьми этот робот делает на вершине этой кучки металлолома?
 §7[4/10] §2Maxie: §aThat is definitely not a regular despermech... It looks brand new!@§7[4/10] §2Макси: §aЭто точно не обычный робот...Он выглядит как новый!
 §7[5/10] §2Maxie: §aOne of those hasn't been seen since the factory was running...@§7[5/10] §2Макси: §aТаких не выпускали с момента, когда фабрика еще работала...
 §7[6/10] §2Maxie: §aWe need to do something! I'll clear the path for you. That’s the only thing I can do, I... hurt my... leg.@§7[6/10] §2Макси: §aМы должны что-то сделать! Я очищу путь для тебя. Это все, что я могу сделать. Я...повредил мою....ногу.
 §7[7/10] §2Maxie: §aCome on...@§7[7/10] §2Макси: §aДавай же...
-§7[8/10] §2Maxie: §aGo, defeat it!@§7[8/10] §2Макси: §aВперед, уничтожь его!
+§7[8/10] §2Maxie: §aThere! Go, defeat it!@§7[8/10] §2Макси: §aВперед! Уничтожь его!
 §7[9/10] §2Mech X: §aPARTS ACQUIRED... RETURN TO FACTORY.@§7[9/10] §2Робот X: §aЧАСТИ ПОЛУЧЕНЫ... ВЕРНУТЬСЯ НА ФАБРИКУ.
 §7[10/10] §2Maxie: §aAre you okay? Good. Meet me at the entrance where we met. We need to report to Corkus City!@§7[10/10] §2Макси: §aТы в порядке? Хорошо. Встретимся на входе, где мы познакомились. Мы должны доложить об этом в Коркус Сити!
 §7[1/1] §2Mech Guard: §aSCANNING... DEFENCES, ACTIVATED.@§7[1/1] §2Робот Страж: §aСКАНИРУЮ... ЗАЩИТА АКТИВИРОВАНА.
-§7[1/2] §2Maxie: §aDon't worry about the guards, they are disabled for now. Follow me.@§7[1/2] §2Макси: §aНе волнуйся насчет охраны, они отключены пока что. Следуй за мной.
+§7[1/2] §2Maxie: §aDon't worry about the guards, they're disabled for now. Follow me!@§7[1/2] §2Макси: §aНе волнуйся насчет охраны, они отключены пока что. Следуй за мной.
 §7[2/2] §2Maxie: §aI know a shortcut, we'll be in Corkus City in no time.@§7[2/2] §2Макси: §aЯ знаю короткую дорогу, мы будем в Коркус Сити через мгновение.
 §7[1/9] §2Corkus Delegate: §aMo'in! Welcome back to Corkus City.@§7[1/9] §2Делегат Коркуса: §aСалют! С возвращением в город.
 §7[2/9] §2Maxie: §aBeltrude, we have a problem! The factory is running!@§7[2/9] §2Макси: §aБелтруд, у нас проблема! Фабрика работает!
@@ -91,7 +91,7 @@
 §7[1/2] §2C.S.S Wavebreaker Captain: §aAll righty, we're headin' back to Corkus!@§7[1/2] §2Капитан К.С.С Волнореза: §aХорошо, мы направляемся в Коркус!
 §7[2/2] §2C.S.S Wavebreaker Captain: §aAnd here we are! Just hop back on me ship if you ev'r need to head back to Selchar!@§7[2/2] §2Капитан К.С.С Волнореза: §aИ вот мы здесь! Просто запрыгивай на мой корабль, если тебе когда-нибудь понадобится вернуться в Сельчар!
 §7[1/1] §2C.S.S Wavebreaker Captain: §aWait a minute! You ain't a friend of Corkus, I don't travel for free mate.@§7[1/1] §2Капитан К.С.С Волнореза: §aПодожди минутку! Ты не друг Коркуса, я не вожу за бесплатно, приятель.
-§7[1/2] §2Olivin: §aThe  boat is down at the dock.@§7[1/2] §2Оливин: §aКорабль стоит у причала.
+§7[1/2] §2Olivin: §aThe boat is down at the dock.@§7[1/2] §2Оливин: §aКорабль стоит у причала.
 §7[2/2] §2Olivin: §aIt's really hard to miss. Just hop on!@§7[2/2] §2Оливин: §aЕго действительно трудно пропустить. Просто прыгай на борт!
 §7[1/1] §2C.S.S Wavebreaker Captain: §aHey! You aren't allowed on my ship!@§7[1/1] §2Капитан К.С.С Волнореза: §aЭй! Тебе нельзя на мой корабль!
 §7[1/2] §2Olivin: §aMo'in, traveller, have you heard of Corkus? The new province filled with machines!@§7[1/2] §2Оливин: §aСалют, путешественник, ты слышал о Коркусe? Новая провинция, наполненная машинами!

@@ -8,7 +8,7 @@
 §7[1/3] §2Jenprest: §aDo you feel like there's something lurking that doesn't want us here?@§7[1/3] §2Дженпрест: §aТы чувствуешь, как будто что-то следит за нами, и не хочет видеть нас здесь?
 §7[2/3] §2Jenprest: §aAnyway, I've found the blockage. It's right up ahead.@§7[2/3] §2Дженпрест: §aНеважно, похоже я нашла где у нас засор. Это место прямо над нами.
 §7[3/3] §2Jenprest: §aHere's a small explosive. I placed one at the blockage already, if that alone doesn't work, use this.@§7[3/3] §2Дженпрест: §aВот тебе маленькая взрывчатка. Я уже установила одну на месте засора. Если она не сработает, то используй ее.
-§7[1/3] §2Jenprest: §aAh, you’re alive. Looks like we underestimated the amount of sewage.@§7[1/3] §2Дженпрест: §aОх, ты жив. Похоже, мы недооценили количество сточных вод.
+§7[1/3] §2Jenprest: §aAh, you’re alive! Looks like we underestimated the amount of sewage.@§7[1/3] §2Дженпрест: §aОх, ты жив! Похоже, мы недооценили количество сточных вод.
 §7[2/3] §2Jenprest: §aLet's get out of here. Do you still have the explosive I gave you?@§7[2/3] §2Дженпрест: §aДавай выбираться отсюда. У тебя еще осталась взрывчатка, которую я дала тебе?
 §7[3/3] §2Jenprest: §aGood, let's use it on this wall, it looks like we can break right through...@§7[3/3] §2Дженпрест: §aХорошо, давай ее используем на этой стене, она выглядит так, будто через нее можно будет выбраться....
 §7[1/1] §2Jenprest: §aOh no, oh no no no! Did you just open §a§lthat? §aCome here immediately.@§7[1/1] §2Дженпрест: §aОх нет, нет нет нет! Ты только что §a§lоткрыл ее?§a Иди сюда, скорее.

@@ -5,8 +5,11 @@
 
 ###################Corrupted Decrepit Sewers##########################
 §7[1/1] §2???: §aY§a§kk§ao dare §a§kkk§aer these s§a§kk:;DJkkkAJEkkkk§aTh§4§kkksad:ek§a§kghakk§4§kkkkreid:@§7[1/1] §2???: §aТ§a§kk§aы посмелился §a§kvoi§aти в это п§a§kgfdgthbnhhnh§aме§4§kfgdgvhh§a§kddhju§4§kkkkreid:
-§7[1/1] §2???: §4... How fool§4§kk§ah of you... to come back he§4re.§4§k:5tykkk§after what §4happene§4§ki:@§7[1/1] §2???: §4Как глупо§4§ks§aс твоей стороны... возвращаться сю§4да.§4§k:5tykkk§после того что §4случи§4§ki:
+§7[1/1] §2???: §cY§c§kk§ao dare §a§kkk§cer these s§c§kk:;DJkkkAJEkkkk§aTh§4§kkksad:ek§c§kghakk§4§kkkkreid:@§7[1/1] §2???: §cТ§c§kk§aы посмелился §a§kvoi§cти в это п§c§kgfdgthbnhhnh§aме§4§kfgdgvhh§c§kddhju§4§kkkkreid:
+§7[1/1] §2???: §4... How fool§4§kk§ah of you... to come back he§4re.§4§k:5tykkk§after what §4happene§4§ki:@§7[1/1] §2???: §4Как глупо§4§ks§aс твоей стороны... §aвозвращаться сю§4да.§4§k:5tykkk§после того что §4случи§4§ki:
+§7[1/1] §2???: §c... How fool§c§kk§ah of you... to come back he§4re.§c§k:5tykkk§after what §chappene§4§ki:@§7[1/1] §2???: §cКак глупо§c§ks§aс твоей стороны... §aвозвращаться сю§4да.§c§k:5tykkk§после того что §cслучи§4§ki:
 §7[1/1] §2Corrupted Witherhead: §4You... y§co§4u'v§ce §4come §chere§4 befor§ce. §4You shou§4§kl§4dn't be aliv§4§ke....@§7[1/1] §2Corrupted Witherhead: §4Ты... ты у§cж§4е §cприходил §4сюда рань§cше. Ты не до§4§klze§4н был выжи§4§kti....
+
 
 ########################Infested Pit#########################
 §7[1/2] §2???: §aOh, it seems I have a guest. You're just in time for dinner... hehe..@§7[1/2] §2???: §aОх, похоже у меня гость. Ты как раз вовремя, к ужину... хехе...
@@ -77,6 +80,7 @@
 #######################Sand-Swept Tomb#######################
 §7[1/1] §2???: §aWho dares enter the resting place of the once great ruler of the sands?@§7[1/1] §2???: §aКто осмелился войти в место упокоения некогда великого правителя песков?
 §7[1/1] §2Hashr: §aNow you have come to release me from my tomb so that I may rule once more!@§7[1/1] §2Хашр: §aТеперь ты пришел освободить меня из моей могилы, чтобы я мог править снова!
+§7[1/1] §2Hashr: §aIf you insist on ending me, then I'll dispose of you like I did that wretched emperor!@§7[1/1] §2Хашр: §aЕсли ты настаиваешь на том, чтобы покончить со мной, я избавлюсь от тебя, как от этого несчастного императора!
 
 #######################Corrupted Sand-Swept Tomb#######################
 §7[1/1] §2???: §aY§4§ko§au opened my tomb... And a new §4force§a spread §4§kwithin§a.@§7[1/1] §2???: §aТ§4§ki §aоткрыл мою гробницу... И новая §4сила§a начала §4§krasprostranatsya§a.
@@ -111,7 +115,7 @@
 
 ##############################Corrupted Undergrowth Ruins#########################################
 §7[1/1] §2???: §aMore §4life§a...familiar§a §4life... §aIt’s §a§lyou§a again. Isn’t it§a§k?@§7[1/1] §2???: §aЕще одна §4жизнь§a...знакомая§a §4жизнь... §aЭто снова §a§lты§a. Не так ли§a§k?
-§7[1/2] §2Slykaar: §aEven in §4death§a... Wasn’t I ri§a§kgh§at? Wasn’t I §4§lALWAYS§a rig§a§kht§a? The corruption is here...@§7[1/2] §2Слайкаар: §aДаже после §4смертиh§a... Был ли я пр§a§ka§в? Был ли я §4§lВСЕГДА§a пр§a§kav§a? Порча уже здесь...
+§7[1/2] §2Slykaar: §aEven in §4death§a... Wasn’t I ri§a§kgh§at? Wasn’t I §4§lALWAYS§a rig§a§kht§a? The corruption is here...@§7[1/2] §2Слайкаар: §aДаже после §4смертиh§a... Был ли я пр§a§ka§a? Был ли я §4§lВСЕГДА§a пр§a§kav§a? Порча уже здесь...
 §7[2/2] §2Slykaar: §a§kTro§ams is in ruins. The §4province§a is in ruins... Dead or dying. Now I §4must§a scrounge and scrape for §a§knew§a life...@§7[2/2] §2Слайкаар: §a§kTro§aмс в руинах. §4Провинция§a в руинах... Мертва или умирает. Теперь я §4должен§a отыскать и создать §a§knovuy§a жизнь...
 §7[1/2] §2Slykaar: §aNo saviours, no §4heroes§a. You being alive is nothing §a§kshort§a of a miracle.@§7[1/2] §2Слайкаар: §aНикаких спасителей, никаких §4героев§a. То, что ты жив, - это не что §a§kinoe§a, как чудо.
 §7[2/2] §2Slykaar: §aIsn’t this such a §4§lmiserable§a lot? I don’t want §a§kto§a die... But so little to §a§llive§a for. Not as though it matters §a§kmuch...@§7[2/2] §2Слайкаар: §aРазве это не такая §4§lжалкая§a участь? Я не §a§khochu§a умирать... Но так мало смысла, чтобы §a§lжить§a. Не то чтобы это имело большое §a§kznachenie...          
@@ -344,3 +348,9 @@
 §7[4/4] §2Legendary Attendant: §aDr. Legendary will inform you of your rewards for defeating him.@§7[4/4] §2Легендарный Служитель: §aDr. Legendary сообщит тебе о награде за победу над ним.
 ========================================================================================
 §7[3/3] §2Legendary Attendant: §aYou may either go through this door to claim your reward and turn back and continue the challenge.@§7[3/3] §2Легендарный Служитель: §aТы можешь либо пройти через эту дверь, чтобы получить свою награду, либо повернуть назад и продолжить челлендж.
+
+#######################Corrupted Sand-Swept Tomb#######################
+§7[1/2] §2???: §aThe glo§4§kri§aous sands run §4red§a... I c§4§kan§anot understand i§4§kt§a. I cannot understand y§4§ko§au.@§7[1/2] §2???: §aСлавн§4§kie§a пески становятся §4красными§a... Я не могу этого п§4§kona§aть. Я не могу понять те§4§kb§aя.
+§7[2/2] §2???: §aYet... New p§4§ko§awer runs forth at my f§4§ki§angert§4§ki§aps. I may yet save this §4wre§4§ktc§4hed§a land...@§7[2/2] §2???: §aПока... Новая с§4§ki§aла бежит из моих п§4§kali§aце§4§kв§a. Я еще могу спасти эту §4нес§4§kcas§4тную§a землю...
+§7[1/1] §2Hashr: §aI w§4§ki§all rule the red §4§ks§aands with this p§4§ko§awer under my c§4§kon§atr§4§ko§al!@§7[1/1] §2Хашр: §aЯ б§4§ku§aду править красными §4§kpes§aками с этой с§4§ki§aлой под моим к§4§kont§aрол§4§ke§aм!
+§7[1/1] §2???: §aThe fool re§4§ktu§arns... The c§4§ka§age s§4§kha§all clai§4§km§a you too.@§7[1/1] §2???: §aГлупец вер§4§ktu§aлся... Кл§4§ket§aка заб§4§kha§aет и теб§4§km§a.

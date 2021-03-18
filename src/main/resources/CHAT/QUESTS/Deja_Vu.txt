@@ -77,7 +77,7 @@
 
 §7[1/1] §2Old Man Martyn: §aYou seemed to have phased out of reality there for a while. I decided to move you back here to be safe.@§7[1/1] §2Старик Мартин: §aКазалось, ты на какое-то время исчез из реальности. Я решил перенести тебя сюда, чтобы ты был в безопасности.
 §7[1/2] §2Asher: §aAh, sorry soldier, I don't think you can help me right now. Time Valley is not a place to wander around underprepared.@§7[1/2] §2Ашер: §aЭх, прости солдат, я не думаю, что ты можешь помочь мне прямо сейчас. Долина Времени - это не то место, где можно бродить в неподготовленном состоянии.
-§7[2/2] §2Asher: §aCome back when you're say... level 14 at least. I think you can help me then.@§7[2/2] §2Ашер: §aВозвращайся, скажем на... 14 уровне, по крайней мере. Думаю, что ты сможешь помочь мне тогда.
+§7[2/2] §2Asher: §aCome back when you're, say... level 14 at least. I think you can help me then.@§7[2/2] §2Ашер: §aВозвращайся, скажем на... 14 уровне, по крайней мере. Думаю, что ты сможешь помочь мне тогда.
 §7[1/1] §2Asher: §aWoah! Where did-?@§7[1/1] §2Ашер: §aВоу! Где же-?
 §7[1/1] §2Asher: §aI miss seeing the past. It was such an interesting place.@§7[1/1] §2Ашер: §aЯ скучаю по прошлому. Это было такое интересное место.
 §7[1/1] §2Asher: §aDon't come back here until you find my shovel, or I'll have you thrown in jail!@§7[1/1] §2Ашер: §aНе возвращайся сюда, пока не найдешь мою лопату, или я брошу тебя в тюрьму! §6[-572, -1104]

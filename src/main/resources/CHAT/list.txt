@@ -10,6 +10,7 @@ Mushroom.txt
 Notranslate.txt
 WynnNPC.txt
 Tracking.txt
+Pets.txt
 QUESTS/Acquiring_Credentials.txt
 QUESTS/Aldorei%27s_Secret_Part_I.txt
 QUESTS/Aldorei%27s_Secret_Part_II.txt
@@ -25,6 +26,7 @@ QUESTS/A_Marauder%27s_Dues.txt
 QUESTS/A_Sandy_Scandal.txt
 QUESTS/Beneath_the_Depths.txt
 QUESTS/Beyond_the_Grave.txt
+QUESTS/Blazing_Retribution.txt
 QUESTS/Bob%27s_Lost_Soul.txt
 QUESTS/Canyon_Condor.txt
 QUESTS/Clearing_the_Camps.txt
@@ -60,7 +62,6 @@ QUESTS/General%27s_Orders.txt
 QUESTS/Grand_Youth.txt
 QUESTS/Grave_Digger.txt
 QUESTS/Green_Gloop.txt
-QUESTS/Green_Skinned_Trouble.txt
 QUESTS/Haven_Antiquity.txt
 QUESTS/Heart_of_Llevigar.txt
 QUESTS/Hollow_Sirene.txt

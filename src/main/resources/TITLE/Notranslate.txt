@@ -433,7 +433,6 @@ disconnect.spam@
 §c0:12@ 
 §c0:11@ 
 Restarting! Log back in!!!@ 
-
 §8[§f2§7:§f00§8]@ 
 §l§c✹@ 
 §6[§e⬝⬝⬝⬝§7⬞⬞⬞⬞⬞⬞§6]@ 
@@ -467,3 +466,148 @@ Restarting! Log back in!!!@
 §2[§a⬝⬝⬝⬝⬝⬝⬝⬝§7⬞⬞§2]@ 
 §2[§a⬝⬝⬝⬝⬝⬝⬝⬝⬝§7⬞§2]@ 
 §2[§a⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝§2]@ 
+§8[§7!§8] §7Congratulations to §fhorse gaming§7 for reaching combat §flevel 106§7!@ 
+§8[§7!§8] §7Congratulations to §fThe Musician§7 for reaching combat §flevel 106§7!@ 
+§8[§7!§8] §7Congratulations to §fTobisawa Misaki§7 for reaching combat §flevel 106§7!@ 
+§8[§7!§8] §7Congratulations to §flootrun man§7 for reaching combat §flevel 106§7!@ 
+§8[§7!§8] §7Congratulations to §fThe Saviour§7 for reaching combat §flevel 105§7!@ 
+§8[§7!§8] §7Congratulations to §fCommandress Aly§7 for reaching combat §flevel 106§7!@ 
+§8[§7!§8] §7Congratulations to §fBright The Owlish§7 for reaching combat §flevel 105§7!@ 
+§8[§7!§8] §7Congratulations to §fBright The Owlish§7 for reaching combat §flevel 106§7!@ 
+§8[§7!§8] §7Congratulations to §fDictator Julian§7 for reaching combat §flevel 106§7!@ 
+§8[§7!§8] §7Congratulations to §fCitizen NPC§7 for reaching combat §flevel 105§7!@ 
+§8[§7!§8] §7Congratulations to §fhi oolong§7 for reaching combat §flevel 106§7!@ 
+§8[§7!§8] §7Congratulations to §fSeer of Almighty§7 for reaching combat §flevel 105§7!@ 
+§8[§7!§8] §7Congratulations to §fThe Flash§7 for reaching combat §flevel 106§7!@ 
+§8[§7!§8] §7Congratulations to §fSwooshi The Archer§7 for reaching combat §flevel 105§7!@ 
+§c1/4@ 
+§7§l[1/3]@ 
+§7§l[2/3]@ 
+§7§l[3/3]@ 
+§4§l-§c 1:30§4§l -@ 
+§4§l-§c 1:00§4§l -@ 
+§4§l-§c 0:30§4§l -@ 
+§4§l-§c 0:10§4§l -@ 
+§4§l-§c 0:09§4§l -@ 
+§7[1/5]@ 
+§7[2/5]@ 
+§7[3/5]@ 
+§7[4/5]@ 
+§7[5/5]@ 
+§7[4/4]@ 
+§a[1/4]@ 
+§a[2/4]@ 
+§a[3/4]@ 
+§a@ 
+§a[4/4]@ 
+§7.@ 
+§7..@ 
+§7...@ 
+§8[§61§7:§630§8]@ 
+§8[§e1§7:§e00§8]@ 
+§4[§c❤❤❤❤§f❤§4]@ 
+§4[§c❤❤❤§f❤❤§4]@ 
+§4[§c❤❤§f❤❤❤§4]@ 
+§4[§c❤§f❤❤❤❤§4]@ 
+§4[§f❤❤❤❤❤§4]@ 
+§4§l-§c 0:08§4§l -@ 
+§4§l-§c 0:07§4§l -@ 
+§4§l-§c 0:06§4§l -@ 
+§4§l-§c§l 0:05§4§l -@ 
+§4-§c§l 0:04§4 -@ 
+§4§l-§c§l 0:03§4§l -@ 
+§4-§c§l 0:02§4 -@ 
+§4§l-§c§l 0:01§4§l -@ 
+§4§l-§4§l 0:00§4§l -@ 
+§716@ 
+§715@ 
+§714@ 
+§713@ 
+§712@ 
+§711@ 
+§710@ 
+§79@ 
+§78@ 
+§77@ 
+§76@ 
+§75@ 
+§74@ 
+§73@ 
+§72@ 
+§71@ 
+§2[§a1/4§2]@ 
+§2[§a2/4§2]@ 
+§2[§a3/4§2]@ 
+§2[§a4/4§2]@ 
+§740@ 
+§739@ 
+§738@ 
+§737@ 
+§736@ 
+§735@ 
+§734@ 
+§733@ 
+§732@ 
+§731@ 
+§730@ 
+§729@ 
+§728@ 
+§727@ 
+§726@ 
+§725@ 
+§724@ 
+§723@ 
+§722@ 
+§721@ 
+§720@ 
+§719@ 
+§718@ 
+§717@ 
+§b3@ 
+§b3.@ 
+§b3..@ 
+§b3...@ 
+§b3...2@ 
+§b3...2.@ 
+§b3...2..@ 
+§b3...2...@ 
+§b3...2...1@ 
+§b3...2...1.@ 
+§b3...2...1..@ 
+§b3...2...1...@ 
+§a§l✔@ 
+§c§l✖@ 
+§b1§7/6@ 
+§b2§7/6@ 
+§b3§7/6@ 
+§b4§7/6@ 
+§b5§7/6@ 
+§e§l✔@ 
+§b§l✔@ 
+§7♥♥♥@ 
+§4♥§7♥♥@ 
+§4♥♥§7♥@ 
+§4♥♥♥@ 
+§4♥♥§c♥@ 
+§4♥§c♥§7♥@ 
+§c♥§7♥♥@ 
+§2[§a⬝§7⬞⬞§2]@ 
+§2[§a⬝⬝§7⬞§2]@ 
+§2[§a⬝⬝⬝§7§2]@ 
+§b6§7/6@ 
+§8[§40§7:§430§8]@ 
+§8[§40§7:§405§8]@ 
+§8[§40§7:§404§8]@ 
+§8[§40§7:§403§8]@ 
+§8[§40§7:§402§8]@ 
+§8[§40§7:§401§8]@ 
+§8[§40§7:§400§8]@ 
+§7[00:00]@ 
+§2§kNest§f §2§kof§f §2§kThe§f §2§kGrootslangs@ 
+§a§kA hunger to devour the land...@ 
+§8[§7!§8] §7Congratulations to §fEternity Night Flare§7 for reaching combat §flevel 105§7!@ 
+§2§l§kThe Grootslangs@ 
+§7§kThe Restless Devourers@ 
+§a§l@ 
+§8§kAhms Region@ 
+§7§kAhms Region@ 

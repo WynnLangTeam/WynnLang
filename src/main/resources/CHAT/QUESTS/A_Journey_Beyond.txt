@@ -19,7 +19,7 @@
 §7[7/12] §2Elphaba: §aThis is actually our second attempt. The first time, it didn’t go too well.@§7[7/12] §2Эльфаба: §aЭто на самом деле наша вторая попытка. В первый раз все прошло не слишком хорошо.
 §7[8/12] §2Elphaba: §aWe have more numbers now, Lucio and yourself should help us overpower it.@§7[8/12] §2Эльфаба: §aТеперь у нас есть больше людей, Луцио, и ты должен помочь нам преодолеть его.
 §7[9/12] §2Lucio: §aCan’t be that strong, bet I can take it myself.@§7[9/12] §2Луцио: §aНе может он быть настолько сильным, спорим, я могу разобраться с ним сам.
-§7[10/12] §2Elphaba: §aWe managed to seal it in but with the 4 of us I’m sure we ca-@§7[10/12] §2Эльфаба: §aНам удалось запечатать его, но с 4-мя из нас я уверена, что мы cмо-
+§7[10/12] §2Elphaba: §aWe managed to seal it in, but with the 4 of us I’m sure we ca-@§7[10/12] §2Эльфаба: §aНам удалось запечатать его, но с 4-мя из нас я уверена, что мы cмо-
 §7[11/12] §2Lucio: §aLet’s just do it!@§7[11/12] §2Луцио: §aДавайте просто сделаем это!
 §7[12/12] §2Aledar: §aWait... No!@§7[12/12] §2Аледар: §aПодожди... Нет!
 §7[1/4] §2Aledar: §aLucio! You FOOL!@§7[1/4] §2Аледар: §aЛуцио! Ты ГЛУПЕЦ!
@@ -113,11 +113,11 @@
 §7[4/45] §2Lucio: §aDo you really think it was just an illusion?@§7[4/45] §2Луцио: §aТы действительно думаешь, что это была просто иллюзия?
 §7[5/45] §2Aledar: §aI’m not sure. I hope so.@§7[5/45] §2Аледар: §aНе уверен. Я надеюсь, что это так.
 §7[6/45] §2Lucio: §aWhat if we're infected too? Shouldn't we just go back?@§7[6/45] §2Луцио: §aА что, если мы тоже заражены? Разве мы не должны просто вернуться?
-§7[7/45] §2Aledar: §aWe can't, Lucio! We have a mission as you very well know. We continue.@§7[7/45] §2Аледар: §aМы не можем, Луцио! У нас миссия, как вы прекрасно знаете. Мы продолжим.
+§7[7/45] §2Aledar: §aWe can't, Lucio! We have a mission, as you very well know. We continue.@§7[7/45] §2Аледар: §aМы не можем, Луцио! У нас миссия, как вы прекрасно знаете. Мы продолжим.
 §7[8/45] §2Aledar: §aBesides, we might be carrying some of those things too. We can’t risk them infesting Wynn.@§7[8/45] §2Аледар: §aКроме того, нам нужно позаботиться о некоторых вещях здесь. Мы не можем допустить, чтобы они заразили Винн..
 §7[9/45] §2Lucio: §aLooks like we need to go around to the right, here?@§7[9/45] §2Луцио: §aПохоже, нам нужно обойти справа, вот здесь?
 §7[10/45] §2Aledar: §aIt feels like something is watching us...@§7[10/45] §2Аледар: §aТакое чувство, что кто-то наблюдает за нами...
-§7[11/20] §2Lucio: §aAledar, what is this place? You didn’t tell me there was a city here.@§7[11/45] §2Луцио: §aАледар, что это за место? Ты не говорил мне, что здесь есть город.
+§7[11/45] §2Lucio: §aAledar, what is this place? You didn’t tell me there was a city here.@§7[11/45] §2Луцио: §aАледар, что это за место? Ты не говорил мне, что здесь есть город.
 §7[12/45] §2Aledar: §aThere is. A big one, too; there’s more ahead. But it doesn’t look like anyone’s home. The map doesn’t have a name for it either.@§7[12/45] §2Аледар: §aЕсть. И более того, впереди еще один еще больше. Но не похоже, что кто-то дома. На этой карте даже нет названия.
 §7[13/45] §2Lucio: §aWait a sec, is that one of the miners? Is she hurt? HEEEEY! YOU OVER THERE!@§7[13/45] §2Луцио: §aПодождите секунду, это один из шахтеров? Она ранена? ЭЙ! СЮДА!
 §7[14/45] §2Aledar: §aLucio, no! It's a trap!@§7[14/45] §2Аледар: §aЛуцио, нет! Это ловушка!

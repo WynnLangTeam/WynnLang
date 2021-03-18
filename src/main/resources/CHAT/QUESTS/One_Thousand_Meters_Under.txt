@@ -69,7 +69,7 @@
 §7[10/13] §2Celuuse: §aThe crystal yoooou are looking for fell on this island. But...@§7[10/13] §2Целуус: §aКристалл, который тыыыы ищешь, упал на наш остров. Но...
 §7[11/13] §2Celuuse: §aWe need it. It will aid us for years.@§7[11/13] §2Целуус: §aОн нужен нам. Он поможет прожить здесь долгие годы.
 §7[12/13] §2Celuuse: §aWe have very limited resources here. That’s why a power source like this is soooo valuable.@§7[12/13] §2Целуус: §aВ этом месте очень ограничены ресурсы. Вот почему такой мощный источник энергии, кааааак кристалл, будет полезен для нас.
-§7[13/13] §2Celuuse: §aIf you go to the east, you will find Rontaid our chief scientist. He'll know what to doooo.@§7[13/13] §2Целуус: §aЕсли ты пойдешь на восток, то найдешь нашего главного ученого по имени Ронтейд. Он знает, что можно сдееееелать.
+§7[13/13] §2Celuuse: §aIf you go to the east, you will find Rontaid, our chief scientist. He'll know what to doooo.@§7[13/13] §2Целуус: §aЕсли ты пойдешь на восток, то найдешь нашего главного ученого по имени Ронтейд. Он знает, что можно сдееееелать.
 §7[1/8] §2Rontaid: §aWHAT...WHO...Humans§a in the void!?@§7[1/8] §2Ронтейд: §aЧТО...КТО...Человек в пустоте!?
 §7[2/8] §2Rontaid: §aWell, looks like the book we found wasn't fiction after all!@§7[2/8] §2Ронтейд: §aЧто же, похоже та книга о вас, которую мы нашли, была настоящей!
 §7[3/8] §2Rontaid: §aThis crystal is going toooo be our saviour. I was trying to create one of my own, you know.@§7[3/8] §2Ронтейд: §aЭтот кристалл будет нашим спасителем. И знаешь, я уже пытался создать такой же кристалл здесь.

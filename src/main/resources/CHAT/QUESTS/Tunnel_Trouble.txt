@@ -45,8 +45,8 @@
 §7[2/2] §2Bylvis: §aWhat do you think you're doing down here? This is private property, you know!@§7[2/2] §2Билвис: §aТы что здесь делаешь? Это частная собственность, знаешь ли!
 
 §7[1/1] §2Drale: §aStay off of the boat! It's for the cows! Wish I was a cow... §7[Right-Click the boat to push it]@§7[1/1] §2Дрэйл: §aДержись подальше от лодки! Это для коров! Хотел бы я быть коровой... §7[Правый-Клик по лодке, чтобы толкнуть]
-§7[1/1] §2Captain Fenor: §aHey, don't go down there! it's full of many dangers!@§7[1/1] §2Капитан Фенор: §aЭй, не ходи туда! Там полно опасностей!
-§7[1/1] §2Sergeant Klafson: §aI'm sorry, recruit, but that passage is blocked. We used to use it, but not anymore...@§7[1/1] §2Сержант Клафсон: §aИзвини, рекрут, но этот проход заблокирован. Мы использовали его раньше, но это было давно...
+§7[1/1] §2Captain Fenor: §aHey, don't go down there! it's full of many dangers! §7[Quest Req: Tunnel Trouble]@§7[1/1] §2Капитан Фенор: §aЭй, не ходи туда! Там полно опасностей! §7[Квест Необ.: Tunnel Trouble]
+§7[1/1] §2Sergeant Klafson: §aI'm sorry, recruit, but that passage is blocked. We used to use it, but not anymore... §7[Quest Req: Tunnel Trouble]@§7[1/1] §2Сержант Клафсон: §aИзвини, рекрут, но этот проход заблокирован. Мы использовали его раньше, но это было давно... §7[Квест Необ.: Tunnel Trouble]
 §7[1/1] §2Captain Fenor: §aWelcome back, soldier! Great job clearing out that cave, we can finally use it for great things now!@§7[1/1] §2Капитан Фенор: §aС возвращением, солдат! Отличная работа по очистке этой пещеры, мы можем, наконец, использовать ее сейчас для великих целей!
 §7[1/1] §2Drale: §aWhere are you going? Come here and talk to me first.@§7[1/1] §2Дрэйл: §aКуда ты идешь? Иди сюда и сначала поговори со мной.
 §7[1/1] §2Sergeant Klafson: §aHalt! You cannot go down this cave, it is blocked.@§7[1/1] §2Сержант Клафсон: §aСтоять! Ты не можешь спуститься в эту пещеру, она заблокирована.

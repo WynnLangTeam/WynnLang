@@ -3,7 +3,7 @@
 §7[3/7] §2Orikal: §aI see, you were sent to aid the public. Perfect.@§7[3/7] §2Орикал: §aПонял, тебя послали для восстановления порядка здесь. Идеально.
 §7[4/7] §2Orikal: §aI am Orikal, I'm trying to stop everyone here from killing each other.@§7[4/7] §2Орикал: §aМеня зовут Орикал, и я пытаюсь остановить всех от убийства друг друга.
 §7[5/7] §2Orikal: §aDo you see all these spikes? I believe they are the thing spreading corruption.@§7[5/7] §2Орикал: §aТы видишь все эти шипы? Я верю, что это именно они распространяют порчу.
-§7[6/7] §2Orikal: §aCorruption does not affect humans like other beings. It’s much much slower, more like an infection of the mind to us.@§7[6/7] §2Орикал: §aПорча не влияет на людей так, как на других созданий. Она действует гораздо медленнее, скорее как заражение ума у нас.
+§7[6/7] §2Orikal: §aCorruption does not affect humans like other beings. It's much much slower, more like an infection of the mind to us.@§7[6/7] §2Орикал: §aПорча не влияет на людей так, как на других созданий. Она действует гораздо медленнее, скорее как заражение ума у нас.
 §7[7/7] §2Orikal: §aCould you inspect the peak of the spike in the village for me? It might give me valuable insight. Thanks!@§7[7/7] §2Орикал: §aНе мог бы ты для меня посетить вершину того шипа, что в деревне? Это может дать мне ценную информацию. Спасибо!
 §7[1/6] §2Orikal: §aThat was quick... did you find anything?@§7[1/6] §2Орикал: §aЭто было быстро... нашел что-нибудь?
 §7[2/6] §2Orikal: §aReally, nothing? You didn't even feel anything?@§7[2/6] §2Орикал: §aСерьезно, ничего? Ты даже ничего не почувствовал?
@@ -41,8 +41,8 @@
 §7[3/3] §2Orikal: §aPhew, glad nothing tragic happened there. This should be it, now go take it back down to the spike and destroy it once and for all!@§7[3/3] §2Орикал: §aФух, хорошо что ничего трагичного не произошло. Так и должно быть, теперь иди и спускайся вниз шипа да разнеси там все!
 §7[1/4] §2Orikal: §aOh, do you feel that? It's like a buzzing in my ears I never knew about has just vanished.@§7[1/4] §2Орикал: §aОх, ты чувствуешь это? Это жужжание в ушах, о котором я никогда не знал, просто исчезло.
 §7[2/4] §2Orikal: §aI think that worked you know. It seems the power of the spike comes from the root...@§7[2/4] §2Орикал: §aДумаю, это сработало. Похоже, что энергия шипа исходит от его корня...
-§7[3/4] §2Orikal: §aBut what is it connected to? That’s for another day. The main thing is the village is safe.@§7[3/4] §2Орикал: §aНо к чему он присоединяется? Это уже другая история. Главное то, что деревня в безопасности.
-§7[4/4] §2Orikal: §aHere, take this for your help. I found this potato in one of the houses around here, and I sure as heck don’t want it!@§7[4/4] §2Орикал: §aВот, возьми это за твою помощь. Я нашел эту картошку в одном из домов здесь, и я уверен, что, черт возьми, не хочу ее!
+§7[3/4] §2Orikal: §aBut what is it connected to? That's for another day. The main thing is the village is safe.@§7[3/4] §2Орикал: §aНо к чему он присоединяется? Это уже другая история. Главное то, что деревня в безопасности.
+§7[4/4] §2Orikal: §aHere, take this for your help. I found this potato in one of the houses around here, and I sure as heck don't want it!@§7[4/4] §2Орикал: §aВот, возьми это за твою помощь. Я нашел эту картошку в одном из домов здесь, и я уверен, что, черт возьми, не хочу ее!
 
 §7[1/2] §2Orikal: §aAah, I'm busy. Get out.@§7[1/2] §2Орикал: §aЭх, я занят. Уйди.
 §7[2/2] §2Orikal: §aCome back when you are level 26.@§7[2/2] §2Орикал: §aВернись, когда будешь 26 уровня.
@@ -50,3 +50,7 @@
 §7[2/2] §2Orikal: §aThe small mining camp a little east of this village should have what you're looking for. Now Hurry!@§7[2/2] §2Орикал: §aНебольшой шахтерский лагерь, немного восточнее этой деревни, должен иметь то, что ты ищешь. А теперь поторопись!
 §7[1/1] §2Orikal: §aDid you do what I asked? No? Check your quest book.@§7[1/1] §2Орикал: §aТы сделал то, что я просил? Нет? Проверь свою квестовую книгу.
 §7[1/1] §2Orikal: §aIt will take a while for these people to recover, so I'll stay here watching over them while they do.@§7[1/1] §2Орикал: §aЭто займет некоторое время, чтобы эти люди выздоровели, поэтому я пока останусь здесь наблюдать за ними, и смотреть, что они делают.
+
+
+
+

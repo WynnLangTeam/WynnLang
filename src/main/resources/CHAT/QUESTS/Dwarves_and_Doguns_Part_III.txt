@@ -52,7 +52,7 @@
 §7[5/5] §2Korzim: §aThe True §aIce...is§a deep inside. I will struggle §ato...stay§a warm here.@§7[5/5] §2Корзим: §aЧистый лед... лежит глубоко внутри...Я буду...бороться...чтобы не замерзнуть.
 §7[1/1] §2Korzim: §aI will try to run §athrough...as§a quickly as possible. The ice §ais...painful§a.@§7[1/1] §2Корзим: §aЯ постараюсь... пробежать как можно быстрее... Этот лед... мучителен. 
 §7[1/4] §2Korzim: §aWe must... move fast... or... we will both.... freeze.@§7[1/4] §2Корзим: §aМы должны передвигаться быстро... Иначе мы оба... заморозимся.
-§7[2/4] §2Korzim: §aMaybe... I am... hotter than... I thought... do you.. Hear that?@§7[2/4] §2Корзим: §aМожет я и... теплее чем... я думал. Стой... ты это... слышишь?
+§7[2/4] §2Korzim: §aMaybe... I am... hotter than... I thought... do you.. hear that?@§7[2/4] §2Корзим: §aМожет я и... теплее чем... я думал. Стой... ты это... слышишь?
 §7[2/4] §2Korzim: §aOh no... I think... It's... COLLAPSING.@§7[2/4] §2Корзим: §aО, нет... Мне кажется... она... ОСЫПАЕТСЯ.
 §7[4/4] §2Korzim: §aOh no... We got... Trapped.@§7[4/4] §2Корзим: §aО нет...Мы...В ловушке.
 §7[3/4] §2Korzim: §aMy... feet are.... solid... Keep... running.@§7[3/4] §2Корзим: §aМои ступни... замерзли.... продолжай бежать...

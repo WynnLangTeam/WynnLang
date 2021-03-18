@@ -8,9 +8,9 @@
 §7Forest to summon the powerful demon, @§7чтобы вызвать могущественного
 §7Naragath. @§7демона -  Нарагатa.
 
-§7A year after Bobs disappearance, a @§7Через год после исчезновения Бобa, 
+§7A year after Bob's disappearance, a @§7Через год после исчезновения Бобa, 
 §7tomb pertaining to the resting place @§7на месте его упокоения появилась 
-§7of Bob, was found in 985 @§7гробница, найденная в 985 году после 
+§7of Bob was found in 985 @§7гробница, найденная в 985 году после 
 §7AP. @§7открытия портала.
 
 §7Once used for repairs for Olux's @§7Раньше она использовалась для 
@@ -35,7 +35,7 @@
 §7has a magical spring that grants @§7есть волшебный источник, дающий людям 
 §7people eternal life. @§7вечную жизнь.
 
-§7The largest greenskin base in Gavel, @§7Крупнейшая база зеленокожих в провинции Гавел. 
+§7The largest orc base in Gavel, @§7Крупнейшая база орков в провинции Гавел. 
 §7the fortress has been overtaken by @§7Крепость была захвачена орками под 
 §7Orcs under their leader, Gorgu. @§7командованием их предводителя, Горгу
 
@@ -107,9 +107,9 @@
 §7hybrids, and a mysterious scientist. @§7а также таинственный ученый.
 
 §7A small village hidden within the @§7Небольшая деревня, спрятанная внутри 
-§7trees in the Nivla forest. Home @§7деревьев в лесу Нивла. Дом 
-§7of the only bowl merchant in @§7единственного торговца мисками 
-§7the province. @§7в провинции.
+§7trees in Nivla Woods. Home of @§7деревьев в лесу Нивла. Дом 
+§7the only bowl merchant in the @§7единственного торговца мисками 
+§7province. @§7в провинции.
 
 §7The first town founded by Villagers @§7Первый город, построенный расой 
 §7in the Wynn province. Maltic's beach @§7жителей в провинции Винн. Пляж Малтика - 
@@ -187,9 +187,9 @@
 §7edge of the mountains, though few @§7есть город на краю гор, хотя немногие 
 §7visit it. @§7посещают его.
 
-§7Not many travel to this little @§7Не многие путешествуют в эту 
-§7tribal village in the savannah, but @§7маленькую племенную деревню в саванне, 
-§7it is said to be the @§7но говорят, что она является домом 
+§7Not many travel to this little @§7Не многие путешествуют в этот
+§7tribal town in the savannah, but @§7маленький городок в саванне, 
+§7it is said to be the @§7но говорят, что он является домом 
 §7home of a powerful sorcerer. @§7могущественного колдуна.
 
 §7Despite mining opening up the infamous @§7Несмотря на то, что шахтеры открыли 
@@ -341,8 +341,8 @@
 §7and tropically-themed luxuries, requiring constant shipping @§7в тропическом стиле, однако требующей постоянной 
 §7to the island to maintain business. @§7доставки припасов на остров для поддержания бизнеса
 
-§7The village of the native tribe @§7Деревня родного племени джунглей, 
-§7of the jungle, the people here @§7люди здесь жили мирно 
+§7The village of the native tribe @§7Деревня родного племени 
+§7of the jungle. The people here @§7джунглей. Люди здесь жили мирно 
 §7have lived peacefully alongside the people @§7рядом с людьми из Тромсa в течение 
 §7of Troms for years. @§7многих лет.
 
@@ -381,10 +381,10 @@
 §7said Bob was the first man @§7Боб был первым человеком, который сумел 
 §7to climb to the peak. @§7подняться на их вершину.
 
-§7The source of the Iron Golems @§7Источник создания всех железных големов 
-§7protecting Wynn and Gavel, the methods @§7для провинций Винн и Гавел. 
-§7of creating them, have remained unknown @§7Методы их создания до сих пор остаются 
-§7to the public eye. @§7неизвестны и скрыты от лишних глаз 
+§7The source of the Iron Golems @§7Источник создания всех железных големов, 
+§7protecting Wynn and Gavel, and the @§7защищающих провинции Винн и Гавел. 
+§7methods of creating them, have remained @§7Методы их создания до сих пор остаются 
+§7unknown to the public eye. @§7неизвестны и скрыты от лишних глаз. 
 
 §7This disused Iboju burial site seems @§7Это заброшенное захоронение Ибоджу, 
 §7to have been turned into a @§7похоже, было превращено в лагерь 
@@ -445,7 +445,7 @@
 
 §7In the year 854 AP (After @§7В 854 году после открытия портала 
 §7Portal), a massive horde of undead @§7огромная толпа мертвецов под руководством 
-§7lead by Bak’al attacked Ragni. The @§7Бак'ала напала на Рагни. 
+§7lead by Bak'al attacked Ragni. The @§7Бак'ала напала на Рагни. 
 §7people of the city sought refuge @§7Люди из города нашли убежище 
 §7in the sewer, the only safe @§7в канализации - единственном оставшемся безопасном 
 §7place left. @§7месте.
@@ -456,11 +456,11 @@
 §7miles away, helping to prepare for @§7монстров заранее, чтобы армия могла 
 §7countless battles. @§7лучше подготовиться к битве 
 
-§7A once great city was reduced @§7Однажды один великий город превратился 
-§7to rubble in 347 AP (After @§7в руины в 347 году после открытия портала, 
-§7Portal) in one of the largest @§7из-за одной из мощнейших атак Бак'ала, 
-§7attacks by Bak'al ever documented. There @§7что когда-то были задокументированы. Остался 
-§7was only one survivor. @§7только один выживший.
+§7A once great city of Akias @§7Однажды один великий город Акиас 
+§7was reduced to rubble in 347 @§7превратился в руины в 347 году,
+§7AP (After Portal) in one of @§7после открытия портала из-за 
+§7the largest attacks by Bak'al ever @§7одной из мощнейших атак Бак'ала, что когда-то
+§7documented. There was only one survivor. @§7были задокументированы. Остался лишь один выживший.
 
 §7Just the name of Bak'al is @§7Просто произношение имя Бак'ал 
 §7enough to make many cower in @§7уже заставляло многих бежать в страхе. 
@@ -495,7 +495,7 @@
 
 §7The only residence of dwarves outside @§7Единственная резиденция гномов за пределами 
 §7of the Molten Heights, Thanos has @§7Расплавленных Высот, Танос был 
-§7been decimated by Ozoth, a powerful @§7уничтожен Озот - могущественным драконом, которую 
+§7been threatened by Ozoth, a powerful @§7запуган Озот - могущественным драконом, которую 
 §7dragon feared across the entire province. @§7боялись по всей провинции.
 
 §7Thesead is one of the smaller @§7Тесеад - один из небольших городов 
@@ -515,7 +515,7 @@
 §7the province, it has remained hidden @§7в провинции, он остается скрытым 
 §7to outsiders. @§7для посторонних.
 
-§7Reminant of the Dogun genocide, the @§7Остатки геноцида Догунов. 
+§7Remnant of the Dogun genocide, the @§7Остатки геноцида Догунов. 
 §7Dragons sided with the native residents. @§7Драконы были на стороне коренных жителей. 
 §7However, the dwarves proved to be @§7Однако, гномы показали кто здесь главный 
 §7the dominant force beneath the lava. @§7под лавой.
@@ -529,10 +529,10 @@
 §7Miyagi, a wise teacher who has @§7Мияги - мудрого учителя, который тренирует 
 §7trained hundreds of apprentices. @§7сотни последователей
 
-§7For which the Gylia Plains are @§7Названное в честь ближайших полей, 
-§7named, Lake Gylia is the largest @§7озеро Гилия является самым большим озером 
-§7lake in the world. Immense magical @§7в мире. Это место окружает огромная
-§7energy surrounds this place. @§7магическая энергия.
+§7Named after the lush plains preceding @§7Названое в честь пышных равнин, бывших 
+§7it, Lake Gylia is the largest @§7на этом месте, озеро Гилия является самым 
+§7lake in the world. Immense magical @§7большим озером в мире. Это место окружает 
+§7energy surrounds this place. @§7огромная магическая энергия.
 
 §7Home of the Gerts, a race @§7Дом Гертов - расы голодных 
 §7of hunger fuelled orange-headed brutes. Though @§7животных с оранжевой головой. Хотя 
@@ -618,7 +618,7 @@
 
 §7These barracks are where the Cinfras @§7В этих казармах находится армия 
 §7Army is positioned, though lately their @§7Цинфрасa, хотя в последнее время их генерал 
-§7General has been acting suspicious… @§7ведет себя подозрительно...
+§7General has been acting suspicious... @§7ведет себя подозрительно...
 
 §7Maltic was the first settlement ever @§7Малтик был первым построением 
 §7made by the arriving villagers. The @§7жителей, после их прибытия на землю. 
@@ -709,10 +709,11 @@
 §7enemy. @§7здесь.
 
 §7The mysteries uncovered from this excavation @§7Загадочное неизвестное место из этих 
-§7were quickly abandoned as a new @§7раскопок было быстро покинуто. 
-§7dark force, one far more mysterious @§7Новая темная сила, еще загадочнее  
-§7than corruption, was the last thing @§7чем порча - это точно не то, что нужно 
-§7this province needed. @§7сейчас провинции.
+§7were quickly abandoned as an ancient @§7раскопок было быстро покинуто, так как древняя 
+§7dark force, one far more dangerous @§7темная сила, еще более опасная  
+§7than anything this province has encountered, @§7чем все, с чем сталкивалась эта провинция,
+§7was found to be lurking beyond @§7была обнаружена скрывающейся за южной 
+§7Wynn's southern border. @§7границей Винн.
 
 §7Home of the Legendary Challenge, a @§7Дом Легендарного Челленджа - 
 §7test for those who think that @§7испытание для тех, кто думает, 
@@ -726,7 +727,7 @@
 §7take refuge in an abandoned prayer @§7в заброшенной молитвенной пещере
 
 §7The civilization that ruled this land @§7Цивилизация, правившая этой землей 
-§7over 1000 years ago seemed to @§7более 1000 лет назад, казалась 
+§7over 2000 years ago seemed to @§7более 2000 лет назад, казалась 
 §7be equally as educated as people @§7такой же образованной, как и люди 
 §7today. There are lots of texts @§7сегодня. Существует множество текстов, посвященных 
 §7dedicated to the Emperor. @§7Императору.
@@ -783,8 +784,9 @@
 §7magic. Very few alive understand it @§7познания в магии времени. Всего 
 §7or know about the people who @§7несколько людей знают или слышали 
 §7lived here, for they were neither @§7о существах, что жили здесь, и это 
-§7Human nor Villager. A species from @§7были не люди и не жители. Раса 
-§7a distant land. @§7с далекой земли 
+§7Human nor Villager. A species that @§7были не люди и не жители. Раса 
+§7fled the plains thousands of years @§7покинувшая равнины тысячу лет 
+§7ago. @§7назад. 
 
 §7This old library has been slumbering @§7Эта старая библиотека под 
 §7beneath Lusuco for years. It tells @§7городом Лусуко была заброшена годами. 
@@ -909,7 +911,7 @@
 §7Atop of the Tower of Ascension @§7На вершине Башни Вознесения 
 §7stands a being who claims to @§7стоит существо, которое утверждает, 
 §7be Death himself. While such claims @§7что оно - сама Смерть. Хотя 
-§7are a lie, it can’t be @§7подобные утверждения и являются ложью, 
+§7are a lie, it can't be @§7подобные утверждения и являются ложью, 
 §7ignored that the imposter has horrendous @§7нельзя игнорировать тот факт, что 
 §7amounts of power, from an unknown @§7самозванец обладает чудовищным количеством 
 §7source. @§7силы из неизвестного источника. 
@@ -917,9 +919,9 @@
 §7The large crystal floating above the @§7Большой кристалл, парящий над 
 §7Tower of Ascension was not of @§7Башней Вознесения, не имел земного 
 §7earthly origins. While powerful, the strange @§7происхождения. Несмотря на свою мощь, 
-§7magical aura it exudes has caused @§7странная магическая аура, которую он 
-§7various strange happenings in the surrounding @§7излучает, вызвала различные странные 
-§7region. @§7события в окружающем регионе. 
+§7magical aura it exudes has caused @§7странная магическая аура, которую он излучает, 
+§7various strange happenings in the surrounding @§7вызвала различные странные события в окружающем 
+§7region. @§7регионе. 
 
 §7An area unlike any other, the @§7В отличие от любой другой области, 
 §7green slime seems to move in @§7зеленая слизь, кажется, движется 
@@ -1036,7 +1038,7 @@
 §7The Silent Expanse has acted as @§7Тихое Пространство служило 
 §7the gateway to Dern since the @§7воротами в Дерн с самого начала  
 §7outbreak of the Corruption War. The @§7войны с порчей. Глаз наблюдал 
-§7Eye has watched all intruders.. and @§7за всеми незваными гостями... 
+§7Eye has watched all intruders... and @§7за всеми незваными гостями... 
 §7all attempts at escape. @§7и за всеми попытками к бегству.
 
 §7Just beyond this now abandoned ruin @§7Сразу за этими ныне заброшенными развалинами 
@@ -1090,3 +1092,334 @@
 §7power. Somewhere within its enigmatic halls @§7загадочных залах находится 
 §7lies Orphion, the physical manifestation of @§7Орфион - физическое проявление самого 
 §7Light itself. @§7Света.
+
+§7This once grand cathedral has begun @§7Этот некогда величественный собор начал 
+§7to fall into disrepair over the @§7приходить в упадок с годами, так как 
+§7years as the effects of the @§7последствия заражения ухудшились. Тем не менее, 
+§7Decay worsened. Nevertheless, the church still @§7церковь по-прежнему продолжает давать 
+§7continues to provide blessings and protection @§7благословения и защиту обитателям 
+§7to the Kander Forest's inhabitants. @§7Кандер леса.
+
+§7Feared as the highest security prison @§7Пугающая, как самая строгая тюрьма 
+§7in all of Gavel, this towering @§7во всем Гавеле, эта возвышающаяся крепость 
+§7stronghold has held the worst criminals @§7веками удерживала в своих стенах 
+§7within its walls for centuries. In @§7самых страшных преступников. Однако в 
+§7recent years, however, rumors have spread @§7последние годы распространились слухи, 
+§7that they have begun arresting innocent @§7что они начали арестовывать невиновных 
+§7citizens... @§7граждан...
+
+§7Creatures residing in mountain caves were @§7Существа, живущие в горных пещерах, были 
+§7forced to search for safer homes @§7вынуждены искать более безопасные жилища внизу, 
+§7down below, after the Decay reached @§7после того как Заражение достигло их 
+§7their habitats. @§7мест обитания.
+
+§7This slumlike town has suffered the @§7Этот похожий на трущобы город пострадал 
+§7worst of the Decay's effects over @§7от худших последствий Заражения на протяжении 
+§7the years, after its residents were @§7многих лет, после того как его жители были 
+§7forced out of their original homes @§7вынуждены покинуть свои первоначальные дома 
+§7by an unfortunate event. @§7из-за несчастного случая.
+§7When those who worked at the @§7Когда те, кто работал на секретной 
+§7secretive factory returned home, none would @§7фабрике, возвращались домой, никто не говорил 
+§7speak of their experiences inside of @§7о своих переживаниях внутри нее.
+
+§7Unlike the vast emerald hoards in @§7В отличие от огромных эмеральдных 
+§7bank vaults throughout Gavel, Olux's vault @§7кладов в банковских хранилищах по всему 
+§7has long been empty in its @§7Гавелу, хранилище Олукса уже давно пустует, 
+§7attempt to deal with the Decay. @§7пытаясь справиться с Заражением.
+
+§7The Grootslangs are peaceful creatures who @§7Грутсланги - мирные существа, живущие 
+§7live deep underground. It was long @§7глубоко под землей. Долгое время считалось, 
+§7thought they were extinct as they @§7что они вымерли, так как их не видели в 
+§7have not been seen in centuries. @§7течение столетий. В последнее время 
+§7Recently, something has driven them upwards. @§7что-то толкнуло их вверх.
+
+§7This magnificent library holds some of @§7В этой великолепной библиотеке хранятся 
+§7the oldest pieces of literature known @§7одни из самых древних произведений 
+§7to the world. However, not all @§7литературы, известных миру. Однако не все 
+§7scriptures have been archived in these @§7священные писания были сохранены в этих 
+§7halls... @§7залах...
+
+§7The parasitic creatures are unable to @§7Паразитические существа не могут 
+§7invade the canyon due to a @§7вторгнуться в каньон из-за странной 
+§7strange force that keeps the mountains @§7силы, которая держит горы в бесконечном
+§7in an endless motion. @§7движении.
+
+§7Despite being a popular household pet, @§7Несмотря на то, что это популярное домашнее 
+§7no one really knows the true @§7животное, никто на самом деле не знает истинного 
+§7origins of Wybels. Some theorize they @§7происхождения Вубелов. Некоторые строят теории, 
+§7fell from space, but such claims @§7что они упали из космоса, но такие утверждения 
+§7are often dismissed as conspiracy theories. @§7часто отвергаются как теории заговора.
+
+§7These temples stand as the last @§7Эти храмы стоят как последние 
+§7remaining pieces of a native civilization @§7остатки местной цивилизации на Летающих 
+§7within the Sky Islands, centered around @§7островах, сосредоточенные вокруг 
+§7the worship of an ancient, colossal @§7поклонения древнему, колоссальному 
+§7being. @§7существу.
+
+§7The Void is a limitless expanse @§7Пустота - это безграничное пространство, 
+§7transcending the concepts of space, time, @§7превосходящее понятия пространства, 
+§7and reality itself. Those who are @§7времени и самой реальности. Тем, 
+§7stranded within its abyss are left @§7кто застрял в ее бездне, остается 
+§7to wander its boundless depths for @§7вечно блуждать в ее безграничных 
+§7eternity. @§7глубинах.
+
+§7Much like their other outposts, the @§7Как и другие их аванпосты, небесные 
+§7Skyraiders were forced to abandon their @§7захватчики были вынуждены отказаться от 
+§7strongest defence after pressure from Villager @§7своей самой сильной защиты после давления 
+§7forces. @§7со стороны сил жителей.
+
+§7The drive for emeralds among the @§7Стремление к эмеральдам среди 
+§7Villagers was so great, they excavated @§7жителей было настолько велико, что 
+§7nearly all currency in the province. @§7они выкопали почти всю валюту в провинции. 
+§7The search for more led the @§7Поиски новой побудили жителей отправиться 
+§7Villagers to explore beyond the sea. @§7на разведку за море.
+
+§7Quartz's abilities of absorbing energy have @§7Со способностью кварца поглощать 
+§7been experimented on by various scientists @§7энергию экспериментировали различные ученые 
+§7throughout the years. Although it's potential @§7на протяжении многих лет. Хотя его потенциал 
+§7is great, it becomes increasingly unstable @§7велик, он становится все более нестабильным 
+§7when used. @§7при использовании.
+
+§7The Crashing of the Sky, as @§7Крах Неба, как его 
+§7they called it, impacted the lives @§7назвали, во многом повлиял на существование 
+§7of Gylia in many ways - @§7Гилии - даже спустя столетия 
+§7Even after centuries of its occurrence. @§7после самого события.
+
+§7Suffering from the cryptic Decay, Northern @§7Страдая от загадочного Заражения, Северная 
+§7Gavel is slowly withering away. Its @§7часть Гавела медленно увядает. Его зловещее 
+§7ominous downfall has caused the Villagers @§7появление привело к тому, что жители Ллевигара 
+§7of Llevigar to become increasingly superstitious. @§7стали все более суеверными.
+
+§7Unable to travel safely, farmers in @§7Не в состоянии спокойно 
+§7Olux generally live a lonely life. @§7путешествовать, фермеры в Олуксе живут 
+§7Few people noticed when they began @§7одинокой жизнью. Мало кто заметил, когда 
+§7to disappear. @§7они начали исчезать.
+
+§7The Elves' attempted to convince the @§7Эльфы пытались убедить жителей 
+§7Villagers to worship the light. The @§7поклоняться свету. Религия так и не 
+§7religion never took hold and thus @§7утвердилась, и поэтому эти храмы 
+§7these temples were abandoned. @§7были заброшены.
+
+§7Whatever lies beyond the barrier of @§7Все, что находится за барьером 
+§7the Great Stump has long been @§7Великого Пня, давно забыто. 
+§7forgotten. Any attempts to enter it @§7Все попытки проникнуть в него 
+§7have been made with no success. @§7были безуспешны.
+§7The history and culture of the @§7История и культура жителей формировались 
+§7Villagers were shaped by magic. Their @§7с помощью магии. Их необычные способы 
+§7unusual ways of converting such power @§7превращения такой силы в повседневную 
+§7to everyday chores was common, but @§7работу были обычным делом, но 
+§7some of these learnings have now @§7некоторые из этих знаний теперь 
+§7been long forgotten by the public. @§7давно забыты публикой.
+
+§7Many inexplicable ancient temples are scattered @§7Многие необъяснимые древние храмы 
+§7throughout Gavel, but some of these @§7разбросаны по всему Гавелу, но некоторые 
+§7ruins have been wiped out by @§7из этих руин были уничтожены жителями, 
+§7the Villagers as they sought to @§7когда те стремились расшириться.
+§7expand. Only a few remain to @§7 Лишь немногие сохранились до наших 
+§7this day. @§7дней.
+
+§7For centuries Gavel was a peaceful @§7На протяжении веков Гавел был 
+§7place. As time has gone on, @§7мирным местом. С течением времени в провинции 
+§7increasingly devastating events have plagued the @§7происходят все более разрушительные события. 
+§7province. Out of a need to @§7Из потребности выжить и расшириться, 
+§7survive and expand, the Villagers looked @§7жители искали надежду в другом 
+§7elsewhere for hope... @§7месте...
+
+§7The highly valued guard golems are @§7Высоко ценимые охранные големы довольно 
+§7quite effective in repelling danger, but @§7эффективны в отражении опасности, но их 
+§7they are not enough to help @§7недостаточно, чтобы помочь гражданам 
+§7the citizens of Olux. Desperation is @§7Олукса. Отчаяние - единственный выбор 
+§7the only choice for many. @§7для многих.
+
+§7Below the forests, far from the @§7Под лесами, вдали от глаз 
+§7eyes of Villagers, lies the terrible @§7жителей, находится страшная 
+§7truth of the Decay... @§7правда Заражения...
+
+§7After a battle with a powerful @§7После битвы с могущественным эльфом 
+§7Elf, the creature that broke into @§7существо, ворвавшееся в это царство, 
+§7this realm had to recoup its @§7должно было восстановить силы. Поэтому 
+§7strength. It therefore hibernated in an @§7оно много лет спало в неизвестном 
+§7unknown underground location for many years... @§7подземном месте...
+
+§7Crypts such as these were commonly @§7В таких склепах обычно хоронили самых 
+§7used to bury the richest in @§7богатых в округе. Однако агрессивная природа 
+§7the area. However, the Decay's aggressive @§7Заражения привела к тому, что эти склепы 
+§7nature resulted in these crypts becoming @§7были переполнены трупами и в конце 
+§7overfilled with corpses, and eventually abandoned. @§7концов заброшены.
+
+§7The river dividing the two forests @§7Река, разделяющая два леса, 
+§7has acted as a barrier against @§7десятилетиями служила барьером против 
+§7the Decay for decades. Using her @§7заражения. Используя свои силы, Лари 
+§7powers, Lari has single handedly kept @§7в одиночку не дала заражению 
+§7the Decay from spreading further south. @§7распространиться дальше на юг.
+
+§7The mythical waters of the Lazarus @§7Мифические воды Лазарус Ямы воздействуют 
+§7Pit affect corpses in different ways. @§7на трупы по-разному. Некоторые воскресают 
+§7Some resurrect with part of their @§7с нетронутой частью воспоминаний. Некоторые 
+§7memories intact. Some return as nothing @§7возвращаются не более чем оболочкой 
+§7but husks of their former selves. @§7своих прежних "я".
+
+§7The Decay was bad news for @§7Заражение было плохой новостью 
+§7the citizens of Gavel. However, it @§7для жителей Гавела. Тем не менее, провинция 
+§7became a haven for amateur warlocks @§7стала пристанищем для колдунов-любителей 
+§7to practice dark magic... poorly. @§7практиковать темную магию... неудачно.
+
+§7Shortly after his revival, Dullahan set @§7Вскоре после своего пробуждения Дуллахан 
+§7his sights on the manor of @§7обратил свой взор на поместье богатого 
+§7a wealthy Villager, slaughtering everyone in @§7крестьянина, убивая всех на своем пути. 
+§7his sight. To this day, the @§7По сей день замок остается под 
+§7castle remains under his control. @§7его контролем.
+
+§7For two hundred years the nest @§7В течение двухсот лет гнездо 
+§7of the parasitic creatures remained hidden. @§7паразитических существ оставалось скрытым. 
+§7It released countless Dark leeches into @§7Из него вышло бесчисленное количество 
+§7the undergrowth of the province. By @§7темных пиявок под лесом провинции. 
+§7the time it was found, it @§7К тому времени, когда его нашли, 
+§7was already too late. @§7было уже слишком поздно.
+
+§7The Skyraiders were known for their @§7Небесные захватчики были известны 
+§7domination over the Sky Islands. As @§7своим господством над Летающими островами. 
+§7the Villagers adapted to the land, @§7По мере того как жители приспосабливались 
+§7the Skyraiders' dominion faded. @§7к земле, власть Захватчиков угасала.
+
+§7Left behind by the Fracturing, this @§7Оставленные после разрыва, эти 
+§7intriguing ruin is thought to have @§7интригующие руины, как полагают, 
+§7been part of a second colossus @§7были частью второго колосса - 
+§7- though it is currently unknown @§7хотя в настоящее время 
+§7how this one came to be @§7неизвестно, как этот был
+§7destroyed. @§7разрушен.
+
+§7Long ago, the lower levels of @§7Давным-давно нижние уровни 
+§7Molten Heights were a mere cave @§7Расплавленных Высот были просто системой 
+§7system. Using their ancient magic, the @§7пещер. Используя свою древнюю магию, 
+§7Doguns carved out these caves into @§7Догуны вырезали из этих пещер 
+§7vast structures. @§7огромные сооружения.
+
+§7Long ago, a Colossus had once @§7Давным-давно, Колосс когда-то 
+§7inhabited the Ahms Region before its @§7населял регион Амс до его разрушения. Когда 
+§7fracturing. With nobody to keep the @§7некому стало контроллировать механизмы существа, 
+§7being's mechanisms in check, it eventually @§7он в конце концов вышел из строя 
+§7went haywire and shattered the entire @§7и это разрушило весь 
+
+§7Dogun culture flourished before the arrival @§7Культура Догунов процветала еще 
+§7of the Dwarves. The creators of @§7до прихода гномов. Создатели этой массивной 
+§7this massive tablet detailed the history @§7таблички подробно описали историю 
+§7of this most ancient race. @§7этой древнейшей расы.
+
+§7Dwarven society is not all it's @§7Общество гномов - это не то, чем 
+§7cracked up to be. In this @§7его представляют. На этом грязном черном рынке 
+§7sleazy black market, every product here @§7каждый товар в какой-то мере незаконен, 
+§7is illegal in some way, though @§7хотя большинство этих преступников только пытаются 
+§7most of these criminals are only @§7выжить в условиях королевской 
+§7trying to survive royal austerity. @§7политики экономии.
+
+§7A scar of the Dogun War. @§7Шрам войны с Догунами. Замораживание этого 
+§7The freezing of this Dogun city @§7догунского города оставило большинство его 
+§7left most of its old residents @§7старых жителей запечатанными вместе с ним, 
+§7sealed with it, to be forgotten. @§7чтобы быть забытыми.
+
+§7Commanding the battalions of Molten Heights @§7Командуя батальонами Расплавленных 
+§7to victory, these two revered Dwarven @§7Высот в победной битве, эти два 
+§7leaders' likeness inspire all those who @§7почитаемых вождя Гномов вдохновляют всех, 
+§7enter through this gate. @§7кто входит через эти ворота.
+
+§7Because of their immense power, dragons @§7Из-за своей огромной силы драконы 
+§7were captured by dwarves and forced @§7были захвачены гномами и были вынуждены 
+§7to do their bidding. Currently there @§7выполнять их приказы. В настоящее 
+§7is only one known living dragon @§7время остался только один известный 
+§7remaining. @§7живой дракон.
+
+§7For years the Doguns fought for @§7Долгие годы догуны сражались за 
+§7their land, but eventually every war @§7свою землю, но в конце концов в каждой 
+§7must have a victor, although no @§7войне должен быть победитель, хотя здесь 
+§7one is a winner. @§7никто не является выигравшим.
+
+§7Although the canyon tends to shift @§7Хотя каньон имеет тенденцию смещаться 
+§7and destroy the livelihoods of those @§7и уничтожать средства к существованию тех, кто живет 
+§7who live here, it is not @§7здесь, этого недостаточно, чтобы сдерживать 
+§7enough to hold back the refugees @§7беженцев из темных лесов, которые 
+§7of the dark forests, preferring the @§7предпочитают нестабильность каньона 
+§7canyon's instability to the Decay. @§7Заражению.
+
+§7The origins of the colorful crystals @§7Происхождение разноцветных кристаллов 
+§7is well known, though the power @§7хорошо известно, но сила которой 
+§7that they hold and their purpose @§7они обладают, и их назначение - 
+§7is a mystery that has driven @§7тайна, которая многих довела 
+§7many to the brink of insanity. @§7до безумия.
+
+§7Hidden in the depths of Thanos @§7В недрах Таноса спрятана 
+§7is a legendary forge. This armoury @§7легендарная кузница. В этой оружейной 
+§7is where weapons of dragon slaying @§7комнате было выковано оружие, способное 
+§7potential were forged; however, they are @§7убить дракона, однако его давно 
+§7no longer to be seen within @§7никто не видел.
+
+§7Earthquakes form cracks bursting with mystical @§7Землетрясения образуют трещины, взрывающиеся 
+§7energy throughout the canyon. These cracks @§7мистической энергией по всему каньону. Эти трещины 
+§7grow with each quake, and eventually, @§7растут с каждым землетрясением и в конечном 
+§7may lead to a catastrophe. @§7итоге могут привести к катастрофе.
+
+§7Many lose their lives to the @§7Многие погибают в каньоне, 
+§7canyon, yet their belongings are never @§7но их вещи никогда не находят. 
+§7to be found. A certain group @§7Некая группа хобгоблинов 
+§7of hobgoblins collect and hoard all @§7собирает и хранит все, что 
+§7that they can find. @§7может найти.
+
+§7The Canyon Colossus wasn't always a @§7Колосс Каньона не всегда 
+§7threat to its environment. But as @§7представлял угрозу для окружающей среды. 
+§7the years went on, something seems @§7Но шли годы, и что-то, похоже, вывело
+§7to have sent the powerful mechanisms @§7из строя мощные механизмы этого
+§7of this ancient being haywire. @§7древнего существа.
+
+§7These strange mushrooms spread across the @§7Эти странные грибы, разбросанные 
+§7Light Forest are enveloped in mystery. @§7по Светлому лесу, окутаны тайной. Их 
+§7Their forms are incredibly interchangeable, and @§7формы невероятно взаимозаменяемы, 
+§7their effects on people are even @§7а их воздействие на людей еще 
+§7more enigmatic. @§7более загадочно.
+
+§7The Light has endless ways to @§7У Света есть бесконечные способы 
+§7communicate with the inhabitants of Gavel. @§7общения с обитателями Гавела. 
+§7One such way is through physical @§7Один из таких путей - через 
+§7beings, from a higher level of @§7физических существ, с более высоким 
+§7existence. @§7уровнем существования.
+
+§7No one breaks the utmost laws @§7Никто не нарушает величайшие законы 
+§7of Aldorei without exilement. Those who @§7Алдорей из-за изгнания. Те, кто падет 
+§7fall in the eyes of the @§7в глазах высших Эльфов, будут изгнаны 
+§7High Elves are banished, never to @§7и никогда не вернутся. Те, 
+§7return. Those who were ejected were @§7кто был изгнан, были вынуждены искать 
+§7forced to find a new home. @§7новый дом.
+
+§7When the runes were combined eons @§7Когда руны были объединены одну 
+§7ago, the Forgery burst from the @§7вечность назад, Кузница вырвалась из-под земли. 
+§7ground. Sealed by its anchors is @§7Удерживаемая своими якорями, это 
+§7a mysterious fracture in space and @§7таинственный разрыв в пространстве и 
+§7time from which the structure draws @§7времени, из которого структура черпает 
+§7its power. @§7свою силу.
+
+§7Before time, it began. Through the @§7Перед началом времени все началось. 
+§7ages it ravaged the lands. Another @§7На протяжении веков оно опустошало 
+§7day, another night, it continues in @§7земли. Еще один день, еще одна ночь - 
+§7the worlds beyond. Forever it shall @§7это продолжается в потусторонних мирах. 
+§7last. @§7Это будет длиться вечно.
+
+§7These ancient beings are the enigma @§7Эти древние существа - загадка 
+§7of Gylia Plains. Their strange structure @§7равнин Гилии. Их странное строение 
+§7has deterred many historians from finding @§7удерживало многих историков от поиска ответа 
+§7the answer to one question - @§7на один вопрос - были ли они 
+§7were they beast or stone? @§7зверями или камнями?
+
+§7Upon discovering the meteors below Lake @§7После обнаружения метеоритов под 
+§7Gylia, a company dedicated to their @§7озером Гилия была создана компания, занимающаяся 
+§7collection and observation was established. Eventually, @§7их сбором и наблюдением. В конце концов, 
+§7however, their focus shifted towards Wynn. @§7однако, их внимание переключилось на Винн.
+
+§7These are the only remaining records @§7Это единственные сохранившиеся 
+§7that describe the events of the @§7записи, описывающие события войны 
+§7Gerten War. However, history was written @§7с Гертами. Однако, историю 
+§7by the victor. @§7писал победитель.
+
+§7More than two thousand years ago, @§7Более двух тысяч лет назад два 
+§7two meteors crashed down into the @§7метеорита упали на равнины Гилии. На 
+§7Gylia Plains. Over centuries, the crater @§7протяжении веков кратер заполнялся, 
+§7filled to become a lake where @§7превращаясь в озеро, где циркулирует 
+§7the most curious magic circulates. @§7самая любопытная магия.

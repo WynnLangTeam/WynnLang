@@ -110,7 +110,7 @@
 §2???: §aYou do not understand. But you must see. So, may we offer an end?@§2???: §aТы не понимаешь. Но ты должен увидеть. Итак, можем ли мы предложить конец?
 §2???: §aA home, invaded. A society, crumbling. The people, starving. The concerned, helpless. The flames, rising. An end you will not expect.@§2???: §aДом, вторглись чужаки. Общество, которое рушится. Люди, умирающие с голоду. Обеспокоенные, беспомощные. Пламя, поднимающееся вверх. Конец, которого ты не ожидаешь.
 §7[1/3] §2Royal Advisor: §aOur king has requested the removal of the slum folk.@§7[1/3] §2Королевский Советник: §aНаш король потребовал убрать людей из трущоб.
-§7[2/3] §2Royal Advisor: §aHe wants to clean up their tunnels and build more residencies. Please, go tell those hooligans to get out of our city.@§7[2/3] §2Королевский Советник: §aОн хочет очистить их туннели и построить новые резиденции. Пожалуйста, пойди скажи этим хулиганам, чтобы они убирались из нашего города.
+§7[2/3] §2Royal Advisor: §aHe wants to clean up their tunnels and build more residences. Please, go tell those hooligans to get out of our city.@§7[2/3] §2Королевский Советник: §aОн хочет очистить их туннели и построить новые резиденции. Пожалуйста, пойди скажи этим хулиганам, чтобы они убирались из нашего города.
 §7[3/3] §2Royal Advisor: §aI'll be waiting here for your return.@§7[3/3] §2Королевский Советник: §aЯ буду ждать здесь твоего возвращения.
 §7[1/4] §2Citizen: §aA King's messenger, hm? What are your kind doing here?@§7[1/4] §2Житель: §aКоролевский гонец, да? Что здесь делают такие, как ты?
 §7[2/4] §2Citizen: §aWait, eviction?! You can't possibly be serious! I understand orders are orders, but these are peoples' lives!@§7[2/4] §2Житель: §aПодожди, выселение?! Ты же не серьезно! Я понимаю, что приказ есть приказ, но это же жизнь людей!
@@ -212,7 +212,7 @@
 §7[9/12] §2???: §aDetlas will not fall today. We'll be making sure of that!@§7[9/12] §2???: §aДетлас сегодня не падет. Мы позаботимся об этом!
 §7[10/12] §2Bak'al: §aWe?@§7[10/12] §2Бак'ал: §aМы?
 §7[11/12] §2Bak'al: §aSelf-confident idiots. I won't even bother dealing with you two.@§7[11/12] §2Бак'ал: §aСамоуверенные идиоты. Я даже не буду утруждать себя общением с вами двумя.
-§712/12] §2Bak'al: §aPeon. Deal with this nonsense.@§7[12/12] §2Бак'ал: §aПехотинец. Разберись с этой ерундой.
+§7[12/12] §2Bak'al: §aPeon. Deal with this nonsense.@§7[12/12] §2Бак'ал: §aПехотинец. Разберись с этой ерундой.
 §7[1/4] §2Aledar: §a§lTASIM§a! How the hell did you manage to kill him?!@§7[1/4] §2Аледар: §a§lТАСИМ?§a Как, черт возьми, тебе удалось его убить?!
 §7[2/4] §2Bak'al: §aYou take too much stock in your ability. My victory is inevitable.@§7[2/4] §2Бак'ал: §aТы слишком много думаешь о своих способностях. Моя победа неизбежна.
 §7[3/4] §2Aledar: §aI’ll tear your guts out!!@§7[3/4] §2Аледар: §aЯ тебе кишки вырву!!

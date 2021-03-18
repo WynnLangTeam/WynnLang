@@ -1,13 +1,13 @@
 ########################Tribal Sanctuary#######################
-§7[1/2]§2 Tribe Zombie Chieftain: §aOutsiders! Kill the outsiders!@§7[1/2]§2 Tribe Zombie Chieftain: §aЧужак! Убейте чужака!
-§7[2/2]§2 Tribe Zombies: §aKill the outsiders!@§7[2/2]§2 Tribe Zombies: §aУбить чужака!
+§7[1/2] §2Tribe Zombie Chieftain: §aOutsiders! Kill the outsiders!@§7[1/2] §2Tribe Zombie Chieftain: §aЧужак! Убейте чужака!
+§7[2/2] §2Tribe Zombies: §aKill the outsiders!@§7[2/2]§2 Tribe Zombies: §aУбить чужака!
 
 #########################Bovine Barn############################
-§7[1/1]§2 Durum Protector:§a You will not be allowed to defile this sanctum of nature!@§7[1/1]§2 Durum Protector:§a §aТебе не позволено осквернять это святилище природы!
+§7[1/1] §2Durum Protector: §aYou will not be allowed to defile this sanctum of nature!@§7[1/1] §2Durum Protector: §aТебе не позволено осквернять это святилище природы!
 
 ######################Arena of the Legends########################
-§7[1/2]§2 Legend Trainers:§a Aha, someone is arriving to test their might!@§7[1/2]§2 Legend Trainers:§a §aАга, кто-то прибыл, чтобы проверить свою мощь! 
-§7[2/2]§2 Grand Magus:§a If you wish to take up your place among the legends, prove yourself! Defeat us!@§7[2/2]§2 Grand Magus:§a §aЕсли ты хочешь занять свое место среди легенд, покажи себя! Победи нас!
+§7[1/2] §2Legend Trainers: §aAha, someone is arriving to test their might!@§7[1/2] §2Legend Trainers: §aАга, кто-то прибыл, чтобы проверить свою мощь! 
+§7[2/2] §2Grand Magus: §aIf you wish to take up your place among the legends, prove yourself! Defeat us!@§7[2/2] §2Grand Magus: §aЕсли ты хочешь занять свое место среди легенд, покажи себя! Победи нас!
 
 ##########################Rotten Passage#########################
 §7[1/4] §2Haros: §aCome on, we've nearly broken through to Saint's Row! Detonate it already!@§7[1/4] §2Haros: §aДавайте, мы уже почти прорвались к кладбищу Saint's Row! Взорвите его уже!
@@ -29,8 +29,8 @@
 §7[4/4] §2????: §aThis is your last chance, I'm telling you. Turn right back around the way you came, or I can't be held responsible for what happens next.@§7[4/4] §2????: §aЭто твой последний шанс. Говорю же тебе. Поверни назад, откуда пришел, или я не отвечаю за то, что будет дальше.
 
 #############################Prison of Souls#########################
-§7[1/2]§2 The Beast: §aEscape...so close...need power...@§7[1/2]§2 The Beast: §aПобег...так близко...нужна сила...
-§7[2/2]§2 The Beast: §aMore power...you...T§a§kA§aKE YO§a§kU§aRS!@§7[2/2]§2 The Beast: §aБольше силы... ты... ЗА§a§kBRA§aТЬ ТВ§a§kO§aЮ!
+§7[1/2] §2The Beast: §aEscape... so close... need power...@§7[1/2]§2 The Beast: §aПобег... так близко... нужна сила...
+§7[2/2] §2The Beast: §aMore power... you... T§a§kA§aKE YO§a§kU§aRS!@§7[2/2]§2 The Beast: §aБольше силы... ты... ЗА§a§kBRA§aТЬ ТВ§a§kO§aЮ!
 
 ######################Plague Laboratory##########################
 §7[1/2]§2 Olux Plague Doctor:§a Hm? Aha, so the noises I heard were an uninvited guest rummaging about my laboratory...@§7[1/2]§2 Olux Plague Doctor:§a Хм? Ага, значит, шум, который я слышал, был незваным гостем, рывшимся в моей лаборатории...
@@ -55,7 +55,7 @@
 §7[12/12] §2§kSkien§2: §4§lDIE D§4§l§kIE DIE DIE §4DI§4§kE DIE §c§l§oDIE §4§kDIE DIE DIE D§4I§4§kE DIE@§7[12/12] §2§kSkien§2: §4§lУМРИ У§4§l§kMRI UMRI UMRI §4УМ§4§kRI UMRI §c§l§oУМРИ §4§kUMRI UMRI UMRI U§4М§4§kRI UMRI
 
 #######################Challenge of the Blades#####################
-§7[1/1] §2Blade of Shade: §aAha...you'll be a very interesting quarry to catch, human...@§7[1/1] §2Blade of Shade: §aАга...Ты будешь очень интересной пойманной жертвой, человек...
+§7[1/1] §2Blade of Shade: §aAha...you'll§a be a very interesting quarry to catch, human...@§7[1/1] §2Blade of Shade: §aАга...Ты будешь очень интересной пойманной жертвой, человек...
 
 #######################Bottomless Pit#####################
 §7There's... nothing here?@§7Здесь... ничего нет?

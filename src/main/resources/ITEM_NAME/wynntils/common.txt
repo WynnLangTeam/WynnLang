@@ -128,3 +128,58 @@
 §b§lThe Lone TelescopeÀ@§b§lОдинокий ТелескопÀ
 §b§lA Wynnic ExcavationÀ@§b§lВинник РаскопкиÀ
 §b§lFar From the RootsÀ@§b§lДалеко от Корней
+§b§lDecaying MountainsÀ@§b§lЗараженные Горы
+§b§lShrouded LivesÀ@§b§lОкутанные Жизнью
+§b§lEmpty VaultsÀ@§b§lПустые Хранилища
+§b§lHarmless WormsÀ@§b§lБезобидные Черви
+§b§lRelos' Secret LibraryÀ@§b§lСекретная Библиотека Релоса
+§b§lThe Grand ArchiveÀ@§b§lБольшой Архив
+§b§lThe Great BarrierÀ@§b§lВеликий Барьер
+§b§lOtherworldly OriginsÀ@§b§lПотустороннее Происхождение
+§b§lDesolate TemplesÀ@§b§lЗаброшенные Храмы
+§b§lThe Lonely AbyssÀ@§b§lОдинокая Бездна
+§b§lAhmsord's OriginsÀ@§b§lПроисхождение Амсорда
+§b§lAbandoned ExcavationsÀ@§b§lЗаброшенные Раскопки
+§b§lUnstable ExperimentsÀ@§b§lНестабильные Эксперименты
+§b§lMark of the MeteorsÀ@§b§lМетка Метеоров
+§b§lAt the Edge of DecayÀ@§b§lНа Краю Заражения
+§b§lLost FarmersÀ@§b§lПотерянные Фермеры
+§b§lTemple of LightÀ@§b§lХрам Света
+§b§lSealed AwayÀ@§b§lЗапечатанный
+§b§lTeachings of OldÀ@§b§lУчение Древних
+§b§lSpider RuinsÀ@§b§lПаучьи Руины
+§b§lLlevigar's Last HopeÀ@§b§lПоследняя Надежда Ллевигара
+§b§lShadowy DealingsÀ@§b§lТеневые Сделки
+§b§lThe Bane of GavelÀ@§b§lПроклятие Гавела
+§b§lParasite CocoonÀ@§b§lКокон Паразита
+§b§lThe Talor CryptÀ@§b§lСклеп Талора
+§b§lA Dividing ForceÀ@§b§lРазделяющая Сила
+§b§lHallowed GroundÀ@§b§lОсвященная Земля
+§b§lSummoner's FateÀ@§b§lСудьба Призывателя
+§b§lHeadless, Not HomelessÀ@§b§lБезголовый, но не Бездомный
+§b§lThe Heart of the DecayÀ@§b§lСердце Заражения
+§b§lRulers of the SkiesÀ@§b§lВластители Небес
+§b§lColossal RuinsÀ@§b§lКолоссальные Руины
+§b§lSubterranean CreationÀ@§b§lПодземное Творение
+§b§lThe Fallen ProtectorÀ@§b§lПавший Защитник
+§b§lCultural ArtefactÀ@§b§lКультурный Артефакт
+§b§lMaex Black MarketÀ@§b§lЧерный Рынок Маэкса
+§b§lSealed in IceÀ@§b§lЗапечатанный во Льду
+§b§lTomb of the FoundersÀ@§b§lМогила Основателей
+§b§lChained GoliathsÀ@§b§lПрикованные Голиафы
+§b§lThe Doguns' DefeatÀ@§b§lПоражение Догунов
+§b§lCanyon HousingÀ@§b§lДома в Каньоне
+§b§lCosmic CrystalsÀ@§b§lКосмические Кристаллы
+§b§lThanos ArmoryÀ@§b§lОружейная Таноса
+§b§lCracked CanyonÀ@§b§lТреснувший Каньон
+§b§lLoot of the LostÀ@§b§lДобыча Потерянных
+§b§lThe Broken ProtectorÀ@§b§lСокрушенный Защитник
+§b§lLight MushroomsÀ@§b§lСветлые Грибы
+§b§lMessengers From BeyondÀ@§b§lПосланцы Из-За Пределов
+§b§lBirth of EfilimÀ@§b§lРождение Эфелима
+§b§lFracture in RealityÀ@§b§lИзлом в Реальности
+§b§lNe du Valeos du EllachÀ@§b§lРожденный из Света и Тьмы
+§b§lThe Ancient OnesÀ@§b§lДревние
+§b§lGavel ExcavationÀ@§b§lРаскопки Гавела
+§b§lGylia Watch LibraryÀ@§b§lБиблиотека Стражей Гилия
+§b§lGylia's CataclysmÀ@§b§lКатаклизм Гилия

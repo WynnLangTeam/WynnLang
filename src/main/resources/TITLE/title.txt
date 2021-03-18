@@ -1,4 +1,4 @@
-################################Quests############################
+################################QUESTS############################
 §7Run to the end of the room!@§7Беги до конца комнаты! 
 §cRun!@§cБеги!
 §f §4Run!@§f §4Беги!
@@ -58,14 +58,14 @@
 §a[3/3] Hints found@§a[3/3] Подсказок найдено
 §c§k||§cUna§ku§cthor§ki§czed ac§kc§cess de§kt§cected§k||@§c§k||§cОбн§ka§cру§kzh§cен несанкц§kioni§cрованный до§ks§cтуп§k||
 §c§k||§cMan§ku§cal Interven§kt§cion req§ku§cired§k||@§c§k||§cТре§kbu§cется ручн§ko§cе вме§ksha§cтельство§k||
-§2Maxie: §aThis town is usually full of life.@§2Макси: §aЭтот город обычно полон жизни.
+§2Maxie: §aThis town is usually full of life...@§2Макси: §aЭтот город обычно полон жизни...
 §aBut Corkus has a secret...@§aНо у Коркуса есть секрет...
 §aOur own creations have rebelled against us.@§aНаши собственные создания восстали против нас.
 §aThey now raid towns for parts.@§aТеперь они нападают на города в поисках частей.
 §aMechs are getting increasingly more desperate.@§aРоботы становятся все более отчаянными.
 §aEven in rust, they are still powerful.@§aДаже в ржавчине, они все еще сильны.
 §aWe have tried to remove them but the factory always makes more.@§aМы пытались уничтожить их, но фабрика всегда делает больше.
-§aIt is Corkus’s greatest failure. It must be stopped.@§aЭто самая большая ошибка Коркуса. Это нужно остановить.
+§aIt is Corkus' greatest failure. It must be stopped.@§aЭто самая большая ошибка Коркуса. Это нужно остановить.
 §4/§c!§4\§c §dReactivation Sucessful!§c §4/§c!§4\@§4/§c!§4\§c §dДеактивация Успешна!§c §4/§c!§4\
 §4/§c!§4\§c §dReactivation Failed!§c §4/§c!§4\@§4/§c!§4\§c §dДеактивация Провалена!§c §4/§c!§4\
 §4Try again!@§4Попробуй снова!
@@ -146,9 +146,6 @@
 §710AP@§710ПП
 §790AP@§790ПП
 §7780AP@§780ПП
-§7200 AP@§200ПП
-§7800 AP@§800ПП
-§7820 AP@§820ПП
 Earlier...@Ранее...
 §aLari's Camp@§aЛагерь Лари
 §7Outrun the explosions to succeed!@§7Сбеги от взрыва, чтобы спастись!
@@ -174,8 +171,178 @@ Earlier...@Ранее...
 §aDarkness is winning, the Dern Beast will soon devour all light.@§aТьма побеждает, Зверь Дерна скоро поглотит весь свет.
 §cCancelled.@§cОтмененно.
 §e§lThe Realm of Light@§e§lЦарство Света
+§7The §benergy mushroom§7 has dropped!@§bЭнергетический Гриб§7 выпал!
+§4!§c§l Dodge §4!@§4!§c§l Уворачивайся §4!
+§4§k!§c§l Dodge §4§k!@§4§k!§c§l Уворачивайся §4§k!
+§4§lRUN!@§4§lБЕГИ!
+§7The pipe is flooding!@§7Труба заполняется!
+§a§lSUCCESS!@§a§lУСПЕХ!
+§7You successfully escaped!@§7Ты успешно сбежал!
+§7[1/1] §2???: §a§oMy pulse, you are worthy!@§7[1/1] §2???: §a§oМой пульс, ты достоин!
+You were caught by the orc!@Ты был пойман орком!
+§4Try again@§4Попробуй снова
+§f1400 BP@§f1400 ДП (До Портала)
+§7[1/7 Messes]@§7[1/7 Беспорядков]
+§7[2/7 Messes]@§7[2/7 Беспорядков]
+§7[3/7 Messes]@§7[3/7 Беспорядков]
+§7[4/7 Messes]@§7[4/7 Беспорядков]
+§7[5/7 Messes]@§7[5/7 Беспорядков]
+§7[6/7 Messes]@§7[6/7 Беспорядков]
+§7[7/7 Messes]@§7[7/7 Беспорядков]
+§4You Were Caught!@§4Ты был пойман!
+§cTry again...@§cПопробуй снова...
+§cTime's up@§cВремя вышло
+§cTime's up!@§cВремя вышло!
+§cStay hidden in the §agreenery@§cОставайся скрытым за §aзеленью
+§4§lC@§4§lП
+§4§lCA@§4§lПО
+§4§lCAU@§4§lПОЙ
+§4§lCAUG@§4§lПОЙМ
+§4§lCAUGH@§4§lПОЙМА
+§4§lCAUGHT@§4§lПОЙМАН
+§4§lCAUGHT!@§4§lПОЙМАН!
+§a§lCompleted!@§a§lПройдено!
+§cFail@§cПровал
+§4Failed@§4Провал
+§cYou Failed@§cТы не справился
+§7Try Again@§7Попробуй Снова
+§a§oYou must see.@§a§oТы должен увидеть.
+§a§oFew know this.@§a§oНемногие знают это.
+§a§oThere is more.@§a§oЕсть еще.
+§a§oInvisible connections.@§a§oНевидимые связи.
+§a§oInvisible wars.@§a§oНевидимые войны.
+§a§oAs one, to another.@§a§oКак одного, так и другого.
+§a§oHear me, my pulse.@§a§oУслышь меня, мой пульс.
+§a§oIt has found me.@§a§oОн нашел меня.
+§a§oIt burns and wracks me.@§a§oОн жжет и мучает меня.
+§a§oI cannot reach it.@§a§oЯ не могу добиться этого.
+§a§oYou are needed.@§a§oТы мне нужен.
+§a§oSave me.@§a§oСпаси меня.
+§aThe system has§n §abeen restarted@§aСистема бы§nла§a перезагружена
+§aThe system h§nas be§aen restarted@§aСистема б§nыла пе§aрезагружена
+§aThe system§n has been§a restarted@§aСистем§nа была пере§aзагружена
+§aThe syst§nem has been r§aestarted@§aСист§nема была переза§aгружена
+§aThe sy§nstem has been res§atarted@§aСис§nтема была перезагру§aжена
+§aThe §nsystem has been resta§arted@§aСи§nстема была перезагруже§aна
+§aTh§ne system has been restart§aed@§aС§nистема была перезагружен§aа
+§a§nThe system has been restarted@§a§nСистема была перезагружена
+§7Tasks Completed@§7Выполнение Заданий
+§cKill §45 §cMobs@§cУбей §45 §cМобов
+§7to enter the Pit.@§7чтобы попасть в Яму.
+§7Kill 5 more?@§7Убей еще 5?
+§7Another 5?!@§7И еще 5?!
+§aChallenge Completed@§aЧеллендж Пройден
+§7The way down has been opened@§7Путь вниз открыт
+§7The water reached the plants@§7Вода достигла цветка
+§aTask Completed@§aЗадание Выполнено
+§7The Lazarus Pit has been blocked off@§7Лазарус Яма заблокирована
+§7[1/5 Flerisi]@§7[1/5 Флериси]
+§7[2/5 Flerisi]@§7[2/5 Флериси]
+§7[3/5 Flerisi]@§7[3/5 Флериси]
+§7[4/5 Flerisi]@§7[4/5 Флериси]
+§7[5/5 Flerisi]@§7[5/5 Флериси]
+§7[You are entering the Dragonling Nest]@§7[Ты входишь в Гнездо Драгонлингов]
+§e1 minute remains@§e1 минута осталась 
+§6Save Siegfried!@§6Спаси Зигфрида!
+§7[§a15 Seconds§7]@§7[§a15 Секунд§7]
+§4Enemy Airship@§4Вражеский Дирижабль
+§9Ally Airship@§9Союзный Дирижабль
+§7Swap the gates to make a path!@§7Поменяй ворота местами чтобы сделать путь!
+§cY§6§ka§ah§by§d§ka§4 - Th§4§ke§4 F§4§ki§4n§4§ka§4l F§4§ko§4rm@§cЯ§6§ka§aх§bу§d§ka§4 - ФИ§4§ke§4А§4§ki§4л§4§ka§4Я Фо§4§ko§4ма
+§7Usurper of Boundless Mushrooms@§7Захватчик Безграничных грибов
+§cThe sample burnt out@§cОбразец сгорел
+§4The Quartron@§4Куартрон
+§cQuartz Giant@§cКварцевый Гигант
+§7holes patched.@§7дыры залатаны.
+§cKill§4 10 swamp monsters§c to continue§4!@§cУбей§4 10 болотных монстров§c для продолжения§4!
+§47 swamp monsters§c left§4!@§47 болотных монстров§c осталось§4!
+§44 swamp monsters§c left§4!@§44 болотных монстра§c осталось§4!
+§41 swamp monster§c left§4!@§41 болотный монстр§c остался§4!
+§7Door is opening...@§7Дверь открывается...
+§4Don't fall down!@§4Не упади вниз!
+§4Challenge failed@§4Челлендж провален
+§aSUCCESS!@§aУСПЕХ!
+§bG y@§bБ в
+§7L 1@§7Ур 1
+§bGe dy!@§bБу ов!
+§7Le §7/1@§7Уро §7/1
+§bGet ady!@§bБудь тов!
+§7Lev §f1§7/1@§7Урове §f1§7/1
+§bGet eady!@§bБудь отов!
+§7Leve §f1§7/1@§7Уровен §f1§7/1
+§bGet Ready!@§bБудь Готов!
+§7Level §f1§7/1@§7Уровень §f1§7/1
+§7L 3@§7У 3
+§7Press §bRight§7!@§7Нажми §bПраво§7!
+§7Press §bLeft§7!@§7Нажми §bЛево§7!
+§7Le §7/3@§7Уро §7/3
+§7Lev §f1§7/3@§7Урове §f1§7/3
+§7Leve §f1§7/3@§7Уровен §f1§7/3
+§7Level §f1§7/3@§7Уровень §f1§7/3
+§7Lev §f2§7/3@§7Урове §f2§7/3
+§7Leve §f2§7/3@§7Уровен §f2§7/3
+§7Level §f2§7/3@§7Уровень §f2§7/3
+§7Lev §f3§7/3@§7Уров §f3§7/3
+§7Leve §f3§7/3@§7Уровен §f3§7/3
+§7Level §f3§7/3@§7Уровень §f3§7/3
+ §4You Failed!@ §4Ты не Справился!
+§7You didn't finish in time!@§7Ты не закончил вовремя!
+§7You didn't jam all the robots...@§7Ты не заглушил всех роботов...
+§7You jammed all the robots!@§7Ты заглушил всех роботов!
+§7L 2@§7У 2
+§7Le §7/2@§7Уро §7/2
+§7Lev §f1§7/2@§7Уров §f1§7/2
+§7Leve §f1§7/2@§7Уровен §f1§7/2
+§7Level §f1§7/2@§7Уровень §f1§7/2
+§7Lev §f2§7/2@§7Уров §f2§7/2
+§7Leve §f2§7/2@§7Уровен §f2§7/2
+§7Level §f2§7/2@§7Уровень §f2§7/2
+§7L 8@§7У 8
+§7Le §7/8@§7Уро §7/8
+§7Lev §f1§7/8@§7Урове §f1§7/8
+§7Leve §f1§7/8@§7Уровен §f1§7/8
+§7Level §f1§7/8@§7Уровень §f1§7/8
+§7Press §bRight§7@§7Нажми §bПраво§7
+§7Press §bLeft§7@§7Нажми §bЛево§7
+§7Lev §f2§7/8@§7Уров §f2§7/8
+§7Leve §f2§7/8@§7Уровен §f2§7/8
+§7Level §f2§7/8@§7Уровень §f2§7/8
+§7Lev §f3§7/8@§7Уров §f3§7/8
+§7Leve §f3§7/8@§7Уровен §f3§7/8
+§7Level §f3§7/8@§7Уровень §f3§7/8
+§7Lev §f4§7/8@§7Уров §f4§7/8
+§7Leve §f4§7/8@§7Уровен §f4§7/8
+§7Level §f4§7/8@§7Уровень §f4§7/8
+§7Lev §f5§7/8@§7Уров §f5§7/8
+§7Leve §f5§7/8@§7Уровен §f5§7/8
+§7Level §f5§7/8@§7Уровень §f5§7/8
+§7Lev §f6§7/8@§7Уров §f6§7/8
+§7Leve §f6§7/8@§7Уровен §f6§7/8
+§7Level §f6§7/8@§7Уровень §f6§7/8
+§7Lev §f7§7/8@§7Уров §f7§7/8
+§7Leve §f7§7/8@§7Уровен §f7§7/8
+§7Level §f7§7/8@§7Уровень §f7§7/8
+§7Lev §f8§7/8@§7Уров §f8§7/8
+§7Leve §f8§7/8@§7Уровен §f8§7/8
+§7Level §f8§7/8@§7Уровень §f8§7/8
+§7Reach the §btop§7!@§7Доберись до §bвершины§7!
+§4Survive!@§4Выживи!
+§7-1 second@§7-1 секунда
+§7Press §aLeft§7@§7Нажми §aЛево§7
+§7Press §eLeft§7@§7Нажми §eЛево§7
+ §4You Failed...@ §4Ты не Справился...
+§7You didn't finish in time.@§7Ты не закончил вовремя.
+You logged in from another location@Ты зашел из другой локации
+§7-2 seconds@§7-2 секунды
+§7Press §aRight§7@§7Нажми §aПраво§7
+§7Press §eRight§7@§7Нажми §eПраво§7
+§7-15% charge@§7-15% заряда
+§7No penalty@§7Без штрафа
+§7-5% charge@§7-5% заряда
+§7-20% charge@§7-20% заряда
+§7-30% charge!@§7-30% заряда
 
-###########################Crates################################
+###########################CRATES################################
 §7Click to stop the items@§7Кликни, чтобы остановить предметы
 §cSlowing down...@§cОстанавливаемся...
 §dCandle Staff@§dОружие Свеча
@@ -298,11 +465,16 @@ Earlier...@Ранее...
 §4Frosty Relik@§4Морозный Релик
 §4Frosty Bow@§4Морозный Лук
 §4Frosty Staff@§4Морозный Посох
+§4Frosty Spear@§4Морозное Копье
 §6Pirate Spear@§6Пиратское Копье
 §6Pirate Wand@§6Пиратский Посох
 §6Pirate Relik@§6Пиратский Релик
 §6Pirate Cannon@§6Пиратская Пушка
 §6Pirate Hook@§6Пиратский Крюк
+§4Adventurer's Hat@§4Шапка Путешественника
+§cFlower Crown@§cЦветочная Корона
+§4Dynasty Dagger@§4Кинжал Династии
+§4Dynasty Relik@§4Релик Династии
 
 #########################System##################################
 §bServer restarting!@§bРестарт сервера!
@@ -334,6 +506,7 @@ We are §arestarting§f, please join back in a moment!@§fМы §aперезаг
 §dYou have logged in somewhere else@§dТы залогинен где-то еще
 §dEdit mode enabled@§dРежим редактирования включен
 §dType §f/housing edit§d to switch back@§dНапиши §f/housing edit§d для переключения обратно
+Packet error code A1. If you're not hacking, please post about this on the forums!@Код ошибки пакета A1. Если вы не занимаетесь хакерством, пожалуйста, напишите об этом на форуме!
 
 #########################Spells###############################
 §aL§7-§aL§7-§7§n?@§aЛ§7-§aЛ§7-§7§n?
@@ -370,12 +543,7 @@ We are §arestarting§f, please join back in a moment!@§fМы §aперезаг
 §6§lLet's Party!@§6§lДавайте веселиться!
 §7Click to shoot, Sneak to jump@§7Кликни для выстрела, Присядь для прыжка
 §aYou've entered the warzone@§aТы вошел в зону захвата
-§f464 AP@§f464 ПП
-§f886 AP@§f886 ПП
-§f347 AP@§f347 ПП
-§f162 AP@§f162 ПП
 §8550 AP@§8550 ПП
-§f570 AP@§f570 ПП
 §7800 BP@§7800 ДП
 §a100 BP@§a100 ДП
 §f(After Portal)@§f(После Портала)
@@ -395,8 +563,24 @@ We are §arestarting§f, please join back in a moment!@§fМы §aперезаг
 §7§nMusic to our ears@§7§nМузыка для наших ушей
 §3§lComposer's §bHall@§b§lЗал §3Композиторов 
 §7Wynn Plains: [1/1]@§7Равнины Винн: [1/1]
+§7§nLet me tell you a story@§7§nПозволь мне рассказать тебе историю
+§3§lGM's§6§l §bLibrary@§3§lГМ§6§l §bБиблиотека
+§7You didn't click the rune in time!@§7Ты не нажал по руне вовремя!
+§fTwains' Graveyard@§fКладбище Твейнов
+§fLlevigar Docks@§fДоки Ллевигара
+§7Gelibord Castle@§7Замок Гелиборда
+§714 years ago.@§714 лет назад.
+§8Ahms Region@§8Амс Регион
+§7Ahms Region@§7Амс Регион
+§fMolten Heights@§fРасплавленные Высоты
+§fCourag@§fКураг
+§7Dogun Capital@§7Столица Догунов
+§fCanyon of the Lost@§fКаньон Потерянных 
+§fGylia Plains@§fРавнины Гилия
+
 
 #############################Discoveries#########################
+§3Secret Discovery Found@§3Секретное Открытие найдено
 §bTemple of Swords@§bХрам Мечей
 §bBoulder Pit@§bБулыжниковая Яма
 §bTimeless Ruin@§bВечные Руины
@@ -420,7 +604,7 @@ We are §arestarting§f, please join back in a moment!@§fМы §aперезаг
 §bBoulder Breaker@§bВалун Разрушитель
 §bBeneath the Roots@§bПод Корнями
 §bLusuco's Secret Library@§bСекретная Библиотека Лусуко
-§bRelos's Secret Library@§bСекретная Библиотека Релос
+§bRelos' Secret Library@§bСекретная Библиотека Релоса
 §bLost Avos City@§bПотерянный Авос Город
 §bNecklace Chamber@§bКамера Амулета
 §bThe Lone Telescope@§bОдинокий Телескоп
@@ -445,6 +629,61 @@ We are §arestarting§f, please join back in a moment!@§fМы §aперезаг
 §bFate of the Olm@§bСудьба Олмов
 §bSilent Expanse's Secret@§bСекрет Тихого Пространства
 §bFar From the Roots@§bДалеко от Корней
+§bThe Physical Plane@§bФизический План
+§bDecaying Mountains@§bЗараженные Горы
+§bEmpty Vaults@§bПустые Хранилища
+§bHarmless Worms@§bБезобидные Черви
+§bLost Farmers@§bПотерянные Фермеры
+§bShrouded Lives@§bОкутанные Жизнью
+§bThe Grand Archive@§bБольшой Архив
+§bThe Great Barrier@§bВеликий Барьер
+§bOtherworldly Origins@§bПотустороннее Происхождение
+§bDesolate Temples@§bЗаброшенные Храмы
+§bThe Lonely Abyss@§bОдинокая Бездна
+§bAhmsord's Origins@§bПроисхождение Амсорда
+§bAbandoned Excavations@§bЗаброшенные Раскопки
+§bUnstable Experiments@§bНестабильные Эксперименты
+§bMark of the Meteors@§bМетка Метеоров
+§bAt the Edge of Decay@§bНа Краю Заражения
+§bTemple of Light@§bХрам Света
+§bSealed Away@§bЗапечатанный
+§bTeachings of Old@§bУчение Древних
+§bSpider Ruins@§bПаучьи Руины
+§bLlevigar's Last Hope@§bПоследняя Надежда Ллевигара
+§bShadowy Dealings@§bТеневые Сделки
+§bThe Bane of Gavel@§bПроклятие Гавела
+§bParasite Cocoon@§bКокон Паразита
+§bThe Talor Crypt@§bСклеп Талора
+§bA Dividing Force@§bРазделяющая Сила
+§bHallowed Ground@§bОсвященная Земля
+§bHeadless, Not Homeless@§bБезголовый, но не Бездомный
+§bSummoner's Fate@§bСудьба Призывателя
+§bThe Heart of the Decay@§bСердце Заражения
+§bColossal Ruins@§bКолоссальные Руины
+§bRulers of the Skies@§bВластители Небес
+§bThe Fallen Protector@§bПавший Защитник
+§bSubterranean Creation@§bПодземное Творение
+§bCultural Artefact@§bКультурный Артефакт
+§bMaex Black Market@§bЧерный Рынок Маэкса
+§bSealed in Ice@§bЗапечатанный во Льду
+§bTomb of the Founders@§bМогила Основателей
+§bChained Goliaths@§bПрикованные Голиафы
+§bThe Doguns' Defeat@§bПоражение Догунов
+§bCanyon Housing@§bДома в Каньоне
+§bThanos Armory@§bОружейная Таноса
+§bCosmic Crystals@§bКосмические Кристаллы
+§bCracked Canyon@§bТреснувший Каньон
+§bLoot of the Lost@§bДобыча Потерянных
+§bLight Mushrooms@§bСветлые Грибы
+§bMessengers From Beyond@§bПосланцы Из-За Пределов
+§bBirth of Efilim@§bРождение Эфелима
+§bFracture in Reality@§bИзлом в Реальности
+§bNe du Valeos du Ellach@§bРожденный из Света и Тьмы
+§bThe Ancient Ones@§bДревние
+§bGavel Excavation@§bРаскопки Гавела
+§bGylia Watch Library@§bБиблиотека Стражей Гилия
+§bGylia's Cataclysm@§bКатаклизм Гилия
+§bThe Broken Protector@§bСокрушенный Защитник
 
 ################################Dungeons#############################
 §8Decrepit Sewers@§8Ветхая Канализация
@@ -618,6 +857,8 @@ We are §arestarting§f, please join back in a moment!@§fМы §aперезаг
 §4Orange Cybel@ 
 §4Doctor Legendary@ 
 §3Miniboss Defeated@§3Минибосс Побежден
+§c§l! §4§l[§c§lWARNING§4§l]§c§l !@§c§l! §4§l[§c§lВНИМАНИЕ§4§l]§c§l !
+§cUsing Horse to bypass Cur parkour@§cИспользование лошади для обхода паркура
 
 ######################Entering/Leaving##################################
 §7[You are now entering PirateÀÀÀCove]@§7[Ты входишь в Пиратскую Бухту]
@@ -740,7 +981,7 @@ We are §arestarting§f, please join back in a moment!@§fМы §aперезаг
 §7[You are now entering the Update Room]@§7[Ты входишь в Апдейт Комнату]
 
 ############################RAIDS############################
-§b§lSurvive §7§lfor@§b§lВыживи §7§lдля
+§b§lSurvive §7§lfor@§b§lВыживи §7§l
 §3§kThe Canyon Colossus@ 
 §b§kWhen the earth begins to shatter...@ 
 §3The Canyon Colossus@§3Колосс Каньона
@@ -748,7 +989,6 @@ We are §arestarting§f, please join back in a moment!@§fМы §aперезаг
 §7[Challenge complete]@§7[Челлендж пройден]
 §7[Challenge Complete]@§7[Челлендж пройден]
 §3The Colossus@§3Колосс
-§bThe Broken Protector@§bСокрушенный Защитник
 §8§kThe defense system@ 
 §7§khas been enabled@ 
 §8The defense system@§8Системы защиты
@@ -764,3 +1004,70 @@ We are §arestarting§f, please join back in a moment!@§fМы §aперезаг
 §c§lRed@§c§lКрасный
 §3§lCyan@§3§lГолубой
 §a§lLight Green@§a§lСветло-Зеленый
+§b§lK@§b§lК
+§b§lCKP@§b§lЕКП
+§b§lECKP@§b§lЕКПО
+§b§lECKPO@§b§lЕКПО
+§b§lECKPOI@§b§lЕКПОИ
+§b§lHECKPOI@§b§lЧЕКПОИ
+§b§lHECKPOIN@§b§lЧЕКПОИН
+§b§lHECKPOINT@§b§lЕКПОИНТ
+§b§lCHECKPOINT@§b§lЧЕКПОИНТ
+§b§lCHECKPOINT!@§b§lЧЕКПОИНТ!
+§6§l[§e§l!§6§l] §b§lCHECKPOINT §6§l[§e§l!§6§l]@§6§l[§e§l!§6§l] §b§lЧЕКПОИНТ §6§l[§e§l!§6§l]
+§b§lCKPO@§b§lКПО
+§b§lKP@§b§lКП
+§8[LowerÀÀÀPlatform]@§8[Нижняя Платформа]
+§4Destroy@§4Уничтожь
+§8The Colossal Core@§8Колоссальное Ядро
+§bto enter the Colossus@§bдля входа в Колосса
+§4!§c§l Dodge §4!@§4!§c§l Уклонение §4!
+§4§k!§c§l Dodge §4§k!@§4§k!§c§l Уклонение §4§k!
+§2Nest of The Grootslangs@§2Гнездо Грутслангов
+§aA hunger to devour the land...@§aЖажда пожирать землю...
+§2§lThe Grootslangs@§2§lГрутсланги
+§7The Restless Devourers@§7Неугомонные Пожиратели
+§7Something's about to happen...@§7Что-то должно произойти...
+§7Usurper of the Sands@§7Захватчик Песков
+§a§lD C@§a§lД З
+§a§lD CO@§a§lД ЗА
+§a§lID CO@§a§lЙД ЗА
+§a§lID COM@§a§lЙД ЗАВ
+§a§lID COMP@§a§lЙД ЗАВЕ
+§a§lID COMPL@§a§lЙД ЗАВЕР
+§a§lAID COMPLE@§a§lЕЙД ЗАВЕРШ
+§a§lAID COMPLET@§a§lЕЙД ЗАВЕРШЕ
+§a§lRAID COMPLETE@§a§lРЕЙД ЗАВЕРШЕ
+§a§lRAID COMPLETED@§a§lРЕЙД ЗАВЕРШЕН
+§a§lRAID COMPLETED!@§a§lРЕЙД ЗАВЕРШЕН!
+§a§lID COMPLE@§a§lЙД ЗАВЕРШ
+§a§lD COMPL@§a§lД ЗАВЕР
+§a§lCOMPL@§a§lЗАВЕР
+§a§lCOMP@§a§lЗАВЕ
+§a§lCOM@§a§lЗАВ
+§a§lCO@§a§lЗА
+§a§lC@§a§lЗ
+§7of@§7о
+§7of t@§7д
+§7of th@§7о Г
+§7t of th@§7до Г
+§7st of the@§7здо Гр
+§7st of the G@§7ездо Гру
+§7st of the Gro@§7ездо Грут
+§7st of the Groo@§7ездо Грутс
+§7est of the Groot@§7нездо Грутсл
+§7est of the Groots@§7нездо Грутсла
+§7est of the Grootsl@§7нездо Грутслан
+§7est of the Grootsla@§7нездо Грутсланго
+§7Nest of the Grootslan@§7Гнездо Грутсланго
+§7Nest of the Grootslangs@§7Гнездо Грутслангов
+§7st of the Grootsla@§7ездо Грутсла
+§7t of the Groots@§7здо Грутс
+§7of the Groot@§7до Грут
+§7f the Groo@§7о Гру
+§7the Gro@§7Гру
+§7he Gr@§7Гр
+§7e G@§7Г
+§7Core's HP@§7ХП Ядра
+§430 seconds remain@§430 секунд осталось
+§8Eyes Ignited@§8Глаза Зажглись

@@ -1,4 +1,3 @@
-##########################ITEMS###########################
 §dEssren's Coat@ 
 §dVolmor's Flair@ 
 The Queen's Tiara@ 
@@ -8257,6 +8256,8 @@ Yamato Spear@
 Deathsplinter@ 
 Barbarian@ 
 §eTosach@ 
+§bChocolaty§6 [Lv. 1]@ 
+§bChocolaty2§6 [Lv. 1]@ 
 
 #########################TRACKS##########################
 §bLuxury of the Cease-Fire (Ragni)@ 
@@ -8414,6 +8415,34 @@ Barbarian@
 §bBeatskipper (Seaskipper Travel)@ 
 §bSkippin' Service (Misadventure on the Sea 1)@ 
 §bLost at Sea (Misadventure on the Sea 2)@ 
+§eDeathbringer@ 
+§5Olympic@ 
+§bShadestep@ 
+§bBlade of Shade@ 
+§aVillager Pants@ 
+§eFirst Steps@ 
+§eWar PikeÀ@ 
+§eChain HookÀ@ 
+§dThunder Relic Spear@ 
+§eCaldera@ 
+§eSheathed GlaiveÀ@ 
+§dEidolon@ 
+§bHelm Splitter@ 
+§bQuick-Strike Leggings@ 
+§dBack-Up Plan@ 
+§eDead Man's FlatsÀ@ 
+§eGridlockÀ@ 
+§eIron GrippersÀ@ 
+§eNerium Great Spear@ 
+§eSpark of CourageÀ@ 
+§dThe Scarecrow's Vest@ 
+§cBlossom HazeÀ@ 
+§bOutrageÀ@ 
+§cRhythm of the SeasonsÀ@ 
+§bStratosphereÀ@ 
+§bCrater PrintÀ@ 
+§cOrnithopterÀ@ 
+
 
 #####################TERRITORY/QUEST NAMES#########################
 §f§lBlack MagicÀ@ 
@@ -9197,6 +9226,43 @@ Barbarian@
 §4§lTunnel TroubleÀ @ 
 §4§lThe Sewers of RagniÀ @ 
 §4§lInfested PlantsÀ @ 
+§e§lEmerald TrailÀ@ 
+§f§lNivla Woods EntranceÀ@ 
+§e§lKatoa RanchÀ@ 
+§e§lMalticÀ@ 
+§e§lCoastal TrailÀ@ 
+§f§lSouth Farmers ValleyÀ@ 
+§e§lNest of the GrootslangsÀ@ 
+§e§lGelibordÀ@ 
+§f§lEntrance to KanderÀ@ 
+§f§lAbandoned ManorÀ@ 
+§f§lKander MinesÀ@ 
+§f§lSunspark CampÀ@ 
+§f§lPath To Ozoth's Spire UpperÀ@ 
+§e§lThe Canyon ColossusÀ@ 
+§f§lKrolton's CaveÀ@ 
+§e§lDetlas SuburbsÀ@ 
+§e§lDetlasÀ@ 
+§e§lAncient NemractÀ@ 
+§f§lNorth Farmers ValleyÀ@ 
+§f§lSablestone CampÀ@ 
+§f§lIron RoadÀ@ 
+§f§lGoblin Plains WestÀ@ 
+§f§lForgotten PathÀ@ 
+§f§lGoblin Plains EastÀ@ 
+§f§lLoamsprout CampÀ@ 
+§e§lCorkus CityÀ@ 
+§f§lAvos WorkshopÀ@ 
+§f§lEfilim South PlainsÀ@ 
+§f§lEfilim South East PlainsÀ@ 
+§f§lAldorei's RiverÀ@ 
+§e§lThe Gateway to LightÀ@ 
+§f§lNivla Woods EdgeÀ@ 
+§f§lAldorei's WaterfallÀ@ 
+§f§lCinfras's Small FarmÀ@ 
+§f§lFinal StepÀ@ 
+§e§lBottomless PitÀ@ 
+§e§lMonument to SiegfriedÀ@ 
 Zero@ 
 Rapids@ 
 Corrupted Nii Mukluk@ 
@@ -9901,3 +9967,2016 @@ Efilim Sage Cloak@
 §2§lStar Thief֎À @ 
 §2§lFrost BiteÀ @ 
 §2§lA Hunter's CallingÀ @ 
+Dust Bowl@ 
+Pigman's Ribbing@ 
+Searing Soles@ 
+Calor@ 
+Electrophorus@ 
+§a§lFinding The LightÀ@ 
+§6§lWynnExcavation Site DÀ@ 
+§6§lRealm of Light I - The Worm HolesÀ @ 
+§6§lLazarus Pit֎À @ 
+§6§lThe Feathers Fly Part IÀ @ 
+§a§lBlazing RetributionÀ @ 
+§a§lAn Iron Heart Part I֎À @ 
+§a§lAn Iron Heart Part II֎À @ 
+§a§lReclaiming the House֎À @ 
+§a§lRealm of Light II - TaprootÀ @ 
+§a§lFrom the Mountains֎À @ 
+§a§lShattered Minds֎À @ 
+§a§lLexdale Witch TrialsÀ @ 
+§a§lAcquiring Credentials֎À @ 
+§a§lThe Feathers Fly Part IIÀ @ 
+§2§lRealm of Light III - A Headless HistoryÀ @ 
+§2§lRealm of Light IV - Finding the LightÀ @ 
+§2§lRealm of Light V - The Realm of LightÀ @ 
+§2§lThe Hero of GavelÀ @ 
+§dAgaveÀ@ 
+§cAbrasionÀ@ 
+§cRhythm of the SeasonsÀ@ 
+§bCrater PrintÀ@ 
+§cHomeorhesisÀ@ 
+§cOrnithopterÀ@ 
+§fAndesite-Hewn SpearÀ@ 
+Water Mask@ 
+§dFrenzied Mockery@ 
+Slayer@ 
+Sightlines@ 
+Ballad@ 
+WitherString@ 
+Leech Bow@ 
+Value@ 
+Silver@ 
+King of Hearts@ 
+§6§lMemory ParanoiaÀ@ 
+§a§lRealm of Light I - The Worm HolesÀ @ 
+§a§lRealm of Light III - A Headless HistoryÀ @ 
+§a§lLazarus Pit֎À @ 
+§a§lRealm of Light IV - Finding the LightÀ @ 
+§a§lRealm of Light V - The Realm of LightÀ @ 
+§4§lThe Feathers Fly Part IÀ @ 
+§4§lThe Feathers Fly Part IIÀ @ 
+§4§lThe Hero of GavelÀ @ 
+§4§lBlazing RetributionÀ @ 
+§e§lKatoa RanchÀ@ 
+§e§lDetlasÀ@ 
+§e§lGelibordÀ@ 
+§e§lLexdaleÀ@ 
+§fx10§7 Stone@ 
+§fx10§7 Granite@ 
+§fx10§7 Stone Bricks@ 
+§fx5§7 Gold Ore@ 
+§fx10§7 Sand@ 
+§fx10§7 Red Sand@ 
+§fx10§7 Cracked Stone Bricks@ 
+§fx10§7 Cobblestone@ 
+§fx5§7 Polished Granite@ 
+§fx10§7 Dark Stone Bricks@ 
+§fx3§7 Block of Gold@ 
+§fx10§7 Sandstone@ 
+§fx10§7 Red Sandstone@ 
+§fx5§7 Chiseled Stone Bricks@ 
+§fx10§7 Dark Stone@ 
+§fx10§7 Andesite@ 
+§fx10§7 Stone Bricks Slab@ 
+§fx10§7 Bricks@ 
+§fx5§7 Smooth Sandstone@ 
+§fx5§7 Smooth Red Sandstone@ 
+§fx10§7 Dark Cracked Stone Bricks@ 
+§fx10§7 Dark Cobblestone@ 
+§fx5§7 Polished Andesite@ 
+§fx10§7 Stone Brick Stairs@ 
+§fx10§7 Brick Stairs@ 
+§fx5§7 Chiseled Sandstone@ 
+§fx5§7 Chiseled Red Sandstone@ 
+§fx5§7 Dark Chiseled Stone Bricks@ 
+§fx10§7 Cobblestone Slab@ 
+§fx10§7 Diorite@ 
+§fx5§7 Coal Ore@ 
+§fx10§7 Stone Slab@ 
+§fx10§7 Sandstone Stairs@ 
+§fx10§7 Red Sandstone Stairs@ 
+§fx5§7 Iron Ore@ 
+§fx10§7 Cobblestone Stairs@ 
+§fx5§7 Polished Diorite@ 
+§fx3§7 Block of Coal@ 
+§fx10§7 Dark Cobblestone Slab@ 
+§fx10§7 Sandstone Slab@ 
+§fx10§7 Red Sandstone Slab@ 
+§fx3§7 Block of Iron@ 
+§fAndesite-Hewn Bow@ 
+§fx10§7 Mossy Cobblestone@ 
+§fx10§7 Prismarine@ 
+§fx5§7 Diamond Ore@ 
+§fx10§7 Nether Brick@ 
+§fx10§7 Block of Quartz@ 
+§fx5§7 Obsidian@ 
+§fx10§7 Mossy Dark Stone Bricks@ 
+§fx10§7 Prismarine Bricks@ 
+§fx3§7 Block of Diamond@ 
+§fx10§7 Netherrack@ 
+§fx5§7 Quartz Pillar@ 
+§fx3§7 Bedrock@ 
+§fx10§7 Mossy Stone Bricks@ 
+§fx10§7 Dark Prismarine@ 
+§fx5§7 Emerald Ore@ 
+§fx10§7 Nether Brick Stairs@ 
+§fx5§7 Chiseled Quartz Block@ 
+§fx10§7 Red Nether Brick@ 
+§fx5§7 Lapis Lazuli Ore@ 
+§fx5§7 Sea Lantern@ 
+§fx3§7 Block of Emerald@ 
+§fx10§7 Nether Brick Slab@ 
+§fx10§7 Quartz Stairs@ 
+§fx3§7 Rainbow Block@ 
+§fx3§7 Lapis Lazuli Block@ 
+§fx10§7 Ice@ 
+§fx5§7 Redstone Ore@ 
+§fx5§7 Quartz Ore@ 
+§fx10§7 Quartz Slab@ 
+§fx10§7 End Stone Bricks@ 
+§fx3§7 Bone Block@ 
+§fx5§7 Packed Ice@ 
+§fx3§7 Block of Redstone@ 
+§fx3§7 Magma Block@ 
+§fx10§7 End Stone@ 
+§fx5§7 Glowstone@ 
+§4§lAn Iron Heart Part I֎À @ 
+§4§lRealm of Light I - The Worm HolesÀ @ 
+§4§lAn Iron Heart Part II֎À @ 
+§4§lReclaiming the House֎À @ 
+§4§lRealm of Light II - TaprootÀ @ 
+§4§lRealm of Light III - A Headless HistoryÀ @ 
+§4§lFrom the Mountains֎À @ 
+§4§lLazarus Pit֎À @ 
+§4§lShattered Minds֎À @ 
+§4§lRealm of Light IV - Finding the LightÀ @ 
+§4§lLexdale Witch TrialsÀ @ 
+§4§lAcquiring Credentials֎À @ 
+§4§lRealm of Light V - The Realm of LightÀ @ 
+§fBirch Wood Wand@ 
+§a§lThe Feathers Fly Part IÀ @ 
+§a§lThe Hero of GavelÀ @ 
+§fStone-Hewn Bow@ 
+§fGranite-Hewn Wand@ 
+§fx5§7 Oak Wood@ 
+§fx5§7 Birch Wood@ 
+§fx5§7 Acacia Wood@ 
+§fx5§7 Spruce Wood@ 
+§fx5§7 Jungle Wood@ 
+§fx5§7 Dark Oak Wood@ 
+§fx1§7 Oak Door@ 
+§fx10§7 Oak Planks@ 
+§fx10§7 Birch Planks@ 
+§fx10§7 Acacia Planks@ 
+§fx10§7 Spruce Planks@ 
+§fx10§7 Jungle Planks@ 
+§fx10§7 Dark Oak Planks@ 
+§fx1§7 Birch Door@ 
+§fx5§7 Oak Stairs@ 
+§fx5§7 Birch Stairs@ 
+§fx5§7 Acacia Stairs@ 
+§fx5§7 Spruce Stairs@ 
+§fx5§7 Jungle Stairs@ 
+§fx5§7 Dark Oak Stairs@ 
+§fx1§7 Acacia Door@ 
+§fx10§7 Oak Slab@ 
+§fx10§7 Birch Slab@ 
+§fx10§7 Acacia Slab@ 
+§fx10§7 Spruce Slab@ 
+§fx10§7 Jungle Slab@ 
+§fx10§7 Dark Oak Slab@ 
+§fx1§7 Spruce Door@ 
+§fx5§7 Oak Fence@ 
+§fx5§7 Birch Fence@ 
+§fx5§7 Acacia Fence@ 
+§fx5§7 Spruce Fence@ 
+§fx5§7 Jungle Fence@ 
+§fx5§7 Dark Oak Fence@ 
+§fx1§7 Jungle Door@ 
+§fx3§7 Oak Fence Gate@ 
+§fx3§7 Birch Fence Gate@ 
+§fx3§7 Acacia Fence Gate@ 
+§fx3§7 Spruce Fence Gate@ 
+§fx3§7 Jungle Fence Gate@ 
+§fx3§7 Dark Oak Fence Gate@ 
+§fx1§7 Dark Door@ 
+§fx5§7 Sky Wood Log@ 
+§fx10§7 Sky Wood Planks@ 
+§fx5§7 Sky Wood Stairs@ 
+§fx10§7 Sky Wood Slab@ 
+§fx5§7 Barrel@ 
+§fx3§7 Crate@ 
+§e§lEmerald TrailÀ@ 
+§fSpruce Wood Wand@ 
+§dWeatherwalkers@ 
+§fBirch Wood Dagger@ 
+§bSpiketop@ 
+§eFirst Steps@ 
+§e§lElkurnÀ@ 
+§f§lNorth Nivla WoodsÀ@ 
+§f§lNivla Woods EntranceÀ@ 
+§e§lDetlas SuburbsÀ@ 
+§fx10§7 Red Wool@ 
+§fx10§7 Purple Wool@ 
+§fx10§7 Light Grey Wool@ 
+§fx3§7 Chest@ 
+§fx3§7 Anvil@ 
+§fx10§7 Red Stained Glass@ 
+§fx10§7 Purple Stained Glass@ 
+§fx10§7 Orange Wool@ 
+§fx10§7 Magenta Wool@ 
+§fx10§7 Grey Wool@ 
+§fx3§7 Jukebox@ 
+§fx3§7 Iron Bars@ 
+§fx10§7 Orange Stained Glass@ 
+§fx10§7 Magenta Stained Glass@ 
+§fx10§7 Yellow Wool@ 
+§fx10§7 Pink Wool@ 
+§fx10§7 Black Wool@ 
+§fx3§7 Crafting Table@ 
+§fx3§7 Furnace@ 
+§fx10§7 Yellow Stained Glass@ 
+§fx10§7 Pink Stained Glass@ 
+§fx10§7 Light Blue Wool@ 
+§fx10§7 Lime Wool@ 
+§fx10§7 White Wool@ 
+§fx10§7 Ladder@ 
+§fx10§7 Cobblestone Wall@ 
+§fx10§7 Light Blue Stained Glass@ 
+§fx10§7 Lime Stained Glass@ 
+§fx10§7 Cyan Wool@ 
+§fx10§7 Green Wool@ 
+§fx5§7 Oak Trapdoor@ 
+§fx3§7 Painting@ 
+§fx5§7 Mossy Cobblestone Wall@ 
+§fx10§7 Cyan Stained Glass@ 
+§fx10§7 Green Stained Glass@ 
+§fx10§7 Blue Wool@ 
+§fx10§7 Brown Wool@ 
+§fx10§7 Flower Pot@ 
+§fx10§7 Blue Stained Glass@ 
+§fx10§7 Brown Stained Glass@ 
+§f§lSouth Nivla WoodsÀ@ 
+§fFlawless Andesite Wand@ 
+§fStone-Hewn Relik@ 
+Oak Wood Planks@ 
+Oak Wood Stairs@ 
+Cobblestone@ 
+Cobblestone Stairs@ 
+Stone Bricks@ 
+Dirt@ 
+Grass Block@ 
+Oak Leaves@ 
+Glass Pane@ 
+Oak Fence@ 
+Poppy@ 
+Oak Door@ 
+§b§lAstral Phantoms§3§l [Lv. 10]@ 
+§fAndesite-Hewn Wand@ 
+§fStone-Hewn Dagger@ 
+§fLight Spruce Wood Dagger@ 
+§dWaist Apron@ 
+§fx10§7 Grass Block@ 
+§fx10§7 Coarse Dirt@ 
+§fx10§7 Clay@ 
+§fx5§7 Acacia Leaves@ 
+§fx5§7 Spruce Leaves@ 
+§fx5§7 Jungle Leaves@ 
+§fx5§7 Dark Oak Leaves@ 
+§fx10§7 Dirt@ 
+§fx5§7 Birch Leaves@ 
+§fx10§7 Gravel@ 
+§fx5§7 Acacia Sapling@ 
+§fx5§7 Spruce Sapling@ 
+§fx5§7 Jungle Sapling@ 
+§fx5§7 Dark Oak Sapling@ 
+§fx5§7 Dirt Slab@ 
+§fx5§7 Birch Sapling@ 
+§fx5§7 Red Tulip@ 
+§fx5§7 Cactus@ 
+§fx10§7 Snow@ 
+§fx5§7 Tall Grass@ 
+§fx5§7 Allium@ 
+§fx5§7 Oak Sapling@ 
+§fx5§7 Poppy@ 
+§fx5§7 Orange Tulip@ 
+§fx5§7 Azure Bluet@ 
+§fx5§7 Blue Orchid@ 
+§fx5§7 Large Fern@ 
+§fx3§7 Lilac@ 
+§fx5§7 Oak Leaves@ 
+§fx5§7 Dandelion@ 
+§fx5§7 White Tulip@ 
+§fx5§7 Oxeye Daisy@ 
+§fx5§7 Vines@ 
+§fx3§7 Sunflower@ 
+§fx3§7 Peony@ 
+§fx5§7 Grass@ 
+§fx5§7 Fern@ 
+§fx5§7 Pink Tulip@ 
+§fx5§7 Cobweb@ 
+§fx10§7 Podzol@ 
+§fx3§7 Cocoa Beans@ 
+§fx3§7 Rose Bush@ 
+§fFlameholder@ 
+§e§lBremminglarÀ@ 
+§fAndesite-Hewn Dagger@ 
+§fAndesite-Hewn Spear@ 
+§fAndesite-Hewn Relik@ 
+§fStone-Hewn Wand@ 
+§fFlawless Diorite Dagger@ 
+§fOak Wood Dagger@ 
+§fOak Wood Wand@ 
+§fPure Light Spruce Wand@ 
+§fx10§7 Mycelium@ 
+§fx10§7 Soul Sand@ 
+§fx5§7 Red Mushroom@ 
+§fx5§7 Brown Mushroom@ 
+§fx5§7 Dead Bush@ 
+§fx5§7 Nether Wart@ 
+§fLight Oak Wood Wand@ 
+§fPure Light Jungle Wand@ 
+§f§lArachnid RouteÀ@ 
+§f§lNemract QuarryÀ@ 
+§f§lKander MinesÀ@ 
+§f§lEntrance to KanderÀ@ 
+§f§lAbandoned ManorÀ@ 
+§e§lAncient NemractÀ@ 
+§fDiorite-Hewn Bow@ 
+§fLight Jungle Wood Dagger@ 
+§fLight Jungle Wood Wand@ 
+§fLight Oak Wood Dagger@ 
+§f§lSablestone CampÀ@ 
+§f§lLoamsprout CampÀ@ 
+§e§lTernavesÀ@ 
+§fFlawless Light Oak Wand@ 
+§f§lNivla Woods EdgeÀ@ 
+§f§lJitak's FarmÀ@ 
+§fFlawless Oak Wand@ 
+§fFlawless Diorite Wand@ 
+§fFlawless Spruce Wand@ 
+§fFlawless Oak Dagger@ 
+§f§lNivla Woods ExitÀ@ 
+§e§lTime ValleyÀ@ 
+§fGranite-Hewn Relik@ 
+§fImpeccable Birch Dagger@ 
+§f§lRuhc@ 
+§f§lSnowyFair@ 
+§f§l_IGNIX_@ 
+§f§lVolticxx@ 
+§f§lzombievirus@ 
+§f§lSuzyBoo@ 
+§f§lchr1sM@ 
+§f§lnormandy4@ 
+§f§lTHAR1K@ 
+§f§lSrryBR0@ 
+§f§lSey___@ 
+§f§lxTiny@ 
+§f§lyoxesi@ 
+§f§lIlSavchin@ 
+§f§l___DaHchIkk___@ 
+§f§lWinezz@ 
+§f§lwersdion@ 
+§f§lBOXSER2018@ 
+§f§lPath To Ozoth's Spire LowerÀ@ 
+§f§lPath To Ozoth's Spire MidÀ@ 
+§f§lPath To Ozoth's Spire UpperÀ@ 
+§fPure Oak Wand@ 
+§fFlawless Andesite Dagger@ 
+§f§lSunspark CampÀ@ 
+§f§lCinfras's Small FarmÀ@ 
+§f§lAldorei's RiverÀ@ 
+§f§lKrolton's CaveÀ@ 
+§6§lBlazing RetributionÀ @ 
+§f§lGoblin Plains WestÀ@ 
+Acidic Sludge@ 
+§f§lIron RoadÀ@ 
+§fPure Oak Dagger@ 
+§fPure Oak Spear@ 
+§fPure Oak Bow@ 
+§fStone-Hewn Spear@ 
+§fPure Diorite Dagger@ 
+§fPure Diorite Wand@ 
+§fLight Birch Wood Wand@ 
+§2§lAn Iron Heart Part I֎À @ 
+§f§lSouth Farmers ValleyÀ@ 
+§f§lNorth Farmers ValleyÀ@ 
+§f§lEfilim East PlainsÀ@ 
+Map PieceÀÀÀ@ 
+§fFlawless Light Jungle Dagger@ 
+§fFlawless Granite Wand@ 
+§fFlawless Light Birch Wand@ 
+§fPure Birch Wand@ 
+§eSandstorm Walker@ 
+§f§lGoblin Plains EastÀ@ 
+§2§lRealm of Light I - The Worm HolesÀ @ 
+§2§lBlazing RetributionÀ @ 
+§e§lMalticÀ@ 
+§fFlawless Granite Dagger@ 
+§6§lAn Iron Heart Part I֎À @ 
+§f§lForgotten PathÀ@ 
+§fFlawless Birch Wand@ 
+§2§lRealm of Light II - TaprootÀ @ 
+§fFlawless Light Spruce Dagger@ 
+§fFlawless Jungle Wand@ 
+§fJungle Wood Dagger@ 
+§fJungle Wood Wand@ 
+§f§lJunletTridner@ 
+§f§lPlayWithArcane_@ 
+§f§lB_MAN_BOT@ 
+§f§lRed_sky7975@ 
+§f§lStoopid_Dog@ 
+§f§lruzzelld05@ 
+§f§lFirstOffer@ 
+§f§lSilenc37@ 
+§f§lRunshoe1313@ 
+§f§lJ_Lo777@ 
+§f§lOvO_Zero@ 
+§f§l__KIDu__@ 
+§f§lJooJak@ 
+§f§lPododang@ 
+§f§lSARASHINA_RUKA@ 
+§f§lTambourin@ 
+§f§l_ringer@ 
+§f§lWatame_l0n@ 
+§f§lC_ckc@ 
+§f§l_TANER@ 
+§f§lChuGue_@ 
+§f§l_Nyak_@ 
+§f§lCorrupted_Carry@ 
+§f§lWoolRing@ 
+§f§lIb_s@ 
+§f§lsimsimhan@ 
+§f§lGgung_Ah@ 
+§f§lwhy9196@ 
+§f§lArcane5hade@ 
+§f§ltto_yeong@ 
+§f§lGrivR@ 
+§f§lKornbreadz@ 
+§f§lrhkdwls9549@ 
+§f§lAngdo_an@ 
+§f§lSolidRockTheAce@ 
+§cScarlet Veil@ 
+§e§lLexdale Federal PrisonÀ@ 
+§e§lCorkus CityÀ@ 
+§5Olympic@ 
+§5Nullification@ 
+§5Aftershock@ 
+§5Moontower@ 
+§fx10§7 Light Grey Stained Glass@ 
+§fx10§7 Red Stained Glass Pane@ 
+§fx10§7 Purple Stained Glass Pane@ 
+§fx10§7 Light Grey Stained Glass Pane@ 
+§fx10§7 Red Terracotta@ 
+§fx10§7 Purple Terracotta@ 
+§fx10§7 Light Grey Terracotta@ 
+§fx10§7 Grey Stained Glass@ 
+§fx10§7 Orange Stained Glass Pane@ 
+§fx10§7 Magenta Stained Glass Pane@ 
+§fx10§7 Grey Stained Glass Pane@ 
+§fx10§7 Orange Terracotta@ 
+§fx10§7 Magenta Terracotta@ 
+§fx10§7 Grey Terracotta@ 
+§fx10§7 Black Stained Glass@ 
+§fx10§7 Yellow Stained Glass Pane@ 
+§fx10§7 Pink Stained Glass Pane@ 
+§fx10§7 Black Stained Glass Pane@ 
+§fx10§7 Yellow Terracotta@ 
+§fx10§7 Pink Terracotta@ 
+§fx10§7 Black Terracotta@ 
+§fx10§7 White Stained Glass@ 
+§fx10§7 Light Blue Stained Glass Pane@ 
+§fx10§7 Lime Stained Glass Pane@ 
+§fx10§7 White Stained Glass Pane@ 
+§fx10§7 Light Blue Terracotta@ 
+§fx10§7 Lime Terracotta@ 
+§fx10§7 White Terracotta@ 
+§fx10§7 Glass@ 
+§fx10§7 Cyan Stained Glass Pane@ 
+§fx10§7 Green Stained Glass Pane@ 
+§fx10§7 Glass Pane@ 
+§fx10§7 Cyan Terracotta@ 
+§fx10§7 Green Terracotta@ 
+§fx3§7 Iron Trapdoor@ 
+§fx5§7 Torch@ 
+§fx10§7 Blue Stained Glass Pane@ 
+§fx10§7 Brown Stained Glass Pane@ 
+§fx10§7 Blue Terracotta@ 
+§fx10§7 Brown Terracotta@ 
+§fx10§7 Red Concrete Powder@ 
+§fx10§7 Purple Concrete Powder@ 
+§fx10§7 Light Grey Concrete Powder@ 
+§fx10§7 Red Concrete@ 
+§fx10§7 Purple Concrete@ 
+§fx10§7 Light Grey Concrete@ 
+§fx10§7 Red Glazed Terracotta@ 
+§fx10§7 Orange Concrete Powder@ 
+§fx10§7 Magenta Concrete Powder@ 
+§fx10§7 Grey Concrete Powder@ 
+§fx10§7 Orange Concrete@ 
+§fx10§7 Magenta Concrete@ 
+§fx10§7 Grey Concrete@ 
+§fx10§7 Orange Glazed Terracotta@ 
+§fx10§7 Yellow Concrete Powder@ 
+§fx10§7 Pink Concrete Powder@ 
+§fx10§7 Black Concrete Powder@ 
+§fx10§7 Yellow Concrete@ 
+§fx10§7 Pink Concrete@ 
+§fx10§7 Black Concrete@ 
+§fx10§7 Yellow Glazed Terracotta@ 
+§fx10§7 Light Blue Concrete Powder@ 
+§fx10§7 Lime Concrete Powder@ 
+§fx10§7 White Concrete Powder@ 
+§fx10§7 Light Blue Concrete@ 
+§fx10§7 Lime Concrete@ 
+§fx10§7 White Concrete@ 
+§fx10§7 Light Blue Glazed Terracotta@ 
+§fx10§7 Cyan Concrete Powder@ 
+§fx10§7 Green Concrete Powder@ 
+§fx10§7 Cyan Concrete@ 
+§fx10§7 Green Concrete@ 
+§fx10§7 Cyan Glazed Terracotta@ 
+§fx10§7 Blue Concrete Powder@ 
+§fx10§7 Brown Concrete Powder@ 
+§fx10§7 Blue Concrete@ 
+§fx10§7 Brown Concrete@ 
+§fx10§7 Blue Glazed Terracotta@ 
+§fx10§7 Purple Glazed Terracotta@ 
+§fx10§7 Light Grey Glazed Terracotta@ 
+§fx3§7 End Rod@ 
+§fx10§7 Magenta Glazed Terracotta@ 
+§fx10§7 Grey Glazed Terracotta@ 
+§fx3§7 Enchantment Table@ 
+§fx10§7 Pink Glazed Terracotta@ 
+§fx10§7 Black Glazed Terracotta@ 
+§fx5§7 End Portal Frame@ 
+§fx10§7 Lime Glazed Terracotta@ 
+§fx10§7 White Glazed Terracotta@ 
+§fx10§7 Green Glazed Terracotta@ 
+§fx10§7 Brown Glazed Terracotta@ 
+§6§lForbidden PrisonÀ@ 
+§f§lÀForest of Eyes (HQ)@ 
+§fImpeccable Light Oak Dagger@ 
+§f§ldong_pro@ 
+§f§lU_YU@ 
+§f§l_MellonFish_@ 
+§f§lZPark@ 
+§f§lChaigidel@ 
+§f§lA1nd@ 
+§f§lS_follower@ 
+§f§lsnow_man__@ 
+§f§lUnbalance@ 
+§f§lD0XA@ 
+§f§lSeptempo@ 
+§f§l__Pangaea__@ 
+§f§lYu_Shana@ 
+§f§lpited@ 
+§f§lCrow_P@ 
+§f§lGihyon@ 
+§fGranite-Hewn Spear@ 
+§fPure Stone Dagger@ 
+§fFlawless Light Spruce Wand@ 
+§fFlawless Light Oak Dagger@ 
+§f§lFinal StepÀ@ 
+§a§lThe Hero of GavelÀ@ 
+§fLight Spruce Wood Wand@ 
+§fImpeccable Light Jungle Dagger@ 
+§dDragon Dance@ 
+§fFlawless Light Birch Dagger@ 
+§fDiorite-Hewn Dagger@ 
+§6§lRealm of Light I - The Worm HolesÀ@ 
+§fDiorite-Hewn Relik@ 
+§fImpeccable Light Oak Wand@ 
+§f§lDesolate ValleyÀ@ 
+§fImpeccable Andesite Dagger@ 
+§cOrnithopter@ 
+§fPure Spruce Wand@ 
+§fLight Birch Wood Dagger@ 
+§fImpeccable Light Birch Dagger@ 
+§fImpeccable Spruce Wand@ 
+§fImpeccable Spruce Dagger@ 
+§e§lFallen FactoryÀ@ 
+§fImpeccable Birch Wand@ 
+§6§lAn Iron Heart Part II֎À @ 
+§fGranite-Hewn Bow@ 
+§fFlawless Spruce Dagger@ 
+§fGranite-Hewn Dagger@ 
+§f§lAldorei's WaterfallÀ@ 
+§f§lPath to TalorÀ@ 
+§f§lOld Crossroads NorthÀ@ 
+§fFlawless Stone Wand@ 
+§fFlawless Birch Dagger@ 
+§fPure Jungle Dagger@ 
+§f@ 
+Generator Amulet@ 
+Sprout@ 
+§fPure Stone Wand@ 
+§6§lRealm of Light III - A Headless HistoryÀ @ 
+Restored Ancient Helmet@ 
+§eIron Grippers@ 
+§fImpeccable Oak Dagger@ 
+§2§lAn Iron Heart Part II֎À @ 
+§cInfernal Impulse@ 
+§b§lharakiri squad§3§l [Lv. 11]@ 
+§f§lEfilim South East PlainsÀ@ 
+§fPure Light Oak Wand@ 
+§fPure Light Birch Wand@ 
+§f§lSHAFT1337@ 
+§f§lTypicalMark@ 
+§f§lShinkada@ 
+§f§lFunnyFlash@ 
+§f§lLiFE4@ 
+§f§lNike73@ 
+§f§lmonkeyrunner@ 
+§f§lskopper17@ 
+§f§lKupull_Fish@ 
+§f§lpwith777@ 
+§f§ljuliebubi@ 
+§f§lBishechka@ 
+§f§lLogiebear226@ 
+§f§lDuckypug@ 
+§f§lSigmaONE_Fr@ 
+§f§lelectrostatixxx@ 
+§f§lWynonan@ 
+§f§lFireInfusion@ 
+§f§lFezka@ 
+§f§lhustleboy658@ 
+§f§lBeopower@ 
+§f§lXx_MashaCAT_xX@ 
+§f§lTalalGamer@ 
+§f§lHostilecaxD@ 
+§f§lYTAlexVid@ 
+§f§lDr_Zent@ 
+§fDiorite-Hewn Wand@ 
+§f§lGegaba@ 
+§f§lPerineel@ 
+§f§lTheChunkyOne@ 
+§f§lTrueBoomer@ 
+§f§lWiseMentor_Panda@ 
+§f§lartem0810@ 
+§f§lF4ntasm@ 
+§f§lcryixnq@ 
+§f§lIamSteen@ 
+§f§lISimpKeqing@ 
+§f§ldreqsflow@ 
+§f§l_Rulv_@ 
+§f§lSneppyGG@ 
+§f§lLove_Mercy@ 
+§f§lPaEmily@ 
+§f§lAnton1288@ 
+§f§l_CheRtEnOk@ 
+§f§l_Kifir4ik_@ 
+§f§lBearhouse1@ 
+§f§lSindicutie@ 
+§f§lLordKelvin_@ 
+§f§lForneus@ 
+§f§lN_E_V_O_S@ 
+§f§lSerogaiz@ 
+§f§lSakush_@ 
+§f§l6Natsu9@ 
+§f§lLarkberg@ 
+§f§l_P0ZA_@ 
+§f§lGGE0@ 
+§f§lSkrynat@ 
+§f§lFredericInn@ 
+§f§lMisaku34@ 
+§f§lkometa22@ 
+§f§lMor_Se@ 
+§f§lDonTime@ 
+§fx2 Emerald Swirl Effect@ 
+§fImpeccable Diorite Dagger@ 
+§f§lViscera Pits EastÀ@ 
+§f§l_knight_of_dark@ 
+§f§lTheOneTrueJigga@ 
+§bCursed Jackboots@ 
+§fFlawless Jungle Dagger@ 
+§fPure Andesite Dagger@ 
+§fPure Andesite Wand@ 
+§fPure Birch Dagger@ 
+§6§lRealm of Light II - TaprootÀ @ 
+§fFlawless Stone Dagger@ 
+§fImpeccable Andesite Wand@ 
+§fImpeccable Light Birch Wand@ 
+§fPure Light Oak Dagger@ 
+§f§lCorkus StatueÀ@ 
+§fImpeccable Stone Wand@ 
+§fImpeccable Jungle Dagger@ 
+§6§lLexdale Witch TrialsÀ @ 
+§f§lOld Crossroads SouthÀ@ 
+§fImpeccable Jungle Wand@ 
+§fImpeccable Granite Wand@ 
+§fImpeccable Granite Dagger@ 
+§dLiquefied Sun@ 
+§fPure Granite Dagger@ 
+§6§lRealm of Light IV - Finding the LightÀ @ 
+§fDiorite-Hewn Spear@ 
+§fx6 Shout Bomb@ 
+§aWalnuss1's House@ 
+§f§lEfilim South PlainsÀ@ 
+§bTerra's Mold@ 
+§fPure Granite Wand@ 
+§fImpeccable Light Spruce Dagger@ 
+Mummy's Rag@ 
+§6§lRealm of Light V - The Realm of LightÀ @ 
+§eNychthemeron@ 
+Hide of Gregg'r@ 
+§cDouble Vision@ 
+§f§lFungal GroveÀ@ 
+§f§lDecayed BasinÀ@ 
+§f§lHeart of DecayÀ@ 
+§fSpruce Wood Dagger@ 
+§fImpeccable Light Jungle Wand@ 
+§dAgave@ 
+§fImpeccable Diorite Wand@ 
+Vindicator@ 
+§f§lRanol's FarmÀ@ 
+§6x2 Futuristic Bow@ 
+§6x2 Corrupted Wand@ 
+§6x2 Pirate Spear@ 
+§ePhoton@ 
+§fx2 Cloud Attack Effect@ 
+§fx2 Cow Disguise@ 
+§dMatchbook@ 
+§fx2 Chicken Disguise@ 
+§fImpeccable Light Spruce Wand@ 
+§fx2 Combat XP Bomb@ 
+§fx2 Item Bomb@ 
+§f§lMushroom HillÀ@ 
+§f§lDernel Jungle LowerÀ@ 
+§f§lDernel Jungle MidÀ@ 
+§fFlawless Light Jungle Wand@ 
+§dDerecho@ 
+§dAmanuensis@ 
+§f§lViscera Pits WestÀ@ 
+§fPure Jungle Wand@ 
+§6§lThe Hero of GavelÀ @ 
+§f§lDernel Jungle UpperÀ@ 
+§f§lFallen VillageÀ@ 
+§f§lAldorei's ArchÀ@ 
+§fx2 Sheep Disguise@ 
+§fPure Light Spruce Dagger@ 
+§fPure Light Birch Dagger@ 
+§fx2 Magic Swirl Effect@ 
+§dx2 Spider Disguise@ 
+§dx3 Pigman Disguise@ 
+§dx2 Steampunk Bow@ 
+§6x2 Pirate Relik@ 
+§dx2 Food Dagger@ 
+§dx3 Steampunk Sword@ 
+§dx3 Food Spear@ 
+§dx2 Frying Pan@ 
+§dx2 Steampunk Wand@ 
+§fx2 Letter Attack Effect@ 
+§2§lLazarus Pit֎À @ 
+Waist Apron@ 
+§6§lShattered Minds֎À @ 
+§fPure Spruce Dagger@ 
+§dAir Relic Spear@ 
+Ring of Generosity@ 
+Rayshyroth's Knowledge@ 
+Royal Dusty Amulet@ 
+Impeccable Light Birch Bow@ 
+Valkyrie@ 
+Giant's Ring@ 
+Thanos Banner@ 
+Soarfae@ 
+Rikter@ 
+§fImpeccable Stone Dagger@ 
+§2§lLexdale Witch TrialsÀ @ 
+§a§lNecronTeam [EAF]@ 
+§a§lDEBCHIK [HYU]@ 
+§f§l8SONDER8@ 
+§f§lDejavu_13@ 
+§f§lUniqWay@ 
+§f§lradar1337@ 
+§f§lfunnyz2@ 
+§f§lEnchantedPixels@ 
+§f§lMagicalWarrioWyn@ 
+§f§lOrbus_@ 
+§f§lEskatuteProNL@ 
+§f§lAvGlaz@ 
+§f§lalguacil55@ 
+§f§l_2CRAZY4U_@ 
+§f§lItsYourName_@ 
+§f§lSebesayt@ 
+§f§lAlex_Serb@ 
+§f§lWinflamion@ 
+§f§lSleemax@ 
+§f§lBowi3@ 
+§f§lSeberest@ 
+§f§lLior1337@ 
+§f§lPatitasOn60fps@ 
+§6§lArachnids' AscentÀ@ 
+§f§lPrimal FenÀ@ 
+§f§lAzure FrontierÀ@ 
+§f§lPath to LightÀ@ 
+§e§lThe Gateway to LightÀ@ 
+§6§lAldorei's Secret Part IÀ@ 
+§e§lSiegfried Savior Doll@ 
+§b§lWelcome To Hell§3§l [Lv. 47]@ 
+§fx2 Pig Disguise@ 
+§bAll Geared Up (Avos Workshop)@ 
+§bLockdown (Forbidden Prison)@ 
+§bLight's Hymn (Realm of Light)@ 
+§bSiegfried's Fanfare (Siegfried's Theme)@ 
+§bAt Its Breaking Point (The Canyon Colossus)@ 
+§bEarthquake!!! (Boss Battle 14)@ 
+§bPlay The Saviour! (Boss Battle 15)@ 
+§bBurning Encounter (Boss Battle 16)@ 
+§bThe Light Fades (Swamp Decay Theme)@ 
+§f§lField of LifeÀ@ 
+§f§lLuminous PlateauÀ@ 
+§f§lOtherwordly MonolithÀ@ 
+§6§lThe Maiden TowerÀ@ 
+§2§lShattered Minds֎À @ 
+§f§lDimanches@ 
+§f§lg2Milkin@ 
+§f§lKailzel_Kold@ 
+§f§lSeverk12@ 
+§f§lRulovinka@ 
+§f§lShalDonHos@ 
+§f§lNevanicwy@ 
+§f§lcergo9991@ 
+§f§lMr_Flame@ 
+§f§lAlt3rino_@ 
+§f§lGamePlaySky@ 
+§f§lIngessGames@ 
+§f§lAH_Lukas@ 
+§fImpeccable Oak Wand@ 
+§2§lReclaiming the House֎À @ 
+§dOphiolite@ 
+Chiselled Stone Bricks@ 
+Cracked Stone Bricks@ 
+§fx5 Shout Bomb@ 
+§6§lRealm of Light IV - Finding the LightÀ@ 
+Cobblestone Slab@ 
+Oak Wood Slab@ 
+Crafting Table@ 
+Furnace@ 
+Flower Pot@ 
+Cobblestone Wall@ 
+Dragon's Eye Bracelet@ 
+Caesura@ 
+INTELLIGENCE 6@ 
+§6§lRealm of Light V - The Realm of LightÀ@ 
+§cRecalcitranceÀ@ 
+§dDragon DanceÀ@ 
+§bSpiritdancerÀ@ 
+§eFirst StepsÀ@ 
+§dOphioliteÀ@ 
+Magellan's Sail@ 
+§cBlossom HazeÀ@ 
+§bMagnet RepulsorÀ@ 
+§dEarth Relic Relik@ 
+§6§lBlazing RetributionÀ@ 
+§f§lRoyal GateÀ@ 
+§f§lWetPi11ow@ 
+§f§l_Reychel_@ 
+§f§lkickassalot88@ 
+§f§lRowski@ 
+§bStratosphereÀ@ 
+§dPhantasmagoriaÀ@ 
+Royal Bug?s BloodÀ@ 
+§cDouble VisionÀ@ 
+§bOutrageÀ@ 
+§eAtaraxyÀ@ 
+§eAtaraxy@ 
+§6§lReclaiming the House֎À @ 
+Block of Iron@ 
+§fLight Jungle Wood DaggerÀ@ 
+§aKaerynn's BodyÀ@ 
+§bTerra's MoldÀ@ 
+§dAdrenalineÀ@ 
+§f§lLegoter@ 
+§f§lCleanMind@ 
+§f§lpetroniy@ 
+§f§lVladimir_Cosmos@ 
+§f§lSlipitin@ 
+§dRing of GenerosityÀ@ 
+§bAbyssal AmuletÀ@ 
+§6§lFrom the Mountains֎À @ 
+§cThe Jingling JesterÀ@ 
+§aKaerynn's MindÀ@ 
+§cPanic AttackÀ@ 
+§bProsencephalonÀ@ 
+§dWeatherwalkersÀ@ 
+§dHide of Gregg'rÀ@ 
+§aVeekhat's HornsÀ@ 
+§aVeekhat's UddersÀ@ 
+§bMummy's RagÀ@ 
+§dGuillotineÀ@ 
+§dChangeling's ChestplateÀ@ 
+§eValkyrie@ 
+§cScarlet VeilÀ@ 
+§cVindicatorÀ@ 
+§dDark DiademÀ@ 
+§dLiquefied SunÀ@ 
+§cRenda LangitÀ@ 
+§cDragon's Eye BraceletÀ@ 
+§2§lAcquiring Credentials֎À @ 
+§e§lLegendary IslandÀ@ 
+§fGranite-Hewn BowÀ@ 
+§dEssren's CoatÀ@ 
+§bStratosphere@ 
+§cInfernal ImpulseÀ@ 
+§f§lhasoo231@ 
+§dFragmentÀ@ 
+§fFlawless Light Birch DaggerÀ@ 
+§a§lMercenaries@ 
+§eGiant's RingÀ@ 
+§dCloak of LuminosityÀ@ 
+§2§lFrom the Mountains֎À @ 
+§a§lBloodthirsty@ 
+§a§lNomads@ 
+§a§lGatekeepers@ 
+§a§lFriendly@ 
+§a§lSocial@ 
+§eUnsheathed GlaiveÀ@ 
+§dBlack VeilÀ@ 
+§cRhythm of the Seasons@ 
+§6x2 Bovemist Effect@ 
+§6x2 Half-Moon Bow@ 
+§a§lWar Hungry@ 
+§a§lBlazing RetributionÀ@ 
+§bChain RuleÀ@ 
+§bClearsight SpectaclesÀ@ 
+§dx2 Steampunk Relik@ 
+§cx2 Dern Wand@ 
+§6x2 Half-Moon Relik@ 
+§6x2 Ripple Effect@ 
+§fx2 Slime Effect@ 
+§dx2 Tornado Effect@ 
+§fx3 Letter Attack Effect@ 
+§dClericalÀ@ 
+§dFire WireÀ@ 
+§bRycar's Elation@ 
+§eLuminiferous Aether@ 
+§cThe Jingling Jester@ 
+§fPure Light Jungle Dagger@ 
+§dRestored Ancient HelmetÀ@ 
+Mushroom@ 
+§dAvalancheÀ@ 
+§dLazarus' BraceÀ@ 
+§fx4 Shout Bomb@ 
+§fx3 Shout Bomb@ 
+§fx2 Shout Bomb@ 
+§f§lAldorei's North ExitÀ@ 
+§f§lAntogaZ@ 
+§f§lAzushiChan@ 
+§ePhotonÀ@ 
+§dQuartron's EyeÀ@ 
+§bEnsa's FaithÀ@ 
+§aSynchro CoreÀ@ 
+§f§lTiftel@ 
+§f§lKasarik@ 
+§f§lLeXaN4Ik@ 
+§6§lAcquiring Credentials֎À @ 
+§fBirch Wood WandÀ@ 
+Fire Wire@ 
+§fLight Jungle Wood WandÀ@ 
+§fLight Spruce Wood WandÀ@ 
+§fFlawless Oak WandÀ@ 
+§fGranite-Hewn WandÀ@ 
+§fDiorite-Hewn DaggerÀ@ 
+§dOminous WindÀ@ 
+§dAmanuensisÀ@ 
+Hidden@ 
+First Steps@ 
+Relic@ 
+Dark Diadem@ 
+§6§lDeath WhistleÀ@ 
+§6§lAn Iron Heart Part I֎À@ 
+§aHustle CoreÀ@ 
+§dGenerator AmuletÀ@ 
+§fDiorite-Hewn RelikÀ@ 
+§fDiorite-Hewn BowÀ@ 
+§dSchist@ 
+Rubber@ 
+Sky Chef's Apron@ 
+§fLight Oak Wood DaggerÀ@ 
+Saundersi Signet@ 
+DROP 1@ 
+DROP 3@ 
+§fPure Light Jungle DaggerÀ@ 
+Frost Chunk@ 
+§eExampleÀ@ 
+§6§lCorrupted BetrayalÀ@ 
+§dRing of RubiesÀ@ 
+§dWaist ApronÀ@ 
+§l§6[>] Select 0@ 
+§fPure Jungle DaggerÀ@ 
+§eGnome's RingÀ@ 
+§bOutrage@ 
+§bGale's SightÀ@ 
+§fSpruce Wood WandÀ@ 
+§fLight Birch Wood DaggerÀ@ 
+§dThoracicÀ@ 
+Bucket@ 
+§cHomeorhesis@ 
+Powder Snow@ 
+§fFlawless Stone DaggerÀ@ 
+§6§lLazarus Pit֎À@ 
+Toxxulous Ripper?s LegsÀ@ 
+§b§lSky Nova§3§l [Lv. 20]@ 
+§f§lThisIsSkyFlow@ 
+§f§lkni31@ 
+§f§lWKLuppang@ 
+§f§lSeoYeonJi@ 
+§f§ldar1n_@ 
+§f§lRaeDB@ 
+§f§lBlueSky3890@ 
+§f§lKangRi@ 
+Outrage@ 
+Blossom Haze@ 
+§cBlossom Haze@ 
+§6§lRealm of Light II - TaprootÀ@ 
+§cEyes on All@ 
+§6§lRedbeard's BootyÀ@ 
+§fFlawless Diorite DaggerÀ@ 
+§dGlaciateÀ@ 
+§eReasonÀ@ 
+§dEntanglementÀ@ 
+BoatÀ@ 
+§eNychthemeronÀ@ 
+§dElectro Mage's BootsÀ@ 
+§bSpiritdancer@ 
+§dVacarme@ 
+§fGranite-Hewn DaggerÀ@ 
+Kaerynn's Body@ 
+Kaerynn's Mind@ 
+§2§lThe Feathers Fly Part IÀ @ 
+§6§lThe Feathers Fly Part IIÀ @ 
+§6§lThe Bigger PictureÀ@ 
+§dPhantasmagoria@ 
+Lithium@ 
+Hymn of the Dead@ 
+Effervescence@ 
+§cEyes on AllÀ@ 
+§cDraoi FairÀ@ 
+§2§lThe Feathers Fly Part IIÀ @ 
+§f§lStrann1k_@ 
+§f§l_Sofiya_Star@ 
+§f§l_YFIR_@ 
+§f§lJukiBox_@ 
+§f§lTvoyYoy@ 
+§f§lPyaro@ 
+§f§lYriskaj@ 
+§f§l4arrly@ 
+§f§lJesusRaum@ 
+§f§l_Creepy_Man_@ 
+§dAdrenaline@ 
+§cPanic Attack@ 
+§fLight Spruce Wood DaggerÀ@ 
+§fGranite-Hewn SpearÀ@ 
+§6Buying 5 Corkian Amplifier 1À@ 
+§b§lSylVan of Wynn§3§l [Lv. 10]@ 
+§bAmbivalence@ 
+§eIrradiationÀ@ 
+§eAmplitudeÀ@ 
+Ice Mask@ 
+Muskeg@ 
+§l§6[>] Select SHAFT1337@ 
+Prismarine Gadget@ 
+Stone Shovel@ 
+Magic Infused Oak@ 
+§fAndesite-Hewn RelikÀ@ 
+§dDetective's RingÀ@ 
+§6§lThe Hero of GavelÀ@ 
+§fFlawless Granite DaggerÀ@ 
+Black Concrete Powder@ 
+§bCrater Print@ 
+§eSandstorm WalkerÀ@ 
+§ePro TemporeÀ@ 
+§fJungle Wood DaggerÀ@ 
+§fBirch Wood DaggerÀ@ 
+§fFlawless Stone WandÀ@ 
+Map PieceÀÀ@ 
+§eBalloon's BaneÀ@ 
+§dThunder Relic Relik@ 
+§fFlawless Light Birch WandÀ@ 
+§fFlawless Andesite DaggerÀ@ 
+§fFlawless Oak DaggerÀ@ 
+§fImpeccable Jungle WandÀ@ 
+§6§lThe House of TwainÀ@ 
+§fAndesite-Hewn BowÀ@ 
+§fStone-Hewn SpearÀ@ 
+§a§lThe Feathers Fly Part IÀ@ 
+§bCerid's Ingenuity@ 
+§6§lThe Feathers Fly Part IÀ@ 
+Lazarus' Brace@ 
+Troms Kid Badge@ 
+HUNGER 5@ 
+§6§lRecipe For DisasterÀ@ 
+Hardline@ 
+Wicked@ 
+§6§lAn Iron Heart Part II֎À@ 
+§fx2 Wet Drip Effect@ 
+§bOhms' RageÀ@ 
+§a§lThe Order of the GrookÀ@ 
+Valiant@ 
+§bProsencephalon@ 
+§b§lZealous Savants§3§l [Lv. 55]@ 
+§f§l_Cookies__@ 
+§fFlawless Birch DaggerÀ@ 
+§aHarden Core@ 
+§aHustle Core@ 
+§fSpruce Wood DaggerÀ@ 
+§eLuminiferous AetherÀ@ 
+§6x2 Futuristic Wand@ 
+§fx2 Fire Swirl Effect@ 
+Takan's Treachery@ 
+Cerid's Dynamo@ 
+Phoenix@ 
+Putrid@ 
+Flawless Spruce Bow@ 
+§fDiorite-Hewn WandÀ@ 
+Brass Leg Plates@ 
+§dGuillotine@ 
+§dMech CoreÀ@ 
+Andesite@ 
+Stone Brick Monster Egg@ 
+Wooden Slab@ 
+Polished Andesite@ 
+Stone Monster Egg@ 
+§dClerical@ 
+Stone Bricks Slab@ 
+Birch Fence@ 
+§eMultitoolÀ@ 
+§eFaith HealerÀ@ 
+§fFlawless Granite WandÀ@ 
+§dEarth Relic RelikÀ@ 
+Neutrino@ 
+Brilliant Diamond Chestplate@ 
+Pure@ 
+§ePedometerÀ@ 
+§fx9 Item Bomb@ 
+§fx10 Combat XP Bomb@ 
+§eCobaÀ@ 
+Aluminium@ 
+Refined Granite Ingot 1@ 
+Refined Trout Meat 1@ 
+§a§lBeneath the DepthsÀ@ 
+§dDerechoÀ@ 
+§a§lReclaiming the House֎À@ 
+§6§lReclaiming the House֎À@ 
+§cAbrasion@ 
+§eFluorescenceÀ@ 
+Cloak of Luminosity@ 
+§a§lLost in the JungleÀ@ 
+§dThunder Relic RelikÀ@ 
+Resurgence@ 
+@ 
+§a§lRealm of Light III - A Headless HistoryÀ@ 
+§a§lRealm of Light II - TaprootÀ@ 
+§fPure Birch WandÀ@ 
+§a§lRealm of Light I - The Worm HolesÀ@ 
+§bCerid's IngenuityÀ@ 
+§fGranite-Hewn RelikÀ@ 
+§bMagnet Repulsor@ 
+§bChain Rule@ 
+§dSchistÀ@ 
+Ophiolite@ 
+Ornithopter@ 
+Cardiac Arrest@ 
+§fFlawless Light Oak DaggerÀ@ 
+§fPure Stone DaggerÀ@ 
+§6§lRealm of Light III - A Headless HistoryÀ@ 
+§bTisaun's ValorÀ@ 
+§fx2 Potion Swirl Effect@ 
+The Jingling Jester@ 
+§6§lBeneath the DepthsÀ@ 
+§a§lThe FortunetellerÀ@ 
+§6§lThe FortunetellerÀ@ 
+§bRemikas' Authority@ 
+Blade of Snow@ 
+Loam@ 
+Celestial@ 
+§a§lFrom the Mountains֎À@ 
+§eCalderaÀ@ 
+§a§lBob's Lost SoulÀ@ 
+§6§lLost RoyaltyÀ@ 
+Cold Snap@ 
+Gold BarÀ@ 
+§dRaging WindÀ@ 
+Fishing Rod@ 
+Prismarine GadgetÀ@ 
+§fStone-Hewn RelikÀ@ 
+§dAir Relic Relik@ 
+§dFire Relic Relik@ 
+§6§lFrom the Mountains֎À@ 
+§a§lPirate's TroveÀ@ 
+Mountaintop@ 
+§fFlawless Birch WandÀ@ 
+§bRemikas' AuthorityÀ@ 
+§a§lLazarus Pit֎À@ 
+§a§lGrand YouthÀ@ 
+§fFlawless Andesite WandÀ@ 
+§6§lJungle FeverÀ@ 
+§bGale's Sight@ 
+§bBlood Moon@ 
+§eParangÀ@ 
+§dGerten Ritual MaskÀ@ 
+Scarlet Veil@ 
+§aMask of the Dark VexationsÀ@ 
+§fPure Stone WandÀ@ 
+§a§lHeart of LlevigarÀ@ 
+§fx2 Fire Attack Effect@ 
+§fx2 Spark Attack Effect@ 
+§fx2 Emerald Attack Effect@ 
+§fx3 Cloud Attack Effect@ 
+§fx2 Smoke Swirl Effect@ 
+§dx2 Creeper Disguise@ 
+§fx4 Pig Disguise@ 
+§fx6 Party Bomb@ 
+§fx3 Combat XP Bomb@ 
+§fx24 Shout Bomb@ 
+§bRycar's ElationÀ@ 
+§6§lPirate's TroveÀ@ 
+§dx2 Steampunk Sword@ 
+§dEntanglement@ 
+§aDerpySquid16's House@ 
+§aAbstractNavi's House@ 
+§a§lCorrupted BetrayalÀ@ 
+§6§lAcquiring Credentials֎À@ 
+§fDiorite-Hewn SpearÀ@ 
+§fx3 Emerald Attack Effect@ 
+§dx3 Lava Attack Effect@ 
+§fx4 Witch Brew Effect@ 
+§fx2 Cloud Swirl Effect@ 
+§fx3 Redstone Swirl Effect@ 
+§dx3 Thunder Effect@ 
+§a§lHaven AntiquityÀ@ 
+Magic ÀInfused Oak@ 
+MagicÀÀÀInfusedÀ Oak@ 
+MagicÀ InfusedÀÀÀOak@ 
+MagicÀÀInfusedÀÀÀOak@ 
+MagicÀÀÀInfusedÀÀÀOak@ 
+MagicÀÀÀInfusedÀÀOak@ 
+MagicÀÀÀInfused Oak@ 
+Magic InfusedÀÀÀOak@ 
+MagicÀ Infused ÀOak@ 
+MagicÀÀInfused ÀOak@ 
+Magic InfusedÀÀOak@ 
+MagicÀÀInfusedÀÀOak@ 
+MagicÀÀInfusedÀ Oak@ 
+MagicÀÀInfused Oak@ 
+Magic Infused ÀOak@ 
+MagicÀÀÀInfusedÀÀÀÀOak@ 
+Magic ÀInfused ÀOak@ 
+§6§lFrost BiteÀ@ 
+§a§lLost SolesÀ@ 
+§6§lLost SolesÀ@ 
+§6§lTroubled TribesmenÀ@ 
+§f§lProofreader@ 
+§f§lKlausenok@ 
+§f§lHAU5TY@ 
+§f§lStr1t@ 
+§f§lVik0705@ 
+§f§lfryct@ 
+§f§lMorozhenka@ 
+§f§lTropicov@ 
+§f§lDastan@ 
+§a§lTemple of the LegendsÀ@ 
+Fine Pottery@ 
+Broken Rubble@ 
+§dMatchbookÀ@ 
+§a§lAn Iron Heart Part I֎À@ 
+§bOhms' Rage@ 
+§6§lZhight IslandÀ@ 
+§b§lAbyss gazers§3§l [Lv. 1]@ 
+§b§lAbyss gazers§3§l [Lv. 2]@ 
+§b§lAbyss gazers§3§l [Lv. 3]@ 
+§b§lAbyss gazers§3§l [Lv. 5]@ 
+Ohms' Rage@ 
+Rheingold@ 
+§fFlawless Light Oak WandÀ@ 
+Empty Bucket@ 
+High Gavellian Transcriber@ 
+§6§lOut of my Mind֎À@ 
+§fPure Light Birch DaggerÀ@ 
+§cx2 Dern Bow@ 
+§6x2 Hand Cannon@ 
+§b§lOhsam Bulgogi§3§l [Lv. 10]@ 
+§bGert Bangswing Manypointystick@ 
+§a§lLexdale Witch TrialsÀ@ 
+§b§lOhsam Bulgogi§3§l [Lv. 14]@ 
+§6§lLexdale Witch TrialsÀ@ 
+§eBelligerence@ 
+§dx2 Food Relik@ 
+Inmate Outfit@ 
+§a§lTribal AggressionÀ@ 
+§aNike73's House@ 
+§a§lMurder MysteryÀ@ 
+§6§lCrop FailureÀ@ 
+§fx32 Combat XP Bomb@ 
+Potato@ 
+Seismosoul@ 
+§o@ 
+Red Wool@ 
+Purple Wool@ 
+Orange Wool@ 
+Magenta Wool@ 
+Lime Wool@ 
+Light Gray Wool@ 
+Gray Wool@ 
+Cyan Wool@ 
+Brown Wool@ 
+Blue Wool@ 
+Black Wool@ 
+Yellow Terracotta@ 
+White Terracotta@ 
+Red Terracotta@ 
+Purple Terracotta@ 
+Pink Terracotta@ 
+Orange Terracotta@ 
+Magenta Terracotta@ 
+Lime Terracotta@ 
+Light Gray Terracotta@ 
+Light Blue Terracotta@ 
+Green Terracotta@ 
+Gray Terracotta@ 
+Cyan Terracotta@ 
+Brown Terracotta@ 
+Blue Terracotta@ 
+Yellow Stained Glass Pane@ 
+White Stained Glass Pane@ 
+Red Stained Glass Pane@ 
+Purple Stained Glass Pane@ 
+Pink Stained Glass Pane@ 
+Orange Stained Glass Pane@ 
+Magenta Stained Glass Pane@ 
+Lime Stained Glass Pane@ 
+Light Gray Stained Glass Pane@ 
+Light Blue Stained Glass Pane@ 
+Green Stained Glass Pane@ 
+Gray Stained Glass Pane@ 
+Cyan Stained Glass Pane@ 
+Brown Stained Glass Pane@ 
+Blue Stained Glass Pane@ 
+Black Stained Glass Pane@ 
+Yellow Stained Glass@ 
+White Stained Glass@ 
+Red Stained Glass@ 
+Purple Stained Glass@ 
+Pink Stained Glass@ 
+Orange Stained Glass@ 
+Magenta Stained Glass@ 
+Lime Stained Glass@ 
+Light Gray Stained Glass@ 
+Light Blue Stained Glass@ 
+Green Stained Glass@ 
+Gray Stained Glass@ 
+Cyan Stained Glass@ 
+Brown Stained Glass@ 
+Blue Stained Glass@ 
+Black Stained Glass@ 
+Dandelion Yellow@ 
+Yellow Concrete Powder@ 
+White Concrete Powder@ 
+Red Concrete Powder@ 
+Purple Concrete Powder@ 
+Pink Concrete Powder@ 
+Orange Concrete Powder@ 
+Magenta Concrete Powder@ 
+Lime Concrete Powder@ 
+Light Gray Concrete Powder@ 
+Light Blue Concrete Powder@ 
+Green Concrete Powder@ 
+Gray Concrete Powder@ 
+Cyan Concrete Powder@ 
+Brown Concrete Powder@ 
+Blue Concrete Powder@ 
+Yellow Carpet@ 
+White Carpet@ 
+Red Carpet@ 
+Purple Carpet@ 
+Pink Carpet@ 
+Orange Carpet@ 
+Magenta Carpet@ 
+Lime Carpet@ 
+Light Gray Carpet@ 
+Light Blue Carpet@ 
+Green Carpet@ 
+Gray Carpet@ 
+Cyan Carpet@ 
+Brown Carpet@ 
+Blue Carpet@ 
+Black Carpet@ 
+Yellow Bed@ 
+Red Bed@ 
+Purple Bed@ 
+Pink Bed@ 
+Orange Bed@ 
+Magenta Bed@ 
+Lime Bed@ 
+Light Gray Bed@ 
+Light Blue Bed@ 
+Green Bed@ 
+Gray Bed@ 
+Cyan Bed@ 
+Brown Bed@ 
+Blue Bed@ 
+Black Bed@ 
+White Bed@ 
+Yellow Banner@ 
+White Banner@ 
+Red Banner@ 
+Purple Banner@ 
+Pink Banner@ 
+Orange Banner@ 
+Magenta Banner@ 
+Lime Banner@ 
+Light Gray Banner@ 
+Light Blue Banner@ 
+Green Banner@ 
+Gray Banner@ 
+Cyan Banner@ 
+Brown Banner@ 
+Blue Banner@ 
+Black Banner@ 
+Book and Quill@ 
+Wooden Sword@ 
+Wooden Shovel@ 
+Wooden Pressure Plate@ 
+Wooden Pickaxe@ 
+Wooden Hoe@ 
+Spruce Door@ 
+Jungle Door@ 
+Dark Oak Door@ 
+Birch Door@ 
+Acacia Door@ 
+Button@ 
+Tripwire Hook@ 
+Trapped Chest@ 
+Wooden Trapdoor@ 
+Torch@ 
+Minecart with TNT@ 
+White Wool@ 
+Stone Sword@ 
+Stone Slab@ 
+Stone Pressure Plate@ 
+Stone Pickaxe@ 
+Stone Hoe@ 
+Stone Brick Stairs@ 
+Stone Axe@ 
+Sticky Piston@ 
+Stick@ 
+Spruce Wood Slab@ 
+Jungle Wood Slab@ 
+Dark Oak Wood Slab@ 
+Birch Wood Slab@ 
+Acacia Wood Slab@ 
+Spruce Wood Stairs@ 
+Jungle Wood Stairs@ 
+Dark Oak Wood Stairs@ 
+Birch Wood Stairs@ 
+Acacia Wood Stairs@ 
+Spruce Wood Planks@ 
+Jungle Wood Planks@ 
+Dark Oak Wood Planks@ 
+Birch Wood Planks@ 
+Acacia Wood Planks@ 
+Spruce Fence Gate@ 
+Jungle Fence Gate@ 
+Oak Fence Gate@ 
+Dark Oak Fence Gate@ 
+Birch Fence Gate@ 
+Acacia Fence Gate@ 
+Spruce Fence@ 
+Jungle Fence@ 
+Dark Oak Fence@ 
+Acacia Fence@ 
+Spruce Boat@ 
+Jungle Boat@ 
+Dark Oak Boat@ 
+Birch Boat@ 
+Acacia Boat@ 
+Spectral Arrow@ 
+Glistering Melon@ 
+Snow@ 
+Smooth Sandstone@ 
+Smooth Red Sandstone@ 
+Slimeball@ 
+Slime Block@ 
+Shears@ 
+Sea Lantern@ 
+Sandstone Stairs@ 
+Sandstone Slab@ 
+Sandstone@ 
+Redstone Repeater@ 
+Redstone Torch@ 
+Redstone Lamp@ 
+Block of Redstone@ 
+Redstone@ 
+Red Sandstone Stairs@ 
+Red Sandstone Slab@ 
+Red Sandstone@ 
+Red Nether Brick@ 
+Rose Red@ 
+Rail@ 
+Rabbit Stew@ 
+Quartz Stairs@ 
+Quartz Slab@ 
+Block of Quartz@ 
+Purpur Stairs@ 
+Purpur Slab@ 
+Purpur Pillar@ 
+Purpur Block@ 
+Purple Shulker Box@ 
+Purple Dye@ 
+Pumpkin Seeds@ 
+Pumpkin Pie@ 
+Prismarine Bricks@ 
+Prismarine@ 
+Polished Granite@ 
+Polished Diorite@ 
+Piston@ 
+Pink Dye@ 
+Pillar Quartz Block@ 
+Paper@ 
+Orange Dye@ 
+Observer@ 
+Note Block@ 
+Nether Wart Block@ 
+Nether Brick Stairs@ 
+Nether Brick Slab@ 
+Nether Brick Fence@ 
+Nether Brick@ 
+Mushroom Stew@ 
+Mossy Stone Bricks@ 
+Mossy Cobblestone Wall@ 
+Moss Stone@ 
+Minecart@ 
+Melon Seeds@ 
+Melon@ 
+Empty Map@ 
+Magma Cream@ 
+Magma Block@ 
+Magenta Dye@ 
+Jack o'Lantern@ 
+Lime Dye@ 
+Weighted Pressure Plate (Light)@ 
+Light Gray Dye@ 
+Light Blue Dye@ 
+Lever@ 
+Leather Pants@ 
+Leather Cap@ 
+Leather Tunic@ 
+Leather Boots@ 
+Lapis Lazuli@ 
+Lapis Lazuli Block@ 
+Ladder@ 
+Jukebox@ 
+Iron Trapdoor@ 
+Iron Sword@ 
+Iron Shovel@ 
+Iron Pickaxe@ 
+Iron Nugget@ 
+Iron Leggings@ 
+Iron Ingot@ 
+Iron Hoe@ 
+Iron Helmet@ 
+Iron Door@ 
+Iron Chestplate@ 
+Iron Boots@ 
+Iron Axe@ 
+Minecart with Hopper@ 
+Hopper@ 
+Weighted Pressure Plate (Heavy)@ 
+Hay Bale@ 
+Gray Dye@ 
+Granite@ 
+Golden Sword@ 
+Powered Rail@ 
+Golden Pickaxe@ 
+Golden Leggings@ 
+Golden Hoe@ 
+Golden Helmet@ 
+Golden Chestplate@ 
+Golden Carrot@ 
+Golden Boots@ 
+Golden Axe@ 
+Golden Apple@ 
+Gold Nugget@ 
+Block of Gold@ 
+Glowstone@ 
+Minecart with Furnace@ 
+Flint and Steel@ 
+Fire Charge@ 
+Fermented Spider Eye@ 
+Eye of Ender@ 
+Ender Chest@ 
+End Rod@ 
+End Crystal@ 
+End Stone Bricks@ 
+Enchantment Table@ 
+Dropper@ 
+Dispenser@ 
+Diorite@ 
+Diamond Sword@ 
+Diamond Shovel@ 
+Diamond Pickaxe@ 
+Diamond Leggings@ 
+Diamond Hoe@ 
+Diamond Helmet@ 
+Diamond Chestplate@ 
+Diamond Boots@ 
+Block of Diamond@ 
+Diamond Axe@ 
+Diamond@ 
+Detector Rail@ 
+Daylight Sensor@ 
+Dark Prismarine@ 
+Cyan Dye@ 
+Cookie@ 
+Compass@ 
+Redstone Comparator@ 
+Coarse Dirt@ 
+Block of Coal@ 
+Coal@ 
+Clock@ 
+Clay@ 
+Chiseled Sandstone@ 
+Chiseled Red Sandstone@ 
+Chiseled Quartz Block@ 
+Minecart with Chest@ 
+Chest@ 
+Cauldron@ 
+Carrot on a Stick@ 
+Cake@ 
+Brick Stairs@ 
+Bricks Slab@ 
+Bricks@ 
+Brewing Stand@ 
+Bread@ 
+Bow@ 
+Bookshelf@ 
+Bone Block@ 
+Blaze Powder@ 
+Beetroot Soup@ 
+Beacon@ 
+Armor Stand@ 
+Anvil@ 
+Activator Rail@ 
+Podzol@ 
+Oak Sapling@ 
+Spruce Sapling@ 
+Birch Sapling@ 
+Jungle Sapling@ 
+Acacia Sapling@ 
+Dark Oak Sapling@ 
+Bedrock@ 
+Sand@ 
+Red Sand@ 
+Gravel@ 
+Gold Ore@ 
+Iron Ore@ 
+Coal Ore@ 
+Spruce Wood@ 
+Birch Wood@ 
+Jungle Wood@ 
+Spruce Leaves@ 
+Birch Leaves@ 
+Jungle Leaves@ 
+Wet Sponge@ 
+Glass@ 
+Lapis Lazuli Ore@ 
+Cobweb@ 
+Grass@ 
+Dead Bush@ 
+Blue Orchid@ 
+Allium@ 
+Azure Bluet@ 
+Red Tulip@ 
+Orange Tulip@ 
+White Tulip@ 
+Pink Tulip@ 
+Oxeye Daisy@ 
+Obsidian@ 
+Diamond Ore@ 
+Redstone Ore@ 
+Ice@ 
+Cactus@ 
+Pumpkin@ 
+Netherrack@ 
+Soul Sand@ 
+Cobblestone Monster Egg@ 
+Mossy Stone Brick Monster Egg@ 
+Cracked Stone Brick Monster Egg@ 
+Chiseled Stone Brick Monster Egg@ 
+Vines@ 
+Mycelium@ 
+Lily Pad@ 
+End Portal@ 
+End Stone@ 
+Emerald Ore@ 
+Slightly Damaged Anvil@ 
+Very Damaged Anvil@ 
+Nether Quartz Ore@ 
+Acacia Leaves@ 
+Dark Oak Leaves@ 
+Acacia Wood@ 
+Dark Oak Wood@ 
+Terracotta@ 
+Packed Ice@ 
+Sunflower@ 
+Lilac@ 
+Double Tallgrass@ 
+Large Fern@ 
+Rose Bush@ 
+Peony@ 
+Chorus Plant@ 
+Chorus Flower@ 
+White Shulker Box@ 
+Orange Shulker Box@ 
+Magenta Shulker Box@ 
+Light Blue Shulker Box@ 
+Yellow Shulker Box@ 
+Lime Shulker Box@ 
+Pink Shulker Box@ 
+Gray Shulker Box@ 
+Light Gray Shulker Box@ 
+Cyan Shulker Box@ 
+Blue Shulker Box@ 
+Brown Shulker Box@ 
+Green Shulker Box@ 
+Red Shulker Box@ 
+Black Shulker Box@ 
+White Glazed Terracotta@ 
+Orange Glazed Terracotta@ 
+Magenta Glazed Terracotta@ 
+Light Blue Glazed Terracotta@ 
+Yellow Glazed Terracotta@ 
+Lime Glazed Terracotta@ 
+Pink Glazed Terracotta@ 
+Gray Glazed Terracotta@ 
+Light Gray Glazed Terracotta@ 
+Cyan Glazed Terracotta@ 
+Purple Glazed Terracotta@ 
+Blue Glazed Terracotta@ 
+Brown Glazed Terracotta@ 
+Green Glazed Terracotta@ 
+Red Glazed Terracotta@ 
+Black Glazed Terracotta@ 
+White Concrete@ 
+Orange Concrete@ 
+Magenta Concrete@ 
+Light Blue Concrete@ 
+Yellow Concrete@ 
+Lime Concrete@ 
+Pink Concrete@ 
+Gray Concrete@ 
+Light Gray Concrete@ 
+Cyan Concrete@ 
+Purple Concrete@ 
+Blue Concrete@ 
+Brown Concrete@ 
+Green Concrete@ 
+Red Concrete@ 
+Black Concrete@ 
+Gunpowder@ 
+Chain Helmet@ 
+Chain Chestplate@ 
+Chain Leggings@ 
+Chain Boots@ 
+Flint@ 
+Raw Porkchop@ 
+Cooked Porkchop@ 
+Lava Bucket@ 
+Snowball@ 
+Brick@ 
+Sugar Canes@ 
+Glowstone Dust@ 
+Raw Salmon@ 
+Clownfish@ 
+Pufferfish@ 
+Cooked Salmon@ 
+Ink Sac@ 
+Cactus Green@ 
+Cocoa Beans@ 
+Bone@ 
+Raw Beef@ 
+Steak@ 
+Raw Chicken@ 
+Ender Pearl@ 
+Blaze Rod@ 
+Ghast Tear@ 
+Nether Wart@ 
+Water Bottle@ 
+Thick Potion@ 
+Awkward Potion@ 
+Potion of Night Vision@ 
+Potion of Invisibility@ 
+Potion of Leaping@ 
+Potion of Fire Resistance@ 
+Potion of Swiftness@ 
+Potion of Slowness@ 
+Potion of Water Breathing@ 
+Potion of Healing@ 
+Potion of Harming@ 
+Potion of Poison@ 
+Potion of Regeneration@ 
+Potion of Strength@ 
+Potion of Weakness@ 
+Potion of Luck@ 
+Spider Eye@ 
+Spawn Bat@ 
+Spawn Blaze@ 
+Spawn Cave Spider@ 
+Spawn Chicken@ 
+Spawn Cow@ 
+Spawn Creeper@ 
+Spawn Donkey@ 
+Spawn Elder Guardian@ 
+Spawn Enderman@ 
+Spawn Endermite@ 
+Spawn Evoker@ 
+Spawn Ghast@ 
+Spawn Guardian@ 
+Spawn Horse@ 
+Spawn Husk@ 
+Spawn Llama@ 
+Spawn Magma Cube@ 
+Spawn Mooshroom@ 
+Spawn Mule@ 
+Spawn Ocelot@ 
+Spawn Parrot@ 
+Spawn Pig@ 
+Spawn Polar Bear@ 
+Spawn Rabbit@ 
+Spawn Sheep@ 
+Spawn Shulker@ 
+Spawn Silverfish@ 
+Spawn Skeleton@ 
+Spawn Skeleton Horse@ 
+Spawn Slime@ 
+Spawn Spider@ 
+Spawn Squid@ 
+Spawn Stray@ 
+Spawn Vex@ 
+Spawn Villager@ 
+Spawn Vindicator@ 
+Spawn Witch@ 
+Spawn Wither Skeleton@ 
+Spawn Wolf@ 
+Spawn Zombie@ 
+Spawn Zombie Horse@ 
+Spawn Zombie Pigman@ 
+Spawn Zombie Villager@ 
+Bottle o' Enchanting@ 
+Carrot@ 
+Baked Potato@ 
+Poisonous Potato@ 
+Skeleton Skull@ 
+Wither Skeleton Skull@ 
+Zombie Head@ 
+Head@ 
+Creeper Head@ 
+Dragon Head@ 
+Nether Star@ 
+Firework Star@ 
+Enchanted Book@ 
+Nether Quartz@ 
+Prismarine Shard@ 
+Prismarine Crystals@ 
+Raw Rabbit@ 
+Cooked Rabbit@ 
+Rabbit's Foot@ 
+Rabbit Hide@ 
+Iron Horse Armor@ 
+Gold Horse Armor@ 
+Diamond Horse Armor@ 
+Name Tag@ 
+Cooked Mutton@ 
+Chorus Fruit@ 
+Popped Chorus Fruit@ 
+Beetroot@ 
+Beetroot Seeds@ 
+Dragon's Breath@ 
+Splash Water Bottle@ 
+Mundane Splash Potion@ 
+Thick Splash Potion@ 
+Awkward Splash Potion@ 
+Splash Potion of Night Vision@ 
+Splash Potion of Invisibility@ 
+Splash Potion of Leaping@ 
+Splash Potion of Fire Resistance@ 
+Splash Potion of Swiftness@ 
+Splash Potion of Slowness@ 
+Splash Potion of Water Breathing@ 
+Splash Potion of Healing@ 
+Splash Potion of Harming@ 
+Splash Potion of Poison@ 
+Splash Potion of Regeneration@ 
+Splash Potion of Strength@ 
+Splash Potion of Weakness@ 
+Splash Potion of Luck@ 
+Arrow of Night Vision@ 
+Arrow of Invisibility@ 
+Arrow of Leaping@ 
+Arrow of Fire Resistance@ 
+Arrow of Swiftness@ 
+Arrow of Slowness@ 
+Arrow of Water Breathing@ 
+Arrow of Healing@ 
+Arrow of Harming@ 
+Arrow of Poison@ 
+Arrow of Regeneration@ 
+Arrow of Strength@ 
+Arrow of Weakness@ 
+Arrow of Luck@ 
+Lingering Water Bottle@ 
+Mundane Lingering Potion@ 
+Thick Lingering Potion@ 
+Awkward Lingering Potion@ 
+Lingering Potion of Night Vision@ 
+Lingering Potion of Invisibility@ 
+Lingering Potion of Leaping@ 
+Lingering Potion of Fire Resistance@ 
+Lingering Potion of Swiftness@ 
+Lingering Potion of Slowness@ 
+Lingering Potion of Water Breathing@ 
+Lingering Potion of Healing@ 
+Lingering Potion of Harming@ 
+Lingering Potion of Poison@ 
+Lingering Potion of Regeneration@ 
+Lingering Potion of Strength@ 
+Lingering Potion of Weakness@ 
+Lingering Potion of Luck@ 
+Elytra@ 
+Totem of Undying@ 
+Shulker Shell@ 
+Music Disc@ 
+§o§l§6[>] Select This Character@ 
+§fLight Oak Wood WandÀ@ 
+§o§6Ingredient Pouch@ 
+§o§bCharacter Info@ 
+§o§bWaves Raiser@ 
+§o§fBoat@ 
+§o§fBrown Horse@ 
+§o§eWebbed Glass Charm@ 
+§o§cVindicator@ 
+§o§aNether Boots@ 
+§o§dAnno@ 
+§o§eRed String@ 
+§o§aNether Pants@ 
+§o§bSundown Poncho@ 
+§o§dBalankia@ 
+§o§dQuest Book@ 
+§o§aEmerald@ 
+§o§f§lJukebox Menu@ 
+§o§e§lManage Your Crates@ 
+§o§f§lUse Menu@ 
+§o§f§lPlayer Effects@ 
+§o§f§lAttack Effects@ 
+§o§fx1 Cloud Attack Effect@ 
+§o§fx1 Letter Attack Effect@ 
+§o§b§lView Your Guild@ 
+§o§5§lMastery Tomes@ 
+§o§3Scrap rewards@ 
+§o§7Click on an item to add it@ 
+§o§fSheep Disguise@ 
+§o§fCow Disguise@ 
+§o§fCloud Attack Effect@ 
+§o§cLake Gylia Effect@ 
+§o§f§lPets@ 
+§o§cx1 Lake Gylia Effect@ 
+§o§bVIP+ Slots@ 
+§o§l§a[+] Create a new character@ 
+§o§5HERO Slots@ 
+§ePro Tempore@ 
+§o§2VIP Slots@ 
+§o§7§lEdit Classes@ 
+§b§lAbyss gazers§3§l [Lv. 7]@ 
+Andesite-hewn Stick@ 
+§6§lGeneral's OrdersÀ@ 
+§b§lOhsam Bulgogi§3§l [Lv. 15]@ 
+§aHarden CoreÀ@ 
+§fFlawless Jungle WandÀ@ 
+§dVacarmeÀ@ 
+§fImpeccable Jungle DaggerÀ@ 
+§dWater Relic Relik@ 
+§dRelic Relik@ 
+§dWater Relic RelikÀ@ 
+§dRelic RelikÀ@ 
+§dAir Relic RelikÀ@ 
+§f§lKanozyOwO@ 
+§b§lAbyss gazers§3§l [Lv. 8]@ 
+§b§lAbyss gazers§3§l [Lv. 10]@ 
+§b§lAbyss gazers§3§l [Lv. 11]@ 
+§fAndesite-Hewn WandÀ@ 
+§f§lLight PeninsulaÀ@ 
+Boreal@ 
+§a§lTravelers@ 
+§b§lLala is a QT§3§l [Lv. 4]
+§aDois' House@ 
+§fLobby 6@ 
+§fLobby 7@ 
+§fLobby 8@ 
+§cFlower Crown@ 
+§4Dynasty Hat@ 
+§4Dynasty Relik@ 
+§cNordic Dagger@ 
+§cNordic Crossbow@ 
+§cNordic Staff@ 

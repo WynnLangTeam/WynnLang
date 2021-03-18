@@ -1,4 +1,4 @@
 §f§lPage (\d+§c >§4>§c>§4>§c>)@§f§lСтраница (r1)
 §a§lEU World (\d+)@§a§lEU Мир (r1)
-§a§lWorld (\d+)@§a§lМир (r1)
+(§[aec]§l)World (\d+)@(r1)Мир (r2)
 §l§6\[>\] Select ([a-zA-Z]{1,16})$@§l§6[>] Выбрать (r1)

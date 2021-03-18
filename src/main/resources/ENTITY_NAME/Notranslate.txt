@@ -7256,3 +7256,1810 @@ randomPass@
 §eGoblin Forager§6 [Lv. 41]@ 
 §ePlains Brigand§6 [Lv. 45]@ 
 §eAdventuring Hobbit§6 [Lv. 95]@ 
+§cNimbuseeker§6 [Lv. 74]@ 
+§cCirruskater§6 [Lv. 75]@ 
+LexAldorei1PurpleFull@ 
+§7[0/4]@ 
+LexAldorei1PurpleEmpty@ 
+LexAldorei1YellowFull@ 
+LexAldorei1OrangeFull@ 
+LexAldorei1GreenFull@ 
+LexAldorei1YellowEmpty@ 
+LexAldorei1OrangeEmpty@ 
+LexAldorei1GreenEmpty@ 
+LexAldorei1YellowCounter@ 
+LexAldorei1OrangeCounter@ 
+LexAldorei1GreenCounter@ 
+LexAldorei1PurpleCounter@ 
+§7traverse tunnel@ 
+§7neat@ 
+§cAnimated Shroom§6 [Lv. 2]@ 
+§cCorrupted Egg§6 [Lv. 12]@ 
+§cShroomBones§6 [Lv. 3]@ 
+§cCorrupted Reviver§6 [Lv. 10]@ 
+§cMushroom Pigman§6 [Lv. 6]@ 
+§cCorrupt Hex§6 [Lv. 10]@ 
+§cCorrupted Altar§6 [Lv. 7]@ 
+§cCorrupted Scout§6 [Lv. 3]@ 
+§cColt De Corruption§6 [Lv. 9]@ 
+§cImmolated Creeper§6 [Lv. 80]@ 
+§cBasilisk Lizard§6 [Lv. 79]@ 
+§cFireclaw Raptor§6 [Lv. 82]@ 
+§cArmored Triceratops§6 [Lv. 82]@ 
+§cRoot Slinger§6 [Lv. 76]@ 
+§cCorrupted Squire§6 [Lv. 6]@ 
+§cPuffbloom§6 [Lv. 16]@ 
+§7[RETURN OF GAMINGMAN2]@ 
+§cEarthworm§6 [Lv. 55]@ 
+§cRotten Zombie§6 [Lv. 5]@ 
+§cChronoshade§6 [Lv. 12]@ 
+§cTemporal Flux§6 [Lv. 10]@ 
+§cStumbling Faller§6 [Lv. 18]@ 
+§cCrystal Hexer§6 [Lv. 7]@ 
+§cBlind Skeleton§6 [Lv. 18]@ 
+§cAimless Undead§6 [Lv. 17]@ 
+§cPutrid Husk§6 [Lv. 16]@ 
+§cOrc Fighter§6 [Lv. 44]@ 
+§cRoot Ingrainer§6 [Lv. 14]@ 
+§cInfestor§6 [Lv. 12]@ 
+§cRoot Infestation§6 [Lv. 11]@ 
+§cInfested Zombie§6 [Lv. 18]@ 
+§cCrystal Guardian§6 [Lv. 9]@ 
+§cHexed Soul§6 [Lv. 11]@ 
+§cHex-master Rook§6 [Lv. 21]@ 
+§cMistake§6 [Lv. 15]@ 
+§cOrc Lookout§6 [Lv. 46]@ 
+§6[Lv. 20] Area@ 
+§cSunlight Weird§6 [Lv. 75]@ 
+§cElemental Weird§6 [Lv. 73]@ 
+§cFire Weird§6 [Lv. 73]@ 
+§cIntense Weird§6 [Lv. 76]@ 
+§cWeather Weird§6 [Lv. 78]@ 
+§cImmolated Chunk§6 [Lv. 76]@ 
+§cImmolated Creeper§6 [Lv. 107]@ 
+§cImmolated Chunk§6 [Lv. 103]@ 
+§cGnashing Raptor§6 [Lv. 80]@ 
+§cSlag Coat§6 [Lv. 15]@ 
+§cFire Flak§6 [Lv. 20]@ 
+§cSmolder§6 [Lv. 10]@ 
+§cCinder§6 [Lv. 10]@ 
+§cTerrace Turtle§6 [Lv. 34]@ 
+§cUndead Bovemist§6 [Lv. 22]@ 
+§cCorrupted Garoth§6 [Lv. 125]@ 
+§cCorrupted Embryo§6 [Lv. 9]@ 
+§cCorrupted Hexer§6 [Lv. 10]@ 
+§cSpine Shaker§6 [Lv. 14]@ 
+VForgeryDiscovery1@ 
+§7§l&@ 
+VForgeryDiscovery2@ 
+§cCosmic Weird§6 [Lv. 75]@ 
+§cSparkling Weird§6 [Lv. 76]@ 
+§cRotten Necromancer§6 [Lv. 28]@ 
+§cSupernatural Force§6 [Lv. 25]@ 
+§cEerie Presence§6 [Lv. 20]@ 
+§cCave Crab§6 [Lv. 7]@ 
+§cWaterlogged Zombie§6 [Lv. 10]@ 
+§cTidepool Spitter§6 [Lv. 11]@ 
+§cUnstable Saprophyte§6 [Lv. 8]@ 
+§cShroom Knight Watcher §6 [Lv. 11]@ 
+§cOzone Weird§6 [Lv. 75]@ 
+§cMagnetized Weird§6 [Lv. 76]@ 
+§cFrost Weird§6 [Lv. 75]@ 
+§cCorrupted Charger§6 [Lv. 11]@ 
+§cCorrupted Slinger§6 [Lv. 10]@ 
+§cMandible Gnasher§6 [Lv. 20]@ 
+§cSkittercling§6 [Lv. 22]@ 
+§cBlackstring Spinner§6 [Lv. 25]@ 
+§cBlackstring Mite§6 [Lv. 20]@ 
+§cHex TNT§6 [Lv. 5]@ 
+Bugtote@ 
+§cEarthpit Orc Drummer§6 [Lv. 46]@ 
+§cEarthpit Orc Reveler§6 [Lv. 45]@ 
+§cEarthpit Chief Ceifko§6 [Lv. 48]@ 
+§cTinkernook Knapper§6 [Lv. 41]@ 
+§cTinkernook Smelter§6 [Lv. 44]@ 
+§cGoblin Wayfinder§6 [Lv. 42]@ 
+§cTinkernook Whittler§6 [Lv. 41]@ 
+§cGoblin Pickpocket§6 [Lv. 43]@ 
+§cGoblin Traveller§6 [Lv. 40]@ 
+§cHolehold Orc Gofer§6 [Lv. 44]@ 
+§cHolehold Orc Keeper§6 [Lv. 46]@ 
+§cHolehold Orc Marathon§6 [Lv. 49]@ 
+§cLoamsprout Orc Rotflinger§6 [Lv. 47]@ 
+§cLoamsprout Orc Muckraker§6 [Lv. 47]@ 
+§cBeldam Florist§6 [Lv. 70]@ 
+§cTerra Nymph§6 [Lv. 68]@ 
+§cGust Nymph§6 [Lv. 73]@ 
+§cStorm Nymph§6 [Lv. 70]@ 
+§cCorrupted Morsel§6 [Lv. 4]@ 
+§cAngry Skeleton§6 [Lv. 21]@ 
+§cDefrostdead§6 [Lv. 145]@ 
+§cDefroster§6 [Lv. 43]@ 
+§cAngelic Inquisitor§6 [Lv. 31]@ 
+§cKanderweed§6 [Lv. 70]@ 
+§cIce Wraith§6 [Lv. 44]@ 
+§cMiniature Snow Storm§6 [Lv. 44]@ 
+§cBedrock Bison§6 [Lv. 70]@ 
+§cArmless Bedrock§6 [Lv. 71]@ 
+§eCrucifix of Wind§6 [Lv. 30]@ 
+§cHot Coals§6 [Lv. 12]@ 
+§cLava Spider§6 [Lv. 17]@ 
+§cSpitter Spiderling§6 [Lv. 19]@ 
+§eSpider Egg§6 [Lv. 18]@ 
+§cSpider Egg§6 [Lv. 18]@ 
+§cSticky Arachne§6 [Lv. 20]@ 
+§cSanguine Arachne§6 [Lv. 22]@ 
+§cSinking Weird§6 [Lv. 76]@ 
+§cStone Bog§6 [Lv. 73]@ 
+§cCobble Bog§6 [Lv. 70]@ 
+§cInflamed Peat§6 [Lv. 75]@ 
+§cMuddled Weird§6 [Lv. 77]@ 
+§cTiontaith Beast§6 [Lv. 77]@ 
+§cMelting Weird§6 [Lv. 74]@ 
+§cExplosive Weird§6 [Lv. 76]@ 
+§cGel Weird§6 [Lv. 75]@ 
+§cDecay Weird§6 [Lv. 74]@ 
+§cBrother Combustion§6 [Lv. 85]@ 
+§cBrother Incineration§6 [Lv. 85]@ 
+§cSnapjaw Spider§6 [Lv. 20]@ 
+§cDark Weird§6 [Lv. 73]@ 
+§cNix Dweller§6 [Lv. 74]@ 
+§cOutlandish Weird§6 [Lv. 78]@ 
+§cNordic Crossbow@ 
+§cGel Chunk§6 [Lv. 75]@ 
+§cShadowy Weird§6 [Lv. 73]@ 
+IPBSpiderNum@ 
+§cPutrifier§6 [Lv. 75]@ 
+§cBlackened Soul§6 [Lv. 72]@ 
+§cDarkening Soul§6 [Lv. 70]@ 
+§cTiontaith Hunter§6 [Lv. 78]@ 
+ptoParticleThing@ 
+§cPlague Master§6 [Lv. 80]@ 
+§cGigantic Flea§6 [Lv. 70]@ 
+§cBlacksoil Dweller§6 [Lv. 72]@ 
+§cKandrekk Spiritbinder§6 [Lv. 75]@ 
+§cNordic Staff@ 
+§cTwitchbeetle§6 [Lv. 73]@ 
+§cStraggler§6 [Lv. 70]@ 
+§cWrither§6 [Lv. 73]@ 
+§cCarver§6 [Lv. 75]@ 
+BraceHeadBody@ 
+§cRejuvenator§6 [Lv. 70]@ 
+§cStagnance Wingers§6 [Lv. 71]@ 
+§cResurgam§6 [Lv. 74]@ 
+§cShade Lurker§6 [Lv. 72]@ 
+§cTaskmaster§6 [Lv. 79]@ 
+§eWanderer§6 [Lv. 73]@ 
+§cForgotten§6 [Lv. 73]@ 
+§cTaskmaster§6 [Lv. 74]@ 
+§cNordic Dagger@ 
+§cShroomified Corpse§6 [Lv. 13]@ 
+§cCordyman§6 [Lv. 12]@ 
+§cThe Shroominator§6 [Lv. 15]@ 
+§cTaskmaster§6 [Lv. 76]@ 
+BraceHeadMain@ 
+§cBloated Maggot§6 [Lv. 68]@ 
+§eMisfit§6 [Lv. 71]@ 
+§cMoonlight Weird§6 [Lv. 71]@ 
+§cCosmic Weird§6 [Lv. 70]@ 
+§cWerewolf§6 [Lv. 72]@ 
+§cSpite Muckler§6 [Lv. 72]@ 
+§cSummoned Rift§6 [Lv. 65]@ 
+LP-BucketCollect@ 
+§cGhastly Ghoul§6 [Lv. 68]@ 
+§cFierce Pigman Raider§6 [Lv. 10]@ 
+§cPigman Hatchet Tosser§6 [Lv. 8]@ 
+§cGolden Horde§6 [Lv. 29]@ 
+§cAmoral Miner§6 [Lv. 29]@ 
+§cSkeletal Guardian§6 [Lv. 73]@ 
+§cWailing Skeleton§6 [Lv. 106]@ 
+§cTormented Ghost§6 [Lv. 70]@ 
+§cWailing Skeleton§6 [Lv. 71]@ 
+§cCrumbled Skeleton§6 [Lv. 71]@ 
+§cCrumbled Skeleton§6 [Lv. 106]@ 
+§cSewer Scavenger§6 [Lv. 67]@ 
+§cBlazing Skeleton§6 [Lv. 73]@ 
+§cFlaming Skeleton§6 [Lv. 107]@ 
+§cCorrupted Witherhead§6 [Lv. 125]@ 
+GoldNinjaSlayer@ 
+§cUnstable Slime§6 [Lv. 106]@ 
+§cJattelik Slime§6 [Lv. 107]@ 
+§cMellan Slime§6 [Lv. 106]@ 
+§cLilla Slime§6 [Lv. 105]@ 
+§cOssified Touroto§6 [Lv. 70]@ 
+§cSootspin Arachne§6 [Lv. 21]@ 
+§cBevonatu Slykaar§6 [Lv. 125]@ 
+§cSpiderling§6 [Lv. 18]@ 
+§cArakadicus Child§6 [Lv. 18]@ 
+§cTakertuva Slime§6 [Lv. 120]@ 
+§cVointi Slime§6 [Lv. 125]@ 
+§cCorrupted Slykaar§6 [Lv. 125]@ 
+§cLigfamblawende Flower§6 [Lv. 60]@ 
+§cEmber Spawn§6 [Lv. 55]@ 
+§cSand Slinger§6 [Lv. 32]@ 
+§cAncient Husk§6 [Lv. 30]@ 
+§cRattling Mage Remains§6 [Lv. 2]@ 
+§cBerry Brigadier§6 [Lv. 1]@ 
+§cSkeletal Guardian§6 [Lv. 12]@ 
+§cCrumbled Skeleton§6 [Lv. 10]@ 
+§cTormented Ghost§6 [Lv. 9]@ 
+§cWailing Skeleton§6 [Lv. 10]@ 
+§cSewer Scavenger§6 [Lv. 6]@ 
+ghhlx@ 
+§cHowling Skull§6 [Lv. 9]@ 
+§cBlazing Skeleton§6 [Lv. 12]@ 
+§7[Fabi the consistent]@ 
+§cWitherhead Spawn§6 [Lv. 9]@ 
+§cTrunkstump Foot Biter§6 [Lv. 42]@ 
+§cTrunkstump Chief Veltu§6 [Lv. 48]@ 
+§cTrunkstump Pebbleflinger§6 [Lv. 40]@ 
+§cCosmic Weird§6 [Lv. 45]@ 
+§cStardust Weird§6 [Lv. 46]@ 
+§cSecretcove Orc Sneak§6 [Lv. 46]@ 
+§cSecretcove Orc Ruinseeker§6 [Lv. 48]@ 
+§cSunspark Orc Altarkris§6 [Lv. 46]@ 
+§cSunspark Orc Skyrollicker§6 [Lv. 48]@ 
+§cDefective Guard Golem§6 [Lv. 55]@ 
+§cGoblin Revenge Seeker§6 [Lv. 45]@ 
+§cStonecave Orc Assayer§6 [Lv. 47]@ 
+§cMudspring Orc Waterbearer§6 [Lv. 47]@ 
+§cMudspring Orc Chemist§6 [Lv. 45]@ 
+§cMudspring Orc Pulper§6 [Lv. 46]@ 
+Tenntix@ 
+§cRoothome Scamp§6 [Lv. 40]@ 
+§cRoothome Grudgebearer§6 [Lv. 48]@ 
+§cRoothome Orc Protector§6 [Lv. 49]@ 
+§cSablestone Orc Smasher§6 [Lv. 46]@ 
+§cSablestone Orc Basher§6 [Lv. 48]@ 
+§cWaterway Fermenter§6 [Lv. 40]@ 
+§cWaterway Moonshiner§6 [Lv. 40]@ 
+§cRoothome Flutist§6 [Lv. 43]@ 
+§cMistdawn Speaker§6 [Lv. 46]@ 
+§cWaterway Bootlegger§6 [Lv. 43]@ 
+§cMud Arachnid§6 [Lv. 57]@ 
+§7[Rainbow Abuser]@ 
+§cRoothome Dancer§6 [Lv. 45]@ 
+§cRoothome Chanter§6 [Lv. 42]@ 
+§cOrc Zealot§6 [Lv. 50]@ 
+§cSanguine Spider Swarm§6 [Lv. 40]@ 
+§cSanguine Spider Broody§6 [Lv. 42]@ 
+§cCliffhearth Orc Chopper§6 [Lv. 45]@ 
+§cCliffhearth Chief Elisu§6 [Lv. 48]@ 
+§cCliffhearth Orc Smoker§6 [Lv. 43]@ 
+§cCliffhearth Orc Kindler§6 [Lv. 46]@ 
+§cCorrupted Crab Guard§6 [Lv. 5]@ 
+§cCorrupted Crab Master§6 [Lv. 9]@ 
+§cBlazing Skeletal Mage§6 [Lv. 2]@ 
+§cBandit Headhunter§6 [Lv. 83]@ 
+§cKidnapped Cleric§6 [Lv. 83]@ 
+§cBandit Pyromaniac§6 [Lv. 83]@ 
+§cCosmic Weird§6 [Lv. 80]@ 
+§cGravitic Weird§6 [Lv. 81]@ 
+dragotheseeel@ 
+§cShroom Knight§6 [Lv. 15]@ 
+§cFungal Latcher§6 [Lv. 9]@ 
+§cSunspark Orc Tomewriter§6 [Lv. 45]@ 
+§cBlue Krait§6 [Lv. 55]@ 
+§cBlack Mamba§6 [Lv. 56]@ 
+§cProspector Grunt§6 [Lv. 85]@ 
+§cProspectorEnforcer§6 [Lv. 80]@ 
+§cProspector Sniper§6 [Lv. 85]@ 
+§cProspector Boss§6 [Lv. 87]@ 
+§cDeep Dart Frog§6 [Lv. 57]@ 
+§cCane Toad§6 [Lv. 58]@ 
+§cWhirl Weird§6 [Lv. 73]@ 
+§cPlasma Weird§6 [Lv. 51]@ 
+§cCosmic Weird§6 [Lv. 50]@ 
+§cMetalkaline Slime§6 [Lv. 50]@ 
+§cCondensed Metalkaline§6 [Lv. 48]@ 
+§cMetalkaline Drip§6 [Lv. 48]@ 
+§cAlligator Leader§6 [Lv. 62]@ 
+§cTribal Crocodile§6 [Lv. 59]@ 
+§cHungry Alligator§6 [Lv. 60]@ 
+§cSloughing Sludge§6 [Lv. 52]@ 
+§cWatery Sludge§6 [Lv. 45]@ 
+§cAquifer Silkworm§6 [Lv. 37]@ 
+§0a@ 
+§cElite§6 [Lv. 100]@ 
+§cCenterworld Orc Buffeter§6 [Lv. 63]@ 
+§cNaked Orc§6 [Lv. 62]@ 
+§cFlying Gold Mimic§6 [Lv. 73]@ 
+§cDefiled Envoy§6 [Lv. 70]@ 
+§css§6 [Lv. 2]@ 
+§cRunefire§6 [Lv. 45]@ 
+À@ 
+§aInvis§6 [Lv. 70]@ 
+§cSecretcove Orc Gatekeeper§6 [Lv. 48]@ 
+§a @ 
+Potentt@ 
+§cFaller§6 [Lv. 18]@ 
+§cSpitfire§6 [Lv. 45]@ 
+§cStonecave Orc Metalworker§6 [Lv. 50]@ 
+§cWolf Spider§6 [Lv. 61]@ 
+WHCaveParticles@ 
+§cDecayed Beetle§6 [Lv. 58]@ 
+§cCorrupted Sewage§6 [Lv. 6]@ 
+§cCrumbling Mage§6 [Lv. 4]@ 
+§cRisen Zombie§6 [Lv. 5]@ 
+§cRattling Mage§6 [Lv. 4]@ 
+BraceWHShockwave@ 
+BraceWHSWRand@ 
+BraceRandMobs@ 
+BraceRandShock@ 
+BraceRandStal@ 
+§cRotting Skeleton§6 [Lv. 8]@ 
+§cSkeleton Reaper§6 [Lv. 10]@ 
+§cGrootslang Wyrm§6 [Lv. 100]@ 
+Devilogic@ 
+§cPigman Roughneck§6 [Lv. 14]@ 
+§cPigman Brawler§6 [Lv. 16]@ 
+§cPigman Junk Flinger§6 [Lv. 16]@ 
+§cTrunkstump Piker§6 [Lv. 43]@ 
+§cTinkernook Exhibitioner§6 [Lv. 45]@ 
+§cStonecave Orc Rockwrecker§6 [Lv. 48]@ 
+§cRivertunnel Shiny Baron§6 [Lv. 45]@ 
+marshmary@ 
+§cMistdawn Windwhistler§6 [Lv. 43]@ 
+§cMistdawn Raindancer§6 [Lv. 42]@ 
+sockTaprootb1s4@ 
+sockTaprootb1s5@ 
+sockTaprootb1s6@ 
+sockTaprootb1s7@ 
+sockTaprootb1s8@ 
+sockTaprootb1s1@ 
+sockTaprootb1s2@ 
+sockTaprootb1s3@ 
+§cForest Guardian§6 [Lv. 70]@ 
+§cAbelia§6 [Lv. 65]@ 
+§cLight Fungus§6 [Lv. 65]@ 
+§cForest Owl§6 [Lv. 70]@ 
+§cWatchman§6 [Lv. 65]@ 
+§cInsane Thief§6 [Lv. 47]@ 
+§cMeteoric Energy§6 [Lv. 45]@ 
+§cInfected Goo§6 [Lv. 10]@ 
+§7KANDON BEDA IS A GOOD CITY@ 
+§cHaunted Mask§6 [Lv. 28]@ 
+§7A few scrolls for you, kind@ 
+§7sir@ 
+§7lel@ 
+TAG: CB_TempleKeyhole@ 
+§7Loot Quality Food@ 
+§cCow King§6 [Lv. 70]@ 
+§a0/§22@ 
+§cThunder Elf§6 [Lv. 75]@ 
+§cElectrified Elf§6 [Lv. 79]@ 
+VSlimeBridge@ 
+§7right?@ 
+§7yes very cool empty shop@ 
+§a0§2/25@ 
+§a1§2/25@ 
+§a2§2/25@ 
+§a3§2/25@ 
+§a4§2/25@ 
+§a5§2/25@ 
+§a6§2/25@ 
+§a7§2/25@ 
+§a8§2/25@ 
+§a9§2/25@ 
+§a10§2/25@ 
+§a11§2/25@ 
+§a12§2/25@ 
+§a13§2/25@ 
+§a14§2/25@ 
+§a15§2/25@ 
+§a16§2/25@ 
+§a17§2/25@ 
+§a18§2/25@ 
+§a19§2/25@ 
+§a20§2/25@ 
+§a21§2/25@ 
+§a22§2/25@ 
+§a23§2/25@ 
+§a24§2/25@ 
+§a25§2/25@ 
+§7join TNL@ 
+§eAngry Woman§6 [Lv. 24]@ 
+§7Welcome to Storage Wars, check@ 
+§7out what you bought@ 
+§7Misc items here, find your@ 
+§7offer here :D@ 
+@ 
+§7EE OOO@ 
+§7Gamer Goods@ 
+§7Join ILQ!@ 
+§7Items for TCC raid.@ 
+§cDamaged Colossus Spawn§6 [Lv. 100]@ 
+§cAdakite Beast§6 [Lv. 110]@ 
+§cDerelict Stone Golem§6 [Lv. 110]@ 
+§6[1/1]@ 
+§cRunaway Fleris§6 [Lv. 99]@ 
+§cStalactite Cluster§6 [Lv. 104]@ 
+§cAmethyst-Shelled Snail§6 [Lv. 100]@ 
+§cFossilized Harpy§6 [Lv. 100]@ 
+§cFissuring Sediment§6 [Lv. 101]@ 
+§cMercury Puddle§6 [Lv. 102]@ 
+§cCanyon Soarer§6 [Lv. 105]@ 
+§cStone Construct§6 [Lv. 102]@ 
+§cMalfunctioning Golem§6 [Lv. 115]@ 
+§7[The Saviour]@ 
+Altcorg@ 
+§cIncorporated Human§6 [Lv. 105]@ 
+§cGargoyle§6 [Lv. 105]@ 
+§cPrehistoric Soarer§6 [Lv. 103]@ 
+§cStone Construct§6 [Lv. 108]@ 
+§cColossal Duke§6 [Lv. 189]@ 
+§cElectrified Fragment§6 [Lv. 150]@ 
+§cAnimated Fragment§6 [Lv. 150]@ 
+§cUnstable Plasma§6 [Lv. 150]@ 
+§cColossal Jam§6 [Lv. 150]@ 
+colBossReturnToSenderLeft@ 
+colBossReturnToSenderRight@ 
+§cColossal Eye§6 [Lv. 250]@ 
+§cMammoth Mouth§6 [Lv. 250]@ 
+§cExaminer§6 [Lv. 150]@ 
+§cPesky Peridotite§6 [Lv. 140]@ 
+§cColossal Core§6 [Lv. 300]@ 
+§eQuartzite Cerebellum§6 [Lv. 400]@ 
+§eRuptured Ear§6 [Lv. 400]@ 
+§eGnarled Mouth§6 [Lv. 400]@ 
+§cIgneous Neuron§6 [Lv. 150]@ 
+§7e@ 
+§7food@ 
+@ 
+§cG-04 Scavenger Mech§6 [Lv. 90]@ 
+§cT-12 Overseer§6 [Lv. 90]@ 
+§cP-20 Advanced Patroller§6 [Lv. 90]@ 
+§cI-15 Defense Unit§6 [Lv. 90]@ 
+§cForsaken Legion Pikeman§6 [Lv. 83]@ 
+§cForsaken Legion Marzban§6 [Lv. 85]@ 
+§cAncient Fanatic'§6 [Lv. 75]@ 
+§cAncient Worshipper§6 [Lv. 75]@ 
+§cLiving Scrap§6 [Lv. 75]@ 
+§cCorrupted Undead Warlord§6 [Lv. 100]@ 
+§cCorrupted Decrepit Warrior§6 [Lv. 90]@ 
+§cCarnivorous Plant§6 [Lv. 80]@ 
+AntonioV@ 
+§7[1/4]@ 
+§7[2/4]@ 
+§7[3/4]@ 
+§7[4/4]@ 
+§7at Great prices@ 
+§7Come One Come All, Great items@ 
+@ 
+§7[Master Moon]@ 
+§cMistdawn Fogcatcher§6 [Lv. 45]@ 
+§cEvergreen Auger§6 [Lv. 84]@ 
+§cForsaken Legion Peasant§6 [Lv. 82]@ 
+§cForsaken Legion Dahbasi§6 [Lv. 85]@ 
+§cForsaken Legion Butcher§6 [Lv. 95]@ 
+Light_On_Blue@ 
+§cAcromantula§6 [Lv. 48]@ 
+§cAcromantula§6 [Lv. 45]@ 
+§cBreathless Weird§6 [Lv. 79]@ 
+§7[Minus Soul]@ 
+§cIllusory Specter§6 [Lv. 105]@ 
+§cPoltergiced§6 [Lv. 107]@ 
+§cBiting Gust§6 [Lv. 105]@ 
+§cRedline Weird§6 [Lv. 78]@ 
+§7[join DEU]@ 
+§7oil@ 
+§7Snake oil? Nah. I like fish@ 
+§cDigested Muck§6 [Lv. 6]@ 
+§cCherub§6 [Lv. 21]@ 
+§7what@ 
+§cQuickfoot Raptor§6 [Lv. 24]@ 
+§cBasilisk Lizard§6 [Lv. 25]@ 
+§cSharpfang Raptor§6 [Lv. 27]@ 
+§cAncient Pterodactyl§6 [Lv. 28]@ 
+§cRockhide Pterodactyl§6 [Lv. 27]@ 
+§cReaper Pterodactyl§6 [Lv. 27]@ 
+@ 
+§cArmored Triceratops§6 [Lv. 28]@ 
+§cGnashing Raptor§6 [Lv. 26]@ 
+§cEnraged Triceratops§6 [Lv. 28]@ 
+§cImmolated Creeper§6 [Lv. 26]@ 
+§cImmolated Chunk§6 [Lv. 22]@ 
+§cCharged Elf§6 [Lv. 74]@ 
+§cCenterworld Orc Sunderer§6 [Lv. 65]@ 
+§cCenterworld Orc Sunderer§6 [Lv. 66]@ 
+§7Im very cool@ 
+§cThunder Incarnate§6 [Lv. 76]@ 
+§cEthrela Myconid§6 [Lv. 74]@ 
+§cVolkrat Myconid§6 [Lv. 73]@ 
+§cRockhide Pterodactyl§6 [Lv. 81]@ 
+§cReaper Pterodactyl§6 [Lv. 81]@ 
+§cQuickfoot Raptor§6 [Lv. 78]@ 
+§cAncient Pterodactyl§6 [Lv. 82]@ 
+§cSharpfang Raptor§6 [Lv. 81]@ 
+§cRockhide Pterodactyl§6 [Lv. 93]@ 
+§cEnraged Triceratops§6 [Lv. 94]@ 
+§cArmored Triceratops§6 [Lv. 94]@ 
+§eRelic Guardian§6 [Lv. 45]@ 
+§cForsaken Legion Peasant§6 [Lv. 27]@ 
+§cForsaken Legion Dahbasi§6 [Lv. 30]@ 
+§cConfused Witch§6 [Lv. 55]@ 
+§cForsaken Legion Butcher§6 [Lv. 30]@ 
+§cForsaken Legion Castellan§6 [Lv. 30]@ 
+§cForsaken Legion High Priest§6 [Lv. 30]@ 
+§cForsaken Legion Marzban§6 [Lv. 30]@ 
+§cForsaken Legion Pikeman§6 [Lv. 28]@ 
+§cRejuvenated Corpse§6 [Lv. 74]@ 
+§cReanimated Body§6 [Lv. 74]@ 
+§cResurrected Remains§6 [Lv. 78]@ 
+§eSpider Egg§6 [Lv. 74]@ 
+§cSpitter Spiderling§6 [Lv. 75]@ 
+§7\o/@ 
+§cSnapjaw Spider§6 [Lv. 76]@ 
+§cSticky Arachne§6 [Lv. 76]@ 
+§cSanguine Arachne§6 [Lv. 78]@ 
+§cEerie Spiderling§6 [Lv. 96]@ 
+CIPBSpiderNum@ 
+§cCorrupted Hanging Man§6 [Lv. 95]@ 
+§cSnapjaw Spider§6 [Lv. 96]@ 
+§cEerie Spiderling§6 [Lv. 107]@ 
+§7Galleons Graveyard Sucks Turn@ 
+§cDragon Egg§6 [Lv. 90]@ 
+§cDragonling Bull§6 [Lv. 110]@ 
+§cSootspin Arachne§6 [Lv. 77]@ 
+§cPrismatic Weird§6 [Lv. 73]@ 
+§cLight Weird§6 [Lv. 73]@ 
+§cFormative Weird§6 [Lv. 74]@ 
+§cRising Weird§6 [Lv. 76]@ 
+§cEnergized Weird§6 [Lv. 74]@ 
+§cCorrupted Arakadicus§6 [Lv. 105]@ 
+§cWarped Spiderling§6 [Lv. 95]@ 
+§cEarth Weird§6 [Lv. 75]@ 
+§cSnapjaw Spider§6 [Lv. 107]@ 
+§cCorrupted Hanging Man§6 [Lv. 106]@ 
+§cCorrupted Arakadicus§6 [Lv. 125]@ 
+§cWarped Spiderling§6 [Lv. 105]@ 
+§cUnfulfilled Golem§6 [Lv. 58]@ 
+§cDemon of the Prison Keeper§6 [Lv. 65]@ 
+§cDemon of the Prison Warden§6 [Lv. 67]@ 
+§cRockhide Pterodactyl§6 [Lv. 108]@ 
+§cSubmission Sentry§6 [Lv. 60]@ 
+§cGoo Czar§6 [Lv. 3]@ 
+§cArmored Triceratops§6 [Lv. 109]@ 
+§cSpirit of a Gavelian Soldier§6 [Lv. 65]@ 
+§cSpirit of a Lost Mage§6 [Lv. 67]@ 
+§cEnraged Triceratops§6 [Lv. 109]@ 
+§cEnraged Triceratops§6 [Lv. 82]@ 
+§cFactory Sentinel§6 [Lv. 65]@ 
+§cSpirit of the Keeper of Keys§6 [Lv. 68]@ 
+§cForsaken Legion Dahbasi§6 [Lv. 108]@ 
+§cForsaken Legion Castellan§6 [Lv. 108]@ 
+§cForsaken Legion Butcher§6 [Lv. 108]@ 
+§cForsaken Legion High Priest§6 [Lv. 108]@ 
+WaffleWrecker@ 
+§cForsaken Legion Marzban§6 [Lv. 108]@ 
+§cForsaken Legion Pikeman§6 [Lv. 106]@ 
+§cCorrupted Charon§6 [Lv. 125]@ 
+§cWarden of Wisdom§6 [Lv. 70]@ 
+§cAll-Seeing Witness§6 [Lv. 101]@ 
+§cOptical Zeppelin§6 [Lv. 133]@ 
+§cSated Glutton§6 [Lv. 103]@ 
+§cHungry Bulb Eater'§6 [Lv. 107]@ 
+§cGlow Bulb Core'§6 [Lv. 109]@ 
+§cSpiteful Flatterer§6 [Lv. 99]@ 
+§aSpilt Blood§6 [Lv. 1]@ 
+§cEntrapped Spirit§6 [Lv. 65]@ 
+§cInfected Gore§6 [Lv. 10]@ 
+§cUrn Keeper§6 [Lv. 51]@ 
+§a§0§6 [Lv. 75]@ 
+§cSpellbound Novel§6 [Lv. 70]@ 
+§cAthenaeum Guard§6 [Lv. 73]@ 
+§cMobilized Bibliosoph§6 [Lv. 71]@ 
+VIWSoundStand@ 
+§cProtectors of Knowledge§6 [Lv. 72]@ 
+§cFairy of the Library§6 [Lv. 70]@ 
+§cGuardian§6 [Lv. 75]@ 
+Gyuuki_@ 
+§cVengeful Skull§6 [Lv. 69]@ 
+§cLuxed Earthsprite§6 [Lv. 71]@ 
+§cFae Trickster§6 [Lv. 71]@ 
+§eIce Relic§6 [Lv. 49]@ 
+§cLightborne Weird§6 [Lv. 120]@ 
+À0@ 
+§cEye of the Storm§6 [Lv. 75]@ 
+§cGale Incarnate§6 [Lv. 76]@ 
+§cAntifloret§6 [Lv. 75]@ 
+§cPink Woolly§6 [Lv. 76]@ 
+§cThigh Thresher§6 [Lv. 87]@ 
+§cFlying Fox§6 [Lv. 86]@ 
+§cRink Master§6 [Lv. 95]@ 
+§cCherry Treent§6 [Lv. 73]@ 
+§cFrosted Dummy§6 [Lv. 90]@ 
+§cSunflower§6 [Lv. 85]@ 
+§cDawn Summoner§6 [Lv. 80]@ 
+§cRegenerator§6 [Lv. 78]@ 
+§cGnome Defender§6 [Lv. 76]@ 
+§cTree Wooly§6 [Lv. 78]@ 
+§cPink Woolly§6 [Lv. 72]@ 
+§7Im cool@ 
+§7oh@ 
+§cDrifting Spirit§6 [Lv. 75]@ 
+§cDark Hive§6 [Lv. 75]@ 
+§cOrange Woolly§6 [Lv. 77]@ 
+§cCherry Crux§6 [Lv. 67]@ 
+§cCreeper§6 [Lv. 73]@ 
+§cHatchling§6 [Lv. 75]@ 
+§cBlue Antifloret§6 [Lv. 75]@ 
+MHCouragFiredTabletMover@ 
+§cLurking Anathema§6 [Lv. 85]@ 
+§cBlinding Glider§6 [Lv. 80]@ 
+§cEthereal Body§6 [Lv. 80]@ 
+§cCave Wooly§6 [Lv. 78]@ 
+§cDragonling Zygote§6 [Lv. 97]@ 
+§cVolatile Bulb Core'§6 [Lv. 109]@ 
+§7.@ 
+§anull§6 [Lv. 999]@ 
+§cWicked Magus§6 [Lv. 88]@ 
+§cCicada Husk§6 [Lv. 85]@ 
+§cThe Centipede§6 [Lv. 92]@ 
+§aOpen Coffin§6 [Lv. 1]@ 
+§cPolar Weird§6 [Lv. 79]@ 
+§cWasteful Weird§6 [Lv. 79]@ 
+§cRevived Gelibord Farmer§6 [Lv. 72]@ 
+§cRapid Deadeye§6 [Lv. 63]@ 
+CustomMaKlocka@ 
+ArgonautTheseus@ 
+§cStingy Swimmer§6 [Lv. 76]@ 
+§cPeculiar Weird§6 [Lv. 75]@ 
+§a???§6 [Lv. 69]@ 
+§cLazarus Pit Guardian§6 [Lv. 75]@ 
+§cLazarus Pit Warden§6 [Lv. 77]@ 
+§eSpectral Fairy§6 [Lv. 65]@ 
+§cScalding Eruption§6 [Lv. 89]@ 
+§cDiminished Lazarus Pit Guardian§6 [Lv. 73]@ 
+§cDiminished Lazarus Pit Warden§6 [Lv. 76]@ 
+§cWeakened Lazarus Pit Guardian§6 [Lv. 70]@ 
+§cWeakened Lazarus Pit Warden§6 [Lv. 74]@ 
+Sozex@ 
+§cTeak Behemoth§6 [Lv. 67]@ 
+§cFrosted Cave Man§6 [Lv. 47]@ 
+§cHarnort Compound Watch§6 [Lv. 46]@ 
+§cHarnort Compound Grunt§6 [Lv. 45]@ 
+§cHarnort Compound Roughneck§6 [Lv. 48]@ 
+§cHarnort Compound Matron§6 [Lv. 49]@ 
+§cHarnort Compound Tally Checker§6 [Lv. 45]@ 
+§cScarecrow sentry§6 [Lv. 8]@ 
+§c§kTaga Soihf A Lin§6 [Lv. 80]@ 
+Moderabo@ 
+Kaiser2000@ 
+§cAggressive Fleris§6 [Lv. 65]@ 
+§c§l!!!@ 
+§cSkyraider§6 [Lv. 75]@ 
+§cAngry Dragonling§6 [Lv. 75]@ 
+§cOlm§6 [Lv. 75]@ 
+French_bread_gud@ 
+§cGaleforce Weird§6 [Lv. 77]@ 
+§cAnima Weird§6 [Lv. 78]@ 
+§cSteam Weird§6 [Lv. 77]@ 
+§cPrimal Forest Guardian§6 [Lv. 79]@ 
+§cCorrupted Olm§6 [Lv. 75]@ 
+§cOlmic Geist§6 [Lv. 75]@ 
+§cHollow Weird§6 [Lv. 76]@ 
+§7Powders and more: All Powders@ 
+§7under $100!@ 
+§7[Omnis Warrior]@ 
+§7[Omnis Mage]@ 
+§7[vov a]@ 
+§cCorpse-Eating Mite§6 [Lv. 72]@ 
+§7[Jik Foo]@ 
+§7[Mexican Dream]@ 
+§2???§0@ 
+§cAncient Guardian §6[Lv. 999]@ 
+§cConfused Rat§6 [Lv. 70]@ 
+§aRotting Guardian§6 [Lv. 999]@ 
+§cChasm Beast§6 [Lv. 130]@ 
+Backup for chunk errors - rblotsky made a mistake and accidentally made the repeaters vanish@ 
+CMD Contraption: Gate opening@ 
+§eChasm Crawler§6 [Lv. 100]@ 
+§cReawakened Idol§6 [Lv. 64]@ 
+§cAncient Sentry§6 [Lv. 63]@ 
+seekhogcavetrack@ 
+seekhogarmorstand@ 
+§cChasm Spitter§6 [Lv. 130]@ 
+§cWithering Brawler§6 [Lv. 120]@ 
+§cRavenous Crawler§6 [Lv. 110]@ 
+A@ 
+§anull§6 [Lv. 1]@ 
+§cCrawler Hive Queen§6 [Lv. 150]@ 
+MHCouragFiredTabletKiller@ 
+§cChasm Hatchling§6 [Lv. 100]@ 
+§7[Pixellius I]@ 
+§cNesting Dragonling Mother§6 [Lv. 100]@ 
+Unicorn_Cairose@ 
+§cScalding Eruption§6 [Lv. 91]@ 
+§2???:@ 
+§cCastle Guardian§6 [Lv. 100]@ 
+TAG: awsNestCaveStack@ 
+§eDraconic Tide Bender§6 [Lv. 95]@ 
+§cInfected Gunk§6 [Lv. 10]@ 
+§cDe-ossified Touroto§6 [Lv. 70]@ 
+§cPinky§6 [Lv. 98]@ 
+§cCacodemon§6 [Lv. 98]@ 
+§cInfernal Demon§6 [Lv. 96]@ 
+§cHarbinger Demon§6 [Lv. 96]@ 
+§cDark Balrog§6 [Lv. 99]@ 
+Hugloo@ 
+CalAnders@ 
+§cArchvile§6 [Lv. 100]@ 
+§cElusive Emissary§6 [Lv. 98]@ 
+§cEsoteric Reflecter§6 [Lv. 97]@ 
+§cSialia Arctica§6 [Lv. 96]@ 
+§cCrystalline Angel§6 [Lv. 95]@ 
+Silentmaxx@ 
+§cBush Lurker§6 [Lv. 70]@ 
+§cTunnel Dweller Chieftain§6 [Lv. 75]@ 
+§cTunnel Dweller Warrior§6 [Lv. 70]@ 
+§cDecayed Tunnel Dweller§6 [Lv. 72]@ 
+§cElite Tunnel Dweller§6 [Lv. 74]@ 
+§aDirt Pile§6 [Lv. 1]@ 
+§@ 
+§cCurious Weird§6 [Lv. 75]@ 
+§cFanatical Ice Mage§6 [Lv. 109]@ 
+§cFrostbitten Wight§6 [Lv. 109]@ 
+§cShade of Theorick§6 [Lv. 114]@ 
+§cCorrupted Theorick§6 [Lv. 125]@ 
+VOcuDiscoSword@ 
+§cAberration§6 [Lv. 76]@ 
+§cAxeman§6 [Lv. 100]@ 
+§cIce Mage§6 [Lv. 100]@ 
+§cDecayed Sunrise§6 [Lv. 83]@ 
+§7[Deer Archer]@ 
+§cWind Apparition§6 [Lv. 83]@ 
+§cGaia Golem§6 [Lv. 89]@ 
+§cThunderous Calamity§6 [Lv. 87]@ 
+§cFlaming Warrior§6 [Lv. 90]@ 
+§cWatery Enigma§6 [Lv. 86]@ 
+§cLotus Core§6 [Lv. 85]@ 
+zRelvon@ 
+LugiaLinus@ 
+§cFrozen Dogun§6 [Lv. 1]@ 
+§cWailing Skeleton§6 [Lv. 91]@ 
+§cCrumbled Skeleton§6 [Lv. 81]@ 
+§cFlaming Skeleton§6 [Lv. 82]@ 
+§cCrumbled Skeleton§6 [Lv. 91]@ 
+§cFlaming Skeleton§6 [Lv. 92]@ 
+§cCorrupted Witherhead§6 [Lv. 100]@ 
+§a§oSmileyAlec. I think. I found someone.@ 
+IAMKnickknack@ 
+§cWarped Spiderling§6 [Lv. 74]@ 
+§cTophat Frog§6 [Lv. 1]@ 
+§cSponge§6 [Lv. 73]@ 
+§cBeautiful Ballerina§6 [Lv. 75]@ 
+§7[Omnis Hunter]@ 
+AssassinHamster@ 
+§cCenterworld Orc Sunderer§6 [Lv. 64]@ 
+§cCenterworld Orc Windweaver§6 [Lv. 65]@ 
+§cCenterworld Orc Blinker§6 [Lv. 67]@ 
+seekyahyameteor@ 
+seekyahyameteorite@ 
+§bRth1§6 [Lv. 102]@ 
+§cCenterworld Orc Occupier§6 [Lv. 65]@ 
+§cCenterworld Orc Overtaker§6 [Lv. 68]@ 
+§cCenterworld Orc Overtaker§6 [Lv. 70]@ 
+§cBomb§6 [Lv. 2]@ 
+§cEerie Spiderling§6 [Lv. 86]@ 
+§cGore Czar§6 [Lv. 3]@ 
+§7[Bob de zombie]@ 
+§7Kheyra's Death@ 
+TheChoiBoi@ 
+§0A@ 
+Angel_797@ 
+WildnYT@ 
+Jeerood@ 
+ThaiTheGamer@ 
+§7[Totem Papi]@ 
+§cSundried Bones§6 [Lv. 80]@ 
+MartijnKoot81@ 
+§7Time Rift - 9000 Emeralds@ 
+§7[ironman btw]@ 
+§cRelic Guardian§6 [Lv. 45]@ 
+Nils_exe@ 
+faucheurs6969@ 
+Potato_Merchant@ 
+§7[Surface Integral]@ 
+BraceRQTime@ 
+§cHarnort Compound Guard§6 [Lv. 48]@ 
+§cHarnort Quartz Bandit§6 [Lv. 46]@ 
+Vhis@ 
+§cTech Scientist§6 [Lv. 47]@ 
+§cQuartron Core§6 [Lv. 50]@ 
+§cPulse-Barrier Sentry§6 [Lv. 45]@ 
+§cQuartz Minemite§6 [Lv. 45]@ 
+§2[§6|||§7||||||§2]@ 
+§2[§6|||§e|||§7|||§2]@ 
+§2[§6|||§e|||§a|||§2]@ 
+§cScorched Cobalt§6 [Lv. 56]@ 
+§cPyrocobalt Shellrider§6 [Lv. 57]@ 
+§7[Fabi the Fabulous]@ 
+Xeabia@ 
+not_vantas@ 
+Morganhydra@ 
+§7Overstock Sale! All Powders@ 
+§7Noot Noot@ 
+§7abcdefghijklmnopqrst's Top Hat Alligator@ 
+§7abcdefghijklmnopqrst's Colossal Rat@ 
+§7eg@ 
+§7All your favorite deals, now@ 
+§7on the go!@ 
+§7Godlies and mythics for cheap!@ 
+§7Random Stuff Here. ;)@ 
+§7better@ 
+§7Walmart, save money live@ 
+§7Join Seoul pm me for invite :)@ 
+§7pricing sorry@ 
+§7im literally terrible at@ 
+B_MAN_BOT@ 
+§7[MmmmILoveShidMmmmYum]@ 
+§7*Legend of Zelda opening@ 
+§7treasure chest sound effect*@ 
+§7Literally just anything I felt@ 
+§7like crafting@ 
+§7ALL RARITIES@ 
+Clowox_Bweach_@ 
+§7Elven Goods@ 
+§7random crafted items@ 
+§7potions n stuff@ 
+§7toxo gaming@ 
+§cReptilian Lurker§6 [Lv. 50]@ 
+§7Diamond_Laser's Kantry Dusk Calf@ 
+§7pls buy uwu@ 
+§7DarthDiabetic's Death@ 
+DarthDiabetic@ 
+§7Heckin Good Shtuff@ 
+§cShining Dawn§6 [Lv. 80]@ 
+§cBedevil§6 [Lv. 105]@ 
+DanielAtya@ 
+§7[HELP ME]@ 
+§7I have things, at a place.@ 
+§7nice stuff right here.@ 
+§a§oLitoss. I think. I found someone.@ 
+§cFire Fairy§6 [Lv. 68]@ 
+§cMagmatic Fiend§6 [Lv. 68]@ 
+§cMolten Entity§6 [Lv. 70]@ 
+§cVolatile Fleris§6 [Lv. 80]@ 
+§cVolatile Fleris§6 [Lv. 75]@ 
+§cVolatile Fleris§6 [Lv. 70]@ 
+§7Sick of dying? Buy these!@ 
+GaPoi@ 
+§7My Fantasia Is Unclaimable@ 
+§cImmolated Creeper§6 [Lv. 92]@ 
+§cCorrupted Garoth§6 [Lv. 100]@ 
+§cForsaken Legion Dahbasi§6 [Lv. 95]@ 
+§cForsaken Legion High Priest§6 [Lv. 95]@ 
+§cForsaken Legion Marzban§6 [Lv. 95]@ 
+§cForsaken Legion Pikeman§6 [Lv. 93]@ 
+§cCorrupted Charon§6 [Lv. 105]@ 
+§7[Yo Mama]@ 
+§cFlesh Eater§6 [Lv. 96]@ 
+§cDune Beast§6 [Lv. 102]@ 
+§cLimestone Jackal§6 [Lv. 99]@ 
+§cDune Gladiator§6 [Lv. 95]@ 
+§cIllusory Specter§6 [Lv. 100]@ 
+§cPoltergiced§6 [Lv. 102]@ 
+§7TOES TOES TOES TOES TOES@ 
+§7Since you are here, why not@ 
+§7have a look? Useful items@ 
+§7here!@ 
+§7[Lady Taliah]@ 
+Zizmir@ 
+§cSewage Monster§6 [Lv. 55]@ 
+§cQuagmire Serpent§6 [Lv. 55]@ 
+§cSubterranean Beast§6 [Lv. 60]@ 
+§cSubterranean Overlord§6 [Lv. 65]@ 
+Aiyria@ 
+§cCow King§6 [Lv. 75]@ 
+§7we sell them, you buy them@ 
+§f⒠@ 
+§7things.@ 
+§7Just a person selling random@ 
+§cGunk Czar§6 [Lv. 3]@ 
+§a0/§23@ 
+§a0/§24@ 
+§7budget toxo here@ 
+Yazzzzz@ 
+S_follower@ 
+§7read aokana@ 
+§7I forgot to put items in :P@ 
+§cCorrupted Witherhead§6 [Lv. 90]@ 
+§cSnapjaw Spider§6 [Lv. 86]@ 
+§7Worst shop in the world@ 
+§7[v ova]@ 
+AH27@ 
+§cWailing Skeleton§6 [Lv. 81]@ 
+§cLunatic Penguin§6 [Lv. 70]@ 
+§cForsaken Legion Castellan§6 [Lv. 95]@ 
+KrzysztofMaz@ 
+hexQT@ 
+SirYapau@ 
+kandakuu@ 
+§7weed@ 
+§7[Brogle Warlock]@ 
+penguin7922@ 
+§7Help me get to 105's Water Dragonling@ 
+§7Help me get to 105's Top Hat Alligator@ 
+§7Help me get to 105's Seaskipper Captain@ 
+§7[Frick me]@ 
+DerTycoon@ 
+Silenc37@ 
+§7[Dan Cheesmani]@ 
+Daisukekage@ 
+MarciGamer759@ 
+ImUrWeakness@ 
+Greenbeak@ 
+DuckNorris1@ 
+vXynk@ 
+Hexgolo@ 
+§cTwisting Parasite§6 [Lv. 60]@ 
+§cUrging Dragonfly§6 [Lv. 62]@ 
+§cInvasive Tarantula§6 [Lv. 63]@ 
+§cHardware Bug§6 [Lv. 110]@ 
+§cCorkus Virus Doctor§6 [Lv. 140]@ 
+§cAdaptive Virus§6 [Lv. 100]@ 
+§7idk@ 
+§cSubterranean Cockroach§6 [Lv. 63]@ 
+§cPoisonous Bristleworm§6 [Lv. 62]@ 
+§cLost Lizardman§6 [Lv. 59]@ 
+§cToxic Slime§6 [Lv. 67]@ 
+§cLost Naga§6 [Lv. 59]@ 
+§cEncroaching Tunneler§6 [Lv. 67]@ 
+§aPlat§6 [Lv. 1]@ 
+§cSlime Chomper§6 [Lv. 68]@ 
+§cCarnivorous Gunk§6 [Lv. 69]@ 
+§cInvasive Tarantula§6 [Lv. 69]@ 
+§cPrimeval Bat§6 [Lv. 66]@ 
+§cRobob’s Reinvention §f▪§8▪▪▪§6 [Lv. 160]@ 
+§cRobob’s Reinvention §f▪▪§8▪▪§6 [Lv. 160]@ 
+§cRobob’s Reinvention §f▪▪▪§8▪§6 [Lv. 160]@ 
+seekgrootholep1@ 
+§cGrootslang Wyrmling§6 [Lv. 75]@ 
+§cGrootslang Hatchling§6 [Lv. 65]@ 
+seekgrootholep2@ 
+§cGrootslang Wyrmling§6 [Lv. 85]@ 
+§cRobob’s Reinvention §f▪▪▪▪§8§6 [Lv. 160]@ 
+seekgrootholep3@ 
+§cGrootslang Wyrmling§6 [Lv. 90]@ 
+seekgrootholep4@ 
+§cGrootslang Wyrmling§6 [Lv. 95]@ 
+§cFloral Expectorator§6 [Lv. 68]@ 
+seekgrootholep5@ 
+§cGrootslang Wyrmling§6 [Lv. 100]@ 
+szabi21@ 
+§7Remember the 12 rotten flesh!@ 
+§7:)@ 
+§7[Bright The Owlish]@ 
+§7[Twandhi Bigmandhi]@ 
+dolfinmaster@ 
+Real_Waste__@ 
+§7Don't buy my items ;-;@ 
+§7[Royal Guard]@ 
+§7[Sharp Goose]@ 
+§7MINE@ 
+§cLotus Germinator§6 [Lv. 85]@ 
+§7Sold Out@ 
+MoeNatto@ 
+§cCrawling Arachnid§6 [Lv. 62]@ 
+§cPoisonous Centipede§6 [Lv. 66]@ 
+§eVenomous Millipede§6 [Lv. 62]@ 
+§cVoracious Octiped§6 [Lv. 62]@ 
+§cUrging Dragonfly§6 [Lv. 60]@ 
+§cMan in the Mirror§6 [Lv. 100]@ 
+§cDustlion§6 [Lv. 92]@ 
+tukorama@ 
+§cTower Maiden§6 [Lv. 55]@ 
+Num2OuO@ 
+TheSaltyDragon@ 
+_Valdu@ 
+§7gear@ 
+§7lq necklace / loot running@ 
+À§cResource Dungeon@ 
+§7[Wynn Guider Olinus]@ 
+§7Sold Out! Restocking soon!@ 
+§7[Business Bat]@ 
+Morgan83@ 
+§7L I B R A@ 
+§7Distopiary's Death@ 
+Distopiary@ 
+§7I sell some stuff@ 
+§cQuagmire Lurker§6 [Lv. 68]@ 
+Dragon_Tracker@ 
+§7PogU <3@ 
+§7can never have enough goldi@ 
+§7gold@ 
+§f @ 
+§7Random Lvl 40-60 Rares@ 
+§7"Save money, live better"@ 
+§7Wal✬Mart@ 
+§7Come Hither Peasant@ 
+§7please buy this ring@ 
+§7have emeralds.@ 
+§7Lord Alseth has wares if you@ 
+§7Good luck young adventurer !@ 
+§7My ring has been bought :D@ 
+§7[IstanCloroxBleach]@ 
+trevoman@ 
+§7cowards@ 
+§7cereal is just soup for@ 
+§7Decent stuff, :I@ 
+§7SOLD OUT! Moving to@ 
+§7Kandon-Beda next!@ 
+§7Some stuff you can buy, BUY@ 
+§7NOW@ 
+UneSouris@ 
+§7[yuu MONSTER]@ 
+x_True_Power_x@ 
+§7Good Crafted Items@ 
+§7[toxo bonker 3000]@ 
+§7buy or ppfart@ 
+NethersCar@ 
+§7Muyo's Rarities Shop!@ 
+§cEgg§6 [Lv. 26]@ 
+§7STORAGE@ 
+§7NOT A SCAM AND DEF NOT A MAT@ 
+§7t@ 
+§7Buy my random stuff omegalul@ 
+DarkPulse91@ 
+§7AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA@ 
+Nubrit@ 
+§7Check out my wares! Please I'm@ 
+§7broke@ 
+§7BUY LOOT ME WANT U MONEY@ 
+§7me :)@ 
+§732eb/stack 32le/bank page Msg@ 
+§7Buying lvl 1-60 t1 mats.@ 
+§7Stuff for cheap@ 
+cleanjax@ 
+§7Snake Oil@ 
+§7[The Cleanser]@ 
+§7Items for questionable prices,@ 
+§7buy if you have money :D@ 
+§7[horse gaming]@ 
+UltimateNurse@ 
+§7lvl 75-100 pots for the carry@ 
+§7[Sir Big Spear]@ 
+§cRemnant Viscera§6 [Lv. 71]@ 
+§cCorrupted Parasite§6 [Lv. 72]@ 
+§7You are a great person :D@ 
+§e§o0's§7 House@ 
+§7please buy my ring xoxo@ 
+Kirmit@ 
+§7[Von Vermilion]@ 
+§f???@ 
+Chwyssie@ 
+§7literal garbage, please waste@ 
+§7your fortune here@ 
+§7[Seer of Almighty]@ 
+§7LLLINN's Death@ 
+§7scroll!__xxXX@ 
+§7XXxx__Only for better xp@ 
+§7Only for better xp scroll!@ 
+§7[hit me u cannot]@ 
+§7[Lightning mcking]@ 
+§cBlack Market Pot§6 [Lv. 1]@ 
+§7Direward's Death@ 
+§7High-lv gear for a cheap@ 
+§7price!@ 
+Astolfo_for_life@ 
+§7[Me myself and i]@ 
+Rescuable@ 
+§cSparklet L-09§6 [Lv. 97]@ 
+§cEndangered Power Core§6 [Lv. 101]@ 
+§cSparklet S-05§6 [Lv. 96]@ 
+§cDrillbot P-04§6 [Lv. 95]@ 
+§cTH-24 Battery§6 [Lv. 100]@ 
+§7i have stuff! u buy my stuff!@ 
+§aWybel 1§6 [Lv. 1]@ 
+§aWybel 2§6 [Lv. 1]@ 
+§aWybel 3§6 [Lv. 1]@ 
+§aWybel 4§6 [Lv. 1]@ 
+§6À@ 
+§e[...]@ 
+§a§o§l!!!!!!@ 
+§7[WHY BUT FASTER]@ 
+§7Selling Sewer Keys@ 
+§cDeranged Swordsman§6 [Lv. 90]@ 
+§cCore§6 [Lv. 105]@ 
+§cRicochet Sprout§6 [Lv. 95]@ 
+Infinit1v@ 
+§7Best stuff in the game, with@ 
+§7love <3@ 
+§cSeedsling§6 [Lv. 96]@ 
+§cSprout Eater§6 [Lv. 98]@ 
+§cVoid Infantry§6 [Lv. 95]@ 
+§cVoid Horror§6 [Lv. 95]@ 
+§7Sanctuary key for you@ 
+§7Selling Sewer Keys [8 EB]@ 
+§7resources at a fair price!@ 
+§7ICE_Krista1's Death@ 
+RaiPrince@ 
+WoodCreature@ 
+§7[Eternity Night Flare]@ 
+§7[Omnis Dark Wizard]@ 
+§7buy my monster@ 
+MuteIceCream@ 
+§aOrcs Et Al.@ 
+§7[Tao Lamina]@ 
+Kheya@ 
+§7Buying t1 copper mats.@ 
+§7Breadskate@ 
+Th0mas1@ 
+Laneous@ 
+§7Some oil ig@ 
+§7[Lord Alseth]@ 
+§7things!@ 
+§7buy totally not overpriced@ 
+This_0ne_Person@ 
+Firemixer@ 
+§7T I M E R I F T S@ 
+§7[Sensei Seph]@ 
+SuperTheFlugel@ 
+§7STOP PUSHING@ 
+§7Potions@ 
+§7a@ 
+§7E-E-E-E-E-E-E-E-E-E@ 
+§7Random schmuck for all your@ 
+§7random needs@ 
+FeodorRomanov@ 
+strivver@ 
+frogsandturtles@ 
+M1zo_@ 
+Knight_Aoifa@ 
+SamArnold@ 
+§7Hello@ 
+imrix123@ 
+§7best items at low prices@ 
+Volcano_Bunny@ 
+§7bobs tomb@ 
+§7msg me if you need help with@ 
+oxids@ 
+Teqnomancer@ 
+Retrosqect@ 
+§7Random items@ 
+§7[Mes of the Arcane]@ 
+§7[Ninja Mule II]@ 
+MrMushoom@ 
+Qrying@ 
+§7[Shaman Wolf]@ 
+§7[Dictator Julian]@ 
+TisumII_AI@ 
+§cThe Wretches§6 [Lv. 115]@ 
+§cCascading Artery§6 [Lv. 130]@ 
+§cDeathknell Wretch§6 [Lv. 150]@ 
+treebeard68@ 
+AsteckG@ 
+§7stream nostyle demoness on all@ 
+§7platforms@ 
+Veoe@ 
+§7The worst items at the worst@ 
+§7Blue Mask@ 
+tigridia@ 
+§7[Avos Chief]@ 
+BicBland@ 
+Asriels@ 
+§7Gathering XP Gear and Other@ 
+§7Crafted Items@ 
+§7Bruh@ 
+Diamondpick2@ 
+§7Some raid loots.@ 
+§7realm of the mad god@ 
+§7Yes@ 
+§7Get yur xp potions@ 
+§7your mom@ 
+§7Selling all your spider drop@ 
+§7needs!@ 
+§7BEST OF THE BEST STAFF )))@ 
+§7-@ 
+§7yeah i claimed this spot@ 
+§7I c e 's shop :3@ 
+§7[I c e]@ 
+Weyloran@ 
+§7⒭⒜⒩⒟⒪⒨ ⒤⒩⒢⒭⒠⒟⒤⒠⒩⒯⒮@ 
+§7))) i need money <3 :D@ 
+§7Pls rich people buy something@ 
+§7[Archer Mule I]@ 
+§7[Mage Mule II]@ 
+Leafpounce@ 
+§7[Dylan The Overseer]@ 
+§7[The Doole]@ 
+LegendHasFallen@ 
+§7Don't bother, all my stuff is@ 
+§7useless :/@ 
+15h15@ 
+kyrkis@ 
+§7[Sebastian the Wise]@ 
+§7gaga@ 
+§7yeet best price@ 
+§7good@ 
+§7[Guardian down]@ 
+stormblade282@ 
+§7Yo buy me stuff.@ 
+§7[The Chef]@ 
+§cRider Jam§6 [Lv. 54]@ 
+§cPyrocobalt Shell§6 [Lv. 55]@ 
+§7uwu@ 
+§7offer!@ 
+§7Useful items here, find your@ 
+§aSoul§6 [Lv. 1]@ 
+§cCorrupted Hanging Man§6 [Lv. 85]@ 
+§cWarped Spiderling§6 [Lv. 85]@ 
+§7idk what to sell so here ya go@ 
+§aabiswas Paper NPC§6 [Lv. 1]@ 
+CosmicThunder@ 
+§7wahoo@ 
+Gauy@ 
+§7[Ricky Tortilla]@ 
+CantLie@ 
+§7[guys i play shaman]@ 
+Tu_C_Shu_Qui@ 
+§7Im not the best with prices,@ 
+§7feel free to dm with offers!@ 
+§7some goodies for u :3@ 
+§7Hey, good lookin! I've got@ 
+SunderingShadow@ 
+Rymek_Luke@ 
+§7[eli with a relik]@ 
+dogeyy@ 
+M_09@ 
+§7Beter dan Quaggy@ 
+§7swag drip@ 
+§7"I don't to be the best@ 
+§7blacksmith in whiterun"@ 
+§7Just the good stuff@ 
+§7powder, and some weapons.@ 
+§7cheapest prices 'round. keys,@ 
+§7yes@ 
+§7eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee@ 
+Tusogi@ 
+§7Buy two bananas for the price@ 
+§7of one, now that's a deal.@ 
+§7pisces here@ 
+DoctorC_@ 
+§7Join TNL (trash items)@ 
+§7powder time@ 
+§7Join Fox@ 
+§7low tier powders at low prices@ 
+§7Only for the best xp scroll!@ 
+§7[Wyble Tamer]@ 
+§7Probably the best Shop in@ 
+§7"Town"@ 
+BrokenRealm@ 
+§7honestly it's not that great@ 
+Fishasourus@ 
+RustedShut666@ 
+§cEngrosser§6 [Lv. 110]@ 
+§7[JOIN JPH]@ 
+§7TNL allowed@ 
+§7Welcome to gamer island, no@ 
+Stag2001@ 
+§7Best shop no doubt.@ 
+§7Selling price inflated items!@ 
+§7[The Mushroom Man]@ 
+iToXiQ@ 
+§7Some Goodies@ 
+§7look@ 
+NickGminecraft@ 
+§7hi@ 
+§7I don't know what I'm selling@ 
+§7but I need bankspace@ 
+§7gaaaaaaaaaaaaaaaaaaaaaaaaaaaaa@ 
+J4m35@ 
+§7Vesseven's Death@ 
+§7"Nothing here"@ 
+Nicolqi_@ 
+mcdeathgod@ 
+ertBoi@ 
+§7[Sneaky Mistake]@ 
+§7[Tophat Clan CEO]@ 
+§cDragonling Whelp§6 [Lv. 99]@ 
+FrootPvP@ 
+JobeinaRobe@ 
+§cBounty Hunter Hat@ 
+§7"Something here"@ 
+§cFlesh Eater§6 [Lv. 105]@ 
+§cDune Beast§6 [Lv. 111]@ 
+§cSandshifter§6 [Lv. 97]@ 
+§cDune Gladiator§6 [Lv. 105]@ 
+§7[Shaman of the West]@ 
+§7[Robin Beanie]@ 
+MaorBA@ 
+§7Pog items pls buy cuz I'm poor@ 
+§7bank space@ 
+§7buy my random stuff i need@ 
+§7Get Your Zombie Eyes Here@ 
+§7plz buy thx@ 
+§7just buy the stuff@ 
+§7uth booth@ 
+DragonSlasher02@ 
+§7Some Goodies for your@ 
+§7Adventure ü@ 
+§7[EthoGodOfThinking]@ 
+§7Buy pls@ 
+§7cheap rarities, pretty good@ 
+§7quality@ 
+§7Quack@ 
+§7[eli with a sword]@ 
+Pog_Bear@ 
+Primordial_Chaos@ 
+§7[Mes The Swift]@ 
+§7⒮⒪⒨⒠ ⒢⒪⒪⒟⒤⒠⒮ ⒡⒪⒭ ⒴⒪⒰⒭@ 
+§7⒜⒟⒱⒠⒩⒯⒰⒭⒠ !@ 
+Mapelll@ 
+§7Gamer Goods for true gamers@ 
+§7Hashr's claw.@ 
+§7Welcome to Brazil/farming for@ 
+JikooFD@ 
+olides@ 
+rune001@ 
+§7buy my cork amps pls :D@ 
+§7Deftluna's Death@ 
+§eBasalt Blade§6 [Lv. 93]@ 
+§cBasalt Blaster§6 [Lv. 93]@ 
+§cBalrog§6 [Lv. 92]@ 
+§cBasalt Beast§6 [Lv. 88]@ 
+§7[Destroyer of Thots]@ 
+§7chicken nuggets for sale@ 
+§dConsumable Merchant@ 
+§7Decent items, at decent@ 
+§7prices.@ 
+§7some snow.@ 
+§7Its pretty cold out here, have@ 
+§7sold out for now@ 
+§7[hyper ace]@ 
+§7[Tao Miyamoto]@ 
+lennonpoggers@ 
+§7Stuff I don't want, please@ 
+§7just buy it.@ 
+§7"rarity and godly soarfae"@ 
+Teddythecannibal@ 
+§7"rarity soarfae and pisces"@ 
+§7charity@ 
+§7above 100 million goes to@ 
+§71% of all emerald profits@ 
+§7ni@ 
+Ristyya@ 
+§7⒵⒲⒵@ 
+§7you have enough Emeralds.@ 
+§7Province imports, as long as@ 
+§7ⒽⒻⒾⒼⒹⓁⒶⒺⒿⒷⒸⓀ@ 
+§7prices@ 
+§7rarities, high value at low@ 
+§7Moe秘制百宝箱Σ(っⒾ °Д °;)っⒼ@ 
+§7Ingredients from the new@ 
+§7world!@ 
+§7New Gathering XP for cheap@ 
+§7im having an allergic reaction@ 
+§7please someone help me@ 
+§7Muyo秘制百宝箱(tm旁边的Moe是Muyo老婆uwu)@ 
+Bekum37@ 
+fatty9@ 
+§7please im poor@ 
+§7Buy my stuff rich people@ 
+§7bnuuy@ 
+xGadiel@ 
+RedCom1@ 
+§7asdfghjk@ 
+jazzhar@ 
+§7[Warrior Mule I]@ 
+§7things and stuffs mmmh yes@ 
+§7poodles with noodles@ 
+§7Materials, Gear, Cheap@ 
+§7[Liz but WhiteMage]@ 
+§7yo buy my stuff! :D@ 
+§7items at prices@ 
+§7Give me your money@ 
+§cSevered Saurian§6 [Lv. 66]@ 
+§cDecaying Sludge§6 [Lv. 65]@ 
+§cBotulism Blossom §6 [Lv. 63]@ 
+§cTree Wilt§6 [Lv. 67]@ 
+§cStrange Creature§6 [Lv. 80]@ 
+§7This is a bad spot.@ 
+§7Cute Discoverer Ace's Chicken@ 
+§7[Cute Discoverer Ace]@ 
+Cheyash@ 
+§7but these items seem cool?@ 
+§7I don't know what I'm doing@ 
+Jaymon@ 
+Fireball_98@ 
+§7SELLING CLOROX BLEACH@ 
+§7[Faeris Dely]@ 
+§7Stuff for sale@ 
+§7AAAAAAAAAAAAGHHHHHHHHHHHHHHHHHHHH@ 
+§7[Swooshi The Archer]@ 
+Bibibik@ 
+§7[Simp x Softcandyy]@ 
+Paynike_TV@ 
+§7! Cheap XP/lb food !@ 
+Renaiya@ 
+§7Warring Consumables@ 
+§7Gathering, Xp Grinding,@ 
+§7Have an EO key if you forgot@ 
+§7one@ 
+Muhuru@ 
+§cToxic Vomiter§6 [Lv. 130]@ 
+blazingcow27@ 
+§cKaroc Turncoat§6 [Lv. 45]@ 
+§7✸ Xannuh's Shady Shop ✸@ 
+§7Buy Stuff :)@ 
+§7[Vanheim II]@ 
+§cIce King§6 [Lv. 106]@ 
+§cIce Spike Seed§6 [Lv. 99]@ 
+§7[Alpha the Lost Soul]@ 
+Threshis@ 
+§7do you@ 
+§7IDK what this text is and so@ 
+DragonSlurps@ 
+§7dont open@ 
+§7Only for the best Scroll@ 
+§7(XP/Aura)@ 
+§7! Cheap XP food !@ 
+Nyatalanta@ 
+§cSaltrot Slavedriver§6 [Lv. 101]@ 
+§cDustlion§6 [Lv. 102]@ 
+§7Random chestplates@ 
+Baumarkt@ 
+§7hi moth@ 
+§7buy now or bad@ 
+§7Buy my stuff plzzz :3@ 
+§7[rock muncher]@ 
+§7! Lb/XP food and potion !@ 
+§7I swear it's legal.@ 
+§7JOIN BLA@ 
+§7Why is there a booth here?@ 
+§7[Auntie Mnt]@ 
+§7Σ(っ °Д °;)っ@ 
+HungiForSushi@ 
+§7[Esquire The III]@ 
+§7Bunch of Above-Average goodies@ 
+§7Join BLA! also buy bad items@ 
+frib0@ 
+§7pls come buy from me i am poor@ 
+§7buy my overpriced goods@ 
+§7[Bomb Bell]@ 
+§725% cheaper Gold Bars than@ 
+§7Dealer@ 
+§7chestnut horses runing@ 
+§7Chestnut horses runing@ 
+§7Random Shop@ 
+IchBxns@ 
+§7Gimme money im cool@ 
+§7&k000000@ 
+§7°;)っ@ 
+§7Chestnut Horse Runing Σ(っ °Д@ 
+§7market Σ(っ °Д °;)っ@ 
+§7Chestnut Horse Runing on the@ 
+§7here will be appropriately@ 
+§7priced@ 
+§7if you're lucky, something@ 
+§7§lBANTON GYM@ 
+§cEnraged Werewolf§6 [Lv. 76]@ 
+§7[weathered onetrick]@ 
+Weathere@ 
+ReNegative@ 
+FuZeLeR__@ 
+§7[Johnny Rebel]@ 
+§7Look around :>@ 
+§7Horses For All@ 
+§7Imagine running fallen factory@ 
+§7[The Bomb]@ 
+§7[The Bovemist Pope]@ 
+FireHeart27@ 
+§7Bruh Shop@ 
+Airreee@ 
+brixt01@ 
+§7Selling Tcrack 1 75stx@ 
+§7كما@ 
+lifeofchrome@ 
+§7[corrupted hunter]@ 
+molohoro@ 
+§7ORANGUTAN@ 
+FortuneChicken@ 
+§7Selling: Monster, Sage,@ 
+§7Gathering Ingr, Unmeltable Ice@ 
+§7[explodey hype]@ 
+§7ITEMS + INGREDIENTS@ 
+§7[DemoKnight TF2]@ 
+§7DemoKnight TF2's Chrome Cybel@ 
+PinkSunset123@ 
+§7Nextgen The Brawler's Chicken@ 
+§7Nextgen The Brawler's Gray Wybel@ 
+twachi@ 
+§7§oqwerr1233's§7 House@ 
+§7ÈÇï lb/XP food and potions!!!@ 
+§7join BLA@ 
+§7Loot Quality Ⓓ for you Loot@ 
+§7running@ 
+§7Wynncraft (more like@ 
+§7Losercraft hahahah)@ 
+§7Muyo秘制百宝箱Ⓘ(*｀ー´)Ⓖ@ 
+§7so plz buy@ 
+§7all items are in fair prices@ 
+§7ⓗⓘ ⓜⓞⓣⓗ@ 
+§7buy my merch@ 
+§7AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA@ 
+§cCorrupted Arakadicus§6 [Lv. 95]@ 
+N3bulaHS@ 
+§7Good Goods at Good Prices@ 
+§7Randoms things for sale,@ 
+§7including some Morph Set@ 
+§7Random items with random@ 
+Glethrak@ 
+§7epic@ 
+GeneDoesMC@ 
+§7Buy my circults .-.@ 
+xXConManXx@ 
+§7Hi Record@ 
+§7have anything you need@ 
+§7You can message me to see if I@ 
+§7Cluck Cluck!@ 
+§7help me reach the 1%@ 
+§7[tools and dungeon]@ 
+§7[Ninja Mule I]@ 
+§7[Warrior Mule II]@ 
+§7QuickSlash's Colossal Rat@ 
+ProEye@ 
+§7bow in my shop@ 
+§7[Geralt of Rivia]@ 
+§7store@ 
+§7Selling Time Rift [2LE]@ 
+§7Hey look@ 
+§7(*´▽｀)ノノ@ 
+Kameli@ 
+Rwnder@ 
+Pyaaki@ 
+§7I am honestly having too much@ 
+§7fun selling drugs to you guys@ 
+Bensku1@ 
+FAZuH@ 
+§7specific material.@ 
+§7./msg me if you want a@ 
+stukvlees@ 
+§7<çå@ 
+§7Legendary Items 90-100+ (+@ 
+§7Soulessences)@ 
+§7aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa@ 
+§7[Fire Mage]@ 
+§7shidflingers incorporated@ 
+Ziphyx@ 
+§7[Honest Dictator]@ 
+§7[Law Abiding Citizen]@ 
+LLobsteRR9@ 
+§7[sleepy hype]@ 
+§7High Level Garbadge@ 
+§7Lamp oil, rope, bombs! You@ 
+§7want it? It's yours, my@ 
+§7friend!@ 
+§7buy my crap!@ 
+Janiro@ 
+§7[Home Burglar]@ 
+AjSimp_@ 
+§7Zombie Eyes@ 
+§7areas.@ 
+§7Low level stuff in low level@ 
+§7and helmet@ 
+§7cheap gathering xp chestplate@ 
+§7It's random but they all gotta@ 
+§7go@ 
+§7BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB@ 
+§7Provincial imports, as long as@ 
+NovaWolfYT@ 
+§7Welcome :)@ 
+§7[Obamium Collector]@ 
+Withis@ 
+§7Join Blacklisted Lv66 Today!@ 
+§7Msg me or NeonRider@ 
+JragonLogic@ 
+WowItsTao@ 
+§7[lootrun man]@ 
+CantDecideOnUser@ 
+§7[Join Paladins United]@ 
+Fox_This@ 
+§7"Enhanced Behavioural Chip"@ 
+§7Buying "Dominant Force" and@ 
+§7if you're reading this you're@ 
+§7a donkey lmao@ 
+§7ÈÇ50minïXPïFoodÇÈ---------ON-SALE!---------ÈÇ50minïXPïFoodÇÈ@ 
+§7LQ Crafter's Rainbow Wybel@ 
+§7[LQ Crafter]@ 
+§7ÈÇ50+minïXPïFoodÇÈ--------ON-SALE!--------ÈÇ50+minïXPïFoodÇÈ@ 
+§7[High LvL Shaman]@ 
+JohannesNervt@ 
+§7UwU@ 
+Kaelize@ 
+§7[Goro Majima]@ 
+§cGlow Bulb Herbage§6 [Lv. 140]@ 
+§7legends/fableds@ 
+§7Unmeltable Ice and@ 
+§7Selling: Monster, Pure,@ 
+§7Random Legendary Stuff@ 
+§7[Hot Sexy Grootslang]@ 
+§7[King Fich]@ 
+§7thanks wxhlf for pointing this@ 
+§7out lmao@ 
+§7天色アイルノーツ おすすめです@ 
+SuperGoldenMario@ 
+iTzhsnu@ 
+§7Entrance Cost: 20 EB@ 
+§cBiting Gust§6 [Lv. 100]@ 
+§cFrostbitten Wight§6 [Lv. 104]@ 
+§cFanatical Ice Mage§6 [Lv. 104]@ 
+§cShade of Theorick§6 [Lv. 109]@ 
+§cCorrupted Theorick§6 [Lv. 115]@ 
+§7father@ 
+§7Squimble is our biological@ 
+§7good items good prices <3@ 
+§7[eli with a bow]@ 
+§7Buy my wood@ 
+LeoTheLeatherman@ 
+MoonWebz@ 
+§7o-o@ 
+§7Hewwo UwU@ 
+§7[Dern bane Corvusio]@ 
+§7LegendIsPog@ 
+MFLR5@ 
+§7you@ 
+§7Hello pls buy my stuff! senk@ 
+1SadBoyHours1@ 
+§cRud Dorcha§6 [Lv. 77]@ 
+§7cringe dungeon ngl@ 
+iSlimeyi@ 
+_JkB4@ 
+Skele@ 
+§7Soon to be "Mob Totem" shop@ 
+§7(Daily limit of 12)!@ 
+CaptainDubab@ 
+§7Dungeon keys at affordable@ 
+§7gib big sus or no headpat@ 
+§7A Short History of Time@ 
+talonexstar@ 
+§7[Item Buyer NPC]@ 
+§7Roblox :3@ 
+§7Consider Joining PUN's Sky Blue Wybel@ 
+§7Consider Joining PUN's Sea Blue Wybel@ 
+§7[Consider Joining PUN]@ 
+5pudTato@ 
+§7Prepare yourself for Lv 40!@ 
+Dragonfish1O8@ 
+§7A noob's shop/@ 
+§7A noob's shop/E@ 
+§7[Wave Riser]@ 
+§7bononolobobonlobononolo@ 
+§7◙◙═Loot═Quality═Accessories═◙◙@ 
+§7and other things too i guess@ 
+§7yep@ 
+§7┬─┬ノ(ಠ_ಠノ)@ 
+§7[Rainbow The Healer]@ 
+Musical0Hearts@ 
+§7Gathering XP Galore@ 
+§cAcrobatics Trainer§6 [Lv. 70]@ 
+§cEndurance Trainer§6 [Lv. 70]@ 
+§cPower Trainer§6 [Lv. 70]@ 
+§cMagic Trainer§6 [Lv. 70]@ 
+§7buy my sprong, fanta and@ 
+§7divzer@ 
+§7buy plz :P@ 
+Minism@ 
+§cPulling Pumpkin§6 [Lv. 45]@ 
+Sunomon@ 
+Sayori_@ 
+§7Buy my circuit .-.@ 
+Kotoki_@ 
+§cSandshifter§6 [Lv. 106]@ 
+§7at better price on the market@ 
+§7Selling chestnut horse 30/30@ 
+§7dIHITMANIb's Death@ 
+§7Stole your booth spot@ 
+§7Harganeth :P@ 
+§7PANTS! MORPH IRON PANTS! 1500@ 
+§7EMERALDS@ 
+§7tasty weapons@ 
+§7[Giveaway winner]@ 
+§f§lEfilim South East Plains@ 
+§f§lSouthern Outpost@ 
+§f§lAldorei's River@ 
+§f§lRoad to Time Valley@ 
+§f§lJitak's Farm@ 
+§f§lLight Forest East Upper@ 
+§f§lSavannah West Lower@ 
+§f§lNivla Woods@ 
+§f§lNesaak Plains Lower North West@ 
+§f§lNivla Woods Edge@ 
+§f§lNemract Quarry@ 
+§f§lLeadin Fortress@ 
+§f§lDesert Lower@ 
+§f§lNivla Woods Exit@ 
+§f§lNorth Nivla Woods@ 
+§f§lDecayed Basin@ 
+§f§lFungal Grove@ 
+§f§lOld Crossroads North@ 
+§f§lPath to Talor@ 
+§f§lViscera Pits East@ 
+§f§lHeart of Decay@ 
+§f§lOld Crossroads South@ 
+§f§lViscera Pits West@ 
+§f§lEntrance to Kander@ 
+§f§lMesquis Tower@ 
+§f§lKander Mines@ 
+§f§lAbandoned Manor@ 
+§f§lRymek West Mid@ 
+§f§lNemract Cathedral@ 
+§f§lLexdale@ 
+§f§lLlevigar Gate West@ 
+§f§lLlevigar Plains East Upper@ 
+§f§lLlevigar Farm Plains West@ 
+§f§lPath To Ozoth's Spire Lower@ 
+§f§lGreat Bridge Nesaak@ 
+§f§lSouth Nivla Woods@ 
+§f§lPath To Ozoth's Spire Upper@ 
+§f§lRymek East Upper@ 
+§f§lSunspark Camp@ 
+§f§lCanyon Mountain South@ 
+§f§lIron Road@ 
+§f§lTemple of Legends@ 
+§f§lSwamp Mountain Base@ 
+§f§lEfilim East Plains@ 
+§f§lEfilim Village@ 
+§f§lSwamp Plains Basin@ 
+§f§lDurum Isles Upper@ 
+§f§lCliffside Passage North@ 
+§f§lPath to Ahmsord Lower@ 
+§f§lFinal Step@ 
+§f§lEfilim South Plains@ 
+§f§lDesolate Valley@ 
+§f§lCorkus City South@ 
+§f§lAldorei Valley South Entrance@ 
+§f§lAldorei's Waterfall@ 
+§f§lPath To Ozoth's Spire Mid@ 
+§f§lTower of Ascension@ 
+§f§lTwisted Ridge@ 
+§f§lQuartz Mines North West@ 
+§f§lSanctuary Bridge@ 
+§f§lRanol's Farm@ 
+§f§lChained House@ 
+§f§lAldorei's Arch@ 
+§f§lLlevigar Plains West Upper@ 
+§f§lMage Island@ 
+§f§lMantis Nest@ 
+§f§lAldorei's North Exit@ 
+§f§lDernel Jungle Mid@ 
+§f§lDernel Jungle Upper@ 
+§f§lFleris Trail@ 
+§f§lFallen Village@ 
+§f§lPath To Military Base@ 
+§f§lLighthouse Plateau@ 
+§f§lMushroom Hill@ 
+§f§lDernel Jungle Lower@ 
+§f§lVolcanic Slope@ 
+§f§lBloody Beach@ 
+§f§lRoyal Gate@ 
+§f§lKandon Ridge@ 
+§f§lDead Island South East@ 
+§7Imaxe's CT Pet - Manager@ 
+§c...@ 
+§bLight Forest East Upper Tower@ 
+§bOrc Lake Tower@ 
+§bCinfras Tower@ 
+§bMine Base Plains Tower@ 
+§bHive Tower@ 
+§bCinfras County Upper Tower@ 
+§bPath to Cinfras Tower@ 
+§bTower of Ascension Tower@ 
+§bBob's Tomb Tower@ 
+§bMining Base Lower Tower@ 
+§bSinister Forest Tower@ 
+§bAhmsord Tower@ 
+§bGoblin Plains East Tower@ 
+§bPath to Ahmsord Lower Tower@ 
+§bCorkus City Tower@ 
+§bOld Crossroads South Tower@ 
+§bLegendary Island Tower@ 
+§bHerb Cave Tower@ 
+§bCity of Troms Tower@ 
+§bCathedral Harbour Tower@ 
+§a§l§kSilent Expanse§0@ 
+§7TableDeChevet10's Mooshroom@ 
+§aQuakeDwarf§6 [Lv. 1]@ 
+§aWaterDwarf§6 [Lv. 1]@ 
+§aTNTDwarf§6 [Lv. 1]@ 

@@ -1,0 +1,47 @@
+§2Chicken: §a*happy cluck*@§2Курица: §a*счастливо кудахтает*
+§2Chicken: §a*cluck*@§2Курица: §a*кудахтает*
+§2Chicken: §a*cluck cluck*@§2Курица: §a*кудахтает кудахтает*
+§22Chicken: §a*sad cluck*@§2Курица: §a*грустно кудахтает*
+§2Grumpy Old Man: §aI'm getting a bit old to go on an adventure...@§2Старик: §aЯ становлюсь немного староват для приключений...
+§2Grumpy Old Man: §aBack in my day we didn't have these fancy 'quests'.@§2Старик: §aВ мое время у нас не было таких причудливых "квестов".
+§2Grumpy Old Man: §aAhh... I was quite the sailor back in my days!@§2Старик: §aАх... В свое время я был настоящим моряком!
+§2Rat: §a*happy squeak from seeing you again*@§2Крыса: §a*счастливо пищит от встречи с тобой снова*
+§2Baby Penguin: §a*penguin noises*@§2Пингвин: §a*шумит по-пингвиньи*
+§4The Eye: §5⒜⒩§d⒢⒞⒠⒜⒫⒜⒩⒩§5⒯⒰§d⒢⒰⒭§5⒯⒰⒮⒜§d⒨⒪§5⒨⒣⒜⒤⒮⒯⒤⒭?@§4Глаз: §5⒜⒩§d⒢⒞⒠⒜⒫⒜⒩⒩§5⒯⒰§d⒢⒰⒭§5⒯⒰⒮⒜§d⒨⒪§5⒨⒣⒜⒤⒮⒯⒤⒭?
+§2Rolling Potato: §a*stands still*@§2Крутящаяся Картошка: §a*стоит на месте*
+§2Rolling Potato: §a*celebrates your victory by standing still*@§2Крутящаяся Картошка: §a*празднует твою победу стоя на месте*
+§2Rolling Potato: §a*happy potato noises*@§2Крутящаяся Картошка: §a*счастливо картофельно шумит*
+§2Rolling Potato: §a*disappointed roll*@§2Крутящаяся Картошка: §a*Разачарованно крутится*
+§2Rolling Potato: §a*cannot comprehend this slaughter, as it has no brain*@§2Крутящаяся Картошка: §a*не может понять эту бойню, так как у нее нет мозга*
+§2Rolling Potato: §a*they see me rolling...*@§2Крутящаяся Картошка: §a*they see me rolling...*
+§2Rolling Potato: §a*rolling noises*@§2Крутящаяся Картошка: §a*Звуки кручения*
+§2Rolling Potato: §a*potato noises*@§2Крутящаяся Картошка: §a*Звуки картошки*
+§2Singing Tiger: §a*happy singing*@§2Поющий Тигр: §a*счастливо поет*
+§2Singing Tiger: §a*singing the alphabet song*@§2Поющий Тигр: §a*напевает песенку про алфавит*
+§2Singing Tiger: §a*happy growl*@§2Поющий Тигр: §a*счастливо рычит*
+
+#####################################PETS##########################################
+§4You cannot pet your Chicken until it has reached Lv. 24.@§4Ты не можешь погладить свою Курицу пока она не достигнет 24 уровня.
+§4You cannot pet Ellphant's Baby Penguin until it has reached Lv. 24.@§4Ты не можешь погладить своего Пингвина пока он не достигнет 24 уровня.
+§4You cannot pet your Fire Dragonling until it has reached Lv. 24.@§4Ты не можешь погладить своего Огненного Драгонлинга пока он не достигнет 24 уровня.
+§4You cannot pet your Dragon Wybel until it has reached Lv. 24.@§4Ты не можешь погладить своего Дракона Вубела пока он не достигнет 24 уровня.
+§4You cannot pet your Grumpy Old Man until it has reached Lv. 24.@§4Ты не можешь погладить своего Старика пока он не достигнет 24 уровня.
+§4You cannot pet your Chocolate Wybel until it has reached Lv. 24.@§4Ты не можешь погладить своего Шоколадного Вубела пока он не достигнет 24 уровня.
+§4You cannot pet your Cream Wybel until it has reached Lv. 24.@§4Ты не можешь погладить своего Кремового Вубела пока он не достигнет 24 уровня.
+§4You cannot pet your Sky Blue Wybel until it has reached Lv. 24.@§4Ты не можешь погладить своего Голубого Вубела пока он не достигнет 24 уровня.
+§4You cannot pet your Violet Wybel until it has reached Lv. 24.@§4Ты не можешь погладить своего Фиолетового Вубела пока он не достигнет 24 уровня.
+§4You cannot pet your White Wybel until it has reached Lv. 24.@§4Ты не можешь погладить своего Белого Вубела пока он не достигнет 24 уровня.
+§4You cannot pet your Dragon Wybel until it has reached Lv. 24.@§4Ты не можешь погладить своего Вубела Дракона пока он не достигнет 24 уровня.
+§4You cannot pet your Gray Wybel until it has reached Lv. 24.@§4Ты не можешь погладить своего Серого Вубела пока он не достигнет 24 уровня.
+§4You cannot pet your Rainbow Wybel until it has reached Lv. 24.@§4Ты не можешь погладить своего Радужного Вубела пока он не достигнет 24 уровня.
+§4You cannot pet your Mint Wybel until it has reached Lv. 24.@§4Ты не можешь погладить своего Мятного Вубела пока он не достигнет 24 уровня.
+§4You cannot pet your Chrome Cybel until it has reached Lv. 24.@§4Ты не можешь погладить своего Хромового Вубела пока он не достигнет 24 уровня.
+§4You cannot pet your Orange Wybel until it has reached Lv. 24.@§4Ты не можешь погладить своего Оранжевого Вубела пока он не достигнет 24 уровня.
+§4You cannot pet your Carbon Fiber Cybel until it has reached Lv. 24.@§4Ты не можешь погладить своего Карбонового Вубела пока он не достигнет 24 уровня.
+§4You cannot pet your Fire Dragonling until it has reached Lv. 24.@§4Ты не можешь погладить своего Огненного Драгонлинга пока он не достигнет 24 уровня.
+§4You cannot pet your Orange Cybel until it has reached Lv. 24.@§4Ты не можешь погладить своего Оранжевого Кубела пока он не достигнет 24 уровня.
+§4You cannot pet your Rolling Potato until it has reached Lv. 24.@§4Ты не можешь погладить свою Крутящуюся Картошку пока она не достигнет 24 уровня.
+§4You cannot pet your Pink Wybel until it has reached Lv. 24.@§4Ты не можешь погладить своего Розового Вубела пока он не достигнет 24 уровня.
+§4You cannot pet your Creeper until it has reached Lv. 24.@§4Ты не можешь погладить своего Крипера пока он не достигнет 24 уровня.
+§4You cannot pet your Sea Blue Wybel until it has reached Lv. 24.@§4Ты не можешь погладить своего Морского Вубела пока он не достигнет 24 уровня.
+§4You cannot pet your Silverfish until it has reached Lv. 24.@§4Ты не можешь погладить свою Чешуйницу пока она не достигнет 24 уровня.

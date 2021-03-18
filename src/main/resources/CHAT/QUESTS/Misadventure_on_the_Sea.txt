@@ -1,7 +1,7 @@
 §7[1/8] §2Barman: §aHello there soldier! What can I get you?@§7[1/8] §2Бармен: §aЗдравствуй, солдатик! Что я могу тебе предложить?
 §7[2/8] §2Honip: §aI'll take 2 Nemract Whiskeys. One for me, one for this chap.@§7[2/8] §2Хонип: §aЯ возьму 2 Немракт виски. Один для меня, и один для этого парня.
 §7[3/8] §2Barman: §aYou got it.@§7[3/8] §2Бармен: §aБудет сделано.
-§7[4/8] §2Honip: §aSo... I've seen ya around town. I saw how happy that guy was when you brought him some journal.@§7[4/8] §2Хонип: §aТак вот...Я видел тебя в городе. Видел, как обрадовался тот парень, когда ты принес ему дневник.
+§7[4/8] §2Honip: §aSo... I've seen ya around town. I saw how happy that guy was when you brought him some journal.@§7[4/8] §2Хонип: §aТак вот...Я видел тебя в городе. Видел, как обрадовалась та девушка, когда ты принес ей дневник.
 §7[5/8] §2Barman: §a2 Nemract Whiskeys, coming up!@§7[5/8] §2Бармен: §a2 Немракт Виски, принимайте!
 §7[6/8] §2Honip: §aSo... Soldier. Are ya up for sailin' the ocean with me? I got a fancier boat than that seaskipper!@§7[6/8] §2Хонип: §aТак вот... Солдат. Ты готов плыть по океану вместе со мной? У меня есть более причудливая лодка, чем у того морского шкипера!
 §7[7/8] §2Honip: §aI figured you'd be interested in explorin' the waters!@§7[7/8] §2Хонип: §aЯ подумал, что тебе будет интересно исследовать воды!
@@ -49,7 +49,7 @@
 §7[1/1] §2Honip: §aOne more...@§7[1/1] §2Хонип: §aЕще раз...
 §7[1/1] §2Seth: §aOh, that's my cannon! Pretty cool, right? I made it using a bunch of arm- Nevermind...@§7[1/1] §2Сэт: §aОх, а это моя пушка! Довольно крутая, правда? Я сделал ее, используя кучу ру- Неважно...
 §7[1/4] §2Honip: §aIt's starting to panic!@§7[1/4] §2Хонип: §aОно начинает паниковать!
-§7[2/4] §2Honip: §aThat's right, get back!@§7[2/4] §2Хонип: §aВсе верно, отходит назад!
+§7[2/4] §2Honip: §aThat's right, get back!@§7[2/4] §2Хонип: §aВсе верно, отходи назад!
 §7[3/4] §2Honip: §aI knew you had it in ya, haha!@§7[3/4] §2Хонип: §aЯ знал, что в тебе что-то есть, ха-ха!
 §7[4/4] §2Honip: §aWhat a show! Come, I've got some things to tell ya!@§7[4/4] §2Хонип: §aВот это шоу! Пойдем, мне нужно тебе кое-что сказать!
 §7[1/7] §2Honip: §aI don't know where that creature came from, but thanks to you it's gone.@§7[1/7] §2Хонип: §aЯ не знаю, откуда взялась эта тварь, но благодаря тебе она исчезла.

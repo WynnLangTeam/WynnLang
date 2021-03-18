@@ -1,5 +1,5 @@
 §7[1/8] §2Enduyn: §aAt ease, soldier! Good timing. We need more manpower.@§7[1/8] §2Эндуин: §aВольно, солдат! Ты как раз вовремя, нам нужно больше рабочих рук.
-§7[2/8] §2Enduyn: §aNivla forest has always been plagued by spider vermin. Thousands of them.@§7[2/8] §2Эндуин: §aЛес Нивла всегда страдал от пауков паразитов. Их тут тысячи.
+§7[2/8] §2Enduyn: §aNivla Woods has always been plagued by spider vermin. Thousands of them.@§7[2/8] §2Эндуин: §aЛес Нивла всегда страдал от пауков паразитов. Их тут тысячи.
 §7[3/8] §2Enduyn: §aHowever the tides are about to turn. We've found their nest!@§7[3/8] §2Эндуин: §aОднако удача повернулась в нашу сторону. Мы нашли их гнездо!
 §7[4/8] §2Enduyn: §aIf we can kill the queen, we can control the population.@§7[4/8] §2Эндуин: §aЕсли мы сможем убить их королеву, то сможем контролировать популяцию.
 §7[5/8] §2Enduyn: §aAs you can see though, we're having problems getting past this wall.@§7[5/8] §2Эндуин: §aНо, как ты можешь видеть, у нас возникли проблемы с прохождением этой стены.

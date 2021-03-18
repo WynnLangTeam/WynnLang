@@ -10,20 +10,27 @@
 §eDelnar Manor@§eПоместье Дельнар
 §eRagni@§eРагни
 §eEmerald Trail֎@§eЭмеральдная Тропа
+§eEmerald Trail@§eЭмеральдная Тропа
 §eDead Island@§eМертвый Остров
 §eNivla Woods@§eЛес Нивла
 §eDetlas Suburbs֎@§eОкраины Детласа
+§eDetlas Suburbs@§eОкраины Детласа
 §eDetlas֎@§eДетлас
+§eDetlas@§eДетлас
 §eMaltic֎@§eМалтик
+§eMaltic@§eМалтик
 §eKatoa Ranch֎@§eРанчо Катоа
+§eKatoa Ranch@§eРанчо Катоа
 §eBob's Tomb֎@§eГробница Боба
 §eVolcanic Isles@§eВулканические Острова
 §eNemract@§eНемракт
 §eNivla Village@§eДеревня Нивла
 §eTime Valley֎@§eДолина Времени
+§eTime Valley@§eДолина Времени
 §eLusuco@§eЛусуко
 §eThe House of Twain@§eДом Твейнов
 §eCoastal Trail֎@§eПрибрежная Тропа
+§eCoastal Trail@§eПрибрежная Тропа
 §eWynnExcavation Site B@§eВиннЭкскавейшен Часть B
 §eThe Great Bridge@§eВеликий Мост
 §eIboju Village@§eДеревня Ибоджу
@@ -39,54 +46,69 @@
 §eGylia Watch Tower@§eБашня Стражей Гилия
 §eLlevigar@§eЛлевигар
 §eCorkus City֎@§eКоркус Сити
+§eCorkus City@§eКоркус Сити
 §eRiver Sage@§eМудрая Река
 §eEfilim@§eЭфилим
 §eBear Zoo@§eЗоопарк
 §eCinfras֎@§eЦинфрас
+§eCinfras@§eЦинфрас
 §eLight's Secret@§eСекрет Света
 §eHouse of Talor@§eДом Талора
 §eOlux Lumber Yard@§eЛесопилка Олукса
 §eDark Forest Gate@§eВорота в Темный Лес
 §eQuartz Mansion@§eКварцевое Поместье
 §eElkurn֎@§eЭлкурн
+§eElkurn@§eЭлкурн
 §eSanctuary Bridge@§eМост к Святилищу
 §eLexdale֎@§eЛексдэйл
+§eLexdale@§eЛексдэйл
 §eRymek@§eРимек
 §eHalf-Moon Island@§eОстров Полумесяца
 §eOlux֎@§eОлукс
+§eOlux@§eОлукс
 §eAncient Nemract֎@§eДревний Немракт
+§eAncient Nemract@§eДревний Немракт
 §eWorm Holes@§eЧервоточины
 §eEntamis Village@§eДеревня Энтамис
 §eZhight Island֎@§eОстров Жигта
 §eMaro Peaks֎@§eВершины Маро
 §eThe Shiar@§eШир
 §eThesead֎@§eТесеад
+§eThesead@§eТесеад
 §eBantisu Air Temple@§eВоздушный Храм Бантису
 §eEltom֎@§eЭлтом
+§eEltom@§eЭлтом
 §eFreezing Heights@§eЛедяные Высоты
 §eDragon Skeleton@§eСкелет Дракона
 §eGavel Gate@§eВорота в Гавел
 §eIce Islands@§eЛедяные Острова
 §eBremminglar֎@§eБремминглар
+§eBremminglar@§eБремминглар
 §eMage Island֎@§eОстров Магов
+§eMage Island@§eОстров Магов
 §eEagle Tribe@§eПлемя Орлов
 §eCaritat Mansion@§eПоместье Каритат
 §eCrystal Falls@§eКристальные Водопады
 §eTower of Ascension@§eБашня Вознесения
 §ePirate Cove@§eПиратская Бухта
 §eSelchar֎@§eСельчар
+§eSelchar@§eСельчар
 §eNesaak@§eНесаак
 §eGelibord֎@§eГелиборд
+§eGelibord@§eГелиборд
 §eCastle Dullahan@§eЗамок Дуллахана
 §eTernaves֎@§eТернейвс
+§eTernaves@§eТернейвс
 §ePirate's Bay@§eПиратский Залив
 §eAlmuj@§eАлмуж
 §eAlmuj Great River@§eВеликая Река Алмужа
 §eInvaded Barracks@§eЗахваченные Казармы
 §eGert Camp֎@§eЛагерь Гертов
+§eGert Camp@§eЛагерь Гертов
 §eIron Golem Factory@§eФабрика Железных Големов
 §eTribal Sanctuary@§eПлеменное Святилище
 §eRooster Island֎@§eОстров Рустер
+§eRooster Island@§eОстров Рустер
 §eRoots of Corruption@§eКорни Порчи
 §eSeavale Reef@§eРиф Сивейл
 §eDurum Isles@§eОстрова Дурум
@@ -106,7 +128,9 @@
 §eRelos@§eРелос
 §eAvos Territory@§eТерритория Авосов
 §eFallen Factory֎@§eЗаброшенная Фабрика
+§eFallen Factory@§eЗаброшенная Фабрика
 §eLegendary Island֎@§eЛегендарный Остров
+§eLegendary Island@§eЛегендарный Остров
 §eKandon-Beda֎@§eКандон-Бэда
 §eAhmsord֎@§eАмсорд
 §eRaiders' Port@§eГавань Рейдеров
@@ -146,3 +170,4 @@
 §eThe Canyon Colossus@§eКолосс Каньона
 §eThe Gateway to Light@§eВорота к Свету
 §eOrphion's Nexus of Light@§eНексус Орфиона
+§eLexdale Federal Prison@§eФедеральная Тюрьма Лексдейла

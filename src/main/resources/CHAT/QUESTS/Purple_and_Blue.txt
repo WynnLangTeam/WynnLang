@@ -9,11 +9,11 @@
 §7[9/9] §2Korun: §aHe apparently found a way in, but his mind was addled. He said he was going back, and never returned. Perhaps since you don't mind breaking into people's houses, can you go there and see what you can find?@§7[9/9] §2Корун: §aОн, видимо, нашел проход, но его разум помутился. Он сказал, что собирается вернуться, и не вернулся. Поскольку ты любишь вторгаться в чужие дома, может ты пойдешь туда и посмотришь, что можно найти?
 §7[1/6] §2Korun: §aWhat's this?! This looks like the helmet the villager is wearing in the painting! But it looks faded.@§7[1/6] §2Корун: §aЧто это?! Это похоже на шлем, который носил один из жителей на картине! Но он выглядит блекло.
 §7[2/6] §2Korun: §aI sense it has lost its mystical properties, let me restore it.@§7[2/6] §2Корун: §aЧувствую, что он утратил свои магические свойства, позволь мне восстановить его.
-§7[3/6] §2Korun: §aRis'nam asla kaverina!@§7[3/6] §2Корун: §aРис'нам асла каверина!
-§7[4/6] §2Korun: §a...@ 
+§7[3/6] §2Korun: §aⓕⓡⓞⓜ ⓣⓗⓔ ⓓⓔⓟⓣⓗⓢ ⓐⓝⓓ ⓣⓗⓔ ⓤⓝⓚⓝⓞⓦⓝ ⓑⓡⓘⓝⓖ ⓑⓐⓒⓚ ⓣⓗⓔ ⓟⓞⓦⓔⓡ ⓝⓞⓦ ⓛⓞⓢⓣ!@§7[3/6] §2Корун: §aⓕⓡⓞⓜ ⓣⓗⓔ ⓓⓔⓟⓣⓗⓢ ⓐⓝⓓ ⓣⓗⓔ ⓤⓝⓚⓝⓞⓦⓝ ⓑⓡⓘⓝⓖ ⓑⓐⓒⓚ ⓣⓗⓔ ⓟⓞⓦⓔⓡ ⓝⓞⓦ ⓛⓞⓢⓣ!
+§7[4/6] §2Korun: §a...@§7[4/6] §2Корун: §a...
 §7[5/6] §2Korun: §aThere we go! Wow, this is old magic. I believe this helmet can protect you from the intense magic and allow you to walk on the lake bed itself!@§7[5/6] §2Корун: §aПолучилось! Вау, это древняя магия. Я верю, что этот шлем может защитить тебя от сильной магии, и позволит ходить по дну озера!
 §7[6/6] §2Korun: §aIn my cellar is my study access port to the lake, could you wear this and enter the spire? Perhaps you can bring back something for me to study?@§7[6/6] §2Корун: §aВ погребе моего кабинета есть проход, можешь надеть шлем и войти туда? Возможно, ты сможешь принести мне что-то полезное для моей работы?
-§7[1/1] §2Nedlom: §aHelp! Help! Somebody help me i'm stuck!@§7[1/1] §2Нэдлом: §aПомогите! Помогите! Кто-нибудь помогите мне, я застрял!
+§7[1/1] §2Nedlom: §aHelp! Help! Somebody help me, I'm stuck!@§7[1/1] §2Нэдлом: §aПомогите! Помогите! Кто-нибудь помогите мне, я застрял!
 §7[1/10] §2Nedlom: §aWhat on earth are you?! Do you speak my language?@§7[1/10] §2Нэдлом: §aИз какой ты провинции?! Говоришь на моем языке?
 §7[2/10] §2Nedlom: §aYou do! Where did you come from, where are the villagers?@§7[2/10] §2Нэдлом: §aОтлично! Откуда ты пришел, и где жители?
 §7[3/10] §2Nedlom: §aOh my, Wynn province? How long have I been down here?! I was researching Lake Gylia and went to find the source.@§7[3/10] §2Нэдлом: §aБоже мой, из Винн провинции? Сколько я уже здесь?! Я занимался исследованием озера Гилия и пошел искать источник.

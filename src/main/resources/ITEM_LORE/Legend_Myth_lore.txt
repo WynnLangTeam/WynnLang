@@ -2871,3 +2871,121 @@
 §8the blossom petals flutter@§8лепестки цветов трепещут 
 §8in the wind amongst the@§8на ветру среди пепла 
 §8ashes of your enemies.@§8твоих врагов.
+
+§8You only have limited time.@§8У тебя есть только ограниченное время.
+§8But what if, you could experience@§8Но что, если ты сможешь пережить
+§8that time again? And again,@§8это время снова? И снова,
+§8and again...@§8и снова...
+
+§8This battered stone mask@§8Эта потрепанная каменная маска
+§8is of unknown origin, and@§8неизвестного происхождения и не
+§8has no openings for the@§8имеет никаких отверстий для
+§8eyes whatsoever. Indeed,@§8глаз. Действительно,
+§8all that can be seen while@§8все, что можно увидеть,
+§8wearing it is that which@§8нося ее, - это то, что
+§8makes you truly angry.@§8заставляет тебя по-настоящему сердиться.
+
+§8§8"My husband's such a scaredy-cat.@§8"Мой муж такой пугливый кот.
+§8What good is tomb raiding@§8Xто хорошего в том, чтобы грабить гробницы
+§8if you're not in the tomb?"@§8если вы не в гробнице?"
+§8 -Dr. Junes, Almuj Archaeologist@§8 -Доктор Джунс, археолог из Алмужа
+
+§8§8One of Skien's many deadly@§8Одно из многих смертоносных орудий 
+§8weapons. This warhammer,@§8Скиена. Этот боевой молот, 
+§8despite the massive weight@§8несмотря на массивный вес 
+§8of the hammerhead, was able@§8молота, был способен
+§8to be swung by Skien fast@§8размахиваться Скиеном достаточно
+§8enough to be a blur.@§8быстро, чтобы превратиться в размытое пятно.
+
+§8§8"Betrayal stings sharper@§8"Предательство жалит острее
+§8than a scorpion's tail,@§8чем хвост скорпиона,
+§8and festers worse than the@§8и гноится хуже, чем
+§8poison inside."   -Attributed@§8яд внутри." -Приписано
+§8to Hashr@§8Хашеру
+
+§8§8"We're trying to dig up@§8"Мы пытаемся раскопать
+§8history, not horrors! What@§8историю, а не ужасы! Что
+§8is wrong with this province?!"@§8не так с этой провинцией?!"
+§8 -Excavator Vade, WynnExcavation@§8 -Раскопщик Вейд, WynnExcavation
+§8Site A Director@§8Директор Части A
+
+§8§8And as the spring bursts,@§8И как пружина лопается,
+§8the blossom petals flutter@§8лепестки цветов трепещут
+§8in the wind amongst the@§8на ветру среди
+§8ashes of your enemies.@§8пепла твоих врагов.
+
+§8§8"After nearly getting@§8"После того, как я чуть 
+§8trapped in an iron maiden,@§8не попал в ловушку железной девы, 
+§8I figure I can study  those@§8думаю, что смогу изучать эти мумии 
+§8mummies just as well from@§8так же хорошо, как и из 
+§8home." -Achper, Almuj Archaeologist@§8дома". - Ачпер, археолог Алмужа
+
+§8§8"It never rains here,@§8"Здесь никогда не бывает
+§8but we hear the thunder@§8дождей, но мы слышим гром, 
+§8echoing in the distance."@§8эхом отдающийся в отдалении." 
+§8 -Lanu, Almuj Archaeomancer@§8-Лану, Археомант Алмужа 
+
+§8§8"The plants loathe to@§8"Растения ненавидят захватывать 
+§8take hold upon the red stone.@§8красный камень. И поэтому вместо 
+§8And so, we must hunt instead."@§8этого мы должны охотиться" 
+§8 -Caras, Owl Tribesman@§8-Карас, племя Совы
+
+§8§8If the depths of hell@§8Если глубины ада 
+§8allows you this, is staying@§8позволяют тебе это, то оставаться 
+§8human an equal trade or@§8человеком - это равноценная 
+§8a fool's choice?@§8сделка или выбор дурака?
+
+§8§8"When payback is the rule@§8"Когда расплата - это закон 
+§8of the land, it feels safest@§8страны, безопаснее всего ничего 
+§8to do nothing."  -Ormrod,@§8не делать." -Ормрод, Самозваный 
+§8Self-exiled Almuj Resident@§8житель Алмужа
+
+§8§8"The sun and related symbols@§8"Солнце и связанные с ним 
+§8appear quite often in these@§8символы довольно часто встречаются 
+§8ancient glyphs.  Interesting,@§8в этих древних глифах. Интересно, 
+§8but unsurprising, no?" -Svin,@§8но неудивительно, не так ли?" -Свин, 
+§8Legend Keeper@§8Хранитель Легенд
+
+§8§8"Bandit attacks losing@§8"Бандитские нападения лишают тебя сна? 
+§8you sleep? Free fighting@§8Бесплатные боевые занятия здесь! 
+§8classes here! Only 10  emeralds-@§8Всего 10 эмеральдов - они 
+§8they won't know what hit@§8не узнают, что их поразило!" 
+§8'em!" -Almuj Self-Defense@§8-Реклама Класса самообороны 
+§8Class Advertisement@§8Алмужа
+
+§8§8"I have to wonder just@§8"Я должен задаться вопросом, 
+§8how healthy slime found@§8насколько здоровой может быть слизь, 
+§8in the depths of a desert@§8найденная в глубинах пустынной пещеры, 
+§8 cavern can be to drink."@§8чтобы ее можно было пить".
+§8-Eluzterp, Almuj resident@§8- Элузтерп, житель Алмужа
+
+§8§8"It feels like all these@§8"Такое чувство, что все эти 
+§8"ancient" civilizations@§8"древние" цивилизации имеют 
+§8have better tech than we@§8лучшие технологии, чем 
+§8do nowadays."  -Knox, Corkus@§8мы сейчас".- Нокс, 
+§8Immigrant and Sandstorm@§8Иммигрант Коркуса и Вандал 
+§8Vandals bandit@§8Бандит
+
+§8§8Jingle jangle, while shaking@§8Звенят, звенят, покачивая 
+§8your bells. Jingle jangle@§8своими колокольчиками. Звенят, 
+§8come the pockets of cash...@§8звенят карманы наличных... 
+§8Catch the trickster, send@§8Поймай мошенника, пошли его 
+§8them to hell," their money@§8к черту:" его деньги 
+§8is gone and off you've dashed!@§8пропали, а ты умчался!
+
+§8§8Imbued with the blood@§8Пропитанный кровью первого 
+§8of the first werewolf, it@§8оборотня, он хранился в 
+§8was kept in Gelibord as@§8Гелиборде как трофей, прежде 
+§8a trophy before being stolen.@§8чем его украли. Говорят,
+§8Wearing it is said to mimic@§8что ношение его 
+§8the effects of the lycanthropic@§8имитирует действие 
+§8curse.@§8ликантропического проклятия.
+
+§8§8The shirt has the quote@§8§8На футболке была напечатана 
+§8"I went to the Letvus Airbase@§8цитата: "Я был на авиабазе 
+§8in Cinfras and all I got@§8Летвус в Цинфрасе и все, 
+§8was this lousy T-shirt"@§8что я получил - это эта 
+§8printed on it.@§8паршивая футболка".
+
+§8§8You're seeing red... Time@§8§8Ты видишь красное...Время
+§8to see more of it.§8увидеть еще больше его.

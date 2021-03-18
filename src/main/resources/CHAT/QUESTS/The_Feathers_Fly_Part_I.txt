@@ -32,3 +32,186 @@
 §7[1/2] §2Avos Chief: §aGah! You startled me!@§7[1/2] §2Шеф Авосов: §aАах! Ты напугал меня!
 §7[1/4] §2Avos Shaman: §aOh, you're the not-Corkian Human.@§7[1/4] §2Шаман Авосов: §aОх, ты не человек из Коркуса.
 §7[2/4] §2Avos Shaman: §aHave you heard? Electromagic isn't limited to Corkians.@§7[2/4] §2Шаман Авосов: §aТы уже слышал? Электромагия не ограничивается Коркианцами.
+§7[3/4] §2Avos Shaman: §aWe've learnt that the... Unpleasant way.@§7[3/4] §2Шаман Авосов: §aМы узнали об этом... Неприятным способом.
+§7[4/4] §2Avos Shaman: §aOne of our own started using that magic! Can you believe that?!@§7[4/4] §2Шаман Авосов: §aОдна из наших начала использовать эту магию! Ты можешь в это поверить?!
+§7[1/3] §2Avos Chief: §aAh, eager to see our wisteria tree!@§7[1/3] §2Шеф Авосов: §aАх, хочешь увидеть наше дерево глицинию!
+§7[1/2] §2Avos Chief: §aAnd here's some important history!@§7[1/2] §2Шеф Авосов: §aИ есть вот такая важная история!
+§7[2/2] §2Avos Chief: §aThough, we don't really have the time to sit down and read all of it, do we?@§7[2/2] §2Шеф Авосов: §aХотя, на самом деле, у нас нет времени, чтобы сесть и прочитать все это, не так ли?
+§7[1/2] §2Avos Chief: §aRight, the feathery crate!@§7[1/2] §2Шеф Авосов: §aТочно, ящик с перьями!
+§7[2/2] §2Avos Chief: §aThis book has a signature from all Avos chiefs ever since we discovered ink!@§7[2/2] §2Шеф Авосов: §aЭта книга имеет подпись всех вождей Авосов с тех пор, как мы открыли чернила!
+§7[1/3] §2Avos Chief: §aAh, our wisteria tree! Yes...@§7[1/3] §2Шеф Авосов: §aАх, наше дерево глициния! Да...
+§7[1/1] §2Avos Chieftain: §aWhat was that?! I'll check.@§7[1/1] §2Вождь Авосов: §aЧто это было?! Я проверю.
+§7[1/2] §2Avos Chieftain: §aSomeone broke in? But why? Anyone can use our totem...@§7[1/2] §2Вождь Авосов: §aКто-то вломился? Но зачем? Любой может воспользоваться нашим тотемом...
+§7[2/2] §2Avos Chieftain: §aI don't get it. They could've just asked...@§7[2/2] §2Вождь Авосов: §aЯ не понимаю. Они могли бы просто спросить...
+§7[1/7] §2Ava: §aOh, hey! Thanks for earlier. You were a big help.@§7[1/7] §2Ава: §aО, привет! Спасибо, что пришел раньше. Ты мне очень помог.
+§7[2/7] §2Ava: §aTruth is, anyone can use that totem. They just don't like me very much.@§7[2/7] §2Ава: §aПравда в том, что любой может использовать этот тотем. Просто я им не очень нравлюсь.
+§7[3/7] §2Ava: §aAnyway, we got what we needed, and it's promising! Now onto the next part...@§7[3/7] §2Ава: §aВ любом случае, мы получили то, что нам было нужно, и это многообещающе! Теперь перейдем к следующей части...
+§7[4/7] §2Ava: §aY'see, I managed to bottle up some of our magic, but I still need corkian stuff.@§7[4/7] §2Ава: §aВидишь ли, мне удалось сдержать часть нашей магии, но мне все еще нужен коркианский предмет.
+§7[5/7] §2Ava: §aFortunately for us, there's a shop outside the city. Though, things might get complicated...@§7[5/7] §2Ава: §aК счастью для нас, за городом есть магазин. Хотя все может усложниться...
+§7[6/7] §2Ava: §aA bunch of Corkians aren't too fond of... Us. I just think you should come along with me, y'know?@§7[6/7] §2Ава: §aКучка коркианцев не слишком любит... Нас. Я просто думаю, что ты должен пойти со мной, понимаешь?
+§7[7/7] §2Ava: §aHere, I wrote the coords into that book of yours. It's a bit far, so come on out and I'll give you a lift!@§7[7/7] §2Ава: §aВот, я записала координаты в твою книгу. Это немного далеко, так что выходи, и я тебя подвезу!
+§7[1/2] §2Ava: §aAlright, if you want a lift, §btell me§a, or you could just walk!@§7[1/2] §2Ава: §aЛадно, если хочешь чтобы тебя подвезли, §bскажи мне§a, или можешь просто пойти пешком!
+§7[2/2] §2Ava: §aNot sure why you'd do that when I'm right here though!@§7[2/2] §2Ава: §aХотя не знаю, зачем тебе это делать, когда я здесь!
+§7[1/1] §2Ava: §aOr I guess you could just leave, that's cool too...@§7[1/1] §2Ава: §aИли, я думаю, ты можешь просто уйти, это тоже круто...
+§7[1/6] §2Ava: §aAh, finally! I could've taken you there y'know!@§7[1/6] §2Ава: §aАх, наконец-то! Знаешь, я могла бы отвезти тебя туда!
+§7[2/6] §2Ava: §aHonestly, I just wanted to test something on you... Oh well!@§7[2/6] §2Ава: §aЧестно говоря, я просто хотела кое-что проверить на тебе... Ну вперед!
+§7[3/6] §2Ava: §aThis is the shop! I think we can buy an §bEnhanced Potential Microchip§a here.@§7[3/6] §2Ава: §aЭто магазин! Я думаю, что мы можем купить здесь §bУсиленный Потенциальный Микрочип§a.
+§7[4/6] §2Ava: §aI need you to accompany me.@§7[4/6] §2Ава: §aМне нужно, чтобы ты сопровождал меня.
+§7[5/6] §2Ava: §aIf I'm with a human, surely they'll sell one, right?@§7[5/6] §2Ава: §aЕсли я буду с человеком, они наверняка продадут его, верно?
+§7[6/6] §2Ava: §aYou go first, I'll follow you.@§7[6/6] §2Ава: §aТы иди первым, я за тобой.
+§7[1/1] §2Ava: §aAlright, let's go!@§7[1/1] §2Ава: §aЛадно, пошли!
+§7[1/1] §2Ava: §aYou lead, I follow!@§7[1/1] §2Ава: §aТы ведешь, я за тобой!
+§7[1/1] §2Ava: §aHuh? Not ready? Come back soon, I need ya!@§7[1/1] §2Ава: §aА? Ты не готов? Возвращайся скорее, ты нужен мне!
+§7[1/6] §2Shopkeeper: §aHmpf. What are you doing in here, Avo?!@§7[1/6] §2Лавочник: §aХмпф. Что ты здесь делаешь, Авос?!
+§7[2/6] §2Ava: §aSo-uh, I was, y'know, wonderin' if you had any-@§7[2/6] §2Ава: §aЭм...э-э-э..., знаете ли, подумала, нет ли у вас-
+§7[3/6] §2Shopkeeper: §aHuh?!@§7[3/6] §2Лавочник: §aА?!
+§7[4/6] §2Shopkeeper: §aThere's NO WAY I'm selling anythin' to an Avo! Shoo! Get out!@§7[4/6] §2Лавочник: §aЯ НИ за что ничего не продам Авосу! Кыш! Убирайся!
+§7[5/6] §2Ava: §aBut...!@§7[5/6] §2Ава: §aНо...!
+§7[6/6] §2Shopkeeper: §a§lOUT!@§7[6/6] §2Лавочник: §a§lПРОЧЬ!
+§7[1/1] §2Ava: §aHey, don't go alone head first! Talk to me!@§7[1/1] §2Ава: §aЭй, не ходи сначала один! Поговори со мной!
+§7[1/4] §2Ava: §aI... can't believe this.@§7[1/4] §2Ава: §aЯ... не могу в это поверить.
+§7[2/4] §2Ava: §aI am NOT giving up! To hell with all this!@§7[2/4] §2Ава: §aЯ не сдамся! К черту все это!
+§7[3/4] §2Ava: §aHere, go in yourself and ask. I'll cover the cost later.@§7[3/4] §2Ава: §aВот, зайди сам и спроси. Я оплачу расходы позже.
+§7[4/4] §2Ava: §aI'll stand back. §a§lCLEARLY§a this guy is too §a§lSTUCK§a up to- Ugh, I'm getting angry! §bJust go in again§a.@§7[4/4] §2Ава: §aЯ отойду. §a§lЯСНО§a, что этот парень слишком §a§lЗАНОСЧИВ§a, хотя я начинаю злиться! §bПросто зайди еще раз§a.
+§7[1/3] §2Shopkeeper: §aHuh?! I made myself clear! You were with her!@§7[1/3] §2Лавочник: §aЧто?! Я ясно выразился! Ты был с ней!
+§7[2/3] §2Shopkeeper: §aI'm closing for today, I cannot stand this! §a§lOUT!!@§7[2/3] §2Лавочник: §aЯ закрываюсь на сегодня, не могу этого вынести! §a§lВОН!!
+§7[3/3] §2Shopkeeper: §aOh, and don't even think about even approaching MY shop!@§7[3/3] §2Лавочник: §aОх, и даже не думай приближаться к МОЕМУ магазину!
+§7[1/1] §2Ava: §aHang tight! He's gone crazy!@§7[1/1] §2Ава: §aДержись крепче! Он сошел с ума!
+§7[1/7] §2Ava: §aUrgh, this guy's nuts. Hmm...@§7[1/7] §2Ава: §aУгх, этот парень чокнутый. Хмм...
+§7[2/7] §2Ava: §aI'm... surprised he kicked you out, too. Maybe he's a patriot?@§7[2/7] §2Ава: §aЯ... удивлена, что он и тебя выгнал. Может быть, он патриот?
+§7[3/7] §2Ava: §aWell, anyway, we need a plan. I don't wanna wait this out.@§7[3/7] §2Ава: §aНу, в любом случае, нам нужен план. Я не хочу ждать.
+§7[4/7] §2Ava: §aLook, this guy has to have a control panel somewhere. Maybe we can neutralize the robots.@§7[4/7] §2Ава: §aСлушай, у этого парня где-то должна быть панель управления. Может быть, нам удастся нейтрализовать роботов.
+§7[5/7] §2Ava: §aThat stuff hates water, y'know? So I'll go fetch some in the meantime.@§7[5/7] §2Ава: §aЭта штука не терпит воды, понимаешь? Так что я пока схожу за ней.
+§7[6/7] §2Ava: §aI'd like to NOT get zapped by a forcefield, so I'll sneak inside once we're done with that.@§7[6/7] §2Ава: §aМне бы НЕ хотелось попасть под силовое поле, поэтому я прокрадусь внутрь, как только мы закончим с этим.
+§7[7/7] §2Ava: §aGot it? §bFind the control panel§a. It should be somewhere around the house. Talk to me once you're ready.@§7[7/7] §2Ава: §aПонял? §bНайди панель управления§a. Она должна быть где-то рядом с домом. Поговори со мной, когда будешь готов.
+§7[1/1] §2Ava: §aWait, let's figure something out!@§7[1/1] §2Ава: §aПодожди, давай что-нибудь придумаем!
+§7[1/1] §2Ava: §aGood luck, then! I'll be back once you find the §bcontrol panel§a!@§7[1/1] §2Ава: §aТогда удачи! Я вернусь, как только ты найдешь §bпанель управления§a!
+§7[1/5] §2Ava: §aHere we are! Good job! Alright, let's see...@§7[1/5] §2Ава: §aА вот и мы! Отличная работа! Ладно, давай посмотрим...
+§7[2/5] §2Ava: §aWait... Why are there... Buttons... Everywhere??@§7[2/5] §2Ава: §aПодожди... Почему тут... Кнопки... Везде??
+§7[1/1] §2Ava: §aHold on! We can't just leave now!@§7[1/1] §2Ава: §aДержись! Мы не можем просто уйти сейчас!
+§7[3/5] §2Ava: §aI feel like soaking everything would be quite the mistake.@§7[3/5] §2Ава: §aЯ чувствую, что намочить все было бы большой ошибкой.
+§7[4/5] §2Ava: §aAnd none of them are labelled! What is that?!@§7[4/5] §2Ава: §aИ ни одна из них не подписана! Что это?!
+§7[5/5] §2Ava: §aLook, your choice. What should we neutralize first?@§7[5/5] §2Ава: §aСмотри, выбор за тобой. Что мы должны нейтрализовать в первую очередь?
+§7[1/1] §2Ava: §aLook, we're both lost. Just choose one side.@§7[1/1] §2Ава: §aПослушай, мы оба запутались. Просто выбери одну сторону.
+§7[1/1] §2Ava: §aLeft... Right... Center... 'up to you.@§7[1/1] §2Ава: §aСлева... Справа... Центр... решать тебе.
+§7[1/2] §2Ava: §aLeft, huh? Well, let's see how that goes.@§7[1/2] §2Ава: §aЛевую, да? Ну что ж, посмотрим, что из этого выйдет.
+§7[2/2] §2Ava: §aAlright, let's soak this.@§7[2/2] §2Ава: §aЛадно, давай зальем ее.
+§7[1/1] §2Ava: §aTELEPORTATION?!@§7[1/1] §2Ава: §aТЕЛЕПОРТАЦИЯ?!
+§7[1/4] §2Ava: §a§oOuch§a!@§7[1/4] §2Ава: §a§oАуч§a!
+§7[2/4] §2Ava: §aSorry about all the trouble I caused... I hope this makes it up to you.@§7[2/4] §2Ава: §aПрости за все неприятности, которые я причинила... Надеюсь, это загладит мою вину.
+§7[1/1] §2Ava: §aI appreciate the help! You wynn folks can pull off just about anything, right?@§7[1/1] §2Ава: §aЯ ценю твою помощь! Вы, выходцы из Винн, можете провернуть что угодно, верно?
+§7[1/7] §2Ava: §aI can't believe it! It's working! Look! Look at it!@§7[1/7] §2Ава: §aНе могу в это поверить! Это работает! Смотри! Посмотри на него!
+§7[2/7] §2Ava: §aA §a§lGrowth Accelerator§a... Can you imagine the possibilities?!@§7[2/7] §2Ава: §a§lУскоритель Роста§a... Представляешь, какие возможности?!
+§7[3/7] §2Ava: §aWe'll be able to... I don't know, help the poor, that's nice, right?@§7[3/7] §2Ава: §aМы сможем... Я не знаю, помочь бедным. Это же хорошо, правда?
+§7[4/7] §2Ava: §aBut we're not done. Well, I'm not done. I'd still like your help.@§7[4/7] §2Ава: §aНо мы еще не закончили. Ну, я еще не закончила. Мне все равно нужна твоя помощь.
+§7[5/7] §2Ava: §aLook, let's try it out together, alright? Maybe I'll let you go afterwards?@§7[5/7] §2Ава: §aСлушай, давай попробуем вместе, хорошо? Может быть, потом я тебя отпущу?
+§7[6/7] §2Ava: §aI'll §bjoin you outside§a. Once I'm sure this works, I'll be able to... Show it to them.@§7[6/7] §2Ава: §aЯ §bприсоединюсь к тебе снаружи§a. Как только я буду уверена, что это сработает, я смогу... Показать им.
+§7[7/7] §2Ava: §aIn theory, it should be easy to operate... I'm trusting you. Again. Sorry 'bout that.@§7[7/7] §2Ава: §aТеоретически он должен быть прост в эксплуатации... Я доверяю тебе. Снова. Извини за это.
+§7[1/2] §2Ava: §aAlright, it's just on the hill next to us, but I can bring you there if ya want!@§7[1/2] §2Ава: §aХорошо, это место на холме рядом с нами, но я могу подвести тебя туда, если хочешь!
+§7[2/2] §2Ava: §aJust don't get too used to me, alright? Tell me when you're ready.@§7[2/2] §2Ава: §aТолько не слишком привыкай ко мне, ладно? Скажи мне, когда будешь готов.
+§7[1/1] §2Ava: §aAlright, this should be good. §bTalk to me§a and I'll explain!@§7[1/1] §2Ава: §aЛадно, это должно быть хорошо. §bПоговори со мной§a, и я все объясню!
+§7[1/6] §2Ava: §aI'll do a quick rundown of how to operate this. It's not automatic yet.@§7[1/6] §2Ава: §aЯ вкратце расскажу, как с этим работать. Он еще не автоматический.
+§7[2/6] §2Ava: §aI'll give you a remote. You'll simply have to §bclick in the right orders§a. You'll see!@§7[2/6] §2Ава: §aЯ дам тебе пульт. Тебе просто нужно будет §bнажимать на нужные направления§a. Увидишь!
+§7[3/6] §2Ava: §aYou have to be quick, though! You can't just take all the time you want.@§7[3/6] §2Ава: §aНо ты должен действовать быстро! Ты не можешь использовать столько времени, сколько хочешь.
+§7[4/6] §2Ava: §aI have no clue how stable all of this is, so we'll start slowly!@§7[4/6] §2Ава: §aЯ понятия не имею, насколько все это стабильно, так что начнем потихоньку!
+§7[5/6] §2Ava: §aI know this sounds a li'l scary, but you've shown yourself being capable.@§7[5/6] §2Ава: §aЗнаю, это звучит немного пугающе, но ты показал себя способным.
+§7[6/6] §2Ava: §bTell me when you're ready§a, I'll give you the remote then start the machine!@§7[6/6] §2Ава: §bСкажи мне, когда будешь готов§a, я дам тебе пульт, а потом заведу машину!
+§7[1/3] §2Ava: §aReady? Take this first.@§7[1/3] §2Ава: §aГотов? Сначала возьми это.
+§7[2/3] §2Ava: §aThink of it like... Casting one of your spells. You're used to that, right?@§7[2/3] §2Ава: §aДумай об этом как... Используя одно из твоих заклинаний. Ты ведь к этому привык, верно?
+§7[3/3] §2Ava: §aLet's start slowly! You have §b45 seconds §ato fully charge it up!@§7[3/3] §2Ава: §aДавай начнем медленно! У тебя есть §b45 секунд§a, чтобы полностью зарядить его!
+§7[1/1] §2Ava: §aHalfway there!@§7[1/1] §2Ава: §aНа полпути!
+§7[1/1] §2Ava: §aAnd now, we observe!@§7[1/1] §2Ава: §aА теперь мы наблюдаем!
+§7[1/4] §2Ava: §aOh my... I- No way...@§7[1/4] §2Ава: §aОй боже... Я - Ни за что...
+§7[2/4] §2Ava: §aDo you have §a§lANY§a idea what it is we've just done?@§7[2/4] §2Ава: §aУ тебя есть идея, что мы только что сделали?
+§7[3/4] §2Ava: §aI have to show that to the Chief. They WILL accept me! I cannot fail now!@§7[3/4] §2Ава: §aЯ должна показать это шефу. Они примут меня! Теперь я не могу потерпеть неудачу!
+§7[4/4] §2Ava: §aTell you what, §blet's meet up at the Chief's hut§a. If you want me to take you there right now, you can just go ahead and tell me!@§7[4/4] §2Ава: §aВот что я тебе скажу - §bдавай встретимся в хижине Вождя§a. Если ты хочешь, чтобы я подвезла тебя туда прямо сейчас, ты можешь просто подойти и сказать мне!
+§7[1/6] §2Ava: §aAlright, let's fly!@§7[1/6] §2Ава: §aЛадно, полетели!
+§7[2/6] §2Ava: §aIt really is convenient being with me, huh?@§7[2/6] §2Ава: §aЭто действительно удобно - быть со мной, да?
+§7[3/6] §2Ava: §aOn second thought... Isn't it too soon?@§7[3/6] §2Ава: §aС другой стороны... Не слишком ли рано?
+§7[4/6] §2Ava: §aI-I think I want to turn back... I...@§7[4/6] §2Ава: §aЯ-я думаю, что хочу вернуться... Я...
+§7[5/6] §2Ava: §a§lGah§a! If I can't get myself to do it now, I'll §a§lnever§a do it!@§7[5/6] §2Ава: §a§lЧерт§a! Если я не смогу заставить себя сделать это сейчас, я §a§lникогда§a этого не сделаю!
+§7[6/6] §2Ava: §aYou should §bapproach the Chief§a first. It... won't work if I do it. I'll come by afterwards.@§7[6/6] §2Ава: §aСначала ты должен §bподойти к Шефу§a. Это... не сработает, если это сделаю я. Я зайду потом.
+§7[1/12] §2Avos Chieftain: §aAh, human! Welcome back. Good timing...@§7[1/12] §2Вождь Авосов: §aАх, человек! С возвращением. Как раз вовремя...
+§7[2/12] §2Avos Chieftain: §aDid you happen to see... An oddly dressed Avo around here recently?@§7[2/12] §2Вождь Авосов: §aТы случайно не видел... Странно одетую Авоса здесь недавно?
+§7[3/12] §2Avos Chieftain: §aWe kicked that girl from the tribe, and we do have our reasons.@§7[3/12] §2Вождь Авосов: §aМы выгнали эту девушку из племени, и у нас есть на то свои причины.
+§7[4/12] §2Avos Chieftain: §aI've heard reports of her snooping around recently. With a human, even.@§7[4/12] §2Вождь Авосов: §aЯ слышал, что в последнее время она что-то вынюхивает. Даже с человеком.
+§7[5/12] §2Avos Chieftain: §aAnd I believe... That this is no coincidence you're here.@§7[5/12] §2Вождь Авосов: §aИ я верю... Что ты здесь не случайно.
+§7[6/12] §2Avos Chieftain: §aI will be frank. You're with her, aren't you? I won't hurt you. I won't hurt her either.@§7[6/12] §2Вождь Авосов: §aБуду откровенен. Ты ведь с ней, не так ли? Я не причиню тебе вреда. И ей тоже не причиню вреда.
+§7[7/12] §2Avos Chieftain: §aShe's not exactly welcome here. But she's never told you about that, did she?@§7[7/12] §2Вождь Авосов: §aЕй здесь не очень-то рады. Но она никогда не говорила тебе об этом, не так ли?
+§7[8/12] §2Ava: §aAnd I have nothing to hide, Chief.@§7[8/12] §2Ава: §aИ мне нечего скрывать, Шеф.
+§7[9/12] §2Avos Chieftain: §aSTOP IT, you two! Let her talk!@§7[9/12] §2Вождь Авосов: §aПРЕКРАТИТЕ, вы двое! Пусть говорит!
+§7[10/12] §2Ava: §aYou're all scared of change, and that's all there is to it. Now...@§7[10/12] §2Ава: §aВы все боитесь перемен, и это все привело нас сюда. Сейчас...
+§7[11/12] §2Ava: §aMay I... Show you something?@§7[11/12] §2Ава: §aМогу я... Показать вам что-нибудь?
+§7[12/12] §2Avos Chieftain: §aHmpf. Let's see that broken atrocity of yours.@§7[12/12] §2Вождь Авосов: §aХм. Давай-ка посмотрим на твои злодеяния.
+§7[1/1] §2Ava: §a...It's§a time. §bTalk to me§a.@§7[1/1] §2Ава: §a...Время пришло. §bПоговори со мной§a.
+§7[1/4] §2Ava: §aThis is it. I can't fail now... I really hope I can trust you.@§7[1/4] §2Ава: §aВот оно. Теперь я не могу потерпеть неудачу... Я действительно надеюсь, что могу доверять тебе.
+§7[2/4] §2Ava: §aYou have no idea how important this is to me.@§7[2/4] §2Ава: §aТы даже не представляешь, как это важно для меня.
+§7[3/4] §2Ava: §aIt'll be slightly more difficult than last time, so get ready.@§7[3/4] §2Ава: §aЭто будет немного сложнее, чем в прошлый раз, так что будь готов.
+§7[4/4] §2Ava: §aI'll give you the remote once you're ready!@§7[4/4] §2Ава: §aЯ отдам тебе пульт, как только ты будешь готов!
+§7[1/1] §2Ava: §aI have faith in you.@§7[1/1] §2Ава: §aЯ верю в тебя.
+§7[1/1] §2Avos Chieftain: §aHow peculiar...@§7[1/1] §2Вождь Авосов: §aКак странно...
+§7[1/1] §2Ava: §aOh I'm gonna charge this sapling like crazy!@§7[1/1] §2Ава: §aОх, я буду заряжать этот саженец как сумасшедшая!
+§7[1/1] §2Avos Chieftain: §aHmm... Interesting...@§7[1/1] §2Вождь Авосов: §aХмм... Интересно...
+§7[1/1] §2Ava: §aAlright, ya got this!@§7[1/1] §2Ава: §aОтлично, у тебя получается!
+§7[1/1] §2Ava: §aStand back... Almost there!@§7[1/1] §2Ава: §aОтойди... Почти приехали!
+§7[1/1] §2Ava: §aOh god, no- Let me boot up the machine again...@§7[1/1] §2Ава: §aО боже, нет- Позволь мне снова запустить машину...
+§7[1/1] §2Ava: §aAlright... §bTalk to me§a.@§7[1/1] §2Ава: §aХорошо... §bПоговори со мной§a.
+§7[1/3] §2Ava: §aLet's just say... Failure is part of the process?@§7[1/3] §2Ава: §aСкажем так... Неудача - это часть процесса?
+§7[2/3] §2Ava: §aC-Chief, we... we got this, don't worry!@§7[2/3] §2Ава: §aШ-Шеф, мы... мы справимся, не волнуйся!
+§7[3/3] §2Ava: §aJust... Get ready.@§7[3/3] §2Ава: §aПросто... Приготовиться.
+§7[1/2] §2Avos Chieftain: §aWait, are you sure this isn't dang-@§7[1/1] §2Вождь Авосов: §aПодожди, ты уверен, что это не опас-
+§7[2/2] §2Ava: §aDon't worry 'bout that!@§7[2/2] §2Ава: §aНе беспокойтесь об этом!
+§7[1/1] §2Avos Guard: §aWhy is she getting away with using such magic?!@§7[1/1] §2Страж Авос: §aПочему ей сходит с рук использование такой магии?!
+§7[1/1] §2Ava: §aAlright, this is the last stretch!@§7[1/1] §2Ава: §aЛадно, это последний отрезок!
+§7[1/8] §2Avos Chieftain: §a...Oh§a my!@§7[1/8] §2Вождь Авосов: §a...О боже!
+§7[2/8] §2Ava: §aWait... That's it?? No, this isn't right...@§7[2/8] §2Ава: §aПодождите... И это все?? Нет, это неправильно...
+§7[3/8] §2Ava: §aLet me just...@§7[3/8] §2Ава: §aПозвольте мне просто...
+§7[4/8] §2Avos Chieftain: §a§lWAIT!@§7[4/8] §2Вождь Авосов: §a§lПОДОЖДИ!
+§7[5/8] §2Avos Guard: §aChief! Have you seen what she just did?!@§7[5/8] §2Страж Авос: §aШеф! Вы видели, что она только что сделала?!
+§7[6/8] §2Ava: §aI-I didn't mean to! I told you to stand back!!@§7[6/8] §2Ава: §aЯ-я не хотела! Я же сказала тебе отойти!!
+§7[7/8] §2Avos Chieftain: §aUnder normal circumstances, I'd have sent you down the pit after cutting off your feathers.@§7[7/8] §2Вождь Авосов: §aПри обычных обстоятельствах я бы отправил тебя в яму, предварительно отрезав перья.
+§7[8/8] §2Avos Chieftain: §aBut these are not normal circumstances. Soldier, may you §bcome over here§a as well?@§7[8/8] §2Вождь Авосов: §aНо это не обычные обстоятельства. Солдат, ты §bможешь подойти сюда§a?
+§7[1/10] §2Avos Chieftain: §aSo you fused OUR magic... With electromagic?@§7[1/10] §2Вождь Авосов: §aТак ты смешала НАШУ магию... С электромагией?
+§7[2/10] §2Avos Chieftain: §aI recognized extracts from the totem too. You're the one who stole from us, right?@§7[2/10] §2Вождь Авосов: §aЯ также узнал частички из тотема. Это ведь ты нас обокрала, верно?
+§7[3/10] §2Ava: §aI... might have done that.@§7[3/10] §2Ава: §aЯ... могла бы это сделать.
+§7[4/10] §2Avos Chieftain: §aAnd on top of that, you used the Wynn warrior to fool us?@§7[4/10] §2Вождь Авосов: §aИ вдобавок ко всему, ты использовала воина из Винн, чтобы одурачить нас?
+§7[5/10] §2Ava: §aAnd I'm sure you know why I did!@§7[5/10] §2Ава: §aИ я уверена, вы знаете, почему я это сделала!
+§7[6/10] §2Avos Chieftain: §aDo you have any idea how unstable this wretched electromagic is?!@§7[6/10] §2Вождь Авосов: §aТы хоть представляешь, насколько нестабильна эта несчастная электромагия?!
+§7[7/10] §2Ava: §aI-I can control it!!@§7[7/10] §2Ава: §aЯ-я могу контролировать ее!!
+§7[8/10] §2Avos Chieftain: §aAnd you should NOT! Don't you understand? This is too dangerous!@§7[8/10] §2Вождь Авосов: §aТы НЕ должна! Неужели ты не понимаешь? Это слишком опасно!
+§7[9/10] §2Avos Guard: §aShould we kill her on the spot?! We almost died!@§7[9/10] §2Страж Авос: §aДолжны ли мы убить ее на месте?! Мы чуть не погибли!
+§7[10/10] §2Avos Chieftain: §aNo, don't kill her. I want her and the soldier §bin my hut§a, now.@§7[10/10] §2Вождь Авосов: §aНет, не убивай ее. Я хочу, чтобы она и солдат зашли §bв мою хижину§a, сейчас же.
+§7[1/1] §2Ava: §a...Wow§a.@§7[1/1] §2Ава: §a...Воу.
+§7[1/11] §2Avos Chieftain: §aAva. You can't keep going with this. Just stop. This is your final warning.@§7[1/11] §2Вождь Авосов: §aАва. Ты не можешь продолжать в том же духе. Просто остановись. Это твое последнее предупреждение.
+§7[2/11] §2Avos Chieftain: §aWhat do you even hope to accomplish? You used to be such a brilliant kid.@§7[2/11] §2Вождь Авосов: §aЧего ты вообще надеешься добиться? Ты была таким замечательным ребенком.
+§7[3/11] §2Ava: §aI just... wanna help people. You know that, I'm sure you understand!@§7[3/11] §2Ава: §aЯ просто... хочу помогать людям. Вы знаете это, я уверена, вы понимаете!
+§7[4/11] §2Avos Chieftain: §aHave you §a§oseen§a the Factory? They tried to help people, and instead they killed hundreds!@§7[4/11] §2Вождь Авосов: §aТы §a§oвидела§a Фабрику? Они пытались помочь людям, а вместо этого убили сотни!
+§7[5/11] §2Avos Chieftain: §aDo you think you're able change the world?! Well, you can't, Ava! This is beyond you!@§7[5/11] §2Вождь Авосов: §aНеужели ты думаешь, что способна изменить мир?! Ну, ты не можешь, Ава! Это выше твоего понимания!
+§7[6/11] §2Avos Chieftain: §aSo, for the last time. Stop all of this. I might reconsider your banishment then.@§7[6/11] §2Вождь Авосов: §aИтак, в последний раз. Прекрати все это. Тогда я мог бы пересмотреть твое изгнание.
+§7[7/11] §2Ava: §aYou... You're really serious about that, huh? You'll NEVER change, will you?!@§7[7/11] §2Ава: §aВы... Вы действительно серьезно говорите об этом? Вы ведь никогда не меняетесь, правда?!
+§7[8/11] §2Ava: §aDo you guys have §a§lANY§a idea how archaic you all are?! A ''final warning''??@§7[8/11] §2Ава: §aРебята, вы хоть представляете, насколько вы все архаичны?! "Последнее предупреждение"??
+§7[9/11] §2Ava: §a§lTo hell with this!§a I'll show everyone! I'll show how great §a§lwe§a could be! You'll see, chief!@§7[9/11] §2Ава: §a§lК черту все это§a! Я всем покажу! Покажу, какими великими §a§lмы§a могли бы быть! Вот увидите, шеф!
+§7[10/11] §2Avos Chieftain: §aI can't believe you worked with her, soldier. Well, now you know to avoid her.@§7[10/11] §2Вождь Авосов: §aНе могу поверить, что ты работал с ней, солдат. Что ж, теперь ты знаешь, что ее следует избегать.
+§7[11/11] §2Avos Chieftain: §a...It§a appears she left some device on the floor. You might as well take them. And here, take these. We haven't had the chance to thank you regarding the Factory.@§7[11/11] §2Вождь Авосов: §a...Похоже, она оставила какое-то устройство на полу. С таким же успехом ты можешь его взять. И вот, возьми это. У нас не было возможности поблагодарить тебя за Фабрику.
+§7[1/1] §2Ava: §aAlright then, buckle up!@§7[1/1] §2Ава: §aЛадно, тогда пристегнись!
+§7[1/1] §2Ava: §aAlright, I'm dropping you off! Stick the landing!@§7[1/1] §2Ава: §aЛадно, я тебя высажу! Ровного приземления!
+§7[1/3] §2Ava: §aHey, it happens to the best of us!@§7[1/3] §2Ава: §aЭй, это случается с лучшими из нас!
+§7[2/3] §2Ava: §aIt's fine, the machine isn't at full power, it won't explode or anything.@§7[2/3] §2Ава: §aВсе в порядке, машина не работает на полную мощность, она не взорвется.
+§7[3/3] §2Ava: §aJust §btell me§a when you're ready!@§7[3/3] §2Ава: §aПросто §bскажи мне§a, когда будешь готов!
+§7[3/3] §2Ava: §aT-§btalk to me§a once you're ready to try again.@§7[3/3] §2Ава: §aП-§bпоговори со мной§a, как только будешь готов попробовать еще раз.
+§7[1/3] §2Ava: §aNo no no- look, it's fine. We can get it right this time, ok?@§7[1/3] §2Ава: §aНет нет нет, все в порядке. На этот раз мы все сделаем правильно, хорошо?
+§7[1/1] §2Ava: §aLet's do this!@§7[1/1] §2Ава: §aДавай сделаем это!
+§7[1/5] §2Ava: §aCenter... I guess the most important stuff could be here. In theory. I wouldn't count on it.@§7[1/5] §2Ава: §aЦентр... Думаю, что самое важное может быть здесь. В теории. Я бы на это не рассчитывала.
+§7[2/5] §2Ava: §aHuh! This wasn't that bad. And... I see something poking out, hold on...@§7[2/5] §2Ава: §aУф! Все было не так уж плохо. И... Я вижу, что-то вылезает, держись...
+§7[3/5] §2Ava: §aHaha!... Wait, that's not it. Urgh.@§7[3/5] §2Ава: §aХа-ха!... Погоди, это не то. Угх.
+§7[4/5] §2Ava: §aHey, I'll just give that to you. Though, you probably don't know how to use it, heh!@§7[4/5] §2Ава: §aЭй, я просто отдам это тебе. Хотя ты, наверное, не знаешь, как им пользоваться, хех!
+§7[5/5] §2Ava: §aLooks like we got another shot. I still have some water left.@§7[5/5] §2Ава: §aПохоже, у нас есть еще один шанс. У меня еще осталось немного воды.
+§7[1/2] §2Ava: §aLeft it is then. Let's hope we get it right this time.@§7[1/2] §2Ава: §aЗначит, налево. Будем надеяться, что на этот раз мы все сделаем правильно.
+§7[2/2] §2Ava: §aSecond time's the charm.@§7[2/2] §2Ава: §aВо второй раз - все отлично.
+§7[1/1] §2Ava: §aYou're leaving?! §a...Understandable§a, actually. §bJust buy the damn thing §ayourself, I'll cover the cost.@§7[1/1] §2Ава: §aТы уходишь?! ...Понимаю. §bПросто купи эту чертову штуку§a сам, я покрою расходы.
+§7[1/1] §2Ava: §aI sure hope this works... for you.@§7[1/1] §2Ава: §aЯ очень надеюсь, что это сработает... для тебя.
+§7[1/1] §2Ava: §aLet's get going then...@§7[1/1] §2Ава: §aТогда пойдем...
+§7[1/1] §2Ava: §aWait, where are you going?! §a...Fine§a, I'll wait nearby, just come back quickly!@§7[1/1] §2Ава: §aПодожди, куда ты собрался?! ...Хорошо, я подожду поблизости, только возвращайся поскорее!
+§7[1/1] §2Ava: §aWait, you don't have anything yet? There must be some stuff lying around!@§7[1/1] §2Ава: §aПодожди, у тебя еще ничего нет? Там должно быть что-то валяется!
+§7[1/1] §2Ava: §aNothing? It's fine, just keep looking!@§7[1/1] §2Ава: §aНичего? Все в порядке, просто продолжай искать!
+§7[1/1] §2Shopkeeper: §aI see you've come to my pottery shop. Feel free to browse, but our pottery classes are full.@§7[1/1] §2Лавочник: §aЯ вижу ты пришел в мою гончарную лавку. Не стесняйся просматривать, но наши классы керамики заполнены.

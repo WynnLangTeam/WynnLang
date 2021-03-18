@@ -75,3 +75,4 @@
 §7[1/1] §2Aledar: §aWait, It's too dangerous to go alone!@§7[1/1] §2Аледар: §aПодожди, слишком опасно идти туда одному!
 §7[1/1] §4§l???: §d⒝⒠⒤⒟⒣§5 ⒨⒠ ⒜⒢§d ⒮⒰⒤⒧§5 ⒧⒠⒜⒯.@ 
 §7[1/1] §2Aledar: §aWait don't go!@§7[1/1] §2Аледар: §aПодожди, не иди!
+§7[1/1] §2Aledar: §aRestart the mission? Okay, I'll be waiting here, come back when you are ready.@§7[1/1] §2Аледар: §aРестарт миссии? Ладно, я буду ждать здесь, возвращайся, когда будешь готов.

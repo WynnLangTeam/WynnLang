@@ -762,6 +762,72 @@ Prove you have visted every hour on the clock.@
 §7ⓐ ⓟⓛⓐⓝⓣ ⓕⓡⓞⓜ ⓦⓘⓣⓗⓘⓝ ⓣⓗⓔ ⓛⓘⓖⓗⓣ ⓕⓞⓡⓔⓢⓢ ⓦⓘⓛⓛ ⓗⓔⓛⓟ @ 
 §7ⓘⓕ ⓗⓞⓟⓔ ⓘⓢ ⓝⓞⓣ ⓛⓞⓢⓣ@ 
 §7ⓢⓔⓒⓡⓔⓣⓢ ⓤⓝⓒⓞⓥⓔⓡⓔⓓ ⓘⓝ ⓣⓗⓔ ⓞⓛⓓⓔⓢⓣ ⓞⓕ ⓛⓘⓑⓡⓐⓡⓘⓔⓢ ⓘⓝ ⓒⓘⓝⓕⓡⓐⓢ@ 
+§4/toggle [swears/blood/insults/autojoin/music/vet/war/guildjoin/attacksound/rpwarning/100/sb/autotracking/pouchmsg/combatbar/playerghosts/popups/guildpopups/friendpopups/beacon]@ 
+§d            - §7+1 Greaves of Honor@ 
+§d            - §7+3 Golden Avia Feathers@ 
+
+§eetuhnyang_+ has been added to your friends!@ 
+§eetuhnyang_+ has been removed from your friends!@ 
+§4/toggle [swears/blood/insults/autojoin/music/vet/war/guildjoin/attacksound/rpwarning/100/sb/autotracking/pouchmsg/combatbar/playerghosts/popups/guildpopups/friendpopups/beacon/bombbell]@ 
+ §7[2/3] §2???: §a⒝⒴ ⒮⒞⒪⒭⒞⒣⒤⒩⒢ ⒣⒠⒜⒯ ⒜⒩⒟ ⒮⒣⒤⒡⒯⒤⒩⒢ ⒮⒜⒩⒟, ⒝⒭⒠⒜⒦ ⒯⒣⒠ ⒝⒜⒭⒭⒤⒠⒭ ⒯⒣⒜⒯ ⒮⒠⒜⒧⒮ ⒯⒣⒤⒮ ⒧⒜⒩⒟!@ 
+We had trouble connecting you! io.netty.channel.AbstractChannel$AnnotatedConnectException@ 
+Packet error code A1. If you're not hacking, please post about this on the forums!@ 
+§cUnable to join WC26 right now! §bYou have been banned@ 
+§4Reason: §cInvalid packet sequence code A1. Please remove your hacked client.@ 
+§3Appeal at §6https://wynncraft.com/appeals/@ 
+§cUnable to join WC38 right now! §bYou have been banned@ 
+§4Reason: §cInvalid packet sequence code A1. Please remove your hacked client.@ 
+§3Appeal at §6https://wynncraft.com/appeals/@ 
+§cException Connecting:ReadTimeoutException : null@ 
+§6[Info] §eLink your Wynncraft forum account with "/forum" and get a stylish white username in chat! Visit §6wynncraft.com/forumlink§6 §efor more!@ 
+[Proxy] Lost connection to server.@ 
+§d            - §7+1 Photon@ 
+§6§lDarknessium@ 
+§6§lDEBCHIK@ 
+§d            - §7+1 Cloak of Luminosity@ 
+§7ⓣⓗⓔ ⓗⓞⓜⓔ ⓞⓕ ⓣⓗⓔ ⓔⓛⓥⓔⓢ ⓦⓘⓛⓛ ⓗⓞⓤⓢⓔ ⓣⓗⓔ ⓐⓝⓢⓦⓔⓡⓢ ⓐⓝⓓ ⓡⓔⓥⓔⓛⓐⓣⓘⓞⓝⓢ@ 
+§7ⓓⓘⓡⓔ ⓐⓒⓣⓘⓞⓝⓢ ⓘⓝ ⓣⓗⓔ ⓟⓡⓔⓢⓔⓝⓒⓔ ⓞⓕ ⓣⓗⓔ ⓖⓤⓐⓡⓓⓘⓐⓝ ⓦⓘⓛⓛ ⓦⓐⓚⓔⓝ ⓜⓐⓝⓨ ⓣⓗⓘⓝⓖⓢ@ 
+§d            - §7+1 Clearsight Spectacles@ 
+§d            - §7+1 Double Vision@ 
+§d            - §7+1 Greaves of Honor@ 
+§d            - §7+32 Platinum Ingot@ 
+§7[2/2] §2???: §a⒯⒣⒠ ⒪⒧⒨ ⒞⒜⒩⒩⒪⒯ ⒮⒰⒭⒱⒤⒱⒠ ⒣⒠⒭⒠. ⒯⒤⒨⒠ ⒣⒜⒮ ⒝⒠⒠⒩ ⒭⒤⒫⒫⒠⒟ ⒜⒮⒰⒩⒟⒠⒭... ⒪⒰⒭ ⒪⒩⒧⒴ ⒣⒪⒫⒠ ⒤⒮... ⒯⒣⒠ ⒠⒳⒫⒜⒩⒮-０@ 
+§cAvoDuckAdo#0919 is not an online player.@ 
+§6§lCivCrafter@ 
+§d            - §7+1 Death Whistle Leaf@ 
+§d            - §7+3 Cyclone Blue Leaves@ 
+§d            - §7+3 Pink Pelulite@ 
+§d            - §7+5 Pink Pelute@ 
+/party [join/leave/create/invite/kick]@ 
+§6§lBBoF@ 
+§3Your guild (Lala is a QT) has been disbanded.@ 
+/d [player]@ 
+§6§lOhsam Bulgogi@ 
+§6§lAbyss gazers@ 
+§7[1/1] §2Tasim: §2We must check out the bridge, come back soldier!@ 
+§3[§3INFO]§b 8SONDER8 transfered all to Corkus City.@ 
+§cThe market is down right now so that we can focus on other issues during release! It will be up very soon (no more than a few days)@ 
+The trade market is not available right now. Please try again later!@ 
+§6[Info] §7Teaming up with friends while fighting mobs is a very efficient way to level up! §fFor more information, visit §fwynncraft.com§f!@ 
+§6[Info] §7Crafting items and selling them to the Blacksmith is a great way to make money! §fFor more information, visit §fwynncraft.com§f!@ 
+§6[Info] §eWatch the official Wynncraft trailer at §6youtu.be/WiJkohJATbA§e!@ 
+§cCould not connect to a default or fallback server, please try again later: io.netty.channel.ConnectTimeoutException@ 
+§b - §7Thank you for participating in the Wynncraft Survey! You have been given a T3 crate as a reward!@ 
+§4The trade market is not available right now. Please try again later!@ 
+§bSnowyFair sent Mortal Assassins a request to be allied@ 
+§bSnowyFair cancelled the invite to Mortal Assassins@ 
+§bSnowyFair sent DEBCHIK a request to be allied@ 
+§bDEBCHIK formed an alliance with NecronTeam@ 
+§bSnowyFair scheduled 1 Emerald per hour to DEBCHIK@ 
+§bSnowyFair stopped scheduling Emeralds to DEBCHIK@ 
+/pet@ 
+§8[§4Alert§8]§f We're working on the server capacity situation and it will be resolved soon, do not panic!@ 
+§8[§4Alert§8]§f There should be enough servers for everyone now! Thanks for sticking with us there :)@ 
+/duel [player]@ 
+§c/changetag [VIP, VIP+, HERO, CHAMPION, RESET]@ 
+§bRuhc has transferred ownership to SnowyFair@ 
+§4Server restarting in 3 seconds...@ 
+§7Go down the hole and look for what's causing this and return to Malo at [-2037,55,-5434] with proof.@ 
 
 #################################TERRITORY DISCOVERIES#################################
                                    Plains@ 

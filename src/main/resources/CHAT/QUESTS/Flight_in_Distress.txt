@@ -21,7 +21,7 @@
 §7[5/5] §2Captain Ackbar: §aFeel free to return to your quarters and enjoy the rest of your journey.@§7[5/5] §2Капитан Акбар: §aМожете пройти в свою каюту и наслаждаться оставшимся путешествием.
 §7[1/6] §2Captain Ackbar: §aOh, hey! Are you here to help again?@§7[1/6] §2Капитан Акбар: §aОх, привет! Вы снова хотите помочь?
 §7[2/6] §2Captain Ackbar: §aI really appreciate it. My crew seem to be absolutely nowhere!@§7[2/6] §2Капитан Акбар: §aЯ очень ценю это. Моя команда ни на что не годится!
-§7[3/6] §2Captain Ackbar: §aOk well the situation is pretty bad. The engines have broken down.@§7[3/6] §2Капитан Акбар: §aЧто же, ситуация очень плоха. Наши двигатели сломались.
+§7[3/6] §2Captain Ackbar: §aOK, well the situation is pretty bad. The engines have broken down.@§7[3/6] §2Капитан Акбар: §aЧто же, ситуация очень плоха. Наши двигатели сломались.
 §7[4/6] §2Captain Ackbar: §aThe engineer downstairs is trying to figure out a solution, but he's not the brightest villager in Gavel.@§7[4/6] §2Капитан Акбар: §aИнженер внизу пытается выйти из ситуации, но он не самый умный житель в Гавелe.
 §7[5/6] §2Captain Ackbar: §aWould you mind having a talk with the engineer, and see if you can help?@§7[5/6] §2Капитан Акбар: §aМожете вы поговорить с ним, и посмотреть, чем сможете помочь?
 §7[6/6] §2Captain Ackbar: §aI have to stay here and man the brig, but if you head down to the engine room, we would greatly appreciate it.@§7[6/6] §2Капитан Акбар: §aЯ останусь здесь рулить судном, пожалуйста спуститесь в инженерный отсек, буду очень признателен вам.
@@ -70,7 +70,6 @@
 §7[1/1] §2Passenger Nancy: §aHave you found my child?@§7[1/1] §2Пассажир Нэнси: §aТы уже нашел моего ребенка?
 §7[1/2] §2Engineer Eric: §aI dun gave you the instructions. Just check it if you forget the code.@§7[1/2] §2Инженер Эрик: §aЯ дал тебе инструкцию. Просто проверь ее, если ты забыл код.
 §7[2/2] §2Engineer Eric: §aIt was something like red... orange... yellow.. Ah, it all on the paper anyway.@§7[2/2] §2Инженер Эрик: §aТам было что-то вроде красного... оранжевого... желтого.. Ах, все это на бумаге в любом случае.
-§7[1/1] §2Child: §aAw man, I can't believe I'm not allowed to sit with the adults. I'm nearly twelve!!@§7[1/1] §2Ребенок: §aБоже, я не могу поверить, что мне нельзя сидеть со взрослыми. Мне уже почти двенадцать!!
 §7[1/1] §2Calo: §aWoah, you can't just walk onto my ship like that!@§7[1/1] §2Кало: §aВоу, ты не можешь просто так войти в мой корабль!
 §7[1/2] §2Captain Ackbar: §aYou can just head down now! I will tell Calo about your arrival.@§7[1/2] §2Капитан Акбар: §aТы можешь уже спускаться вниз! Я скажу Кало о твоем прибытии.
 §7[2/2] §2Captain Ackbar: §aThanks for travelling with us!@§7[2/2] §2Капитан Акбар: §aСпасибо, что путешествовал с нами!

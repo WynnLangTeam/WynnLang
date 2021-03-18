@@ -774,6 +774,8 @@
 §dQuest Book@§dКвестовая Книга
 §6Ingredient Pouch@§6Мешок для Ингредиентов
 §7Jump to Page 1@§7Перейти на 1 страницу
+§7Jump to Page 4@§7Перейти на 4 страницу
+§7Jump to Page 8@§7Перейти на 8 страницу
 §7Jump to Page 5@§7Перейти на 5 страницу
 §7Jump to Page 9@§7Перейти на 9 страницу
 §7Jump to Page 13@§7Перейти на 13 страницу
@@ -782,6 +784,7 @@
 §cClick to confirm@§cКликни для подтверждения
 §c§lBack to Icon Selection@§c§lВернуться к Выбору Иконок
 §6Go To The Previous Page@§6Назад к Предыдущей Странице
+§a§lPrevious Page@§a§lПредыдущая Страница
 §6§lClass Backups@§6§lБэкапы Классов
 §5Mastery Tomes@§5Тома Мастера
 §5§lMastery Tomes@§5§lТома Мастера
@@ -789,12 +792,13 @@
 §c§lGuild Bank@§c§lБанк Гильдии
 §6§lChange Banner@§6§lИзменить Баннер
 §d§lView Diplomacy@§d§lПросмотр Дипломатии
-§f§lGuild Output@§f§lВыход Гильдии
+§f§lGuild Output@§f§lВыходы Гильдии
 §5Weapon Mastery Tome Slot@§5Том Мастера Оружия Слот
 §5Slaying Mastery Tome Slot@§5Том Мастера Убийцы Слот
 §5Armour Mastery Tome Slot@§5Том Мастера Оружейника Слот
 §5Gathering Mastery Tome Slot@§5Том Мастера Собирателя Слот
 §5Dungeoneering Mastery Tome Slot@§5Том Мастера Данжей Слот
+§5Guild Mastery Tome Slot@§5Том Мастера Гильдий Слот
 §6Purchase a House@§6Купить Дом
 §6Go to your house@§6Перейти в свой дом
 §bJoin another player's house@§bПерейти к дому другого игрока
@@ -844,6 +848,113 @@
 §7Back to Compass@§7Назад в Компас
 §7Back to Use Menu@§7Назад в Меню Использований
 §eAvailable Pets@§eДоступные Питомцы
+§b§lTransfer Guild@§b§lПередача Гильдии
+§a§lInvite Member@§a§lПригласить Участника
+§d§lGuild Rewards@§d§lНаграды Гильдии
+§c§lKick Members@§c§lВыгнать Участников
+§cThere are no houses to join@§cНет доступных домов для посещения
+§7Ingredient Pouch@§7Мешок для ингредиентов
+§7Compass@§7Компасс
+§7Quest Book@§7Квестовая Книга
+§7Soul Points@§7Очки Душ
+§l§aConfirm@§l§aПодтвердить
+§l§cCancel@§l§cОтмена
+§aI have enough space!@§aУ меня достаточно места!
+§eTrade market was moved!@§eТрейд Маркет был переделан!
+§cBetter check first!@§cЛучше сначала проверить!
+§eClaim your items!@§eЗабрать свои предметы!
+§dDeposit all items in your Bank@§dОтправить все предметы в свой Банк
+§aDeposit all items in your Inventory@§aОтправить все предметы в свой Инвентарь
+§a§lAdd Ally@§a§lДобавить Союзника
+§c§lRemove Allies@§c§lУбрать Союзников
+§e§lSwitch Tab@§e§lСменить Вкладку
+§a§lNext Page@§a§lСледующая Страница
+§f§lFriendly@§f§lДружелюбы
+§f§lSocial@§f§lСоциалы
+§f§lWar Hungry@§f§lГолодные до Войны
+§f§lTraders@§f§lТорговцы
+§f§lPeace Keepers@§f§lМиротворцы
+§f§lSeafarring@§f§lМореплаватели
+§f§lTravelers@§f§lПутешественники
+§f§lGatekeepers@§f§lСторожа
+§f§lNomads@§f§lКочевники
+§f§lBloodthirsty@§f§lЖаждущие Крови
+§f§lMercenaries@§f§lНаемники
+§f§lBuilders of Empires@§f§lСтроители Империй
+§f§lKing Makers@§f§lВластители
+§f§lDesert Wanderers@§f§lСтранники Пустыни
+§f§lCanyon Ancients@§f§lСтарцы Каньона
+§f§lForgers of Stone@§f§lКузнецы Камня
+§f§lTrustworthy@§f§lБлагонадежные
+§f§lSky Conquerors@§f§lПокорители Неба
+§f§lLight Seekers@§f§lИскатели Света
+§f§lDark Seekers@§f§lИскатели Тьмы
+§f§lWorld Conquerors@§f§lЗавоеватели Мира
+§f§lArchitects@§f§lАрхитекторы
+§f§lArcheologist@§f§lАрхеологи
+§f§lDefenders@§f§lЗащитники
+§f§lSlayers@§f§lУбийцы
+§f§lBuild Makers@§f§lСтроители
+§f§lThe Gatherers@§f§lСобиратели
+§f§lTinkerers@§f§lЖестянщики
+§f§lIcy Guardians@§f§lЗащитники Льдов
+§f§lMolten Protecters@§f§lЗащитники Сплавов
+§f§lImperial@§f§lИмпериалы
+§f§lTitanic@§f§lТитаны
+§f§lAngels@§f§lАнгелы
+§f§lDemons@§f§lДемоны
+§f§lLunar@§f§lЛунатики
+§f§lSolar@§f§lСолнечники
+§f§lWrath of the Sea@§f§lГневители Моря
+§f§lKing of Kings@§f§lКороли Королей
+§f§lKnights@§f§lРыцари
+§f§lAlly of the Avos@§f§lСоюзники Авосов
+§f§lWarlords@§f§lПолководцы
+§f§lLE Addicts@§f§lLE Наркоманы
+§f§l⒠@ 
+§f§lMarket Flippers@§f§lМаркет Флипперы
+§f§lTheorists@§f§lТеоретики
+§2VIP Only Slot@§2VIP Слот
+§a§lComplete@§a§lЗавершить
+§fDeposit Items to Bank §d(5m)@§fОтправка предметов в банк §d(5м)
+§fSell Items §d(5m)@§fПродажа предметов §d(5м)
+§fScrap Items §d(5m)@§fУтилизация предметов §d(5м)
+§fRepair Items §d(15m)@§fПочинка предметов §d(15м)
+§7Click on an item to add@§7Нажми на предмет для добавления
+§cUnlock this slot when your pet reaches Lv. 64@§cРазблокируй этот слот когда твой питомец достигнет Ур. 64
+§cUnlock this slot when your pet reaches Lv. 72@§cРазблокируй этот слот когда твой питомец достигнет Ур. 72
+§aConfirm Task@§aПодтвердить Задачу
+§7Empty Backup Slot@§7Пустой Бэкап Слот
+§cCancel Booth@§cОтмена Палатки
+§c§lPrice Check@§c§lПроверка Цены
+§eExample@§eПример
+§7§lLoading@§7§lЗагрузка
+§7§lLoading.@§7§lЗагрузка.
+§7§lLoading..@§7§lЗагрузка..
+§7§lLoading...@§7§lЗагрузка...
+§fLobby 4@§fЛобби 4
+§fLobby 5@§fЛобби 5
+§eAvailable Totems@§eДоступные Тотемы
+§e§lNest of the GrootslangsÀ@§e§lГнездо Грутслангов
+§f§lAvos WorkshopÀ@§f§lМастерская Авосов
+§6Click to add to your inventory@§6Кликни для добавления в свой инвентарь
+§5HERO Only Slot@§5HERO Слот
+§e§lThe Canyon ColossusÀ@§e§lКолосс Каньона
+§l§aConfirm Activation@§l§aПодтвердить Активацию
+§eAvailable Bombs@§eДоступные Бомбы
+§aTell Poclo Mrs. Fluffles is alive.@§aСказать Покло, что Миссис Флаффлс жива.
+§cTell Poclo Mrs. Fluffles is dead.@§cСказать Покло, что Миссис Флаффлс мертва.
+§e§lMonument to SiegfriedÀ@§e§lМонумент Зигфрида
+§8Empty Cage@§8Пустая Клетка
+§5Captured Creature@§5Пойманное Создание
+§a§lÀEmeralds@§a§lЭмеральды
+§f§lÀOre@§f§lÀРуда
+§6§lÀWood@§6§lÀДревесина
+§b§lÀFish@§b§lÀРыба
+§e§lÀCrops@§e§lÀСемена
+§a§lSave Tributes@§a§lСохранение Даров
+§a§lSend Gift@§a§lОтравка Подарков
+§e§lOrphion's Nexus of LightÀ@§e§lНексус Света Орфиона
 
 ######################################SHOPS#################################################
 §aTribal Weapon Shop@§aМагазин Оружия Племени
@@ -946,6 +1057,10 @@
 §aMysterious Shop@§aЗагадочный Магазин
 §aMiner Pass Shop@§aМагазин Пропусков
 §aSiegfried Fan Shop@§aМагазин Сувениров Зигфрида
+§aConsumable Shop@§aМагазин Расходников
+§aConfectionary Shop@§aМагазин Кондитера 
+§aSouvenir T-Shirt Shop@§aМагазин Сувенирных Футболок
+§aPlatinum Dealer Shop@§aМагазин Платины
 
 ##########################################FILTERS#############################################
 §7§lAdd Crafted Items Only Filter@§7§lДобавить Фильтр "Крафтовые Предметы"
@@ -1142,6 +1257,8 @@
 §7§lRemove 4th Spell Cost Identification Only Filter@§7§lУбрать Фильтр "Цена 4-го Заклинания Идентификация"
 §7§lAdd Jump Height Identification Only Filter@§7§lДобавить Фильтр "Высота Прыжка Идентификация"
 §7§lRemove Jump Height Identification Only Filter@§7§lУбрать Фильтр "Высота Прыжка Идентификация"
+§7§lAdd Tome Type Only Filter@§7§lДобавить Фильтр "Тома"
+§7§lRemove Tome Type Only Filter@§7§lУбрать Фильтр "Тома"
 
 #######################################POTIONS#############################################
 §bPotion of Mana§3 [2/2]@§bЗелье Маны§3 [2/2]
@@ -1177,6 +1294,8 @@
 §fBlank Powder VI@§fПустой Порошок VI
 
 #################################SCROLLS/BOAT PASSES##############################################
+§bBucie Teleport Scroll@§bСвиток Телепортации в Бучи
+§bThanos Teleport Scroll@§bСвиток Телепортации в Танос
 §bCorkusÀÀÀCity Teleport ScrollÀ@§bСвиток Телепортации в Коркус Сити
 §bCorkusÀÀÀCity Teleport Scroll@§bСвиток Телепортации в Коркус Сити
 CorkusÀÀÀCity Teleportation Scroll@Свиток Телепортации в Коркус Сити
@@ -2026,6 +2145,7 @@ Haunted Mask@§fПроклятая Маска
 Az Rune@§fАз Руна
 §fAz Rune@§fАз Руна
 §fIron Cog Piece@§fЖелезный Кусок Шестеренки
+§fGolden Cog Piece@§fЗолотой Кусок Шестеренки
 §fSoul of Referick@§fДуша Реферика
 §fCastle Door 1@§fДверь Замка 1
 §fCastle Key 2@§fКлюч Замка 2
@@ -2036,117 +2156,246 @@ Az Rune@§fАз Руна
 §fVial of Blood@§fФлакон с кровью
 Iron Bars@Железные Прутья
 §7Water@§7Вода
+§fOrc Base Key 2@§fКлюч Базы Орков 2
+§fOrc Base Key 1@§fКлюч Базы Орков 1
+§fOrc Base Key 3@§fКлюч Базы Орков 3
+Acidic Sludge@§fКислотный Ил
+§fMechanical Reactor@§fМеханический Реактор
+§fSecond Floor Key@§fКлюч от Второго Этажа
+§fExplosive Chip@§fВзрывающийся Чип
+§fBurning Aura@§fГорящая Аура
+§fRusty Shovel@§fРжавая Лопата
+§fAncient Talisman@§fДревний Талисман
+§fCrystal Key@§fКристальный Ключ
+§fMining Explosive@§fШахтерская Взрывчатка
+§fSpider Egg@§fПаучье Яйцо
+§fCooked Spider Eggs@§fПриготовленные Паучьи Яйца
+§fMakeshift Parachute@§fСамодельный Парашют
+§fVaried Explosives@§fРазличные Взрывчатки
+§fQuartz Piece@§fКуоск Кварца
+§fLoose Rock@§fРыхлый Камень
+§fQuartron Core@§fЯдро Куартрона
+§fPiece of Gravel@§fКусок Гравия
+§fThe Emperor's Sceptre@§fСкипетр Императора
+§fFood Storage Key@§fКлюч от Хранилища Еды
+§fDeath Whistle@§fМертвый Свисток
+§fLlevigar's Dusty Clock@§fПыльные Часы Ллевигара
+§fAncient Urn@§fДревняя Урна
+§fNemract Whiskey@§fНемракт Виски
+§fRotten Oats@§fГнилой Овес
+§fElectroshard@§fЭлектро Осколок
+§fStrange Device@§fСтранное Устройство
+§f§lPower Armour@§f§lСиловая Броня
+§fDoor Key@§fКлюч от Двери
+§fCorkian Audience Invitation Letter@§fПригласительное Письмо на Аудиенцию
+§fMysterious Sword@§fЗагадочный Меч
+§fHay Sickle@§fСерп для Сена
+§fOddly-Shaped Key@§fКлюч Странной Формы
+§fKaroc's Cracked Clock@§fТреснувшие Часы Карока
+§fPurple Spores@§fФиолетовые Споры
+§fMechanic Outfit@§fМеханический Наряд
+§fDirty Clothes@§fГрязная Одежда
+§fEmerald-Encrusted Outfit@§fИнкрустированный Эмеральдом Наряд
+§fMedical Kit@§fАптечка
+§fOlux's Old Clock@§fСтарые Часы Олукса
+§fAzure Outfit@§fЛазурный Наряд
+§fRed Spores@§fКрасные Споры
+§fRusted Scythe@§fРжавая Мотыга
+§fSacrificial Head@§fЖертвенная Голова
+§fRuined Golem's Head@§fРазрушенная Голова Голема
+§fEfilim's Busted Clock@§fСломанные Часы Эфилима
+§fFired Dogun Tablet@§fОбожженная Табличка Догунов
+§fDwarven Axe@§fТопор Гномов
+§fCinfras' Abandoned Clock@§fЗаброшенные Часы Цинфраса
+§fCryptic Key@§fЗагадочный Ключ
+§fCinfras Souvenir T-ShirtÀ@§fСувенирная Футболка Цинфраса
+§fInmate Outfit@§fНаряд Заключенного
+§fOld Key@§fСтарый Ключ
+§fControl Room Key@§fКлюч от Диспетчерской
+§fSolitary Cell Key@§fКлюч Одиночной Камеры
+§fHeavy Book@§fТяжелая Книга
+§fCriminal Records@§fКриминальное Досье
+§fScattered Documents@§fРазбросанные Документы
+§fConfidential Documents@§fКонфиденциальные Документы
+§fMisplaced Documents@§fПотерянные документы
+§fCinfras Souvenir T-Shirt@§fСувенирная Футболка Цинфраса
+§fRusted Bucket@§fРжавое Ведро
+§fRusted Bucket of Growth@§fРжавое Ведро Роста
+§fFood@§fЕда
+§fBotanical Encyclopedia@§fБотаническая Энциклопедия
+§fCrypt Key@§fКлюч от Склепа
+§fMagical Tome@§fМагический Том
+§fLazarus Water@§fЛазарус Вода
+§fWedding Band@§fОбручальное Кольцо
+§fLost Dentures@§fПотерянные Протезы
+§fFire-Resistant Net@§fОгнеупорная Паутина
+§fBeating Stick@§fБьющая Палка
+§fChief Ceifko's Head@§fГолова Шефа Цейфко
+§fChief Veltu's Head@§fГолова Шефа Велту
+§fSoft Slime@§fМягкая Слизь
+§fStale Sandwich@§fНесвежий Бутерброд
+§fAncient Dogun Tablet@§fДревняя Табличка Догунов
+§fWell-Cushioned Boots@§fМягкие Сапоги
+§fSummoner's Soul@§fДуша Призывателя
+§fGavellian Passport@§fГавеллианский Паспорт
+§fBlue Spores@§fСиние Споры
+§fBluecap Mushroom@§fГриб с Синей Шляпкой
+§fStrange Coin@§fСтранная Монета
+§fFiery Remains@§fОгненные Останки
+§fBlazing Orb@§fПылающий Шар
+§fRusty Shovel@§fРжавая Лопата
+§fKindled Branch@§fЗажженная Ветка
+§fResurrected Head@§fВоскрешенная Голова
+§dBipedal Spring [1/1]@§dДвуногая Пружина [1/1]
+§eGrowth Accelerator Remote@§уПульт Ускорителя Роста
+§eRobot Jammer@§eГлушитель Роботов
+§aStaff of the Dark VexationsÀ@§aПосох Темного Огорчения
+Lost Key@Потерянный Ключ
+§eRegulating ChargeÀ@§eРегулирующий Заряд
+§aDodge CoreÀ@§aЯдро Уклонения
+§aOverload CoreÀ@§aЯдро Перегрузки
+§aDodge Core@§aЯдро Уклонения
+§aSynchro Core@§aЯдро Синхронизации
+§5Mysterious Egg@§5Загадочное Яйцо
+Lava Tank@Бак Лавы
+Basement Key@Ключ от Подвала
+Bottle of Water@Бутылка Воды
+Sack of Flour@Мешок Муки
+Lump of Dough@Кусок Теста
+Fresh-Baked Bread@Свежеиспеченный Хлеб
+§bIridescent Leaves@§bЛистья Иридески
+§5Purple Base@§5Фиолетовая Основа
+§6Orange Base@§6Оранжевая Основа
+§eYellow Base@§eЖелтая Основа
+§aGreen Base@§aЗеленая Основа
+§7Potato@§7Картошка
+§7Slimey Goo@§7Вязкая Слизь
+§7Burnt Steak@§7Подгоревший Стейк
+§7Sandwich@§7Бутерброд
+§7Plate@§7Тарелка
+§7Apple@§7Яблоко
+§7Wheat@§7Пшеница
+§7Quartz@§7Кварц
+§7Sky wood@§7Древесина Лиственницы
+§7Pumpkin@§7Тыква
+§7Dragonling EggÀ@§7Яйцо Драгонлинга
+Golem Command Chip@Командный Чип Голема
+Quartron's Eye@Глаз Куартрона
+§aEmerald Blocks [2000²]@§aБлоки Эмеральдов [2000²]
+Map Piece@Кусок Карты
+Map PieceÀ@Кусок Карты
 
 ###################################CRATES####################################
 §e§lLoot Crate §6[Tier I]@§e§lЛут Контейнер §6[Уровень I]
 §d§lLoot Crate §5[Tier II]@§d§lЛут Контейнер §5[Уровень II]
 §b§lLoot Crate §3[Tier III]@§b§lЛут Контейнер §3[Уровень III]
+§5§lLoot Crate §5[Tier IV]@§5§lЛут Контейнер §5[Уровень IV]
 §e§lDaily Loot Crate §6[Tier I]@§e§lЕжедневный Лут Контейнер §6[Уровень I]
 §d§lDaily Loot Crate §5[Tier II]@§d§lЕжедневный Лут Контейнер §5[Уровень II]
-§dCandle Staff@§dОружие Свеча
-§6Banana Sword@§6Меч Банан
-§fMob Totem@§fМоб Тотем
-§fCombat XP Bomb@§fКомбат XP Бомба
-§fProfession XP Bomb@§fПрофессии XP Бомба
-§6Hand Cannon@§6Ручная Пушка
-§fFire Attack Effect@§fЭффект Атаки Огня
-§fLetter Attack Effect@§fЭффект Атаки Букв
-§fCloud Attack Effect@§fЭффект Атаки Облака
-§fWet Drip Effect@§fЭффект Мокрых Капель
-§dLetter Swirl Effect@§dЭффект Водоворота Букв
-§fEmerald Attack Effect@§fЭффект Атаки Эмеральда
-§fSpark Attack Effect@§fЭффект Атаки Искр
-§fFire Swirl Effect@§fЭффект Круговорота Огня
-§cDemon Wings Effect@§cЭффект Крыльев Демона
-§dWater Effect@§dЭффект Воды
-§dAir Aura Effect@§dЭффект Ауры Воздуха
-§dThunder Effect@§dЭффект Грома
-§fSlime Effect@§fЭффект Слайма
-§fSmoke Swirl Effect@§fЭффект Круговорота Дыма
-§fMagic Swirl Effect@§fЭффект Магического Круговорота
-§dMusic Swirl Effect@§dЭффект Круговорота Музыки
-§fWitch Brew Effect@§fЭффект Зелья Ведьмы
-§dLava Attack Effect@§dЭффект Атаки Лавы
-§dEarth Effect@§dЭффект Земли
-§6Storm Effect@§6Эффект Шторма
-§dHeart Swirl Effect@§dЭффект Круговорота Сердец
-§dTornado Effect@§dЭффект Торнадо
-§cOzoth Effect@§cOzoth Эффект
-§6Ripple Effect@§6Эффект Пульсации
-§6Floating Fairy Effect@§6Эффект Плавающей Феи
-§fRedstone Swirl Effect@§fЭффект Редстоун Круговорта
-§fCloud Swirl Effect@§fЭффект Круговорота Облаков
-§fPotion Swirl Effect@§fЭффект Вихря Зелий
-§fEmerald Swirl Effect@§fЭффект Эмеральдного Вихря
-§6Bovemist Effect@§6Эффект Бовемиста
-§6Anti-Bovemist Effect@§6Анти-Бовемист Эффект
-§cKing Effect@§cЭффект Короля
-§cAngels Wings Effect@§cЭффект Крыльев Ангела
-§cPhoenix Wings Effect@§cЭффект Крыльев Феникса
-§cFairy Wings Effect@Эффект Крыльев Феи
-§cLake Gylia Effect@§cЭффект Озера Гилия
-§6Pentagram Effect@§6Эффект Пентаграммы
-§cBone Wings Effect@§cЭффект Костлявых Крыльев
-§4Amadel Effect@§4Эффект Амаделя
-§fSheep Disguise@§fМаскировка в Овцу
-§fChicken Disguise@§fМаскировка в Курицу
-§fPig Disguise@§fМаскировка в Свинью
-§fCow Disguise@§fМаскировка в Корову
-§dCreeper Disguise@§dКрипер Маскировка
-§dPigman Disguise@§dПигмен Маскировка
-§dZombie Disguise@§dЗомби Маскировка 
-§fItem Bomb@§fПредметная Бомба
-§4Adventurer's Hat@§4Шапка Путешественника
-§dFrying Pan@§dСковорода
-§cPhoenix Dagger@§cКинжал Феникса
-§cPhoenix Spear@§cКопье Феникса
-§cPhoenix Wand@§cПосох Феникса
-§cPhoenix Bow@§cЛук Феникса
-§cPhoenix Relik@§cРелик Феникса
-§6Fellowship Wooden Wand@§6Деревянный Посох Дружбы
-§6Fellowship Dagger@§6Кинжал Дружбы
-§6Fellowship Dark Wand@§6Темный Посох Дружбы
-§6Fellowship Bow@§6Лук Дружбы
-§6Fellowship Relik@§6Релик Дружбы
-§6Golden Dagger@§6Золотой Кинжал
-§6Golden Wand@§6Золотой Посох
-§6Golden Bow@§6Золотой Лук
-§6Golden Spear@§6Золотое Копье
-§6Golden Relik@§6Золотой Релик
-§cDern Dagger@§cДерн Кинжал
-§cDern Bow@§cДерн Лук
-§cDern Spear@§cДерн Копье
-§cDern Wand@§cДерн Посох
-§cDern Relik@§cДерн Релик
-§6Pirate Spear@§6Пиратское Копье
-§6Pirate Wand@§6Пиратский Посох
-§6Pirate Hook@§6Пиратский Крюк
-§6Pirate Relik@§6Пиратский Релик
-§6Pirate Cannon@§6Пиратская Пушка
-§4Viking Helmet@§4Шлем Викинга
-§4Yahya's Fantasy@§4Фантазия Яхуи
-§dViolet Wybel Token@§dФиолетовый Вубел Жетон
-§fGray Wybel Token@§fСерый Вубел Жетон
-§fWhite Wybel Token@§fБелый Вубел Жетон
-§6Sky Blue Wybel Token@§6Голубой Вубел Жетон
-§fCream Wybel Token@§fКремовый Вубел Жетон
-§dMint Wybel Token@§dМятный Вубел Жетон
-§dPink Wybel Token@§dРозовый Вубел Жетон
-§6Chrome Cybel Token@§6Хромовый Кубел Жетон
-§fChocolate Wybel Token@§fШоколадный Вубел Жетон
-§cOrange Wybel Token@§cОранжевый Вубел Жетон
-§cOrange Cybel Token@§cОранжевый Кубел Жетон
-§6Bronze Cybel Token@§6Бронзовый Кубел Жетон
-§6Carbon Fiber Cybel Token@§6Карбоновый Кубел Жетон
-§6Sea Blue Wybel Token@§6Голубой Вубел Жетон
-§4Angel Wybel Token@§4Ангел Вубел Жетон
-§4Rainbow Wybel Token@§4Радужный Вубел Жетон
-§4Dragon Wybel Token@§4Вубел Дракон Жетон
-§6Futuristic Bow@§6Футуристический Лук
-§6Futuristic Dagger@§6Футуристический Кинжал
-§6Futuristic Spear@§6Футуристическое Копье
-§6Futuristic Wand@§6Футуристический Посох
-§6Futuristic Relik@§6Футуристический Релик
+§dx1 Candle Staff@§dОружие Свеча
+§6x1 Banana Sword@§6Меч Банан
+§fx1 Mob Totem@§fМоб Тотем
+§fx1 Combat XP Bomb@§fКомбат XP Бомба
+§fx1 Profession XP Bomb@§fПрофессии XP Бомба
+§6x1 Hand Cannon@§6Ручная Пушка
+§fx1 Fire Attack Effect@§fЭффект Атаки Огня
+§fx1 Letter Attack Effect@§fЭффект Атаки Букв
+§fx1 Cloud Attack Effect@§fЭффект Атаки Облака
+§fx1 Wet Drip Effect@§fЭффект Мокрых Капель
+§dx1 Letter Swirl Effect@§dЭффект Водоворота Букв
+§fx1 Emerald Attack Effect@§fЭффект Атаки Эмеральда
+§fx1 Spark Attack Effect@§fЭффект Атаки Искр
+§fx1 Fire Swirl Effect@§fЭффект Круговорота Огня
+§cx1 Demon Wings Effect@§cЭффект Крыльев Демона
+§dx1 Water Effect@§dЭффект Воды
+§dx1 Air Aura Effect@§dЭффект Ауры Воздуха
+§dx1 Thunder Effect@§dЭффект Грома
+§fx1 Slime Effect@§fЭффект Слайма
+§fx1 Smoke Swirl Effect@§fЭффект Круговорота Дыма
+§fx1 Magic Swirl Effect@§fЭффект Магического Круговорота
+§dx1 Music Swirl Effect@§dЭффект Круговорота Музыки
+§fx1 Witch Brew Effect@§fЭффект Зелья Ведьмы
+§dx1 Lava Attack Effect@§dЭффект Атаки Лавы
+§dx1 Earth Effect@§dЭффект Земли
+§6x1 Storm Effect@§6Эффект Шторма
+§dx1 Heart Swirl Effect@§dЭффект Круговорота Сердец
+§dx1 Tornado Effect@§dЭффект Торнадо
+§cx1 Ozoth Effect@§cOzoth Эффект
+§6x1 Ripple Effect@§6Эффект Пульсации
+§6x1 Floating Fairy Effect@§6Эффект Плавающей Феи
+§fx1 Redstone Swirl Effect@§fЭффект Редстоун Круговорта
+§fx1 Cloud Swirl Effect@§fЭффект Круговорота Облаков
+§fx1 Potion Swirl Effect@§fЭффект Вихря Зелий
+§fx1 Emerald Swirl Effect@§fЭффект Эмеральдного Вихря
+§6x1 Bovemist Effect@§6Эффект Бовемиста
+§6x1 Anti-Bovemist Effect@§6Анти-Бовемист Эффект
+§cx1 King Effect@§cЭффект Короля
+§cx1 Angels Wings Effect@§cЭффект Крыльев Ангела
+§cx1 Phoenix Wings Effect@§cЭффект Крыльев Феникса
+§cx1 Fairy Wings Effect@Эффект Крыльев Феи
+§cx1 Lake Gylia Effect@§cЭффект Озера Гилия
+§6x1 Pentagram Effect@§6Эффект Пентаграммы
+§cx1 Bone Wings Effect@§cЭффект Костлявых Крыльев
+§4x1 Amadel Effect@§4Эффект Амаделя
+§fx1 Sheep Disguise@§fМаскировка в Овцу
+§fx1 Chicken Disguise@§fМаскировка в Курицу
+§fx1 Pig Disguise@§fМаскировка в Свинью
+§fx1 Cow Disguise@§fМаскировка в Корову
+§dx1 Creeper Disguise@§dКрипер Маскировка
+§dx1 Pigman Disguise@§dПигмен Маскировка
+§dx1 Zombie Disguise@§dЗомби Маскировка 
+§fx1 Item Bomb@§fПредметная Бомба
+§4x1 Adventurer's Hat@§4Шапка Путешественника
+§dx1 Frying Pan@§dСковорода
+§cx1 Phoenix Dagger@§cКинжал Феникса
+§cx1 Phoenix Spear@§cКопье Феникса
+§cx1 Phoenix Wand@§cПосох Феникса
+§cx1 Phoenix Bow@§cЛук Феникса
+§cx1 Phoenix Relik@§cРелик Феникса
+§6x1 Fellowship Wooden Wand@§6Деревянный Посох Дружбы
+§6x1 Fellowship Dagger@§6Кинжал Дружбы
+§6x1 Fellowship Dark Wand@§6Темный Посох Дружбы
+§6x1 Fellowship Bow@§6Лук Дружбы
+§6x1 Fellowship Relik@§6Релик Дружбы
+§6x1 Golden Dagger@§6Золотой Кинжал
+§6x1 Golden Wand@§6Золотой Посох
+§6x1 Golden Bow@§6Золотой Лук
+§6x1 Golden Spear@§6Золотое Копье
+§6x1 Golden Relik@§6Золотой Релик
+§cx1 Dern Dagger@§cДерн Кинжал
+§cx1 Dern Bow@§cДерн Лук
+§cx1 Dern Spear@§cДерн Копье
+§cx1 Dern Wand@§cДерн Посох
+§cx1 Dern Relik@§cДерн Релик
+§6x1 Pirate Spear@§6Пиратское Копье
+§6x1 Pirate Wand@§6Пиратский Посох
+§6x1 Pirate Hook@§6Пиратский Крюк
+§6x1 Pirate Relik@§6Пиратский Релик
+§6x1 Pirate Cannon@§6Пиратская Пушка
+§4x1 Viking Helmet@§4Шлем Викинга
+§4x1 Yahya's Fantasy@§4Фантазия Яхуи
+§dx1 Violet Wybel Token@§dФиолетовый Вубел Жетон
+§fx1 Gray Wybel Token@§fСерый Вубел Жетон
+§fx1 White Wybel Token@§fБелый Вубел Жетон
+§6x1 Sky Blue Wybel Token@§6Голубой Вубел Жетон
+§fx1 Cream Wybel Token@§fКремовый Вубел Жетон
+§dx1 Mint Wybel Token@§dМятный Вубел Жетон
+§dx1 Pink Wybel Token@§dРозовый Вубел Жетон
+§6x1 Chrome Cybel Token@§6Хромовый Кубел Жетон
+§fx1 Chocolate Wybel Token@§fШоколадный Вубел Жетон
+§cx1 Orange Wybel Token@§cОранжевый Вубел Жетон
+§cx1 Orange Cybel Token@§cОранжевый Кубел Жетон
+§6x1 Bronze Cybel Token@§6Бронзовый Кубел Жетон
+§6x1 Carbon Fiber Cybel Token@§6Карбоновый Кубел Жетон
+§6x1 Sea Blue Wybel Token@§6Голубой Вубел Жетон
+§4x1 Angel Wybel Token@§4Ангел Вубел Жетон
+§4x1 Rainbow Wybel Token@§4Радужный Вубел Жетон
+§4x1 Dragon Wybel Token@§4Вубел Дракон Жетон
+§6x1 Futuristic Bow@§6Футуристический Лук
+§6x1 Futuristic Dagger@§6Футуристический Кинжал
+§6x1 Futuristic Spear@§6Футуристическое Копье
+§6x1 Futuristic Wand@§6Футуристический Посох
+§6x1 Futuristic Relik@§6Футуристический Релик
 §aSpawn a Chocolate Wybel@§aЗаспавнить Шоколадного Вубеля
 §aSpawn Violet Wybel§7 [Violet Wybel]@§aЗаспавнить Фиолетового Вубеля §7 [Фиолетовый Вубел]
 §aSpawn Sky Blue Wybel§7 [Sky Blue Wybel]@§aЗаспавнить Голубого Вубеля §7 [Голубой Вубел]
@@ -2197,32 +2446,33 @@ Iron Bars@Железные Прутья
 §4Despawn your Demon Wybel@§4Деспавнить твоего Демонического Вубеля
 §4Despawn your Angel Wybel@§4Деспавнить твоего Вубеля Ангела
 §4Despawn your Rainbow Wybel@§4Деспавнить твоего Радужного Вубеля
-§dZombie Horse Cloak@§dЗомби Плащ Для Коня
-§6Skeleton Horse Cloak@§6Скелетон Плащ для Коня
-§6Half-Moon Bow@§6Полу-Месяц Лук
-§6Half-Moon Spear@§6Полу-Месяц Копье
-§6Half-Moon Wand@§6Посох Полу-Месяц
-§6Half-Moon Dagger@§6Полу-Месяц Кинжал
-§6Half-Moon Relik@§6Полу-Месяц Релик
-§6Corrupted Dagger@§6Испорченный Кинжал
-§6Corrupted Spear@§6Испорченное Копье
-§6Corrupted Wand@§6Испорченный Посох
-§6Corrupted Relik@§6Испорченный Релик
-§dFood Spear@§dШашлык Копье
-§dFood Bow@§dЛук Банан
-§dFood Dagger@§dКуриная Ножка Кинжал
-§dFood Wand@§dРыба-Меч Посох
-§dFood Relik@§dБрокколи Релик
-§dSteampunk Sword@§dСтимпанк Меч
-§dSteampunk Bow@§dСтимпанк Лук
-§dSteampunk Dagger@§dСтимпанк Кинжал
-§dSteampunk Wand@§dСтимпанк Посох
-§dSteampunk Relik@§dСтимпанк Релик
-§4Frosty Sword@§4Ледяной Меч
-§4Frosty Relik@§4Морозный Релик
-§4Frosty Bow@§4Морозный Лук
-§4Frosty Staff@§4Морозный Посох
-§4Frosty Spear@§4Морозное Копье
+§4Despawn your Singing Tiger@§4Деспавнить твоего Поющего Тигра
+§dx1 Zombie Horse Cloak@§dЗомби Плащ Для Коня
+§6x1 Skeleton Horse Cloak@§6Скелетон Плащ для Коня
+§6x1 Half-Moon Bow@§6Полу-Месяц Лук
+§6x1 Half-Moon Spear@§6Полу-Месяц Копье
+§6x1 Half-Moon Wand@§6Посох Полу-Месяц
+§6x1 Half-Moon Dagger@§6Полу-Месяц Кинжал
+§6x1 Half-Moon Relik@§6Полу-Месяц Релик
+§6x1 Corrupted Dagger@§6Испорченный Кинжал
+§6x1 Corrupted Spear@§6Испорченное Копье
+§6x1 Corrupted Wand@§6Испорченный Посох
+§6x1 Corrupted Relik@§6Испорченный Релик
+§dx1 Food Spear@§dШашлык Копье
+§dx1 Food Bow@§dЛук Банан
+§dx1 Food Dagger@§dКуриная Ножка Кинжал
+§dx1 Food Wand@§dРыба-Меч Посох
+§dx1 Food Relik@§dБрокколи Релик
+§dx1 Steampunk Sword@§dСтимпанк Меч
+§dx1 Steampunk Bow@§dСтимпанк Лук
+§dx1 Steampunk Dagger@§dСтимпанк Кинжал
+§dx1 Steampunk Wand@§dСтимпанк Посох
+§dx1 Steampunk Relik@§dСтимпанк Релик
+§4x1 Frosty Sword@§4Ледяной Меч
+§4x1 Frosty Relik@§4Морозный Релик
+§4x1 Frosty Bow@§4Морозный Лук
+§4x1 Frosty Staff@§4Морозный Посох
+§4x1 Frosty Spear@§4Морозное Копье
 §6x1 Pirate Hook@§6x1 Пиратский Крюк
 §6x1 Futuristic Dagger@§6x1 Футуристический Кинжал
 §6x1 Half-Moon Spear@§6x1 Копье Полу-Месяц
@@ -2230,6 +2480,17 @@ Iron Bars@Железные Прутья
 §6x1 Hand Cannon@§6x1 Ручная Пушка
 §dx1 Steampunk Bow@§6x1 Стимпанк Лук
 §fx6 Mob Totem@§fx6 Моб Тотемов
+§cx1 Flower Crown@§cx1 Цветочная Корона
+§4Dynasty Dagger@§4Кинжал Династии
+§4x1 Dynasty Dagger@§4x1 Кинжал Династии
+§4x1 Dynasty Hat@§4x1 Шляпа Династии
+§4x1 Dynasty Relik@§4x1 Релик Династии
+§fx1 Dungeon Bomb@§fx1 Данж Бомба
+§fx1 Shout Bomb@§fx1 Шаут Бомба
+§fx1 Party Bomb@§fx1 Пати Бомба
+§cx1 Nordic Dagger@§cx1 Скандинавский Кинжал
+§cx1 Nordic Crossbow@§cx1 Скандинавский Арбалет
+§cx1 Nordic Staff@§cx1 Скандинавский Посох
 §3Buy a §bChicken@§3Купить §bКурицу
 §3Buy a §bCow@§3Купить §bКорову
 §3Buy a §bPig@§3Купить §bСвинью
@@ -2450,6 +2711,38 @@ Dangling Elevator Rope@§fСвисающая Веревка
 Fresh Clay@§fСвежая Глина
 §7Toxic Mushroom@§7Токсичный Гриб
 §dMysterious Egg@§dЗагадочное Яйцо
+§fSiegfried Thank-You Ribbon@§fБлагодарственная Лента Зигфрида
+§cC§ar§ca§af§ct§am§ca§as §cG§ai§cf§at@§cC§ar§ca§af§ct§am§ca§as §cП§aо§cд§aа§cр§aо§cк
+§7Rat Tail@§7Хвост Крысы
+§cNimble Tome of Weapon Mastery I@§cТом Проворства Мастера Оружия I
+§cWarding Tome of Weapon Mastery I@§cТом Отражения Мастера Оружия I
+§cEarthbound Tome of Weapon Mastery I@§cТом Земли Мастера Оружия I
+§cCosmic Tome of Weapon Mastery I@§cТом Космоса Мастера Оружия I
+§cAthletic Tome of Weapon Mastery I@§cТом Атлета Мастера Оружия I
+§cMystical Tome of Weapon Mastery I@§cТом Мистики Мастера Оружия I
+§cVampiric Tome of Armour Mastery I@§cТом Вампира Мастера Брони I
+§cSorcerer's Tome of Armour Mastery I@§cТом Колдуна Мастера Брони I
+§cRetaliating Tome of Armour Mastery I@§cТом Отомщения Мастера Брони I
+§cWeightless Tome of Armour Mastery I@§cТом Невесомости Мастера Брони I
+§cGreedy Tome of Armour Mastery I@§cТом Жадности Мастера Брони I
+§cEverlasting Tome of Armour Mastery I@§cТом Вечности Мастера Брони I
+§cDestructive Tome of Armour Mastery I@§cТом Разрушения Мастера Брони I
+§bTome of Weapon Mastery I@§bТом Мастера Оружия I
+§bTome of Armour Mastery I@§bТом Мастера Брони I
+§bTome of Dungeoneering Mastery I@§bТом Мастера Данжей I
+§bTome of Slaying Mastery I@§bТом Мастера Убийств I
+§bCorkian Amplifier I@§bКоркианский Усилитель I
+§bCorkian Amplifier II@§bКоркианский Усилитель II
+§bCorkian Amplifier IÀ@§bКоркианский Усилитель I
+§bCorkian Amplifier IIÀ@§bКоркианский Усилитель II
+Corkian Amplifier 1À@§bКоркианский Усилитель I
+Corkian Amplifier 2À@§bКоркианский Усилитель II
+§cCharm of the Worm@§cАмулет Червя
+§eSpeed Surge [1/1]@§eСкачок Скорости [1/1]
+Broken Underworld Crypt Key@Разбитый Ключ от Подземного Склепа
+Broken Undergrowth Ruins Key@Разбитый Ключ от Заросших Руин 
+Broken Decrepit Sewers Key@Разбитый Ключ от Ветхой Канализации 
+Broken Lost Sanctuary Key@Разбитый Ключ от Затерянного Святилища
 Refined Copper Ingot 1@Переработанный Слиток Меди 1
 Refined Copper Ingot 2@Переработанный Слиток Меди 2
 Refined Copper Ingot 3@Переработанный Слиток Меди 3

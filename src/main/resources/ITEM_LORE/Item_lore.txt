@@ -224,6 +224,9 @@
 §7- Refined Millet String 2@§7- Переработанная Нить Просо 2
 §7- Refined Millet String 3@§7- Переработанная Нить Просо 3
 §7- Refined Pine Wood 2@§7- Переработанная Древесина Сосны 2
+§7- Refined Hemp String 3@§7- Переработанная Конопляная Нить 3
+§7- Refined Dernic Grains 1@§7- Переработанное Дерник Зерно 1
+§7- Refined Starfish Meat 1@§7- Переработанное Мясо Морской Звезды 1
 
 ###########################OTHERS###############################
 §7Currency@§7Валюта
@@ -239,6 +242,7 @@
 §7Throw a crazy party!@§7Закатить сумасшедшую вечеринку!
 §7Disguise everyone around you!@§7Замаскировать всех вокруг тебя!
 §7Rename your pets and horses@§7Переименовать твоих питомцев и лошадей
+§7Rename your pets@§7Переименовать твоих питомцев
 §7Open the buy pet menu@§7Открыть меню покупки питомцев
 §7Buy 5 loot bombs!@§7Купить 5 лут бомб!
 §7Buy 5 ingredient bombs!@§7Купить 5 ингредиент бомб!
@@ -267,6 +271,20 @@
 §esp§ki§ekes.@§esch§ki§epam.
 §7Illuminates@§7Освети
 §cPurchase Ended@§cПокупка Завершена 
+§74] at @§74] на 
+§7Use this while identifying or@§7Используй при идентификации или 
+§7re-rolling an item to increase@§7повторной идентификации предмета для повышения
+§7its ID rolls by §a10%@§7его показателей на §a10%
+§7its ID rolls by §a5%@§7его показателей на §a5%
+§7its ID rolls by §a15%@§7его показателей на §a15%
+§bLegendary Raid Reward@§bЛегендарная Рейд Награда
+§bLegendary Raid Reward [2]@§bЛегендарная Рейд Награда [2]
+§7§o"Awarded in recognition of@§7§o"Вручается в знак признания
+§7§ogiving 64² to thank Siegfried@§7§oдоната 64² для благодарности Зигфриду
+§7§oat the Cinfras Siegfried Monument."@§7§oу монумента Зигфрида в Цинфрасе."
+§7to your character when used.@§7на твоего персонажа при использовании.
+§7Keep in inventory to gain bonus@§7Держи в инвентаре для получения бонуса
+§cFabled Raid Reward@§cСказочная Рейд Награда
 
 ###############################QUEST ITEMS##################################
 §7Deliver Goods to:@§7Доставить товары на:
@@ -290,7 +308,7 @@
 §7Your house will be at the coordinates:@§7Ваш дом будет на координатах:
 §3[-732, 65, -974]@ 
 §7Signed,@§7Подпись,
-§7Carlos, Adviser for the King of Troms"@§7Карлос, Советник Короля Тромса"
+§7Andoni, Advisor for the King of Troms"@§7Андони, Советник Короля Тромса"
 §7§oWhen leaving the island, the real@§7§oКогда покинешь остров, настоящее
 §7§otreasure will be found, buried deep.@§7§oсокровище будет найдено, похоронено глубоко.
 §7This rusted old hook is useless to you.@§7Этот ржавый старый крюк бесполезен для тебя.
@@ -445,7 +463,8 @@
 §8This Ancient Guardian drops four yellow wool...@§88Этот Древний Защитник выронил четыре желтые шерсти...
 §8This Ancient Guardian drops three green wool...@§88Этот Древний Защитник выронил три зеленые шерсти...
 §8This Ancient Guardian drops two light blue wool...@§88Этот Древний Защитник выронил две светлоголубые шерсти...
-§7Despite the heat of the desert, it's cold as stone...@§7Несмотря на жару пустыни, он холоден как камень...
+§7Despite the heat of the desert,@§7Несмотря на жару пустыни,
+§7it's as cold as stone...@§7он холоден как камень...
 §8This sword looks out of place down here...@§8Этот меч выглядит здесь неуместно...
 §8This machete is perfect for cutting through cactus...@§8Это мачете идеально подходит для резки кактусов...
 §7þá hwa béon unmedome blódhræ@§7па хва беон унмедомк блодхра
@@ -556,6 +575,131 @@
 §7It'll be great to sew stuff out of.@§7Будет здорово сшить из нее что-нибудь.
 §7It's hot to the touch.@§7Он горячий на ощупь.
 §7It's an old, rusty pickaxe.@§7Это старая ржавая кирка.
+§7This shovel looks incredibly old...@§7Эта лопата выглядит невероятно старой...
+§7But it looks like it could still be used@§7Но похоже, что она все еще может быть использована
+§7to §bdig something up§7.@§7для §bкопания чего-то§7.
+§7There's some kind of inscription...@§7Есть какая-то надпись...
+§e§oThe chapel of our ancient order@§e§oЧасовня нашего ордена старинного
+§e§orests around the living wood.@§e§oпокоится вокруг живого леса равнинного.
+§e§oAs the roots grow ever deeper,@§e§oПо мере того, как корни в глубину растут,
+§e§oOur secrets lie safe with their keepers.@§e§oНаши секреты в безопасности хранители уберегут.
+§7- 3 Tonnes of Fresh Potatoes@§7- 3 Тонны Свежей Картошки
+§7- Post Due for Ahmsord@§7- Почта должна быть отправлена в Амсорд
+§7- 10,000 Emerald Blocks@§7- 10,000 Блоков Эмеральдов
+§7- 2 Pounds of Cannon Grade Gunpowder@§7- 2 Фунта Пушечного Пороха
+§7Maybe you can fill this up in@§7Может ты можешь заполнить это в
+§7the showers?@§7душе?
+§7You could probably distract@§7Вероятно ты сможешь отвлечь
+§7A guard with this..@§7охранника этим..
+§7The file's extremely heavy..@§7Папка очень тяжелая..
+§7The inside is filled to the brim with papers..@§7Внутри все до краев завалено бумагами..
+§7These papers include a list of exports@§7Эти бумаги включают в себя список экспорта 
+§7from the nearby Shiar.@§7из соседнего Шира.
+§7These papers include seem to be written@§7Эти бумаги кажется написанны в каком-то 
+§7in some kind of code. You see something@§7коде. Ты видишь что-то под названием 
+§7called the §bSol Embassy §7mentioned multiple times.@§7§bСолнечное Посольство§7 упоминается несколько раз.
+§7These papers include an entry from@§7В этих бумагах есть запись из 
+§7someone's personal diary.@§7чьего-то личного дневника.
+§7Someone else would probably@§7Кто-то другой, вероятно, 
+§7want this...@§7захотел бы этого...
+§7There is mention of 'Iridescent Leaves'@§7Здесь упоминаются "Листья Иридески"
+§7It's an empty bucket.@§7Это пустое ведро.
+§7A bucket filled with water@§7Ведро наполненное водой
+§7from the §eLazarus Pit§7.@§7из §eЛазарус Ямы§7.
+§7A simple wedding ring with@§7Простое свадебное кольцо с
+§7an encrusted jewel.@§7инкрустированным драгоценным камнем.
+§7This slime is very gooey and soft..@§7Эта слизь очень липкая и мягкая..
+§7It'd do a great job of cushioning falls.@§7Она отлично справится с амортизацией падений.
+§7Barely edible, but it should do the trick.@§7Едва ли съедобно, но должно сработать.
+§7The carvings on this tablet appear@§7Вырезы на этой табличке похоже
+§7to be Dogun made. What could they@§7были сделаны Догунами. Что они
+§7possibly mean?@§7могут значить?
+§7The soft spider slime on the soles@§7Мягкая паучья слизь на подошвах
+§7makes these perfect for a long fall.@§7делает их идеальными для долгого падения.
+§7Command: "Follow and Aid"@§7Команды: "Следовать и Помогать"
+§7Division: City of Olux@§7Дивизия: Город Олукс
+§7§oProvide chip to golem.@§7§oИспользовать чип в големе.
+§7§oAuthorized usage only.@§7§oТолько авторизованное использование.
+§7This seems unstable.@§7Это кажется нестабильным.
+§7You should show this to the Lexdale Mayor.@§7Ты должен показать это Мэру Лексдейла.
+§7Buy this doll to increase your@§7Покупка этой куклы повышает
+§7progress towards winning@§7твой шанс на успех в выигрыше
+§7§lSiegfried's Heros of Gavel Contest!@§7§lКонкурса Героя Гавела - Зигфрида!
+§7An odd-looking symbol is@§7На этой монете выгравирован 
+§7etched onto this coin:@§7странный символ:
+§7This is a rope.@§7Это веревка.
+§7This seems to have been abandoned a long time ago.@§7Похоже, от нее давным-давно отказались.
+§7Better be careful with it.@§7Лучше быть с ней поосторожнее.
+§7... They're spider eggs.@§7...Это паучьи яйца.
+§7This seems.. edible?@§7Они выглядят..съедобно?
+§7This should keep Siegfried safe from the fall.@§7Это должно уберечь Зигфрида от падения.
+§7Follow the clue: The airship @§7Следуй за подсказкой: Командиры 
+§7commanders love what they hate. @§7дирижаблей любят то, что они ненавидят.
+§7Right-Click to use@§7Правый Клик для исользования
+§4-§7 Duration:§f 15 seconds@§4-§7 Длительность:§f 15 секунд
+§4-§7 Cast Time:§f 3 seconds@§4-§7 Время Каста:§f 3 секунды
+§4-§7 Cooldown:§f 15 seconds@§4-§7 Задержка:§f 15 секунд
+§e- §7Combat Lv. Min: 91@§e- §7Комбат Ур. Мин: 91
+§e- §7Quest Req: The Feathers Fly Part I@§e- §7Квест Необ.: The Feathers Fly Part I
+§7This strange device is resonating@§7Этот странное устройство излучает
+§7with an unknown energy... Maybe it@§7неизвестную энергию... Может оно
+§7can open something?@§7может что-то открыть?
+§7Used to send pulses to trigger@§7Используется для отправки сигналов в
+§7the machine!@§7машину!
+§7Conveniently made for one task:@§7Удобно сделано для одной задачи:
+§7getting into Corkus City.@§7попасть в Коркус Сити
+§7Boosts the wearer's abilities.@§7Повышает способности носителя.
+§7What would happen with an Avo?@§7Что случится с Аво?
+§7It's very classy. All eyes on you!@§7Очень стильно. Все будут смотреть на вас!
+§7Just a normal key!@§7Просто обычный ключ!
+§4- §7Duration: §f3 minutes@§4- §7Длительность: §f3 минуты
+§7Grants §fSpeed II§7. Does not@§7Дает §fСкорость II§7. Не 
+§7stack with other Speed effects.@§7стакается с другими эффектами Скорости.
+§7Maybe this can move@§7Может это может подвинуть
+§7The haybales over there?@§7те стога сена вон там?
+§7The amazing quality of this fishing rod@§7Удивительное качество этой удочки 
+§7really does shine through!@§7действительно просвечивает насквозь!
+§7You have no idea what this is, but@§7Ты понятия не имеешь, что это но 
+§7it looks like it could be used for something.@§7похоже, что это может быть использовано для чего-то.
+§7§nCan be used with:@§7§nМожет быть использовано с:
+§c - §7Cannons@§c - §7Пушками
+§8 §8 §8 Throwing TNT in a machine@§8 §8 §8 Бросание динамита в машину
+§8 §8 §8 causes it to selfdestruct@§8 §8 §8 приведет ее к самоуничтожению
+§c - §7Catapult@§c - §7Катапультами
+§8 §8 §8 Can be used to destroy@§8 §8 §8 Может быть использовано для уничтожения
+§8 §8 §8 other war machines@§8 §8 §8 других боевых машин
+§8 §8 §8 §nNote§8: TNT is lighter than rock@§8 §8 §8 §nЗаметка§8: Динамит легче камня
+§8 §8 §8 §nNote§8: Rock is heavier than TNT@§8 §8 §8 §nЗаметка§8: Камень тяжелее чем динамит
+§7A very basic and fitting outfit.@§7Очень простой и подходящий наряд.
+§7Ava would blend well with this.@§7Ава будет хорошо сочетаться с ним.
+§7You should probably wash@§7Ты вероятно должен помыть
+§7them before giving those to@§7его прежде чем отдавать
+§7Ava!@§7Аве!
+§7This branch could probably be used@§7Эту ветку вероятно можно было бы использовать, 
+§7to ignite something nearby...@§7чтобы поджечь что-нибудь поблизости...
+§7This strange object appears to@§7Этот странный предмет, по-видимому, 
+§7have now been charged with water.@§7теперь был заряжен водой.
+§7I should return this skull to its body,@§7Я должен вернуть эту голову его телу,
+§7perhaps his grave is nearby...@§7возможно его могила где-то рядом...
+§7You can feel it moving...@§7Ты можешь почувствовать, как он движется...
+§7You're sure there's someone out there@§7Ты уверен, что есть кто-то, 
+§7who could find a use for this.@§7кто может найти этому применение.
+§7Lava appears to be coursing through@§7Лава кажется течет 
+§7the patterns. Could this open the@§7по узорам. Может ли это открыть 
+§7sealed door?@§7запечатанную дверь?
+§7This pot is inscribed in flawless Maexianese.@§7Этот горшок исписан на безупречном Маэксианском.
+§7It says it belongs to one "Maex Pottery Shop".@§7Написано что он принадлежит "Гончарному Магазину Маэкса".
+§7Perhaps its owner is still looking for it?@§7Может быть, владелец все еще ищет его?
+§7It seems to be from the Thanos Vault.@§7Кажется, это из хранилища Таноса. 
+§7Maybe it has a use somewhere there?@§7Может быть, он где-то там пригодится?
+§7Look's like it was made@§7Похоже, он был сделан, 
+§7to contain a small@§7чтобы содержать какое-то 
+§7creature of some sort.@§7маленькое существо.
+§8This was found nearby an Orc@§8Это было найдено неподалеку от Лагеря
+§8Camp. It looks like an attempt@§8Орков. Это похоже на попытку 
+§8to craft a weapon. Maybe@§8создать оружие. Может
+§8someone out there could use@§8быть, кому-то там это 
+§8this?@§8пригодится?
 
 #####################RECIPES################################
 §6§lRing Recipes:@§6§lРецепты Колец:
@@ -1163,10 +1307,18 @@
 §6 - §c✖ §430 Zhight Gold@§6 - §c✖ §430 Жигт Золота
 §6 - §c✖ §410 Zhight Gold@§6 - §c✖ §410 Жигт Золота
 §6 - §c✖ §415 Zhight Gold@§6 - §c✖ §415 Жигт Золота
+§6 - §c✖ §44 Zhight Gold@§6 - §c✖ §44 Жигт Золота
+§6 - §c✖ §43 Zhight Gold@§6 - §c✖ §43 Жигт Золота
+§6 - §c✖ §46 Zhight Gold@§6 - §c✖ §46 Жигт Золота
+§6 - §c✖ §464 Zhight Gold@§6 - §c✖ §464 Жигт Золота
 §6 - §a✔ §210 Zhight Gold@§6 - §a✔ §210 Жигт Золота
 §6 - §a✔ §220 Zhight Gold@§6 - §a✔ §220 Жигт Золота
 §6 - §a✔ §215 Zhight Gold@§6 - §a✔ §215 Жигт Золота
 §6 - §a✔ §230 Zhight Gold@§6 - §a✔ §230 Жигт Золота
+§6 - §a✔ §24 Zhight Gold@§6 - §a✔ §24 Жигт Золота
+§6 - §a✔ §23 Zhight Gold@§6 - §a✔ §23 Жигт Золота
+§6 - §a✔ §26 Zhight Gold@§6 - §a✔ §26 Жигт Золота
+§6 - §a✔ §264 Zhight Gold@§6 - §a✔ §264 Жигт Золота
 §6 - §a✔ §21 Dodegar's Ultimate Weapon@§6 - §a✔ §21 Смертельное Оружие Додегара
 §6 - §c✖ §41 Dodegar's Ultimate Weapon@§6 - §c✖ §41 Смертельное Оружие Додегара
 §6 - §a✔ §22 Charon's Brain@§6 - §a✔ §22 Мозга Харона
@@ -1199,6 +1351,20 @@
 §6 - §a✔ §21 Broken CorruptedÀÀÀSand-SweptÀÀÀTomb Key@§6 - §a✔ §21 Разбитый Испорченный Ключ от Песчаной Гробницы
 §6 - §a✔ §21 Broken CorruptedÀÀÀIceÀÀÀBarrows Key@§6 - §a✔ §21 Разбитый Испорченный Ключ от Ледяного Кургана 
 §6 - §a✔ §21 Broken CorruptedÀÀÀUndergrowthÀÀÀRuins Key@§6 - §a✔ §21 Разбитый Испорченный Ключ от Заросших Руин
+§6 - §c✖ §41 Broken Decrepit Sewers Key@§6 - §c✖ §41 Разбитый Ключ от Ветхой Канализации 
+§6 - §c✖ §41 Broken Infested Pit Key@§6 - §c✖ §41 Разбитый Ключ от Зараженной Ямы 
+§6 - §c✖ §41 Broken Lost Sanctuary Key@§6 - §c✖ §41 Разбитый Ключ от Затерянного Святилища 
+§6 - §c✖ §41 Broken Underworld Crypt Key@§6 - §c✖ §41 Разбитый Ключ от Подземного Склепа 
+§6 - §c✖ §41 Broken Sand-Swept Tomb Key@§6 - §c✖ §41 Разбитый Ключ от Песчаной Гробницы
+§6 - §c✖ §41 Broken Ice Barrows Key@§6 - §c✖ §41 Разбитый Ключ от Ледяного Кургана 
+§6 - §c✖ §41 Broken Undergrowth Ruins Key@§6 - §c✖ §41 Разбитый Ключ от Заросших Руин
+§6 - §a✔ §21 Broken Infested Pit Key@§6 - §a✔ §21 Разбитый Ключ от Зараженной Ямы 
+§6 - §a✔ §21 Broken Decrepit Sewers Key@§6 - §a✔ §21 Разбитый Ключ от Ветхой Канализации 
+§6 - §a✔ §21 Broken Lost Sanctuary Key@§6 - §a✔ §21 Разбитый Ключ от Затерянного Святилища 
+§6 - §a✔ §21 Broken Underworld Crypt Key@§6 - §a✔ §21 Разбитый Ключ от Подземного Склепа 
+§6 - §a✔ §21 Broken Ice Barrows Key@§6 - §a✔ §21 Разбитый Ключ от Ледяного Кургана 
+§6 - §a✔ §21 Broken Sand-Swept Tomb Key@§6 - §a✔ §21 Разбитый Ключ от Песчаной Гробницы
+§6 - §a✔ §21 Broken Undergrowth Ruins Key@§6 - §a✔ §21 Разбитый Ключ от Заросших Руин
 §6 - §c✖ §42 Nii Rune@§6 - §c✖ §42 Нии Руны
 §6 - §c✖ §43 Nii Rune@§6 - §c✖ §43 Нии Руны
 §6 - §c✖ §44 Nii Rune@§6 - §c✖ §44 Нии Руны
@@ -1445,31 +1611,6 @@
 §6 - §a✔ §21 Magical Book Voucher@§6 - §a✔ §21 Ваучер на Магическую Книгу
 §6 - §c✖ §41 Magical Book Voucher@§6 - §c✖ §41 Ваучер на Магическую Книгу
 §6 - §c✖ §41 Unknown Voucher@§6 - §c✖ §41 Неизвестный Ваучер
-§6- §c✖ §72x Gudgeon Oil or Meat@§6- §c✖ §72x Жира или Мяса Пескаря
-§6- §c✖ §72x Trout Oil or Meat@§6- §c✖ §72x Жира или Мяса Форели
-§6- §c✖ §72x Salmon Oil or Meat@§6- §c✖ §72x Жира или Мяса Лосося
-§6- §c✖ §72x Carp Oil or Meat@§6- §c✖ §72x Жира или Мяса Карпа
-§6- §c✖ §72x Icefish Oil or Meat@§6- §c✖ §72x Жира или Мяса Щуки
-§6- §c✖ §72x Piranha Oil or Meat@§6- §c✖ §72x Жира или Мяса Пираньи
-§6- §c✖ §72x Koi Oil or Meat@§6- §c✖ §72x Жира или Мяса Сазана
-§6- §c✖ §72x Starfish Oil or Meat@§6- §c✖ §72x Жира или Мяса Морской Звезды
-§6- §c✖ §72x Copper Ingots or Gems@§6- §c✖ §72x Слитка или Камня Меди
-§6- §c✖ §72x Granite Ingots or Gems@§6- §c✖ §72x Слитка или Камня Гранита
-§6- §c✖ §72x Gold Ingots or Gems@§6- §c✖ §72x Слитка или Камня Золота
-§6- §c✖ §72x Sandstone Ingots or Gems@§6- §c✖ §72x Слитка или Камня Песчаника
-§6- §c✖ §72x Iron Ingots or Gems@§6- §c✖ §72x Слитка или Камня Железа
-§6- §c✖ §72x Cobalt Ingots or Gems@§6- §c✖ §72x Слитка или Камня Кобальта
-§6- §c✖ §72x Kanderstone Ingots or Gems@§6- §c✖ §72x Слитка или Камня Кандерстоуна
-§6- §c✖ §72x Diamond Ingots or Gems@§6- §c✖ §72x Слитка или Камня Алмаза
-§6- §c✖ §72x Molten Ingots or Gems@§6- §c✖ §72x Слитка или Камня Молтена
-§6- §c✖ §72x Voidstone Ingots or Gems@§6- §c✖ §72x Слитка или Камня Войдстоуна
-§6- §c✖ §72x Dernic String or Grains@§6- §c✖ §72x Нити или Семян Дерник
-§6- §c✖ §72x Oak Wood or Papers@§6- §c✖ §72x Древесины или Бумаги Дуба
-§6- §c✖ §72x Birch Wood or Papers@§6- §c✖ §72x Древесины или Бумаги Березы
-§6- §c✖ §72x Acacia Wood or Papers@§6- §c✖ §72x Древесины или Бумаги Акации
-§6- §c✖ §72x Spruce Wood or Papers@§6- §c✖ §72x Древесины или Бумаги Ели
-§6- §c✖ §72x Jungle Wood or Papers@§6- §c✖ §72x Древесины или Бумаги Амаранта
-§6- §c✖ §72x Dark Wood or Papers@§6- §c✖ §72x Древесины или Бумаги Каштана
 
 #######################CLASSES/SPELLS###################
 §eCharacter Info:@§eИнфо о персонаже:
@@ -1758,6 +1899,9 @@
 §7You must have a §eCHAMPION@§7Ты должен иметь §eCHAMPION
 §7rank to use this feature.@§7ранг для использования этой функции.
 §7Get it at §fwynncraft.com/store@§7Купи ее на §fwynncraft.com/store
+§7by §7Wynncraft@§7от Wynncraft
+§7Original@§7Оригинал
+§7Get a higher rank@§7Купи высший ранг 
 
 ##########################ITEMS#########################
 §c✖§7 Class Req: Mage/Dark Wizard@§c✖§7 Класс Необ.: Маг/Темный Волшебник
@@ -1777,6 +1921,7 @@
 §cUntradable item@§cНепродаваемый предмет
 §cUntradeable@§cНепродаваемый
 §cUntrabable Item@§cНепродаваемый Предмет
+§cUntradeable Item@§cНепродаваемый Предмет
 §8Crafting Ingredient@§8Ингредиент для крафта
 §3Gathering Tool@§3Инструмент для Сбора
 §cUntradable@§cНепродаваемый
@@ -1804,12 +1949,6 @@
 §b   - §7Damage: +4% ❉ / Mana Used@§b   - §7Урон: +4% ❉ / Использованной Маны
 §b   - §7Damage: +2% ❉ / Mana Used@§b   - §7Урон: +2% ❉ / Использованной Маны
 §b   - §7Duration: 1 Sec. / Mana Used@§b   - §7Длительность: 1 Сек. / Использованной Маны
-§2   - §7Radius: 5.5 blocks@§2   - §7Радиус: 5.5 блоков
-§2   - §7Radius: 6 blocks@§2   - §7Радиус: 6 блоков
-§2   - §7Radius: 6.5 blocks@§2   - §7Радиус: 6.5 блоков
-§2   - §7Radius: 7 blocks@§2   - §7Радиус: 7 блоков
-§2   - §7Radius: 5 blocks@§2   - §7Радиус: 5 блоков
-§2   - §7Radius: 4.4 blocks@§2   - §7Радиус: 4.4 блока
 §e   - §7Chains: 8@§e   - §7Цепей: 8
 §e   - §7Chains: 9@§e   - §7Цепей: 9
 §e   - §7Chains: 7@§e   - §7Цепей: 7
@@ -1889,6 +2028,8 @@
 §7Teleports to: Gelibord@§7Телепорт в: Гелиборд
 §7Teleports to: Thesead@§7Телепортирует в: Тесеад
 §7Teleports to: Detlas@§7Телепорт в: §fДетлас
+§3- §7Teleports to: §fThanos@§3- §7Телепорт в: §fТанос
+§3- §7Teleports to: §fBucie@§3- §7Телепорт в: §fБучи
 §3- §7Teleports to: §fSelchar@§3- §7Телепорт в: §fСельчар
 §3- §7Teleports to: §fRagni@§3- §7Телепорт в: §fРагни
 §3- §7Teleports to: §fDetlas@§3- §7Телепорт в: §fДетлас
@@ -2093,6 +2234,7 @@
 §7 - §fRefined Rice Grains §7[Lv. 80]@§7 - §fПереработанное Рисовое Зерно §7[Ур. 80]
 §7Left-Click to change@§7Левый клик для смены
 §7Right-Click to set default*@§7Правый клик для установки по умолчанию*
+§7Right-Click to set your default*@§7Правый клик для установки по умолчанию*
 §6- §7Lv. 1-19 §8(+I - III)@§6- §7Ур. 1-19 §8(+I - III)
 §6- §fLv. 1-19 §7(+I - III)@§6- §fУр. 1-19 §7(+I - III)
 §6- §fLv. 1-19 §7(+I - III)§c*@§6- §fУр. 1-19 §7(+I - III)§c*
@@ -2386,6 +2528,7 @@
 §a- §7Type: §fBracelet@§a- §7Тип: §fБраслет
 §a- §7Type: §fRelik@§a- §7Тип: §fРелик
 §a- §7Type: §fCharm@§a- §7Тип: §fАмулет
+§a- §7Type: §fMastery Tome@§a- §7Тип: §fТом Мастера
 §c✖§a Left-Click §7to refine to:@§c✖§a Левый Клик §7для переработки на:
 §c✖§6 Right-Click §7to refine to:@§c✖§6 Правый Клик §7для переработки на:
 §7- §aA Hunter's Calling §l✔@ 
@@ -2418,6 +2561,7 @@
 §6- §a✔ §7Quest Req: Lost Royalty@§6- §a✔ §7Квест Необ.: Lost Royalty
 §6- §c✖ §7Quest Req: Lost Royalty@§6- §c✖ §7Квест Необ.: Lost Royalty
 §6- §a✔ §7Quest Req: Temple of the Legends@§6- §a✔ §7Квест Необ.: Temple of the Legends
+§6- §c✖ §7Quest Req: Temple of the Legends@§6- §c✖ §7Квест Необ.: Temple of the Legends
 §7You will be able to access it@§7Ты можешь получить доступ к нему
 §7at any time from the housing@§7в любое время через
 §7hot air balloons@§7воздушный шар
@@ -2427,7 +2571,7 @@
 §7can join them here@§7присоединиться к нему здесь
 §7This will move your house island@§7Это передвинет твой участок 
 §7Costs Ⓑ Mining Materials@§7Купи за Ⓑ Материалы Добычи Руд
-§7Cobblestone, Slabs,@§7Булыжники, плиты,
+§7Cobblestone, Slabs,@§7Булыжники, Плиты,
 §7Ores, Prismarine, etc.@§7Руды, Призмарин и т.д.
 §6Costs Ⓒ Woodcutting Material@§6Купи за Ⓒ Материалы Деревообработки
 §7Planks, Fences, Logs@§7Доски, Заборы, Бревна
@@ -2450,8 +2594,6 @@
 §fLeft-Click§7 to spawn and fight with you!@§fЛевый Клик§7 для спавна и сражения вместе с тобой!
 §6Right-Click§7 to give tasks.@§6Правый Клик§7 для выдачи задания.
 §5Next Upgrades:@§5Следующие Апгрейды:
-§5- §dHigher Pet Damage II§5 [Lv. 2]@§5- §dПовышенный Урон Питомцев II§5 [Ур. 2]
-§5- §dHigher Pet Damage III§5 [Lv. 3]@§5- §dПовышенный Урон Питомцев III§5 [Ур. 3]
 §7(You must have a §eCHAMPION§7 rank to@§7(Ты должен иметь §eCHAMPION§7 ранг для
 §7train your pets higher than level 20)@§7тренировки своих питомцев выше 20 уровня)
 §cLeft-Click§7 to despawn@§cЛевый Клик§7 для деспавна
@@ -2466,13 +2608,89 @@
 §7from Ragni to Ragni@§7Из Рагни в Рагни
 §7from Ragni to Nemract@§7Из Рагни в Немракт
 §7from Ragni to Nesaak@§7Из Рагни в Несаак
-§d§lRIGHT-CLICK TO TRACK@§d§lПРАВЫЙ КЛИК ДЛЯ ОТСЛЕЖИВАНИЯ
+§7Currently in Detlas@§7Сейчас в Детласе
+§7Currently in Nemract@§7Сейчас в Немракте
+§7Currently in Selchar@§7Сейчас в Сельчаре
+§7Currently in Legendary Island@§7Сейчас на Легендарном Острове
+§7Currently in Troms@§7Сейчас в Тромсе
+§7Currently in Almuj@§7Сейчас в Алмуже
+§7Currently in Cinfras@§7Сейчас в Цинфрасе
+§7Currently in Nesaak@§7Сейчас в Несааке
+§7Currently in Gelibord@§7Сейчас в Гелиборде
+§7Currently in Corkus City@§7Сейчас в Коркус Сити
 §7Click here to@§7Кликни здесь для
 §7scrap your rewards.@§7утилизации своих наград.
+§7Get more pets@§7Больше питомцев
+§7at our store.@§7в нашем магазине.
+§7Ask your friend to invite you@§7Попроси своих друзей пригласить тебя
+§7to their house or have them@§7в свой дом или пусть установят
+§7set it to public.@§7статус на публичный.
+§dThese blocks will be added into@§dЭти блоки будут добавлены в
+§dyour §5Block inventory§d or §5Chest@§dтвой §5Инвентарь блоков§d или §5Банк
+§7Click here to leave@§7Нажми здесь для выхода
+§7the current house.@§7из текущего дома.
+§7Click here close@§7Нажми здесь чтобы закрыть
+§7the menu.@§7это меню.
+§7We have changed the Trade Market@§7Мы изменили Трейд Маркет
+§7in this update! All previous items@§7в этом апдейте! Все предыдущие предметы
+§7were saved properly, but you must take@§7были сохранены, но ты должен забрать
+§7them out before acessing the new system.@§7их перед доступом к новой системе.
+§cMake sure you have enough@§cУбедись, что у тебя достаточно
+§cspace in your bank or inventory@§cместа в твоем банке или инвентаре
+§cbefore continuing.@§cпрежде чем продолжить.
+§6You can withdraw your items@§6Ты можешь забрать свои предметы
+§6in this menu.@§6в этом меню.
+§cClosing this will deposit@§cЗакрытие этого меню отправит
+§call left items in your bank@§cвсе оставшиеся предметы в твой банк
+§cWarning: §7If your inventory does not have enough space,@§cВнимание: §7Если в твоем инвентаре недостаточно места,
+§7your items will drop on the ground!@§7то твои предметы будут выброшены на землю!
+§c✖ §750/50 Slots@§c✖ §750/50 Слотов
+§7Up to 5 of your latest deleted@§75 твоих последних удаленных 
+§7classes will show up here.@§7классов будут показаны здесь.
+§3Get it at §bwynncraft.com/store@§3Купи на §bwynncraft.com/store
+§7Players: §b3@§7Игроков: §b3
+§7Players: §b2@§7Игроков: §b2
+§7Players: §b1@§7Игроков: §b1
+§7Min. Lv. - §640@§7Мин. Ур. - §640
+§eClick to Visit@§eНажми для Визита
+§7Send your pet back to town@§7Отправь своего питомца в город
+§7to deposit items to your bank.@§7чтобы положить предметы в банк.
+§7to sell certain items.@§7чтобы продать выбранные предметы.
+§7Emeralds will be added to your bank.@§7Эмеральды будут добавлены в твой банк.
+§7to scrap certain items.@§7чтобы утилизировать выбранные предметы.
+§7Scraps will be added to your bank.@§7Скрап будет добавлен в твой банк.
+§7to retrieve your tools@§7чтобы восстановить твои инструменты
+§7to repair your items.@§7чтобы починить твои предметы.
+§eCurrently completing task: Depositing Items@§eСейчас выполняет задачу: Отправка предметов в банк
+§c [Left-Click to restore]@§c [Левый Клик для восстановления]
+§7§nRight-Click§7 to apply your@§7§nПравый Клик§7 для применения твоего
+§bx1 Corkian Amplifier(s)@§bx1 Коркианского Усилителя
+§7This will cancel this booth. You will@§7Это отменит твою палатку. Ты не
+§7not be able to claim another booth@§7сможешь поставить еще одну палатку
+§7for §f20m§7 after canceling.@§7в течение §f20м§7 после отмены.
+§cSoulbound Item (Shaman)@§cПерсональный Предмет (Шаман)
+§cSoulbound Item (Shaman#1)@§cПерсональный Предмет (Шаман#1)
+§cSoulbound Item (Assassin)@§cПерсональный Предмет (Ассасин)
+§cSoulbound Item (Assassin#1)@§cПерсональный Предмет (Ассасин#1)
+§cSoulbound Item (Mage)@§cПерсональный Предмет (Маг)
+§cSoulbound Item (Mage#1)@§cПерсональный Предмет (Маг#1)
+§cSoulbound Item (Warrior)@§cПерсональный Предмет (Воин)
+§cSoulbound Item (Warrior#1)@§cПерсональный Предмет (Воин#1)
+§cSoulbound Item (Archer)@§cПерсональный Предмет (Лучник)
+§cSoulbound Item (Archer#1)@§cПерсональный Предмет (Лучник#1)
+§7There's no price information@§7Нет информации о цене
+§7about this item.@§7этого предмета.
+§7These are the calculated prices@§7Это расчитанные цены
+§7from the last 2 weeks.@§7за последние две недели.
 
 ##############################GUILDS#################################
+§3Rank: §bOwner@§3Ранг: §bВладелец
 §7Rank: §fOwner@§7Ранг: §fВладелец
-§7Rank: §fCaptain@§7Ранг: §fКапитан
+§3Rank: §bCaptain@§3Ранг: §bКапитан
+§3Rank: §bChief@§3Ранг: §bШеф
+§3Rank: §bRecruiter@§3Ранг: §bРекрутер
+§3Rank: §bRecruit@§3Ранг: §bРекрут
+§3Rank: §bStrategist@§3Ранг: §bСтратег
 §8Open guild management@§8Открыть управление гильдией
 §aCost (per hour):@§aЦена (в час):
 §7No owned territories@§7Нет территорий под контролем
@@ -2483,7 +2701,7 @@
 §8No tributes sent@§8Нет присланных приношений
 §7Left-Click to view allies@§7Левый Клик для просмотра альянсов
 §7You do not own any@§7У вас нет никаких 
-§7territories to view@территорий для просмотра
+§7territories to view@§7территорий для просмотра
 §7Territory Defences: §aVery Low@§7Защита Территорий: §aОчень Низкая
 §7Time to Start: §f2m@§7Время для Старта: §f2мин
 §7Territory Defences: §aLow@§7Защита Территорий: §aНизкая
@@ -2521,7 +2739,7 @@
 §7No guild badges@§7Нет значков гильдий
 §7Left-Click to view members@§7Левый Клик для просмотра участников
 §7Share items with other@§7Поделись предметами с другими
-§7players in the guild@§7игроками в гильдии
+§7players in the guild@§7игроками гильдии
 §eNo recent events@§eНет недавних событий
 §7View and change your@§7Просмотр и изменение вашего
 §7current guild banner@§7текущего баннера гильдии
@@ -2555,11 +2773,106 @@
 §fcreate your guild@§fсоздать свою гильдию
 §7Click here when done@§7Кликни здесь когда готов
 §7§c✖§f Lv. 3: §7+Guild Bank@§7§c✖§f Ур. 3: §7+Банк Гильдии
+§7§a§l✔§f Lv. 3: §7+Guild Bank@§7§a§l✔§f Ур. 3: §7+Банк Гильдии
 §7Right-Click to change badges@§7Правый Клик для изменения значка
 §7Reach guild level 3 to@§7Достигните 3 уровня гильдии для
 §7unlock the guild bank@§7открытия банка гильдии
 §7Left-Click to open editor@§7Левый Клик для открытия редактора
 §bNo recent events@§bНет недавних событий
+§eRecent Events:@§eНедавние события:
+§7Left-Click to open bank@§7Левый Клик для открытия банка
+§6Badges:@§6Значки:
+§6- §7Travelers@§6- §7Путешественники
+§7Left-Click to set rank@§7Левый Клик для выдачи ранга
+§7Click to transfer the@§7Кликни для передачи
+§7guild to another member@§7гильдии другому участнику
+§bYou will lose ownership@§bТы потеряешь права владельца
+§bafter a guild transfer@§bпосле передачи гильдии
+§7You do not have any@§7У вас нет доступных
+§7member slots available@§7слотов для участников
+§8Increase the guild level@§8Повышайте уровень гильдии
+§8to unlock more slots@§8для разблокировки слотов
+§7Owner and Chiefs can send@§7Владелец и Шефы могут отправлять
+§7these rewards to guild members@§7эти награды участникам гильдии
+§7Click to kick or uninvite@§7Кликни для кика/отзыва приглашения
+§7guild members or people@§7участника гильдии/игрока
+§8You must be Recruiter rank@§8Ты должен быть иметь ранг Рекрутер 
+§8or higher to kick@§8или выше для кика
+§7Click to add a new guild@§7Кликни для добавления нового альянса
+§7alliance by name or tag@§7гильдий по названию или тегу
+§7Click to remove any of@§7Кликни для разрыва любых
+§7your existing allies@§7существующих альянсов
+§7Next: §fHigh Ranked@§7Следующая: §fВысокоранговая
+§bStrategist§3 or higher is@§bСтратег§3 или выше имеет
+§b§3needed for this tab@§b§3доступ к этой вкладке
+§7Next: §fEveryone@§7Следующая: §fДля всех
+§bRecruit§3 or higher is@§bРекрут§3 или выше имеет
+§7Left-Click to add badge@§7Левый Клик для добавления значка
+§7Left-Click to remove badge@§7Левый Клик для удаления значка
+§7You must join a guild@§7Ты должен присоединиться к гильдии
+§7before viewing this menu@§7перед просмотром этого меню
+§8Find the Guild Master in@§8Найди Мастера Гильдий в
+§8Cinfras to create a guild@§8Цинфрасе для создания гильдии
+§7Pending invitation@§7Отправить приглашение
+§7Rank: §fStrategist@§7Ранг: §fСтратег
+§7Rank: §fRecruit@§7Ранг: §fРекрут
+§7Rank: §fChief@§7Ранг: §fШеф
+§7Rank: §fRecruiter@§7Ранг: §fРекрутер
+§7§c✖§f Lv. 70: §7+1 Guild Star@§7§c✖§f Ур. 70: §7+1 Звезда Гильдии
+§7§a§l✔§f Lv. 70: §7+1 Guild Star@§7§a§l✔§f Ур. 70: §7+1 Звезда Гильдии
+§7§c✖§f Lv. 40: §7+1 Guild Star@§7§c✖§f Ур. 40: §7+1 Звезда Гильдии
+§7§a§l✔§f Lv. 40: §7+1 Guild Star@§7§a§l✔§f Ур. 40: §7+1 Звезда Гильдии
+§7Click to add an invite@§7Кликни для приглашения
+§7a new guild member@§7нового участника гильдии
+§7No bonuses active@§7Нет активных бонусов
+§dUpgrades:@§dАпгрейды:
+§7Left-Click to view territory@§7Левый Клик для просмотра территории
+§7ally slots available@§7доступные слоты союзников
+§cYour resource pipeline is@§cВаша труба с ресурсами
+§cincomplete at §4Crater Descent@§cнезавершена в §4Crater Descent
+§aGuild Alliance:@§aАльянсы Гильдии:
+§bWaiting for reply@§bЖдет ответа
+§7Right-Click to cancel@§7Правый Клик для отмены
+§aPending Invites:@§aОтправленные Приглашения:
+§71 invite waiting reply@§71 приглашение ждет ответа
+§7Left-Click to accept@§7Левый Клик для принятия
+§7Right-Click to reject@§7Правый Клик для отклонения
+§8Sending no tributes@§8Нет отправленных даров
+§8Receiving no tributes@§8Нет полученных даров
+§7Left-Click to schedule tributes@§7Левый Клик для планирования даров
+§7Right-Click to gift resources@§7Правый клик для дарения ресурсов
+§7Shift Left-Click to clear tributes@§7Шифт + Левый Клик для очистки даров
+§a0 Emeralds@§a0 Эмеральдов
+§fⒷ 0 Ore@§fⒷ 0 Руды
+§6Ⓒ 0 Wood@§6Ⓒ 0 Древесины
+§6Ⓒ 1 Wood@§6Ⓒ 1 Древесина
+§bⓀ 0 Fish@§bⓀ 0 Рыбы
+§eⒿ 0 Crops@§eⒿ 0 Семян
+§7These resources will be@§7Эти ресурсы будут
+§7scheduled to send from@§7по расписанию отправляться из
+§7your headquarters@§7вашего штаба
+§aClick to save and clear@§aКликни для сохранения и очистки
+§aall outgoing tributes@§aвсех исходящих даров
+§8No trading route found@§8Торговые пути не найдены
+§8between headquarters@§8между штабами
+§7gifted to your ally@§7подаренные вашему союзнику
+§cYou must select at least@§cТы должен выбрать хотя бы
+§cone resource to gift@§cодин ресурс для дарения
+§a1 Emerald@§a1 Эмеральд
+§7§a-1 Emerald per Hour@§7§a-1 Эмеральд в Час
+§7Territory Defences: §cVery High@§7Защита Территорий: §cОчень Высокая
+§7Territory Defences: §cHigh@§7Защита Территорий: §cВысокая
+§7Territory Defences: §eMedium@§7Защита Территорий: §eСредняя
+§6- §7Mercenaries@§6- §7Наемники
+§6- §7Bloodthirsty@§6- §7Жаждущие Крови
+§6- §7Nomads@§6- §7Кочевники
+§6- §7World Conquerors@§6- §7Завоеватели Мира
+§6- §7Gatekeepers@§6- §7Сторожа
+§6- §7Friendly@§6- §7Дружелюбы
+§6- §7Builders of Empires@§6- §7Строители Империй
+§6- §7War Hungry@§6- §7Голодные до Войны
+§7§c✖§f Lv. 14: §7+High Ranked Bank@§7§c✖§f Ур. 14: §7+Банк для Высокоранговых
+§7§a§l✔§f Lv. 14: §7+High Ranked Bank@§7§a§l✔§f Ур. 14: §7+Банк для Высокоранговых
 
 ###############################CRATES##############################
 §dRare Reward@§dРедкая Награда
@@ -2660,6 +2973,13 @@
 §7as a helmet!@§7под шлем!
 §7Wait, it's the other@§7Погоди-ка, все
 §7way round!@§7наоборот!
+§7Click again to confirm@§7Кликни снова для подтверждения
+§7the pet activation.@§7активации питомца.
+§cThis action is irreversible!@§cЭто действие нельзя отменить!
+§7Get more bombs@§7Купи больше бомб
+§7as a flowery crown@§7под цветочную корону
+§7as a dynastic masterpiece@§7под династический шедевр
+§7as a nordic masterpiece@§7под нордический шедевр
 
 #########################UNIDENTIFIED##########################
 §e- §eUnidentified Spear@§e- §eНеидентифицированное Копье
@@ -2697,6 +3017,8 @@
 §e- §bUnidentified Dagger@§e- §bНеидентифицированный Кинжал
 §e- §aUnidentified Dagger@§e- §aНеидентифицированный Кинжал
 §7- §aUnidentified Dagger@§7- §aНеидентифицированный Кинжал
+§e- §cUnidentified Dagger@§e- §cНеидентифицированный Кинжал
+§7- §cUnidentified Dagger@§7- §cНеидентифицированный Кинжал
 §e- §eUnidentified Ring@§e- §eНеидентифицированное Кольцо
 §7- §eUnidentified Ring@§7- §eНеидентифицированное Кольцо
 §e- §dUnidentified Ring@§e- §dНеидентифицированное Кольцо

@@ -61,7 +61,26 @@ Wood Type Blocks@Деревянные Типы Блоков
 Cinfras Entrance@Вход в Цинфрас
 Cinfras Entrance: Guild Tower@Вход в Цинфрас: Башня Гильдии
 Create Guild@Создание Гильдии
-
+Attack Effects Menu@Меню Эффектов Атаки
+Player Effects Menu@Меню Эффектов Игрока
+Visit a House@Посещение Дома
+Nature Type Blocks@Природные Типы Блоков
+Do you want to leave?@Ты хочешь уйти?
+Warning!@Внимание!
+Claim Your Legacy Market Items!@Забери свои предметы с маркета!
+Trade Market@Трейд Маркет
+Bombs Menu@Меню Бомб
+Mob Totems Menu@Меню Моб Тотемов
+Disguises Menu@Меню Маскировок
+Gear Skins Menu@Меню Скинов
+§8Catch the Az rune!@§8Поймай Аз Руну!
+Choose what to tell Poclo.@Выбери что сказать Покло.
+Tribute Resources@Поднесение Ресурсов
+Gift Resources@Дарение Ресурсов
+Give a task to your pet@Дай задание своему питомцу
+Reward Chest@Сундук с Наградой
+§8§lClass Backups@§8§lБэкапы Классов
+Pet Task: Selling Items@Задача Питомца: Продажа Предметов
 
 ###############################PROFESSIONS#############################
 Fish Refinery@Переработка Рыбы
@@ -183,3 +202,7 @@ Boat Shop@Магазин Лодок
 Miner Pass Shop@Магазин Пропусков
 Siegfried Fan Shop@Магазин Сувениров Зигфрида
 Merchant Booth@Торговая Палатка
+Confectionary Shop@Магазин Кондитера 
+Souvenir T-Shirt Shop@Магазин Сувенирных Футболок
+Platinum Dealer Shop@Магазин Платины
+Consumable Shop@Магазин Расходников

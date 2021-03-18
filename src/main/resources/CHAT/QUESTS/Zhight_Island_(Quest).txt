@@ -56,3 +56,4 @@
 §7[1/1] §2Czytash: §aBoy, he sure is taking his time. He's got seawater for blood though, I'm sure he's making his way back.@§7[1/1] §2Кзыташ: §aМальчик, он наверняка не торопится. У него морская вода в крови, я уверен, что он еще вернется.
 §7[1/1] §2Zhight: §aI hate to turn away a customer like this, but you need to be Level 55 or higher to make a reservation here.@§7[1/1] §2Жигт: §aЯ ненавижу отказывать клиенту, как сейчас, но ты должен быть 55 уровня или выше, чтобы сделать бронь здесь.
 §7[1/1] §2Tirt: §aBoy, my dad sure is taking his time...@§7[1/1] §2Тирт: §aБоже, мой отец определенно не торопится...
+§7[1/1] §2Phief: §aHm? Are you going to look for my ship or not? It should still be stuck, due north of here.@§7[1/1] §2Пиф: §aХм? Ты собираешься искать мой корабль или нет? Он все еще должен застрять к северу отсюда.

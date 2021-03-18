@@ -6,7 +6,7 @@
 §3[a-zA-Z0-9_]{1,16} \[[A-Z0-9]+\] shouts:.*@ 
 §3[a-zA-Z0-9_]{1,16} shouts: .*@ 
 §3\[§3[^INFO][a-zA-Z0-9_]{1,16}\]§b .*@ 
-§3\[§b★{1,4}§3[a-zA-Z0-9_]{1,16}\]§b .*@ 
+§3\[§b★{1,5}§3(?:§o|)[a-zA-Z0-9_]{1,16}(?:§3|)\]§b .*@ 
 §c\[\+\d+ ❤\](.|)$@ 
 §[6b]- §f.*@ 
 §7\[\+\d+ XP\]@ 
@@ -27,7 +27,7 @@
 §3\[Parkour\] §bCongratulations! §3([a-zA-Z0-9_]{1,16})§b finished the parkour in §3([0-9\.]+) seconds§b!@§3[Паркур] §bПоздравляем! §3(r1)§b закончил паркур за §3(r2) секунд§b!
 §5Key Collector: §dYou do not yet have a high enough combat level to access this dungeon. Come back when you're at least combat level (\d+).@§5Сборщик Ключей: §dУ тебя недостаточный комбат уровень для доступа в этот данж. Возвращайся, когда будешь (r1) комбат уровня.
 §3\[Parkour\] §bYou completed §3Lv. (\d+)§b in §([0-9\.]+) seconds§b.@§3[Паркур] §bТы завершил §3Ур. (r1)§b за §(r2) секунд§b.
-§7\[(New |)Questline Started: (.*)\]@§7[Начата серия квестов: (r1)]
+§7\[(New |)Questline Started: (.*)\]@§7[Начата серия квестов: (r2)]
 §a§l\[Mini-Quest Started: (.*)\]@§a§l[Начат новый мини-квест: (r1)]
 §7\[You have received (\d+) soul points while you were offline\]@§7[Ты заработал (r1) очков душ, пока был не в сети]
 (§d[ ]+-(?: §7|§7 )\+(?:§f|)\d+(?:§7|))  ?Experience Points@(r1) Очков опыта
@@ -43,7 +43,7 @@
 §4You need (§c\d+§4) more levels before you can unlock this page of the bank@§4Тебе нужно еще (r1) уровней, прежде чем ты сможешь разблокировать эту страницу банка
 §5Item Identifier: §dI'm afraid you don't have enough emeralds in your inventory for that. It will cost (\d+) emeralds.$@§5Идентификатор Предметов: §dБоюсь, у тебя не хватает эмеральдов в инвентаре для этого. Это будет стоить §a(r1) эмеральдов
 §5Item Identifier: §dI'm afraid you don't have enough emeralds in your inventory for that. It will cost (\d+) emeralds for all (\d+) items.@§5Идентификатор Предметов: §dБоюсь у тебя недостаточно эмеральдов в инвентаре. Это будет стоить (r1) эмеральдов за все (r2) предмета.
-(§6[a-zA-Z0-9_]{1,16}) is now combat level (\d+)@(r1) достиг (r2) комбат уровня
+(§6(?:§o|)[a-zA-Z0-9_ ]{1,19}(?:§6|)) is now combat level (\d+)@(r1) достиг (r2) комбат уровня
 (§6[a-zA-Z0-9_]{1,16}§9) has won the duel!@(r1) выиграл дуэль!
 §4Did you mean (§c.*)\? §4If not, type \/help to see the commands!@§4Ты имел в виду (r1)? §4Если нет, напиши /help, чтобы увидеть список команд!
 (§4[a-zA-Z0-9_]{1,16}§c) is not currently online any Wynncraft servers....@(r1) сейчас ни на одном Wynncraft сервере...
@@ -53,7 +53,7 @@
 §7\[Begin Floor: Floor (\d+)\]@§7[Этаж Начат: Этаж (r1)]
 §a(\d+) quest items have been returned. $@§a(r1) квестовых предметов было возвращено.
 §a(\d+) quest items have been returned. There was not room for an additional (\d+) quest items.@§a(r1) квестовых предметов было возвращено. Не хватило места для (r2) квестовых предметов.
-(§c[a-zA-Z0-9_]{1,16}§4) is not online the Wynncraft network.@(r1) нет в сети Wynncraft.
+(§c[a-zA-Z0-9 \-_#]{1,16}§4) is not online the Wynncraft network.@(r1) нет в сети Wynncraft.
 §4You must complete the (§c[A-Za-z ]+§4) quest before you can use (§c[A-Za-z ]+).@§4Ты должен пройти (r1) квест, прежде чем использовать (r2).
 §4You cannot afford that! Removing powders from all items will cost (\d+)@§4Ты не можешь себе этого позволить! Удаление порошков из всех предметов будет стоить (r1)
 §4You cannot afford that! Adding these powders will cost (\d+)@§4Ты не можешь себе этого позволить! Добавление порошков на предмет будет стоить (r1)
@@ -76,7 +76,7 @@
 §dYou have sold (§7\d+§d) ingredients for a total of (§a\d+²§d.)@§dТы продал (r1) ингредиентов на сумму (r2)
 §7Are you sure you want to shout (.*)@§7Уверен, что хочешь отправить (r1)
 (§[e59])That player is not playing on your world (\([A-Z0-9]+\)!)@(r1)Этот игрок не играет в твоем мире (r2)
-(§e[a-zA-Z0-9_]{1,16}) has been added to your ignore list!@(r1) был добавлен в твой игнор лист!
+(§e[a-zA-Z0-9_#]{1,16}) has been added to your ignore list!@(r1) был добавлен в твой игнор лист!
 §4You need to wait ([0-9:]+)m to enable hunted.@§4Тебе нужно подождать (r1))м для переключения охотника.
 §cYou need (\d+) more gold coins.@§cТебе нужно еще (r1) золотых монет.
 (§e[a-zA-Z0-9_]{1,16}) has been removed from your ignore list!@(r1) был убран из твоего игнор листа!
@@ -96,35 +96,59 @@
 §2Your nickname has been set to (§a[a-zA-Z0-9_]{1,19})@§2Твой ник был изменен на (r1)
 §4Your character's class has been successfully changed to (§c[a-zA-Z]+)@§4Твой класс персонажа был успешно изменен на (r1)
 §6\[§e!§6\] §7You have selected the (§[c78][a-zA-Z]+ (?:I|II|III) §7)power up.@§6[§e!§6] §7Ты выбрал (r1)бонус.
-§6§nClick here to join ([a-zA-Z0-9_]{1,16})'s party.@§6§nНажми здесь, чтобы присоединиться к пати (r1).
+§6(?:§n|)Click here to join ([a-zA-Z0-9_]{1,16})(?:'s|'|) party.@§6§nНажми здесь, чтобы присоединиться к пати (r1).
+^[ ]+§aYour pet (\[[A-Za-z ]+\]) is now level (\d+)@                  §aТвой питомец (r1) достиг (r2) уровня
+§5Only (§d\d+) more level\(s\) §5until your pet earns §dHigher Pet Damage ([A-Z]+)@§5Еще (r1) уровня и §5твой питомец получит §dПовышенный Урон (r2)
+§5Key Collector: (§3[a-zA-Z0-9_]{1,16}§d) has already opened the entrance for the next (§3§n\d+§d) seconds, (§3\d+) uses§d left.@§5Сборщик Ключей: (r1) уже открыл вход на следующие (r2) секунд, (r3) использования§d осталось.
+§eThe player, '([a-zA-Z0-9_]{1,16})' is not playing on your world \(WC(\d+\)!)@§eИгрок (r1) не играет в твоем мире (Мир(r2)
+§7\+ Higher Pet Damage ([A-Z]+)@§7+ Повышенный Урон Питомцев (r1)
+§eYou just invited ([a-zA-Z0-9_]{1,16}) into your house.@§eТы пригласил (r1) в свой дом.
+§dYou have been invited to visit ([a-zA-Z0-9_]{1,16})'s house@§dТы был приглашен посетить дом (r1)
+§5§nClick here to visit ([a-zA-Z0-9_]{1,16})'s house.@§5§nНажми здесь для визита в дом (r1)
+§e([a-zA-Z0-9_]{1,16}) has left their house.@§e(r1) покинул твой дом.
+§eYou have successfully joined ([a-zA-Z0-9_]{1,16})'(s|) house.@§eТы успешно присоединился к дому (r1).
+§4You cannot pet ([A-Za-z0-9 _']+) until it has reached Lv. 24.@§4Ты не можешь погладить (r1) пока он не достигнет 24 Уровня
+§e\[Bomb Bell\] (§f[§A-Za-z _0-9]+) §7has thrown a §f(Profession Speed|Dungeon|Combat XP|Loot|Profession XP) Bomb §7on §fWC(\d+)@§e[Бомб Колокол] (r1) §7бросил §f(r2) бомбу §7в §f(\d+) мире
+(§b\[\d+\/7\]) §7Dungeon Runs complete.@(r1) §7Данжей пройдено.
+§bRight\-Click §7again to claim §7your reward for (§b\[\d+\/7\]) §7Dungeon Runs§7.@§7Нажми §bПравый Клик §7снова чтобы забрать свою награду за (r1) §7Пройденных Данжей§7.
+§4§l\[§c!§4§l\] §6Cut Siegfried down! §7\[Time remaining: (§a\d+) Seconds§7\]@§4§l[§c!§4§l] §6освободи Зигфрида! §7[Времени Осталось: (r1) Секунд§7]
+§6\[§e!§6\] §7The party's leader has left the server. The leadership has been transfered to ([a-zA-Z0-9_]{1,16}).@§6[§e!§6] §7Лидер пати покинул сервер. Права лидера были отданы (r1)
+^§7You pet (.*)@§7Ты погладид (r1)
+§4Your house is already in ([a-zA-Z \-]+)@§4Твой дом уже находится в (r1)
+§7You must kill (§b\d+) §7mobs and complete the dungeon for this run to count towards the Forgery Chest.@§7Ты должен убить (r1) §7мобов и пройти данж, чтобы это прохождение засчиталось в Сундук Кузницы.
+§cThis item is on cooldown! §4\((§6\d+)s§4\)@§cЭтот предмет перезаряжается! §4((r1)с§4)
+§eSuccessfully promoted ([a-zA-Z0-9_]{1,16}) to party leader!@§e(r1) успешно продвинут до лидера пати!
+§aYour pet name has been updated to §2(.*)@§aИмя твоего питомца было обновлено на §2(r1)
+§7Collect 10 tokens and hand them to the Floor Master \[Floor (\d+), Level (\d+)\]@§7Собери 10 жетонов и отдай их Мастеру Этажа [Этаж (r1), Уровень (r2)]
+§7Collect the boss token and hand it to the Floor Master \[Floor (\d+), Level (\d+)\]@§7Собери жетон босса и отдай его Мастеру Этажа [Этаж (r1), Уровень (r2)]
 
 #######################################PVP/DEATH######################################################
-(§6[a-zA-Z0-9_]{1,16}) was killed.@(r1) был убит.
-(§6[a-zA-Z0-9_]{1,16}) bit the dust.@(r1) превратился в пыль.
-(§6[a-zA-Z0-9_]{1,16}) has died.@(r1) умер.
-(§6[a-zA-Z0-9_]{1,16}) passed away.@(r1) скончался.
-(§6[a-zA-Z0-9_]{1,16}) has been slain.@(r1) был уничтожен.
-(§6[a-zA-Z0-9_]{1,16}) is six feet under.@(r1) на глубине шести футов.
-(§6[a-zA-Z0-9_]{1,16}) has perished.@(r1) погиб.
-(§6[a-zA-Z0-9_]{1,16}) kicked the bucket.@(r1) отбросил коньки.
-(§6[a-zA-Z0-9_]{1,16}) hit the ground too hard@(r1) сильно ударился об землю.
-(§6[a-zA-Z0-9_]{1,16}) met their fate.@(r1) встретил свою судьбу.
-(§6[a-zA-Z0-9_]{1,16}) met their demise.@(r1) встретил свою кончину.
+(§6(?:§o|)[a-zA-Z0-9_ ]{1,16})(?:§6|) was killed.@(r1) был убит.
+(§6(?:§o|)[a-zA-Z0-9_ ]{1,16})(?:§6|) bit the dust.@(r1) превратился в пыль.
+(§6(?:§o|)[a-zA-Z0-9_ ]{1,16})(?:§6|) has died.@(r1) умер.
+(§6(?:§o|)[a-zA-Z0-9_ ]{1,16})(?:§6|) passed away.@(r1) скончался.
+(§6(?:§o|)[a-zA-Z0-9_ ]{1,16})(?:§6|) has been slain.@(r1) был уничтожен.
+(§6(?:§o|)[a-zA-Z0-9_ ]{1,16})(?:§6|) is six feet under.@(r1) на глубине шести футов.
+(§6(?:§o|)[a-zA-Z0-9_ ]{1,16})(?:§6|) has perished.@(r1) погиб.
+(§6(?:§o|)[a-zA-Z0-9_ ]{1,16})(?:§6|) kicked the bucket.@(r1) отбросил коньки.
+(§6(?:§o|)[a-zA-Z0-9_ ]{1,16})(?:§6|) hit the ground too hard@(r1) сильно ударился об землю.
+(§6(?:§o|)[a-zA-Z0-9_ ]{1,16})(?:§6|) met their fate.@(r1) встретил свою судьбу.
+(§6(?:§o|)[a-zA-Z0-9_ ]{1,16})(?:§6|) met their demise.@(r1) встретил свою кончину.
 
 ####################################CONGRATULATIONS#############################################
-§8\[§7!§8\] §7Congratulations to (§f[a-zA-Z0-9_]{1,16}§7) for reaching §flevel (\d+) in §fⒾ§7 Woodworking§7!@§8[§7!§8] §7Поздравляем (r1) с достижением §f(r2) уровня в §fⒾ§7 Деревообработке§7!
-§8\[§7!§8\] §7Congratulations to (§f[a-zA-Z0-9_]{1,16}§7) for reaching §flevel (\d+) in §fⒷ§7 Mining§7!@§8[§7!§8] §7Поздравляем (r1) с достижением §f(r2) уровня в §fⒷ§7 Добыче Руды§7!
-§8\[§7!§8\] §7Congratulations to (§f[a-zA-Z0-9_]{1,16}§7) for reaching §flevel (\d+) in §fⒿ§7 Farming§7!@§8[§7!§8] §7Поздравляем (r1) с достижением §f(r2) уровня в §fⒿ§7 Земледелии§7!
-§8\[§7!§8\] §7Congratulations to (§f[a-zA-Z0-9_]{1,16}§7) for reaching §flevel (\d+) in §fⒸ§7 Woodcutting§7!@§8[§7!§8] §7Поздравляем (r1) с достижением §f(r2) уровня в §fⒸ§7 Лесорубстве§7!
-§8\[§7!§8\] §7Congratulations to (§f[a-zA-Z0-9_]{1,16}§7) for reaching §flevel (\d+) in §fⒹ§7 Jeweling§7!@§8[§7!§8] §7Поздравляем (r1) с достижением §f(r2) уровня в §fⒹ§7 Изготовлении Аксессуаров§7! 
-§8\[§7!§8\] §7Congratulations to (§f[a-zA-Z0-9_]{1,16}§7) for reaching §flevel (\d+) in §fⓁ§7 Alchemism§7!@§8[§7!§8] §7Поздравляем (r1) с достижением §f(r2) уровня в §fⓁ§7 Алхимии§7!
-§8\[§7!§8\] §7Congratulations to (§f[a-zA-Z0-9_]{1,16}§7) for reaching §flevel (\d+) in §fⓀ§7 Fishing§7!@§8[§7!§8] §7Поздравляем (r1) с достижением §f(r2) уровня в §fⓀ§7 Рыбалке§7!
-§8\[§7!§8\] §7Congratulations to (§f[a-zA-Z0-9_]{1,16}§7) for reaching §flevel (\d+) in §fⒽ§7 Armouring§7!@§8[§7!§8] §7Поздравляем (r1) с достижением §f(r2) уровня в §fⒽ§7 Изготовлении Брони§7! 
-§8\[§7!§8\] §7Congratulations to (§f[a-zA-Z0-9_]{1,16}§7) for reaching §flevel (\d+) in §fⒼ§7 Weaponsmithing§7!@§8[§7!§8] §7Поздравляем (r1) с достижением §f(r2) уровня в §fⒼ§7 Оружейном Деле§7!
-§8\[§7!§8\] §7Congratulations to (§f[a-zA-Z0-9_]{1,16}§7) for reaching §flevel (\d+) in §fⒶ§7 Cooking§7!@§8[§7!§8] §7Поздравляем (r1) с достижением §f(r2) уровня в §fⒶ§7 Кулинарии§7!
-§8\[§7!§8\] §7Congratulations to (§f[a-zA-Z0-9_]{1,16}§7) for reaching §flevel (\d+) in §fⒻ§7 Tailoring§7!@§8[§7!§8] §7Поздравляем (r1) с достижением §f(r2) уровня в §fⒻ§7 Портняжном Деле§7!
-§8\[§7!§8\] §7Congratulations to (§f[a-zA-Z0-9_]{1,16}§7) for reaching §flevel (\d+) in §fⒺ§7 Scribing§7!@§8[§7!§8] §7Поздравляем (r1) с достижением §f(r2) уровня в §fⒺ§7 Изготовлении Свитков§7! 
-§8\[§7!§8\] §7Congratulations to (§f[a-zA-Z0-9_]{1,16}§7) for reaching combat §flevel (\d+)§7!@§8[§7!§8] §7Поздравляем (r1) с достижением §f(r2) комбат уровня§7!
+§8\[§7!§8\] §7Congratulations to (§f[a-zA-Z0-9_ ]{1,19}§7) for reaching §flevel (\d+) in §fⒾ§7 Woodworking§7!@§8[§7!§8] §7Поздравляем (r1) с достижением §f(r2) уровня в §fⒾ§7 Деревообработке§7!
+§8\[§7!§8\] §7Congratulations to (§f[a-zA-Z0-9_ ]{1,19}§7) for reaching §flevel (\d+) in §fⒷ§7 Mining§7!@§8[§7!§8] §7Поздравляем (r1) с достижением §f(r2) уровня в §fⒷ§7 Добыче Руды§7!
+§8\[§7!§8\] §7Congratulations to (§f[a-zA-Z0-9_ ]{1,19}§7) for reaching §flevel (\d+) in §fⒿ§7 Farming§7!@§8[§7!§8] §7Поздравляем (r1) с достижением §f(r2) уровня в §fⒿ§7 Земледелии§7!
+§8\[§7!§8\] §7Congratulations to (§f[a-zA-Z0-9_ ]{1,19}§7) for reaching §flevel (\d+) in §fⒸ§7 Woodcutting§7!@§8[§7!§8] §7Поздравляем (r1) с достижением §f(r2) уровня в §fⒸ§7 Лесорубстве§7!
+§8\[§7!§8\] §7Congratulations to (§f[a-zA-Z0-9_ ]{1,19}§7) for reaching §flevel (\d+) in §fⒹ§7 Jeweling§7!@§8[§7!§8] §7Поздравляем (r1) с достижением §f(r2) уровня в §fⒹ§7 Изготовлении Аксессуаров§7! 
+§8\[§7!§8\] §7Congratulations to (§f[a-zA-Z0-9_ ]{1,19}§7) for reaching §flevel (\d+) in §fⓁ§7 Alchemism§7!@§8[§7!§8] §7Поздравляем (r1) с достижением §f(r2) уровня в §fⓁ§7 Алхимии§7!
+§8\[§7!§8\] §7Congratulations to (§f[a-zA-Z0-9_ ]{1,19}§7) for reaching §flevel (\d+) in §fⓀ§7 Fishing§7!@§8[§7!§8] §7Поздравляем (r1) с достижением §f(r2) уровня в §fⓀ§7 Рыбалке§7!
+§8\[§7!§8\] §7Congratulations to (§f[a-zA-Z0-9_ ]{1,19}§7) for reaching §flevel (\d+) in §fⒽ§7 Armouring§7!@§8[§7!§8] §7Поздравляем (r1) с достижением §f(r2) уровня в §fⒽ§7 Изготовлении Брони§7! 
+§8\[§7!§8\] §7Congratulations to (§f[a-zA-Z0-9_ ]{1,19}§7) for reaching §flevel (\d+) in §fⒼ§7 Weaponsmithing§7!@§8[§7!§8] §7Поздравляем (r1) с достижением §f(r2) уровня в §fⒼ§7 Оружейном Деле§7!
+§8\[§7!§8\] §7Congratulations to (§f[a-zA-Z0-9_ ]{1,19}§7) for reaching §flevel (\d+) in §fⒶ§7 Cooking§7!@§8[§7!§8] §7Поздравляем (r1) с достижением §f(r2) уровня в §fⒶ§7 Кулинарии§7!
+§8\[§7!§8\] §7Congratulations to (§f[a-zA-Z0-9_ ]{1,19}§7) for reaching §flevel (\d+) in §fⒻ§7 Tailoring§7!@§8[§7!§8] §7Поздравляем (r1) с достижением §f(r2) уровня в §fⒻ§7 Портняжном Деле§7!
+§8\[§7!§8\] §7Congratulations to (§f[a-zA-Z0-9_ ]{1,19}§7) for reaching §flevel (\d+) in §fⒺ§7 Scribing§7!@§8[§7!§8] §7Поздравляем (r1) с достижением §f(r2) уровня в §fⒺ§7 Изготовлении Свитков§7! 
+§8\[§7!§8\] §7Congratulations to (§f[a-zA-Z0-9_ ]{1,19}§7) for reaching combat §flevel (\d+)§7!@§8[§7!§8] §7Поздравляем (r1) с достижением §f(r2) комбат уровня§7!
 
 ########################################GUILD##################################################
 §3\[§3WAR\]§c §cLocals report an army is headed for (.*)@§3[§3WAR]§c §cРазведка сообщает, что армия надвигается на (r1)
@@ -140,6 +164,7 @@
 §3\[§3WAR\]§c §cThe war for (.*) is not responding.@§3[§3WAR]§c §cБитва за (r1) не отвечает.
 §3\[§3WAR\]§c §cThe war for (.*) will start in ([0-9]+) seconds.@§3[§3WAR]§c §cБитва за (r1) начнется через (r2) секунд.
 §3\[§3WAR\]§c §cThe war for (.*) will start in ([0-9]+) minutes.@§3[§3WAR]§c §cБитва за (r1) начнется через (r2) минут.
+(§3\[§3WAR\]§c §c\[[A-Z]+\]) captured the territory (.*)@(r1) захватила территорию (r2)
 ([ ]+)§fMost Damage Done: (§b[a-zA-Z0-9_]{1,16}) \((\d+)\)@(r1)§fБольше нанес урона: (r2) ((r3))
 ([ ]+)§fMost Damage Taken: (§b[a-zA-Z0-9_]{1,16}) \((\d+)\)@(r1)§fБольше получил урона: (r2) ((r3))
 ([ ]+)§fMost Damage Healed: (§b[a-zA-Z0-9_]{1,16}) \((\d+)\)@(r1)§fБольше урона вылечил: (r2) ((r3))
@@ -154,14 +179,38 @@
 §3\[§3INFO\]§b ([§a-zA-Z0-9_]{1,19}) has joined the guild! Say hello!@§3[ИНФО] §b(r1) присоединился к гильдии! Скажите привет!
 §3\[§3INFO\]§b ([§a-zA-Z0-9_]{1,19}) has kicked ([a-zA-Z0-9_]{1,16}) from the guild@§3[ИНФО] §b(r1) кикнул (r2) из гильдии
 §3\[§3INFO\]§b ([§a-zA-Z0-9_]{1,19}) changed the guild banner, costing (\d+) emeralds.@§3[ИНФО] §b(r1) изменил баннер гильдии, стоимость (r2) эмеральдов.
-§3\[§3INFO\]§b ([§a-zA-Z0-9_]{1,19}) has left the guild.@§3[ИНФО] §b(r1) вышел из гильдии.
+§3\[§3INFO\]§b ([§a-zA-Z0-9_]{1,19}) has left the guild@§3[ИНФО] §b(r1) вышел из гильдии.
 §3\[§3INFO\]§b ([§a-zA-Z0-9_]{1,19}) has disbanded the guild.@§3[ИНФО] §b(r1) расформировал гильдию.
+§3\[§3INFO\]§b ([§a-zA-Z0-9_]{1,19}) deposited (.*) to the Guild Bank \(High Ranked\)@§3[§3ИНФО]§b (r1) положил (r2) в Банк Гильдии (Для Высокоранговых)
+§3\[§3INFO\]§b ([§a-zA-Z0-9_]{1,19}) withdrew (.*) from the Guild Bank \(High Ranked\)@§3[§3ИНФО]§b (r1) забрал (r2) из Банка Гильдии (Для Высокоранговых)
+§3\[§3INFO\]§b ([§a-zA-Z0-9_]{1,19}) deposited (.*) to the Guild Bank \(Everyone\)@§3[§3ИНФО]§b (r1) положил (r2) в Банк Гильдии (Для Всех)
+§3\[§3INFO\]§b ([§a-zA-Z0-9_]{1,19}) withdrew (.*) from the Guild Bank \(Everyone\)@§3[§3ИНФО]§b (r1) забрал (r2) из Банка Гильдии (Для Всех)
+§3\[§3INFO\]§b ([§a-zA-Z0-9_]{1,19}) changed (\d+) upgrades on (.*)@§3[§3ИНФО]§b (r1) изменил (r2) апгрейда для (r3)
+§3\[§3INFO\]§b ([§a-zA-Z0-9_]{1,19}) changed (\d+) bonuses on (.*)@§3[§3ИНФО]§b (r1) изменил (r2) бонуса для (r3)
+§3\[§3INFO\]§b ([§a-zA-Z0-9_]{1,19}) set ([a-zA-Z\- ]+) upgrade to level (\d+) on (.*)@§3[§3ИНФО]§b (r1) установил (r2) апгрейд на (r3) уровень для (r4)
+§3\[§3INFO\]§b ([§a-zA-Z0-9_]{1,19}) removed ([a-zA-Z\- ]+) upgrade from (.*)@§3[§3ИНФО]§b (r1) убрал (r2) апгрейд для (r3)
+§3\[§3INFO\]§b ([§a-zA-Z0-9_]{1,19}) rejected the alliance with (.*)@§3[§3ИНФО]§b (r1) разорвал альянс с (r2)
+§3\[§3INFO\]§b ([§a-zA-Z0-9_]{1,19}) set ([a-zA-Z\- ]+) bonus to level (\d+) on (.*)@§3[§3ИНФО]§b (r1) установил (r2) бонус на (r3) уровень для (r4)
+§3\[§3INFO\]§b ([§a-zA-Z0-9_]{1,19}) removed ([a-zA-Z\- ]+) bonus from (.*)@§3[§3ИНФО]§b (r1) убрал (r2) бонус для (r3)
+§3\[§3INFO\]§b ([§a-zA-Z0-9_]{1,19}) removed the ([A-Za-z ]+) badge@§3[§3ИНФО]§b (r1) убрал (r2) значок
+§3\[§3INFO\]§b ([§a-zA-Z0-9_]{1,19}) added the ([A-Za-z ]+) badge@§3[§3ИНФО]§b (r1) добавил (r2) значок
+§3\[§3INFO\]§b ([§a-zA-Z0-9_]{1,19}) transferred ([a-zA-Z \-]+) to ([a-zA-Z ]+)@§3[§3ИНФО]§b (r1) передал (r2) гильдии (r3)
+§3\[§3INFO\]§b ([§a-zA-Z0-9_]{1,19}) changed the tax of ([a-zA-Z \-]+) to (\d+%)@§3[§3ИНФО]§b (r1) изменил налог для (r2) на (r3)
+§3\[§3INFO\]§b ([§a-zA-Z0-9_]{1,19}) changed the borders of ([a-zA-Z' \-]+) to (?:close|cheapest|open|fastest)@§3[§3ИНФО]§b (r1) изменил границы (r2) на (r3)
+§3\[§3INFO\]§b ([§a-zA-Z0-9_]{1,19}) changed the style of ([a-zA-Z' \-]+) to (?:close|cheapest|open|fastest)@§3[§3ИНФО]§b (r1) изменил границы (r2) на (r3)
+§3\[§3INFO\]§b ([§a-zA-Z0-9_]{1,19}) stopped scheduling (Emeralds|Crops|Ore|Wood|Fish) to (.*)@§3[§3ИНФО]§b (r1) перестал отправлять (r2) к (r3)
+§3\[§3INFO\]§b ([§a-zA-Z0-9_]{1,19}) scheduled ([0-9a-zA-Z ⒸⒷⓀⒿ]{1,12}) per hour to (.*)@§3[§3ИНФО]§b (r1) отправляет (r2) в час к (r3)
+§3\[§3INFO\]§b ([§a-zA-Z0-9_ ]{1,19}) sent ([a-zA-Z ]+) a request to be allied@§3[§3ИНФО]§b (r1) отправил (r2) запрос на альянс
+§3\[§3INFO\]§b ([§a-zA-Z0-9_ ]{1,19}) set the guild headquarters to (.*)@§3[§3ИНФО]§b (r1) поставил штаб квартиру в (r2)
+§3\[§3INFO\]§b ([§a-zA-Z0-9_]{1,19}) formed an alliance with ([a-zA-Z ]+)@§3[§3ИНФО]§b (r1) сформировал альянс с (r2)
+§3\[§3INFO\]§b ([§a-zA-Z0-9_]{1,19}) revoked the alliance with ([a-zA-Z ]+)@§3[§3ИНФО]§b (r1) аннулировал альянс с (r2)
+§3\[§3INFO\]§b ([§a-zA-Z0-9_]{1,19}) cancelled the invite to ([a-zA-Z ]+)@§3[§3ИНФО]§b (r1) отменил приглашение для (r2)
 ^§b( |)([a-zA-Z0-9_]{1,16}) has purchased (\d+) mobs for (.*), costing (\d+) emeralds.@§b(r2) купил (r3) мобов для (r4), заплатив (r5) эмеральдов.
 ^§b( |)([a-zA-Z0-9_]{1,16}) has invited ([a-zA-Z0-9_]{1,16}) to the guild.@§b(r2) пригласил (r3) в гильдию.
 ^§b( |)([a-zA-Z0-9_]{1,16}) has kicked ([a-zA-Z0-9_]{1,16}) from the guild@§b(r2) кикнул (r3) из гильдии
-^§b( |)([a-zA-Z0-9_]{1,16}) has set ([a-zA-Z0-9_]{1,16})'(s|) (guild|)rank from ([A-Za-z]+) to ([A-Za-z]+)@§b(r2) поменял ранг гильдии (r3) с (r6) на (r7)
+^§b( |)([a-zA-Z0-9_]{1,16}) has set ([a-zA-Z0-9_]{1,16})'(s|) (guild|) rank from ([A-Za-z]+) to ([A-Za-z]+)@§b(r2) поменял ранг гильдии (r3) с (r6) на (r7)
 ^§b( |)([a-zA-Z0-9_]{1,16}) has joined the guild! Say hello!@§b(r2) присоединился к гильдии! Скажите привет!
-^§b( |)([a-zA-Z0-9_]{1,16}) has left the guild.@§b(r2) вышел из гильдии.
+^§b( |)([a-zA-Z0-9_]{1,16}) has left the guild@§b(r2) вышел из гильдии.
 (§b.*§3) is not a member of the guild@(r1) не является участником гильдии
 (§[b6]#\d+§f) ([A-Za-z ]+§7) (\[[A-Za-z]+\]§8) - §7Level (\d+) (\([0-9\.]+[bkm] XP\)) §8- (§7\d+) members@(r1) (r2) (r3) - §7Уровень (r4) (r5) §8- (r6) участников
 §7Guild Since: (§f[0-9\/]+)@§7Дата основания: (r1)
@@ -190,23 +239,37 @@
 §3You will now contribute (§b\d+%§3) of your XP to (§b[A-Za-z ]+§3.)@§3Теперь ты вносишь (r1) от своих очков опыта в (r2)
 §bCongratulations! Your guild has gained control of (.*)@§bПоздравляем! Ваша гильдия взяла контроль над (r1)
 §4This territory is already in battle in the name of ([a-zA-z0-9 ]+.)@§4За эту территорию сейчас ведёт битву (r1)
-^(§b[ ]+[a-zA-Z]+) is now level (\d+)@(r1) достигла (r2) уровня
+^(§b[ ]+[a-zA-Z ]+) is now level (\d+)@(r1) достигла (r2) уровня
 §3You have left (§b[a-zA-Z ]+§3!)@§3Ты вышел из (r1)
 §bTo leave the guild (§e[a-zA-Z ]+§b) type 'confirm' \(or cancel\):@§bЧтобы выйти из гильдии (r1) напиши 'confirm' (или cancel):
+§bThe guild has lost the battle over ([A-Za-z \-]+). ([a-zA-Z ]+) was victorious!@§bГильдия проиграла битву за (r1). (r2) победили!
+§4This territory was just in a war! Please wait another (\d+) seconds before attacking.@§4За эту территорию только что была битва! Подожди (r1) секунд перед атакой.
+§7Total Members: (§f\d+§7) of (\d+)@§7Всего участников: (r1) из (r2)
+§4You were not invited \(or may have been uninvited\) to join (§c[A-Za-z]+)@§4Ты не был приглашен (или приглашение было отозвано) в (r1)
+(§b[§a-zA-Z0-9_]{1,19}) added the ([A-Za-z ]+) badge@(r1) добавил значок (r2)
+(§b[§a-zA-Z0-9_]{1,19}) removed the ([A-Za-z ]+) badge@(r1) убрал значок (r2)
+§4Be careful, this territory is also being attacked by ([a-zA-Z ]+!)@§4Осторожнее, эта территория также атакуется (r1)
+§bTo irreversibly transfer ownership of (§e[A-Za-z ]+§b) to (§e[§a-zA-Z0-9_]{1,19}§b) type 'confirm' (or cancel):@§bДля необратимого трансфера прав владельца (r1) к (r2) напиши 'confirm' (или cancel):
+§bTo irreversibly disband the guild (§e[A-Za-z ]+§b) type 'confirm' (or cancel):@§bДля необратимого роспуска гильдии (r1) напиши 'confirm' (или cancel):
+§eYou've successfully kicked ([§a-zA-Z0-9_]{1,19}) from your house.@§eТы успешно кикнул (r1) из своего дома.
+§3You cannot kick (§b[§a-zA-Z0-9_]{1,19})@§3Ты не можешь кикнуть (r1)
+§3You can not set the rank of (§b[§a-zA-Z0-9_]{1,19})@§3Ты не можешь выдать ранг (r1)
+(§c[a-zA-Z\- ]+) does not own a headquarters!@(r1) не имеет штаба! 
 
 #########################################CRATES################################################
-(§b[a-zA-Z0-9_]{1,16}§3) has disguised as a §bzombie§3!@(r1) замаскировался под §bзомби§3!
-(§b[a-zA-Z0-9_]{1,16}§3) has disguised as a §bsheep§3!@(r1) замаскировался под §bовцу§3!
-(§b[a-zA-Z0-9_]{1,16}§3) has disguised as a §bspider§3!@(r1) замаскировался под §bпаука§3!
-(§b[a-zA-Z0-9_]{1,16}§3) has disguised as a §bchicken§3!@(r1) замаскировался под §bкурицу§3!
-(§b[a-zA-Z0-9_]{1,16}§3) has disguised as a §bpig§3!@(r1) замаскировался под §bсвинью§3!
-(§b[a-zA-Z0-9_]{1,16}§3) has disguised as a §bcow§3!@(r1) замаскировался под §bкорову§3!
-(§b[a-zA-Z0-9_]{1,16}§3) has disguised as a §bcreeper§3!@(r1) замаскировался под §bкрипера§3!
-(§b[a-zA-Z0-9_]{1,16}§3) has disguised as a §bpigman§3!@(r1) замаскировался под §bпигмена§3!
+(§b(?:§o|)[a-zA-Z0-9_]{1,20}§3) has disguised as a §bzombie§3!@(r1) замаскировался под §bзомби§3!
+(§b(?:§o|)[a-zA-Z0-9_]{1,20}§3) has disguised as a §bsheep§3!@(r1) замаскировался под §bовцу§3!
+(§b(?:§o|)[a-zA-Z0-9_]{1,20}§3) has disguised as a §bspider§3!@(r1) замаскировался под §bпаука§3!
+(§b(?:§o|)[a-zA-Z0-9_]{1,20}§3) has disguised as a §bchicken§3!@(r1) замаскировался под §bкурицу§3!
+(§b(?:§o|)[a-zA-Z0-9_]{1,20}§3) has disguised as a §bpig§3!@(r1) замаскировался под §bсвинью§3!
+(§b(?:§o|)[a-zA-Z0-9_]{1,20}§3) has disguised as a §bcow§3!@(r1) замаскировался под §bкорову§3!
+(§b(?:§o|)[a-zA-Z0-9_]{1,20}§3) has disguised as a §bcreeper§3!@(r1) замаскировался под §bкрипера§3!
+(§b(?:§o|)[a-zA-Z0-9_]{1,20}§3) has disguised as a §bpigman§3!@(r1) замаскировался под §bпигмена§3!
 §cYou now have the ([A-Za-z ]+) effect.$@§cВыбран эффект (r1).
 §cYou now have the ([A-Za-z ]+).@§cВыбран (r1).
 §7You have set your weapon skin to ([A-Za-z\- ]+)@§7Ты установил на свое оружие (r1) скин
-(§7[a-zA-Z0-9_]{1,16}) has gotten a (.*§7) from their crate. Buy your own at §7wynncraft.com\/store@(r1) получил (r2) из своего контейнера. Купи свой собственный на §7wynncraft.com/store
+§7You have set your helmet skin to ([A-Za-z\- ]+)@§7Ты установил на свой шлем (r1) скин
+(§7(?:§o|)[a-zA-Z0-9_ ]{1,20})§7 has gotten a (.*§7) from their crate. Buy your own at §7wynncraft.com\/store@(r1) получил (r2) из своего контейнера. Купи свой собственный на §7wynncraft.com/store
 
 #########################################SPELLS#################################################
 §5Only (§d\d+) more combat level(|s)§5 until you earn the §dBomb spell@§5Еще (r1) комбат уровней§5 и ты изучишь §dзаклинание Бомба
@@ -374,65 +437,72 @@
 §7\+ New Tool §8\[Ⓙ Gathering Scythe T(\d+)\]@§7+ Новый Инструмент §8[Ⓙ Сборная Мотыга У(r1)]
 
 ######################################DISCOVERIES###############################################
-§d     -§7 Location: §fWynn Plains (\[[0-9\/]+\])@§d     -§7 Локация: §fРавнины Винн (r1)
-§d     -§7 Location: §fDesert (\[[0-9\/]+\])@§d     -§7 Локация: §fПустыня (r1)
-§d     -§7 Location: §fCorkus (\[[0-9\/]+\])@§d     -§7 Локация: §fКоркус (r1)
-§d     -§7 Location: §fSilent Expanse (\[[0-9\/]+\])@§d     -§7 Локация: §fТихое Пространство (r1)
-§d     -§7 Location: §fNesaak Tundra (\[[0-9\/]+\])@§d     -§7 Локация: §fНесаак Тундра (r1)
-§d     -§7 Discoveries Found: (§f\d+)@§d     -§7 Открытий Найдено: (r1)
 §4You seem to have found something interesting, but you cannot register this discovery until you are at least combat level (§c\d+)@§4Похоже ты нашел что-то интересное, но ты не можешь зарегистрировать это открытие, пока не будешь (r1)§4 комбат уровня.
-(^[ ]+§[67])Area Discovered: (§[ef][a-zA-Z -]+§d \(\+\d+ XP\))@(r1)Территория Открыта: (r2)
+(^(?:§f|)(?:[ ]+|)§[67])Area Discovered: (§[ef][a-zA-Z',\-֎ ]+§d \(\+\d+ XP\))@(r1)Территория Открыта: (r2)
+(^[ ]+§3)Secret Discovery: (§b[A-Za-z'0-9, ]+§d \(\+\d+ XP\))@(r1)Секретное Открытие: (r2)
+(^[ ]+§f)Wynn Plains (\[\d+\/\d+\])@(r1)Равнины Винн (r2)
+(^[ ]+§f)Nesaak Tundra (\[\d+\/\d+\])@(r1)Несаак Тундра (r2)
+(^[ ]+§f)Desert (\[\d+\/\d+\])@(r1)Пустыня (r2)
+(^[ ]+§f)Corkus (\[\d+\/\d+\])@(r1)Коркус (r2)
+(^[ ]+§f)Silent Expanse (\[\d+\/\d+\])@(r1)Тихое Пространство (r2)
+(^[ ]+§f)Light Forest (\[\d+\/\d+\])@(r1)Светлый Лес (r2)
+(^[ ]+§f)Gylia Plains (\[\d+\/\d+\])@(r1)Равнины Гилия (r2)
+(^[ ]+§f)Canyon of the Lost (\[\d+\/\d+\])@(r1)Каньон Потерянных (r2)
+(^[ ]+§f)Molten Heights (\[\d+\/\d+\])@(r1)Расплавленные Высоты (r2)
+(^[ ]+§f)Sky Islands (\[\d+\/\d+\])@(r1)Летающие Острова (r2)
+(^[ ]+§f)Dark Forest (\[\d+\/\d+\])@(r1)Темный Лес (r2)
+(^[ ]+§f)Olux Swamp (\[\d+\/\d+\])@(r1)Болото Олукса (r2)
+(^[ ]+§f)Llevigar Plains (\[\d+\/\d+\])@(r1)Равнины Ллевигара (r2)
 
 #######################################BOMBS####################################################
-(§b[a-zA-Z0-9_]{1,16}§3) has thrown a §bDungeon Bomb§3! Every dungeon entrance is free for the next §b10 minutes§3!@(r1) Бросил §bДанж Бомбу§3! Каждый вход в данж бесплатен на следующие §b10 минут§3!
-(§b[a-zA-Z0-9_]{1,16}§3) has thrown a §bCombat XP Bomb§3! The entire server gets §bdouble combat xp §3for §b20 minutes§3!@(r1) бросил §bКомбат XP бомбу§3! Весь сервер получает §bдвойной комбат xp §3на §b20 минут§3!
-(§b[a-zA-Z0-9_]{1,16}§3) has thrown a §bProfession Speed Bomb§3! The entire server gets §bdouble Crafting/Gathering Speed, and Resource respawn time/Crafting Resource requirements are halved §3for §b10 minutes§3!@(r1) бросил §bПрофессии Скорость Бомбу§3! Весь сервер получает §bудвоенную скорость на Крафт/Сбор, а также Время респавна ресурсов/Количество ресурсов для крафта уменьшилось вдвое §3на §b10 минут§3!
-(§b[a-zA-Z0-9_]{1,16}§3) has thrown a §bProfession XP Bomb§3! The entire server gets §bdouble profession xp §3for §b20 minutes§3!@(r1) бросил §bПрофессии XP бомбу§3! Весь сервер получает §bдвойной XP профессий §3на §b20 минут§3!
-(§b[a-zA-Z0-9_]{1,16}§3) has thrown a §bLoot Bomb§3! The entire server gets §bdouble loot §3for §b20 minutes§3!@(r1) бросил §bЛут бомбу§3! Весь сервер получает §bдвойной лут §3на §b20 минут§3!
-(§b[a-zA-Z0-9_]{1,16}§3) has thrown a §bParty Bomb§3! Enjoy the madness!@(r1) бросил §bПати Бомбу§3! Наслаждайся безумием!
-(§b[a-zA-Z0-9_]{1,16}§3)has thrown a§b Disguise Bomb §3at(§b[0-9 \-,]+§3!) It will explode in §b5 seconds§3!@(r1) бросил §bМаскировочную Бомбу §3на(r2) Она взорвется через §b5 секунд§3!
-(§b[a-zA-Z0-9_]{1,16}§3) has thrown an §bIngredient Bomb§3!@(r1) бросил §bИнгредиентную Бомбу§3!
-(§b[a-zA-Z0-9_]{1,16}§3) has thrown an §bItem Bomb§3!@(r1) бросил §bПредметную Бомбу§3!
-(§b[a-zA-Z0-9_]{1,16}§3) has used a §bSoul Point Bomb§3 and given you §b\[\+2 Soul Points\]@(r1) использовал §bОчки Душ Бомбу§3 и дал тебе §b[+2 Очка Душ]
-(§b[a-zA-Z0-9_]{1,16})'s §3bomb has expired. You can buy Combat XP bombs at our website, §bwynncraft.com\/store@§3Бомба от (r1) §3закончилась. Ты можешь купить Комбат XP бомбу на нашем сайте, §bwynncraft.com/store
-(§b[a-zA-Z0-9_]{1,16})'s §3bomb has expired. You can buy dungeon bombs at our website, §bwynncraft.com\/store@§3Бомба от (r1) §3закончилась. Ты можешь купить Данж бомбу на нашем сайте, §bwynncraft.com/store
-(§b[a-zA-Z0-9_]{1,16})'s §3bomb has expired. You can buy Profession Speed bombs at our website, §bwynncraft.com\/store@§3Бомба от (r1) §3закончилась. Ты можешь купить Скорость Профессий бомбу на нашем сайте, §bwynncraft.com/store
-(§b[a-zA-Z0-9_]{1,16})'s §3bomb has expired. You can buy Loot Bombs at our website, §bwynncraft.com\/store@§3Бомба от (r1) §3закончилась. Ты можешь купить Лут бомбу на нашем сайте, §bwynncraft.com/store
-(§b[a-zA-Z0-9_]{1,16})'s §3bomb has expired. You can buy Profession XP bombs at our website, §bwynncraft.com\/store@§3Бомба от (r1) §3закончилась. Ты можешь купить XP Профессий бомбу на нашем сайте, §bwynncraft.com/store
-(§b[a-zA-Z0-9_]{1,16})'s Party Bomb §3has run out! Visit §bwynncraft.com/store§b §3to get your own!@§3Пати Бомба от (r1) §3закончилась! Посети §bwynncraft.com/store§b §3чтобы купить свою!
-(§b[a-zA-Z0-9_]{1,16})'s Disguise Bomb §3has run out! Visit §bwynncraft.com\/store§b §3to get your own!@§bМаскировочная Бомба от (r1) §3закончилась! Посети §bwynncraft.com/store§b §3чтобы получить свою!
-(§7[a-zA-Z0-9_]{1,16}) said thank you for supporting Wynncraft!@(r1) сказал тебе спасибо за поддержку Wynncraft!
+(§b(?:§o|)[a-zA-Z0-9_ ]{1,19}§3) has thrown a §bDungeon Bomb§3! Every dungeon entrance is free for the next §b10 minutes§3!@(r1) Бросил §bДанж Бомбу§3! Каждый вход в данж бесплатен на следующие §b10 минут§3!
+(§b(?:§o|)[a-zA-Z0-9_ ]{1,19}§3) has thrown a §bCombat XP Bomb§3! The entire server gets §bdouble combat xp §3for §b20 minutes§3!@(r1) бросил §bКомбат XP бомбу§3! Весь сервер получает §bдвойной комбат xp §3на §b20 минут§3!
+(§b(?:§o|)[a-zA-Z0-9_ ]{1,19}§3) has thrown a §bProfession Speed Bomb§3! The entire server gets §bdouble Crafting/Gathering Speed, and Resource respawn time/Crafting Resource requirements are halved §3for §b10 minutes§3!@(r1) бросил §bПрофессии Скорость Бомбу§3! Весь сервер получает §bудвоенную скорость на Крафт/Сбор, а также Время респавна ресурсов/Количество ресурсов для крафта уменьшилось вдвое §3на §b10 минут§3!
+(§b(?:§o|)[a-zA-Z0-9_ ]{1,19}§3) has thrown a §bProfession XP Bomb§3! The entire server gets §bdouble profession xp §3for §b20 minutes§3!@(r1) бросил §bПрофессии XP бомбу§3! Весь сервер получает §bдвойной XP профессий §3на §b20 минут§3!
+(§b(?:§o|)[a-zA-Z0-9_ ]{1,19}§3) has thrown a §bLoot Bomb§3! The entire server gets §bdouble loot §3for §b20 minutes§3!@(r1) бросил §bЛут бомбу§3! Весь сервер получает §bдвойной лут §3на §b20 минут§3!
+(§b(?:§o|)[a-zA-Z0-9_ ]{1,19}§3) has thrown a §bParty Bomb§3! Enjoy the madness!@(r1) бросил §bПати Бомбу§3! Наслаждайся безумием!
+(§b(?:§o|)[a-zA-Z0-9_ ]{1,19}§3)has thrown a§b Disguise Bomb §3at(§b[0-9 \-,]+§3!) It will explode in §b5 seconds§3!@(r1) бросил §bМаскировочную Бомбу §3на(r2) Она взорвется через §b5 секунд§3!
+(§b(?:§o|)[a-zA-Z0-9_ ]{1,19}§3) has thrown an §bIngredient Bomb§3!@(r1) бросил §bИнгредиентную Бомбу§3!
+(§b(?:§o|)[a-zA-Z0-9_ ]{1,19}§3) has thrown an §bItem Bomb§3!@(r1) бросил §bПредметную Бомбу§3!
+(§b(?:§o|)[a-zA-Z0-9_ ]{1,19}§3) has used a §bSoul Point Bomb§3 and given you §b\[\+2 Soul Points\]@(r1) использовал §bОчки Душ Бомбу§3 и дал тебе §b[+2 Очка Душ]
+(§b(?:§o|)[a-zA-Z0-9_ ]{1,19}§b)'s §3bomb has expired. You can buy Combat XP bombs at our website, §bwynncraft.com\/store@§3Бомба от (r1) §3закончилась. Ты можешь купить Комбат XP бомбу на нашем сайте, §bwynncraft.com/store
+(§b(?:§o|)[a-zA-Z0-9_ ]{1,19}§b)'s §3bomb has expired. You can buy dungeon bombs at our website, §bwynncraft.com\/store@§3Бомба от (r1) §3закончилась. Ты можешь купить Данж бомбу на нашем сайте, §bwynncraft.com/store
+(§b(?:§o|)[a-zA-Z0-9_ ]{1,19}§b)'s §3bomb has expired. You can buy Profession Speed bombs at our website, §bwynncraft.com\/store@§3Бомба от (r1) §3закончилась. Ты можешь купить Скорость Профессий бомбу на нашем сайте, §bwynncraft.com/store
+(§b(?:§o|)[a-zA-Z0-9_ ]{1,19}§b)'s §3bomb has expired. You can buy Loot Bombs at our website, §bwynncraft.com\/store@§3Бомба от (r1) §3закончилась. Ты можешь купить Лут бомбу на нашем сайте, §bwynncraft.com/store
+(§b(?:§o|)[a-zA-Z0-9_ ]{1,19}§b)'s §3bomb has expired. You can buy Profession XP bombs at our website, §bwynncraft.com\/store@§3Бомба от (r1) §3закончилась. Ты можешь купить XP Профессий бомбу на нашем сайте, §bwynncraft.com/store
+(§b(?:§o|)[a-zA-Z0-9_ ]{1,19}§b)'s Party Bomb §3has run out! Visit §bwynncraft.com/store§b §3to get your own!@§3Пати Бомба от (r1) §3закончилась! Посети §bwynncraft.com/store§b §3чтобы купить свою!
+(§b(?:§o|)[a-zA-Z0-9_ ]{1,19}§b)'s Disguise Bomb §3has run out! Visit §bwynncraft.com\/store§b §3to get your own!@§bМаскировочная Бомба от (r1) §3закончилась! Посети §bwynncraft.com/store§b §3чтобы получить свою!
+(§7[a-zA-Z0-9_]{1,19}) said thank you for supporting Wynncraft!@(r1) сказал тебе спасибо за поддержку Wynncraft!
 §7You have thanked ([a-zA-Z0-9_]{1,16})@§7Ты поблагодарил (r1)
-§7Want to thank (§f[a-zA-Z0-9_]{1,16}§7\?) §b§nClick here to thank them!@§7Хочешь поблагодарить (r1) §b§nНажми сюда, чтобы поблагодарить!
-§7Want to thank (§f[a-zA-Z0-9_]{1,16}§7\?) §bClick here to thank them!@§7Хочешь поблагодарить (r1) §bНажми сюда, чтобы поблагодарить!
+§7Want to thank (§f(?:§o|)[a-zA-Z0-9_ ]{1,19}§7\?) §b(?:§n|)Click here to thank them!@§7Хочешь поблагодарить (r1) §b§nНажми сюда, чтобы поблагодарить!
 (§b[a-zA-Z0-9_]{1,16})'s Disguise Bomb§3 has exploded! You are now a (§b[A-Za-z]+.§3) Buy your own at§b §bwynncraft.com\/store§3!@§bМаскировочная Бомба (r1)§3 взорвалась! Ты стал (r2) Купи свою собственную на§b §bwynncraft.com/store§3!
-§3You are inside of (§b[a-zA-Z0-9_]{1,16})'s§3 mob totem. Get your own mob totems by buying a rank at §bwynncraft.com/store@§3Ты внутри (r1)§3 моб тотема. Получи свой моб тотем при покупке ранга на §bwynncraft.com/store
-(§b[a-zA-Z0-9_]{1,16}§3) has placed a mob totem at (§b[0-9 \-,]+§3!)$@(r1) поставил моб тотем на (r2)
-(§b[a-zA-Z0-9_]{1,16}§3) has placed a mob totem in (§b[A-Za-z \-]+) §3at (§b[0-9 \-,]+§3!)@(r1) поставил моб тотем в (r2) §3на (r3)
-(§3[a-zA-Z0-9_]{1,16})'s Mob Totem has run out. Get your own mob totems by buying a rank at §bwynncraft.com/store@(r1) Моб Тотем закончился. Получи свой собственный моб тотем при покупке ранга, на §bwynncraft.com/store
+§3You are inside of (§b(?:§o|)[a-zA-Z0-9_ ]{1,16})(?:§b|)'s§3 mob totem. Get your own mob totems by buying a rank at §bwynncraft.com/store@§3Ты внутри (r1)§3 моб тотема. Получи свой моб тотем при покупке ранга на §bwynncraft.com/store
+(§b(?:§o|)[a-zA-Z0-9_ ]{1,16}§3) has placed a mob totem at (§b[0-9 \-,']+§3!)$@(r1) поставил моб тотем на (r2)
+(§b(?:§o|)[a-zA-Z0-9_ ]{1,16}§3) has placed a mob totem in (§b[A-Za-z', \-]+) §3at (§b[0-9 \-,]+§3!)@(r1) поставил моб тотем в (r2) §3на (r3)
+(§3(?:§o|)[a-zA-Z0-9_ ]{1,16})'s Mob Totem has run out. Get your own mob totems by buying a rank at §bwynncraft.com/store@(r1) Моб Тотем закончился. Получи свой собственный моб тотем при покупке ранга, на §bwynncraft.com/store
 
 ######################################PARTY/FRIENDS##############################################
 (§e[a-zA-Z0-9_]{1,16}) has added you as a friend!@(r1) добавил тебя в друзья!
-(§e[a-zA-Z0-9_]{1,16}) has been added to your friends!@(r1) был добавлен в друзья!
+(§e[a-zA-Z0-9_#]{1,16}) has been added to your friends!@(r1) был добавлен в друзья!
 (§e[a-zA-Z0-9_]{1,16}) has been removed from your friends!@(r1) был убран из друзей!
 (§e[a-zA-Z0-9_]{1,16}) has joined the party.@(r1) присоединился к пати.
 §eParty members: (.*)@§eУчастники пати: (r1)
 §eYou have been invited to join ([a-zA-Z0-9_]{1,16})'s? party.@§eТы был приглашен присоединиться к (r1) пати.
 (§e[a-zA-Z0-9_]{1,16}) has left the party.@(r1) покинул пати.
 (§e[a-zA-Z0-9_]{1,16}) is not a friend! Type §6\/friend list§e.@(r1) не является другом! Напиши §6/friend list§e.
-(§e[a-zA-Z0-9_]{1,16}) is already a friend! Type §6\/friend list§e.@(r1) уже твой друг! Напиши §6/friend list§e.
+(§e[a-zA-Z0-9_#]{1,16}) is already a friend! Type §6\/friend list§e.@(r1) уже твой друг! Напиши §6/friend list§e.
 (§e[a-zA-Z0-9_]{1,16}) joined the game@(r1) присоединился к игре
-(§2 - §a[a-zA-Z0-9_]{1,16}§2) \[Server: (§a[A-Za-z0-9]+§2)\]@(r1) [Сервер: (r2)]
+(§2 \- §a[a-zA-Z0-9_]{1,16}§2) \[Server: (§a[A-Za-z0-9]+§2)\]@(r1) [Сервер: (r2)]
 
 #######################################TRADE MARKET###############################################
 §dSuccessfully cancelled §5buying (.*)@§dУспешно отменена §5покупка (r1)
 §dSuccessfully cancelled §5selling (.*)@§dУспешно отменена §5продажа (r1)
-§dFinished selling (.*§d) for (§5\d+²) each §dfor a total of (§5\d+²)@§dЗавершена продажа (r1) за (r2) каждый, §dв сумме на (r3)
-§dFinished selling (.*§d) for (§5\d+²)$@§dЗавершена продажа (r1) за (r2)
-§dFinished buying (.*§d) for (§5[0-9\.]+²) each §dfor a total of (§5\d+²)@§dЗавершена покупка (r1) за (r2) каждый, §dв сумме на (r3)
-§dFinished buying (.*§d) for (§5\d+²)$@§dЗавершена покупка (r1) за (r2)
+§dFinished selling (.*)@§dЗавершена продажа (r1)
+§dFinished buying (.*)@§dЗавершена покупка (r1)
 §dYou've revealed: (.*) for a total of (§e\d+§d) emeralds.@§dТы раскрыл: (r1) в сумме за (r2) эмеральдов.
 §dFailed to §5buy (.*), because the trade was already completed.@§dНе удалось §5купить (r1), потому что торговля была завершена.
+(^§d\d+x) (§[A-Za-z0-9\- §✫À\[\]'❋✤✹✦❉\/]+§d) has been purchased.@(r1) (r2) было куплено.
+(^§d\d+x) (§[A-Za-z0-9\- §✫À\[\]'❋✤✹✦❉\/]+§d) has been sold.@(r1) (r2) было продано.
 
 ########################################PLAYERNAME###############################################
 §7\[1\/1\] §2Tasim: §aDon't leave yet, ([a-zA-Z0-9_]{1,16})! We're not done talking.@§7[1/1] §2Тасим: §aНе уходи, (r1)! Мы еще не поговорили.
@@ -496,6 +566,7 @@
 §7\[10\/14\] §2Old Man Martyn: §a([a-zA-Z0-9_]{1,16}), I'm sure we will meet again... in time.@§7[10/14] §2Старик Мартин: §a(r1), уверен, мы еще встретимся... во времени.
 
 §7\[1\/9\] §2Maxie: §aFollow me, ([a-zA-Z0-9_]{1,16}).@§7[1/9] §2Макси: §aСледуй за мной, (r1).
+§7\[1\/7\] §2Maxie: §aMo'in, ([a-zA-Z0-9_]{1,16})! I've been researching everything I can about the factory.@§7[1/7] §2Макси: §aСалют, (r1)! Я отыскал все что смог по поводу фабрики.
 
 §7\[1\/1\] §2Corrupted Garoth:§a Welcome, §4§k([a-zA-Z0-9_]{1,16})§a. My name is §4Garoth§a, but you already know that, of course. §4Who doesn't\?@§7[1/1] §2Corrupted Garoth:§aДобро пожаловать, §4§k(r1)§a. Мое имя §4Гарот§a, но ты уже это знаешь, конечно. §4Кто же не знает?
 
@@ -567,6 +638,19 @@
 §7\[1\/6\] §2Siegfried: §aWelcome ([a-zA-Z0-9_]{1,16})! Congratulations on winning the scavenger hunt!@§7[1/6] §2Зигфрид: §aДобро пожаловать (r1)! Поздравляю с победой в охоте за сокровищами!
 §7\[3\/3\] §2Siegfried: §aOnwards! ([a-zA-Z0-9_]{1,16}.), stay right behind me!@§7[3/3] §2Зигфрид: §aВперед! (r1), держись позади меня!
 §7\[2\/5\] §2Siegfried: §a([a-zA-Z0-9_]{1,16}.), I'm glad to see you managed to get out alive. That must have been quite a fall into the chasm.@§7[2/5] §2Зигфрид: §a(r1), я рад, что тебе удалось выбраться живым. Должно быть, это было настоящее падение в пропасть.
+§7\[1\/1\] §2Siegfried: §aT-that was terrifying... Y-you saved my life. Thank you, ([a-zA-Z0-9_]{1,16})... I wasn't prepared for real danger like this.@§7[1/1] §2Зигфрид: §aЭ-это было ужасно... Ты спас мне жизнь. Спасибо, (r1)... Я не был готов к такой реальной опасности.
+§7\[3\/3\] §2Siegfried: §aI don't understand... how deep underground §a§oare §awe\? §b([a-zA-Z0-9_]{1,16}), take a look around - maybe there's some food§a.@§7[3/3] §2Зигфрид: §aЯ не понимаю... насколько §a§oглубоко§a мы под землей? §b(r1), посмотри вокруг - может быть, тут есть какая-нибудь еда§a.
+§7\[5\/5\] §2Siegfried: §aThank you, ([a-zA-Z0-9_]{1,16})! I feel much better, §bI can head deeper as soon as you're ready§a.@§7[5/5] §2Зигфрид: §aСпасибо, (r1)! Я чувствую себя намного лучше, §bя могу погрузиться глубже, как только ты будешь готов§a.
+§7\[4\/4\] §2Gurix: §a§lOW! §a([a-zA-Z0-9_]{1,16}), I think this web is poisoned! Quick, §bget me out with one of your spells§a!@§7[4/4] §2Гурикс: §a§lААА! §a(r1), думаю, что эта паутина отравлена! Быстро, §bвытащи меня одним из своих заклинаний§a!
+§7\[1\/1\] §2Gurix: §aThank you, ([a-zA-Z0-9_]{1,16}). I'll.. I'll follow you from now on. Clearly you're more prepared than I am.@§7[1/1] §2Гурикс: §aСпасибо, (r1). Я буду.. С этого момента я буду следовать за тобой. Очевидно, ты подготовлен лучше, чем я.
+§7\[1\/2\] §2Gurix: §a([a-zA-Z0-9_]{1,16})\? I think that §bgiant web there is being held up by the platforms on the walls§a.@§7[1/2] §2Гурикс: §a(r1)? Я думаю, что эта §bгигантская паутина удерживается там платформами на стенах§a.
+§7\[1\/1\] §2Gurix: §a§l([a-zA-Z0-9_]{1,16})!! §aI'm-OW -stuck in a web again! §bUse one of your spells to cut it down§a!@§7[1/1] §2Гурикс: §a§l(r1)!! §aя-ОЙ -опять застрял в паутине! §bИспользуй одно из своих заклинаний, чтобы срубить ее§a!
+§7\[2\/2\] §2Gurix: §aWhat are these §blittle green thingies§a\? ([a-zA-Z0-9_]{1,16}), try §bright-clicking one§a and see what happens.@§7[2/2] §2Гурикс: §aЧто это за §bмаленькие зеленые штуковины§a? (r1), попробуй §bнажать правой кнопкой мыши§a на одну из них и посмотреть, что произойдет.
+§7\[1\/1\] §2Gurix: §aWait, ([a-zA-Z0-9_]{1,16})! Don't go jumping off the edge like that, I- I'm sure we still have a chance!@§7[1/1] §2Гурикс: §aПодожди, (r1)! Не прыгай так с обрыва, я-я уверен у нас еще есть шанс!
+§7\[5\/6\] §2Gurix: §a([a-zA-Z0-9_]{1,16}), look! That could be §ba teleporter§a to the other side!@§7[5/6] §2Гурикс: §a(r1), смотри! Это может быть §bтелепорт§a на другую сторону!
+§7\[1\/1\] §2Gurix: §aAAH! -- Huh, that must be another warper trap. ([a-zA-Z0-9_]{1,16}), I'm back at the entrance. Please, don't lead me onto any more traps.@§7[1/1] §2Гурикс: §aААА! -- Хм, это должно быть, еще одна ловушка телепорта. (r1), я снова у входа. Пожалуйста, не заводи меня больше в ловушки.
+§7\[1\/1\] §2Gurix: §a([a-zA-Z0-9_]{1,16}), I think I know what these are for! If we activate both at once, the teleporter might start up§a! §bI can stay at one§a, and activate it as soon as §byou activate the other§a.@§7[1/1] §2Гурикс: §a(r1), кажется, я знаю, для чего они нужны! Если мы активируем оба сразу, телепорт может запуститься. §bЯ могу остаться в одном§a и активировать его, как только §bты активируешь другой§a.
+§7\[1\/1\] §2Gurix: §a([a-zA-Z0-9_]{1,16}), §bI don't think we should go on that side§a... The traps look far more deadly.@§7[1/1] §2Гурикс: §a(r1), §bне думаю, что мы должны идти на ту сторону§a... Ловушки выглядят куда более смертоносными.
 
 §7\[1\/1\] §2Lari: §aNot that way, ([a-zA-Z0-9_]{1,16}.)@§7[1/1] §2Лари: §aТолько не так, (r1)
 §7\[8\/8\] §2Lari: §a([a-zA-Z0-9_]{1,16}), then... §bLet us head to the site. §a. I need to fix this... Please, help me get to the root of this problem so I may soothe the land's pain.@§7[8/8] §2Лари: §a(r1) значит... §bДавай отправимся на место§a. Мне нужно это исправить... Пожалуйста, помоги мне добраться до корня этой проблемы, чтобы я могла успокоить боль земли.
@@ -579,12 +663,131 @@
 §7\[2\/5\] §2Lari: §aI'm...I'm so sorry, ([a-zA-Z0-9_]{1,16}). If I'd...I don't... I don't even know what else I could have d-done...@§7[2/5] §2Лари: §aЯ...прости (r1). Если бы я не...Я не... Я даже не знаю, что еще я могла бы сделать...
 
 §7\[2\/3\] §2Lari: §a([a-zA-Z0-9_]{1,16}), §bcan you try..\? §aI doubt it's going to work but..@§7[2/3] §2Лари: §a(r1), §bможет ты попробуешь..?§a Я сомневаюсь, что это сработает, но...
-§7\[2\/\] §2Lari: §a([a-zA-Z0-9_]{1,16}), just go. Progress through the cave. It is obvious you are wanted there.@§7[1/1] §2Лари: §a(r1), просто иди. Пройди через пещеру. Очевидно, что тебя там ждут.
 
 §7\[1\/1\] §2Lari: §a([a-zA-Z0-9_]{1,16}), please just let me do this... I know you are trying to help, but I was chosen for this.@§7[1/1] §2Лари: §a(r1), пожалуйста, просто позволь мне сделать это... Я знаю, что ты пытаешься помочь, но меня выбрали для этого.
 §7\[3\/5\] §2Lari: §aMy last hope was the Guardian of the Forest, but even it have given up on me. Maybe you have replaced my, ([a-zA-Z0-9_]{1,16}).@§7[3/5] §2Лари: §aМоей последней надеждой был Защитник Леса, но даже он отказался от меня. Может быть, ты заменишь меня, (r1)
-§7\[1\/\] §2Lari: §aSeems like I needed you all along, ([a-zA-Z0-9_]{1,16}). Even though that meant me almost killing you. Hope you can excuse me.@§7[1/] §2Лари: §aПохоже, ты был мне нужен все это время, (r1). Даже если это означало, что я чуть не убила тебя. Надеюсь, ты простишь меня.
-§7\[1\/\] §2Guardian of the Forest: §a([a-zA-Z0-9_]{1,16}). I need to show you.. everything...@§7[1/] §2Защитник Леса: §a(r1). Мне нужно показать тебе...все...
+
+§7\[1\/5\] §2Lari: §a...oh§a. ([a-zA-Z0-9_]{1,16}), you're back. Ehm...I have to say, I'§am...rather§a busy at the moment.@§7[1/5] §2Лари: §a...ох. (r1), ты вернулся. Эм...должна сказать, я...довольно занята в данный момент.
+§7\[7\/10\] §2Lari: §aLook, ([a-zA-Z0-9_]{1,16}), I...I don't know what you expect to do against this. The Wyrm was one thing, §abut...this§a is beyond your comprehension.@§7[7/10] §2Лари: §aСмотри, (r1), я...я не знаю, что ты собираешься делать против него. Мать - это одно, но...это выше твоего понимания.
+§7\[12\/12\] §2Lari: §a([a-zA-Z0-9_]{1,16})...please§a, can you§b investigate the doorway\? §aThere must be something wrong that I don't understand.@§7[12/12] §2Лари: §a(r1), пожалуйста, не мог бы ты §bосмотреть дверь§a? Должно быть, что-то не так, чего я не понимаю.
+§7\[1\/5\] §2Lari: §aI... §aI...hope§a you'll forgive me, ([a-zA-Z0-9_]{1,16}). My anger wasn't with you. I...j-just...@§7[1/5] §2Лари: §aЯ... Я...надеюсь ты простишь меня, (r1). Мой гнев был не на тебя. Я...п-просто...
+
+§7\[3\/5\] §2Elphaba: §a([a-zA-Z0-9_]{1,16}), huh\? I'll remember that. You barely even needed my help, heh... Wish I hadn't been such a burden, but at least it worked out.@§7[3/5] §2Эльфаба: §a(r1), да? Я это запомню. Ты даже не нуждался в моей помощи, хех... Жаль, что я была такой обузой, но по крайней мере это сработало.
+§7\[1\/2\] §2Elphaba: §aOh, ([a-zA-Z0-9_]{1,16})! Good to see you're doing well. Wish I could say the same for the repair work, but it's not my responsibility anymore.@§7[1/2] §2Эльфаба: §aОх, (r1)! Рада видеть, что у тебя все хорошо. Хотела бы я сказать то же самое о ремонтных работах, но это уже не моя ответственность.
+
+§7\[4\/4\] §2Axelus: §a([a-zA-Z0-9_]{1,16}), huh\? I’ll try and remember that. For now, take this armor for the trouble. Safe travels, ([a-zA-Z0-9_]{1,16})!@§7[4/4] §2Акселус: §a(r1), да? Я постараюсь запомнить. А пока что, возьми эту броню за хлопоты. Безопасных путешествий тебе, (r2)!
+§7\[1\/4\] §2Axelus: §aYou came at the right time, ([a-zA-Z0-9_]{1,16}). It's good to see you're still interested in what's really going on here..@§7[1/4] §2Акселус: §aТы пришел вовремя, (r1). Приятно видеть, что ты все еще интересуешься тем, что здесь происходит на самом деле..
+§7\[1\/1\] §2Axelus: §aWait, is that- Hey, ([a-zA-Z0-9_]{1,16})! It's so good to see you!@§7[1/1] §2Акселус: §aПогоди, это же- Эй, (r1)! Рад видеть тебя!
+
+§7\[2\/12\] §2Lari: §aHuh\? Oh... ([a-zA-Z0-9_]{1,16}), I'm glad you're here.@§7[2/12] §2Лари: §aЭм? Ох... (r1), рада что ты здесь.
+
+§7\[4\/6\] §2Officer: §aHmmm... ([a-zA-Z0-9_]{1,16}), is it\? Unfortunately, humans are not permitted to have Gavellian passports.@§7[4/6] §2Офицер: §aХммм... (r1), не так ли? К сожалению, людям не разрешено иметь гавеллианские паспорта.
+§7\[7\/8\] §2Doan: §aI guess it wouldn't be that easy to find a way in... Where do you think we can go with that lead, ([a-zA-Z0-9_]{1,16})\?@§7[7/8] §2Доан: §aДумаю, не так-то просто будет найти вход... Как думаешь, куда мы можем пойти с этой зацепкой, (r1)?
+§7\[1\/1\] §2Doan: §aUh... ([a-zA-Z0-9_]{1,16}), I don't think we have time to shop. And these shirts... They're very expensive! I don't think I could afford one even if I wanted one...@§7[1/1] §2Доан: §aУх... (r1), не думаю, что у нас есть время ходить по магазинам. И эти рубашки... Они очень дорогие! Не думаю, что смогу себе это позволить, даже если захочу...
+§7\[1\/1\] §2Doan: §a([a-zA-Z0-9_]{1,16}), we're making progress! These people here look suspicious, there must be something here...@§7[1/1] §2Доан: §a(r1), мы делаем успехи! Эти люди выглядят подозрительно, должно быть, здесь что-то есть...
+§7\[1\/1\] §2Doan: §aHm... Well, it's a cool balloon, I'll give it that. But I don't think this'll help us get to the Black Market, ([a-zA-Z0-9_]{1,16}).@§7[1/1] §2Доан: §aХм... Что ж, это классный воздушный шар, надо отдать ему должное. Но я не думаю, что это поможет нам добраться до Черного рынка, (r1).
+§7\[1\/1\] §2Doan: §aLet's keep going ([a-zA-Z0-9_]{1,16})! We have to look for clues on how to enter the Black Market.@§7[1/1] §2Доан: §aДавай продолжим, (r1)! Мы должны искать подсказки, как войти на Черный рынок.
+§7\[6\/8\] §2Doan: §aUh... What do you think, ([a-zA-Z0-9_]{1,16})\? I really need that passport, and §awell...you§a could get something out of this too, right\?@§7[6/8] §2Доан: §aУх... Что ты думаешь, (r1)? Мне очень нужен этот паспорт, и ну...ты ведь тоже можешь что-то из этого извлечь, верно?
+§7\[1\/1\] §2Mechanic: §aKeep fighting, ([a-zA-Z0-9_]{1,16})! We won't be able to get that egg until more of these skyraiders are gone!@§7[1/1] §2Механик: §aПродолжай сражаться, (r1)! Мы не сможем получить это яйцо, пока не исчезнет еще больше этих скайрайдеров!
+§7\[1\/1\] §2Mechanic: §aWhere're you going, ([a-zA-Z0-9_]{1,16})\? We still need to fight off these skyraiders!@§7[1/1] §2Механик: §aКуда ты собрался, (r1)? Нам еще нужно отбиться от этих скайрайдеров!
+§7\[1\/1\] §2Mechanic: §aWhere're you going, ([a-zA-Z0-9_]{1,16})\? We're not safe yet, I just need to harvest this egg!@§7[1/1] §2Механик: §aКуда ты собрался, (r1)? Мы еще не в безопасности, мне просто нужно забрать это яйцо!
+§7\[4\/4\] §2Doan: §aLet's go, ([a-zA-Z0-9_]{1,16}).@§7[4/4] §2Доан: §aВперед, (r1)
+§7\[1\/1\] §2Merchant: §aI'd give you (\d+) emeralds for that egg.@§7[1/1] §2Торговец: §aЯ бы дал тебе (r1) эмеральдов за это яйцо.
+§7\[1\/1\] §2Merchant: §aA dragonling egg... Those are rare, I'll bid (\d+) emeralds.@§7[1/1] §2Торговец: §aЯйцо драгонлинга... Они редкие, я  сделаю ставку (r1) эмеральдов.
+§7\[1\/1\] §2Merchant: §aFine. I'll raise that price to (\d+) emeralds, but if this egg isn't mine now... Don't bother coming back.@§7[1/1] §2Торговец: §aХорошо. Я подниму эту цену до (r1) эмеральдов, но если это яйцо теперь не мое... Не смей возвращаться.
+§7\[1\/1\] §2Merchant: §aWe don't see many Dragonling eggs here... I could give you (\d+) emeralds for this.@§7[1/1] §2Торговец: §aМы не видим здесь много яиц драгонлингов... Я мог бы дать тебе (r1) эмеральдов за него.
+§7\[1\/1\] §2Doan: §aWait, ([a-zA-Z0-9_]{1,16})! We probably shouldn't leave without the passports, we only just got here!@§7[1/1] §2Доан: §aПодожди, (r1)! Нам наверное не стоит уходить без паспортов, мы ведь только что пришли!
+§7\[1\/1\] §2Merchant: §aI'll raise that price to (\d+) emeralds.@§7[1/1] §2Торговец: §aЯ повышаю свою цену до (r1) эмеральдов.
+§7\[1\/3\] §2Doan: §aThat's what we need, ([a-zA-Z0-9_]{1,16}). Sold! The egg is yours.@§7[1/3] §2Доан: §aТо что нужно, (r1). Продано! Яйцо ваше.
+§7\[3\/3\] §2Doan: §aLet's get our passports, ([a-zA-Z0-9_]{1,16})!@§7[3/3] §2Доан: §aДавай добудем наши паспорта, (r1)!
+§7\[3\/5\] §2Doan: §aUhh.. ([a-zA-Z0-9_]{1,16}), I think you dropped your passport. Let me get it for yo-...@§7[3/5] §2Доан: §a(r1), думаю, ты уронил свой паспорт. Позволь мне взять его для-...
+§7\[1\/1\] §2Doan: §a...Uh§a, ([a-zA-Z0-9_]{1,16})\? I don't think we should leave this area yet, those must be the commanders the waiter mentioned over there.@§7[1/1] §2Доан: §a...Ух, (r1)? Не думаю, что нам следует покидать этот район, это должно быть те командиры, о которых упоминал официант.
+§7\[1\/1\] §2Doan: §aI think we're getting close... stick with me, ([a-zA-Z0-9_]{1,16}), please\?@§7[1/1] §2Доан: §aЯ думаю мы уже близко...останься пожалуйста со мной (r1).
+§7\[1\/1\] §2Doan: §aD-don't let them hit us, ([a-zA-Z0-9_]{1,16})! I don't want to die over a passport!@§7[1/1] §2Доан: §aне дай им ударить нас, (r1)! Я не хочу умереть за паспорт!
+§7\[1\/1\] §2Merchant: §aI'll increase that bid to (\d+) emeralds.@§7[1/1] §2Торговец: §aЯ повышаю свою ставку до (r1) эмеральдов.
+§7\[1\/1\] §2Mechanic: §aKeep up, ([a-zA-Z0-9_]{1,16})! They'll have to give up eventually!@§7[1/1] §2Механик: §aНе отставай, (r1)! В конце концов им придется сдаться!
+§7\[1\/1\] §2Doan: §a([a-zA-Z0-9_]{1,16}), we're almost done! All we have to do is get into that Black Market, get ourselves some passports, and get out!@§7[1/1] §2Доан: §a(r1), мы почти закончили! Все, что нам нужно сделать, это попасть на этот Черный рынок, раздобыть паспорта и убраться отсюда!
+§7\[1\/1\] §2Merchant: §aI can increase that bid to (\d+) emeralds.@§7[1/1] §2Торговец: §aЯ могу повысить ставку до (r1) эмеральдов.
+§7\[1\/1\] §2Mechanic: §aWe're not safe yet, ([a-zA-Z0-9_]{1,16})! Keep fighting, 'till I harvest this egg!@§7[1/1] §2Механик: §aМы еще не в безопасности, (r1)! Продолжай бороться, пока я не соберу это яйцо!
+§7\[1\/1\] §2Merchant: §aIt's bold of you to ask for another price raise... I'll give you (\d+) emeralds if you give me that egg.@§7[1/1] §2Торговец: §aС твоей стороны очень смело просить о новом повышении цен... Я дам тебе (r1) эмеральдов, если ты отдашь мне это яйцо.
+§7\[1\/1\] §2Merchant: §aThis is my third price raise... Give me that egg for (\d+) emeralds, now!@§7[1/1] §2Торговец: §aЭто мое третье повышение цены... Отдай мне это яйцо за (r1) эмеральдов, сейчас же!
+§7\[1\/1\] §2Doan: §aHey, ah... ([a-zA-Z0-9_]{1,16}), where are we going\? The airbase is back that way, I don't think I have enough time to visit Cinfras...@§7[1/1] §2Доан: §aЭй, ах...(r1), куда мы идем? Авиабаза находится в той стороне, и я не думаю, что у меня будет достаточно времени, чтобы посетить Цинфрас...
+§7\[1\/1\] §2Mechanic: §aHey, ([a-zA-Z0-9_]{1,16}), keep up! Let's get back to the airship and get out of here!@§7[1/1] §2Механик: §aЭй, (r1), не отставай! Давай вернемся на дирижабль и уберемся отсюда!
+§7\[1\/1\] §2Doan: §aOh... This is my flight, ([a-zA-Z0-9_]{1,16}). I... I can't get on it without my passport. That's why we need to find that Black Market, and fast!@§7[1/1] §2Доан: §aОх... Это мой рейс, (r1). Я не могу сесть на него без паспорта. Вот почему нам нужно найти этот Черный Рынок, и быстро!
+
+§7§o''For ([a-zA-Z0-9_]{1,16})!!!@§7§o''Для (r1)!!!
+
+§7\[1\/5\] §2\?\?\?: §aLooks like someone rolled about the air fuzz too much, so indeed hello! A light hello to yourself, ([a-zA-Z0-9_]{1,16}), and a greetings to Professor Eih, which is me!@§7[1/5] §2???: §aПохоже, кто-то слишком много катался по воздушному пуху, так что привет безусловно! Легкий привет самому себе, (r1), и привет профессору Эйху, то есть мне!
+
+§7\[3\/3\] §2Prisoner: §aSay, what's your name, human\? ([a-zA-Z0-9_]{1,16})\? Alright, §amy name's Kaetan. Go on ahead and get out of here, I'll catch up. §aIf you do get out of this chop-shop, §bmeet me in Cinfras, §aI want §ato give you something there.@§7[3/3] §2Заключенный: §aСкажи, как твое имя, человек? (r1)? Ладно, меня зовут Каэтан. Иди вперед и выбирайся отсюда, я догоню. Если ты выберешься из этой ситуации, §bвстреть меня в Цинфрасе§a, я хочу тебе там кое-что подарить.
+§7\[1\/5\] §2\?\?\?: §aHEY, ([a-zA-Z0-9_]{1,16}), ([a-zA-Z0-9_]{1,16}), wait for me!@§7[1/5] §2???: §aЭй, (r1), (r2), подожди меня!
+§7\[4\/5\] §2Kaetan: §aBut seriously, thank you, ([a-zA-Z0-9_]{1,16}). I thought I was §agoing to get killed in there! This isn't much, but §ahopefully it §acan §ahelp §ayou get back on §ayour feet after all of that.@§7[4/5] §2Каэтан: §aНо серьезно, спасибо (r1). Я думал, что меня там убьют! Это не так уж много, но надеюсь это может помочь тебе встать на ноги после всего этого.
+
+§7\[3\/4\] §2Ava: §aI hope ([a-zA-Z0-9_]{1,16})'s alright... I managed to find the microchip right away, after all.@§7[3/4] §2Ава: §aЯ надеюсь (r1) в порядке... В конце концов, мне удалось сразу же найти микрочип.
+§7\[4\/4\] §2Ava: §a...Alright§a. Time to go. I'll wait for ([a-zA-Z0-9_]{1,16}), I guess.@§7[4/4] §2Ава: §a...Хорошо. Пора уходить. Я думаю подожду (r1).
+§7\[10\/10\] §2Ava: §b([a-zA-Z0-9_]{1,16})§a, huh\? That's... A nice name. Well, good luck!@§7[10/10] §2Ава: §b(r1), да? Это... Отличное имя. Что ж, удачи!
+§7\[1\/6\] §2Ava: §aThis is it, then. ([a-zA-Z0-9_]{1,16}), I'm... scared.@§7[1/6] §2Ава: §aЗначит, вот оно. (r1), я... напугана.
+§7\[3\/3\] §2Ava: §a([a-zA-Z0-9_]{1,16})... Any idea what's goi- Wait...@§7[3/3] §2Ава: §a(r1)... Есть идеи что проис- Погоди...
+§7\[12\/20\] §2Maxie: §aPhew, I tho- Wait, ([a-zA-Z0-9_]{1,16})\?\?@§7[12/20] §2Макси: §aФух, я дум- Погоди, (r1)??
+§7\[4\/4\] §2Ava: §aIt's as the president just said, ([a-zA-Z0-9_]{1,16}). §a§lDo your thing§a.@§7[4/4] §2Ава: §aКак только что сказала президент, (r1). §a§lСделаем свое дело§a.
+§7\[1\/1\] §2Efena: §aSo ([a-zA-Z0-9_]{1,16}) knows how to handle machines too\? Nifty!@§7[1/1] §2Эфена: §aЗначит (r1) тоже умеет обращаться с машинами? Отлично!
+§7\[15\/15\] §2Efena: §a§lEVERYONE! STOP! §a([a-zA-Z0-9_]{1,16}), I want you to §bcome here §aand answer something, immediately.@§7[15/15] §2Эфена: §a§lВСЕ! СТОП! §a(r1), я хочу, чтобы ты немедленно подошел сюда и ответил на один вопрос.
+§7\[1\/20\] §2Ava: §aI swear ([a-zA-Z0-9_]{1,16}) didn't know! Believe me!@§7[1/20] §2Ава: §aЯ клянусь, (r1) ничего не знал! Поверьте мне!
+§7\[1\/8\] §2Maxie: §aWell... Mo'in, ([a-zA-Z0-9_]{1,16}). I was thinking about catching up with you and all after the audience, but...@§7[1/8] §2Макси: §aНу... Салют, (r1). Я думал догнать тебя и все такое после аудиенции, но...
+§7\[6\/8\] §2Maxie: §aLook, there's no time right now. I think ([a-zA-Z0-9_]{1,16}) and I should go and help.@§7[6/8] §2Макси: §aПослушай, сейчас нет времени. Я думаю (r1) и я должны пойти и помочь.
+§7\[1\/1\] §2Efena: §aYou can't run away from responsibilities forever, ([a-zA-Z0-9_]{1,16}).@§7[1/1] §2Эфена: §aТы не можешь вечно убегать от ответственности, (r1).
+§7\[1\/2\] §2Maxie: §a([a-zA-Z0-9_]{1,16})!! I'm sure Efena told you already, no time to talk!@§7[1/2] §2Макси: §a(r1)!! Уверен, что Эфена уже сказала тебе, нет времени на разговоры!
+§7\[1\/1\] §2Maxie: §aNo time to talk, ([a-zA-Z0-9_]{1,16})! Just go! There must be a §bcore§a to hit at the top!@§7[1/1] §2Макси: §aНет времени на разговоры, (r1)! Просто иди! Там должно быть §bядро§a сверху, чтобы ударить!
+§7\[1\/1\] §2Ava: §aGo, ([a-zA-Z0-9_]{1,16}). You're not done with my mess.@§7[1/1] §2Ава: §aИди, (r1). Ты еще не закончил с моим беспорядком.
+§7\[1\/6\] §2Efena: §a([a-zA-Z0-9_]{1,16})! Ava's up there, isn't she\?@§7[1/6] §2Эфена: §a(r1)! Ава там наверху, не так ли?
+§7\[2\/10\] §2Grant: §aHmpf. Did ([a-zA-Z0-9_]{1,16}) take that thing down\?@§7[2/10] §2Грант: §aХмпф. Неужели (r1) уничтожил эту штуку?
+§7\[4\/10\] §2Maxie: §aWhere's ([a-zA-Z0-9_]{1,16})\? And Ava\?!@§7[4/10] §2Макси: §aГде (r1)? И Ава?!
+§7\[7\/10\] §2Maxie: §aThere! ([a-zA-Z0-9_]{1,16}), are you alright\? Hello\?@§7[7/10] §2Макси: §aВот! (r1), ты впорядке? Эй?
+§7\[10\/10\] §2Efena: §aLook, I'll give you a mission. Find Ava with ([a-zA-Z0-9_]{1,16}), and tell her this...@§7[10/10] §2Эфена: §aСлушай, я дам тебе задание. Найди Аву с (r1) и скажи ей это...
+§7\[1\/1\] §2Maxie: §a([a-zA-Z0-9_]{1,16})\?! 'that you\? I'm downstairs!@§7[1/1] §2Макси: §a(r1)?! Это ты? Я внизу!
+§7\[1\/8\] §2Maxie: §aMo'in, ([a-zA-Z0-9_]{1,16})! You're fine! I'm so glad!@§7[1/8] §2Макси: §aСалют, (r1)! Ты в порядке! Я так рад!
+§7\[20\/27\] §2Efena: §aBut I don't want to either. As for you, ([a-zA-Z0-9_]{1,16})...@§7[20/27] §2Эфена: §aЯ не хочу. Что касается тебя, (r1)...
+§7\[26\/27\] §2Ava: §a...([a-zA-Z0-9_]{1,16})§a\? If you stop by the Workshop later, maybe I'll have some things for you as well.@§7[26/27] §2Ава: §a...(r1)§a? Если ты зайдешь в Мастерскую попозже, может быть, у меня найдутся кое-какие вещи и для тебя.
+§7\[1\/1\] §2Maxie: §a([a-zA-Z0-9_]{1,16}), thanks for the help. You've introduced me to quite the talent!@§7[1/1] §2Макси: §a(r1), спасибо за помощь. Ты познакомил меня с настоящим талантом!
+§7\[1\/1\] §2Ava: §a([a-zA-Z0-9_]{1,16}), once you come back here, you'll be able to get some of my gadgets.@§7[1/1] §2Ава: §a(r1), как только ты вернешься сюда, ты сможешь получить некоторые из моих гаджетов.
+§7\[1\/1\] §2Ava: §aI'll try my best, ([a-zA-Z0-9_]{1,16})!@§7[1/1] §2Ава: §aЯ буду стараться изо всех сил, (r1)!
+§7\[1\/1\] §2Ava: §aI can't do this by myself, ([a-zA-Z0-9_]{1,16})!@§7[1/1] §2Ава: §aЯ могу сделать это сама, (r1)!
+§7\[1\/1\] §2Ava: §aI'm really, really counting on you, ([a-zA-Z0-9_]{1,16})...@§7[1/1] §2Ава: §aЯ очень, очень рассчитываю на тебя, (r1)...
+§7\[3\/3\] §2Ava: §aI'll just... §bwait for your signal§a, ([a-zA-Z0-9_]{1,16}).@§7[3/3] §2Ава: §aЯ просто... §bжду твоего сигнала§a, (r1).
+§7\[5\/7\] §2Ava: §aI can't trust you, ([a-zA-Z0-9_]{1,16}). There's no way.@§7[5/7] §2Ава: §aЯ не могу доверять тебе, (r1). Это невозможно.
+§7\[7\/7\] §2Ava: §aGoodbye, ([a-zA-Z0-9_]{1,16}).@§7[7/7] §2Ава: §aПрощай, (r1).
+§7\[1\/2\] §2Maxie: §aGo, Ava! Go, ([a-zA-Z0-9_]{1,16})!@§7[1/2] §2Макси: §aВперед Ава! Вперед (r1)!
+§7\[4\/6\] §2Ava: §a...I've made a §bGrowth Accelerator §awith help from ([a-zA-Z0-9_]{1,16}).@§7[4/6] §2Ава: §a...Я сделала §bУскоритель Роста§a и мне помогал (r1).
+§7\[10\/11\] §2Ava: §b([a-zA-Z0-9_]{1,16})§a, huh\? That's... A nice name. Well, good luck!@§7[10/11] §2Ава: §b(r1), да? Это... Отличное имя. Что ж, удачи!
+§7\[1\/6\] §2Ava: §aHey, so... I'm here with ([a-zA-Z0-9_]{1,16}) to show you a little something!@§7[1/6] §2Ава: §aПривет, так... Я здесь с (r1), чтобы показать вам кое-что!
+§7\[6\/6\] §2Efena: §a([a-zA-Z0-9_]{1,16})... Did you know, or did she trick you\? Be very careful about what you're about to say.@§7[6/6] §2Эфена: §a(r1)... Ты знал или она тебя обманула? Будь очень осторожен в том, что ты собираешься сказать.
+
+§7\[2\/7\] §2Lari: §a...ah§a. ([a-zA-Z0-9_]{1,16}). So you are needed here too, then\?@§7[2/7] §2Лари: §a...ах§a. (r1). Значит, ты тоже нужен здесь?
+§7\[4\/4\] §2Lari: §a...of§a course. A place that Elves aren't allowed, but humans are. ([a-zA-Z0-9_]{1,16}), you'll have to §bfind this library §aon your own, it seems.@§7[4/4] §2Лари: §a...ну конечно. Место, куда эльфам вход воспрещен, а людям - нет. (r1), похоже, тебе придется §bнайти эту библиотеку§a самостоятельно.
+§7\[2\/7\] §2Lari: §aUrgh... ([a-zA-Z0-9_]{1,16}), please tell me you were able to make some progress. The Guardian still refuses... To... WAKE!@§7[2/7] §2Лари: §aУгх... (r1), пожалуйста, скажи мне, что ты смог добиться некоторого прогресса. Защитник по-прежнему отказывается... ПРОСЫПАТЬСЯ!
+§7\[4\/7\] §2Lari: §aListen, ([a-zA-Z0-9_]{1,16}). Achara... This is my time. I can finally help you more directly. I know the elders of Aldorei- They're sure to have answers!@§7[4/7] §2Лари: §aПослушай, (r1). Ачара... Настало мое время. Наконец-то я могу помочь тебе более непосредственно. Я знаю старейшин Алдорей- У них наверняка есть ответы!
+§7\[4\/13\] §2Lari: §a...([§a-zA-Z0-9_]{1,16}). I. I have to know. What did Orphion tell you, exactly\? I can't stand not knowing any longer. Did he really replace me\?@§7[4/13] §2Лари: §a...(r1). Я. Я должна знать. Что именно сказал тебе Орфион? Я не могу больше ничего не знать. Неужели он действительно заменил меня?
+§7\[2\/52\] §2Guardian of the Forest: §a§lThis is enough, Lari. I waken. And thus, your task is complete, ([a-zA-Z0-9_]{1,16}). You have done as Orphion asked.@§7[2/52] §2Защитник Леса: §a§lЭтого достаточно, Лари. Я просыпаюсь. Таким образом, твоя задача выполнена, (r1). Ты сделал так, как просил Орфион.
+§7\[33\/52\] §2Guardian of The Forest: §a§lFor now, ([a-zA-Z0-9_]{1,16}) must learn what you have learned, of the nature of realms. They must know what you know if they are to aid you fully.@§7[33/52] §2Защитник Леса: §a§lА пока (r1) должен узнать то, что знала ты, о природе миров. Он должны знать то же, что и ты, если хочет помочь тебе в полной мере.
+§7\[35\/52\] §2Guardian of the Forest: §a§lAllow me to show you our reality, ([a-zA-Z0-9_]{1,16}). It is difficult to properly present its scale... So here is an approximation.@§7[35/52] §2Защитник Леса: §a§lПозволь мне показать нашу реальность, (r1). Трудно правильно представить ее масштаб... Итак, вот пример.
+§7\[52\/52\] §2Guardian of the Forest: §b§lEnter the portal, §a§l([a-zA-Z0-9_]{1,16}). I shall show you the §dGateway to Light... §a§lAnd I shall wish you luck.@§7[52/52] §2Защитник Леса: §b§lВойди в портал, §a§l(r1). Я покажу тебе §dВрата к Свету...§a§lИ пожелаю тебе удачи.
+
+§7\[2\/8\] §2Lari: §a([a-zA-Z0-9_]{1,16})... Achara... I do not believe I can ever atone for what I have done to you. An apology simply isn't enough.@§7[2/8] §2Лари: §a(r1)... Ачара...Я не верю, что когда-нибудь смогу искупить то, что сделала с тобой. Извинений просто недостаточно.
+§7\[1\/4\] §2Lari: §bWait a moment, ([a-zA-Z0-9_]{1,16}). §aI have one more thing I would like to say before we enter.@§7[1/4] §2Лари: §bПодожди, (r1). §aПрежде чем мы войдем, я хотела бы сказать еще кое-что.
+§7\[1\/1\] §2Lari: §aWelcome to the Realm of Light then, ([a-zA-Z0-9_]{1,16}). §aOnce you've re-oriented yourself, §bcome over here.@§7[1/1] §2Лари: §aТогда добро пожаловать в Царство Света, (r1). Как только ты сориентируешься, §bподойди сюда.
+§7\[8\/16\] §2Lari: §aThis one doesn't seem hostile, ([a-zA-Z0-9_]{1,16})... I'll try and talk with it.@§7[8/16] §2Лари: §aОн не кажется враждебным, (r1)... Я попробую поговорить с ним.
+§7\[2\/8\] §2Lari: §aThere should be bright bands of color going along it, and light pouring from it. This is where we play our roles, ([a-zA-Z0-9_]{1,16})!@§7[2/8] §2Лари: §aВдоль него должны быть яркие цветные полосы, и из него должен исходить свет. Здесь мы должны сыграть свою роль, (r1)!
+§7\[7\/8\] §2Lari: §aIts aura is lowered- Now your soul must enter. I will keep you safe, ([a-zA-Z0-9_]{1,16}).@§7[7/8] §2Лари: §aЕго аура снижена- Теперь твоя душа может войти. Я буду держать тебя в безопасности, (r1).
+§7\[1\/4\] §2Lari: §aWelcome back, ([a-zA-Z0-9_]{1,16}). I had few troubles dealing with the creatures trying to get close. Did you have issues inside\?@§7[1/4] §2Лари: §aДобро пожаловать обратно, (r1). У меня было мало проблем с теми существами, которые пытались подобраться поближе. У тебя были проблемы внутри?
+§7\[12\/12\] §2Lari: §bGet the rest of them, §a([a-zA-Z0-9_]{1,16})! I'll charge the rift!@§7[12/12] §2Лари: §bРазберись с остальными§a, (r1)! Я заряжу разлом!
+§7\[1\/2\] §2Lari: §aCareful, ([a-zA-Z0-9_]{1,16})! Step back a moment!@§7[1/2] §2Лари: §aОсторожнее, (r1)! Отойди ненадолго! 
+§7\[8\/9\] §2Lari: §a([a-zA-Z0-9_]{1,16}). I think. I found someone. Who deserves to be killed. Help me out\?@§7[8/9] §2Лари: §a(r1). Думаю. Я кое-кого нашла. Кто заслуживает смерти. Поможешь мне?
+§7\[1\/1\] §2Lari: §a([a-zA-Z0-9_]{1,16})!! Stay back! I'm keeping up but he'll destroy you if you get close!!@§7[1/1] §2Лари: §a(r1)!! Не подходи! Я не отстаю, но он уничтожит тебя, если ты приблизишься!!
+§7§o([a-zA-Z0-9_]{1,16})... I apologize for leaving you like that. I felt like this was my only chance at defeating this plague - by attacking its core.@§7§o(r1)... Прошу прощения за то, что оставила тебя в таком состоянии. Я чувствовала, что это был мой единственный шанс победить эту чуму - атакуя ее ядро.
+
+§7§oNote: We would like to thank (§7§l§o[a-zA-Z0-9_]{1,16}§7§o) for all the help they brought us. We believe they're the one who helped. We're actually not sure. Thanks anyway!@§7§oЗаметка: Мы хотели бы поблагодарить (r1), за всю помощь, которую он нам оказал! Мы верим, что это они помог. На самом деле мы не уверены. Все равно спасибо!
+
+§6\[§e!§6\] §6§f([a-zA-Z0-9_]{1,16})§7 was chosen by the Colossal Core. @§6[§e!§6] §6§f(r1)§7 был выбран Колоссальным Ядром. 
 
 ##########################################\n##################################################
 §4You have died...\n§4§lDeath claims your soul.@§4Ты умер...  §4§lСмерть забрала твою душу.

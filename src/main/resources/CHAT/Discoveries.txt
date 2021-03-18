@@ -74,7 +74,7 @@
 §7[2/11] §2Junes: §aThere were markings all over it.. And a small entrance to the inside.@§7[2/11] §2Джунс: §aТам повсюду были какие-то отметины... И маленький проход внутрь. 
 §7[3/11] §2Junes: §aI wonder why... Wait - Where are we?@§7[3/11] §2Джунс: §aИнтересно, почему... Подожди, где это мы находимся? 
 §7[4/11] §2Junes: §aHow do you keep finding these ruins?@§7[4/11] §2Джунс: §aКак ты продолжаешь находить эти руины? 
-§7[5/11] §2Junes: §aMy word.. This body.. It's definitely not from fallen empire.@§7[5/11] §2Джунс: §aМне кажется.. Это тело.. Оно определенно не из падшей империи. 
+§7[5/11] §2Junes: §aMy word.. This body.. It's definitely not from the fallen empire.@§7[5/11] §2Джунс: §aМне кажется.. Это тело.. Оно определенно не из падшей империи. 
 §7[6/11] §2Junes: §aIt's relatively new.. Maybe from the last 100 years.@§7[6/11] §2Джунс: §aОно относительно новое.. Может быть, последних 100 лет. 
 §7[7/11] §2Junes: §aI've seen evidence all over these buildings of people living in them or storing goods.@§7[7/11] §2Джунс: §aЯ видела свидетельства того, что повсюду в этих зданиях жили люди или хранили товары.
 §7[8/11] §2Junes: §aI guess it's only natural when an empire as big as this one still stands.@§7[8/11] §2Джунс: §aДумаю, это нормально, когда останки империи, такой большой, как эта, все еще стоят. 
@@ -96,30 +96,30 @@
 
 #######################Wynn Plains Monument######################
 §7[1/7] §2Soldier 1: §aI-I can’t run anymore. Get back to Ragni and close the gates! We might be able to hold him the-@§7[1/7] §2Солдат 1: §aЯ-я не могу больше бежать. Возвращайся в Рагни и закройте ворота! Мы попробуем задержать его зде-
-§7[2/7] §2Soldier 2: §aAre you mad? You saw our whole regiment fall to his magic. I think we’re don-@§7[2/7] §2Солдат 2: §aТы с ума сошел? Видел, как весь наш полк пал под его магией. Я думаю, мы не смо-
-§7[3/7] §2Soldier 1: §aOh no.. He’s here.@§7[3/7] §2Солдат 1: §aО нет...Он здесь.
-§7[4/7] §2Bak'al: §aYou can not escape your fate. We will purge this world and make it pure in the name of the master.@§7[4/7] §2Бак'ал: §aВы не сможете сбежать от своей судьбы. Мы очистим этот мир и сделаем его чистым, во имя хозяина.
-§7[5/7] §2Soldier 2: §aNo.. NO NO NOOOOOOOOOOOOOO@§7[5/7] §2Солдат 2: §aНет.. НЕТ НЕТ НЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕТ
-§7[6/7] §2Soldier 1: §aOH PLEASE NO! SPARE ME! AAHHH!@§7[6/7] §2Солдат 1: §aПОЖАЛУЙСТА, НЕТ! ПОЩАДИТЕ МЕНЯ! А-А-А!
-§7[7/7] §2Bak'al: §aThis land will be purified, just like the rest.@§7[7/7] §2Бак'ал: §aЭти земли будут очищены, как и все остальные.
+§7[2/7] §2Soldier 2: §aAre you insane? You saw how that BEAST slaughtered our entire regiment! We're done fo-@§7[2/7] §2Солдат 2: §aТы с ума сошел? Ты же видел, как этот ЗВЕРЬ перебил весь наш полк! Мы закончи-
+§7[3/7] §2Soldier 1: §aOh no... §a§lHe’s here.@§7[3/7] §2Солдат 1: §aО нет... §a§lОн здесь.
+§7[4/7] §2Bak'al: §aThere is nowhere left for you fools to run. Now witness as the will of my master purges this province for good.@§7[4/7] §2Бак'ал: §aВам больше некуда бежать, глупцы. А теперь смотрите, как воля моего господина очищает эту провинцию навсегда.
+§7[5/7] §2Soldier 2: §aNo... NO! GET AWAY- AAAAGHHH!!!!@§7[5/7] §2Солдат 2: §aНет.. НЕТ! УЙДИ- ААААААГХХ!!!!
+§7[6/7] §2Soldier 1: §aPLEASE, STOP! IT HURTS SO MUCH!! AAAAGGHHH!@§7[6/7] §2Солдат 1: §aПОЖАЛУЙСТА, НЕТ! ЭТО ТАК БОЛЬНО! АААГГХХ!!
+§7[7/7] §2Bak'al: §aAnd now, Ragni is left defenseless. This land will be purified, just like the rest.@§7[7/7] §2Бак'ал: §aТеперь Рагни остался беззащитным. Эта земля будет очищена, как и все остальные.
 §7[1/7] §2Bob: §aI will never let this city fall again.@§7[1/7] §2Боб: §aЯ никогда не позволю пасть этому городу снова.
-§7[2/7] §2Bak'al: §aEnd this fool!@§7[2/7] §2Бак'ал: §aПрикончите этого глупца!
+§7[2/7] §2Bak'al: §aAnother soldier..? It matters not. End him!@§7[2/7] §2Бак'ал: §aЕще один солдат..? Неважно. Прикончите его!
 §7[3/7] §2Bob: §a⒭⒤⒮⒤⒩⒢ ⒰⒫⒫⒠⒭⒞⒰⒯１@§7[3/7] §2Боб: §a⒭⒤⒮⒤⒩⒢ ⒰⒫⒫⒠⒭⒞⒰⒯１
-§7[4/7] §2Bak'al: §aHow is it that a mere human wields magical power?@§7[4/7] §2Бак'ал: §aКак так вышло, что простой человек обладает магической силой?
+§7[4/7] §2Bak'al: §aA foolhardy display of power means nothing to me. Again, peons!@§7[4/7] §2Бак'ал: §aБезрассудная демонстрация силы для меня ничего не значит. Еще раз, пехотинцы!
 §7[5/7] §2Bob: §a⒟⒤⒱⒤⒩⒢ ⒠⒜⒭⒯⒣⒮⒣⒜⒯⒯⒠⒭１@§7[5/7] §2Боб: §a⒟⒤⒱⒤⒩⒢ ⒠⒜⒭⒯⒣⒮⒣⒜⒯⒯⒠⒭１
-§7[6/7] §2Bak'al: §aI did not come prepared for this fight. We must retreat.@§7[6/7] §2Бак'ал: §aЯ не был готов к этому бою. Мы должны отступить.
-§7[7/7] §2Bob: §aOh no, I'm putting an end to this!@§7[7/7] §2Боб: §aНу уж нет, я положу этому конец!
+§7[6/7] §2Bak'al: §aYour power.. it’s... I wasn’t prepared for this.. Retreat, peons!@§7[6/7] §2Бак'ал: §aТвоя сила...это...Я не был готов к этому... Отступить, пехотинцы!
+§7[7/7] §2Bob: §aOh no, YOU'RE not getting away!@§7[7/7] §2Боб: §aНу уж нет, ТЫ никуда не денешься!
 §7[1/3] §2Bob: §a⒡⒭⒪⒮⒯ ⒮⒠⒭⒫⒠⒩⒯１@§7[1/3] §2Боб: §a⒡⒭⒪⒮⒯ ⒮⒠⒭⒫⒠⒩⒯１
 §7[2/3] §2Bob: §a⒜⒭⒭⒪⒲ ⒝⒜⒭⒭⒜⒢⒠１@§7[2/3] §2Боб: §a⒜⒭⒭⒪⒲ ⒝⒜⒭⒭⒜⒢⒠１
 §7[3/3] §2Bob: §a⒡⒤⒭⒠ ⒝⒪⒨⒝１@§7[3/3] §2Боб: §a⒡⒤⒭⒠ ⒝⒪⒨⒝１
-§7[1/3] §2Bob: §aI have trained 20 years for this. The Wynn Province will never fall.@§7[1/3] §2Боб: §aЯ тренировался для этого 20 лет. Провинция Винн никогда не падет.
-§7[2/3] §2Bak'al: §aJust like the Twains, you will fall. And once again the province will be helpless.@§7[2/3] §2Бак'ал: §aКак и Твейны, ты падешь. И тогда провинция снова будет беспомощной.
-§7[3/3] §2Bob: §aUnlike the Twains, I was not born with magic, I learnt it!@§7[3/3] §2Боб: §aВ отличие от Твейнов, я не родился с магией, я обучился ей!
+§7[1/3] §2Bob: §aI've spent my entire life preparing for this. I will NEVER let this province fall.@§7[1/3] §2Боб: §aЯ всю жизнь готовился к этому. Я НИКОГДА не позволю этой провинции пасть.
+§7[2/3] §2Bak'al: §aThe Twains said the same thing to me, once. And just like them, you will fall helplessly at my feet.@§7[2/3] §2Бак'ал: §aТвейны однажды сказали мне то же самое. И точно так же, как они, ты беспомощно падешь к моим ногам.
+§7[3/3] §2Bob: §aI’ve learned from the Twains’ mistakes! I refuse to fall as easily as they did!@§7[3/3] §2Боб: §aЯ учился на ошибках Твейнов! Я отказываюсь пасть так же легко, как они!
 
 #######################Totem Pole######################
 §7[1/8] §2Tribe Member: §aThe sandstorm has been raging on for months, we HAVE to leave.@§7[1/8] §2Соплеменник: §aПесчаная буря бушует уже несколько месяцев, мы ДОЛЖНЫ уйти. 
-§7[2/8] §2Tribe Member: §aWe won't make it out there.. @§7[2/8] §2Соплеменник: §aМы не сможем добраться до туда.. 
-§7[3/8] §2Tribe Member: §aWe won't make it in here.. We're almost out of food.@§7[3/8] §2Соплеменник: §aМы не сможем выбраться отсюда.. У нас почти закончилась еда. 
+§7[2/8] §2Tribe Member: §aWe won't make it out there...@§7[2/8] §2Соплеменник: §aМы не сможем добраться до туда...
+§7[3/8] §2Tribe Member: §aWe won't make it in here. We're almost out of food.@§7[3/8] §2Соплеменник: §aМы не сможем выбраться отсюда. У нас почти закончилась еда. 
 §7[4/8] §2Tribe Member: §aSandstorms usually only last days, maybe weeks. We must have upset the gods.@§7[4/8] §2Соплеменник: §aПесчаные бури обычно длятся только несколько дней, может быть недель. Должно быть, мы разгневали богов. 
 §7[5/8] §2Tribe Member: §aI don't think so. I feel the lingering stench of betrayal in the air.@§7[5/8] §2Соплеменник: §aЯ так не думаю. В воздухе витает зловоние предательства. 
 §7[6/8] §2Tribe Member: §aThis is a magical storm. We need to find a magical solution.@§7[6/8] §2Соплеменник: §aЭто магическая буря. И нам нужно найти магическое решение. 
@@ -153,6 +153,8 @@
 §7[9/11] §2Almighty Hashr: §aMy father was mortal like us all. His power came from this sceptre. He is a false God.@§7[9/11] §2Всемогущий Хашр: §aМой отец был смертным, как и мы все. Его сила исходила от этого скипетра. Он - ложный Бог. 
 §7[10/11] §2Almighty Hashr: §aNow I will be able to rule- Wait, what's happening..?@§7[10/11] §2Всемогущий Хашр: §aТеперь я смогу править - Подождите, что происходит..? 
 §7[11/11] §2Almighty Hashr: §aDo you hear that? What did my father do to himself?!@§7[11/11] §2Всемогущий Хашр: §aТы слышишь это? Что мой отец сделал с собой?! 
+§7[1/2] §2???: §aYou are not of the old empire... Not one of those who forced me in here.@§7[1/2] §2???: §aТы не из старой империи... Ни один из тех, кто запечатал меня здесь.
+§7[2/2] §2???: §aWhy do you take arms against me? I only tried to save my people from my father!@§7[2/2] §2???: §aПочему ты ополчился против меня? Я только пытался спасти свой народ от отца!
 
 #######################Bak'al's Destruction 2######################
 §7[1/4] §2Town Guard: §aHas everyone gotten to safety?@§7[1/4] §2Страж Города: §aВсе дошли до безопасного места?
@@ -188,7 +190,7 @@
 §7[8/12] §2Phoenix Prince: §aBecause of this endless cycle of reincarnation, I am only known as the Phoenix Prince.@§7[8/12] §2Принц Феникс: §aИз-за этого бесконечного цикла реинкарнации, я известен как Принц Феникс.
 §7[9/12] §2Phoenix Prince: §aAfter the death of all my people, your kind sealed the city, they likely didn’t want anyone to know about what happened down here.@§7[9/12] §2Принц Феникс: §aПосле смерти всех моих людей, ваша раса запечатала город. Они, вероятно, не хотели, чтобы кто-нибудь знал о том, что здесь произошло.
 §7[10/12] §2Phoenix Prince: §aBut unbeknownst to them, I was still here. Trapped forever, without even the escape of death. And it is all the fault of the humans who drove us here.@§7[10/12] §2Принц Феникс: §aНо они не знали, что я все еще был здесь. Навсегда в ловушке, даже без спасения смертью. И во всем виноваты люди, которые привели нас сюда.
-§7[11/12] §2Phoenix Prince: §aYou're an invader, just like the rest of your people. They do not deserve to live on this island... on §oour§a island.@§7[11/12] §2Принц Феникс: §aТы захватчик, как и остальные твои люди. Они не достойны жить на этом острове... на §oнашем острове.
+§7[11/12] §2Phoenix Prince: §aYou're an invader, just like the rest of your people. They do not deserve to live on this island... on §a§oour§a island.@§7[11/12] §2Принц Феникс: §aТы захватчик, как и остальные твои люди. Они не достойны жить на этом острове... на §a§oнашем§a острове.
 §7[12/12] §2Phoenix Prince: §aPrepare for our revenge. Prepare to DIE!@§7[12/12] §2Принц Феникс: §aПриготовься к нашей мести. Приготовься к СМЕРТИ!
 
 #################################Timeless Ruin######################################
@@ -272,3 +274,310 @@
 §7[5/7] §2???: §aI must be present. In my gaze, no thing shall hide. Do you understand?@§7[5/7] §2???: §aЯ должен присутствовать .От моего взгляда ничто не скроется. Ты понимаешь?
 §7[6/7] §2Bak'al: §aI do not, Master. You cannot possibly intend to leave?@§7[6/7] §2Бак'ал: §aНет, мастер. Вы же не собираетесь уходить?
 §7[7/7] §2???: §aThe tower stands. Bring my gaze there. From on high, it shall blossom. And then my will shall exert upon all.@§7[7/7] §2???: §aБашня еще стоит. Принеси туда мой взгляд. С высоты она расцветет. И тогда моя воля будет действовать на всех.
+
+#############################Teachings of Old################################
+§7[1/6] §2Fisherman: §aWhy is cooking so boring and difficult?@§7[1/6] §2Рыбак: §aПочему готовить так скучно и трудно?
+§7[2/6] §2Fisherman: §aI should do something abou-@§7[2/6] §2Рыбак: §aЯ должен что-то сдела-
+§7[3/6] §2Fisherman: §aWho the heck are you? Why did you just break into my house?@§7[3/6] §2Рыбак: §aКто ты такой, черт возьми? Почему ты только что вломился в мой дом?
+§7[4/6] §2Fisherman: §aA-Are you... CHALLENGING ME!!?? Into a fishing competition!?@§7[4/6] §2Рыбак: §aТ-ты... БРОСАЕШЬ МНЕ ВЫЗОВ!!?? В соревновании по рыбной ловле!?
+§7[5/6] §2Fisherman: §aNo one can win §a§lME §ain a fishing competition!@§7[5/6] §2Рыбак: §aНикто не может победить §a§lМЕНЯ§a в рыболовном соревновании!
+§7[6/6] §2Fisherman: §aYou buffoon! Get yourself a fishing rod too and we'll settle this outside!!@§7[6/6] §2Рыбак: §aШут ты этакий! Возьми себе удочку, и мы уладим все снаружи!!
+§7[1/3] §2Fisherman: §aYou can have that slimy old rock, while I take all the fishies here, heh.@§7[1/3] §2Рыбак: §aТы можешь выловить этот скользкий старый камень, а я выловлю всех рыбок здесь, хех.
+§7[2/3] §2Fisherman: §aCan you catch at least §3[8 Fish] §aand beat my score? Just don't catch the pufferfish or I'll minus it off!@§7[2/3] §2Рыбак: §aСможешь ли ты поймать хотя бы §3[8 рыб] §aи побить мой рекорд? Только не лови рыбу фугу, а то я отминусую тебе очки!
+§7[1/1] §2Fisherman: §aNow come on! Get on that rock and let's begin!@§7[1/1] §2Рыбак: §aА теперь пошли! Залезай на камень, и начнем!
+§7[3/3] §2Fisherman: §aAhaa! And so we begin...@§7[3/3] §2Рыбак: §aАхаа! И мы начали...
+§7[1/8] §2Fisherman: §aHuh, did you finish already? Ahaa! Let's see then...@§7[1/8] §2Рыбак: §aХа, ты уже закончил? Ага! Тогда посмотрим...
+§7[2/8] §2Fisherman: §aWhat!? You actually managed to fish eight or more fish? And I only got seven! How pitiful of me...@§7[2/8] §2Рыбак: §aЧто?! Тебе действительно удалось выловить восемь или больше рыб? А у меня только семь! Как жалко...
+§7[3/8] §2Fisherman: §aMan, you really won me. I can't believe it!@§7[3/8] §2Рыбак: §aПарень, ты действительно победил меня. Я не могу в это поверить!
+§7[4/8] §2Fisherman: §aHold on, what is that? In the river? It looks like...@§7[4/8] §2Рыбак: §aПогоди, что это? В реке? Похоже на...
+§7[5/8] §2Fisherman: §aThat thing sure does look weird... Never seen anything like it before!@§7[5/8] §2Рыбак: §aЭта штука действительно выглядит странно... Никогда не видел ничего подобного!
+§7[6/8] §2Fisherman: §aArgh, can't people just leave this river alone already?@§7[6/8] §2Рыбак: §aНеужели люди уже не могут просто оставить эту реку в покое?
+§7[7/8] §2Fisherman: §aThey just keep throwing trash into this river... Hasn't the decay already done enough work? Even the kappas don't bother fishing here.@§7[7/8] §2Рыбак: §aОни просто продолжают выбрасывать мусор в эту реку... Разве заражение уже не сделало достаточно работы для этого? Даже мифические каппы не утруждают себя здесь ловлей рыбы.
+§7[8/8] §2Fisherman: §aWhatever man, you won. I hope this thingamajig can deal as a price. I got nothing better and it looks cool enough.@§7[8/8] §2Рыбак: §aВ любом случае, ты победил. Надеюсь, что эта штуковина может чего-то стоить. У меня нет ничего лучше, а она выглядит достаточно круто.
+§7[1/1] §2Fisherman: §aHey, hey! No jumping in the water!@§7[1/1] §2Рыбак: §aЭй, эй! Не прыгать в воду!
+§7[1/1] §2Fisherman: §aHah! I knew that you would run away! No one can beat the greatest fisher that has ever lived!@§7[1/1] §2Рыбак: §aХа! Я знал, что ты убежишь! Никто не может победить величайшего рыбака, который когда-либо жил!
+§7[1/1] §2Fisherman: §aNow come on! Get yourself a fishing rod from the inside!@§7[1/1] §2Рыбак: §aА теперь пошли! Достань себе удочку изнутри!
+§7[1/3] §2Fisherman: §aHuh, did you finish already? Ahaa! Let's see then...@§7[1/3] §2Рыбак: §aХа, ты уже закончил? Ага! Тогда посмотрим...
+§7[2/3] §2Fisherman: §aAhhah, I can see that you haven't managed to beat me.@§7[2/3] §2Рыбак: §aАххах, я вижу, что тебе не удалось победить меня.
+§7[3/3] §2Fisherman: §aWhatever. You lost, and nobody can beat me anyways!@§7[3/3] §2Рыбак: §aНу все. Ты проиграл, и никто не может победить меня в любом случае!
+
+#############################At the Edge of Decay################################
+§7[1/11] §2???: §aI could stare at this map for hours, you know. It's like staring into the past.@§7[1/11] §2???: §aЯ могу смотреть на эту карту в течение нескольких часов, знаешь ли. Это все равно что заглянуть в прошлое.
+§7[2/11] §2???: §aIt's a few centuries out of date. You see how green this place once was?@§7[2/11] §2???: §aОна устарела на несколько столетий. Видишь, каким зеленым было это место когда-то?
+§7[3/11] §2???: §aLook at it now. It's become so barren and... Lifeless.@§7[3/11] §2???: §aПосмотри на него сейчас. Оно стало таким бесплодным и... Безжизненным.
+§7[4/11] §2???: §aI've watched much of this land fall in a similar way...@§7[4/11] §2???: §aЯ видела, как большая часть этой земли пала подобным образом...
+§7[5/11] §2???: §aIt's been spreading faster as the years have gone by. I-I don't believe there's much time left.@§7[5/11] §2???: §aС годами она распространяется все быстрее. Я-я не думаю, что у нас осталось много времени.
+§7[6/11] §2???: §aPeople have been calling it the "Decay"... Truth is, there is so much more to it.@§7[6/11] §2???: §aЖители называют это "Заражением"... Правда в том, что это гораздо больше.
+§7[7/11] §2???: §aI've managed to hold it back and keep it to the north, but there is only one of me.@§7[7/11] §2???: §aМне удалось остановить его и удержать на севере, но есть только одна я.
+§7[8/11] §2???: §aJust look at all of this rot. And I was always told that nature could manage on its own.@§7[8/11] §2???: §aТолько посмотрите на всю эту гниль. И мне всегда говорили, что природа сможет справиться сама.
+§7[9/11] §2???: §aBut, alas, not even the loveliest pieces of light are safe from its looming shadow.@§7[9/11] §2???: §aНо, увы, даже самые прекрасные кусочки света не защищены от его нависшей тени.
+§7[10/11] §2???: §aI hope you can enjoy what Olux can offer. There is still beauty there, if you look closely.@§7[10/11] §2???: §aНадеюсь, тебе понравится то, что может предложить Олукс. Там все еще прекрасно, если присмотреться.
+§7[11/11] §2???: §aAnyway, I better get back to my work. It was nice to meet you.@§7[11/11] §2???: §aВ любом случае, мне лучше вернуться к работе. Было приятно познакомиться.
+§7[1/11] §2Lari: §aI could stare at this map for hours, you know. It's like staring into the past.@§7[1/11] §2Лари: §aЯ могу смотреть на эту карту в течение нескольких часов, знаешь ли. Это все равно что заглянуть в прошлое.
+§7[2/11] §2Lari: §aIt's a few centuries out of date. You see how green this place once was?@§7[2/11] §2Лари: §aОна устарела на несколько столетий. Видишь, каким зеленым было это место когда-то?
+§7[3/11] §2Lari: §aLook at it now. It's become so barren and... Lifeless.@§7[3/11] §2Лари: §aПосмотри на него сейчас. Оно стало таким бесплодным и... Безжизненным.
+§7[4/11] §2Lari: §aI've watched much of this land fall in a similar way...@§7[4/11] §2Лари: §aЯ видела, как большая часть этой земли пала подобным образом...
+§7[5/11] §2Lari: §aIt's been spreading faster as the years have gone by. I-I don't believe there's much time left.@§7[5/11] §2Лари: §aС годами она распространяется все быстрее. Я-я не думаю, что у нас осталось много времени.
+§7[6/11] §2Lari: §aPeople have been calling it the "Decay"... Truth is, there is so much more to it.@§7[6/11] §2Лари: §aЖители называют это "Заражением"... Правда в том, что это гораздо больше.
+§7[7/11] §2Lari: §aI've managed to hold it back and keep it to the north, but there is only one of me.@§7[7/11] §2Лари: §aМне удалось остановить его и удержать на севере, но есть только одна я.
+§7[8/11] §2Lari: §aJust look at all of this rot. And I was always told that nature could manage on its own.@§7[8/11] §2Лари: §aТолько посмотрите на всю эту гниль. И мне всегда говорили, что природа сможет справиться сама.
+§7[9/11] §2Lari: §aBut, alas, not even the loveliest pieces of light are safe from its looming shadow.@§7[9/11] §2Лари: §aНо, увы, даже самые прекрасные кусочки света не защищены от его нависшей тени.
+§7[10/11] §2Lari: §aI hope you can enjoy what Olux can offer. There is still beauty there, if you look closely.@§7[10/11] §2Лари: §aНадеюсь, тебе понравится то, что может предложить Олукс. Там все еще прекрасно, если присмотреться.
+§7[11/11] §2Lari: §aYou may think there's still something to be done here, but... I'm not sure if there is anymore.@§7[11/11] §2Лари: §aТы можешь подумать, что здесь еще что-то можно сделать, но... Я не уверена в этом.
+
+#############################Llevigar's Last Hope################################
+§7[1/9] §2Mother: §aThe Decay just keeps on getting worse and worse in the north.@§7[1/9] §2Мать: §aЗаражение на севере становится все хуже и хуже.
+§7[2/9] §2Sailor: §aAye, I've 'eard that Gelibord isn't doin' good at all. Sure wouldn't want to live there as we speak.@§7[2/9] §2Моряк: §aДа, я слышал, что в Гелиборде дела совсем плохи. Конечно, не хотел бы жить там, раз уж пошел разговор.
+§7[3/9] §2Citizen: §aBut do you really think the sea is going to give us any help?@§7[3/9] §2Житель: §aНо ты действительно думаешь, что море нам поможет?
+§7[4/9] §2Citizen: §aI just... There ain't anything over there. It's only endless waves of water.@§7[4/9] §2Житель: §aЯ просто... Там ничего нет. Это всего лишь бесконечные волны воды.
+§7[5/9] §2Mother: §aYou're talking about that legend? The guy who once sailed on to see what's ahead and never came back?@§7[5/9] §2Мать: §aТы говоришь о той легенде? Парень, который однажды поплыл посмотреть, что там впереди, и не вернулся?
+§7[6/9] §2Citizen: §aYeah, who knows? Maybe the ship falls of the world's edge!?@§7[6/9] §2Житель: §aДа, кто знает? Может быть, корабль упадет с края света!?
+§7[7/9] §2Sailor: §aShut yer mouth. This here be the only chance we got, 'mm?@§7[7/9] §2Моряк: §aЗакрой свой рот. Это единственный шанс, который у нас есть, 'мм?
+§7[8/9] §2Sailor: §aThem men over there be ready to die fer their land. Fer Gavel!! No stupid legend be goin' to stop them.@§7[8/9] §2Моряк: §aВон те люди готовы умереть за свою землю. За Гавел!! Никакая глупая легенда не остановит их.
+§7[9/9] §2Child: §aThe ship! The ship's getting ready to leave the dock!@§7[9/9] §2Дитя: §aКорабль! Корабль готовится покинуть док!
+§7[1/5] §2Captain: §aAlright boys, it's time to move on! We have quite a big journey ahead of us!@§7[1/5] §2Капитан: §aЛадно, ребята, пора двигаться дальше! Нам предстоит довольно большое путешествие!
+§7[2/5] §2Captain: §aWe have no idea what we'll find, but I'm sure all of this chaos will end with it!@§7[2/5] §2Капитан: §aМы понятия не имеем, что найдем, но я уверен, что весь этот хаос закончится вместе с ним!
+§7[3/5] §2Captain: §aAre you ready to go!? Are you ready to risk your lives for Gavel!?@§7[3/5] §2Капитан: §aВы готовы?! Готовы ли вы рисковать жизнью ради Гавела?!
+§7[4/5] §2Gavel Sailors: §aAye, aye captain!@§7[4/5] §2Моряки Гавела: §aТак точно капитан!
+§7[5/5] §2Captain: §aDrop the sails!@§7[5/5] §2Капитан: §aСпустить паруса!
+§7[1/2] §2Captain: §aAnd so we shall leave for the future!!@§7[1/2] §2Капитан: §aИ так, мы идем в будущее!!
+§7[2/2] §2Captain: §aGoodbye Gavel...@§7[2/2] §2Капитан: §aПрощай Гавел...
+
+#############################Shrouded Lives################################
+§7[1/1] §2Pump Controls: §aInput and Output pumps have been reversed. §a§lINPUT: Cavern. OUTPUT: River.@§7[1/1] §2Управление Насосом: §aВходные и выходные насосы поменялись местами. §a§lВХОД: Пещера. ВЫХОД: Река.
+§7[1/1] §2Pump Controls: §aInput and Output pumps have been reversed. §a§lINPUT: River. OUTPUT: Cavern.@§7[1/1] §2Управление Насосом: §aВходные и выходные насосы поменялись местами. §a§lВХОД: Река. ВЫХОД: Пещера.
+
+#############################Shadowy Dealings################################
+§7[1/1] §2Olux Guard Golem: §aCOMMAND RECEIVED - REMOVE OBJECT.@§7[1/1] §2Страж Голем Олукса: §aПОЛУЧЕНА КОМАНДА - УБРАТЬ ОБЪЕКТ.
+§7[1/1] §2Olux Guard Golem: §aOBJECTIVE FOUND. REMOVING BOULDER.@§7[1/1] §2Страж Голем Олукса: §aОБЪЕКТ НАЙДЕН. УДАЛЯЮ ВАЛУН.
+§7[1/1] §2Olux Guard Golem: §aOBJECTIVE COMPLETED. RETURNING TO POST.@§7[1/1] §2Страж Голем Олукса: §aЦЕЛЬ ВЫПОЛНЕНА. ВОЗВРАЩАЮСЬ НА ПОСТ.
+§7[1/1] §2Olux Guard Golem: §aSTATUS: IDLE. AWAITING COMMAND CHIP.@§7[1/1] §2Страж Голем Олукса: §aСТАТУС: НЕ ЗАНЯТ. ОЖИДАЮ КОМАНДНОГО ЧИПА.
+§7[1/17] §2Mayor: §aA-are you here?@§7[1/17] §2Мэр: §aВ-вы здесь?
+§7[2/17] §2Mysterious Figure: §aGood to see you again, Mayor. Glad you found the place.@§7[2/17] §2Загадочная Фигура: §aРад снова видеть вас, мэр. Рад, что вы нашли это место.
+§7[3/17] §2Mayor: §aI've lived here my whole life, this used to be a nice building.@§7[3/17] §2Мэр: §aЯ прожил здесь всю свою жизнь, это было хорошее здание.
+§7[4/17] §2Mysterious Figure: §aMmm. I assume the golems are working, as I said they would?@§7[4/17] §2Загадочная Фигура: §aМмм. Полагаю, големы работают, как я и говорил?
+§7[5/17] §2Mayor: §aYes... They are. But—@§7[5/17] §2Мэр: §aДа...Они работают. Но-
+§7[6/17] §2Mysterious Figure: §aExcellent, then we can move onto why we're here.@§7[6/17] §2Загадочная Фигура: §aОтлично, тогда мы сможем перейти к тому, зачем мы здесь.
+§7[7/17] §2Mayor: §aW-what's that?@§7[7/17] §2Мэр: §aО ч-чем это вы?
+§7[8/17] §2Mysterious Figure: §aMy fee.@§7[8/17] §2Загадочная Фигура: §aМоя доля.
+§7[9/17] §2Mayor: §aRight, of course. I can take some emeralds from the city vault, just give me a week.@§7[9/17] §2Мэр: §aДа, конечно. Я могу взять немного эмеральдов из городского хранилища, просто дайте мне неделю.
+§7[10/17] §2Mysterious Figure: §aWe both know Olux has not a single emerald to its name.@§7[10/17] §2Загадочная Фигура: §aМы оба знаем, что в Олуксе нет ни одного эмеральда.
+§7[11/17] §2Mysterious Figure: §aBesides, you very well know that we agreed on another form of payment.@§7[11/17] §2Загадочная Фигура: §aКроме того, вы прекрасно знаете, что мы договорились о другой форме оплаты.
+§7[12/17] §2Mayor: §aI was hoping that you might reconsider in favour of emeralds?@§7[12/17] §2Мэр: §aЯ надеялся, что вы передумаете в пользу эмеральдов?
+§7[13/17] §2Mysterious Figure: §aAre you trying to go back on our deal?@§7[13/17] §2Загадочная Фигура: §aТы пытаешься отказаться от нашей сделки?
+§7[14/17] §2Mayor: §aNo, I just—@§7[14/17] §2Мэр: §aНет, я просто-
+§7[15/17] §2Mysterious Figure: §a§lHit him.@§7[15/17] §2Загадочная Фигура: §a§lУдарь его.
+§7[16/17] §2Mayor: §aStop! STOP! OK, I'll get you what you need.@§7[16/17] §2Мэр: §aСтоп! - ОСТАНОВИСЬ! Ладно, я принесу то, что вам нужно.
+§7[17/17] §2Mysterious Figure: §aGood. I need four brought to me by midnight. Alive.@§7[17/17] §2Загадочная Фигура: §aХорошо. Мне нужно, чтобы к полуночи ко мне привели четверых. Живыми.
+
+#############################A Dividing Force################################
+§7[1/12] §2Lari: §aHmm...@§7[1/12] §2Лари: §aХмм...
+§7[3/12] §2Lari: §aI'm just making my rounds along the Decay line.@§7[3/12] §2Лари: §aЯ просто делаю обход вдоль линии Заражения.
+§7[4/12] §2Lari: §aIt can't have escaped your notice, but the north is dying, for want of a better word.@§7[4/12] §2Лари: §aЭто не могло ускользнуть от твоего внимания, но север умирает, за неимением лучшего слова.
+§7[5/12] §2Lari: §aYou may have also noticed a very direct line between the forests, that's becau—@§7[5/12] §2Лари: §aВозможно ты также заметил очень прямую линию разделения между лесами, это потому, чт—
+§7[6/12] §2Lari: §aOdd... I keep on hearing this strange noise coming from over there.@§7[6/12] §2Лари: §aСтранно... Я все время слышу этот странный шум, доносящийся оттуда.
+§7[7/12] §2Lari: §aWait, look. It's one of the parasites. Let me show you the barrier.@§7[7/12] §2Лари: §aПодожди, смотри. Это один из паразитов. Позволь мне показать тебе барьер.
+§7[8/12] §2Lari: §aI have single handedly contained the spread of the Decay... But it was not my original plan.@§7[8/12] §2Лари: §aЯ в одиночку сдержала распространение Заражения... Но это не было моим первоначальным планом.
+§7[9/12] §2Lari: §aGood, it looks like the barrier is still strong.@§7[9/12] §2Лари: §aХорошо, похоже, барьер все еще силен.
+§7[10/12] §2Lari: §aI need to actively keep the enchantment alive. Any weaknesses and they will break through.@§7[10/12] §2Лари: §aМне нужно активно поддерживать чары. Любые слабые места - и они прорвутся.
+§7[11/12] §2Lari: §aIt is not an ideal solution, and the locals have no idea. They just think the river protects them.@§7[11/12] §2Лари: §aЭто не идеальное решение, и местные жители понятия не имеют об этом. Они просто думают, что река защищает их.
+§7[12/12] §2Lari: §aAlas, holding them back seems to be my only option until I can find a cure.@§7[12/12] §2Лари: §aУвы, сдерживать их, кажется мой единственный вариант, пока я не найду лекарство.
+
+#############################Hallowed Ground################################
+§7[1/2]§2 ???:§a Hey you, with the short nose! Come 'elp me out, would'ya?@§7[1/2]§2 ???:§aЭй ты, с коротким носом! Подойди и помоги мне, хорошо?
+§7[2/2]§2 ???:§a Over by this tree, be careful where you tread!@§7[2/2]§2 ???:§aВон там, у этого дерева, осторожно ступай!
+§7[1/1]§2 Revan: §aHey. Revan's the name, and I'd be grateful if you could take me back to my body. It's around here somewhere!@§7[1/1]§2 Реван: §aЭй. Звать меня Реван, и я буду благодарен, если ты вернешь меня к моему телу. Оно где - то здесь!
+§7[1/1] §2Revan: §aI was no vagabond soldier in my past life! Keep looking!@§7[1/1]§2 Реван: §aВ прошлой жизни я не был бродячим солдатом! Продолжай искать!
+§7[1/2]§2 Revan:§a Here! That's the score!@§7[1/2]§2 Реван: §aВот! То самое!
+§7[2/2]§2 Revan:§a Watch for the floor! It's a tad unstable!@§7[2/2]§2 Реван: §aСледи за полом! Он немного неустойчив!
+§7[1/1]§2Revan: §aDo you know who you're carrying?! I was more important than some peasant!@§7[1/1]§2 Реван: §aТы хоть знаешь, кого несешь?! Я был важнее какого-то крестьянина!
+§7[1/1] §2Revan: §aThis is empty. Keep searching!@§7[1/1]§2 Реван: §aЗдесь пусто. Продолжай искать!
+§7[1/1] §2Revan: §aAre you blind, human? There's evidently no body even there.@§7[1/1]§2 Реван: §aТы что, слепой, человек? Очевидно, там вообще никого нет.
+§7[1/2] §2Revan: §aJust looking at that place gives me the creeps. You ever been in there, short-nose?@§7[1/2]§2 Реван: §aОт одного взгляда на это место у меня мурашки бегут по коже. Ты когда-нибудь бывал там, коротконосый?
+§7[2/2] §2Revan: §aGet me away from this place, I'm getting flashbacks from when I had an encounter with a Gert trying to feast on my hand...@§7[2/2]§2 Реван: §aУнеси меня отсюда, у меня возникают воспоминания о том, как я столкнулся с Гертом, пытавшимся полакомиться моей рукой...
+§7[1/1] §2Revan: §aDoes it look like there's anything in there?!@§7[1/1]§2 Реван: §aПохоже на то, что там что-то есть?!
+§7[1/1] §2Revan: §aThat blood trail went the other way, it's probably wise to follow it.@§7[1/1]§2 Реван: §aЭтот кровавый след вел в другую сторону, и наверное разумнее пойти по нему.
+§7[1/1] §2Revan: §aI was no poor farmer in my past life! I was, uh, rich! Yeah... really rich...@§7[1/1]§2 Реван: §aВ прошлой жизни я не был бедным фермером! Я был, э-эм, богат! Да... действительно богат...
+§7[1/1] §2Revan: §aThis is just insulting! I never killed anyone! Well, I ordered a couple executions... But you can't blame me for that!@§7[1/1]§2 Реван: §aЭто просто оскорбительно! Я никогда никого не убивал! Ну, я заказал пару казней... Но ты не можешь винить меня за это!
+
+#############################Headless, Not Homeless################################
+§7[1/10] §2Butler: §aHm? Who's the—@§7[1/10] §2Дворецкий: §aХм? Кто зде-
+§7[2/10] §2Butler: §aY-you?! But how!? They... You... You were executed! You are dead!!@§7[2/10] §2Дворецкий: §aВ-вы?! Но как?! Они... Вы... Вас казнили! Вы мертвы!!
+§7[3/10] §2Dullahan: §aBring your master to me.@§7[3/10] §2Дуллахан: §aПриведи твоего мастера ко мне.
+§7[4/10] §2Noble: §aWhat's this commotion about? Can't I get some sleep for once in a while?@§7[4/10] §2Дворянин: §aИз-за чего весь этот переполох? Неужели я не могу хоть немного поспать?
+§7[5/10] §2Noble: §aY-you?! Wha-... How are yo-... G-get off my property, right now! Guards!@§7[5/10] §2Дворянин: §aВ-вы?! Что?... Как ты-... У-убирайтесь с моей территории, немедленно! Стража!
+§7[6/10] §2Dullahan: §aYou're the one responsible for my beheading, are you not?@§7[6/10] §2Дуллахан: §aЭто ведь ты виновен в моем обезглавливании, не так ли?
+§7[7/10] §2Dullahan: §aYou took something of mine.@§7[7/10] §2Дуллахан: §aТы взял кое-что мое.
+§7[8/10] §2Dullahan: §aI shall now take everything of yours.@§7[8/10] §2Дуллахан: §aТеперь я возьму все, что у тебя есть.
+§7[9/10] §2Noble: §aN-no... I— Everyone thought it was you! I'm sorry, We're sorry!@§7[9/10] §2Дворянин: §aН-нет... Я-Все думали, что это вы! Мне очень жаль, Нам очень жаль!
+§7[10/10] §2Dullahan: §aSome things can not be fixed with words.@§7[10/10] §2Дуллахан: §aНекоторые вещи нельзя исправить словами.
+
+#############################Summoner's Fate################################
+§7[1/3] §2Kalrow: §aYes... Let the energy release!@§7[1/3] §2Калроу: §aДа... Пусть энергия высвободится!
+§7[2/3] §2Kalrow: §aNow to test this power...@§7[2/3] §2Калроу: §aТеперь, чтобы протестировать эту энергию...
+§7[3/3] §2Kalrow: §a§lAAAH! §aHelp... Someone!@§7[3/3] §2Калроу: §a§lАААХ! §aПомогите...Кто-нибудь!
+
+#############################Sealed Away################################
+§7[1/5] §2Lari: §aW-why... Why won't you open..? I know what's back there!@§7[1/5] §2Лари: §aП-почему... Почемы ты не открываешься..? Я знаю что там!
+§7[2/5] §2Lari: §aWHY...@§7[2/5] §2Лари: §aПОЧЕМУ...
+§7[3/5] §2Lari: §aWON'T...@§7[3/5] §2Лари: §aТЫ...
+§7[4/5] §2Lari: §aYOU...@§7[4/5] §2Лари: §aНЕ...
+§7[5/5] §2Lari: §aOPEN!@§7[5/5] §2Лари: §aОТКРЫВАЕШЬСЯ!
+
+#############################Birth of Efilim################################
+§7[1/10] §2Vaeli: §aⓑⓛⓔⓢⓢⓔⓓ ⓑⓔ ⓣⓗⓔ ⓦⓐⓣⓔⓡ ⓞⓕ ⓞⓤⓡ ⓛⓞⓡⓓ. ⓜⓐⓨ ⓘⓣ ⓟⓡⓞⓣⓔⓒⓣ ⓤⓢ ⓕⓡⓞⓜ ⓣⓗⓔ ⓓⓐⓡⓚ ⓕⓤⓣⓤⓡⓔ ⓐⓗⓔⓐⓓ ⓞⓕ ⓤⓢ.@§7[1/10] §2Ваэли: §aⓑⓛⓔⓢⓢⓔⓓ ⓑⓔ ⓣⓗⓔ ⓦⓐⓣⓔⓡ ⓞⓕ ⓞⓤⓡ ⓛⓞⓡⓓ. ⓜⓐⓨ ⓘⓣ ⓟⓡⓞⓣⓔⓒⓣ ⓤⓢ ⓕⓡⓞⓜ ⓣⓗⓔ ⓓⓐⓡⓚ ⓕⓤⓣⓤⓡⓔ ⓐⓗⓔⓐⓓ ⓞⓕ ⓤⓢ.
+§7[2/10] §2Vaeli: §aⓑⓛⓔⓢⓢⓔⓓ ⓑⓔ ⓣⓗⓔ ⓡⓘⓥⓔⓡⓢ, ⓛⓐⓚⓔⓢ, ⓐⓝⓓ ⓟⓞⓝⓓⓢ ⓐⓒⓡⓞⓢⓢ ⓣⓗⓔⓢⓔ ⓛⓐⓝⓓⓢ.@§7[2/10] §2Ваэли: §aⓑⓛⓔⓢⓢⓔⓓ ⓑⓔ ⓣⓗⓔ ⓡⓘⓥⓔⓡⓢ, ⓛⓐⓚⓔⓢ, ⓐⓝⓓ ⓟⓞⓝⓓⓢ ⓐⓒⓡⓞⓢⓢ ⓣⓗⓔⓢⓔ ⓛⓐⓝⓓⓢ.
+§7[3/10] §2Tyana: §aWhat are you doing, sister?@§7[3/10] §2Таяна: §aЧто ты делаешь, сестра?
+§7[4/10] §2Vaeli: §aPraying. How is the situation?@§7[4/10] §2Ваэли: §aМолюсь. Как обстоят дела?
+§7[5/10] §2Tyana: §aThey aren't letting us back in.@§7[5/10] §2Таяна: §aОни не пустят нас обратно.
+§7[6/10] §2Tyana: §aWe have been sleeping outside the gates for weeks.@§7[6/10] §2Таяна: §aМы уже несколько недель спим за воротами.
+§7[7/10] §2Vaeli: §aOur ancestors lived in the trees for thousands of years before Aldorei.@§7[7/10] §2Ваэли: §aНаши предки жили на деревьях за тысячи лет до Алдорей.
+§7[8/10] §2Tyana: §aWe live in the present. The high elves are not going letting us back in.@§7[8/10] §2Таяна: §aМы живем в настоящем. Высшие эльфы не собираются впускать нас обратно.
+§7[9/10] §2Vaeli: §aSend the white birds. Go tell the others.@§7[9/10] §2Ваэли: §aПошли белых птиц. Иди расскажи остальным.
+§7[10/10] §2Vaeli: §aWe have found our new home.@§7[10/10] §2Ваэли: §aМы нашли наш новый дом.
+
+#############################Ne du Valeos du Ellach################################
+§7[1/4] §5§l???: §dThe scales have been tipped.@§7[1/4] §5§l???: §dЧаша весов накренилась.
+§7[2/4] §5§l???: §dThe influence of shadow casts ever further.@§7[2/4] §5§l???: §dВлияние тьмы все больше усиливается.
+§7[3/4] §5§l???: §dBalance shall become a thing of the past.@§7[3/4] §5§l???: §dРавновесие уйдет в прошлое.
+§7[4/4] §5§l???: §dSoon enough... The eye shall see all.@§7[4/4] §5§l???: §dДовольно скоро... Глаз увидит все.
+§7[1/10] §6§l???: §eIt has been a while.@§7[1/10] §6§l???: §eЭто было давно.
+§7[2/10] §5§l???: §dThe world is crumbling from imbalance. Soon I shall bring it to the path of purity.@§7[2/10] §5§l???: §dМир рушится от дисбаланса. Скоро я выведу его на путь чистоты.
+§7[3/10] §6§l???: §eDo you not fear for your actions? For what they could cause?@§7[3/10] §6§l???: §eРазве ты не боишься за свои поступки? К чему они могли привести?
+§7[4/10] §5§l???: §dThe power that I have gained... It has made me stronger.@§7[4/10] §5§l???: §dСила, которую я обрел... Это сделало меня сильнее.
+§7[5/10] §6§l???: §eIt means nothing. Your insufferable desires bring no good to this world.@§7[5/10] §6§l???: §eЭто ничего не значит. Твои невыносимые желания не приносят ничего хорошего этому миру.
+§7[6/10] §5§l???: §dThis fight... This war... It has torn us apart from what we were.@§7[6/10] §5§l???: §dЭта битва... Эта война... Она оторвала нас от того, чем мы были.
+§7[7/10] §6§l???: §eOur paths were never the same. And they never will be. This war shall face the end soon enough.@§7[7/10] §6§l???: §eНаши пути никогда не совпадали. И никогда не будут. Этой войне скоро придет конец.
+§7[8/10] §5§l???: §dNo... You are blind, my friend. Let me show you what this war has become.@§7[8/10] §5§l???: §dНет... Ты слеп, мой друг. Позволь мне показать тебе, во что превратилась эта война.
+§7[9/10] §5§l???: §dAs the war of the realms...@§7[9/10] §5§l???: §dПоскольку война царств...
+§7[10/10] §5§l???: §d...is§d §d§lendless.@§7[10/10] §5§l???: §d...§d§lбесконечна.
+
+#############################The Grand Archive################################
+§7[1/5] §2Librarian: §aAh, a fellow connoisseur of literature like myself! It's good to see another intellectual within these ancient halls.@§7[1/5] §2Библиотекарь: §aАх, такой же знаток литературы, как я! Приятно видеть еще одного интеллектуала в этих древних залах.
+§7[2/5] §2Librarian: §aAnd when I say ancient I mean it. This library is almost as old as the city itself. It's a wonder how much our ancestors knew all those years back.@§7[2/5] §2Библиотекарь: §aИ когда я говорю "древних", я имею в виду именно это. Эта библиотека почти такая же стара, как и сам город. Удивительно, как много знали наши предки все эти годы.
+§7[3/5] §2Librarian: §aIt is a shame though that not many are interested in our history. This place has become so underused that the Guild Hall has started placing its records here.@§7[3/5] §2Библиотекарь: §aЭто позор, что не многие заинтересованы в нашей истории. Это место стало настолько мало использоваться, что Зал Гильдии начал размещать здесь свои записи.
+§7[4/5] §2Librarian: §aHa! Can you imagine? They care more about those groups of mercaneries than the old ways of our forefathers. Complete insanity!@§7[4/5] §2Библиотекарь: §aХа! Можешь себе представить? Они больше заботятся об этих группах наемников, чем о старых обычаях наших предков. Полное безумие!
+§7[5/5] §2Librarian: §aAh, look at me talking your ear off. You likely have more important matters to attend. Well, I shan't keep you here any longer. Farewell!@§7[5/5] §2Библиотекарь: §aАх, вижу, как я тебе все уши прожужжал. Вероятно, у тебя есть более важные дела. Ну что ж, я больше не буду тебя здесь задерживать. Прощай!
+
+#############################The Broken Protector################################
+§7[1/1] §2Dogun Priest: §aThe Colossus is in a rampage... I must stop it...@§7[1/1] §2Догун Священник: §aКолосс в ярости... Я должен остановить его...
+
+#############################Maex Black Market################################
+§7[1/7] §2Phoenix Poacher: §aAha! There it is. A Phoenix Egg. This'll fetch a high price.@§7[1/7] §2Феникс Браконьер: §aАга! Вот оно. Яйцо Феникса. За него придется заплатить высокую цену.
+§7[2/7] §2Phoenix Poacher: §aGot it! Gosh, that's heavy.@§7[2/7] §2Феникс Браконьер: §aДостал! Боже, какая тяжесть.
+§7[3/7] §2Phoenix Poacher: §aYou there, back away and pretend like this never happened.@§7[3/7] §2Феникс Браконьер: §aТы там, отойди и притворись, что этого никогда не было.
+§7[1/1] §2Phoenix Poacher: §aGood, he didn't follow... §b§oI'll be back for more soon...@§7[1/1] §2Феникс Браконьер: §aХорошо, что он не последовал за мной... §b§oЯ скоро вернусь за добавкой...
+§7[4/7] §2Phoenix Poacher: §aHey, why are you following me?! Knock it off!@§7[4/7] §2Феникс Браконьер: §aЭй, почему ты преследуешь меня?! Прекрати это!
+§7[5/7] §2Phoenix Poacher: §aSeriously, creep, you need to go away.@§7[5/7] §2Феникс Браконьер: §aСерьезно, гад, тебе нужно уйти.
+§7[6/7] §2Phoenix Poacher: §aGET THE HELL AWAY FROM ME!!@§7[6/7] §2Феникс Браконьер: §aУБИРАЙСЯ ОТ МЕНЯ К ЧЕРТОВОЙ МАТЕРИ!!
+§7[7/7] §2Phoenix Poacher: §a§o*pant* §aAha! There! Can't get to me now, can you?@§7[7/7] §2Феникс Браконьер: §a§o*пыхтит* §aАха! Ну вот! Не можешь добраться до меня, не так ли?
+§7[1/1] §2Phoenix Poacher: §aCome get your genuine phoenix eggs! Gen-u-ine! Gen- NO, IT'S YOU AGAIN! GET AWAY!@§7[1/1] §2Феникс Браконьер: §aПодходите за настоящими яйцами феникса! На-сто-я-щи-ми! Наст - НЕТ, ЭТО ОПЯТЬ ТЫ! УБИРАЙСЯ!
+§7[1/3] §2Shopkeeper: §aOh, that looks very valuable...@§7[1/3] §2Лавочник: §aО, это выглядит очень ценным...
+§7[2/3] §2Shopkeeper: §aActually, I just remembered, we have a slot open.@§7[2/3] §2Лавочник: §aНа самом деле, я только что вспомнил, у нас есть открытый слот.
+§7[3/3] §2Shopkeeper: §aIf you'd like to attend one of our §a§o*cough*§a ''Pottery classes'', head through the door behind me.@§7[3/3] §2Лавочник: §aЕсли ты хочешь посетить один из наших *кашляет* "гончарных классов", войди в дверь позади меня.
+§7[1/4] §2Hallucinogen Merchant: §aWoah there, would you be interested in buying my totally gnar happy-juice?@§7[1/4] §2Торговец Галлюциногенами: §aУх ты, не заинтересуешься ли ты покупкой моего совершенно корявого счастливого сока?
+§7[2/4] §2Hallucinogen Merchant: §aYou can say no, it's totally chill.@§7[2/4] §2Торговец Галлюциногенами: §aТы можешь сказать "нет", это совершенно нормально.
+§7[3/4] §2Hallucinogen Merchant: §aNo need to be so harsh.@§7[3/4] §2Торговец Галлюциногенами: §aНе надо быть таким суровым.
+§7[4/4] §2Hallucinogen Merchant: §aChill out, brother. We're all one. Just swing by whenever you wanna have a group vibe session.@§7[4/4] §2Торговец Галлюциногенами: §aОстынь, браток. Мы все едины. Просто заглядывай, когда захочешь провести сеанс групповой вибрации.
+§7[1/4] §2Dark Artificer: §aHello, hello. I zee you ave come to zee my finest collection of priceless and rare dark artifacts.@§7[1/4] §2Темный Ремесленник: §aМое почтение. Я лицезрею, вы пришли обозреть мою лучшую коллекцию бесценных и редких темных артефактов.
+§7[2/4] §2Dark Artificer: §aCome! Come and vonder at awe-inspiring relics!@§7[2/4] §2Темный Ремесленник: §aПройдемте! Проходите и удивляйтесь внушающим благоговейный трепет реликвиям!
+§7[3/4] §2Dark Artificer: §aOooo... I zee you have a keen eye. I am zure you ave noticed the weapon on the vall and its fine craftsmanship. @§7[3/4] §2Темный Ремесленник: §aОооо... Я лицезрею у вас острый глаз. Ручаюсь, что вы заметили оружие на стене и его прекрасное мастерство.
+§7[4/4] §2Dark Artificer: §aZe Kirschblute! Outlawed in zeventy zhree jurisdictions. Ze owners have a tendency to go... vell, to their §a§onot§a happy place.@§7[4/4] §2Темный Ремесленник: §aKirschblute! Объявлен вне закона в семидесяти трех юрисдикциях. Его владельцы имеют тенденцию уходить... в свое §a§oне§a самое счастливое место.
+§7[1/3] §2Dogun Merchant: §aYou see this fine selection of frozen Doguns behind me?@§7[1/3] §2Догун Торговец: §aТы видишь этот прекрасный выбор замороженных догунов позади меня?
+§7[2/3] §2Dogun Merchant: §aThat's what happens when you douse a Dogun in water. They're still alive, though. Just in §a§oexquisite§a agony.@§7[2/3] §2Догун Торговец: §aВот что происходит, когда вы используете Догуна в воде. Но они все еще живы. Просто в §a§oизысканной§a агонии.
+§7[3/3] §2Dogun Merchant: §aHowever, when we pour lava on them, they unfreeze. Well, they scream. Well, both, actually.@§7[3/3] §2Догун Торговец: §aОднако когда мы льем на них лаву, они размораживаются. А еще, они кричат. Ну, вообще, и то и другое.
+
+#############################Sealed in Ice################################
+§7[1/4] §2Dogun: §a...Am§a I... alive...?@§7[1/4] §2Догун: §a...Я...жив...?
+§7[2/4] §2Dogun: §aI feel... warm again...@§7[2/4] §2Догун: §aЯ чувствую...тепло, снова...
+§7[3/4] §2Dogun: §aAdventurer... Was it you who saved me...?@§7[3/4] §2Догун: §aПутешественник...Это ты спас меня...?
+§7[4/4] §2Dogun: §aThank you greatly... I shall seek refuge urgently... Goodbye...@§7[4/4] §2Догун: §aПремного тебе благодарен...Я буду срочно искать убежища... Прощай...
+
+#############################The Doguns' Defeat################################
+§7[1/26] §2Dwarven Commander: §aTroops! Advance!@§7[1/26] §2Командир Гномов: §aВойска! Вперед!
+§7[2/26] §2Dwarven Commander: §aReady the cannons!@§7[2/26] §2Командир Гномов: §aГотовьте пушки!
+§7[3/26] §2Dwarven Captain: §aSir, I have just been informed that the final Dogun settlement has been raided.@§7[3/26] §2Капитан Гномов: §aСэр, мне только что сообщили, что последнее поселение Догунов подверглось нападению.
+§7[4/26] §2Dwarven Captain: §aAll of our forces will now focus on attacking the Dogun Capital!@§7[4/26] §2Капитан Гномов: §aТеперь все наши силы будут сосредоточены на атаке на столицу Догунов!
+§7[5/26] §2Dwarven Commander: §aExcellent. You must tell Algard at once.@§7[5/26] §2Командир Гномов: §aОтлично. Ты должен немедленно сообщить об этом Алгарду.
+§7[6/26] §2General Algard: §aDivision 3, defend the barrier! Division 4, assist the wounded!@§7[6/26] §2Генерал Алгард: §aДивизия 3, обороняйте барьер! 4-я дивизия, помогите раненым!
+§7[7/26] §2General Algard: §aWe cannot afford to lose this battle!@§7[7/26] §2Генерал Алгард: §aМы не можем позволить себе проиграть эту битву!
+§7[8/26] §2Dwarven Soldier: §aBRING IT ON!@§7[8/26] §2Солдат Гном: §aНУ ДАВАЙ!
+§7[9/26] §2Dogun: §aCharging...at§a us? Don't §abe...silly§a.@§7[9/26] §2Догун: §aЗаряд... на нас? Не будьте ... глупцами.
+§7[10/26] §2Dogun: §aUrgh... I won'§at...let§a you §awin...so§a easily.@§7[10/26] §2Догун: §aУргх...Я...не позволю...победить вам...так легко.
+§7[11/26] §2General Algard: §aIt appears we have gained the upper hand.@§7[11/26] §2Генерал Алгард: §aПохоже, мы одержали верх.
+§7[12/26] §2General Algard: §aIf we can maintain our current position, victory is within our grasp.@§7[12/26] §2Генерал Алгард: §aЕсли мы сможем сохранить наши нынешние позиции, победа будет в наших руках.
+§7[13/26] §2Dwarven Captain: §aIt's too early to come to that conclusion, sir. The enemy may have hidden forces.@§7[13/26] §2Капитан Гномов: §aСлишком рано делать такие выводы, сэр. У врага могут быть скрытые силы.
+§7[14/26] §2Dwarven Lieutenant: §aSir! Enemy reinforcements approaching from the upper level!@§7[14/26] §2Лейтенант Гномов: §aСэр! Вражеское подкрепление приближается с верхнего уровня!
+§7[15/26] §2Dwarven Captain: §aThere's too many of them, Algard!@§7[15/26] §2Капитан Гномов: §aИх слишком много, Алгард!
+§7[16/26] §2Dwarven Captain: §aWe may not be able to hold our current position for much longer!@§7[16/26] §2Капитан Гномов: §aВозможно, мы не сможем долго удерживать наши текущие позиции!
+§7[17/26] §2General Algard: §aI see.@§7[17/26] §2Генерал Алгард: §aЯ вижу.
+§7[18/26] §2General Algard: §aThen there is only one thing left to-@§7[18/26] §2Генерал Алгард: §aТогда остался только один способ-
+§7[19/26] §2General Algard: §aIt's... General Osseus?! But that means...@§7[19/26] §2Генерал Алгард: §aЭто...Генерал Осеус?! Но это значит...
+§7[20/26] §2General Osseus: §aGaraheth has been slain!@§7[20/26] §2Генерал Осеус: §aГарахет был убит!
+§7[21/26] §2General Osseus: §aYou Doguns have no choice but to surrender!@§7[21/26] §2Генерал Осеус: §aУ вас, догунов, нет другого выбора, кроме как сдаться!
+§7[22/26] §2Dogun: §aImpossible... How could... No...@§7[22/26] §2Догун: §aНевозможно... Как могли... Нет...
+§7[23/26] §2Dogun: §aVery well... We will §asurrender...on§a one condition.@§7[23/26] §2Догун: §aЧто же... Мы сдадимся...с одним условием.
+§7[24/26] §2Dogun: §aYou must §anever...bother§a §aus...ever§a again.@§7[24/26] §2Догун: §aВы должны никогда...больше не...потревожить...нас снова.
+§7[25/26] §2General Algard: §aThen it is settled.@§7[25/26] §2Генерал Алгард: §aТогда все улажено.
+§7[26/26] §2General Algard: §a...Now§a, while they're vulnerable!@§7[26/26] §2Генерал Алгард: §a...Теперь, пока они уязвимы!
+
+#############################Ahmsord's Origins################################
+§7[1/6] §2Ghostly Skyraider: §aOi, have ye heard back from the c'mmander yet?@§7[1/6] §2Призрачный Скайрайдер: §aЭй, ты уже получил ответ от командира?
+§7[2/6] §2Ghostly Skyraider: §aNah. las' I heard, she was losin it' over some villagers comin' near the city.@§7[2/6] §2Призрачный Скайрайдер: §aПоследнее, что я слышал, она теряла рассудок из-за каких-то жителей, приближающихся к городу.
+§7[3/6] §2Ghostly Skyraider: §aYeah... Speakin' about that... the villagers 're really startin' to push their luck, huh?@§7[3/6] §2Призрачный Скайрайдер: §aДа... Кстати, об этом... жители действительно начинают испытывать судьбу, да?
+§7[4/6] §2Ghostly Skyraider: §aOI! What're ya ladies doin', relaxin in here?! The villagers just landed!@§7[4/6] §2Призрачный Скайрайдер: §aЭЙ! Что вы, дамы, тут делаете, расслабляетесь?! Жители только что высадились!
+§7[5/6] §2Ghostly Skyraider: §aHuh? Villagers? Here? We goin' to fight them off?@§7[5/6] §2Призрачный Скайрайдер: §aА? Жители? Здесь? Мы собираемся отбиваться от них?
+§7[6/6] §2Ghostly Skyraider: §aNo, ya idiot! There are too many of them! Let 'em have Ahmsord if they want it so bad! We're headin' to our outpost southeast of 'ere!@§7[6/6] §2Призрачный Скайрайдер: §aНет, идиот! Их слишком много! Пусть у них будет Амсорд, если они так сильно этого хотят! Мы направляемся к нашему форпосту к юго-востоку отсюда!
+
+#############################The Fallen Protector################################
+§7[1/5] §2Villager: §aOi! Clomi! Get the cotton out of your ears!@§7[1/5] §2Житель: §aЭй! Кломи! Вынь вату из ушей!
+§7[2/5] §2Priest: §aAh.. Good evening.. What brings you here today, brother?@§7[2/5] §2Священник: §aАх... Добрый вечер.. Что привело тебя сюда сегодня, брат?
+§7[3/5] §2Villager: §aIt's our Colossus, it's gone insane! It's destroying everything surrounding it for miles!@§7[3/5] §2Житель: §aЭто наш Колосс - он сошел с ума! Он разрушает все вокруг на многие мили!
+§7[4/5] §2Priest: §aNow, now. Don't speak of our Grand Colossus like that! I'm sure there's some sort of explanation for this...@§7[4/5] §2Священник: §aСейчас, сейчас. Не смей так говорить о нашем Великом Колоссе! Я уверен, что этому есть какое-то объяснение...
+§7[5/5] §2Villager: §aWhat? Do you not believe me? Fine! Come with me, and see for yourself!@§7[5/5] §2Житель: §aЧто? Ты мне не веришь? Отлично! Пойдем со мной, и ты сам все увидишь!
+
+#############################Cultural Artefact################################
+§7[1/3] §2Festival Goer: §aI have been staring at this structure for hours now.@§7[1/3] §2Посетитель Фестиваля: §aЯ уже несколько часов смотрю на это сооружение.
+§7[2/3] §2Festival Goer: §aThe contents of this museum have been sealed away from tourists for years. It makes me wonder why.@§7[2/3] §2Посетитель Фестиваля: §aСодержимое этого музея было запечатано от туристов в течение многих лет. Это заставляет меня задуматься, почему.
+§7[3/3] §2Festival Goer: §aThere must be a way to open it. All those patterns have to mean something, right?@§7[3/3] §2Посетитель Фестиваля: §aДолжен быть способ открыть его. Все эти узоры должны что-то значить, верно?
+
+#############################Clock Mistery################################
+§7[1/4] §2Retired Clockmaker: §aHm? Oh, hello. May I help you? A clock? Hm, no, I haven't been in the business for quite some time. My apologies.@§7[1/4] §2Отставной Часовщик: §aХм? Ох, здраствуйте. Могу я вам чем-нибудь помочь? Часы? Хм, нет, я уже довольно давно не занимаюсь этим бизнесом. Мои извинения.
+§7[2/4] §2Retired Clockmaker: §aThough... I suppose if you'd like to take a look at the remains of my work, I can allow that. Let me just find...@§7[2/4] §2Отставной Часовщик: §aХотя... Полагаю, если вы хотите взглянуть на остатки моей работы, я могу это позволить. Дайте мне только найти...
+§7[3/4] §2Retired Clockmaker: §aAh. My basement key appears to have gone missing. Well, I do remember having it on me this morning, so it can't have gone far.@§7[3/4] §2Отставной Часовщик: §aАх. Мой ключ от подвала, кажется, пропал. Ну, я помню, что он был у меня сегодня утром, так что исчез он совсем недавно.
+§7[4/4] §2Retired Clockmaker: §aIf you'd be so kind as to find my key, you may certainly help yourself to whatever you find in the basement. I believe I took a walk in the §bsoutheast block §aearlier today, that could be a place to start.@§7[4/4] §2Отставной Часовщик: §aЕсли вы будете так добры и найдете мой ключ, вы конечно можете помочь себе тем, что найдете в подвале. Думаю, что сегодня утром я прогулялся по §bюго-восточному кварталу§a, и это может быть хорошим местом для поиска.
+§7[1/1] §2Salesman: §aTrinkets for sale! Come buy yourself some cheap trinkets here!@§7[1/1] §2Торговец: §aБезделушки на продажу! Приходите, купите себе здесь какие-нибудь дешевые безделушки!
+§7[1/6] §2Salesman: §aAh, a customer! Welcome to my store of wares and trinkets!@§7[1/6] §2Торговец: §aАх, покупатель! Добро пожаловать в мой магазин товаров и безделушек!
+§7[2/6] §2Salesman: §aIs there anything that sticks out to you? Anything you'd like to purchase?@§7[2/6] §2Торговец: §aЕсть ли что-нибудь, что вам приглянулось? Хотите что-нибудь купить?
+§7[3/6] §2Salesman: §a... The clock? That old piece of j-@§7[3/6] §2Торговец: §a... Часы? Этот старый кусок мус-
+§7[4/6] §2Salesman: §a... Yes, of course! Truly, this antique clock is very valuable! I'm sure you could find someone who would buy it for a high price!@§7[4/6] §2Торговец: §a...Да, конечно! Воистину, эти старинные часы очень ценны! Я уверен, что вы могли бы найти кого-то, кто купил бы их за высокую цену!
+§7[5/6] §2Salesman: §aI can sell it to you for §3[2 Emerald Blocks]§a. Truly an excellent price for such a... great item.@§7[5/6] §2Торговец: §aЯ могу продать их вам за §3[2 Блока Эмеральдов]§a. Действительно отличная цена за такой... отличный товар.
+§7[6/6] §2Salesman: §a... Well, you don't have to decide now, of course! Feel free to come back when you've made your decision!@§7[6/6] §2Торговец: §a... Ну, конечно, вам не обязательно решать сейчас! Не стесняйтесь возвращаться, когда примете решение!
+§7[1/2] §2Salesman: §aWelcome back! So, do you have the payment? §3[2 Emerald Blocks]§a, remember?@§7[1/2] §2Торговец: §aС возвращением! Итак, у вас есть оплата? §3[2 Блока Эмеральдов]§a, помните?
+§7[2/2] §2Salesman: §a... No? Shame. Well, if you change your mind, I'll be here!@§7[2/2] §2Торговец: §a... Нет? Жаль. Ну, если вы передумаете, я буду здесь!
+§7[1/4] §2Salesman: §aWelcome back! So, do you have the payment? §3[2 Emerald Blocks]§a, remember?@§7[1/4] §2Торговец: §aС возвращением! Итак, у вас есть оплата? §3[2 Блока Эмеральдов]§a, помните?
+§7[2/4] §2Salesman: §a... You do? Wonderful! Well... here you are, then!@§7[2/4] §2Торговец: §a...Есть? Замечательно! Хорошо... вот они!
+§7[3/4] §2Salesman: §aThank you for your purchase! And, don't forget, we have a no refund policy!@§7[3/4] §2Торговец: §aСпасибо вам за вашу покупку! И не забывайте, что у нас нет политики возврата денег!
+§7[4/4] §2Salesman: §aHave a nice day!@§7[4/4] §2Торговец: §aХорошего дня!
+§7[1/1] §2Retired Clockmaker: §aOh, you found the key? Excellent! Well, go ahead, head down the stairs and unlock the door. I'll wait here.@§7[1/1] §2Отставной Часовщик: §aО, вы нашли ключ? Отлично! Ну, давайте, спускайтесь по лестнице и отпирайте дверь. Я подожду здесь.
+§7[1/4] §2Retired Clockmaker: §aHm... I do wonder sometimes. I don't remember much about my time as a clocksmith, though I don't remember creating that one in particular.@§7[1/4] §2Отставной Часовщик: §aХм... Иногда даже удивляюсь. Я мало что помню о том времени, когда я был часовщиком, хотя и не помню, чтобы создавал их в частности.
+§7[2/4] §2Retired Clockmaker: §aYou know, there only ever was one man who was a greater clocksmith than me. Though, he's been gone for quite some time as well...@§7[2/4] §2Отставной Часовщик: §aЗнаешь, был только один человек, который был бОльшим часовщиком, чем я. Впрочем, он уже довольно долго отсутствует...
+§7[3/4] §2Retired Clockmaker: §aLast I remember of him, he locked himself up somewhere in the Guild Hall, raving about some sort of god.@§7[3/4] §2Отставной Часовщик: §aПоследнее, что я помню о нем - он заперся где-то в Зале Гильдий, бредя о каком-то боге.
+§7[4/4] §2Retired Clockmaker: §aAh, well, I'm sure he had his reasons. Most people do.@§7[4/4] §2Отставной Часовщик: §aНу что ж, уверен у него были на то свои причины. Как и у большинства людей.
+§7[1/5] §2Bulbo: §a1... 2... 3... 4... 5...@§7[1/5] §2Бульбо: §a1... 2... 3... 4... 5...
+§7[2/5] §2Bulbo: §aThat incessant ticking... the time, my very existence... None of it makes any sense, I can't stop obsessing over it!@§7[2/5] §2Бульбо: §aЭто непрерывное тиканье... время, само мое существование... Все это не имеет никакого смысла, но я не могу перестать зацикливаться на этом!
+§7[3/5] §2Bulbo: §aThe information... the noise... it's too much and too fast, my mind cannot handle it! I'm becoming mad!@§7[3/5] §2Бульбо: §aИнформация... шум... он слишком сильный и слишком быстрый, мой разум не может с ним справиться! Я начинаю сходить с ума!
+§7[4/5] §2Bulbo: §aI beg of you... You must take it, human. Do with it what you will, but I simply cannot stand it's presence any longer!@§7[4/5] §2Бульбо: §aУмоляю тебя... Ты должен принять их, человек. Делай с ним что хочешь, но я просто не могу больше выносить их присутствия!
+§7[5/5] §2Bulbo: §a... Thank you, human. Now... if you would, please leave... I can't stand that damned thing's presence.@§7[5/5] §2Бульбо: §a... Спасибо тебе, человек. А теперь... пожалуйста, уходи... Я не выношу присутствия этой проклятой вещи.
+
+#############################Desolate Temples################################
+§7[1/5] §2Deranged Swordsman: §aHEY! Who the hell are you, huh?@§7[1/5] §2Сумасшедший Мечник: §aЭЙ! Ты кто черт возьми такой?
+§7[2/5] §2Deranged Swordsman: §aOh, I know your type, short-nose.. I bet you wanted to snatch my sword, ain't that right?@§7[2/5] §2Сумасшедший Мечник: §aОх, знаю я таких, коротконосый.. Держу пари, ты хотел выхватить мой меч, не так ли?
+§7[3/5] §2Deranged Swordsman: §aWell guess what? YOU CAN'T HAVE IT! I'd never let a piece of worthless scum like you STEAL from ME!@§7[3/5] §2Сумасшедший Мечник: §aНу, знаешь что? ТЫ НЕ СМОЖЕШЬ ЭТОГО СДЕЛАТЬ! Я никогда не позволю такому ничтожеству, как ты, ОБОКРАСТЬ МЕНЯ!
+§7[4/5] §2Deranged Swordsman: §aYou won't take my sword... I won't let §a§lANYONE §atake §a§lMY §asword away from §a§lME!@§7[4/5] §2Сумасшедший Мечник: §aТы не возьмешь мой меч... Я §a§lНИКОМУ§a не позволю отнять §a§lМОЙ§a у §a§lМЕНЯ!
+§7[5/5] §2Deranged Swordsman: §aOh, what was that, human? YOU WANTED TO FIGHT?!?! §a§lI'LL KILL YOU!!@§7[5/5] §2Сумасшедший Мечник: §aО, что это было, человек? ТЫ ХОТЕЛ ДРАТЬСЯ?!?! §a§lЯ УБЬЮ ТЕБЯ!!
+§7[1/1] §2Deranged Swordsman: §aHEY! I'm talking to you, short-nose!@§7[1/1] §2Сумасшедший Мечник: §aЭЙ! Я с тобой разговариваю, коротконосый!
+
+#############################Loot of the Lost################################
+§7[1/2] §2Hobgoblin: §aWhat brings you here? Could it be you seek refuge from the elephelk below?@§7[1/2] §2Хобгоблин: §aЧто привело тебя сюда? Может быть, ты ищешь убежища от Элефелка внизу?
+§7[2/2] §2Hobgoblin: §aWhatever it be, stay away from my treasure room, giant.@§7[2/2] §2Хобгоблин: §aЧто бы это ни было, держись подальше от моей сокровищницы, великан.

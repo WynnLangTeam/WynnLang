@@ -103,7 +103,7 @@
 §7[1/1] §2Haily: §aThe world needs more people like you, so selfless.@§7[1/1] §2Хэйли: §aМиру нужно больше людей, вроде тебя, таких бескорыстных.
 §7[1/1] §2Nick: §aSigh... This isn't looking good...@§7[1/1] §2Ник: §aЭх... Это все не очень хорошо...
 §7[1/1] §2Flodur: §aDid ye find anyfin in the attic?@§7[1/1] §2Флодур: §aТы нашел что-нибудь на чердаке?
-§7[1/3] §2Elvura: §aHeya! I just finished decorating this christmas tree!@§7[1/3] §2Элвура: §aХейя! Я только что закончила украшать эту елку!
+§7[1/3] §2Elvura: §aHeya! I just finished decorating this craftmas tree!@§7[1/3] §2Элвура: §aХейя! Я только что закончила украшать эту елку!
 §7[2/3] §2Elvura: §aOh, you're looking for Santa?@§7[2/3] §2Элвура: §aОх, ты ищешь Санту?
 §7[3/3] §2Elvura: §aHe is right down the stairs to the right.@§7[3/3] §2Элвура: §aОн прямо внизу по лестнице направо
 §7[1/2] §2Retarc: §aI've been wrapping presents all week long.@§7[1/2] §2Ретарк: §aЯ упаковывала подарки всю неделю.

@@ -8,5 +8,5 @@
 §7[3/3] §2Ope: §aTake that money and head to Detlas won't ya? You can maybe buy some better clothing, because you need it.@§7[3/3] §2Опе: §aНе хочешь взять эти деньги и отправиться в Детлас? Может ты сможешь купить себе немного одежды получше, потому что она нужна тебе.
 
 §7[1/2] §2Ope: §aHey you! I was attacked by a spider just now.@§7[1/2] §2Опе: §aЭй ты! На меня только что напал паук.
-§7[2/2] §2Ope: §aCome back when you are a bit stronger than... that. Level 6 should work.@§7[2/2] §2Опе: §aВернись, когда станешь немного сильнее, чем... сейчас. 6 уровень подойдет.
+§7[2/2] §2Ope: §aCome back when you are a bit stronger than... that. Level 4 should work.@§7[2/2] §2Опе: §aВернись, когда станешь немного сильнее, чем... сейчас. 4 уровень подойдет.
 §7[1/1] §2Ope: §aThank you again for your help!@§7[1/1] §2Опе: §aСнова спасибо тебе за помощь!

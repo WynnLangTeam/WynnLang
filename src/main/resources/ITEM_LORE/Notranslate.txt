@@ -305,10 +305,6 @@ mslot:10@
 §7- §8Slime Plate@ 
 §a- §2Slime Plate@ 
 §7- Luxroot Cuttings@ 
-§7- 3 Tonnes of Fresh Potatoes@ 
-§7- Post Due for Ahmsord@ 
-§7- 10,000 Emerald Blocks@ 
-§7- 2 Pounds of Cannon Grade Gunpowder@ 
 §6 - §c✖ §421 Platinum Ingot [✫✫✫]@ 
 §6 - §c✖ §410 Platinum Ingot [✫✫✫]@ 
 §6 - §c✖ §420 Platinum Ingot [✫✫✫]@ 
@@ -6467,3 +6463,1691 @@ Dam: 4-6@
 §7[162,6,-5176]@ 
 §7[977,75,-732]@ 
 §7[136,57,-4396]@ 
+§7[Basic Plank of Maltic]@ 
+§7Man" in Nivla's Forest at @ 
+§7Angry Village at [318,78,-1097]. @ 
+§7Find Zenam in his laboratory @ 
+§7in Llevigar at @ 
+§7Talk to Captain Kymer in @ 
+§7Talk to Nasea in @ 
+§7[-1673,52,-4370]@ 
+§7Talk to Caissop, the Artist, @ 
+§7Talk to Malo in the @ 
+§7swamps at @ 
+§7[-2062,56,-5415]@ 
+§7Talk to Hazel in the @ 
+§7Dark Forest @ 
+§7[-1445,46,-5509]@ 
+§7Talk to Referick in the @ 
+§7dark forest at @ 
+§7[-1081,48,-5368]@ 
+§7Talk to Anrod at his @ 
+§7[-1367,43,-4542]@ 
+§7Talk to Burtur at @ 
+§7[-980,45,-5305]@ 
+§7Talk to Likeru in Efilim @ 
+§7[-1058,44,-5008]@ 
+§7Talk to the Guardian of @ 
+§7The Forest in the Light @ 
+§7[-1128,49,-4778]@ 
+§7Talk to Arwes in the @ 
+§7ruined cathedral at @ 
+§7[-683,45,-5347]@ 
+§7Something looks suspicious in the @ 
+§7prison at @ 
+§7[-829,83,-5539]@ 
+§7Speak to Aluxander in the @ 
+§7Realm of Light at @ 
+§7[-1164,57,-6759]@ 
+§7(Requires completion of Finding the @ 
+§7Light) @ 
+§7Speak to Doan at @ 
+§7[-267,59,-4973]@ 
+§7regarding his passport @ 
+§7Speak to Elrund outside Aldorei @ 
+§7Valley at @ 
+§7[-670,97,-4444]@ 
+§7of the fort at @ 
+§7[115,53,-5439]@ 
+§7[Penetrating Great Hammer of the Warrior]@ 
+§8in this kind of cage." -Excerpt@ 
+§a- §2Cephalothorax@ 
+§3§b+Magnet: §3Pulls items within@ 
+§3an 8 block radius towards you@ 
+§7[Water Relic Wand]@ 
+§7[Reinforced Sickle of Glory]@ 
+§7[King of Hearts]@ 
+§7[Average Spear of Boredom]@ 
+§a- §2Abdomen@ 
+§7Loot Bonus: 6.0@ 
+Def: 53@ 
+§6Lv. min: 40@ 
+§6Lv. min: 36@ 
+Def: 47@ 
+§7[Penetrating Rifle of the Berserker]@ 
+§7[Executing Root of the Bull]@ 
+§7[Starburst]@ 
+§7[Absolute Short Bow of the Bull]@ 
+§7- Cleric's Rifle of Quaking [17]@ 
+§7[Blessing]@ 
+§7[Normal Cross Spear slightly Chipped]@ 
+§7[Twin Daggers]@ 
+§7[Amplified Hammer of Worth]@ 
+§7Find Enzan's brother near Nivla @ 
+§7Forest @ 
+§7[Magnified Falchion of Mastery]@ 
+§7- Bandit's Ring of the Jackal [26]@ 
+§2Lag: §a-5%@ 
+§7[Mundane Reaver of Boredom]@ 
+§7[Normal Blade of Siegfried]@ 
+§7[Average Focus of Siegfried]@ 
+§7[Mundane Scimitar of Boredom]@ 
+§7[Average Impaler of Ragni]@ 
+§7[Undying]@ 
+§7[Sharp Terror]@ 
+§7[Basic Longbow of Boredom]@ 
+§7[Copper-Alloy Pike]@ 
+§7[139,58,-4399]@ 
+§8LD23LQB1@ 
+§7[Alarm]@ 
+§a- §6Special Particles§7 [Rare to Godly 0/18]@ 
+§a- §cWybels§7 [Common to Godly 1/14]@ 
+§a- §3Weapon Skins§7 [Rare to Godly 1/51]@ 
+§7Find and Kill Chieftans Dolg, @ 
+§7Visbe, and Elak in the @ 
+§7camps around Llevigar @ 
+§7[Syringe]@ 
+§7hasn’t been seen in 16 years. @ 
+§7The trail through Nivla Forest to @ 
+§7in the Wynn province. Maltic’s beach @ 
+§7Gavel. Through it lies the imperial @ 
+§7quartz city of Llevigar. @ 
+§7[Basic Staff of Foolishness]@ 
+§7[Normal Shovel slightly Chipped]@ 
+§7[Elevated Rod of Luxury]@ 
+§7[Average Table leg of Boredom]@ 
+§7[Boosted Dirk of the Hardy]@ 
+§7- §aPotion of §c✹ Defence [7]@ 
+§7- §aPotion of §b❉ Intelligence [6]@ 
+§7[Skyraiders's Javelin of the Stars]@ 
+§7[Oxalate]@ 
+§7[Orc Slasher]@ 
+§7[Mundane Stave slightly Chipped]@ 
+§7[Chroma Cannon]@ 
+§7[Mundane Yumi of Maltic]@ 
+§7[Common Reaver slightly Chipped]@ 
+§a- §2Spinneret@ 
+§7[Amplified Rod of Pandemonium]@ 
+§7[Whirlpool]@ 
+§7[Mundane Dagger of Maltic]@ 
+§7[Devastating Rifle of Chaos]@ 
+§7[Normal Staff of Ragni]@ 
+§7[Mundane Wand of Ragni]@ 
+§a- §2Water Relic Helmet@ 
+§7[Bravery]@ 
+§7[Angry Relik of Rage]@ 
+§7[Plain Pike of Ragni]@ 
+§7[Common Bone slightly Chipped]@ 
+§7[Average Stave of Boredom]@ 
+§7[Normal Staff of Maltic]@ 
+§7[Andesite-Hewn Bow]@ 
+§3Insait§b [INS]@ 
+§3BLooDyLegion§b [BLQ]@ 
+§3Astral Phantoms§b [NTF]@ 
+§7[Birch Wood Wand]@ 
+§3CivCrafter§b [Aqq]@ 
+§3DEBCHIK§b [HYU]@ 
+§6- §a✔ §78192²@ 
+§7- §aMorph-Amethyst [87]@ 
+§3Elmoria§b [LFG]@ 
+§a- §2Skien Boots@ 
+§a- §2Skien's Fatigues@ 
+§3The Black Empire§b [hjf]@ 
+§7[Moist Relik of Restoration]@ 
+§8A fallen link from a chainmail@ 
+§8hauberk of an older time,@ 
+§8this ring fell from a giant@ 
+§8taller than a mountain.@ 
+§8As it sped through the air@ 
+§8and  gained momentum, it@ 
+§8traveled so fast that it@ 
+§8was battered to a tenth@ 
+§8of its size.@ 
+§7[Vanilla Spade]@ 
+§3HellCircles§b [HCL]@ 
+§7- §fAndesite-Hewn Bow [8]@ 
+§7- §fGranite-Hewn Relik [22]@ 
+§7- §fAndesite-Hewn Relik [8]@ 
+§3NecronTeam§b [EAF]@ 
+§7- §fAndesite-Hewn Spear [8]@ 
+§7- §fAndesite-Hewn Wand [8]@ 
+§7[Crystal Senbon]@ 
+§7- §fStone-Hewn Spear [2]@ 
+§7[Kenaz]@ 
+§7A few scrolls for you, kind@ 
+§7sir@ 
+§7lel@ 
+§8You know the undertail! I'd like to@ 
+§8explain to you what you don't@ 
+§8know. Among the three ending@ 
+§8routes in Sands and@ 
+§8Undertiles, Jin, J, U, I, U, E, E,@ 
+§8E, E, E, E.All attacks are@ 
+§8dodgy, Malfie 92, and Sands@ 
+§8attacks are 60 per second,@ 
+§8plus Dothem. But@ 
+§8or deadly.@ 
+§3Vindicator§b [VMZ]@ 
+§7[Nirvana]@ 
+§7Loot Quality Food@ 
+§7[Alizarin]@ 
+§8even make any sense!@ 
+§6- §a✔ §716384²@ 
+§7yes very cool empty shop@ 
+§7right?@ 
+§7§6Damage: +0.0%@ 
+§7§aAttacks per Second: +0.0%@ 
+§7§cHealth: +0.0%@ 
+§7§bDefence: +0.0%@ 
+§7[Monster]@ 
+§7Welcome to Storage Wars, check@ 
+§7out what you bought@ 
+§7- §fStone-Hewn Relik [2]@ 
+§7EE OOO@ 
+§7- §fStone-Hewn Wand [2]@ 
+§8This helmet was specially made so@ 
+§8that the recruit wouldn't die@ 
+§8easily. Can feel your body@ 
+§8gaining strength. But if the@ 
+§8four of them come@ 
+§8together...?@ 
+§8This chestplate was specially made so@ 
+§8that the recruit would not die@ 
+§8easily. Will be able to get@ 
+§8through anything. But if the@ 
+§8These leggings are specially made so@ 
+§8that recruits don't die easily.@ 
+§8You can run anywhere. But if@ 
+§8the four of them come@ 
+§8These boots are specially made so@ 
+§8Your legs will feel very light.@ 
+§8But if the four of them come@ 
+§8This Wand has the best condition.@ 
+§8Fast attack speed and high@ 
+§8damage are very efficient@ 
+§8when dealing with high level@ 
+§8enemies. However, due to its@ 
+§8excessive performance, it is@ 
+§8becoming corrupt.@ 
+§7Items for TCC raid.@ 
+§8Very High Health and Raw Health@ 
+§8Regen War Scroll.@ 
+§7[Hadal]@ 
+§7join TNL@ 
+§8High durability, high base HP, and with@ 
+§8an ok XP bonus!@ 
+§8You shouldn't be that fragile to@ 
+§8attacks, said the text@ 
+§8engraved on the scroll. So@ 
+§8with the scroll casted, you@ 
+§8feel much more safer.@ 
+§7Gamer Goods@ 
+§7[Pencuri]@ 
+§3Mow§b [Mow]@ 
+§3Lala is a QT§b [LQT]@ 
+§7- Sharpening Stone@ 
+§7- §dHide of Gregg'r [44]@ 
+§7- Zombie Brain@ 
+§7[Wrath]@ 
+§3harakiri squad§b [HKI]@ 
+§7- §fStone-Hewn Dagger [2]@ 
+§7[Stone-Hewn Wand]@ 
+§7- §dEssren's Coat [15]@ 
+§3Darknessium§b [DNM]@ 
+§7- Mana Extract@ 
+§7[Common Rod slightly Chipped]@ 
+§7[Penetrating Yumi of Strength]@ 
+§7- §fDiorite-Hewn Dagger [15]@ 
+§3Arednoa§b [AUG]@ 
+§7- §fGranite-Hewn Wand [22]@ 
+§7- Scarred Leather@ 
+§7[Common Table Leg slightly Chipped]@ 
+§7[-1742,66,-5593]@ 
+§7[Diorite-Hewn Wand]@ 
+§7- Skyraiders's Javelin of the Stars [26]@ 
+§7[Combusting Bone of Decay]@ 
+§7- §fDiorite-Hewn Relik [15]@ 
+§7- §bBob's Mythic Bow [75]@ 
+§7[Oak Wood Wand]@ 
+§b➜ §fDetlas@ 
+§e➜ §fDetlas Trail East Plains§7 (2%)§8 [Bov]@ 
+§e➜ §fCathedral Harbour§7 (2%)§8 [Bov]@ 
+§e➜ §fDurum Isles East§7 (2%)§8 [Mag]@ 
+§e➜ §fMage Island§7 (2%)§8 [Mag]@ 
+§e➜ §fNodguj Nation§7 (2%)§8 [Mag]@ 
+§e➜ §fDujgon Nation§7 (2%)§8 [Mag]@ 
+§e➜ §fRegular Island§7 (2%)§8 [Mag]@ 
+§e➜ §fJofash Docks§7 (2%)§8 [AVO]@ 
+§e➜ §fJofash Tunnel§7 (2%)§8 [AVO]@ 
+§e➜ §fSky Island Ascent§7 (2%)§8 [AVO]@ 
+§e➜ §fCentral Islands§7 (2%)§8 [AVO]@ 
+§e➜ §fAhmsord Outskirts§7 (2%)§8 [AVO]@ 
+§e➜ §fAngel Refuge§7 (2%)§8 [AVO]@ 
+§e➜ §fMolten Reach§7 (2%)§8 [AVO]@ 
+§e➜ §fMolten Heights Portal§7 (2%)§8 [Hax]@ 
+§e➜ §fRodoroc§7 (2%)§8 [Hax]@ 
+§e➜ §fEntrance to Rodoroc§7 (2%)§8 [Hax]@ 
+§e➜ §fThesead Suburbs§7 (2%)§8 [Hax]@ 
+§e➜ §fChained House§7 (2%)§8 [Fox]@ 
+§e➜ §fHive South§7 (2%)§8 [Fox]@ 
+§e➜ §fThanos Exit Upper§7 (2%)§8 [Fox]@ 
+§e➜ §fBandits Toll§7 (2%)§8 [Fox]@ 
+§e➜ §fCanyon Walk Way§7 (2%)§8 [Fox]@ 
+§e➜ §fPath To Ozoth's Spire Upper§7 (2%)§8 [Fox]@ 
+§e➜ §fCinfras Thanos Transition§7 (2%)§8 [Fox]@ 
+§b➜ §fCinfras County Mid-Upper@ 
+§b➜ §fCinfras County Mid-Lower@ 
+§b➜ §fCinfras's Small Farm@ 
+§b➜ §fAldorei Lowlands@ 
+§b➜ §fAldorei's River@ 
+§b§l✔ §fCinfras (HQ)@ 
+§a- §7Eden [EDN]@ 
+§a- §7IceBlue Team [IBT]@ 
+§3Nerfuria§b [Nia]@ 
+§7[-469,47,-4996]. @ 
+§3MagicStore§b [MSZ]@ 
+§7- §bDragon's Tongue [74]@ 
+§7[Light Oak Wood Wand]@ 
+§7- Kaolin Clay@ 
+§7- §fDiorite-Hewn Spear [15]@ 
+§7[Jungle Wood Dagger]@ 
+§7- §fDiorite-Hewn Bow [15]@ 
+§7[186,4,-5058]@ 
+§7- Waterfall Thyme@ 
+§7[Flawless Stone Dagger]@ 
+§7- §aMorph-Emerald [37]@ 
+§7- §fAndesite-Hewn Dagger [8]@ 
+§7- §fGranite-Hewn Spear [22]@ 
+§7[Kolkhaar]@ 
+§8Owned by DiamondLord57@ 
+§a- §7Requiem [Req]@ 
+§7- §fGranite-Hewn Bow [22]@ 
+§7[Common Javelin slightly Chipped]@ 
+§7[Light Oak Wood Dagger]@ 
+§7[Polaris]@ 
+§7[Average Baton of Ragni]@ 
+§7- §bWitherhead's Talisman [12]@ 
+§7[Loaded Question]@ 
+§7[Magnified Relik of Eminence]@ 
+§7[Andesite-Hewn Dagger]@ 
+§7- §fStone-Hewn Bow [2]@ 
+§a- §7DEBCHIK [HYU]@ 
+§7[Plain Wand slightly Chipped]@ 
+§7- Red Shale@ 
+§7- §fGranite-Hewn Dagger [22]@ 
+§7[Diorite-Hewn Bow]@ 
+§6 - §a✔ §21 Platinum Ingot [✫✫✫]@ 
+§6 - §a✔ §216 Platinum Ingot [✫✫✫]@ 
+§7[-498,49,-5405]@ 
+§3Quil§b [Qil]@ 
+§7[-505,50,-5500]@ 
+§7[The Forsaken]@ 
+§7- Flashfrost@ 
+§7- Ursine Claw@ 
+§7- §aPotion of §2✤ Strength [4]@ 
+§7- §aPotion of §c✹ Defence [5]@ 
+§a- §7NecronTeam [EAF]@ 
+§7- §aWater Relic Boots [25]@ 
+§7- §aRelic Boots [25]@ 
+§7[Compiler]@ 
+§7- §bMummy's Rag [38]@ 
+§7[Plasma Sabre]@ 
+§3Welcome To Hell§b [Xop]@ 
+§b➜ §fAldorei Valley Upper@ 
+§b➜ §fAldorei's Waterfall@ 
+§7[Normal Launcher of Foolishness]@ 
+§7- Outdated Newspaper@ 
+§7- Platinum Grook Egg@ 
+§3Party From HELL§b [ASK]@ 
+§7[Spruce Wood Wand]@ 
+§3BBoF§b [BBF]@ 
+§f⒠@ 
+§7[Stone-Hewn Bow]@ 
+§7[Stone-Hewn Spear]@ 
+§7- Highland Basil@ 
+§7[Stone-Hewn Relik]@ 
+§7- §dDead Samurai's Plate [27]@ 
+§7what@ 
+§7KANDON BEDA IS A GOOD CITY@ 
+§7Misc items here, find your@ 
+§7offer here :D@ 
+§7[Andesite-Hewn Wand]@ 
+§7- Salted Salmon@ 
+§7[Granite-Hewn Bow]@ 
+§7- §fDiorite-Hewn Wand [15]@ 
+§7- §aAbdomen [20]@ 
+§7- §dSerpent's Kiss [11]@ 
+§7[Fibreglass]@ 
+§7[Normal Table Leg of Ragni]@ 
+§7[Granite-Hewn Wand]@ 
+§8This candle seems used up but it is@ 
+§8a big one, why not use this to@ 
+§8hit your enemies?@ 
+§8Use those to gain 101 percent@ 
+§8Exploding. Exploding will@ 
+§8trigger an explosion every@ 
+§8time you kill a mob. 100@ 
+§8percent or above exploding@ 
+§8guarentees an explosion@ 
+§7[Basic Warhammer of Boredom]@ 
+§8for those times when you really@ 
+§8just wanna go fast@ 
+§8How? How a thunder is sealed in a@ 
+§8relik? And that small?@ 
+§7e@ 
+§8The origins of this weapon are@ 
+§8unknown. It casts shadows in@ 
+§8all directions leaving the@ 
+§8area in complete utter@ 
+§8darkness.@ 
+§8This battered stone mask@ 
+§8is of unknown origin, and@ 
+§8has no openings for the@ 
+§8eyes whatsoever. Indeed,@ 
+§8all that can be seen while@ 
+§8wearing it is that which@ 
+§8makes you truly angry.@ 
+§7- §aGreen Ornament [55]@ 
+§7- §aRed Ornament [50]@ 
+§7- §aYellow Ornament [50]@ 
+§7Godlies and mythics for cheap!@ 
+§7Random Stuff Here. ;)@ 
+§7[Plain Wand of Siegfried]@ 
+§8Guys very idol real pls buy. this is@ 
+§8good item!@ 
+§8Find more in DarkPulse91's shop@ 
+§6 - §a✔ §21 Pride of the Aerie@ 
+§7eg@ 
+§7Join Seoul pm me for invite :)@ 
+§7im literally terrible at@ 
+§7pricing sorry@ 
+§7Overstock Sale! All Powders@ 
+§7under $100!@ 
+§7Literally just anything I felt@ 
+§7like crafting@ 
+§8Find more in DarkPulse91's shop. . .@ 
+§825 percent@ 
+§7ALL RARITIES@ 
+§7[Oak Wood Dagger]@ 
+§7random crafted items@ 
+§7Elven Goods@ 
+§7*Legend of Zelda opening@ 
+§7treasure chest sound effect*@ 
+§7pls buy uwu@ 
+§7Heckin Good Shtuff@ 
+§3AristoCraft§b [ACV]@ 
+§8A dagger forged by the SFirebolt to@ 
+§8be wield in his battles from@ 
+§8LXX to LXXXVI. Legend says@ 
+§8an even greater dagger has@ 
+§8been forged....@ 
+§7[Normal Spire of Lameness]@ 
+§7Noot Noot@ 
+§8Need tons of stats for your lvl@ 
+§846 or higher class? Look no@ 
+§8further!@ 
+§8Spectral E Cabbage for thy@ 
+§8EEEEEEEEEEEEEEEEEEEEEEEEEEEEE@ 
+§7Walmart, save money live@ 
+§7better@ 
+§7nice stuff right here.@ 
+§7Sick of dying? Buy these!@ 
+§7TOES TOES TOES TOES TOES@ 
+§8Need stats for your level 46 or@ 
+§8higher class? Look no@ 
+§7- §bOlux's Prized Spear [55]@ 
+§8Need more stats for your level 47@ 
+§8or higher class? Look no@ 
+§8This item is part of my cheap 10lq@ 
+§8to 21lq Loot Quality Shop. To@ 
+§8use the FREE Upgrade@ 
+§8Service or see the rest of@ 
+§8my stock please dm me on my@ 
+§8Discord... BlazeFront 4503@ 
+§8LOOTIN TOOT@ 
+§7we sell them, you buy them@ 
+§8Idk what to call this... message me@ 
+§8if you want it renamed slash@ 
+§8relored k bye@ 
+§7All your favorite deals, now@ 
+§7on the go!@ 
+§7read aokana@ 
+§7I forgot to put items in :P@ 
+§7I have things, at a place.@ 
+§7[Embiggened Slingshot of Destruction]@ 
+§8Get xp and take it or leave it.@ 
+§7[Normal Edge slightly Chipped]@ 
+§7Just a person selling random@ 
+§7things.@ 
+§7[Normal Pike of Foolishness]@ 
+§6 - §c✖ §41 Platinum Ingot [✫✫✫]@ 
+§6 - §c✖ §416 Platinum Ingot [✫✫✫]@ 
+§7Time Rift - 9000 Emeralds@ 
+§7Since you are here, why not@ 
+§7have a look? Useful items@ 
+§7here!@ 
+§8Overwhelming power of water is@ 
+§8flowing in this arcane forged@ 
+§8staff. When a spell is casted@ 
+§8using Overflow, any enemies@ 
+§8will vanish in a flush of tides.@ 
+§7[Plain Cross Spear of Boredom]@ 
+§8Wealth and power, but at what@ 
+§8cost ?@ 
+§7- §bMarius' Prison [50]@ 
+§8WWWWWWWWWWWWWWWWWWWWWWWWWWWWWW WWWWWWWWWWWWWWWWWWWWWWWWWWWWWW@ 
+§8WWWWWWWWWWWWWWWWWWWWWWWWWWWWWW@ 
+§7My Fantasia Is Unclaimable@ 
+§7- §cDragon's Eye Bracelet [60]@ 
+§7[Light Birch Wood Wand]@ 
+§7[Eclipse]@ 
+§7[Common Baton slightly Chipped]@ 
+§7§lCurrently: §f말@ 
+§7- §aEarth Relic Leggings [40]@ 
+§7[Flawless Light Oak Spear]@ 
+§7- Herbal Extract@ 
+§7[Flawless Oak Wand]@ 
+§8This is taking longer than usual@ 
+§7- §aKaerynn's Body [78]@ 
+§7- §aKaerynn's Mind [78]@ 
+§7- §dQuartron's Eye [49]@ 
+§7toxo gaming@ 
+§7[Plain Staff of Siegfried]@ 
+§7budget toxo here@ 
+§7[Average Focus of Ragni]@ 
+§a- §7Avis [MrA]@ 
+§7§lCurrently: §f열쇠@ 
+§7- Bantisu's Scroll of Wind [7]@ 
+§7- Bantisu's Quire of Bantisu [7]@ 
+§7[Common Razor of Siegfried]@ 
+§7idk@ 
+§3Hylotles§b [Hlo]@ 
+§7- Pokey Cactus@ 
+§7Remember the 12 rotten flesh!@ 
+§7:)@ 
+§7[Rite Staff]@ 
+§7- §aCosmic Ward [80]@ 
+§3JamWap§b [CJW]@ 
+§8bepis@ 
+§7Don't buy my items ;-;@ 
+§7[Common Rifle of Foolishness]@ 
+§7MINE@ 
+§7[Mundane Cross Spear of Siegfried]@ 
+§7[Diorite-Hewn Spear]@ 
+§7[Average Root of Lameness]@ 
+§7[Normal Dagger of Siegfried]@ 
+§7[Basic Compound Bow of Lameness]@ 
+§7[Andesite-Hewn Spear]@ 
+§8sandals@ 
+§7[Average Baton of Maltic]@ 
+§7[Boundary]@ 
+§7[Mundane Shovel slightly Chipped]@ 
+§7- §dDetective's Ring [74]@ 
+§7- §eGiant's Ring [76]@ 
+§7- §eGnome's Ring [76]@ 
+§7- §bLegend Guard's Plate [70]@ 
+§7- §dTrainer's Pendant [70]@ 
+§7Sold Out@ 
+§3PurgaWynn§b [PWS]@ 
+§7[Nymeria]@ 
+§7[Zero]@ 
+§7[-257,78,-4938]@ 
+§7I sell some stuff@ 
+§7with the treasure. @ 
+§7[Stratiformis]@ 
+§7[973,146,-5468]@ 
+§7[Light Spruce Wood Dagger]@ 
+§7PogU <3@ 
+§7[Rhythm of the Seasons]@ 
+§7Come Hither Peasant@ 
+§8A mysterious potion said to turn an@ 
+§8ordinary day into an@ 
+§8extraordinary one@ 
+§7Good luck young adventurer !@ 
+§3[-727, 61, -942]@ 
+§8This is an invitation to the guild@ 
+§8known as Lux Nova, or also@ 
+§8known as LXA by our tag.@ 
+§8When you reach level fifty@ 
+§8or above, make sure to@ 
+§8contact TrisGDS for more@ 
+§8details and a discord link@ 
+§8invite to the LXA discord.@ 
+§8. . .@ 
+§8butter dog dog with the butter on@ 
+§8his head@ 
+§7My ring has been bought :D@ 
+§7SOLD OUT! Moving to@ 
+§7Kandon-Beda next!@ 
+§7can never have enough goldi@ 
+§7gold@ 
+§7cereal is just soup for@ 
+§7cowards@ 
+§7Some stuff you can buy, BUY@ 
+§7NOW@ 
+§7Random Lvl 40-60 Rares@ 
+§7"Save money, live better"@ 
+§7Wal✬Mart@ 
+§7Good Crafted Items@ 
+§8It's like Intensity... But worse!@ 
+§7buy or ppfart@ 
+§7t@ 
+§7Decent stuff, :I@ 
+§7Buying lvl 1-60 t1 mats.@ 
+§732eb/stack 32le/bank page Msg@ 
+§7me :)@ 
+§7Stuff for cheap@ 
+§7Check out my wares! Please I'm@ 
+§7broke@ 
+§7AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA@ 
+§7Buy my random stuff omegalul@ 
+§7NOT A SCAM AND DEF NOT A MAT@ 
+§7STORAGE@ 
+§7Snake Oil@ 
+§7- Savannah Stone@ 
+§7lvl 75-100 pots for the carry@ 
+§7Muyo's Rarities Shop!@ 
+§7BUY LOOT ME WANT U MONEY@ 
+§7You are a great person :D@ 
+§7please buy my ring xoxo@ 
+§7Join ILQ!@ 
+§7lq necklace / loot running@ 
+§7gear@ 
+§7- §bThe Scarecrow's Vest [20]@ 
+§3Sky Nova§b [SNv]@ 
+§7[Basic Rapier slightly Chipped]@ 
+§8will kill you some day@ 
+§3Dark Brotherhood§b [DbH]@ 
+§7[Basic Halberd of Lameness]@ 
+§7- Mysterious Mist@ 
+§7- §aCephalothorax [16]@ 
+§7- §aSpinneret [19]@ 
+§3Near Dead§b [NDY]@ 
+§7L I B R A@ 
+§7- The Necromancer's Galoshes of Oblivion [51]@ 
+§7[Common Warhammer of Boredom]@ 
+§7[Plain Claws of Lameness]@ 
+§7Only for better xp scroll!@ 
+§7[-258,58,-4999]@ 
+§7- §bTerra's Mold [90]@ 
+§7[Common Claymore slightly Chipped]@ 
+§7 - §f4 Corkian Amplifier 1À@ 
+§7[Aggressive Baton of Chaos]@ 
+§7High-lv gear for a cheap@ 
+§7price!@ 
+§7[Menacing Branch of Chaos]@ 
+§7[Fury Branch of the Barbarian]@ 
+§7[Basic Javelin of Siegfried]@ 
+§7[Mach]@ 
+§7- §aRelic Leggings [40]@ 
+§7Selling Sewer Keys@ 
+§7[Spruce Wood Dagger]@ 
+§7- §aFire Relic Leggings [40]@ 
+§4@ 
+§7Selling Sewer Keys [8 EB]@ 
+§7resources at a fair price!@ 
+§7[Mundane Machete of Boredom]@ 
+§7- Lotus Seedpod@ 
+§7Sanctuary key for you@ 
+§7- Webbed Offshoot@ 
+§7[Average Shiv slightly Chipped]@ 
+§7literal garbage, please waste@ 
+§7your fortune here@ 
+§7[Common Cutlass of Boredom]@ 
+§7Buying t1 copper mats.@ 
+§7Breadskate@ 
+§7 - §f9 Corkian Amplifier 1À@ 
+§7 - §f5 Corkian Amplifier 1À@ 
+§7Some oil ig@ 
+§7[Common Cannon of Ragni]@ 
+§7buy totally not overpriced@ 
+§7things!@ 
+§7oh@ 
+§7[Plain Javelin of Lameness]@ 
+§3SylVan of Wynn§b [SVA]@ 
+§7Items for questionable prices,@ 
+§7buy if you have money :D@ 
+§3Anomality§b [PYC]@ 
+§7STOP PUSHING@ 
+§7Potions@ 
+§8is impossible...@ 
+§7buy my monster@ 
+§7[Average Greatbow of Siegfried]@ 
+§7E-E-E-E-E-E-E-E-E-E@ 
+§7[Common Blunderbuss of Foolishness]@ 
+§7[Plain Table Leg of Lameness]@ 
+§7Random schmuck for all your@ 
+§7random needs@ 
+§7[Mundane Yumi of Boredom]@ 
+§7[Light Spruce Wood Wand]@ 
+§7- §dLazarus' Brace [69]@ 
+§7[Mundane Dirk of Siegfried]@ 
+§7[Lethality]@ 
+§7[Berserk Stave of the Bull]@ 
+§7[Plain Razor of Foolishness]@ 
+§7[Normal Falchion slightly Chipped]@ 
+§7[Stone-Hewn Dagger]@ 
+§8Looking for a specific ring for@ 
+§8your lvl 40s class? Look no@ 
+§8further! Everything you@ 
+§8could possibly want is in this@ 
+§8ring!@ 
+§7[Plain Spear of Boredom]@ 
+§7[Skien's Madness]@ 
+§7Random items@ 
+§7[Granite-Hewn Spear]@ 
+§7Hello@ 
+§7[Big Ol' Hammer]@ 
+§7Best stuff in the game, with@ 
+§7love <3@ 
+§7[Joyous]@ 
+§7[Emboldened Relik of Enhancement]@ 
+§7[Mundane Hammer of Siegfried]@ 
+§7[Lucky Relik of Fire]@ 
+§8t@ 
+§7[Sneaky Caster]@ 
+§8Do not attempt to wear this@ 
+§8helmet if you have a smol@ 
+§8brain.@ 
+§7[Raging Relik of the Bear]@ 
+§7[Basic Table Leg of Maltic]@ 
+§7stream nostyle demoness on all@ 
+§7platforms@ 
+§8These organs are sitting there...@ 
+§8menacingly...@ 
+§7[Soundgarden]@ 
+§7The worst items at the worst@ 
+§7Blue Mask@ 
+§7[Basic Slingshot slightly Chipped]@ 
+§7[Plain Stick of Ragni]@ 
+§a- §7Cyphrus Code [CYX]@ 
+§a- §7Avicia [AVO]@ 
+§7[Dragon's Tongue]@ 
+§7a@ 
+§7- §aVeekhat's Udders [89]@ 
+§7- §aVeekhat's Horns [89]@ 
+§7- §dChangeling's Chestplate [80]@ 
+§7- §bDodegar's Ultimate Weapon [75]@ 
+§7your mom@ 
+§7realm of the mad god@ 
+§7BEST OF THE BEST STAFF )))@ 
+§7-@ 
+§7[Executing Rifle of the Bull]@ 
+§7Bruh@ 
+§7[Basic Root of Siegfried]@ 
+§7Get yur xp potions@ 
+§7- Corkian's Compound Bow of the Rabbit [8]@ 
+§7⒭⒜⒩⒟⒪⒨ ⒤⒩⒢⒭⒠⒟⒤⒠⒩⒯⒮@ 
+§7[Contamination]@ 
+§7[Mundane Plank of Lameness]@ 
+§7[Rampaging Cannon of Strength]@ 
+§7Some raid loots.@ 
+§7- Runner's Stompers of Swiftness [28]@ 
+§7- §aFire Relic Boots [25]@ 
+§7best items at low prices@ 
+§7[Basic Cannon of Maltic]@ 
+§7Show to the world how@ 
+§7wealthy you seem!@ 
+§7- §aElf Cap [50]@ 
+§7- §aElf Pants [50]@ 
+§7- §aElf Shoes [50]@ 
+§7[Average Blade of Foolishness]@ 
+§7yeah i claimed this spot@ 
+§7- Warrior's Blunderbuss of Pain [22]@ 
+§7[Noctilucent]@ 
+§7- Corrupted Beef@ 
+§7[Impeccable Granite Bow]@ 
+§3NepSquad§b [SqN]@ 
+§7[Common Sabre of Boredom]@ 
+§7- Pillaged Paper of Pick-pocketing [5]@ 
+§7[Shale Edge]@ 
+§3Zealous Savants§b [ZSV]@ 
+§a- §7Crafters Guild [XFT]@ 
+§a- §7TerraLune [UTL]@ 
+§a- §7RedLotus [OUS]@ 
+§7[Amadeus]@ 
+§7Pls rich people buy something@ 
+§7))) i need money <3 :D@ 
+§7- §8Overload Core@ 
+§7- §8Synchro Core@ 
+§7- §8Harden Core@ 
+§7- §8Dodge Core@ 
+§7- §8Hustle Core@ 
+§7uwu@ 
+§7Useful items here, find your@ 
+§7offer!@ 
+§7[Andesite-Hewn Relik]@ 
+§7gaga@ 
+§7[Average Staff of Boredom]@ 
+§7[Common Blade of Foolishness]@ 
+§7[Normal Slingshot of Ragni]@ 
+§7[Basic Plank of Ragni]@ 
+§7wahoo@ 
+§7[Banishing Longbow of the Bear]@ 
+§7 - §f64 Royal Bug?s BloodÀ@ 
+§8whats up@ 
+§8They told her to harden her@ 
+§8heart, for the world is cruel@ 
+§8and unjust. With the gravest@ 
+§8of sins committed, she had@ 
+§8done just so.@ 
+§8Time moves slower for the cursed@ 
+§8soul who decides to wear@ 
+§8these leggings, they bring@ 
+§8forth riches beyond your@ 
+§8imagination but break at the@ 
+§8slightest whisper of a mouse.@ 
+§7- Digestible Fungi@ 
+§8b@ 
+§7[Rewind]@ 
+§7Hey, good lookin! I've got@ 
+§7some goodies for u :3@ 
+§7- Slow-Cooked Snack full of Calcium [3]@ 
+§7Beter dan Quaggy@ 
+§7swag drip@ 
+§7[Birch Wood Dagger]@ 
+§7[Jungle Wood Wand]@ 
+§7[Emerald Chopper]@ 
+§6 - §a✔ §21 Obsidian-Framed Helmet@ 
+§7[Normal Hammer of Boredom]@ 
+§7pisces here@ 
+§8"If I had an emerald for@ 
+§8every button I clicked..."@ 
+§7Join TNL (trash items)@ 
+§3ShadowDragon§b [MJK]@ 
+§7Only for the best xp scroll!@ 
+§7low tier powders at low prices@ 
+§7- Quartz Cluster@ 
+§7Probably the best Shop in@ 
+§7"Town"@ 
+§7[Average Root slightly Chipped]@ 
+§7[Diorite-Hewn Relik]@ 
+§7yes@ 
+§7Join Fox@ 
+§7eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee@ 
+§7Just the good stuff@ 
+§7- §dElectro Mage's Boots [89]@ 
+§7- §eSeafarer's Coat [26]@ 
+§7[Normal Shank of Foolishness]@ 
+§7honestly it's not that great@ 
+§7Buy two bananas for the price@ 
+§7of one, now that's a deal.@ 
+§7Welcome to gamer island, no@ 
+§7TNL allowed@ 
+§7Yo buy me stuff.@ 
+§7[Ozone]@ 
+§7Best shop no doubt.@ 
+§7Selling price inflated items!@ 
+§8Eye see you looking at me.@ 
+§8where are the cannonballs? lol@ 
+§8he said balls@ 
+§8pee eks@ 
+§8Need stats for your level 47 or@ 
+§7- §bPhoenix Prince's Crown [90]@ 
+§7[Normal Impaler of Maltic]@ 
+§7[Average Rifle of Boredom]@ 
+§7"Nothing here"@ 
+§7[Normal Scissors of Ragni]@ 
+§7[Singularity]@ 
+§7[Mundane Rifle slightly Chipped]@ 
+§7gaaaaaaaaaaaaaaaaaaaaaaaaaaaaa@ 
+§3Piratiky§b [PIR]@ 
+§7- Bandit's Hoop of Greed [43]@ 
+§7- Thief's Loop of Hyperactivity [45]@ 
+§7- Bandit's Hoop of the Bat [37]@ 
+§7Worst shop in the world@ 
+§7"Something here"@ 
+§7look@ 
+§7buy my random stuff i need@ 
+§7bank space@ 
+§7[Average Baton slightly Chipped]@ 
+§7Get Your Zombie Eyes Here@ 
+§7plz buy thx@ 
+§7cheapest prices 'round. keys,@ 
+§7powder, and some weapons.@ 
+§7[Granite-Hewn Dagger]@ 
+§7hi@ 
+§7[Mundane Scissors of Boredom]@ 
+§7just buy the stuff@ 
+§7- §aMask of the Dark Vexations [20]@ 
+§7- §cAnya's Penumbra [100]@ 
+§7[211,156,-5488]@ 
+§7[158,76,-5456]@ 
+§8The inscription inscribed upon the band@ 
+§8of this pendant roughly@ 
+§8translates to "kill or be@ 
+§8killed" and is the only law of@ 
+§8After years of fighting corruption@ 
+§8the Wynn soldiers slowly@ 
+§8become corrupt themselves.@ 
+§8They only way to keep away@ 
+§8from loosing their humanity is@ 
+§8to rip and tear through@ 
+§8hordes of the wicked and@ 
+§8undead releasing their@ 
+§8frustration.@ 
+§8Destilled from the secretions of@ 
+§8strange plants found in the@ 
+§8depths of the void, this@ 
+§8alcoholic spirit fills people@ 
+§8with a void, thirsting to be@ 
+§8filled.@ 
+§8High Quality Clorox Bleach coming@ 
+§8SoonTM to a store near you!@ 
+§7[Mountain Spirit]@ 
+§7[Average Destroyer of Siegfried]@ 
+§7[Absolute Relik of the Berserker]@ 
+§7Quack@ 
+§7- §bHaros' Oar [30]@ 
+§7Welcome to Brazil/farming for@ 
+§7Hashr's claw.@ 
+§7[Basic Stave slightly Chipped]@ 
+§7Buy pls@ 
+§7uth booth@ 
+§7Perfect for any sea-loving@ 
+§7person!@ 
+§7[Normal Rapier of Ragni]@ 
+§7cheap rarities, pretty good@ 
+§7quality@ 
+§7buy my cork amps pls :D@ 
+§7Decent items, at decent@ 
+§7prices.@ 
+§7- Runner's Loop of the Zebra [8]@ 
+§7sold out for now@ 
+§7Its pretty cold out here, have@ 
+§7some snow.@ 
+§7Stuff I don't want, please@ 
+§7just buy it.@ 
+§7- §aStaff of the Dark Vexations [25]@ 
+§7ni@ 
+§71% of all emerald profits@ 
+§7above 100 million goes to@ 
+§7charity@ 
+§7chicken nuggets for sale@ 
+§7⒵⒲⒵@ 
+§7[Altimeter]@ 
+§7§lCurrently: §f파우더@ 
+§7Moe秘制百宝箱Σ(っⒾ °Д °;)っⒼ@ 
+§3Aequitas§b [Aeq]@ 
+§7Buy my stuff rich people@ 
+§7please im poor@ 
+§7[Mundane Short Bow slightly Chipped]@ 
+§7Province imports, as long as@ 
+§7you have enough Emeralds.@ 
+§7im having an allergic reaction@ 
+§7please someone help me@ 
+§7New Gathering XP for cheap@ 
+§3Guardians§b [EbF]@ 
+§7Muyo秘制百宝箱(tm旁边的Moe是Muyo老婆uwu)@ 
+§6 - §a✔ §21 Gold Solar Bracelet@ 
+§7bnuuy@ 
+§7[Earth Relic Wand]@ 
+§7[Upgraded Radiance]@ 
+§6 - §a✔ §21 Elysium-Engraved Aegis@ 
+§7[Mundane Short Bow of Maltic]@ 
+§7Give me your money@ 
+§7I don't know what I'm selling@ 
+§7but I need bankspace@ 
+§8first Gavellian king, to@ 
+§7- §5Pure [65]@ 
+§7poodles with noodles@ 
+§8ur mom@ 
+§7⒮⒪⒨⒠ ⒢⒪⒪⒟⒤⒠⒮ ⒡⒪⒭ ⒴⒪⒰⒭@ 
+§7⒜⒟⒱⒠⒩⒯⒰⒭⒠ !@ 
+§8Do you hear them Scream?@ 
+§8Do you hear their Screams?@ 
+§8Owo organs?!@ 
+§8What does it take for you to lie,@ 
+§8cheat, hurt and betray? Only@ 
+§8those who aren't afraid of@ 
+§8doing these things can avoid@ 
+§8them themselves.@ 
+§8You get melee damage and will@ 
+§8probably never need to@ 
+§8repair it. What more do you@ 
+§8want?@ 
+§8Higher Quality Clorox Bleach coming@ 
+§7This is a bad spot.@ 
+§7I don't know what I'm doing@ 
+§7but these items seem cool?@ 
+§7SELLING CLOROX BLEACH@ 
+§7Stuff for sale@ 
+§7[The Specialist]@ 
+§7[Barbed]@ 
+§7items at prices@ 
+§7[Common Great Hammer of Siegfried]@ 
+§3Soldiers of Darkness§b [JAO]@ 
+§7- Cleric's Choker of the Wise [55]@ 
+§7things and stuffs mmmh yes@ 
+§7[Basic Mace of Lameness]@ 
+§7of the pink, flying creature @ 
+§7Ingredients from the new@ 
+§7world!@ 
+§7- §aVillager Mail [26]@ 
+§8wheeee@ 
+§7asdfghjk@ 
+§7[Flawless Birch Wand]@ 
+§7[Common Pike of Foolishness]@ 
+§7- Broken Dagger@ 
+§7[Limbo]@ 
+§7Gathering, Xp Grinding,@ 
+§7Warring Consumables@ 
+§828 minutes of xp@ 
+§8This has 8 uses with 9 minutes@ 
+§8per use!@ 
+§8over 10 minutes of health@ 
+§8bonus, health regen, and fire@ 
+§8defence@ 
+§7"I don't to be the best@ 
+§7blacksmith in whiterun"@ 
+§7- Warrior's Recurve Bow of Suffering [35]@ 
+§7- Warrior's Recurve Bow of Fury [38]@ 
+§7- Berserker's Blunderbuss of Wrath [37]@ 
+§7[The Exploited]@ 
+§7yo buy my stuff! :D@ 
+§8Squimble is our biological@ 
+§8father, he is our guid and@ 
+§8hero. He beats all his@ 
+§8ennemies for being@ 
+§8prestigious. He is looking for@ 
+§8a waifu@ 
+§7- Runner's Tip of Speed [14]@ 
+§7✸ Xannuh's Shady Shop ✸@ 
+§7Buy Stuff :)@ 
+§7- Dirty Quire of the Sea's [7]@ 
+§7- Bantisu's Book from Gale [7]@ 
+§7[Basic Rod slightly Chipped]@ 
+§7- §aPotion of §c✹ Defence [3]@ 
+§7dont open@ 
+§7IDK what this text is and so@ 
+§7do you@ 
+§7[-951,47,-5292]@ 
+§7[-715,46,-5551]@ 
+§7[-624,42,-5125]@ 
+§7[-725,44,-5009]@ 
+§7Only for the best Scroll@ 
+§7(XP/Aura)@ 
+§8Not the ultimate pog, but worth a@ 
+§8mild pog.@ 
+§7[Plain Scissors slightly Chipped]@ 
+§7[Average Scimitar of Foolishness]@ 
+§8The tentacles sprouting from the earth@ 
+§8of the Toxic Wastes are@ 
+§8actually similiar to a species@ 
+§8of calamri found in the@ 
+§8depths of the ocean. They@ 
+§8certainly taste more acidic@ 
+§8than their aquatic relatives,@ 
+§8but they are far less@ 
+§8dangerous.@ 
+§8Through unkown means this piece of@ 
+§8paper holds an imprint of an@ 
+§8actual ghost. Some say that@ 
+§8you can fell their essence@ 
+§8inside of it.@ 
+§8More valuable than Liq Emerald. 3rd@ 
+§8of its kind@ 
+§7Random chestplates@ 
+§8The one eyed willy annihilator@ 
+§8speedrun anypercent but@ 
+§8slow@ 
+§8This silvery pendant is actually@ 
+§8mercury. Despite its melting@ 
+§8point it somehow remains@ 
+§8solid. Though through@ 
+§8unknown means it evaporates@ 
+§8without losing its volume,@ 
+§8poisoning everything around@ 
+§8Two parts Rodorock vodka, one@ 
+§8part vampire blood makes a@ 
+§8rough tasting health potion@ 
+§8that makes you feel like your@ 
+§8soul is on fire!@ 
+§7hi moth@ 
+§7Buy my stuff plzzz :3@ 
+§7"rarity soarfae and pisces"@ 
+§7[Common Razor of Lameness]@ 
+§7I swear it's legal.@ 
+§7Σ(っ °Д °;)っ@ 
+§7- §aVillager Pants [24]@ 
+§725% cheaper Gold Bars than@ 
+§7Dealer@ 
+§7Join BLA! also buy bad items@ 
+§7Random Shop@ 
+§838 minutes of XP@ 
+§851 Minutes of xp@ 
+§7buy now or bad@ 
+§7pls come buy from me i am poor@ 
+§7Chestnut horses runing@ 
+§7Bunch of Above-Average goodies@ 
+§7Gimme money im cool@ 
+§7Chestnut Horse Runing on the@ 
+§7market Σ(っ °Д °;)っ@ 
+§7if you're lucky, something@ 
+§7here will be appropriately@ 
+§7priced@ 
+§7Why is there a booth here?@ 
+§7- §5Apocalypse [81]@ 
+§7JOIN BLA@ 
+§7[Blur]@ 
+§7[Blossom Haze]@ 
+§7[Basic Compound Bow of Foolishness]@ 
+§8W W W W W W W W W W W W W W W W@ 
+§8W W W W W W W W W W W W W W W@ 
+§8W W W@ 
+§7- §aEarth Relic Boots [25]@ 
+§7- §bGale's Sight [80]@ 
+§7[Common Short Bow of Ragni]@ 
+§7[Common Shovel of Siegfried]@ 
+§7[Depressing Spear]@ 
+§7Horses For All@ 
+§7- Tropical Honeysuckle@ 
+§7[Solar Pillar]@ 
+§7[Normal Scissors of Lameness]@ 
+§7! Lb/XP food and potion !@ 
+§7[Average Rod of Maltic]@ 
+§7- Mellow Mango@ 
+§7- Bloated Artery@ 
+§7- §eEternity's Edge [77]@ 
+§7كما@ 
+§7[Average Lance of Siegfried]@ 
+§7[Normal Cutlass of Maltic]@ 
+§7Bruh Shop@ 
+§7Imagine running fallen factory@ 
+§7ORANGUTAN@ 
+§7ITEMS + INGREDIENTS@ 
+§7[Basic Branch of Lameness]@ 
+§7[Normal Skewer of Boredom]@ 
+§7Selling: Monster, Sage,@ 
+§7Gathering Ingr, Unmeltable Ice@ 
+§7[Normal Recurve Bow of Maltic]@ 
+§7Wynncraft (more like@ 
+§7Losercraft hahahah)@ 
+§7[Normal Razor slightly Chipped]@ 
+§7Loot Quality Ⓓ for you Loot@ 
+§7running@ 
+§7ⓗⓘ ⓜⓞⓣⓗ@ 
+§7Good Goods at Good Prices@ 
+§7- Contorted Stone@ 
+§7all items are in fair prices@ 
+§7so plz buy@ 
+§7[Mundane Pike of Boredom]@ 
+§7Muyo秘制百宝箱Ⓘ(*｀ー´)Ⓖ@ 
+§7[Grimtrap]@ 
+§7Cluck Cluck!@ 
+§7Materials, Gear, Cheap@ 
+§7Buy my circults .-.@ 
+§7[Plain Greatbow of Boredom]@ 
+§7[Blazing Table leg of Quaking]@ 
+§7- §aDodge Core [84]@ 
+§7- §aSynchro Core [87]@ 
+§7Random items with random@ 
+§7prices@ 
+§851min of XP boosts!!!!@ 
+§845min of XP Boosts!!@ 
+§849min of XP Boosts!!@ 
+§7Randoms things for sale,@ 
+§7including some Morph Set@ 
+§7[The Medic]@ 
+§7[Plain Great Hammer of Siegfried]@ 
+§7[Basic Bone of Siegfried]@ 
+§7[Basic Reaver of Maltic]@ 
+§838min of XP Boosts!!@ 
+§7store@ 
+§7[Mundane Lance of Ragni]@ 
+§7[Average Slingshot slightly Chipped]@ 
+§7Hey look@ 
+§7Hi Record@ 
+§7(*´▽｀)ノノ@ 
+§7[Plain Dirk of Boredom]@ 
+§7[Basic Greatbow of Lameness]@ 
+§7[Normal Warhammer of Maltic]@ 
+§7[Average Wand slightly Chipped]@ 
+§7ÈÇï lb/XP food and potions!!!@ 
+§7- §aThunder Relic Chestplate [35]@ 
+§7- §aAir Relic Chestplate [35]@ 
+§7[Plain Scissors of Lameness]@ 
+§7[Normal Recurve Bow of Foolishness]@ 
+§7[Mundane Machete of Ragni]@ 
+§7[Mundane Plank of Ragni]@ 
+§7- Cleric's Ringlet of the High Tide [58]@ 
+§7- Cleric's Gold Ring of Mending [58]@ 
+§7<çå@ 
+§3World In Fire§b [WIF]@ 
+§7[Tower]@ 
+§7[Plain Dirk of Ragni]@ 
+§7- §5Divzer [97]@ 
+§7[Mundane Stick of Maltic]@ 
+§7[Normal Shank of Maltic]@ 
+§7[Plain Impaler of Lameness]@ 
+§7Legendary Items 90-100+ (+@ 
+§7Soulessences)@ 
+§7Selling Time Rift [2LE]@ 
+§7aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa@ 
+§7./msg me if you want a@ 
+§7specific material.@ 
+§b➜ §fCity of Troms@ 
+§e➜ §fJungle Lake§7 (80%)§8 [ANO]@ 
+§b§l✔ §fJungle Mid (HQ)@ 
+§a§l✔§f Useless@ 
+§a§l✔§f Abyss gazers@ 
+§a§l✔§f CPWC@ 
+§a§l✔§f Evil Inc@ 
+§a§l✔§f Foundation rejects@ 
+§7[Common Claymore of Foolishness]@ 
+§7High Level Garbadge@ 
+§8The pants compel you to buy them@ 
+§8for that sweet 13 percent@ 
+§8spell damage boost.@ 
+§7- §aWater Relic Helmet [30]@ 
+§7§o"⒪⒫⒠⒩⒮ ⒰⒫ ⒨⒴@ 
+§7§o⒞⒜⒞⒣⒠⒮１@ 
+§7§o⒟⒪⒩'⒯ ⒯⒪⒰⒞⒣１１@ 
+§7§o - ⒜⒭⒩⒜"@ 
+§7[Mundane Claws slightly Chipped]@ 
+§7shidflingers incorporated@ 
+§7[Average Focus of Boredom]@ 
+§7buy my merch@ 
+§7Lamp oil, rope, bombs! You@ 
+§7want it? It's yours, my@ 
+§7friend!@ 
+§7bow in my shop@ 
+§7Low level stuff in low level@ 
+§7areas.@ 
+§7It's random but they all gotta@ 
+§7go@ 
+§7BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB@ 
+§7Welcome :)@ 
+À@ 
+§3A§bⓐ §3B§bⓑ §3C§bⓒ §3D§bⓓ §3E§bⓔ@ 
+§3F§bⓕ §3G§bⓖ §3H§bⓗ §3I§bⓘ §3J§bⓙ@ 
+§3K§bⓚ §3L§bⓛ §3M§bⓜ §3N§bⓝ §3O§bⓞ@ 
+§3P§bⓟ §3Q§bⓠ §3R§bⓡ §3S§bⓢ §3T§bⓣ@ 
+§3U§bⓤ §3V§bⓥ §3W§bⓦ §3X§bⓧ §3Y§bⓨ@ 
+§3Z§bⓩ@ 
+§835min of XP boosts!!!@ 
+§8You can only find Olympic with this@ 
+§8food.@ 
+§7Buying "Dominant Force" and@ 
+§7"Enhanced Behavioural Chip"@ 
+§7Join Blacklisted Lv66 Today!@ 
+§7Msg me or NeonRider@ 
+§7ÈÇ50minïXPïFoodÇÈ---------ON-SALE!---------ÈÇ50minïXPïFoodÇÈ@ 
+§849min of XP boosts!!!@ 
+§7[Basic Yumi of Siegfried]@ 
+§3Ohsam Bulgogi§b [OsB]@ 
+§3DAUNS§b [XUY]@ 
+§7- Bandit's Ring of the Lazy [55]@ 
+§7- Skyraiders's Gold Ring of the Snail [54]@ 
+§7- Skyraiders's Hoop of Stillness [54]@ 
+§7- Skyraiders's Diamond Ring of Weight [56]@ 
+§7- Thief's Ring of Stasis [55]@ 
+§7- Thief's Circle of the Dead [58]@ 
+§7- Pirate's Diamond Ring of the Bandit [59]@ 
+§7Pog items pls buy cuz I'm poor@ 
+§6 - §c✖ §445 Pig Meat@ 
+§8This quality glove for giants has@ 
+§8had the thumb, middle finger,@ 
+§8and pinkie sleeves forcibly@ 
+§8removed along with the wrist@ 
+§8part of the glove. Whatever@ 
+§8the force that did this was, it@ 
+§8must have had incredible@ 
+§a- §2Villager Mail@ 
+§a- §7TheNoLifes [TNL]@ 
+§7[Basic Warhammer of Maltic]@ 
+§7[Normal Halberd of Lameness]@ 
+§a- §2Villager Pants@ 
+§7[Basic Wand of Maltic]@ 
+§7[Frustration]@ 
+§a- §2Fire Relic Boots@ 
+§7Selling: Monster, Pure,@ 
+§7Unmeltable Ice and@ 
+§7legends/fableds@ 
+§7if you're reading this you're@ 
+§7a donkey lmao@ 
+§7- §dMage-Crafted Staff [25]@ 
+§8Avicia is a high level guild that@ 
+§8has fun doing wars,@ 
+§8organizing lots of events@ 
+§8and being a helpfull group.@ 
+§8Looking for a high level and@ 
+§8an active guild? Come check@ 
+§8us out and apply at our@ 
+§8forum thread or contact a@ 
+§8chief.@ 
+§7Random Legendary Stuff@ 
+§3Abyss gazers§b [gaze]@ 
+§7ÈÇ50+minïXPïFoodÇÈ--------ON-SALE!--------ÈÇ50+minïXPïFoodÇÈ@ 
+§7[Very Big Scimitar of Skien]@ 
+§7- Warrior's Trident of Skien [48]@ 
+§870 min of XP Boosts !!@ 
+§835 min of XP Boosts !!@ 
+§7[Basic Warhammer of Ragni]@ 
+§7Squimble is our biological@ 
+§7father@ 
+§7thanks wxhlf for pointing this@ 
+§7out lmao@ 
+§8Inorder to save the princess,@ 
+§8please locate and read the@ 
+§8instruction manual.@ 
+§7- §eHell's Scream [92]@ 
+§7Buy my wood@ 
+§850 min of XP Boosts !!@ 
+§7Hewwo UwU@ 
+§7[Flawless Light Birch Wand]@ 
+§7o-o@ 
+§5§o§7Click to join@ 
+§5§o@ 
+§c -2.4 @ 
+§9 +3  @ 
+§c -3 @ 
+§9 +1.5  @ 
+§c -2.8 @ 
+§9 +1  @ 
+§c -3.2 @ 
+§9 +6  @ 
+§9 +4  @ 
+§9 +2.5  @ 
+§9 +2  @ 
+§c -2 @ 
+§9 +8  @ 
+When on legs:@ 
+§9 +2 Armor@ 
+When on head:@ 
+§9 +1 Armor@ 
+When on body:@ 
+§9 +3 Armor@ 
+When on feet:@ 
+§9 +5  @ 
+§9 +3.5  @ 
+§9 +5 Armor@ 
+§c -1 @ 
+§9 +6 Armor@ 
+§c -3.1 @ 
+§9 +4.5  @ 
+§9 +2 Armor Toughness@ 
+§9 +8 Armor@ 
+§9 +4 Armor@ 
+§9Night Vision (3:00)@ 
+§9Night Vision (8:00)@ 
+§9Invisibility (3:00)@ 
+§9Invisibility (8:00)@ 
+§9Jump Boost (3:00)@ 
+§9Jump Boost (8:00)@ 
+§9Jump Boost II (1:30)@ 
+§9 (3:00)@ 
+§9 (8:00)@ 
+§9Speed (3:00)@ 
+§5When Applied:@ 
+§9+20% Speed@ 
+§9Speed (8:00)@ 
+§9Speed II (1:30)@ 
+§9+40% Speed@ 
+§cSlowness (1:30)@ 
+§c-15% Speed@ 
+§cSlowness (4:00)@ 
+§9Water Breathing (3:00)@ 
+§9Water Breathing (8:00)@ 
+§9@ 
+§9 II@ 
+§c@ 
+§c II@ 
+§cPoison (0:45)@ 
+§cPoison (1:30)@ 
+§cPoison II (0:21)@ 
+§9 (0:45)@ 
+§9 (1:30)@ 
+§9 II (0:22)@ 
+§9Strength (3:00)@ 
+§9+3  @ 
+§9Strength (8:00)@ 
+§9Strength II (1:30)@ 
+§9+6  @ 
+§cWeakness (1:30)@ 
+§c-4  @ 
+§cWeakness (4:00)@ 
+§9Luck (5:00)@ 
+§9+1 Luck@ 
+Protection @ 
+Fire Protection @ 
+Feather Falling @ 
+Blast Protection @ 
+Projectile Protection @ 
+Respiration @ 
+Aqua Affinity@ 
+Thorns @ 
+Depth Strider @ 
+Frost Walker @ 
+§cCurse of Binding@ 
+Sharpness @ 
+Smite @ 
+Bane of Arthropods @ 
+Knockback @ 
+Fire Aspect @ 
+Looting @ 
+Sweeping Edge @ 
+Efficiency @ 
+Silk Touch@ 
+  @ 
+Fortune @ 
+Power @ 
+Punch @ 
+Flame@ 
+Infinity@ 
+Luck of the Sea @ 
+Lure @ 
+Mending@ 
+§cCurse of Vanishing@ 
+§9Night Vision (0:22)@ 
+§9Night Vision (1:00)@ 
+§9Invisibility (0:22)@ 
+§9Invisibility (1:00)@ 
+§9Jump Boost (0:22)@ 
+§9Jump Boost (1:00)@ 
+§9Jump Boost II (0:11)@ 
+§9 (0:22)@ 
+§9 (1:00)@ 
+§9Speed (0:22)@ 
+§9Speed (1:00)@ 
+§9Speed II (0:11)@ 
+§cSlowness (0:11)@ 
+§cSlowness (0:30)@ 
+§9Water Breathing (0:22)@ 
+§9Water Breathing (1:00)@ 
+§cPoison (0:05)@ 
+§cPoison (0:11)@ 
+§cPoison II (0:02)@ 
+§9 (0:05)@ 
+§9 (0:11)@ 
+§9 II (0:02)@ 
+§9Strength (0:22)@ 
+§9Strength (1:00)@ 
+§9Strength II (0:11)@ 
+§cWeakness (0:11)@ 
+§cWeakness (0:30)@ 
+§9Luck (0:37)@ 
+§9Night Vision (0:45)@ 
+§9Night Vision (2:00)@ 
+§9Invisibility (0:45)@ 
+§9Invisibility (2:00)@ 
+§9Jump Boost (0:45)@ 
+§9Jump Boost (2:00)@ 
+§9Jump Boost II (0:22)@ 
+§9 (2:00)@ 
+§9Speed (0:45)@ 
+§9Speed (2:00)@ 
+§9Speed II (0:22)@ 
+§cSlowness (0:22)@ 
+§cSlowness (1:00)@ 
+§9Water Breathing (0:45)@ 
+§9Water Breathing (2:00)@ 
+§cPoison (0:22)@ 
+§cPoison II (0:05)@ 
+§9 II (0:05)@ 
+§9Strength (0:45)@ 
+§9Strength (2:00)@ 
+§9Strength II (0:22)@ 
+§cWeakness (0:22)@ 
+§cWeakness (1:00)@ 
+§9Luck (1:15)@ 
+C418 - 13@ 
+C418 - cat@ 
+C418 - blocks@ 
+C418 - chirp@ 
+C418 - far@ 
+C418 - mall@ 
+C418 - mellohi@ 
+C418 - stal@ 
+C418 - strad@ 
+C418 - ward@ 
+C418 - 11@ 
+C418 - wait@ 
+§5§o§eCharacter Info:@ 
+§5§o§e- §7Class: §fMage@ 
+§5§o§6@ 
+§5§o§6Spells:@ 
+§5§o§6- §fHeal§7 [Lv. 1]@ 
+§5§o§6- §fTeleport§7 [Lv. 11]@ 
+§5§o§6- §fMeteor§7 [Lv. 21]@ 
+§5§o§6- §fIce Snake§7 [Lv. 31]@ 
+§5§o§5Next Upgrade:@ 
+§5§o§5- §7Meteor Upgrade III §8[Lv. 56]@ 
+§5§o§4[Right-Click to Delete]@ 
+@ 
+§7[Basic Cross Spear of Foolishness]@ 
+§5§o§fLeft-Click§7 to view contents@ 
+§5§o§7Right-Click to disable auto-pickup@ 
+§5§o§7This item's powers have@ 
+§5§o§7been sealed. Take it to@ 
+§5§o§7an identifier to@ 
+§5§o§7unlock its potential.@ 
+§5§o§aInfo:@ 
+§5§o§a- §7Tier: §dRare@ 
+§5§o§a- §7Type: §fHelmet@ 
+§5§o§a- §7Tier: §aSet@ 
+§5§o§a- §7Type: §fLeggings@ 
+§5§o§6View and manage your skills@ 
+§5§o§7Normal Attack Speed@ 
+§5§o§a✔§7 Class Req: Mage/Dark Wizard@ 
+§5§o§7§a+8% §7Main Attack Damage@ 
+§5§o§7§a+11% §7Spell Damage@ 
+§5§o§7§a+5% §7Water Damage@ 
+§5§o§7§a+9% §7Water Defence@ 
+§5§o§bLegendary Item@ 
+§5§o§8§8The mystery of the ocean’s@ 
+§5§o§8appearance has eluded scholars@ 
+§5§o§8for centuries. It is believed@ 
+§5§o§8that many years ago, warlocks@ 
+§5§o§8used wands like this one@ 
+§5§o§8in an attempt to submerge@ 
+§5§o§8the world.@ 
+§5§o§5Armour: None@ 
+§5§o§7§a+10% §7Walk Speed@ 
+§5§o§eUnique Item@ 
+§5§o§cUntradable Item@ 
+§5§o§7§a+2% §7XP Bonus@ 
+§5§o§7§a+9%§2* §7Loot Bonus@ 
+§5§o§3§b+Magnet: §3Pulls items dropped@ 
+§5§o§3by mobs nearby towards you@ 
+§5§o§cFabled Item@ 
+§5§o§7§a+6%§2* §7Loot Bonus@ 
+§5§o§7§a+4% §7Exploding@ 
+§5§o§7§a+9%§2* §7Fire Damage@ 
+§5§o§7- §8Nether Tunic@ 
+§5§o§a- §2Nether Boots@ 
+§5§o§a- §2Nether Pants@ 
+§5§o§7- §8Nether Cap@ 
+§5§o§aSet Bonus:@ 
+§5§o§7§a+2% §7Fire Damage@ 
+§5§o§7§c-1 §7Health Regen@ 
+§5§o§7§c-10% §7Water Damage@ 
+§5§o§7§a+2% §7Exploding@ 
+§5§o§7§a+5/4s §7Life Steal@ 
+§5§o§aSet Item@ 
+§5§o§7§a+79/3s §7Poison@ 
+§5§o§7§a+8§2* §7Health Regen@ 
+§5§o§dRare Item@ 
+§5§o§7§a+4%§2** §7Health Regen@ 
+§5§o§7§a+3% §7XP Bonus@ 
+§5§o§7§a+1% §7Soul Point Regen@ 
+§5§o§7§a+7 §7Defence@ 
+§5§o§7§a+3% §7Loot Bonus@ 
+§5§o§7§a+6%§2* §7Exploding@ 
+§7[Mundane Mace of Maltic]@ 
+§5§o§7§a+9 §7Dexterity@ 
+§5§o§7§a+9 §7Defence@ 
+§5§o§7§a+29% §7Main Attack Damage@ 
+§5§o§7§a+9% §7XP Bonus@ 
+§5§o§7§c-1 tier §7Attack Speed@ 
+§5§o§7§a+38%§2** §7Fire Damage@ 
+§5§o§7§a+15% §7Thunder Damage@ 
+§5§o§7§c-20% §7Water Defence@ 
+§5§o§7§c-5 §7Strength@ 
+§5§o§7§c-5 §7Dexterity@ 
+§5§o§7§c-5 §7Intelligence@ 
+§5§o§7§c-5 §7Agility@ 
+§5§o§7§c-5 §7Defence@ 
+§5§o§7§a+19%§2* §7Fire Damage@ 
+§5§o§7§a+16%§2* §7Water Damage@ 
+§5§o§7§a+19%§2** §7Air Damage@ 
+§5§o§7§a+9% §7Earth Damage@ 
+§5§o§7§a+3% §7Fire Defence@ 
+§5§o§7§a+4% §7Air Defence@ 
+§5§o§7§a+6% §7Thunder Defence@ 
+§5§o§7§a+9% §7Earth Defence@ 
+§5§o§7Hold and Right-click to see quests@ 
+§5§o§5Discoveries:@ 
+§5§o§7Currency@ 
+§5§o§3VIP+§7 & §5HERO §7Only@ 
+§5§o§7Scrap & Open Crates@ 
+§5§o§3Buy more crates at @ 
+§5§o§bwynncraft.com/store@ 
+§5§o§7Use the §aperks§7 you @ 
+§5§o§7bought in the §6store!@ 
+§5§o§8Open the §7Player Effects§8 menu@ 
+§5§o§8Open the §7Attack Effects§8 menu@ 
+§5§o§7Create a cloud effect whenever you hit!@ 
+§5§o§fCommon Reward@ 
+§5§o§aInfinite uses@ 
+§5§o§7Create a Letter effect whenever you hit!@ 
+§5§o§7You must join a guild@ 
+§5§o§7before viewing this menu@ 
+§5§o§8Find the Guild Master in@ 
+§5§o§8Cinfras to create a guild@ 
+§5§o§7Tomes are special raid rewards@ 
+§5§o§7which can buff your character@ 
+§5§o§c✖ Quest Req: Realm of Light I - The Worm Holes§8 (Lv. 54)@ 
+§5§o§7Click here to@ 
+§5§o§7scrap your rewards.@ 
+§5§o§7Disguise yourself as a sheep@ 
+§5§o§7Disguise yourself as a cow@ 
+§5§o§7Give your character@ 
+§5§o§7the Lake Gylia effect@ 
+§5§o§cGodly Reward@ 
+§5§o§8Open the §7Pets§8 menu@ 
+§5§o§cYou need to have the@ 
+§5§o§bVIP+ Rank §cor higher@ 
+§5§o§cto use this slot@ 
+§5§o§3Check §bwynncraft.com/store@ 
+§5§o§e- §7Class: §fShaman@ 
+§5§o§6- §fTotem§7 [Lv. 1]@ 
+§5§o§6- §7Haul§8 [Lv. 11]@ 
+§5§o§6- §7Aura§8 [Lv. 21]@ 
+§5§o§6- §7Uproot§8 [Lv. 31]@ 
+§5§o§5- §7Haul Spell §8[Lv. 11]@ 
+§5§o§5HERO Rank §cor higher@ 
+§5§o§2VIP Rank §cor higher@ 
+§7cringe dungeon ngl@ 
+§7Soon to be "Mob Totem" shop@ 
+§7(Daily limit of 12)!@ 
+§7[Stellar Plank of the Elements]@ 
+§7§lCurrently: §fї@ 
+§7[Angry Falchion of the Bull]@ 
+§7Dungeon keys at affordable@ 
+§7A Short History of Time@ 
+§7[Flawless Andesite Wand]@ 
+§7[Average Spire of Lameness]@ 
+§7[-557,59,-5460]@ 
+§7[81,54,-5289]@ 
+§7buy my overpriced goods@ 
+§8Like a master!@ 
+§8Yes this is definately a divzer,@ 
+§8please buy it also i own the@ 
+§8detlas booth it's so free. buy@ 
+§8my warchief. im now pandering@ 
+§8for length so it actually@ 
+§8looks like real wynncraft@ 
+§8lore, isnt that funny@ 
+§7[Plain Impaler of Siegfried]@ 
+§7bononolobobonlobononolo@ 
+§8Works for lvl 97 or higher!@ 
+§7[Sigil of Existence]@ 
+§7Prepare yourself for Lv 40!@ 
+§8The bottom of this paper is signed@ 
+§8by The TravisNH This item is@ 
+§8priceless and is sought@ 
+§8after by most collectors@ 
+§7[Diorite-Hewn Dagger]@ 
+§7- §bCerid's Ingenuity [45]@ 
+§7A noob's shop/E@ 
+§8nice@ 
+§7buy plz :P@ 
+§7buy my sprong, fanta and@ 
+§7divzer@ 
+§7Buy my circuit .-.@ 
+§7[Basic Crossbow of Boredom]@ 
+§7Hello pls buy my stuff! senk@ 
+§7you@ 
+§7[Average Cutlass of Ragni]@ 
+§7[Plain Shank of Ragni]@ 
+§7cheap gathering xp chestplate@ 
+§7and helmet@ 
+§7Stole your booth spot@ 
+§7Harganeth :P@ 
+§7[Amplified Great Hammer of Worth]@ 
+§a- §7Wheres The Finish [WFN]@ 
+§a- §7ShadowFall [Shy]@ 
+§a- §7Ultra Violet [Rays]@ 
+§a- §7Sins of Seedia [SDU]@ 
+§a- §7The Dark Phoenix [TNI]@ 
+§7yep@ 
+§7◙◙═Loot═Quality═Accessories═◙◙@ 
+§7and other things too i guess@ 
+§8yikes@ 
+§7UwU@ 
+§7[Common Table Leg of Boredom]@ 
+§8Blessed by a star god, these@ 
+§8ornate sandals reflect the@ 
+§8shimmering starlight on@ 
+§8moonlit oceans.@ 
+§7[Flawless Light Spruce Spear]@ 
+§8The blood of beings in the Silent@ 
+§8Expanse had been corrupted@ 
+§8by the dernic influence. It@ 
+§8differs from specimen to@ 
+§8specimen, but it always brings@ 
+§8a dark rage in those not@ 
+§8native to this umbreos@ 
+§8region.@ 
+§e➜ §fPath To Ozoth's Spire Mid§7 (2%)§8 [Fox]@ 
+§7food@ 
+§7Snake oil? Nah. I like fish@ 
+§7oil@ 
+§7[-203,84,-4942.5]@ 
+§7Gathering XP Gear and Other@ 
+§8Need more stats for your level 45@ 
+§7Cheese@ 
+§7§a2340/10000 stored@ 
+§7§6Ⓒ 500/500 stored@ 
+§7§a2452/10000 stored@ 
+§7§eⒿ 1/500 stored@ 
+§c§kQuest Item@ 
+§7[857,47,-5389]@ 
+§7[-12177,24,3572]@ 
+§7[-1822,49,-4903]@ 
+§a- §7Ⓚ 11200 Fish§c (207%)@ 
+§a- §7Ⓒ 7600 Wood§c (211%)@ 
+§a- §7Ⓚ 7400 Fish§c (205%)@ 
+§a- §7Ⓙ 21200 Crops§c (117%)@ 
+§b- §78SONDER8 transfered all contributed emeralds to Corkus City.@ 
+§8You only have limited time.@ 
+§8But what if, you could experience@ 
+§8that time again? And again,@ 
+§8and again...@ 
+§7neat@ 
+§7[-1655,59,-5087]@ 
+§7weed@ 
+§7idk what to sell so here ya go@ 
+§c✖ §7Crater Descent@ 
+§7Provincial imports, as long as@ 
