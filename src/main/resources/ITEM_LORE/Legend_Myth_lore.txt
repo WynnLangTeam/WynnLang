@@ -2656,7 +2656,7 @@
 
 §8§8"Crawly things. They crawl@§8"Ползучие твари. Они 
 §8on the mushrooms. Mushrooms@§8ползают по грибам. Грибы не 
-§8shouldn't be crawly!" -Yahya,@§8должны быть ползучими!" -Яхуя,
+§8shouldn't be crawly!" -Yahya,@§8должны быть ползучими!" -Яха,
 §8Mushroom Man@§8Грибной Человек
 
 §8§8"I swear on my life those@§8"Клянусь своей жизнью, эти 
@@ -2981,7 +2981,7 @@
 §8the effects of the lycanthropic@§8имитирует действие 
 §8curse.@§8ликантропического проклятия.
 
-§8§8The shirt has the quote@§8§8На футболке была напечатана 
+§8§8The shirt has the quote@§8§8На футболке напечатана 
 §8"I went to the Letvus Airbase@§8цитата: "Я был на авиабазе 
 §8in Cinfras and all I got@§8Летвус в Цинфрасе и все, 
 §8was this lousy T-shirt"@§8что я получил - это эта 
@@ -2989,3 +2989,7 @@
 
 §8§8You're seeing red... Time@§8§8Ты видишь красное...Время
 §8to see more of it.§8увидеть еще больше его.
+
+§8§8They must know what you@§8§8Они должны знать, через что 
+§8went through. They must@§8ты прошел. Они должны страдать 
+§8suffer the same as you did.@§8так же, как и ты.

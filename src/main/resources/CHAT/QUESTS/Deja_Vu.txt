@@ -2,8 +2,8 @@
 §7[2/6] §2Asher: §aTwo weeks now and you still haven't found it? Ugh, I can't believe I ever trusted you with such a simple task.@§7[2/6] §2Ашер: §aПрошло две недели, а ты все еще не нашел ее? Не могу поверить, что когда-либо доверил тебе такую простую задачу.
 §7[3/6] §2Asher: §aWho am I? WHAT DO YOU MEAN WHO AM I? You offered to help find my shovel, and I've been waiting two weeks!@§7[3/6] §2Ашер: §aКто я такой? ЧТО ЗНАЧИТ КТО Я? Ты предложил помочь найти мою лопату, и я жду уже две недели!
 §7[4/6] §2Asher: §aForget about your payment. Unless you either pay me back or get my shovel right now!@§7[4/6] §2Ашер: §aМожешь забыть о своей оплате. Если только ты не вернешь мне мои деньги, или не найдешь лопату прямо сейчас!
-§7[5/6] §2Asher: §aMy shovel? That's why I sent you out in the first place! It's somewhere in Time Valley. I lost it while looking for purple flowers to the west.@§7[5/6] §2Ашер: §aМоя лопата? Вот почему я послал тебя в первую очередь! Она где-то в Долине Времени. Я потерял ее, когда искал фиолетовые цветы на западной стороне. §6[-572, -1104]
-§7[6/6] §2Asher: §aNow are you going to hold up your end of the deal or not?@§7[6/6] §2Ашер: §aТеперь ты выполнишь свою часть сделки или нет?
+§7[5/6] §2Asher: §aMy shovel? That's why I sent you out in the first place! It's somewhere in Time Valley. I lost it while following a trail of flowers.@§7[5/6] §2Ашер: §aМоя лопата? Вот почему я послал тебя в первую очередь! Она где-то в Долине Времени. Я потерял ее, идя по цветочному следу. §6[-572, -1104]
+§7[6/6] §2Asher: §aI think it was south west of the large ruined gate. Now go get it!@§7[6/6] §2Ашер: §aДумаю, что это было к юго-западу от больших разрушенных ворот. А теперь иди и достань ее!
 §7[1/7] §2Asher: §aWell hello there, stranger! Welcome to Time Valley! Always nice to see a new face around here.@§7[1/7] §2Ашер: §aНу здравствуй, незнакомец! Добро пожаловать в Долину Времени! Всегда приятно видеть здесь новое лицо.
 §7[2/7] §2Asher: §aMad at you? Why would I be mad at you? We've never met.@§7[2/7] §2Ашер: §aЗлиться на тебя? С чего бы мне злиться на тебя? Мы ведь никогда не встречались.
 §7[3/7] §2Asher: §aI know this a bit forward, but I need to ask for your help with-@§7[3/7] §2Ашер: §aЯ знаю, что немного опережаю события, но мне нужно попросить твоей помощи с-
@@ -83,3 +83,4 @@
 §7[1/1] §2Asher: §aDon't come back here until you find my shovel, or I'll have you thrown in jail!@§7[1/1] §2Ашер: §aНе возвращайся сюда, пока не найдешь мою лопату, или я брошу тебя в тюрьму! §6[-572, -1104]
 §7[1/1] §2Old Man Martyn: §aWhenever you're ready to save Asher, step through the rift.@§7[1/1] §2Старик Мартин: §aКогда будешь готов спасти Ашерa - зайди в портал.
 §7[1/3] §2Old Man: §a@§7[1/3] §2Старик: §a
+§7[1/1] §2Asher: §aYou need more help? I think I dropped it under a pink tree. Now move it or lose it!@§7[1/1] §2Ашер: §aНужно больше подсказок? Кажется, я уронил ее под розовым деревом. А теперь шевелись, не то пожалеешь!

@@ -10,8 +10,8 @@
 ^(§c\[\+\d+ ❤\]) §bCleared §7all potion effects §bRemoved §7all fire.$@(r1) §bОчищены §7все эффекты зелий §bУбран §7весь огонь.
 ^(§c\[\+\d+ ❤\]) §bRemoved §7all fire.$@(r1) §bУбран §7весь огонь.
 ^(§c\[\+\d+ ❤\]) §bCleared §7all potion effects.$@(r1) §bОчищены §7все эффекты зелий.
-(§b[§a-zA-Z0-9_]{1,19}§7) has given you (§b\d+%) resistance§7.$@(r1) дал тебе (r2) защиты§7.
-(§b[§a-zA-Z0-9_]{1,19}§7) has given you §b20% resistance§7 and§b 10% strength§7.@(r1) дал тебе §b20% к сопротивлению§7 и §b10% к силе§7.
+(§b§?o?[§a-zA-Z0-9_ ]{1,19}§7) has given you (§b\d+%) resistance§7.$@(r1) дал тебе (r2) защиты§7.
+(§b§?o?[§a-zA-Z0-9_ ]{1,19}§7) has given you §b20% resistance§7 and§b 10% strength§7.@(r1) дал тебе §b20% к сопротивлению§7 и §b10% к силе§7.
 §4You still have (\d+) unused skill points! Click with your compass to use them!@§4У тебя есть (r1) неиспользованных очков умений! Нажми на свой компас, чтобы использовать их!
 (§6[a-zA-Z0-9_]{1,16}) is now level (\d+) in §fⒹ§6 Jeweling@(r1) достиг (r2) уровня в §fⒹ§6Изготовлении Аксессуаров
 (§6[a-zA-Z0-9_]{1,16}) is now level (\d+) in §fⒾ§6 Woodworking@(r1) достиг (r2) уровня в §fⒾ§6Деревообработке
@@ -39,6 +39,7 @@
 §4This item requires your intelligence skill to be at least (§c\d+.)@§4Этот предмет требует, чтобы твое умение Интеллект было не менее (r1)
 §4This item requires your agility skill to be at least (§c\d+.)@§4Этот предмет требует, чтобы твое умение Ловкость было не менее (r1)
 §7\[New Quest Started: (.*)\]@§7[Начат новый квест: (r1)]
+§a§l\[Mini-Quest Started: (.*)\]@§a§l[Начат новый мини-квест: (r1)]
 §5Blacksmith: §dYou sold me: (.*) for a total of §e(\d+§d) emeralds. It was a pleasure doing business with you.@§5Кузнец: §dТы продал мне (r1) за §a(r2) эмеральдов. Было приятно иметь с тобой дело.
 §5Blacksmith: §dYou scrapped: (.*) for a total of (§e\d+§d) scrap. It was a pleasure doing business with you.@§5Кузнец: §dТы утилизировал: (r1) в общей сумме на (r2) скрапа. Было приятно иметь с тобой дело.
 §5Blacksmith: §dYou scrapped: (.*) and (.*) for a total of (§e\d+§d) scrap. It was a pleasure doing business with you.@§5Кузнец: §dТы утилизировал: (r1) и (r2) в общей сумме на (r3) скрапа. Было приятно иметь с тобой дело.
@@ -66,3 +67,5 @@
 §7\[Daily Rewards: (§a\d+) emeralds§7\]@§7[Ежедневная награда: (r1) эмеральдов§7]
 §7\[Daily Rewards: (§a\d+) emeralds§7 and (§b\d+) items§7\]@§7[Ежедневная награда: (r1) эмеральдов§7 и (r2) предмета§7]
 §4You need to wait (§c\d+) seconds§4 after logging in to gather from this resource!@§4Тебе нужно подождать (r1) секунд §4после входа на сервер чтобы собрать этот ресурс!
+(§e[ ]+)You are now combat level (\d+)@(r1)Ты достиг (r2) комбат уровня
+(^(?:§f|)(?:[ ]+|)§[67])Area Discovered: (§[ef][a-zA-Z',\-֎ ]+§d \(\+\d+ XP\))@(r1)Территория Открыта: (r2)

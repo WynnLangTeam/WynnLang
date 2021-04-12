@@ -12,13 +12,12 @@
 §7[2/3] §2Jenprest: §aLet's get out of here. Do you still have the explosive I gave you?@§7[2/3] §2Дженпрест: §aДавай выбираться отсюда. У тебя еще осталась взрывчатка, которую я дала тебе?
 §7[3/3] §2Jenprest: §aGood, let's use it on this wall, it looks like we can break right through...@§7[3/3] §2Дженпрест: §aХорошо, давай ее используем на этой стене, она выглядит так, будто через нее можно будет выбраться....
 §7[1/1] §2Jenprest: §aOh no, oh no no no! Did you just open §a§lthat? §aCome here immediately.@§7[1/1] §2Дженпрест: §aОх нет, нет нет нет! Ты только что §a§lоткрыл ее?§a Иди сюда, скорее.
-§7[1/7] §2Jenprest: §aOh no... This is very, very bad.@§7[1/7] §2Дженпрест: §aО нет... Это очень, очень плохо.
-§7[2/7] §2Jenprest: §aThis was sealed for a reason. It used to be the old Ragni prison.@§7[2/7] §2Дженпрест: §aЭто место было запечатано не просто так. Раньше здесь была старая тюрьма Рагни.
-§7[3/7] §2Jenprest: §aIt has a horrible history. People hid here during raids.@§7[3/7] §2Дженпрест: §aУ нее ужасная история. Люди прятались в ней во время набегов.
-§7[4/7] §2Jenprest: §aBut over 100 years ago, the horde found it and killed hundreds.@§7[4/7] §2Дженпрест: §aНо более 100 лет назад, стая нашла это место и убила сотни жителей.
-§7[5/7] §2Jenprest: §aNow the dead remain in there.. Corrupt. It was sealed to stop them from attacking the city.@§7[5/7] §2Дженпрест: §aТолько мертвые остались там... Порча. Тюрьма была запечатана, чтобы остановить атаки на город.
-§7[6/7] §2Jenprest: §aRumour has it that Bob, the hero of Wynn, was born in that very prison.@§7[6/7] §2Дженпрест: §aХодят слухи, что Боб, герой провинции Винн, был рожден в этой тюрьме.
-§7[7/7] §2Jenprest: §aThere's nothing for it. We have to act. I will inform the high command. You… You go in and defeat the leader.@§7[7/7] §2Дженпрест: §aПохоже больше ничего не остается. Нам нужно действовать. Я сообщу обо всем высшему командованию. А ты... Ты пойдешь туда и уничтожишь их лидера.
+§7[1/6] §2Jenprest: §aOh no...@§7[1/6] §2Дженпрест: §aО нет...
+§7[2/6] §2Jenprest: §aDungeons are sealed for a reason. This one used to be the old Ragni prison.@§7[2/6] §2Дженпрест: §aДанжи запечатаны не просто так. Это была старая тюрьма Рагни.
+§7[3/6] §2Jenprest: §aIt has a horrible history. People used to hide here during raids.@§7[3/6] §2Дженпрест: §aУ нее ужасная история. Люди прятались в ней во время набегов.
+§7[4/6] §2Jenprest: §aRumour has it that Bob, the hero of Wynn, was born in this very prison.@§7[4/6] §2Дженпрест: §aХодят слухи, что Боб, герой провинции Винн, был рожден в этой тюрьме.
+§7[5/6] §2Jenprest: §aNow only proven parties of soldiers may enter if one has slain a key guardian.@§7[5/6] §2Дженпрест: §aТеперь только проверенные отряды солдат могут войти туда, если один из них убил защитника ключа и забрал с него ключ.
+§7[6/6] §2Jenprest: §aYou must go in and defeat the dungeon.@§7[6/6] §2Дженпрест: §aТы должен пойти и зачистить данж.
 §7[1/1] §2???: §aRelease me...@§7[1/1] §2???: §aОсвободи меня...
 
 §7[1/2] §2Jenprest: §aHello, I am a lieutenant in the Ragni army. I have a job for you soldier.@§7[1/2] §2Дженпрест: §aПриветствую, я лейтенант армии Рагни. У меня есть работа для тебя, солдат.

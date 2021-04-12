@@ -16,11 +16,11 @@
 §7[4/4] §2Haros: §aSoldiers! Destroy the interloper! We cannot let them keep us from our goal!@§7[4/4] §2Haros: §aСолдаты! Уничтожьте нарушителя! Мы не можем позволить ему помешать нашей цели!
 
 #############################Sunrise Canyon##################
-§7[1/2]§2 Rymek Luke:§a I hope you know yer trespassin' on private property. Either you get on out of here right now or draw.@§7[1/2]§2 Rymek Luke: §aНадеюсь, ты знаешь, что вторгся на частную собственность. Либо ты уходишь отсюда прямо сейчас, либо сдаешься. 
-§7[2/2]§2 Rymek Luke:§a And if you draw... You ain't leaving this here canyon alive!@§7[2/2]§2 Rymek Luke: §aИ если ты сдаешься... То все равно не покинешь этот каньон живым!
+§7[1/2] §2Rymek Luke: §aI hope you know yer trespassin' on private property. Either you get on out of here right now or draw.@§7[1/2] §2Rymek Luke: §aНадеюсь, ты знаешь, что вторгся на частную собственность. Либо ты уходишь отсюда прямо сейчас, либо сдаешься. 
+§7[2/2] §2Rymek Luke: §aAnd if you draw... You ain't leaving this here canyon alive!@§7[2/2] §2Rymek Luke: §aИ если ты сдаешься... То все равно не покинешь этот каньон живым!
 
 ###########################Geyser Pit###########################
-§7[1/1] §2Mining Mech TERA-4M: §aINTRUDER DETECTED. OBJECTIVE: REMOVE FOREIGN PRESENCE FROM MINING OPERATION.@§7[1/1] §2Mining Mech TERA-4M: §aНАРУШИТЕЛЬ ОБНАРУЖЕН. ЦЕЛЬ: ИСКЛЮЧИТЬ ЧУЖОЕ ПРИСУТСТВИЕ НА ГОРНОДОБЫВАЮЩИХ РАБОТАХ.
+§7[1/2] §2Mining Mech TERA-4M: §aINTRUDER DETECTED. OBJECTIVE: REMOVE FOREIGN PRESENCE FROM MINING OPERATION.@§7[1/1] §2Mining Mech TERA-4M: §aНАРУШИТЕЛЬ ОБНАРУЖЕН. ЦЕЛЬ: ИСКЛЮЧИТЬ ЧУЖОЕ ПРИСУТСТВИЕ НА ГОРНОДОБЫВАЮЩИХ РАБОТАХ.
 
 ###########################Wybel Altar######################
 §7[1/4] §2????: §aOh... Looks like you found me out. I had been expecting you not to find this place. Ah awell!@§7[1/4] §2????: §aОх... Похоже, ты меня нашел. Я ожидал, что ты не сможешь найти это место. Ну что ж!
@@ -78,3 +78,9 @@
 §4CAN'T MOVE YOUR BODY §4§lIT'S COMING FO§4R YOU GET OUT@§4НЕ МОГУ ПОШЕВЕЛИТЬ СВОИМ ТЕЛОМ §4§lОН ИДЕТ ЗА §4ТОБОЙ УБИРАЙСЯ
 §4§lYOU'RE CAUGHT YO§4U'RE TRAPPED §4§lNO §4WAY OUT@§4§lТЫ ПОЙМАН Т§4Ы В ЛОВУШКЕ §4§lНЕТ §4ВЫХОДА
 §4MOVE M§4§lOVE MOV§4E MOVE §4§lMOVE M§4OVE MOVE M§4§lOVE MOVE §4MOVE@§4ДВИГАЙСЯ ДВИГАЙСЯ ДВИГ§4§lАЙСЯ ДВИГАЙСЯ ДВ§4ИГАЙСЯ ДВИГАЙСЯ ДВИ§4§lГАЙСЯ §4ДВИГАЙСЯ
+§cIT'S EV§4ERYWH§cER§4E IT'S EVERYW§4§lHERE YOU L§4OOK@§cОН ПОВ§4СЮ§cД§4У ОН ВЕЗ§4§lДЕ КУДА ТЫ СМ§4ОТРИШЬ
+§4IT'S STARING AT §4§lYOU FROM EV§4ERY DIRECTI§4§lON YOU §4CAN FEEL ITS §4§lEYES@§4ОН СМОТРИТ НА §4§lТЕБЯ В КАЖ§4ДОМ НАПРАВ§4§lЛЕНИИ ТЫ §4ЧУВСТВУЕШЬ ЕГО §4§lВЗГЛЯД
+§4ITS §4§lEYES C§4AN FEEL §4§lYOU IT CA§4N FEEL YOU§4§lR MIND@§4ЕГО §4§lГЛАЗА ВИ§4ДЯТ §4§lТЕБЯ ОН ЧУВ§4СТВУЕТ ТВО§4§lЙ РАЗУМ
+§4WHY DID YO§4§lU COME DOWN HERE THE§4RE'S NOTHING BUT §4§lDEATH §4AND §4§lDEATH §4AND §4§lDEA§4TH@§4ЗАЧЕМ ТЫ§4§lПРИШЕЛ СЮДА ВНИЗ §4ЗДЕСЬ НЕТ НИЧЕГО КРОМЕ §4§lСМЕРТИ §4И §4§lСМЕРТИ §4И §4§lСМЕР§4ТИ
+§cYO§4U CAN'T SEE §4§lANYTHING §4IT'S GOING TO G§4§lET YOU §4YOU'RE VU§4§lLNERA§4BLE@§cТЫ §4НЕ МОЖЕШЬ НИЧЕГО §4§lВИДЕТЬ §4ОН ПОДБИРАЕТСЯ К Т§4§lЕБЕ §4ТЫ УЯЗ§4§lВИ§4М
+§4§lMOVE K§4EEP MOVING BUT W§4§lHERE CAN YOU GO THAT'S §4SAFE §4§lTHERE'S NO PLACE SAFE@§4§lДВИГАЙСЯ ПРО§4ДОЛЖАЙ ДВИГАТЬСЯ НО К§4§lУДА УЙТИ В §4БЕЗОПАСНОСТЬ §4§lЗДЕСЬ НЕТ БЕЗОПАСНОГО МЕСТА

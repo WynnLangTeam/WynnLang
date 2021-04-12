@@ -11,6 +11,17 @@
 §cPotion of Healing§4 [3/3]@§cЗелье Лечения §4 [3/3]
 §l§a[+] Create a new character@§l§a[+] Создать нового персонажа
 §cDeleting...@§cУдаление...
+§fBrown HorseÀ@§fКоричневая Лошадь
+§fBrown Horse@§fКоричневая Лошадь
+§fBlack HorseÀ@§fЧерная Лошадь
+§fBlack Horse@§fЧерная Лошадь
+§fChestnut HorseÀ@§fКаштановая Лошадь
+§fChestnut Horse@§fКаштановая Лошадь
+§fWhite HorseÀ@§fБелая Лошадь
+§fWhite Horse@§fБелая Лошадь
+§aEmerald@§aЭмеральд
+§aEmerald Block@§aБлок Эмеральдов
+§aLiquid Emerald@§aЖидкий Эмеральд
 
 ##############################UNIDENTIFIED ITEMS##############################
 §eUnidentified Wand@§eНеидентифицированный Посох

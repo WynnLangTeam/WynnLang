@@ -57,7 +57,7 @@
 §7[1/1] §2Cow: §aMoo.@§7[1/1] §2Корова: §aМуу
 §7[1/1] §2Drale: §aDon't get too near to my precious milking machine! You haven't even talked to me yet!@§7[1/1] §2Дрэйл: §aНе подходи слишком близко к моему драгоценному доильному аппарату! Ты еще даже не поговорил со мной!
 §7[1/1] §2Ranol: §aThe wizard is still out there, with me cow. Must be stopped! Check yer book to see what ya need!@§7[1/1] §2Ранол: §aВолшебник все еще там, с моей коровой. Его надо остановить! Проверь свою книгу, чтобы посмотреть что нужно!
-§7[1/1] §2Ibele: §aYou must head to the old barn west of us and find a secret enterance!@§7[1/1] §2Ибель: §aТы должен отправиться в старый сарай к западу от нас и найти секретный вход!
+§7[1/1] §2Ibele: §aYou must head to the old barn west of us and find a secret entrance!@§7[1/1] §2Ибель: §aТы должен отправиться в старый сарай к западу от нас и найти секретный вход!
 §7[1/1] §2Cow Citizen: §aYou are new here aren't you? Heh. You'll have to face the milking machine. Our leader is eccentric, that's for sure.@§7[1/1] §2Житель Корова: §aТы здесь новичок, не так ли? Хех. Тебе придется столкнуться с доильным аппаратом. Наш лидер чудак, это точно.
 §7[1/1] §2Cow Guard: §aHalt! You may not talk to the Holy Spirit of Moo'in without the permission of §a§lDrale§a!@§7[1/1] §2Страж Корова: §aСтоять! Ты не можешь поговорить со Святым Духом Муу'ин без разрешения §lДрэйла§a!
 §7[1/1] §2Drale: §aMoo'in is always right. I'm sure that he helped you with whatever you asked for.@§7[1/1] §2Дрэйл: §aМуу'ин всегда прав. Я уверен, что он помог тебе с тем, о чем ты просил.

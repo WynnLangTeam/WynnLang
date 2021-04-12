@@ -50,6 +50,9 @@ CT Pet - GM@КТ - GM Питомец
 §cCorrupted Hashr§6 [Lv. 110]@§cИспорченный Хашр§6 [Ур. 110]
 §cCorrupted Hashr§6 [Lv. 125]@§cИспорченный Хашр§6 [Ур. 125]
 §7Cheese@§7Сыр
+§cWarden of Wisdom§6 [Lv. 70]@§cХранитель Мудрости§6 [Ур. 70]
+§cCore§6 [Lv. 105]@§cЯдро§6 [Ур. 105]
+§cGryndilin Chief§6 [Lv. 85]@§cШеф Гриндилинов§6 [Ур. 85]
 
 ###################################ITEMS##################################
 §aScientist Remains§6 [Lv. 1]@§aОстанки Ученого§6 [Ур. 1]
@@ -229,7 +232,7 @@ CT Pet - GM@КТ - GM Питомец
 §aOrc Key 2§6 [Lv. 45]@§aКлюч Орков 2§6 [Ур. 45]
 §aOrc Key 1§6 [Lv. 45]@§aКлюч Орков 1§6 [Ур. 45]
 §aLight Phantom§6 [Lv. 1]@§aСветлый Фантом§6 [Ур. 1]
-§aMost Faithful§6 [Lv. 70]@§aСамый Верный§6 [Ур. 70]
+§aMost Faithful§6 [Lv. 70]@§aСамый Верующий§6 [Ур. 70]
 §aWood Block§6 [Lv. 1]@§aБлок Дерева§6 [Ур. 1]
 §aMess Pile§6 [Lv. 72]@§aКуча Беспорядка§6 [Ур. 72]
 §aCheese§6 [Lv. 70]@§aСыр§6 [Ур. 70]
@@ -277,6 +280,11 @@ CT Pet - GM@КТ - GM Питомец
 §aOrb§6 [Lv. 1]@§aШар§6 [Ур. 1]
 §aHigh Gavellian Transcriber§6 [Lv. 0]@§aПереводчик Высокого Гавеллианского§6 [Ур. 0]
 §aChild§6 [Lv. 1]@§aДитя§6 [Ур. 1]
+§aMysterious Key§6 [Lv. 0]@§aЗагадочный Ключ§6 [Ур. 0]
+§aBulb Seed§6 [Lv. 100]@§aСемя§6 [Ур. 100]
+§aRusted Clock§6 [Lv. 1]@§aРжавые Часы§6 [Ур. 1]
+§a§5Teleporter Core§6 [Lv. 0]@§a§5Ядро Телепорта§6 [Ур. 0]
+§c§5Effervescent Dagger§6 [Lv. 50]@§c§5Шипучий Кинжал§6 [Ур. 50]
 
 #####################MERCHANTS###########################
 §dDungeon Merchant@§dДанж Торговец
@@ -391,6 +399,7 @@ CT Pet - GM@КТ - GM Питомец
 §dConfectionary Merchant@§dПродавец Кондитер
 §dSouvenir T-Shirt Merchant@§dПродавец Сувенирных Футболок
 §dPlatinum Dealer Merchant@§dТорговец Платиной
+§dConsumable Merchant@§dПродавец Расходников
 
 ############################NPC\QUESTS NPC###########################
 §7NPC@§7НПС
@@ -624,7 +633,7 @@ CT Pet - GM@КТ - GM Питомец
 §2§fVagrant Van@§2§fБродяга Ван
 §2§fFrustrated Citizen@§2§fРастроенный Житель
 §2§fTailor's Notes@§2§fЗаметки Портного
-§2§fCorkian Jeweler@§2§fТрюкач Коркуса
+§2§fCorkian Jeweler@§2§fЮвелир Коркуса
 §2§fExplorer@§2§fИсследователь
 §2§fGavellian Soldier@§2§fГавеллианский Солдат
 §2§fStone Inscription@§2§fКаменная Надпись
@@ -645,6 +654,10 @@ CT Pet - GM@КТ - GM Питомец
 §2§fOld Document@§2§fСтарый Документ
 §2§fMiner's Journal@§2§fЖурнал Шахтера
 §2§fOld Report@§2§fСтарый Отчет
+§2§fAgitated Citizen@§2§fВзволнованный Житель
+§2§fKaroc Miner@§2§fШахтер Карока
+§2§fApprentice@§2§fУченик
+§2§fMarkque The Wizard@§2§fМарк Волшебник
 §2Construction Villager@§2Житель Строитель
 §2Sergeant Klafson@§2Сержант Клафсон
 §2Farmer Cevalus@§2Фермер Цевалус
@@ -796,7 +809,7 @@ CT Pet - GM@КТ - GM Питомец
 §2Miner Linton@§2Шахтер Линтон
 §2???@ 
 §2Drale@§2Дрэйл
-§2Yahya@§2Яхуя
+§2Yahya@§2Яха
 §2Bylvis@§2Билвис
 §2Damien@§2Дамиен
 §2Ragon@§2Рагон
@@ -1387,6 +1400,7 @@ CT Pet - GM@КТ - GM Питомец
 §fAged Decree@§fСтарый Приказ
 §fResearcher's Notes@§fЗаметки Исследователя
 §fTombstone@§fГробница
+§fFred@§fФред
 §8Tribe Member@§8Соплеменник
 Dernel Mage@Дернел Маг
 Gert@Герт
@@ -2216,7 +2230,7 @@ Level §c100-110@Уровень §c100-110
 §8Left-Click for Oil@§fЛевый Клик для Жира
 §8Left-Click for Ingot@§fЛевый Клик для Слитка
 §8Left-Click for Wood@§fЛевый Клик для Древесины
-§8Right-Click for Grain@§fПравый Клик для Зерна
+§8Right-Click for Grains@§fПравый Клик для Зерна
 §8Right-Click for Meat@§fПравый Клик для Мяса
 §8Right-Click for Gem@§fПравый Клик для Камня
 §8Right-Click for Paper@§fПравый Клик для Бумаги
@@ -2526,7 +2540,7 @@ Gift From Dern@Подарок из Дерна
 §fLeft-Click §7to set up booth@§fЛевый клик §7для установления палатки
 §4§l§nCorrupted@§4§l§nИспорченный
 §7Level: 70@§7Уровень: 70
-§6§lForgery@§6§lКузница
+§6§lForgery@§6§lКузницы
 §6§lChest@§6§lСундук
 §7§lMerchants@§7§lТорговцы
 §7§lDungeon@§7§lДанж
@@ -2535,8 +2549,8 @@ Gift From Dern@Подарок из Дерна
 §7be able to use a bank at The Forgery)@§7использовать банк в Кузнице)
 §7(Prepare in advance, you will not@§7(Готовься заранее, ты не сможешь
 §6§lForgery Bank@§6§lБанк Кузницы
-§7Run different dungeons without leaving or dying@§7Пройди различные данжи без ухода или смертей
-§7to increase your chest reward@§7для повышения твоего сундука с наградой
+§7Run different dungeons without leaving or dying@§7Пройди различные данжи (без ухода или смертей)
+§7to increase your chest reward@§7для улучшения твоего сундука с наградой
 §6§lForgery Chest@§6§lСундук Кузницы
 §7Get §e[4 Explosives]@§7Добудь §e[4 Взрывчатки]
 §7to fill the minecart@§7для заполнения вагонетки
@@ -2550,7 +2564,7 @@ Gift From Dern@Подарок из Дерна
 §fJuggler@§fТрюкач
 §a§lAhmsord@§a§lАмсорд
 §7Stand here to get@§7Встань здесь для
-§7juggled there@§7просмотра трюка
+§7juggled there@§7отправки туда
 §a§lRodoroc@§a§lРодорок
 §4§l???@ 
 §7[Quest Req: Aldorei's Secret Part II]@§7[Квест Необ.: Aldorei's Secret Part II]
@@ -2750,6 +2764,14 @@ Cinfras Discoveries@Открытия Цинфраса
 §aStrange Frog@§aСтранная Лягушка
 §8Vaeli@§8Ваэли
 §8Tyana@§8Тиана
+§7With an empty hand@§7Пустой рукой
+§a§lRIGHT CLICK@§a§lПРАВЫЙ КЛИК
+§bBuild Stand@§bБилд Стэнд
+§ato load cannonball@§aдля загрузки снаряда
+§2§lRight click@§2§lПравый клик
+§aAttack to pick up@§aУдарь чтобы подобрать
+§cDr. Essren@§cДр. Эссрен
+§7traverse tunnel@§7прохода через тоннель
 
 ######################KEY GUARDIANS###########################
 §cDecrepit Sewers Key Guardian§6 [Lv. 9]@§cЗащитник Ключа от Ветхой Канализации§6 [Ур. 9]
@@ -3122,7 +3144,7 @@ Cinfras Discoveries@Открытия Цинфраса
 §aWarm Fleris§6 [Lv. 90]@§aТеплый Флерис§6 [Ур. 90]
 §aCrystal Orb§6 [Lv. 125]@§aКристальная Сфера§6 [Ур. 125]
 §aCow Citizen§6 [Lv. 85]@§aКорова Житель§6 [Ур. 85]
-§aWar Ram§6 [Lv. 85]@§aВоенный Таран§6 [Ур. 85]
+§aWar Ram§6 [Lv. 85]@§aБоевой Баран§6 [Ур. 85]
 §aRodoroc Dwarf§6 [Lv. 95]@§aГном Родорока§6 [Ур. 95]
 §aDwarven Trader§6 [Lv. 95]@§aГном Трейдер§6 [Ур. 95]
 §aForeign Merchant§6 [Lv. 85]@§aЗаморский Купец§6 [Ур. 85]
@@ -3346,6 +3368,8 @@ Cinfras Discoveries@Открытия Цинфраса
 §aSoldier4§6 [Lv. 1]@§aСолдат4§6 [Ур. 1]
 §aSoldier3§6 [Lv. 1]@§aСолдат3§6 [Ур. 1]
 §aElf§6 [Lv. 100]@§aЭльф§6 [Ур. 100]
+§aAva and Maxie§6 [Lv. 95]@§aАва и Макси§6 [Ур. 95]
+§aChlorophyll Parasite§6 [Lv. 60]@§aХлорофилловый Паразит§6 [Ур. 60]
 
 #################################CRATES################################
 §eLoot Crate T1@§eЛут Контейнер У1
@@ -3504,7 +3528,7 @@ Orange Cybel@Оранжевый Кубел
 §4Frosty Bow@§4Морозный Лук
 §4Frosty Staff@§4Морозный Посох
 §4Frosty Spear@§4Морозное Копье
-§4Yahya's Fantasy@§4Фантазия Яхуи
+§4Yahya's Fantasy@§4Фантазия Яхи
 §7Disguise@§7Маскировка
 §7Pet@§7Питомец
 §7Gear Skin@§7Скин для Оружия
@@ -3518,6 +3542,12 @@ Orange Cybel@Оранжевый Кубел
 §4Dynasty Dagger@§4Кинжал Династии
 §4Dynasty Relik@§4Релик Династии
 §4Viking Helmet@§4Шлем Викинга
+§4Dynasty Spear@§4Копье Династии
+§4Sword and Shield Effect@§4Эффект Меча и Щита
+§4Dynasty Bow@§4Лук Династии
+§4Frosty Sword@§4Морозный Меч
+§4Dynasty Hat@§4Шляпа Династии
+§4Dragon Wybel Token@§4Вубел Дракон Жетон
 
 ###########################DIALOGUES###############################
 §o§aAAAAAAAAAAH!@§o§aАААААААААААХ!
@@ -3792,6 +3822,13 @@ Orange Cybel@Оранжевый Кубел
 §a§oNo! You won't run- I'll kill you before that!@§a§oНет! Ты не убежишь - я убью тебя раньше!
 §aWhat I have done is needed.@§aТо, что я сделал, необходимо.
 §aOutsider, you must stop!@§aЧужак, ты должен остановиться!
+§a§oWait! Something... Something's not@§a§oПодожди! Что-то... Что-то 
+§a§oquite right...@§a§oздесь не так...
+§a§oW-we made it?@§a§oМ-мы сделали это?
+§a§oWhat? I- I've been REPLACED?!@§a§oЧто? М-меня ЗАМЕНИЛИ!?
+§a§oW-what's going on here? You can't replace me!@§a§oЧто здесь происходит? Вы не можете заменить меня!
+§a§oThis way, please.@§a§oСюда, пожалуйста.
+§a§oWait, wha--@§a§oПодождите, чт--
 
 ################################TERRITORY###########################
 §f§lRagni Main Entrance@ 
@@ -4206,6 +4243,14 @@ Orange Cybel@Оранжевый Кубел
 §f§lFinal Step@ 
 §f§lEfilim South Plains@ 
 §f§lEfilim Village@ 
+§f§lAzure Frontier@ 
+§f§lPath to Light@ 
+§f§lPrimal Fen@ 
+§f§lNexus of Light@ 
+§f§lHeavenly Ingress@ 
+§f§lField of Life@ 
+§f§lOtherwordly Monolith@ 
+§f§lLuminous Plateau@ 
 
 #########################Altars#################################
 §6§lAltar of Sanctification@ 
@@ -4234,7 +4279,7 @@ Orange Cybel@Оранжевый Кубел
 §eTeleport Back to Exit@§eТелепорт Обратно к Выходу
 §6§lTeleporter@§6§lТелепортер
 §e[Quest Req: Realm of Light]@§e[Квест Необ.: Realm of Light]
-§7Req: §b3 §7[§bUth Rune§7]@§7Необ.: §b3 §7[§bУтх Руны§7]
+§7Req: §b3 §7[§bUth Rune§7]@§7Необходимо: §b3 §7[§bУтх Руны§7]
 §3§lInstructions@§3§lИнструкции
 §7Every §b1 minute §7new passageways open.@§7Каждую §b1 минуту §7открываются новые проходы.
 §7Complete the challenges in the passageways@§7Пройди испытания в проходах
@@ -4468,3 +4513,116 @@ Orange Cybel@Оранжевый Кубел
 §b+ §725 All Skill Points@§b+ §725 Всех Очков Умений
 §b+ §7100% All Element Defense@§b+ §7100% Защиты Всех Элементов
 §b§b+6/4s §7Mana Steal@§b§b+6/4с §7Кражи Маны
+to purify the decayed orbs in the center and@очищения зараженных шаров в центре и
+§6§lNexus of Light@§6§lСвета Орфиона
+open the pathway to §6§lOrphion@открытия пути к §6§lНексусу
+Enter the doors and complete challenges@Войди в двери и пройди челленджи
+§6§lInstructions@§6§lИнструкции
+§band prevent the crystals on the ground from decaying.@§bи предотврати кристаллы на земле от заражения.
+§bUse the launch pads to get to the top of the platform.@§bИспользуй трамплины для поднятия на верх платформы.
+§bThe other players must protect the player on the platform@§bДругие игроки должны защищать игрока на платформе.
+§cThe crystal will decay in@§cКристалл заразится через
+§b§lOphanim I@ 
+§b+50% §7Water Damage@§b+50% §7Урона Воды
+§c§lCherubim I@ 
+§1§lSeraphim I@ 
+§b+75% §7Speed@§b+75% §7Скорости
+§b+ 150% §7Main Attack Damage@§b+ 150% §7Урона Основной Атаки
+§b+55% §7Spell Damage@§b+55% §7Урона Заклинаний
+§b+ §7Sorcery Major ID@ 
+§6§lThrone I@ 
+§b+80 §7Intelligence@§b+80 §7Интеллекта
+§b+10 §7Mana Steal@§b+10 §7Кражи Маны
+§4§lAnti I@ 
+§b+616% §7Exploding@§b+616% §7Взрывов
+§fKill them in order to purify the clouds before the timer runs out!@§fУбей их по порядку для очищения облаков до истечения времени!
+§f3 §5Crystalline Decays §fwill appear on the clouds.@§f3 §5Crystalline Decay §fпоявились на облаках.
+§b§lOphanim II@ 
+§1§lSeraphim II@ 
+§c§lCherubim II@ 
+§b+50% §7Thorns@§b+50% §7Шипов
+§b+1000 §7Life Steal@§b+1000 §7Вампиризма
+to the end of the invisible path, preventing them from falling.@до конца невидимого пути, не дав им упасть.
+The player holding the Light Crystal must escort the party@Игрок держащий Кристалл Света должен провести пати 
+§6Right-click to get the@§6Правый клик для получения
+§f[Light Crystal]@§f[Кристалла Света]
+§b§lOphanim III@ 
+§b+1000 §7Health Bonus@§b+1000 §7Бонуса к Здоровью
+§1§lSeraphim III@ 
+§b+7 §7Mana Regen@§b+7 §7Регена Маны
+§b+130 §7Dexterity@§b+130 §7Ловкости
+§c§lCherubim III@ 
+§4§lAnti III@ 
+§b+80 §7Strength@§b+80 §7Силы
+§b+300% §7Sprint@§b+300% §7Спринта
+§b+2 §7Attack Speed Bonus@§b+2 §7Скорости Атаки
+§6§lOrphion, The Light Beast@§6§lОрфион - Зверь Света
+§a§e§lOrphion, §cThe Light Beast§6 [Lv. 250]@§a§e§lОрфион, §cЗверь Света§6 [Ур. 250]
+§c§e§lOrphion, §cThe Light Beast§6 [Lv. 250]@§c§e§lОрфион, §cЗверь Света§6 [Ур. 250]
+§c§4§lThe Parasite§6 [Lv. 250]@§c§4§lПаразит§6 [Ур. 250]
+Avoid the decaying clouds.@Избегай зараженных облаков.
+Hold the platform on top of the light cloud for 60 seconds!@Удерживай платформу на вершине светлого облака в течение 60 секунд!
+§4§lAnti II@ 
+§b+9000 §7Poison@§b+9000 §7Яда
+§6§lThrone II@ 
+§b+50% §7All Element Damage@§b+50% §7Защиты Всех Элементов
+Escort the player holding the §5§lDarkness Crystal@Проведи игрока держащего §5§lКристалл Тьмы
+That player must step on the §lLight Crystals@Этот игрок должен вставать на §lКристаллы Света
+to progress through the room@для прогресса через комнату
+Right-click to get the@Правый клик для получения
+§5[Darkness Crystal]@§5[Кристалла Тьмы]
+§6§lThrone III@ 
+§b+70 §7Intelligence@§b+70 §7Интеллекта
+spread across 3 rooms to purify all §8§lDecay Crystals@распределенные по 3 комнатам для очищения всех §8§lЗараженных Кристаллов
+Complete challenges to get §b§lLight Crystals@Пройди испытания для получения §b§lКристаллов Света
+§bPurify the Crystals §6[0/10]@§bОчищенных Кристаллов §6[0/10]
+§cCrystal§6 [Lv. 2]@§cКристалл§6 [Ур. 2]
+§6Step on the Light Crystals@§6Встань на Кристаллы Света
+§6to complete the challenge.@§6для прохождения испытания.
+§lPuzzle!@§lПазл!
+§lParkour!@§lПаркур!
+§6Falling changes the parkour's pattern.@§6Падение меняет шаблон паркура.
+§6Reach the end of the parkour.@§6Доберись до конца паркура.
+§lCombat!@§lКомбат!
+§6Kill the miniboss@§6Убей минибосса
+§6to get a Light Crystal@§6для получения Кристалла Света
+§bBPurify the Crystals §6[2/10]@§bОчищенных Кристаллов §6[2/10]
+§bPurify the Crystals §6[2/10]@§bОчищенных Кристаллов §6[2/10]
+§bPurify the Crystals §6[3/10]@§bОчищенных Кристаллов §6[3/10]
+§bBPurify the Crystals §6[3/10]@§bОчищенных Кристаллов §6[3/10]
+§bPurify the Crystals §6[4/10]@§bОчищенных Кристаллов §6[4/10]
+§bBPurify the Crystals §6[4/10]@§bОчищенных Кристаллов §6[4/10]
+§bPurify the Crystals §6[7/10]@§bОчищенных Кристаллов §6[7/10]
+§bBPurify the Crystals §6[7/10]@§bОчищенных Кристаллов §6[7/10]
+§fGet §b[1 Light Crystal]@§fПолучить §b[1 Кристалл Света]
+§bPurify the Crystals §6[5/10]@§bОчищенных Кристаллов §6[5/10]
+§bPurify the Crystals §6[6/10]@§bОчищенных Кристаллов §6[6/10]
+§bBPurify the Crystals §6[5/10]@§bОчищенных Кристаллов §6[5/10]
+§bBPurify the Crystals §6[6/10]@§bОчищенных Кристаллов §6[6/10]
+§bPurify the Crystals §6[8/10]@§bОчищенных Кристаллов §6[8/10]
+§bBPurify the Crystals §6[8/10]@§bОчищенных Кристаллов §6[8/10]
+§bPurify the Crystals §6[9/10]@§bОчищенных Кристаллов §6[9/10]
+§bBPurify the Crystals §6[9/10]@§bОчищенных Кристаллов §6[9/10]
+§bPurify the Crystals §6[10/10]@§bОчищенных Кристаллов §6[10/10]
+§bBPurify the Crystals §6[10/10]@§bОчищенных Кристаллов §6[10/10]
+§b+ 50 §7Defense@§b+ 50 §7Защиты
+§b+60 §7Defense@§b+60 §7Защиты
+§b+100% §7Thorns@§b+100% §7Шипов
+§b+100% §7Reflection@§b+100% §7Отражения
+§b+50 §7Strength@§b+50 §7Силы
+§b+750 §7Life Steal@§b+750 §7Вампиризма
+§b+ §7Guardian Major Id@ 
+§b+60 §7Strength@§b+60 §7Силы
+§b+400 §7Health Regen Raw@§b+400 §7Регена Здоровья
+§b+75% §7Spell Damage@§b+75% §7Урона Заклинаний
+§b+2 §7Attack Damage Bonus@§b+2 §7Скорости Атаки
+§b+ §7Saviour's Sacrifice Major Id@ 
+§b+7500 §7Poison@§b+7500 §7Яда
+§b+4 §7Mana Regen@§b+4 §7Регена Маны
+§b+60 §7Intelligence@§b+60 §7Интеллекта
+§b+100% §7Water Damage@§b+100% §7Урона Воды
+§b+80 §7Dexterity@§b+80 §7Ловкости
+§b+10000 §7Poison@§b+10000 §7Яда
+§b+1250 §7Life Steal@§b+1250 §7Вампиризма
+§3Right-click to@§3Правый клик для
+§bClaim your reward@§bВзятия своей награды

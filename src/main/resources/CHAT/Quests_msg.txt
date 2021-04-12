@@ -133,7 +133,7 @@ As Dodegar says that, he quickly grabs the blood and performs a strange ritual.@
 §7 - Airship leaves Eltom 6:15 to Thesead@§7 - Дирижабль отправляется из Элтома в Тесеад в 6:15
 §7 - Mayor's office on the top layer of Thesead@§7 - Офис мэра в Тесеаде, наверху башни
 §7 - Remember to set up Dwarven bank account@§7 - Не забыть открыть счет в банке гномов
-§7You feel a heavy blow to the back of your head.@§7Ты почувствовал сильный удар в затылок.
+§7You feel a heavy blow on the back of your head. You wake up here.@§7Ты почувствовал сильный удар в затылок. Ты очнулся здесь
 §7A message is carved into the pedestal: §e§oIn a place of identity, above the leaves and between the glass@§7Сообщение выгравировано на обсидиане: §e§oВ месте идентификации, над листьями и между стеклом
 §7A message is carved into the obsidian: §e§oIn an emerald fountain, surrounded by the wealth of the villagers@§7Сообщение выгравировано на обсидиане: §e§oВ эмеральдном фонтане, в окружении богатств жителей
 Rynver is pointing towards the deep hole behind him and then back at himself.@§7Ринвер показывает рукой в сторону глубокой дыры позади него, а затем обратно на себя.
@@ -600,7 +600,7 @@ Rynver's teeth fall out of his mouth as he talks.@§7Зубы Ринвера с�
 §4Stay near and talk to the Almuj Bank Guard to progress the quest!@§4Оставайся рядом и поговори с охранником Банка Алмужа, чтобы продвинуться в квесте!
 §4The gert at the end of this tunnel doesn't look too friendly.@§4Герт в конце этого туннеля выглядит не слишком дружелюбно.
 §4Get out@§4Уходи
-§4A lot of machines here. Those could be very dangerous, knowing how crazy Big Butch is.@§4Множество машин здесь. Это может быть очень опасно, зная, насколько сумасшедший Big Butch.
+§4A lot of machines here. Those could be very dangerous, knowing how crazy Big Butch is.@§4Множество машин здесь. Это может быть очень опасно, зная насколько Мясник сумасшедший.
 §cIn order to craft a §3[Steering Wheel]§c, you'll need §3[1 Wooden Board]§c, §3[1 Center Piece]§c, and §3[1 String]§c. Try looking around the ship to find the remaining materials.@§cЧтобы скрафтить §3[Штурвал]§c тебе нужны §3[1 Деревянная Доска]§c, §3[1 Центральная Часть]§c, и §3[1 Нитка]§c. Попробуй осмотреть корабль, чтобы найти оставшиеся материалы.
 §4If you jump off the ship, you might drown!@§4Если ты спрыгнешь с корабля, ты можешь утонуть!
 §cYou've already used this workbench, you should probably return to Captain Relend for guidance.@§cТы уже использовал этот верстак, тебе вероятно следует вернуться к капитану Реленду.
@@ -1279,7 +1279,7 @@ Rynver's teeth fall out of his mouth as he talks.@§7Зубы Ринвера с�
 §8[§6!§8]§7 The §9[Blue Rocks]§7 web will be repaired in [§c5 Seconds§7]!@§8[§6!§8]§7Паутина §9[Синих Камней]§7 будет починена через [§c5 секунд§7]!
 §8[§6!§8]§7 The §c[Red Mushroom]§7 Web has been cut!@§8[§6!§8]§7Паутина §c[Красного Гриба]§7 была перерезана!
 §8[§6!§8]§7 The §9[Blue Rocks]§7 Web has been repaired by the spiders!@§8[§6!§8]§7Паутина §9[Синих Камней]§7 была починена пауками!
-§8[§6!§8]§7 The Big Web has been cleared!@§8[§6!§8]§7Большая Паутина была почищена!
+§8[§6!§8]§7 The Big Web has been cleared!@§8[§6!§8]§7Большая Паутина была расчищена!
 §8[§6!§8]§7 The §a[Green Slime]§7 web will be repaired in [§c10 Seconds§7]!@§8[§6!§8]§7Паутина §a[Зеленой Слизи]§7 будет починена через [§c10 секунд§7]!
 §8[§6!§8]§7 The §a[Green Slime]§7 web will be repaired in [§c5 Seconds§7]!@§8[§6!§8]§7Паутина §a[Зеленой Слизи]§7 будет починена через [§c5 секунд§7]!
 §7Venture deeper into the cave.@§7Продвигайся вглубь пещеры.
@@ -1318,7 +1318,7 @@ Rynver's teeth fall out of his mouth as he talks.@§7Зубы Ринвера с�
 §7§oThis ought to §bactivate the geyser§a.@§7§oЭто должно было §bактивировать гейзер§a.
 §7§oPicking up lava with your bare hands seems like a bad idea.@§7§oСобирать лаву голыми руками - плохая идея.
 §7She seems eager yet stressed.@§7Она кажется нетерпеливой, но напряженной.
-§8DISTRACT!@§8ОТВЛЕКИ!
+§8DISTRACT!@§8ОТВЛЕЧЕНИЕ!
 §7Interact with the different items in the room by clicking on them. You're limited with what you can interact with, though! You need to §bhold the chief busy for one minute§a.@§7Взаимодействуй с различными предметами в комнате, нажимая на них. Однако, ты ограничен с тем, с чем можешь взаимодействовать! Тебе нужно §bзанять шефа на одну минуту§a.
 §f§lRight Click on the chief to begin.@§f§lПравый Клик по шефу для начала.
 §8Info: §7The bar represents the chief's suspicion level. Make sure it doesn't fill up!@§8Инфо: §7Бар представляет уровень подозрительности шефа. Сделай так, чтобы он не заполнился!
@@ -1386,7 +1386,7 @@ Rynver's teeth fall out of his mouth as he talks.@§7Зубы Ринвера с�
 §7There is something up ahead...@§7Впереди что-то есть...
 §7Is that Referick down there..?@§7Это что Реферик там, внизу..?
 §7At this moment...I believed that I could protect her. I believed that I could aid her.@§7В этот момент...Я верил, что смогу защитить ее. Верил, что смогу ей помочь.
-§7I left Aldorei behind, to aid in her "battle" against the darkness. What a fool I was.@§7Я оставил Алдорей, чтобы помочь ей в "битве" с тьмой. Какой же я был глупец.
+§7I left Aldorei behind, to aid in her ''battle'' against the darkness. What a fool I was.@§7Я оставил Алдорей, чтобы помочь ей в "битве" с тьмой. Какой же я был глупец.
 §7As the darkness slowly seeped into the land, her stubbornness halted any progress we might have made.@§7По мере того как тьма медленно просачивалась в землю, ее упрямство останавливало любой прогресс, которого мы могли бы достичь.
 §7Years of searching to no avail- A strong enough attack would have ended it, but her foolish pacifism doomed us.@§7Годы поисков ни к чему не привели. Достаточно сильная атака положила бы этому конец, но ее глупый пацифизм обрекал нас.
 §7Six hundred years of searching finally brought us to what we so foolishly sought... And we were unprepared.@§7Шестьсот лет поисков наконец привели нас к тому, что мы так глупо искали... И мы оказались не готовы.
@@ -1399,7 +1399,7 @@ Rynver's teeth fall out of his mouth as he talks.@§7Зубы Ринвера с�
 §7Even still I held some misplaced faith in her. With that dark seed in my mind... It grew to an obsession, almost- I had to hide it. I had to hide my curse. But it was found...@§7И все же я питал к ней какую-то неуместную веру. С тем темным семенем в моей голове... Это переросло в навязчивую идею, почти - мне пришлось скрывать это. Я должен был скрыть свое проклятие. Но его нашли...
 §7The doors to the sides of the painting have opened.@§7Двери по бокам картины открылись.
 §7Keep exploring the castle.@§7Продолжай исследовать замок.
-§7The people of Gelibord saw my cursed visage... They saw me near the dark scars. They assumed without thought, and turned me into a perfect scapegoat.@§7Жители Гелиборда видели мое проклятое лицо... Они увидели меня возле темных шрамов. Они приняли это без раздумий и превратили меня в идеального козла отпущения
+§7The people of Gelibord saw my cursed visage... They saw me near the dark scars. They assumed without thought, and turned me into a perfect scapegoat.@§7Жители Гелиборда видели мое проклятое лицо... Они видели меня возле темных шрамов земли. Они приняли это без раздумий и превратили меня в идеального козла отпущения
 §7Not even death saw the end of my misfortunes. Not even a final release such as this could save me from Lari's stubbornness and endless mistakes.@§7Даже смерть не видела конца моим несчастьям. Даже окончательное освобождение, подобное этому, не могло спасти меня от упрямства Лари и бесконечных ошибок.
 §6[§b!§6] §7This parkour relies heavily on particles to guide the player. It is highly recommended that you turn on all particles for this segment of the quest.@§6[§b!§6] §7Этот паркур в значительной степени опирается на частицы, чтобы направлять игрока. Настоятельно рекомендуется включить все частицы для этого сегмента квеста.
 §4You cannot use spells here!@§4Ты не можешь использовать заклинания здесь!
@@ -1482,21 +1482,21 @@ Rynver's teeth fall out of his mouth as he talks.@§7Зубы Ринвера с�
 §7There is truly, finally, nothing more for you here. §7§oThe spell can not be broken. §7You have seen my life laid bare in front of you. There is nothing more for you to see.@§7Здесь действительно, наконец, для тебя больше ничего нет. §7§oЗаклинание не может быть разрушено§7. Ты видел, как моя жизнь обнажилась перед тобой. Тебе больше нечего смотреть здесь.
 §7Leave. And do not return.@§7Уходи. И не возвращайся.
 §3[+1 Mechanical Reactor]@§3[+1 Механический Реактор]
-§7Duvale mentioned rumors about an illegal factory in the swamp... If Daxe's criminal past had to do with this, maybe the §3[Mechanical Reactor] §7will cause him to react.@§7Дювейл упомянул слухи о нелегальной фабрике на болоте... Если его криминальное прошлое имело к этому отношение, возможно, §3[Механический реактор] §7заставит его отреагировать.
+§7Duvale mentioned rumors about an illegal factory in the swamp... If Daxe's criminal past had to do with this, maybe the §3[Mechanical Reactor] §7will cause him to react. §bDuvale mentioned he had spares, §7should they be needed.@§7Дювейл упомянул слухи о нелегальной фабрике на болоте... Если его криминальное прошлое имело к этому отношение, возможно, §3[Механический реактор] §7заставит его отреагировать. §bДювейл упомянул, что у него есть запасные, §7если они понадобятся.
 §7You should §bconfront Dr. Urelix§7 before looking through his things.@§7Ты должен §bпоговорить с Др. Уреликсом§7 прежде чем лазить в его вещах.
 §4It seems Urelix has something to say, you should speak to him before leaving.@§4Кажется, Уреликсу есть что сказать, ты должен поговорить с ним перед уходом.
 §7Arnod keeps on pointing at his house. Maybe he needs something that's in there?@§7Арнод продолжает указывать на свой дом. Возможно ему что-то там нужно?
 §7Arnod takes his dentures, and slides them back in his mouth.@§7Арнод берет свой зубной протез, и вставляет его себе в рот.
 §7All of the §bflerisi §7have hidden in various §bfires §7nearby. To check if there's a §bfleris §7in a §bfire, right click it §7to extinguish it.@§7Все §bфлериси §7спрятались в различных §bогнях §7поблизости. Что-бы проверить ли есть §bфлериси §7в §bогне, правый клик по огню §7чтобы потушить его.
 §7The fleris disappeared.. Maybe it's somewhere §bnear here?@§7Тот флериси куда-то исчез... Может быть он §bгде-то поблизости?
-§7There are a few fires on top of these trees... §bMaybe there's a way to get up to them?@§7Есть парочка огня наверху этих деревьев... §bМожет быть, есть способ забраться на них?
+§7There are a few fires on top of these trees... §bMaybe there's a way to get up to them?@§7Есть парочка костров наверху этих деревьев... §bМожет, есть способ забраться на них?
 §7There's a fleris! §bRight click it to capture it!@§7А вот и флериси! §bПравый клик по нему что-бы словить его!
-§7The fleris seems extremely unstable... You should wait until §bright after §7it stops §bburning §7to catch it.@§7Этот флериси выглядит очень нестабильным... Ты должен подождать, пока §bоно §7перестанет §bгореть, §7чтобы поймать его.
+§7The fleris seems extremely unstable... You should wait until §bright after §7it stops §bburning §7to catch it.@§7Этот флериси выглядит очень нестабильным... Ты должен подождать, пока §bон §7перестанет §bгореть, §7чтобы поймать его.
 §7[1/5 Flerisi]@§7[1/5 Флериси]
-§7This cave has a few fires inside of it... It may be worth §bsearching in there §7for any flerisi.@§7В этой пещере есть пара огней... Возможно стоит §bтам поскать §7флериси.
+§7This cave has a few fires inside of it... It may be worth §bsearching in there §7for any flerisi.@§7В этой пещере есть пара огней... Возможно тут §bстоит поискать §7флериси.
 §7The fleris appears to be extremely agitated.. §byou might need to fight it in order to capture it.@§7Этот флериси, кажется, очень взволнован.. §bтебе может потребоваться сразиться с ним, чтобы захватить его.
 §7[2/5 Flerisi]@§7[2/5 Флериси]
-§7Where did the fleris go? §bYou should check the other tree...@§7Куда тот флериси пропал? §bТебе стоит проверить другое дерево...
+§7Where did the fleris go? §bYou should check the other tree...@§7Куда этот флериси пропал? §bТебе стоит проверить другое дерево...
 §7[3/5 Flerisi]@§7[3/5 Флериси]
 §7The fleris disappeared.. Maybe it would be worth looking inside of §bthe cart?@§7Тот флериси исчез.. Может, стоит заглянуть внутрь тележки?
 §7You can't catch the fleris right now! §bWait until it stops burning!@§7Ты не можешь поймать флериси сейчас! §bПодожди, пока он перестанет гореть!
@@ -1505,9 +1505,9 @@ Rynver's teeth fall out of his mouth as he talks.@§7Зубы Ринвера с�
 §7You should probably §bfollow the dwarf §7into that hole..@§7Тебе наверное стоит §bследовать за гномом §7в эту дыру..
 §7Arnod keeps on attempting to turn you towards the road. §bMaybe you should come back here once you're level 67...@§7Арнод продолжает пытаться развернуть тебя в сторону дороги. §bВозможно тебе стоит вернуться сюда как только ты достигнешь 67 уровня...
 §7It's impossible to understand what language this man's speaking, but he's pointing to the house §bbehind him. §7Is there something that can translate, maybe?@§7Невозможно понять на каком языке говорит этот житель, но он указывает в сторону дома. §7Возможно там внутри есть что-нибудь, что сможет перевести?
-§7Don't let the creature get away!@§7Не дайте существу сбежать!
+§7Don't let the creature get away!@§7Не дай существу сбежать!
 §7You're stuck! Maybe you can dig yourself out?@§7Ты застрял! Может ты сможешь откопать себя?
-§7There might be something in this village to capture the creature in. You should find something then come back more prepared.@§7В этой деревне может быть что-то, чем можно поймать существо. Вы должны найти что-нибудь и вернуться более подготовленными.
+§7There might be something in this village to capture the creature in. You should find something then come back more prepared.@§7В этой деревне может быть что-то, чем можно поймать существо. Ты должен найти что-нибудь и вернуться более подготовленным.
 §7It seems like the creature was knocked out. Now is the time to catch it! The cage seems like a good place to keep it.@§7Похоже, что существо отключилось. Сейчас самое время поймать его! Клетка кажется хорошим местом для его хранения.
 §7This spike formation seems like it is starting to weaken. Something sharp nearby would likely cut it down easily.@§7Это образование шипа, кажется, начинает ослабевать. Что-нибудь острое поблизости, скорее всего, легко его срубит.
 §7Something feels off...@§7Что-то не так...
@@ -1587,7 +1587,7 @@ Rynver's teeth fall out of his mouth as he talks.@§7Зубы Ринвера с�
 §7There seems to be nothing over here, better turn back.@§7Кажется, здесь ничего нет, лучше повернуть назад.
 §4This cave seems dangerous, maybe it is best to not go in.@§4Эта пещера кажется опасной, может быть, лучше туда не заходить.
 §7There seems to be something missing. Maybe you could find a tank somewhere in the bazaar.@§7Там, кажется, чего-то не хватает. Может быть, где-нибудь на базаре найдется бак.
-§7The Elves are talking amongst themselves about something or other. There are a lot of botanical-sounding terms that you don't recognize.@§7Эльфы разговаривают между собой о чем-то. Есть много ботанических терминов, которые ты не узнаешь.
+§7The Elves are talking amongst themselves about something or other. There are a lot of botanical-sounding terms that you don't recognize.@§7Эльфы разговаривают между собой о чем-то. Есть много ботанических терминов, которые ты не знаешь.
 §7It's a strangely shaped keyhole. How cryptic.@§7Это замочная скважина странной формы. Как загадочно.
 §7[-1 Basement Key]@§7[-1 Ключ от Подвала]
 §7[+1 Basement Key]@§7[+1 Ключ от Подвала]
@@ -1625,7 +1625,7 @@ Rynver's teeth fall out of his mouth as he talks.@§7Зубы Ринвера с�
 §4[§c!§4]§6 Safety §6§lteleportation§6 sequence activated!@§4[§c!§4]§6 Цикл безопасной §6§lтелепортации§6 активирован!
 §7Ava didn't get teleported with you! You're on your own!@§7Ава не телепортировалась вместе с тобой! Ты сам по себе!
 §7[+1 Enhanced Post-Processing Microchip]@§7[+1 Усовершенствованный Микрочип Постобработки]
-§7Looks like Ava is waiting for you in the square §bsouth from here§7. Maybe she'll give you a lift?@§7Похоже, Ава ждет тебя на площади к §bюгу отсюда§A. Может, она тебя подвезет?
+§7Looks like Ava is waiting for you in the square §bsouth from here§7. Maybe she'll give you a lift?@§7Похоже, Ава ждет тебя на площади к §bюгу отсюда§7. Может, она тебя подвезет?
 §7The screen is flickering... There's some strange symbols on it that you can't understand...@§7Экран мерцает... На нем есть какие-то странные символы, которые ты не можешь понять...
 §7The images begin to move... seems like some sort of recording...@§7Изображения начинают двигаться... Похоже на какую-то запись...
 §7There's an image on the screen, now. Is this a projector of some kind?@§7На экране появилось изображение. Что это, какой-то проектор?
@@ -1641,7 +1641,6 @@ Rynver's teeth fall out of his mouth as he talks.@§7Зубы Ринвера с�
 §7[+1 Hydrofluoric Acid]@§7[+1 Плавиковая Кислота]
 §7[+1 Enhanced Pathfinding Microchip]@§7[+1 Усовершенствованный Микрочип Поиска Пути]
 §7[+1 Enhanced Physics Microchip]@§7[+1 Усовершенствованный Физический Микрочип]
-
 §7[+1 Rusty Shovel]@§7[+1 Ржавая Лопата]
 §7[+1 Siegfried's Map]@§7[+1 Карта Зигфрида]
 §7§oYou probably shouldn't leave Siegfried in the pit...@§7§oНаверное, Зигфрида не стоит оставлять в яме...
@@ -1668,7 +1667,7 @@ Rynver's teeth fall out of his mouth as he talks.@§7Зубы Ринвера с�
 §7§oThose lines of silk from the big web are holding it up. If you §b§ocut all three§7§o, it might break.@§7§oЭти шелковые нити из большой паутины удерживают его. Если ты §b§oперережешь все три§7§o, он может сломаться.
 §7§oIt seems like §b§odisarming that tile activated the other Burners§7§o...@§7§oПохоже, что §b§oдеактивация этой плиты активировала другие сжигатели§7§o...
 §7§oYou feel you §b§oshould be standing on a tile§7§o for the disarm mechanism to know what tile to disarm...@§7§oТы чувствуешь, что §b§oдолжен стоять на плите§7§o, чтобы механизм деактивации знал, какую плиту деактивировать...
-§7§oMaybe §b§oSiegfried can activate the other§y§b§o one?@§7§oМожет быть, §b§oЗигфрид сможет активировать другую?
+§7§oMaybe §b§oSiegfried can activate the other§b§oy§b§o one?@§7§oМожет быть, §b§oЗигфрид сможет активировать другую?
 §7§oNow that Siegfried is dead, you probably won't be able to use these two beacons... the §b§oother side only has one beacon§7§o, though.@§7§oТеперь, когда Зигфрид мертв, ты вероятно не сможешь использовать эти два маяка... хотя §b§oна другой стороне есть только один маяк§7§o.
 §7§oThese tiles seem similar to the first ones... you'll have to §b§oalternate tile types to get across safely§7§o.@§7§oЭти плиты кажутся похожими на первые... тебе придется §b§oчередовать типы плит, чтобы безопасно пересечь их§7§o.
 §7§oYou have some cloth, but you'd need another material to turn it into something useful.@§7§oУ тебя есть немного ткани, но понадобится другой материал, чтобы превратить ее во что-то полезное.
@@ -1692,6 +1691,7 @@ Rynver's teeth fall out of his mouth as he talks.@§7Зубы Ринвера с�
 §7§oYou get a sense you're going backwards...@§7§oУ тебя возникает ощущение, что ты идешь назад...
 §8[§6!§8]§7 The §c[Red Mushroom]§7 web will be repaired in [§c10 Seconds§7]!@§8[§6!§8]§7 Паутина §c[Красного Гриба]§7 будет починена через [§c10 Секунд§7]!
 §8[§6!§8]§7 The §c[Red Mushroom]§7 web will be repaired in [§c5 Seconds§7]!@§8[§6!§8]§7 Паутина §c[Красного Гриба]§7 будет починена через [§c5 Секунд§7]!
+§8[§6!§8]§7 The §c[Red Mushroom]§7 Web has been repaired by the spiders!@§8[§6!§8]§7 Паутина §c[Красного Гриба]§7 была починена пауками!
 §7The robot looks extremely old. It's surprising it's still working.@§7Робот выглядит очень старым. Удивительно, что он все еще работает.
 §7Her claws are out.@§7Она выпустила когти.
 §7You pick up a particularly tasty-looking bone.@§7Ты берешь особенно вкусную на вид косточку.
@@ -1712,7 +1712,7 @@ Rynver's teeth fall out of his mouth as he talks.@§7Зубы Ринвера с�
 §7That letter must still be §binside his shop§7!@§7Это письмо, должно быть, все еще §bв его магазине§7!
 §7You stopped reading the contract.@§7Ты перестал читать контракт.
 §7You already picked up the letter.@§7Ты уже взял это письмо.
-§7[+1 Audience Invitation Letter]@§7§7[+1 Приглашение на Аудиенцию]
+§7[+1 Audience Invitation Letter]@§7§7[+1 Пригласительное письмо на Аудиенцию]
 §7You should show your newfound letter to Ava!@§7Ты должен показать свое новообретенное письмо Аве!
 §4[§c!§4]§6 ERROR! Defense protocols shutdo§6§kwn...@§4[§c!§4]§6 ОШИБКА! Протоколы защиты отключе§6§kwn...
 §7She's clearly stressed out.@§7Она явно переживает.
@@ -1750,7 +1750,7 @@ Rynver's teeth fall out of his mouth as he talks.@§7Зубы Ринвера с�
 §7You already picked up these clothes. Better find a way to wash them.@§7Ты уже подобрал эту одежду. Лучше найти способ ее постирать.
 §7There must be a way to §bwash §7those somewhere nearby.@§7Должен же быть способ §bпостирать§7 ее где-нибудь поблизости.
 §7You might be able to wash the dirty clothes you found in there!@§7Ты мог бы постирать грязную одежду, которую нашел там!
-§7You start washing the clothes...@§7ы начинаешь стирать одежду...
+§7You start washing the clothes...@§7Ты начинаешь стирать одежду...
 §7This is filled with water. There're no clothes inside though.@§7Он наполнен водой. Но внутри нет никакой одежды.
 §7[+1 Emerald-Encrusted Outfit]@§7[+1 Инкрустированный Эмеральдом Наряд]
 §7Looks as good as new!@§7Выглядит как новенький!
@@ -1798,7 +1798,7 @@ Rynver's teeth fall out of his mouth as he talks.@§7Зубы Ринвера с�
 §7§o...so§7§o it returned, asleep and unwakeable. The light has spoken of a time when the Guardian shall grace us with its presence once more...@§7§o...так он и вернулся, спящим и непробудным. Свет говорил о том времени, когда Защитник снова почтит нас своим присутствием...
 §7§o...but§7§o such a time is centuries off, and will require great effort. The spell included is vital to the process.@§7§o...но до того времени еще много веков, и оно потребует больших усилий. Заклинание жизненно важно для процесса.
 §7§oThe light also warns- If the darkness should encroach and reach the Guardian's roots, it shall never wake... But it seems we will not have to worry of that.@§7§oСвет также предупреждает- если тьма вторгнется и достигнет корней Защитника - он никогда не проснется... Но похоже нам не придется беспокоиться об этом.
-§7There's another loose page here, with more High Gavellian text on it. Lari should be able to translate this.@§7Здесь есть еще одна прикрепленная страница с более Высоким Гавеллианским текстом. Лари должно быть умеет это переводить.
+§7There's another loose page here, with more High Gavellian text on it. Lari should be able to translate this.@§7Здесь есть еще одна прикрепленная страница с более Высоким Гавеллианским текстом. Лари должно быть сумеет это перевести.
 §7Lari should be able to translate the spell on the page.@§7Лари вероятно сможет перевести заклинание на странице.
 §7You need the §3[Spell of the Waking Forest] §7to wake the Guardian. Perhaps the Cinfras Library has multiple copies of it?@§7Тебе нужно §3[Заклинание Пробуждения Леса]§7, чтобы разбудить Защитника. Может быть, в библиотеке Цинфраса есть несколько его копий?
 §7The voice of the Light told you to pursue her. You shouldn't stop now, should you?@§7Голос Света велел тебе преследовать ее. Ты ведь не должен сейчас останавливаться, правда?
@@ -1825,15 +1825,15 @@ Rynver's teeth fall out of his mouth as he talks.@§7Зубы Ринвера с�
 §7This part of the wall looks considerably weaker than the rest of it..@§7Эта часть стены выглядит значительно слабее, чем остальная..
 §7It's a water bowl.@§7Это миска с водой.
 §7It's a vent.@§7Это вентиляция.
-§bChipping away at it shouldn't be too difficult..@§bОткрыть ее не должно быть слишком сложно..
+§bChipping away at it shouldn't be too difficult..@§bСломать ее должно быть не слишком сложно..
 §7There's a horrific smell coming from the water...@§7От воды исходит ужасный запах...
-§7You attempt to pull off the vent cover...@§7Ты пытаетешься снять крышку вентиляционного отверстия...
-§7[20% Chipped]@§7[20% Откручено]
-§7[40% Chipped]@§7[40% Откручено]
-§7[60% Chipped]@§7[60% Откручено]
-§7[80% Chipped]@§7[80% Откручено]
-§7[100% Chipped]@§7[100% Откручено]
-§7It'd probably be best to not touch it..@§7Наверное, лучше его не трогать..
+§7You attempt to pull off the vent cover...@§7Ты пытаешься снять крышку вентиляционного отверстия...
+§7[20% Chipped]@§7[20% Сломано]
+§7[40% Chipped]@§7[40% Сломано]
+§7[60% Chipped]@§7[60% Сломано]
+§7[80% Chipped]@§7[80% Сломано]
+§7[100% Chipped]@§7[100% Сломано]
+§7It'd probably be best to not touch it..@§7Наверное, лучше ее не трогать..
 §7It won't budge.@§7Она не поддается.
 §7It's a rancid water bowl.@§7Это таз с прогорклой водой.
 §7It's just a vent.@§7Это просто вентиляция.
@@ -1877,18 +1877,16 @@ Rynver's teeth fall out of his mouth as he talks.@§7Зубы Ринвера с�
 §7You bite back the urge to vomit.. was this once a person???@§7Ты сдерживаешь позыв к рвоте.. был ли это когда-то человек???
 §7It'd be best for you to stay well away from this stuff..@§7Тебе лучше держаться подальше от всего этого..
 §7It'd probably be best not to touch it..@§7Наверное, лучше ее не трогать..
-§7[+6 Rancid Flesh]@§7[+6 Протухшей Плоти]
 §7There's some broken bits and pieces of a torture device here..@§7Здесь есть какие-то куски пыточного устройства..
 §7It's a shattered torture device..@§7Это разбитое орудие пыток..
 §7The blade is rusted and completely stained with dried blood..@§7Лезвие заржавело и полностью запятнано засохшей кровью..
-§7[+3 Broken Dagger]@§7[+3 Сломанных Кинжала]
 §7[7/7 Messes]@§7[7/7 Беспорядков]
 §7Looks like you've cleaned up all the messes! §bYou should return to the Guard at the entrance of the hallways to tell him that you're done.@§7Похоже, ты подчистил все беспорядки! Ты должен вернуться к Стражу у входа в коридоры, чтобы сказать ему, что ты закончил.
 §7You open the crate...@§7Ты открываешь ящик...
 §7There's some cheese inside of the crate.@§7В ящике есть немного сыра.
 §7[+1 Cheese]@§7[+1 Сыр]
-§7The plant has been disturbed- Looks like it was knocked over.@§7Растение было потревожено - похоже, его опрокинули.
-§7It's missing a few leaves- Many of them are scattered around the area.@§7На нем не хватает нескольких листьев - многие из них разбросаны по всей округе.
+§7The plant has been disturbed- Looks like it was knocked over.@§7Растение было побеспокоино - похоже, его разломали.
+§7It's missing a few leaves- Many of them are scattered around the area.@§7Здесь не хватает нескольких листьев - многие из них разбросаны по всей округе.
 §7There seem to be some footprints leading away... It would probably be best to §bask about the plant.@§7Кажется, есть какие-то следы, ведущие в сторону... Наверное, лучше §bспросить о растении.
 §7You place the cheese on the floor, where the rat had ran by..@§7Ты кладешь сыр на пол, там, где пробежала крыса..
 §7Looks like the rat dropped something when it ran away...@§7Похоже, крыса что-то уронила, когда убегала...
@@ -1898,7 +1896,6 @@ Rynver's teeth fall out of his mouth as he talks.@§7Зубы Ринвера с�
 [§7+1 Water Bucket]@§7[§7+1 Ведро Воды]
 §7You throw the water bucket onto the generator...@§7Ты бросаешь ведро с водой в генератор...
 §7Looks like something popped out of the generator...@§7Похоже, что-то выскочило из генератора...
-§7[+1 Generator Chip]@§7[+1 Чип Генератора]
 §7You're escorted back to the cell block by the guard...@§7Страж провел тебя обратно в тюремный блок...
 §7The two of you arrive just as rollcall is about to begin. Some guards shove you into place with the other prisoners...@§7Вы двое прибываете как раз в тот момент, когда начинается перекличка. Некоторые охранники толкают тебя на место вместе с другими заключенными...
 §7You're escorted to the cafeteria by the guards...@§7Охранники проводят тебя в столовую...
@@ -1926,12 +1923,10 @@ Rynver's teeth fall out of his mouth as he talks.@§7Зубы Ринвера с�
 §7It's empty.@§7Тут пусто.
 §7There are some vegetables inside of this crate.@§7В этом ящике есть немного овощей.
 §7The guard was knocked out.. You should be able to §bsteal §7the §bguard outfit §7now..@§7Страж был нокаутирован.. Теперь ты сможешь §bукрасть наряд охранника..
-§7[+5 Leafy Stalks]@§7[+5 Листовых Стеблей]
 §7You put the guard uniform underneath your regular outfit. This should help you avoid some suspicion when you make your escape...@§7Ты надеваешь форму охранника под свой обычный наряд. Это должно помочь тебе избежать некоторых подозрений, когда ты совершишь побег...
-§7[+1 Point of Interest]@§7[+1 Достопримечательность]
+§7[+1 Point of Interest]@§7...
 §7Looks like this is all you'll be able to find for now. §bYou should head back to the Guard at the entrance of the hallways to tell him that you're finished working.@§7Похоже, это все, что ты сможешь найти на данный момент. §bТы должен вернуться к охраннику у входа в коридоры, чтобы сказать ему, что ты закончил работу.
 §7There's a few stacks of coins inside of this crate.@§7В этом ящике несколько стопок монет.
-§7[+6 Stack of Coins]@§7[+6 Стопок Монет]
 §7Time to take stock of the situation. You need to get out of here, and you might just have found enough out to do it.@§7Пришло время оценить ситуацию. Тебе нужно выбраться отсюда, и ты возможно уже достаточно узнал, чтобы сделать это.
 §7The only way to escape is by heading through the §bexit door. §7You'll need to access the §bcontrol room §7in order to open it...@§7Единственный способ сбежать - это пройти через §bвыходную дверь§7. Тебе нужно будет войти в §bдиспетчерскую§7, чтобы открыть ее...
 §7The Warden mentioned during rollcall that there's spare §bcontrol room keys in her office.§7 You'll have to §bfind a way into her office during work time§7 in order to access the control room.@§7Надзиратель упомянула во время переклички, что в §bее кабинете есть запасные ключи от диспетчерской§7. Тебе придется §bнайти способ проникнуть в ее офис во время работы§7, чтобы получить доступ к диспетчерской.
@@ -1939,7 +1934,7 @@ Rynver's teeth fall out of his mouth as he talks.@§7Зубы Ринвера с�
 §7Looks like the Warden isn't here today, and there aren't any guards near her office.. §bYou might be able to get through the door without being noticed..@§7Похоже, Надзирателя тюрьмы сегодня нет, а возле ее кабинета нет охраны... §bВозможно, тебе удастся пройти через дверь незамеченным..
 §7The door is locked.. There has to be §banother way §7into the office §bnearby.@§7Дверь заперта.. Должен быть §bдругой путь§7 в офис §bпоблизости.
 §7Now that the guard isn't standing here, you can more closely inspect this vent...@§7Теперь, когда охранник не стоит здесь, ты можешь более внимательно осмотреть эту вентиляцию...
-§7It looks quite old, and the vent grates appear to be splitting at their seams... it shouldn't take too much effort to just...?@§7Она выглядит довольно старой, и вентиляционные решетки, кажется, трещат по швам... это не должно занять слишком много усилий, чтобы просто...?
+§7It looks quite old, and the vent grates appear to be splitting at their seams... it shouldn't take too much effort to just...?@§7Она выглядит довольно старой, и вентиляционные решетки кажется трещат по швам... не должно занять слишком много усилий, чтобы...?
 §7Perfect! With the grate off, it’s relatively easy to squeeze through the vent opening.@§7Идеально! Когда решетка снята, протиснуться через вентиляционное отверстие относительно легко.
 §bOne of these vents §7has to lead to the §bwarden's office..@§bОдин из этих выходов§7 должен вести в §bкабинет надзирателя..
 §7You're inside the warden's office... You need to §bfind the Control Room Key §7and use it to §bopen the Control Room.@§7Ты находишься в кабинете надзирателя... §bТебе нужно найти Ключ от Диспетчерской и использовать его, чтобы открыть Диспетчерскую.
@@ -1950,7 +1945,7 @@ Rynver's teeth fall out of his mouth as he talks.@§7Зубы Ринвера с�
 §7The papers appear to be asking the Warden for...? A quota of souls...@§7В бумагах, кажется, просят Надзирателя о... Квотах на души...
 §7There are some books stacked up in piles right here.@§7Тут стопками сложены какие-то книги.
 §7There are some odd books here.@§7Здесь есть несколько странных книг.
-§7The signature at the end simply reads the letter D.@§7Подпись в конце просто написана буквой D.
+§7The signature at the end simply reads the letter D.@§7Подпись в конце заканчивается буквой D.
 §7The subject of the books range from the history of the Decay, to spirit magic and... Soul extraction.@§7Тематика книг варьируется от истории Заражения, до магии духов и... Извлечения души.
 §7It'd probably be best to stop looking through these.@§7Наверное, было бы лучше перестать их просматривать.
 §7The key fits perfectly into the door's keyhole...@§7Ключ идеально вписывается в замочную скважину...
@@ -1963,16 +1958,14 @@ Rynver's teeth fall out of his mouth as he talks.@§7Зубы Ринвера с�
 §7There's some extremely dark looking metal inside of this closet. You can't tell what it's used for...@§7В этом шкафу есть какой-то очень темный металл. Ты не можешь сказать, для чего он используется...
 §7The closet's empty.@§7Шкаф пуст.
 §7It's also the largest prison in all of Gavel, and receives an enormous amount of funding in order to maintain captivity of their inmates...@§7Это также самая большая тюрьма во всем Гавеле, и она получает огромное количество финансирования, чтобы поддерживать в неволе своих заключенных...
-§7[+6 Black Steel]@§7[+6 Черной Стали]
 §7There are a few rusted axe heads in here. The sharp edges are stained with dried blood...@§7Здесь есть несколько ржавых топоров. Острые края запятнаны засохшей кровью...
-§7[+4 Rusty Axe Heads]@§7[+4 Ржавых Топора]
 §7The screen appears to show a map of the entire prison! It looks like after you head through the exit door, you'll have to §bsneak through §7a large portion of the prison to escape.@§7На экране появляется карта всей тюрьмы! Похоже, что после того, как ты пройдешь через выходную дверь, тебе §bпридется прокрасться§7 через большую часть тюрьмы, чтобы сбежать.
 §7It's a monitor with information on the entire prison's layout.@§7Это монитор с информацией о планировке всей тюрьмы.
 §7Near the back of the prison, there's a room that holds almost all of the records in the prison... You might be able to §bdestroy your criminal record §7if you reach it!@§7В задней части тюрьмы есть комната, в которой хранятся почти все записи о тюрьме... Ты можешь §bуничтожить свое уголовное досье§7, если доберешься до него!
 §7This screen appears to show some information about guard patrols and placements in the second half of the prison...@§7Этот экран, кажется, показывает некоторую информацию о патрулях охраны и размещениях во второй половине тюрьмы...
 §7It's a monitor with information on guard placements.@§7Это монитор с информацией о размещении охраны.
 §7There's a lever on this control panel that is labeled with the words ''UNLOCK EXIT DOOR''.@§7На этой панели управления есть рычаг с надписью "ОТКРЫТЬ ВЫХОДНУЮ ДВЕРЬ".
-§7...The§7 entire area is going to be §bcrawling with guards. §7You're going to have to §bsneak through §7them all in order to escape the prison for good.@§7...Вся территория будет §bкишеть охранниками§7. Тебе придется §bпрокрасться через них всех§7, чтобы сбежать из тюрьмы навсегда.
+§7...The§7 entire area is going to be §bcrawling with guards. §7You're going to have to §bsneak through §7them all in order to escape the prison for good.@§7...Вся территория будет §bзабита охранниками§7. Тебе придется §bпрокрасться через них всех§7, чтобы сбежать из тюрьмы.
 §7You can hear the sound of a door opening in the distance... §bthe exit door §7must have just §bopened!@§7Вдалеке слышен звук открывающейся двери... §bвыходная дверь§7, должно быть, только что открылась!
 §7There isn't much time left! §bGet to the exit door so you can escape!@§7Осталось совсем немного времени! §bДоберись до выходной двери, чтобы ты мог сбежать!
 §7The Prison is currently swarming with patrolling guards. §bSneak past§7 all of §bthe guards §7without being seen in order to escape.@§7В настоящее время тюрьма кишит патрулирующими охранниками. §bПрокрадись мимо всех охранников незамеченным§7, чтобы сбежать.
@@ -1988,7 +1981,7 @@ Rynver's teeth fall out of his mouth as he talks.@§7Зубы Ринвера с�
 §7Hardly any of the information is actually filled out, No age, career history, family, or any other information. She appears to be a complete un-person.@§7Здесь почти нет никакой информации, нет возраста, истории карьеры, семьи или любых других сведений. Она, кажется, совершенно не-человек.
 §7This cabinet has a number of letters between Gavel's government and the Prison.@§7У этого кабинета есть несколько писем между правительством Гавела и Тюрьмой.
 §7It's a stack of letters between the Prison and Gavel's government.@§7Это пачка писем между Тюрьмой и правительством Гавела.
-§7There should be §bsomething nearby §7you can use to §bdestroy it§7.@§7Там должно быть §bчто-то поблизости§7, что ты можешь использовать, чтобы §bуничтожить его§7.
+§7There should be §bsomething nearby §7you can use to §bdestroy it§7.@§7Тут должно быть §bчто-то поблизости§7, что ты можешь использовать для §bего уничтожения§7.
 §7It's as if she just popped into existence for the sole purpose of being this prison's warden.@§7Как будто она только что появилась на свет с единственной целью - быть надзирателем этой тюрьмы.
 §7[+1 Criminal Records]@§7[+1 Криминальное Досье]
 §7The Prison appears to be lying about almost everything they do to the government, and they appear to buy into it, despite all the rumors about this place.@§7Тюрьма похоже лжет почти обо всем для правительства, и те, похоже, покупаются на это, несмотря на все слухи об этом месте.
@@ -2163,7 +2156,7 @@ Rynver's teeth fall out of his mouth as he talks.@§7Зубы Ринвера с�
 §7You should probably avoid messing with this control panel for now.@§7Вероятно, тебе пока следует избегать возни с этой панелью управления.
 §7There's a charging slot in the machine.@§7В машине есть слот для зарядки.
 §4You have to defeat the mobs first!@§4Сначала ты должен победить мобов!
-§7It's a cute dog!@§7Это милая собачка!
+§7It's a cute dog!@§7Это милый пес!
 §7Just a bunch of books and notes.@§7Просто куча книг и заметок.
 §7It's just a drawer.@§7Это всего лишь комод.
 §7He seems to be even more concerned about this operation.@§7Он, кажется, еще больше озабочен этой операцией.
@@ -2214,7 +2207,7 @@ Rynver's teeth fall out of his mouth as he talks.@§7Зубы Ринвера с�
 §7[3/5] §bBid Increases@§7[3/5] §bПовышение Ставки
 §7[4/5] §bBid Increases@§7[4/5] §bПовышение Ставки
 §7[5/5] §bBid Increases@§7[5/5] §bПовышение Ставки
-§7You should try to increase the price with another merchant before going back to your previous one.@§7ы должен попытаться увеличить цену с другим продавцом, прежде чем вернуться к предыдущему.
+§7You should try to increase the price with another merchant before going back to your previous one.@§7Ты должен попытаться увеличить цену с другим продавцом, прежде чем вернуться к предыдущему.
 §7[-1 Dragonling Egg]@§7[-1 Яйцо Драгонлинга]
 §7[+2000 Emeralds]@§7[+2000 Эмеральдов]
 §7[-2000 Emeralds]@§7[-2000 Эмеральдов]
@@ -2228,6 +2221,95 @@ Rynver's teeth fall out of his mouth as he talks.@§7Зубы Ринвера с�
 §7[+2304 Emeralds]@§7[+2304 Эмеральда]
 §7He seems uneasy about having to do something illegal.@§7Похоже, ему не по себе оттого, что приходится делать что-то противозаконное.
 §7He's a very busy man. You probably shouldn't disturb him.@§7Он очень занятой человек. Наверное, не стоит его беспокоить.
+§7Report back with the description of the white, big-horned creature to Caissop@§7Вернись с описанием белого, большерогого существа к Кайзопу
+§7The teleporter seems to not be working right now.@§7Телепорт похоже сейчас не работает.
+§7Doan looks like he's ready to faint from the stress.@§7Доан выглядит так, словно готов упасть в обморок от напряжения.
+§7You should probably let the mechanic speak before leaving.@§7Вероятно, тебе следует дать механику высказаться перед уходом.
+§7This pile of gravel appears to have blocked the entrance... Maybe there's a shovel nearby?@§7Эта куча гравия, похоже, заблокировала вход... Может поблизости есть лопата?
+§4This equipment seems quite dangerous, you should probably stay away.@§4Это снаряжение кажется довольно опасным, тебе вероятно следует держаться подальше.
+§7Don't forget to enter the §bKaroc Mine.@§7Не забудь войти в §bШахту Карока.
+§7You have been kicked out of the resource tunnel...@§7Ты был выгнан из тоннеля с ресурсами...
+§7§oTo: 356th Skyraider Queen, 573 AP.@§7§oДля: 356 Королевы Скарайдеров, 573 ПП.
+§7§oOi, Your Majesty, I hate ta interrupt ya, but we're in a bit of a bad situation out 'ere.@§7§oЭй, Ваше Величество, мне очень неприятно вас прерывать, но у нас тут немного плохая ситуация.
+§7§oEver since those Dwarves op'ned up the Heights, air traffic has gotten even more scarce. Our power in these parts is diminishing@§7§oС тех пор как эти гномы открыли Высоты, воздушное сообщение стало еще более редким. Наша власть в этих краях ослабевает
+§7§oWe ain't able to support ourselves up in our region, so we may need to move operations to the main base. Just a heads up.@§7§oМы не в состоянии обеспечить себя в нашем регионе, поэтому нам возможно придется перенести операции на главную базу. Просто предупреждаю.
+§7§oSigned, General Arriah@§7§oПодпись - Генерал Аррия
+§7§o''Gone on a break. Don't even dare try to cheat your way into the system.@§7§o''Ушел на перерыв. Даже не пытайтесь обманом попасть в систему.
+§7§oI'll know. You'll also learn I am very good at retaliating.''@§7§oЯ узнаю. Вы также узнаете, что я очень хорошо умею мстить.''
+§7Good thing an audience has already been booked...@§7Хорошо, что аудиенция уже забронирована...
+§7[-1 Well-Cushioned Boots]@§7[-1 Мягкие Сапоги]
+§7Use the fishing rod to catch the fish!@§7Используй удочку, чтобы поймать рыбу!
+§7Doan's gone silent, and he doesn't seem to be responsive. Maybe you should get him back to the airbase...@§7Доан замолчал и, похоже, не реагирует. Может быть, тебе стоит вернуть его на авиабазу...
+§4The water looks too deep past here. Perhaps it's better to stay on the Island.@§4Вода здесь кажется слишком глубокой. Возможно, лучше остаться на Острове.
+§7It's empty. You already found this chest. It smells like meat.@§7Он пуст. Ты уже находил этот сундук. Он пахнет мясом.
+§7[-1 Makeshift Parachute]@§7[-1 Самодельный Парашют]
+§7[+1 Agent's Key]@§7[+1 Агентский Ключ]
+§4It'd be rude to go through Maxie's house just like that.@§4Было бы невежливо просто так пройти через дом Макси.
+You logged in from another location@Ты вошел из другого места
+§4You have a bad feeling about standing here.@§4У тебя плохое предчувствие, что ты стоишь здесь.
+§7There are lots of books about tailoring and cooking.@§7Здесь много книг о пошиве одежды и кулинарии.
+§7You pet the dog. It's a good dog.@§7Ты погладил песика. Это хороший песик.
+§7You pet the dog again. It's still a good dog.@§7Ты снова погладил песика. Это все еще хороший песик.
+§7You pet the dog again. Very enjoyable, yes.@§7Ты погладил песика снова. Очень приятно, да.
+§7The dog has been pet again.@§7Песик был поглажен еще раз.
+§7And again.@§7И еще раз.
+§7And again...@§7И еще...
+§7And again...!@§7И еще...!
+§7It's a neverending petting session.@§7Это нескончаемый сеанс поглаживания.
+§7The petting brakes broke. The dog is overjoyed.@§7У поглаживаний сломались тормоза. Песик вне себя от радости.
+§7The dog, has been once again, pet.@§7Песик, был снова, поглажен.
+§7Will it ever end?@§7Это когда-нибудь закончится?
+§7You wonder when you'll stop...@§7Интересно, когда ты остановишься...
+§7...But§7 apparently stopping isn't exactly an option.@§7...Но, по-видимому, останавливаться совсем не вариант.
+§7Or is it? Does free will exist? Or are we forced to forever pet a dog?@§7Или вариант? Существует ли свобода воли? Или мы вынуждены вечно гладить песика?
+§7It looks like there's only one unpleasant way to find out. And it's to stop petting the dog.@§7Похоже, есть только один неприятный способ выяснить это. И это перестать гладить песика.
+§7Though, that's unlikely to happen. He's so cute!@§7Хотя вряд ли это произойдет. Он такой милый!
+§7It looks like he'll be fine for a while now.@§7Похоже, какое-то время он будет в порядке.
+§7But a few more pets won't hurt!@§7Но пара лишних поглаживаний не повредит!
+§7There, there. He's so happy.@§7Вот, вот. Он такой счастливый.
+§7The dog is content with your love. That should be enough.@§7Песик доволен твоей любовью. Этого должно быть достаточно.
+§7And the dog will eternally remember your existence as you depart from this room. He's sad now. You monster.@§7И песик будет вечно помнить о твоем существовании, когда ты покинешь эту комнату. Теперь ему грустно. Ты чудовище.
+§7This does not seem like the weapon. It's just a potato..?@§7Это не похоже на оружие. Это просто картошка...?
+§7[-1 Oddly-Shaped Key]@§7[-1 Ключ Странной Формы]
+§7[+64 Emeralds]@§7[+64 Эмеральда]
+§7[+300 Emeralds]@§7[+300 Эмеральдов]
+§7Time to head back to Caissop. Hopefully that's good enough for him.@§7Пора возвращаться к Кайзопу. Надеюсь, для него этого достаточно.
+§7There is truly, finally, nothing more for you here. §7§oThe spell can not be broken, as of now. §7You have seen my life laid bare in front of you. There is nothing more for you to see.@§7Здесь, наконец для тебя больше ничего нет. §7§oЗаклинание не может быть разрушено, по крайней мере сейчас.§7 Ты видел, как моя жизнь обнажилась перед тобой. Тебе больше нечего смотреть здесь.
+§7This was not the direction Lari was headed towards, §bfollow the road!@§7Это было не то направление, куда направлялась Лари - §bиди по дороге!
+§4Oh so you managed to get past the first region?@§4Ох, так значит тебе удалось вылезти из первого региона?
+§7It looks like a mining machine that’s hundreds of years old. What was it mining though?@§7Это похоже на шахтерскую машину, которой сотни лет. Но что она добывала?
+§7Some handwritten text is scribbled in the margin, with arrows pointing to it. "SHARP, CUP-SHAPED PETALS! CHECK FIRST!!"@§7На полях написан какой-то рукописный текст, на который указывают стрелки. "ОСТРЫЕ, ЧАШЕОБРАЗНЫЕ ЛЕПЕСТКИ! СНАЧАЛА ПРОВЕРЬ!!"
+§7There's another handwritten note next to the passage. "ROUND PETALS! DO NOT MISTAKE FOR PELULITE!!"@§7Рядом с отрывком есть еще одна записка, написанная от руки. "КРУГЛЫЕ ЛЕПЕСТКИ! НЕ ПУТАЙ С ПЕЛУЛИТОМ!!"
+§7The passage about the distinct rotten scent of the flower is circled, similar to the previous written passages.@§7Отрывок об отчетливом гнилом запахе цветка обведен кружком, как и предыдущие написанные отрывки.
+§6[§e!§6] §7Right-click again to restart the puzzle.@§6[§e!§6] §7Правый клик для рестарта пазла.
+§7You are transported back to a different time...@§7Ты перенесся в другое время...
+§7Ava is distressed.@§7Ава расстроена.
+§4You notice a rather agitated villager exploring this cave. He's screaming at you to leave... Best not to bother him.@§4Ты замечаешь довольно взволнованного жителя, исследующего эту пещеру. Он кричит тебе, чтобы ты уходил... Лучше не беспокоить его.
+§7The book on the pedestal seems important.@§7Книга на пьедестале кажется важной.
+§7The creatures guarding these animals seem more legendary to you.@§7Существа, охраняющие этих животных, кажутся тебе более легендарными.
+§7You find a book about the history of Pirate Cove...@§7Ты нашел книгу об истории Пиратской бухты...
+§7Wait, this has nothing to do with finding an outfit!@§7Подожди, это не имеет никакого отношения к поиску наряда!
+§7This device looks useless. Probably best to leave it here.@§7Это устройство выглядит бесполезным. Наверное, лучше оставить его здесь.
+§7+1 [Crate of Rat Poison]@§7+1 [Контейнер Крысиного Яда]
+§7[+1 Gelibord's Rusted Clock]@§7[+1 Ржавые Часы Гелиборда]
+§7[+1 Teleporter Core]
+§5Teleporter active@§5Телепорт активен
+§7+1 Depressing Stick@ 
+§7[-1 Teleporter Core]@§7[-1 Ядро Телепорта]
+§7Collect 5 §3[Lucky Lynx Foot]@§7Собери 5 §3[Счастливых Рысьих Лапок]
+§7-5 Lucky Linx Foot@§7-5 Счастливых Рысьих Лапок
+§7+1 Depressing Spear@ 
+§7+1 Depressing Bow@ 
+§7-1 Effervescent Dagger@§7-1 Шипучий Кинжал
+§7+1 Depressing Shears@ 
+§7[+1 Empty Bucket]@§7[+1 Пустое Ведро]
+§7The chest contains some ornate looking quartz, though not enough to be worth much.@§7В сундуке лежит какой-то богато украшенный кварц, но его недостаточно, чтобы тот стоил много.
+§cYou shouldn't leave just yet!@§cТы не должен пока уходить!
+§7Pip is now curiously and ominously staring at the mushroom.@§7Пип теперь с любопытством и зловещим видом смотрит на гриб.
+§7The mushroom made Pip sad after retreating into your satchel. What a monster.@§7Гриб опечалил Пипа после того, как тот спрятался в твоей сумке. Какое чудовище!
+§cSomething went wrong! You've been sent back to the correct place in the quest.@§cЧто-то пошло не так! Ты был отправлен назад в правильное место квеста.
+§7§oYou get a sense you're going the wrong way...@§7§oУ тебя такое чувство, что ты идешь не в ту сторону....
+§7§oMaybe §b§oSiegfried can activate the other§y§b§o one?@§7§oМожет §b§oЗигфрид сможет активировать §y§b§o другой?
 
 ################################QUEST NAMES####################################
 §e                          §e§lArachnids' Ascent@ 

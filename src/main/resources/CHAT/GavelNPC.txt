@@ -11,6 +11,7 @@
 §7[2/3] §2Lexdale Citizen: §aWHAT?? Taron, he-he's alive?? And you... made sure he didn't starve in that prison...?@§7[2/3] §2Житель Лексдейла: §aЧТО?? Тарон, он ... он жив?? И ты... позаботился, чтобы он не умер с голоду в этой тюрьме?
 §7[3/3] §2Lexdale Citizen: §aI... human, I can't thank you enough. Even if he doesn't get out of there, just knowing he's alive is... please. I know it's not a lot, but take this.@§7[3/3] §2Житель Лексдейла: §aЯ... человек, не могу достаточно отблагодарить тебя. Даже если он не выберется оттуда, достаточно просто знать, что он жив... пожалуйста. Я знаю, что это немного, но возьми это.
 §7[1/1] §2Lexdale Citizen: §aI...can't§a believe it. I trusted you, Amira! I can't believe you would do this!!@§7[1/1] §2Житель Лексдейла: §aЯ...не могу поверить. Я доверял тебе, Амира! Не могу поверить, что ты сделала это!!
+§7[1/1] §2Lexdale Citizen: §aThis can't be right, I've known Amira for years! There's no way she would have done this...@§7[1/1] §2Житель Лексдейла: §aЭтого не может быть, я знаю Амиру много лет! Она бы ни за что так не поступила...
 
 ##################################OLUX#############################################
 §7[1/3] §2Olux Citizen: §aEvery now and then, a strange fellow in a white mask comes around town, trying to sell this peculiar medicine. It's very effective, but...@§7[1/3] §2Житель Олукса: §aВремя от времени странный парень в белой маске приходит в город, пытаясь продать одно необычное лекарство. Это очень хорошо, но...
@@ -98,6 +99,13 @@
 §7[1/1] §2Juggler: §a§oGod am I gonna love legally throwing people!@§7[1/1] §2Трюкач: §a§oБоже, как же я буду любить легально швырять людей!
 §7[3/5] §2Juggler: §aWe're currently developping somethin' great. We're halfway done!@§7[3/5] §2Трюкач: §aВ настоящее время мы разрабатываем нечто великое. Мы уже наполовину закончили!
 §7[4/5] §2Juggler: §aIt's only one-way, though. Maybe one day it'll be better, but for now, it's way easier on us that way.@§7[4/5] §2Трюкач: §aПравда это только путь в одну сторону. Может быть, когда-нибудь сделаем все получше, но сейчас нам так гораздо легче.
+§7[1/5] §2Juggler: §aWhy hello there! Welcome, welcome!@§7[1/5] §2Трюкач: §aНу здравствуй! Добро пожаловать, добро пожаловать!
+§7[2/5] §2Juggler: §aHere's the §bJuggler's Tavern§a. And I'm the Juggler!@§7[2/5] §2Трюкач: §aЗдесь §bТаверна Трюкача§a. И я Трюкач!
+§7[3/5] §2Juggler: §aIf you want to quickly travel somewhere, feel free to stand on one of these spots!@§7[3/5] §2Трюкач: §aЕсли ты хочешь быстро куда-то добраться, смело становитесь на одно из этих мест!
+§7[4/5] §2Juggler: §aIt's only one-way, though. Maybe one day it'll be better, but don't count on it.@§7[4/5] §2Трюкач: §aНо пока это только в один конец. Может, когда-нибудь сделаем получше, но не рассчитывай на это.
+§7[5/5] §2Juggler: §aI can't believe we actually got all four destinations to work with us...@§7[5/5] §2Трюкач: §aНе могу поверить, что мы действительно получили все четыре направления, чтобы работать с ними...
+§7[1/1] §2Juggler: §aHm? Did ya want anythin'? Whatever it is, I don't have it! If you want more information, there's a sign over there.@§7[1/1] §2Трюкач: §aХм? Ты что-то хотел? Что бы то ни было, у меня этого нет! Если тебе нужна дополнительная информация, там есть табличка.
+§7[1/1] §2Juggler: §a...I sure love legally throwing people!@§7[1/1] §2Трюкач: §a...Я очень люблю легально швырять людей!
 §7[1/1] §2Box: §aThank you for your donation to Siegfried!@§7[1/1] §2Коробка: §aСпасибо за ваш донат Зигфриду!
 
 ######################################LLEVIGAR####################################
@@ -405,4 +413,3 @@
 §7[2/4] §2Pastor Arwes: §aThis used to be a thriving religious sanctuary, but most think the holy have abandoned us.@§7[2/4] §2Пастор Арвес: §aРаньше это было процветающее религиозное святилище, но большинство думает, что святые покинули нас.
 §7[3/4] §2Pastor Arwes: §aVery few are left in this church. Times are hard in the forest, especially here in the ruins.@§7[3/4] §2Пастор Арвес: §aОчень немногие остались в этой церкви. Времена в лесу тяжелые, особенно здесь, в развалинах.
 §7[4/4] §2Pastor Arwes: §aAnd yet, the people of Cinfras don't even as much as bat an eye...@§7[4/4] §2Пастор Арвес: §aИ пока, народ Цинфраса не задает вопросов...
-§7[1/1] §2???: §aWho is the fool that has opened this accursed cage?@§7[1/1] §2???: §aКто тот дурак, что открыл эту проклятую клетку?

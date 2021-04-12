@@ -185,6 +185,7 @@
 §7- Refined Diamond Gem 1@§7- Переработанный Алмазный Камень 1
 §7- Refined Diamond Gem 2@§7- Переработанный Алмазный Камень 2
 §7- Refined Diamond Gem 3@§7- Переработанный Алмазный Камень 3
+§7- Refined Avo Wood 3@§7- Переработанная Древесина Авокадо 3
 §7- Refined Avo Wood 2@§7- Переработанная Древесина Авокадо 2
 §7- Refined Avo Wood 1@§7- Переработанная Древесина Авокадо 1 
 §7- Refined Kanderstone Gem 1@§7- Переработанный Кандерстоун Камень 1
@@ -204,6 +205,8 @@
 §7- Refined Koi Meat 3@§7- Переработанное Мясо Сазана 3
 §7- Refined Rice String 1@§7- Переработанная Рисовая Нить 1
 §7- Refined Bass Oil 3@§7- Переработанный Жир Окуня 3
+§7- Refined Bass Oil 1@§7- Переработанный Жир Окуня 1
+§7- Refined Bass Oil 2@§7- Переработанный Жир Окуня 2
 §7- Refined Icefish Oil 2@§7- Переработанный Жир Щуки 2
 §7- Refined Voidstone Gem 2@§7- Переработанный Войдстоун Камень 1
 §7- Refined Sky Wood 1@§7- Переработанная Древесина Лиственницы 1
@@ -224,13 +227,18 @@
 §7- Refined Millet String 2@§7- Переработанная Нить Просо 2
 §7- Refined Millet String 3@§7- Переработанная Нить Просо 3
 §7- Refined Pine Wood 2@§7- Переработанная Древесина Сосны 2
+§7- Refined Pine Wood 1@§7- Переработанная Древесина Сосны 1
 §7- Refined Hemp String 3@§7- Переработанная Конопляная Нить 3
 §7- Refined Dernic Grains 1@§7- Переработанное Дерник Зерно 1
 §7- Refined Starfish Meat 1@§7- Переработанное Мясо Морской Звезды 1
+§7- Refined Starfish Meat 2@§7- Переработанное Мясо Морской Звезды 2
+§7- Refined Starfish Meat 3@§7- Переработанное Мясо Морской Звезды 3
+§7- Refined Sorghum Grains 3@§7- Переработанное Зерно Сорго 3
+
 
 ###########################OTHERS###############################
 §7Currency@§7Валюта
-§7[Put an allowed weapon @§7[Помести разрешеннное оружие
+§7[Put an allowed weapon @§7[Помести разрешенное оружие
 §7in your hotbar]@§7в свой хотбар]
 §7Give double Combat XP to the entire server for 20 minutes!@§7Дает двойной Комбат XP всему серверу на 20 минут!
 §7Give double mob drops to the entire server for 20 minutes!@§7Дает двойной лут с мобов всему серверу на 20 минут!
@@ -265,6 +273,7 @@
 §7Use on what blocks your@§7Используй на том, что блокирует твой
 §7path@§7путь
 §cSale Ended@§cРаспродажа Завершена
+§aSale Ended@§aРаспродажа Завершена
 §7Maximum: §f1@§7Максимум: §f1
 §eFol§klo§ew t§kh§eis cha§kr§et §kw§ehile §eusi§kng§e t§ehe mac§kh§eine§ks§e.@§eSle§kdu§ei e§kt§eoi tab§kli§ece §kvo §evremya §eispolzo§kvaniya§e mas§kch§ei§kn§i.
 §eThi§ks§e she§ke§et shou§kld§e be §egi§kve§en to §e§kt§ehe bl§ko§eody@§eEto§kt§e li§ks§et sled§kuet§e §eot§kda§et kro§kva§evim
@@ -274,9 +283,9 @@
 §74] at @§74] на 
 §7Use this while identifying or@§7Используй при идентификации или 
 §7re-rolling an item to increase@§7повторной идентификации предмета для повышения
-§7its ID rolls by §a10%@§7его показателей на §a10%
-§7its ID rolls by §a5%@§7его показателей на §a5%
-§7its ID rolls by §a15%@§7его показателей на §a15%
+§7its positive ID rolls by up to §a5%@§7его плюсовых показателей на §a5%
+§7its positive ID rolls by up to §a10%@§7его плюсовых показателей на §a10%
+§7its positive ID rolls by up to §a15%@§7его плюсовых показателей на §a15%
 §bLegendary Raid Reward@§bЛегендарная Рейд Награда
 §bLegendary Raid Reward [2]@§bЛегендарная Рейд Награда [2]
 §7§o"Awarded in recognition of@§7§o"Вручается в знак признания
@@ -285,6 +294,9 @@
 §7to your character when used.@§7на твоего персонажа при использовании.
 §7Keep in inventory to gain bonus@§7Держи в инвентаре для получения бонуса
 §cFabled Raid Reward@§cСказочная Рейд Награда
+§cFabled Raid Reward [2]@§cСказочная Рейд Награда [2]
+§5Mythic Raid Reward@§5Мифическая Рейд Награда
+§5Mythic Raid Reward [2]@§5Мифическая Рейд Награда [2]
 
 ###############################QUEST ITEMS##################################
 §7Deliver Goods to:@§7Доставить товары на:
@@ -566,14 +578,14 @@
 §7 - Siegfried Mask (Cinfras)@§7 - Маска Зигфрида (Цинфрас)
 §7 - Siegfried's Autograph (Ahmsord)@§7 - Автограф Зигфрида (Амсорд)
 §7It's a map of some sort of cave.@§7Это карта какой-то пещеры.
-§7It's really old.@§7Она очень старая.
+§7It's really old.@§7Оно очень старое.
 §7This ought to wake anybody.@§7Это должно кого-нибудь разбудить.
 §7Hard but sturdy.@§7Жесткий, но крепкий.
 §7Boots made out of this@§7В сапогах, сделанных из этого материала, 
 §7would probably hurt to walk in.@§7наверное было бы больно ходить.
 §7It's some old fabric.@§7Это какая-то старая ткань.
 §7It'll be great to sew stuff out of.@§7Будет здорово сшить из нее что-нибудь.
-§7It's hot to the touch.@§7Он горячий на ощупь.
+§7It's hot to the touch.@§7Оно горячее на ощупь.
 §7It's an old, rusty pickaxe.@§7Это старая ржавая кирка.
 §7This shovel looks incredibly old...@§7Эта лопата выглядит невероятно старой...
 §7But it looks like it could still be used@§7Но похоже, что она все еще может быть использована
@@ -587,26 +599,26 @@
 §7- Post Due for Ahmsord@§7- Почта должна быть отправлена в Амсорд
 §7- 10,000 Emerald Blocks@§7- 10,000 Блоков Эмеральдов
 §7- 2 Pounds of Cannon Grade Gunpowder@§7- 2 Фунта Пушечного Пороха
-§7Maybe you can fill this up in@§7Может ты можешь заполнить это в
+§7Maybe you can fill this up in@§7Может ты можешь наполнить его в
 §7the showers?@§7душе?
-§7You could probably distract@§7Вероятно ты сможешь отвлечь
-§7A guard with this..@§7охранника этим..
+§7You could probably distract@§7Вероятно ей ты сможешь 
+§7A guard with this..@§7отвлечь охранника ..
 §7The file's extremely heavy..@§7Папка очень тяжелая..
 §7The inside is filled to the brim with papers..@§7Внутри все до краев завалено бумагами..
 §7These papers include a list of exports@§7Эти бумаги включают в себя список экспорта 
 §7from the nearby Shiar.@§7из соседнего Шира.
-§7These papers include seem to be written@§7Эти бумаги кажется написанны в каком-то 
-§7in some kind of code. You see something@§7коде. Ты видишь что-то под названием 
+§7These papers include seem to be written@§7Кажется эти бумаги написанны в виде какого-то 
+§7in some kind of code. You see something@§7кода. Ты видишь что нечто под названием 
 §7called the §bSol Embassy §7mentioned multiple times.@§7§bСолнечное Посольство§7 упоминается несколько раз.
 §7These papers include an entry from@§7В этих бумагах есть запись из 
 §7someone's personal diary.@§7чьего-то личного дневника.
-§7Someone else would probably@§7Кто-то другой, вероятно, 
-§7want this...@§7захотел бы этого...
+§7Someone else would probably@§7Кто-то другой вероятно 
+§7want this...@§7хочет это...
 §7There is mention of 'Iridescent Leaves'@§7Здесь упоминаются "Листья Иридески"
 §7It's an empty bucket.@§7Это пустое ведро.
 §7A bucket filled with water@§7Ведро наполненное водой
 §7from the §eLazarus Pit§7.@§7из §eЛазарус Ямы§7.
-§7A simple wedding ring with@§7Простое свадебное кольцо с
+§7A simple wedding ring@§7Простое свадебное кольцо с
 §7an encrusted jewel.@§7инкрустированным драгоценным камнем.
 §7This slime is very gooey and soft..@§7Эта слизь очень липкая и мягкая..
 §7It'd do a great job of cushioning falls.@§7Она отлично справится с амортизацией падений.
@@ -635,30 +647,30 @@
 §7This should keep Siegfried safe from the fall.@§7Это должно уберечь Зигфрида от падения.
 §7Follow the clue: The airship @§7Следуй за подсказкой: Командиры 
 §7commanders love what they hate. @§7дирижаблей любят то, что они ненавидят.
-§7Right-Click to use@§7Правый Клик для исользования
+§7Right-Click to use@§7Правый Клик для использования
 §4-§7 Duration:§f 15 seconds@§4-§7 Длительность:§f 15 секунд
 §4-§7 Cast Time:§f 3 seconds@§4-§7 Время Каста:§f 3 секунды
 §4-§7 Cooldown:§f 15 seconds@§4-§7 Задержка:§f 15 секунд
 §e- §7Combat Lv. Min: 91@§e- §7Комбат Ур. Мин: 91
 §e- §7Quest Req: The Feathers Fly Part I@§e- §7Квест Необ.: The Feathers Fly Part I
-§7This strange device is resonating@§7Этот странное устройство излучает
+§7This strange device is resonating@§7Это странное устройство излучает
 §7with an unknown energy... Maybe it@§7неизвестную энергию... Может оно
 §7can open something?@§7может что-то открыть?
 §7Used to send pulses to trigger@§7Используется для отправки сигналов в
 §7the machine!@§7машину!
-§7Conveniently made for one task:@§7Удобно сделано для одной задачи:
+§7Conveniently made for one task:@§7Идеально подходит для одной задачи:
 §7getting into Corkus City.@§7попасть в Коркус Сити
 §7Boosts the wearer's abilities.@§7Повышает способности носителя.
 §7What would happen with an Avo?@§7Что случится с Аво?
 §7It's very classy. All eyes on you!@§7Очень стильно. Все будут смотреть на вас!
 §7Just a normal key!@§7Просто обычный ключ!
 §4- §7Duration: §f3 minutes@§4- §7Длительность: §f3 минуты
-§7Grants §fSpeed II§7. Does not@§7Дает §fСкорость II§7. Не 
-§7stack with other Speed effects.@§7стакается с другими эффектами Скорости.
+§7Grants §fSpeed II§7. Does not@§7Дает §fСкорость II§7. Не стакается
+§7stack with other Speed effects.@§7с другими эффектами Скорости.
 §7Maybe this can move@§7Может это может подвинуть
 §7The haybales over there?@§7те стога сена вон там?
-§7The amazing quality of this fishing rod@§7Удивительное качество этой удочки 
-§7really does shine through!@§7действительно просвечивает насквозь!
+§7The amazing quality of this fishing rod@§7Удивительное качество этой удочки -
+§7really does shine through!@§7она действительно просвечивается насквозь!
 §7You have no idea what this is, but@§7Ты понятия не имеешь, что это но 
 §7it looks like it could be used for something.@§7похоже, что это может быть использовано для чего-то.
 §7§nCan be used with:@§7§nМожет быть использовано с:
@@ -673,7 +685,7 @@
 §7A very basic and fitting outfit.@§7Очень простой и подходящий наряд.
 §7Ava would blend well with this.@§7Ава будет хорошо сочетаться с ним.
 §7You should probably wash@§7Ты вероятно должен помыть
-§7them before giving those to@§7его прежде чем отдавать
+§7them before giving those to@§7ее прежде чем отдавать
 §7Ava!@§7Аве!
 §7This branch could probably be used@§7Эту ветку вероятно можно было бы использовать, 
 §7to ignite something nearby...@§7чтобы поджечь что-нибудь поблизости...
@@ -692,14 +704,28 @@
 §7Perhaps its owner is still looking for it?@§7Может быть, владелец все еще ищет его?
 §7It seems to be from the Thanos Vault.@§7Кажется, это из хранилища Таноса. 
 §7Maybe it has a use somewhere there?@§7Может быть, он где-то там пригодится?
-§7Look's like it was made@§7Похоже, он был сделан, 
-§7to contain a small@§7чтобы содержать какое-то 
+§7Look's like it was made@§7Похоже она был сделана 
+§7to contain a small@§7чтобы держать какое-то 
 §7creature of some sort.@§7маленькое существо.
 §8This was found nearby an Orc@§8Это было найдено неподалеку от Лагеря
 §8Camp. It looks like an attempt@§8Орков. Это похоже на попытку 
 §8to craft a weapon. Maybe@§8создать оружие. Может
 §8someone out there could use@§8быть, кому-то там это 
 §8this?@§8пригодится?
+§8An inscription reads:@§8Описание гласит:
+§7Bring me to the §7capital@§7Принеси меня в столицу 
+§7of the §7dark stone pillar@§7темного каменного столпа, 
+§7please!@§7пожалуйста!
+§7Bring to §7the alter of@§7Принеси на алтарь 
+§7the Depressing Spear@§7Depressing Spear
+§3§lRIGHTCLICK §7To §7power@§3§lПРАВЫЙ КЛИК §7для подачи
+§7active §7teleporters.@энергии к телепортам.
+§3§lLEFTCLICK §7To §7restart@§3§lЛЕВЫЙ КЛИК §7для рестарта
+§7maze.@§7лабиринта.
+§7Perfect for any sea-loving@§7Идеально подходит для любого
+§7person!@§7любящего море человека!
+§7Show to the world how@§7Покажи миру как богато
+§7wealthy you seem!@§7ты выглядишь!
 
 #####################RECIPES################################
 §6§lRing Recipes:@§6§lРецепты Колец:
@@ -1929,6 +1955,7 @@
 §8Junk Item@§8Мусорный Предмет
 §7Junk Item@§7Мусорный Предмет
 §7Misc. Item@§7Прочий Предмет
+§8Misc Item@§8Прочий Предмет
 §3Crafting Item@§3Предмет для Крафта
 §3Crafted Scroll@§3Крафтовый Свиток
 §3Crafted Food@§3Крафтовая Еда
@@ -2298,8 +2325,6 @@
 §7Transfer §f1¼²§7 into §f64²½@§7Перевести §f1¼²§7 в §f64²½
 §7Transfer §f64²§7 into §f1²½@§7Перевести §f64²§7 в §f1²½
 §7Transfer §f1²½§7 into §f64²@§7Перевести §f1²½§7 в §f64²
-§7Click to join!@§7Кликни, чтобы присоединиться!
-§7Click to join@§7Кликни, чтобы присоединиться
 §7Having less soul points increases@§7Уменьшение количества очков душ повышает
 §7the chance of dropping items upon@§7шанс выпадения предметов при
 §7death@§7смерти
@@ -2307,7 +2332,6 @@
 §7Hold and Right-click to see quests@§7Зажми + Правый клик для просмотра квестов
 §5Discoveries:@§5Открытия:
 §6Drop chance:@§6Шансы выпадения:
-§5Armour: None@§5Броня: Отсутствует
 §aSet Bonus:@§aСет Бонус:
 §fTerritories:@§fТерритории:
 §eWorld:@§eМировые:
@@ -2474,6 +2498,7 @@
 §6Epic rewards§7  for 1@§6Эпических наград§7 на 1
 §cGodly reward.@§cБожественную награду.
 §cGodly rewards§7  for 1@§cБожественных наград§7 на 1
+§4§8§k|||§4 Black Market §8§k|||§4 rewards§7  for 10@§4§8§k|||§4 Черный Маркет §8§k|||§4 награды§7  на 10
 §4§8§k|||§4 Black Market §8§k|||§4 reward.@§4§8§k|||§4 Черный Маркет §8§k|||§4 награду.
 §7Place a mob totem at @§7Поставить моб тотем на
 §7your current location,@§7твою текущую позицию,
@@ -2484,8 +2509,6 @@
 §7Add 10 random songs@§7Добавить 10 случайных песен
 §7to your playlist@§7в твой плейлист
 §cRemove §7from your playlist@§cУбрать §7из твоего плейлиста
-§4Right click to stop tracking@§4Правый клик для отмены отслеживания
-§cHold the book to track@§cДержи книгу для отслеживания
 §7Maximum: §f20@§7Максимум: §f20
 §7Maximum: §f100@§7Максимум: §f100
 §8Mercenaries are cheap, bulky@§8Наемники - дешевые, громоздкие 
@@ -2618,6 +2641,8 @@
 §7Currently in Nesaak@§7Сейчас в Несааке
 §7Currently in Gelibord@§7Сейчас в Гелиборде
 §7Currently in Corkus City@§7Сейчас в Коркус Сити
+§7Currently in Lutho@§7Сейчас в Луто
+§7Currently in Gavel Gate@§7Сейчас у Ворот Гавела
 §7Click here to@§7Кликни здесь для
 §7scrap your rewards.@§7утилизации своих наград.
 §7Get more pets@§7Больше питомцев
@@ -2648,6 +2673,8 @@
 §7Up to 5 of your latest deleted@§75 твоих последних удаленных 
 §7classes will show up here.@§7классов будут показаны здесь.
 §3Get it at §bwynncraft.com/store@§3Купи на §bwynncraft.com/store
+§7Players: §b5@§7Игроков: §b5
+§7Players: §b4@§7Игроков: §b4
 §7Players: §b3@§7Игроков: §b3
 §7Players: §b2@§7Игроков: §b2
 §7Players: §b1@§7Игроков: §b1
@@ -2678,6 +2705,10 @@
 §cSoulbound Item (Warrior#1)@§cПерсональный Предмет (Воин#1)
 §cSoulbound Item (Archer)@§cПерсональный Предмет (Лучник)
 §cSoulbound Item (Archer#1)@§cПерсональный Предмет (Лучник#1)
+§cSoulbound Item (Dark Wizard)@§cПерсональный Предмет (Темный Волшебник)
+§cSoulbound Item (Dark Wizard#1)@§cПерсональный Предмет (Темный Волшебник#1)
+§cSoulbound Item (Knight)@§cПерсональный Предмет (Рыцарь)
+§cSoulbound Item (Knight#1)@§cПерсональный Предмет (Рыцарь#1)
 §7There's no price information@§7Нет информации о цене
 §7about this item.@§7этого предмета.
 §7These are the calculated prices@§7Это расчитанные цены
@@ -2695,6 +2726,7 @@
 §aCost (per hour):@§aЦена (в час):
 §7No owned territories@§7Нет территорий под контролем
 §bRecent Events:@§bПоследние События:
+§bRecent Events@§bПоследние События
 §7Left-Click to view details@§7Левый клик для просмотра деталей
 §7Your guild has no active@§7У вашей гильдии нет активных 
 §7alliances or tributes@§7альянсов или приношений
@@ -2818,6 +2850,7 @@
 §7Rank: §fRecruit@§7Ранг: §fРекрут
 §7Rank: §fChief@§7Ранг: §fШеф
 §7Rank: §fRecruiter@§7Ранг: §fРекрутер
+§7Rank: §fCaptain@§7Ранг: §fКапитан
 §7§c✖§f Lv. 70: §7+1 Guild Star@§7§c✖§f Ур. 70: §7+1 Звезда Гильдии
 §7§a§l✔§f Lv. 70: §7+1 Guild Star@§7§a§l✔§f Ур. 70: §7+1 Звезда Гильдии
 §7§c✖§f Lv. 40: §7+1 Guild Star@§7§c✖§f Ур. 40: §7+1 Звезда Гильдии
@@ -2873,6 +2906,15 @@
 §6- §7War Hungry@§6- §7Голодные до Войны
 §7§c✖§f Lv. 14: §7+High Ranked Bank@§7§c✖§f Ур. 14: §7+Банк для Высокоранговых
 §7§a§l✔§f Lv. 14: §7+High Ranked Bank@§7§a§l✔§f Ур. 14: §7+Банк для Высокоранговых
+§7Cost: §a✔§f Free@§7Цена: §a✔§f Бесплатно
+§7Left-Click to kick member@§7Левый Клик для кика участника
+§7Left-Click to uninvite member@§7Левый Клик для отмены приглашения
+§7Click to finish and save@§7Кликни для завершения и сохранения
+§7changes to guild members@§7изменений в участниках гильдии
+§7Save to uninvite members@§7Сохранить для отмены приглашений участников
+§b- §7&bA &3Guild Tome&b has been found and added to the Guild Rewards. &3Owner and Chiefs&b can gift it to members.@§b- §7&b&3Том Гильдии&b был добавлен в награды гильдии. &3Владелец и Шефы&b могут подарить его участникам.
+§7§70/10000 stored (0 traversing)@§7§70/10000 хранится (0 перемещается)
+§7§7emeralds.@§7§7эмеральдов. 
 
 ###############################CRATES##############################
 §dRare Reward@§dРедкая Награда
@@ -2950,6 +2992,8 @@
 §4§8§k|||§4 Black Market §8§k|||§4 Reward@§4§8§k|||§4 Черный Маркет §8§k|||§4 Награда
 §7a fairy companion@§7волшебный компаньон
 §7around your character@§7вокруг персонажа
+§7a sword and shield@§7меч и щит
+§7on their back@§7позади
 §7as a candle@§7под свечу
 §7as a piece of food@§7под кусок еды
 §7as a banana sword@§7под банановый меч
@@ -2960,6 +3004,7 @@
 §7as a sharp, pirate hook@§7под острый пиратский крюк
 §7as a rusty anchor@§7под ржавый якорь
 §7as a cast-iron, ship sinker@§7под чугунное корабельное грузило
+§7as a ivy horns@§7под рога плюща
 §7a dragon-like appearance@§7драконоподобный внешний вид
 §7an anti-bovemist appearance@§7внешний вид анти-бовемиста
 §7a king appearance@§7королевский внешний вид 
@@ -2990,6 +3035,8 @@
 §7- §bUnidentified Spear@§7- §bНеидентифицированное Копье
 §e- §aUnidentified Spear@§e- §aНеидентифицированное Копье
 §7- §aUnidentified Spear@§7- §aНеидентифицированное Копье
+§e- §cUnidentified Spear@§e- §cНеидентифицированное Копье
+§7- §cUnidentified Spear@§7- §cНеидентифицированное Копье
 §e- §eUnidentified Helmet@§e- §eНеидентифицированный Шлем
 §7- §eUnidentified Helmet@§7- §eНеидентифицированный Шлем
 §e- §dUnidentified Helmet@§e- §dНеидентифицированный Шлем
@@ -3055,6 +3102,8 @@
 §7- §dUnidentified Wand@§7- §dНеидентифицированный Посох
 §e- §5Unidentified Wand@§e- §5Неидентифицированный Посох
 §7- §5Unidentified Wand@§7- §5Неидентифицированный Посох
+§e- §aUnidentified Wand@§e- §aНеидентифицированный Посох
+§7- §aUnidentified Wand@§7- §aНеидентифицированный Посох
 §e- §bUnidentified Bow@§e- §bНеидентифицированный Лук
 §7- §bUnidentified Bow@§7- §bНеидентифицированный Лук
 §e- §dUnidentified Bow@§e- §dНеидентифицированный Лук
@@ -3063,6 +3112,8 @@
 §7- §eUnidentified Bow@§7- §eНеидентифицированный Лук
 §e- §aUnidentified Bow@§e- §aНеидентифицированный Лук
 §7- §aUnidentified Bow@§7- §aНеидентифицированный Лук
+§e- §cUnidentified Bow@§e- §cНеидентифицированный Лук
+§7- §cUnidentified Bow@§7- §cНеидентифицированный Лук
 §e- §bUnidentified Boots@§e- §bНеидентифицированные Ботинки
 §e- §eUnidentified Boots@§e- §eНеидентифицированные Ботинки
 §7- §eUnidentified Boots@§7- §eНеидентифицированные Ботинки
@@ -3251,7 +3302,7 @@
 §4You are too far away from@§4Ты слишком далеко от 
 §4an Emerald Merchant to open@§4Торговца Эмеральдами для открытия
 §7Maybe that rat you saw@§7Может та крыса, что ты видел
-§7earlier would want this?@§7раньше захочет это?
+§7earlier would want this?@§7раньше захочет его?
 §7Use this item to enter §fRaids@§7Используй этот предмет для похода в §fРейды
 §7or craft a §fCorrupted Dungeon Key@§7или крафта §fИспорченного Данж Ключа
 

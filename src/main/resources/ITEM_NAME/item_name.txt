@@ -859,6 +859,7 @@
 §7Soul Points@§7Очки Душ
 §l§aConfirm@§l§aПодтвердить
 §l§cCancel@§l§cОтмена
+§7Back@§7Назад
 §aI have enough space!@§aУ меня достаточно места!
 §eTrade market was moved!@§eТрейд Маркет был переделан!
 §cBetter check first!@§cЛучше сначала проверить!
@@ -955,6 +956,8 @@
 §a§lSave Tributes@§a§lСохранение Даров
 §a§lSend Gift@§a§lОтравка Подарков
 §e§lOrphion's Nexus of LightÀ@§e§lНексус Света Орфиона
+§a§lFinish Changes@§a§lЗавершить Изменения
+§a§lAttack for free@§a§lАттакуй бесплатно
 
 ######################################SHOPS#################################################
 §aTribal Weapon Shop@§aМагазин Оружия Племени
@@ -1639,7 +1642,7 @@ Helmet of Shimmering Light@§fШлем Мерцающего Света
 §fMaltic's Recommendation Letter@§fРекомендательное письмо Малтика
 §eFactory Helmet@§eФабричный Шлем
 §fQuartz Contract - Q Project@§fКварц Контракт - Проект Ы
-§fYahya's Stained Bowl@§fИспользованная Миска Яхуя
+§fYahya's Stained Bowl@§fИспользованная Миска Яхи
 §fThe Mummy's Bandage@§fБинт Мумии
 §fCorrupted Potato@§fИспорченная Картошка
 Yellow Crystal Shard@§fЖелтый Осколок Кристалла
@@ -1976,7 +1979,7 @@ A Hobbit's Cracked Clock@§fТреснувшие Часы Хоббита
 Olux's Dusty Clock@§fПыльные Часы Олукса
 Llevigar's Broken Clock@§fСломанные Часы Ллевигара
 Gelibord's Rusted Clock@§fРжавые Часы Гелиборда
-Aldorei's Defective Clock@§fДетективные Часы Алдорей
+Aldorei's Defective Clock@§fСломаные Часы Алдорей
 §fGolden Clock@§fЗолотые Часы
 §7Molten Sludge@§7Расплавленный Осадок
 §7Ogre Hide@§7Шкура Огра
@@ -2169,10 +2172,10 @@ Acidic Sludge@§fКислотный Ил
 §fCrystal Key@§fКристальный Ключ
 §fMining Explosive@§fШахтерская Взрывчатка
 §fSpider Egg@§fПаучье Яйцо
-§fCooked Spider Eggs@§fПриготовленные Паучьи Яйца
+§fCooked Spider Eggs@§fПриготовленное Яйцо Паука
 §fMakeshift Parachute@§fСамодельный Парашют
 §fVaried Explosives@§fРазличные Взрывчатки
-§fQuartz Piece@§fКуоск Кварца
+§fQuartz Piece@§fКусок Кварца
 §fLoose Rock@§fРыхлый Камень
 §fQuartron Core@§fЯдро Куартрона
 §fPiece of Gravel@§fКусок Гравия
@@ -2220,7 +2223,7 @@ Acidic Sludge@§fКислотный Ил
 §fMisplaced Documents@§fПотерянные документы
 §fCinfras Souvenir T-Shirt@§fСувенирная Футболка Цинфраса
 §fRusted Bucket@§fРжавое Ведро
-§fRusted Bucket of Growth@§fРжавое Ведро Роста
+§fRusted Bucket of Growth@§fРжавое Ведро для Полива
 §fFood@§fЕда
 §fBotanical Encyclopedia@§fБотаническая Энциклопедия
 §fCrypt Key@§fКлюч от Склепа
@@ -2284,6 +2287,16 @@ Quartron's Eye@Глаз Куартрона
 §aEmerald Blocks [2000²]@§aБлоки Эмеральдов [2000²]
 Map Piece@Кусок Карты
 Map PieceÀ@Кусок Карты
+Map PieceÀÀÀ@Кусок Карты
+Map PieceÀÀ@Кусок Карты
+§5Teleporter Core@§5Ядро Телепортаци
+§fLucky Lynx Foot@§fСчастливая Лапка Рыси
+§5Effervescent Dagger@§5Шипучий Кинжал
+Bucket@Ведро
+Water Bucket@Ведро Воды
+Fishing Rod@Удочка
+Prismarine Gadget@Призмариновый Гаджет
+Stone Shovel@Каменная Лопата
 
 ###################################CRATES####################################
 §e§lLoot Crate §6[Tier I]@§e§lЛут Контейнер §6[Уровень I]
@@ -2373,7 +2386,7 @@ Map PieceÀ@Кусок Карты
 §6x1 Pirate Relik@§6Пиратский Релик
 §6x1 Pirate Cannon@§6Пиратская Пушка
 §4x1 Viking Helmet@§4Шлем Викинга
-§4x1 Yahya's Fantasy@§4Фантазия Яхуи
+§4x1 Yahya's Fantasy@§4Фантазия Яхи
 §dx1 Violet Wybel Token@§dФиолетовый Вубел Жетон
 §fx1 Gray Wybel Token@§fСерый Вубел Жетон
 §fx1 White Wybel Token@§fБелый Вубел Жетон
@@ -2396,6 +2409,12 @@ Map PieceÀ@Кусок Карты
 §6x1 Futuristic Spear@§6Футуристическое Копье
 §6x1 Futuristic Wand@§6Футуристический Посох
 §6x1 Futuristic Relik@§6Футуристический Релик
+§dx1 Spider Disguise@§fМаскировка в Паука
+§dx1 Fire Effect@§dx1 Эффект Огня
+§cx1 Bounty Hunter Hat@§cx1 Шляпа Охотника за Головами
+§cx1 Nordic Halbert@§cx1 Скандинавский Халберт
+§4x1 Ivy Horns@§4x1 Рога Плюща
+§4x1 Sword and Shield Effect@§4x1 Эффект Меча и Щита
 §aSpawn a Chocolate Wybel@§aЗаспавнить Шоколадного Вубеля
 §aSpawn Violet Wybel§7 [Violet Wybel]@§aЗаспавнить Фиолетового Вубеля §7 [Фиолетовый Вубел]
 §aSpawn Sky Blue Wybel§7 [Sky Blue Wybel]@§aЗаспавнить Голубого Вубеля §7 [Голубой Вубел]
@@ -2533,9 +2552,6 @@ Siegfried Diary Collection@§fКоллекция Дневников Зигфри
 §3Uth Rune@§3Утх Руна
 §2Tol RuneÀ@§2Тол Руна
 §2Tol Rune@§2Тол Руна
-§aEmerald@§aЭмеральд
-§aEmerald Block@§aБлок Эмеральдов
-§aLiquid Emerald@§aЖидкий Эмеральд
 §6Redbeard's Hair@§6Волос Редберда
 §6Theorick's Ice Shard@§6Осколок Льда Теорика
 §6Corrupted Theorick's Ice Shard@§6Испорченный Осколок Льда Теорика
@@ -2606,14 +2622,6 @@ Jungle Topaz Shard@Джунглевый Осколок Топаза
 Dragon Food@Драконья Еда
 §fMine Pass@§fПропуск в Шахту
 §fElectromagical Battery@§fЭлектромагическая Батарея
-§fBrown HorseÀ@§fКоричневая Лошадь
-§fBrown Horse@§fКоричневая Лошадь
-§fBlack HorseÀ@§fЧерная Лошадь
-§fBlack Horse@§fЧерная Лошадь
-§fChestnut HorseÀ@§fКаштановая Лошадь
-§fChestnut Horse@§fКаштановая Лошадь
-§fWhite HorseÀ@§fБелая Лошадь
-§fWhite Horse@§fБелая Лошадь
 §3Repair ScrapÀ@§3Скрап для Починки
 §3Repair Scrap@§3Скрап для Починки
 Repair Scrap@Скрап для Починки
@@ -2727,6 +2735,17 @@ Fresh Clay@§fСвежая Глина
 §cGreedy Tome of Armour Mastery I@§cТом Жадности Мастера Брони I
 §cEverlasting Tome of Armour Mastery I@§cТом Вечности Мастера Брони I
 §cDestructive Tome of Armour Mastery I@§cТом Разрушения Мастера Брони I
+§5Oceanic Tome of Armour Mastery II@§5Океанический Том Мастера Брони II
+§cVampiric Tome of Armour Mastery II@§cТом Вампира Мастера Брони II
+§cRetaliating Tome of Armour Mastery II@§cТом Отомщения Мастера Брони II
+§cEverlasting Tome of Armour Mastery II@§cТом Вечности Мастера Брони II
+§cGreedy Tome of Armour Mastery II@§cТом Жадности Мастера Брони II
+§cSorcerer's Tome of Armour Mastery II@§cТом Колдуна Мастера Брони II
+§cWeightless Tome of Armour Mastery II@§cТом Невесомости Мастера Брони II
+§cDestructive Tome of Armour Mastery II@§cТом Разрушения Мастера Брони II
+§5Unidentified Mastery Tome@§5Неидентифицированный Том Мастера
+§bTome of Gathering Mastery II@§bТом Мастера Собирателя II
+§bTome of Slaying Mastery II@§bТом Мастера Убийств II
 §bTome of Weapon Mastery I@§bТом Мастера Оружия I
 §bTome of Armour Mastery I@§bТом Мастера Брони I
 §bTome of Dungeoneering Mastery I@§bТом Мастера Данжей I
@@ -2735,10 +2754,20 @@ Fresh Clay@§fСвежая Глина
 §bCorkian Amplifier II@§bКоркианский Усилитель II
 §bCorkian Amplifier IÀ@§bКоркианский Усилитель I
 §bCorkian Amplifier IIÀ@§bКоркианский Усилитель II
+§bCorkian Amplifier III@§bКоркианский Усилитель III
+§bCorkian Amplifier IIIÀ@§bКоркианский Усилитель III
 Corkian Amplifier 1À@§bКоркианский Усилитель I
 Corkian Amplifier 2À@§bКоркианский Усилитель II
 §cCharm of the Worm@§cАмулет Червя
+§cCharm of the Stone@§cАмулет Камня
 §eSpeed Surge [1/1]@§eСкачок Скорости [1/1]
+§fTether to the Surface@§fПривязь к поверхности
+§dLight Crystal@§dКристалл Света
+§dWater Effect@§dЭффект Воды
+§fSiegfried Agent's Key@§fКлюч агента Зигфрида
+§aBlock of Emerald@§aБлок Эмеральда
+§fSun Token@§fЖетон Солнца
+§fIce Token@§fЖетон Льда
 Broken Underworld Crypt Key@Разбитый Ключ от Подземного Склепа
 Broken Undergrowth Ruins Key@Разбитый Ключ от Заросших Руин 
 Broken Decrepit Sewers Key@Разбитый Ключ от Ветхой Канализации 
@@ -2780,6 +2809,9 @@ Refined Silver Ingot 2@Переработанный Слиток Серебра 
 Refined Rye String 2@Переработанное Ржаная Нить 2
 Refined Rye String 1@Переработанное Ржаная Нить 1
 Refined Dernic Ingot 2@Переработанный Дерник Слиток 2
+Refined Gudgeon Meat 2@Переработанное Мясо Пескаря 2
+Refined Granite Ingot 2@Переработанная Слиток Гранита 2
+Refined Granite Gem 2@Переработанный Гранитный Камень 2
 Gathering Scythe 2@Сборная Мотыга 2
 Gathering Scythe 1@Сборная Мотыга 1
 Gathering Scythe 4@Сборная Мотыга 4

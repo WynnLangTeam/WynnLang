@@ -52,7 +52,7 @@
 §7[1/1] §2Death: §aFEET OFF THE TABLE PLEASE.@§7[1/1] §2Смерть: §aУБЕРИ НОГИ СО СТОЛА, ПОЖАЛУЙСТА.
 §7[1/1] §2Irlok: §aYou are truly an amazing warrior. Thank you for putting an end to Krolton.@§7[1/1] §2Ирлок: §aТы действительно удивительный воин. Спасибо за то, что положил конец Кролтону.
 §7[1/3] §2Death: §aTHIS IS THE LIBRARY, WHERE MY GUESTS COME TO SPEND THEIR TIME.@§7[1/3] §2Смерть: §aЭТО БИБЛИОТЕКА, КУДА ПРИХОДЯТ МОИ ГОСТИ, ЧТОБЫ ПРОВЕСТИ СВОЕ ВРЕМЯ.
-§7[2/3] §2Death: §aFEEL FREE TO TAKE YOUR TIME AND READ UP. KNOWLEDGE IS POWER, AND ALL THAT.@§7[2/3] §2Смерть: §aНЕ СТЕСНЯЙСЯ, НЕ ТОРОПИТЕСЬ И ЧИТАЙ. ЗНАНИЕ - ЭТО СИЛА И ВСЕ ТАКОЕ.
+§7[2/3] §2Death: §aFEEL FREE TO TAKE YOUR TIME AND READ UP. KNOWLEDGE IS POWER, AND ALL THAT.@§7[2/3] §2Смерть: §aНЕ СТЕСНЯЙСЯ, НЕ ТОРОПИСЬ И ЧИТАЙ. ЗНАНИЕ - ЭТО СИЛА И ВСЕ ТАКОЕ.
 §7[3/3] §2Death: §aYOU COULD READ ALL OF THEM IF YOU LIKE, BUT THEY ARE ALL IN LATIN, AND I HEARD THAT IS NOW A §a§oDEAD§a LANGUAGE.@§7[3/3] §2Смерть: §aТЫ МОГ БЫ ПРОЧИТАТЬ ИХ ВСЕ, ЕСЛИ ХОЧЕШЬ, НО ВСЕ ОНИ НА ЛАТЫНИ, А Я СЛЫШАЛА, ЧТО ТЕПЕРЬ ЭТО §a§oМЕРТВЫЙ§a ЯЗЫК.
 §7[1/2] §2Death: §aSOMETHING I'M FINDING INCREASINGLY ANNOYING IS HOW MANY PEOPLE ARE FINDING WAYS TO BECOME IMMORTAL NOWADAYS. INTELLIGENT COMPANY IS STARTING TO GET A BIT SCARCER.@§7[1/2] §2Смерть: §aТО, ЧТО Я НАХОЖУ ВСЕ БОЛЕЕ РАЗДРАЖАЮЩИМ - ЭТО ТО, КАК МНОГО ЛЮДЕЙ НАХОДЯТ СПОСОБЫ СТАТЬ БЕССМЕРТНЫМИ В НАШИ ДНИ. ИНТЕЛЛЕКТУАЛЬНАЯ КОМПАНИЯ НАЧИНАЕТ ПОЛУЧАТЬ НЕМНОГО МЕНЬШЕ.
 §7[2/2] §2Death: §aOH, YOU ARE STILL HERE. KROLTON IS AT THE BACK OF MY REALM, OFF YOU GO. UNLESS YOU WANT TO STAY, THAT IS.@§7[2/2] §2Смерть: §aОХ, ТЫ ВСЕ ЕЩЕ ЗДЕСЬ. КРОЛТОН НАХОДИТСЯ НА ЗАДВОРКАХ МОЕГО КОРОЛЕВСТВА. ЕСЛИ, КОНЕЧНО, ТЫ НЕ ХОЧЕШЬ ОСТАТЬСЯ.

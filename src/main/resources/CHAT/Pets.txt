@@ -6,6 +6,10 @@
 §2Grumpy Old Man: §aBack in my day we didn't have these fancy 'quests'.@§2Старик: §aВ мое время у нас не было таких причудливых "квестов".
 §2Grumpy Old Man: §aAhh... I was quite the sailor back in my days!@§2Старик: §aАх... В свое время я был настоящим моряком!
 §2Rat: §a*happy squeak from seeing you again*@§2Крыса: §a*счастливо пищит от встречи с тобой снова*
+§2Rat: §a*squeak >:D*@§2Крыса: §a*пищит >:D*
+§2Rat: §a*squeak*@§2Крыса: §a*пищит*
+§2Rat: §a*squeak squeak*@§2Крыса: §a*пищит-пищит*
+§2Rat: §a*disappointed squeak*@§2Крыса: §a*разачарованно пищит*
 §2Baby Penguin: §a*penguin noises*@§2Пингвин: §a*шумит по-пингвиньи*
 §4The Eye: §5⒜⒩§d⒢⒞⒠⒜⒫⒜⒩⒩§5⒯⒰§d⒢⒰⒭§5⒯⒰⒮⒜§d⒨⒪§5⒨⒣⒜⒤⒮⒯⒤⒭?@§4Глаз: §5⒜⒩§d⒢⒞⒠⒜⒫⒜⒩⒩§5⒯⒰§d⒢⒰⒭§5⒯⒰⒮⒜§d⒨⒪§5⒨⒣⒜⒤⒮⒯⒤⒭?
 §2Rolling Potato: §a*stands still*@§2Крутящаяся Картошка: §a*стоит на месте*
@@ -19,6 +23,15 @@
 §2Singing Tiger: §a*happy singing*@§2Поющий Тигр: §a*счастливо поет*
 §2Singing Tiger: §a*singing the alphabet song*@§2Поющий Тигр: §a*напевает песенку про алфавит*
 §2Singing Tiger: §a*happy growl*@§2Поющий Тигр: §a*счастливо рычит*
+§2Singing Tiger: §a*purr*@§2Поющий Тигр: §a*мурчит*
+§2Singing Tiger: §a*soft purr*@§2Поющий Тигр: §a*мягко мурлычет*
+§2Singing Tiger: §a*singing wynn songs*@§2Поющий Тигр: §a*напевает винн песенки*
+§2Seaskipper Captain: §aThat was very lovely my friend.@§2Капитан Корабля: §aЭто было очень мило, мой друг.
+§2Seaskipper Captain: §aGood to see you again!@§2Капитан Корабля: §aРад видеть тебя снова!
+§2Top Hat Alligator: §aLovely! Exquisite! Fantastic!@§2Аллигатор в Шляпе: §aПрелестно! Изысканно! Фантастика!
+§2Top Hat Alligator: §aWhy hello there young fellow!@§2Аллигатор в Шляпе: §aНу приветик приятель!
+§2Colossal Rat: §a*unamused squeak*@§2Колоссальная Крыса: §a*невесело пищит*
+§2Death: §aYOU WILL BE PUNISHED FOR THIS.@§2Смерть: §aТЫ БУДЕШЬ НАКАЗАН ЗА ЭТО.
 
 #####################################PETS##########################################
 §4You cannot pet your Chicken until it has reached Lv. 24.@§4Ты не можешь погладить свою Курицу пока она не достигнет 24 уровня.

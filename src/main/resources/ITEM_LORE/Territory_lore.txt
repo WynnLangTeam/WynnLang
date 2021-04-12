@@ -1385,9 +1385,10 @@
 §7No one breaks the utmost laws @§7Никто не нарушает величайшие законы 
 §7of Aldorei without exilement. Those who @§7Алдорей из-за изгнания. Те, кто падет 
 §7fall in the eyes of the @§7в глазах высших Эльфов, будут изгнаны 
-§7High Elves are banished, never to @§7и никогда не вернутся. Те, 
-§7return. Those who were ejected were @§7кто был изгнан, были вынуждены искать 
-§7forced to find a new home. @§7новый дом.
+§7High Elves are banished, never to @§7и никогда не вернутся. Отрезанные 
+§7return. Oucasted from their land, they @§7от своих земель, они 
+§7were forced to find a new @§7были вынуждены искать новый 
+§7home. @§7дом.
 
 §7When the runes were combined eons @§7Когда руны были объединены одну 
 §7ago, the Forgery burst from the @§7вечность назад, Кузница вырвалась из-под земли. 

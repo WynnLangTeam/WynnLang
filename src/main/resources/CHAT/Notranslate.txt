@@ -191,7 +191,6 @@ This book's title reads...@
 §7[2/2] §2Santa: §aCould you §a§lclimb up§a and get him for me?@ 
 §7[1/2] §2Santa: §aLooks like you ran out of time on this one!@ 
 §7[2/2] §2Santa: §aNo present for you this time but we must move on.@ 
-§7[+1 Empty Bucket]@ 
 §7[+1 Fresh Milk]@ 
 §7[+1 Chicken Pen Key]@ 
 §7[Gate Opened]@ 
@@ -828,6 +827,1633 @@ The trade market is not available right now. Please try again later!@
 §bRuhc has transferred ownership to SnowyFair@ 
 §4Server restarting in 3 seconds...@ 
 §7Go down the hole and look for what's causing this and return to Malo at [-2037,55,-5434] with proof.@ 
+§c§lSentinel is always watching.@ 
+§7Cheating will result in a ban.@ 
+§7You can report rule breakers at §breports.cubecraft.net@ 
+§b @ 
+§aYou have received a friend request from Uselessguy_04!@ 
+§2§lACCEPT§7§l | §4§lDENY@ 
+§7§l[§e§lDeafin§7§l] §f§llist @ 
+§6§l#15§f§l 6Natsu9§8§l - §7§l4807360 XP§8§l - §7§l0²§8§l - §7§lJoined 01/10/2021@ 
+§aA chest has been hidden somewhere in the Lobby with some goodies inside!@ 
+§7§l[§e§lTheAllStar288§7§l] §f§lwinterfishka @ 
+§8Unexpected? Report this §7(g8m08)§8: [Proxy] Lost connection to server.@ 
+§cConnecting you to a lobby...@ 
+§l         §e§lKerelMoanGuy7§a has activated §aa§a §b§lPvP Double@ 
+§l                       §b§lPoints Multiplier@ 
+§l         §e§lKerelMoanGuy7§a has activated §aa§a §b§lMinerWare@ 
+§l                   §b§lDouble Points Multiplier@ 
+§7§l[§e§lMaksimovichi§7§l] §f§lhi @ 
+§7§l[§e§lMaksimovichi§7§l] §f§lwaeterschootj @ 
+§7§l[§e§lMaksimovichi§7§l] §f§linvite waeterschootj @ 
+§7§l[§e§lMaksimovichi§7§l] §f§lMaxShadow2000 @ 
+§l         ---------------------------------------@ 
+§l         §7xApocalypse§7 §ahas found the Hidden Chest, a new@ 
+§l                      §aone shall spawn soon!@ 
+§l                      §6Their rewards were:@ 
+§l                           §7•§7 §b103§b Point§bs@ 
+§l                        §7•§7 §b324§b Experience@ 
+§l                       §7•§7 §b1§b §bNormal§b Cubelet@ 
+§7§l[§e§lsmellwatscookin§7§l] §f§lF @ 
+§b[41/62§b/Ma/✫PWS] §filyjullius: §fae@ 
+§f         §7Despite the odd formation of land, every inch is@ 
+§f          §7covered in farmland, and acts as a proverbial@ 
+§f         §7breadbasket for the ocean capital of Selchar.@ 
+§etype /g discord, if you haven't joined our discord server yet.@ 
+§f.@ 
+§fHave a good day! :D@ 
+§f(=^-^=)@ 
+§aYou have §b24 §aunclaimed leveling rewards!@ 
+§aYou have §68 §aunclaimed achievement rewards!@ 
+  §f§l➤ §6You have reached your Hype limit! Add Hype to Prototype Lobby minigames by right-clicking with the Hype Diamond!@ 
+§f§l➔ §6§lWelcome to the Prototype Lobby@ 
+§aAll games in this lobby are currently in development.@ 
+§eClick here to leave feedback!§f ➤ §b§nhttps://hypixel.net/PTL@ 
+§7Sending to server mini68T...@ 
+§aSince you've been away you earned §60 coins §aas interest in your personal bank account!@ 
+§aYou have just received §6250,000 coins §aas interest in your co-op bank account!@ 
+§6§lALLOWANCE! §eYou earned §650,000 coins§e!@ 
+§aDeposited §650k coins§a! There's now §625M coins §ain the account!@ 
+§2Guild > §7_wep_ §eleft.@ 
+§2Guild > §aa_telly_bridger §ejoined.@ 
+§7Sending to server mini447K...@ 
+§aYou received §62,301 coins§a!@ 
+§aYou received §62,493 coins§a!@ 
+§aYou received §67,608 coins§a!@ 
+§7§l[§e§lalgem§7§l] §f§l3 @ 
+§7§l[§e§lalgem§7§l] §f§l? @ 
+§6§lPurgaWynn@ 
+§6§l#15§f§l 6Natsu9§8§l - §7§l5199963 XP§8§l - §7§l0²§8§l - §7§lJoined 01/10/2021@ 
+§7§l[§e§lalgem§7§l] §f§l17 @ 
+§7§l[§e§lalgem§7§l] §f§l4 @ 
+§7§l[§e§lalgem§7§l] §f§l39 @ 
+§b§lTrofim4ik007§7§l has given you §b§l10% resistance§7§l.@ 
+§7§l[10/10] §2§lAva: §b§l6Natsu9§a§l, huh? That's... A nice name. Well, good luck!@ 
+§a§lParkour challenge started!@ 
+§aUse §e/parkour checkpoint§a to teleport to the last checkpoint or §e/parkour cancel§a to cancel!@ 
+§b[MVP§c+§b] Neelboss336§f §6joined the lobby!@ 
+§cA kick occurred in your connection, so you were put in the Bed Wars lobby!@ 
+ §b>§c>§a> §6[MVP§c++§6] ellalthebunny§f §6joined the lobby! §a<§c<§b<@ 
+§7[11✫] §7mackabeee737§7§7: i am live on YT@ 
+§b[MVP§a+§b] EmeraldSword231§f §6joined the lobby!@ 
+§b[302✫] §a[VIP§6+§a] intenseclicking§f§f: wait 1 min@ 
+§7[24✫] §a[VIP] MatrixSky§f§f: Make sure to check out my twitch matrix_sky (pls I have no views)@ 
+ §b>§c>§a> §6[MVP§c++§6] NewYorkDominoes§f §6joined the lobby! §a<§c<§b<@ 
+§aYou have joined with a game! §7UUID: 5a9d0f10-7440-446c-9916-b24b0fbbf2c4@ 
+§lPlayers in this game: §cFRENCHMOB §aIamnot_Rain @ 
+§7[3✫] §7flaviol_m: §7gf@ 
+§aYou purchased §6TNT@ 
+§a  @ 
+§7[§a+§7] §8cashbih§7 joined your game (§79§7/§716§7).@ 
+§7[§a+§7] §8Nellyyx§7 joined your game (§710§7/§716§7).@ 
+§7[§a+§7] §8DieHard0§7 joined your game (§712§7/§716§7).@ 
+§7[§a+§7] §8gry914§7 joined your game (§711§7/§716§7).@ 
+§aJoined §eTeam§e §e3§a!@ 
+§7[§c-§7] §8swradi§7 left your game (§711§7/§716§7).@ 
+§7[§a+§7] §8Memerruchi§7 joined your game (§712§7/§716§7).@ 
+§7[§c-§7] §8EmiliaL11§7 left your game (§712§7/§716§7).@ 
+§7[§a+§7] §8Victor320§7 joined your game (§713§7/§716§7).@ 
+§7[§a+§7] §edqveyy§7 joined your game (§713§7/§716§7).@ 
+§7[§a+§7] §8Curran_Craft§7 joined your game (§714§7/§716§7).@ 
+§7[§a+§7] §8robot0512top1gg§7 joined your game (§715§7/§716§7).@ 
+§6Server is now §6§lFULL§6! Game starting in §e10§e second§es§6!@ 
+§9Lucky Islands§9 is starting in §e10§e seconds§9.@ 
+§7[§a+§7] §8Juni11§7 joined your game (§716§7/§716§7).@ 
+§9Lucky Islands§9 is starting in §e5§e seconds§9.@ 
+§9Lucky Islands§9 is starting in §e4§e seconds§9.@ 
+§9Lucky Islands§9 is starting in §e3§e seconds§9.@ 
+§9Lucky Islands§9 is starting in §e2§e seconds§9.@ 
+§9Lucky Islands§9 is starting in §e1§e second§9.@ 
+§9Teleporting to map...@ 
+§bReleasing you in §e10§e second§es§b.@ 
+§bReleasing you in §e5§e second§es§b.@ 
+§bReleasing you in §e4§e second§es§b.@ 
+§bReleasing you in §e3§e second§es§b.@ 
+§bReleasing you in §e2§e second§es§b.@ 
+§edqveyy§e §evoted for §a§lDay time§a§l §etime§e.§e §71 vote@ 
+§aInstalling resource pack...@ 
+§bReleasing you in §e1§e second§b.@ 
+§b[MVP§e+§b] 12310062004§f §6joined the lobby!@ 
+ §b>§c>§a> §6[MVP§4++§6] asahie§f §6joined the lobby! §a<§c<§b<@ 
+§b[MVP§d+§b] Teamwiped§f §6joined the lobby!@ 
+ §b>§c>§a> §6[MVP§3++§6] Thll§f §6joined the lobby! §a<§c<§b<@ 
+ §b>§c>§a> §6[MVP§5++§6] Bigfishplayz§f §6joined the lobby! §a<§c<§b<@ 
+§b[MVP§c+§b] SpitFire2605§f §6joined the lobby!@ 
+§b[MVP§c+§b] Specialy§f §6joined the lobby!@ 
+ §b>§c>§a> §6[MVP§2++§6] Muppen_85§f §6joined the lobby! §a<§c<§b<@ 
+ §b>§c>§a> §6[MVP§f++§6] Pinevole§f §6joined the lobby! §a<§c<§b<@ 
+ §b>§c>§a> §6[MVP§2++§6] voorhuidknager§f §6joined the lobby! §a<§c<§b<@ 
+ §b>§c>§a> §6[MVP§1++§6] KUB0N§f §6joined the lobby! §a<§c<§b<@ 
+ §b>§c>§a> §6[MVP§5++§6] nyafed§f §6joined the lobby! §a<§c<§b<@ 
+ §b>§c>§a> §6[MVP§4++§6] Uia_§f §6joined the lobby! §a<§c<§b<@ 
+ §b>§c>§a> §b[MVP§f++§b] NoobyBearHD§f §6joined the lobby! §a<§c<§b<@ 
+ §b>§c>§a> §6[MVP§2++§6] SoggySuperman§f §6joined the lobby! §a<§c<§b<@ 
+§b[MVP§c+§b] NaterIsTriggered§f §6joined the lobby!@ 
+§7[8✫] §b[MVP§c+§b] NaterIsTriggered§f§f: ZLKNPVP is LIVE (gifting out RANKS) on Twitch! (giveaway)@ 
+§7[8✫] §b[MVP§c+§b] NaterIsTriggered§f§f: Gifting out RANKS LIVE on Twitch (look up ZLKNPVP) (Mr Beast of hypixel)@ 
+ §b>§c>§a> §6[MVP§c++§6] HecticProton§f §6joined the lobby! §a<§c<§b<@ 
+§aIamnot_Rain§7 fell into the void.@ 
+§7[3✫] §7RB26Zayed: §7fgau8ygs@ 
+§f§lBED DESTRUCTION > §aGreen bed §7was dismantled by §cFRENCHMOB@ 
+§cFRENCHMOB§7 was killed by §aIamnot_Rain@ 
+§9Go!@ 
+§eSelected §a§lNormal§a§l §emode§e!@ 
+§eSelected §a§lDay time§a§l §etime§e!@ 
+§6gry914§e died in the void§e.@ 
+§7[§dParty§7] [§c-§7] §8gry914§7 left the party.@ 
+§cThe party has been disbanded!@ 
+§7You are now no longer in a party.@ 
+§6Ridaos§e burned to death§e.@ 
+§6Victor320§e was slain§e by §ea§e §6blaze§e.@ 
+§6Juni11§e couldn't fly§e.@ 
+§6Malaeris§e burned to death§e.@ 
+ §b>§c>§a> §6[MVP§6++§6] Imids§f §6joined the lobby! §a<§c<§b<@ 
+§b[MVP§c+§b] BrodesX§f §6joined the lobby!@ 
+ §b>§c>§a> §6[MVP§2++§6] 6kx§f §6joined the lobby! §a<§c<§b<@ 
+§9§m-----------------------------@ 
+ §b>§c>§a> §6[MVP§c++§6] _Lyricz§f §6joined the lobby! §a<§c<§b<@ 
+ §b>§c>§a> §6[MVP§f++§6] _Lyndon§f §6joined the lobby! §a<§c<§b<@ 
+ §b>§c>§a> §6[MVP§a++§6] aquazjk§f §6joined the lobby! §a<§c<§b<@ 
+§b[MVP§c+§b] YenshyFire§f §6joined the lobby!@ 
+ §b>§c>§a> §6[MVP§2++§6] cqvy§f §6joined the lobby! §a<§c<§b<@ 
+§b[MVP§c+§b] Migetin§f §6joined the lobby!@ 
+ §b>§c>§a> §6[MVP§f++§6] hawk4561§f §6joined the lobby! §a<§c<§b<@ 
+§b[MVP§d+§b] Super_Tobuscus§f §6joined the lobby!@ 
+§b[MVP§d+§b] UnHelpfulness§f §6joined the lobby!@ 
+ §b>§c>§a> §b[MVP§f++§b] JooshCabooshca§f §6joined the lobby! §a<§c<§b<@ 
+§aIamnot_Rain§7 was hit into the void by §cFRENCHMOB§b §b§lFINAL KILL!@ 
+      §e1st§7 - §7Iamnot_Rain§7 - 2@ 
+       §62nd§7 - §7FRENCHMOB§7 - 1@ 
+§a+1 beds +1 kills @ 
+§bYou have gained §b§l119XP §bfrom this game!@ 
+§7[1✫] §7Iamnot_Rain: §7gg@ 
+§a[VIP] mistermax2233§f§f: my friend has a bedwars, skywars, etc. discord server. if you want to join do /p join Dezign@ 
+ §b>§c>§a> §6[MVP§2++§6] aPumpk1n§f §6joined the lobby! §a<§c<§b<@ 
+ §b>§c>§a> §6[MVP§c++§6] reaper225§f §6joined the lobby! §a<§c<§b<@ 
+§7Strailor§7§7: t@ 
+§7Toast_MC§7§7: t@ 
+ §b>§c>§a> §6[MVP§e++§6] SilentNightCharl§f §6joined the lobby! §a<§c<§b<@ 
+§7[91✫] §b[MVP§0+§b] vPure§f§f: pce@ 
+ §b>§c>§a> §6[MVP§9++§6] YellowishPVP§f §6joined the lobby! §a<§c<§b<@ 
+ §b>§c>§a> §6[MVP§9++§6] Xx_Lore_xX§f §6joined the lobby! §a<§c<§b<@ 
+§b[313✫] §6[MVP§9++§6] Xx_Lore_xX§f§f: §e➜§f HOSTING PRIVATE GAMES! STREAMING! §6✮§f Road to 500 /p join Xx_Lore_xX §a✔@ 
+§6[299✫] §b[MVP§4+§b] s10n§f§f: Recruiting active players 50 stars + 0.35 FKDR! /g join Disobedient >_>@ 
+§7[11✫] §a[VIP] zMohaqmed_§f§f: Hi Everyone :( im so so sad ;( i want a cape donation for 1d or 1week ? if yes p me pls ;( ty ;(@ 
+§7[12✫] §7koffiie_§7§7: t@ 
+ §b>§c>§a> §6[MVP§2++§6] venezay§f §6joined the lobby! §a<§c<§b<@ 
+§fThank you for taking an interest in §b§lSentinel§f, our Anti-Cheat!@ 
+§cRemember to report any rule breakers at §b§lreports.cubecraft.net§c.@ 
+§7[91✫] §b[MVP§0+§b] vPure§f§f: ilysaraa_@ 
+ §b>§c>§a> §6[MVP§2++§6] Suhao§f §6joined the lobby! §a<§c<§b<@ 
+§f[194✫] §6[MVP§2++§6] ilysaraa_§f§f: hm@ 
+§b[MVP§a+§b] Netxee§f §6joined the lobby!@ 
+ §b>§c>§a> §6[MVP§0++§6] Target§f §6joined the lobby! §a<§c<§b<@ 
+§7[5✫] §a[VIP] moehmied§f§f: hi@ 
+§7[91✫] §b[MVP§0+§b] vPure§f§f: wanna que?@ 
+§f[194✫] §6[MVP§2++§6] ilysaraa_§f§f: humberger?@ 
+ §b>§c>§a> §6[MVP§4++§6] Absurdism§f §6joined the lobby! §a<§c<§b<@ 
+§7[91✫] §b[MVP§0+§b] vPure§f§f: do you have a 3rd?@ 
+§b[MVP§c+§b] Break123§f §6joined the lobby!@ 
+§f[194✫] §6[MVP§2++§6] ilysaraa_§f§f: nah@ 
+§b[MVP§c+§b] redman4§f §6joined the lobby!@ 
+ §b>§c>§a> §6[MVP§3++§6] U_val§f §6joined the lobby! §a<§c<§b<@ 
+§b[MVP§d+§b] Matteokool§f §6joined the lobby!@ 
+§7[11✫] §7heckuman§7§7: hi@ 
+§b[MVP§c+§b] Alenx_§f §6joined the lobby!@ 
+ §b>§c>§a> §6[MVP§a++§6] wispiess§f §6joined the lobby! §a<§c<§b<@ 
+§a[VIP] FRENCHMOB §ejoined the party.@ 
+§b[MVP§c+§b] Claireinet§f §6joined the lobby!@ 
+ §b>§c>§a> §6[MVP§6++§6] StasKorg§f §6joined the lobby! §a<§c<§b<@ 
+ §b>§c>§a> §6[MVP§2++§6] razorsan04§f §6joined the lobby! §a<§c<§b<@ 
+ §b>§c>§a> §6[MVP§8++§6] sugaar§f §6joined the lobby! §a<§c<§b<@ 
+§7Sending to server mini965A...@ 
+§eYou have §a125,251 materials §etotalling §b1,958 items §estashed away!!@ 
+§6Click here §eto pick it all up!@ 
+§2Guild > §aTERUXr §ejoined.@ 
+§7Sending to server mini270C...@ 
+§eYou claimed §fEnchanted Book §eback from your expired auction!@ 
+§eYou collected §6120,000 coins §efrom selling §fEnchanted Book §eto §b[MVP§e+§b] CoconutFruit §ein an auction!@ 
+ §b>§c>§a> §b[MVP§6++§b] iZnowy§f §6joined the lobby! §a<§c<§b<@ 
+                                  §f§lBed Wars@ 
+§a§l▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬@ 
+                            §f§lReward Summary§f§l@ 
+   §7You earned@ 
+     • §6106 Bed Wars Coins@ 
+     • §3149 Hypixel Experience@ 
+          §bLevel 2                                           §bLevel 3§b@ 
+          §8[§b■■■■■■■■■■■■■■■■■■■■■■■§7■■■■■■■■■■■§8]@ 
+                           §b1,350§7 / §a2,000§7 (67.5%)§7@ 
+§a§l▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬@ 
+§e@a has been added to your friends!@ 
+§7DINNY_BREAD§7§7: really@ 
+§7ImSoPoofy§7: yes@ 
+§7DINNY_BREAD§7§7: bruh@ 
+§aSending you to mini972K!@ 
+§b[MVP§c+§b] JimPickens101§f§f: i am using my dads accunt@ 
+§3[§3§oPlayer§3]§b player@ 
+§aSending you to mini690H!@ 
+                                   §f§lTNT Tag@ 
+§7Deluxe69§7§7: no@ 
+§7Deluxe69§7§7: i dont know@ 
+§a[VIP] GalacticDirt§f§f: comfy rare name@ 
+§c@ 
+§e @ 
+§e@a has been removed from your friends!@ 
+§7Jacbooo§7§7: hellllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllo@ 
+§b[MVP] JuSTSilenT_§f§f: hiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii@ 
+§7Jacbooo§7§7: come and fiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiind meeeeeeeeeeeeeeeeeeeeeee@ 
+§b[MVP] JuSTSilenT_§f§f: nooooooooooooooooooooooooooooooooooooooooooooooooo@ 
+§7Jacbooo§7§7: i have the best spot@ 
+§7CapeMC§7§7: me too@ 
+§7Jacbooo§7§7: mines better@ 
+§a[VIP§6+§a] shasihan§f§f: Jacbooo@ 
+§8aram12333321 §7burned to death.@ 
+§8ido4 §7was launched like a firework by §eTisourway§7.@ 
+§b[MVP§e+§b] Sword5000§f §6joined the lobby!@ 
+§7[12✫] §71Ar5z§7§7: Carying cher@ 
+§b[MVP§a+§b] oKsou§f §6joined the lobby!@ 
+§3[528✫] §6[MVP§8++§6] Carying§f§f: ?@ 
+§b[MVP§c+§b] Mohammed_AlFaa§f §6joined the lobby!@ 
+§b[MVP§d+§b] coastward§f §6joined the lobby!@ 
+§b[MVP§c+§b] bricevand§f §6joined the lobby!@ 
+§b[MVP§a+§b] NotSelenkaGomez§f §6joined the lobby!@ 
+ §b>§c>§a> §6[MVP§e++§6] oTigerx§f §6joined the lobby! §a<§c<§b<@ 
+§3[528✫] §6[MVP§8++§6] Carying§f§f: 1Ar5z wtf@ 
+ §b>§c>§a> §6[MVP§a++§6] turtil§f §6joined the lobby! §a<§c<§b<@ 
+§7[12✫] §71Ar5z§7§7: ?@ 
+§b[MVP§d+§b] Mastermeteorite§f §6joined the lobby!@ 
+§3[528✫] §6[MVP§8++§6] Carying§f§f: 222@ 
+§7[12✫] §71Ar5z§7§7: lol yp@ 
+§b[378✫] §6[MVP§0++§6] 1ZiNx§f§f: u 106@ 
+§b[MVP§c+§b] jjongwi06§f §6joined the lobby!@ 
+§b[MVP§d+§b] PiplupTheMaster§f §6joined the lobby!@ 
+§3[528✫] §6[MVP§8++§6] Carying§f§f: 1ZiNx lala nta@ 
+ §b>§c>§a> §6[MVP§d++§6] Fireblade8409§f §6joined the lobby! §a<§c<§b<@ 
+§3[528✫] §6[MVP§8++§6] Carying§f§f: 222 wtf@ 
+§b[MVP§a+§b] Nonimaginary§f §6joined the lobby!@ 
+§3[528✫] §6[MVP§8++§6] Carying§f§f: + none@ 
+ §b>§c>§a> §6[MVP§c++§6] Py1n§f §6joined the lobby! §a<§c<§b<@ 
+§b[378✫] §6[MVP§0++§6] 1ZiNx§f§f: Carying ya 106@ 
+§7[12✫] §71Ar5z§7§7: Carying :')@ 
+§b[MVP§c+§b] HorrificSky§f §6joined the lobby!@ 
+§b[MVP§c+§b] Cajaa§f §6joined the lobby!@ 
+§b[MVP§c+§b] Mimigmaa§f §6joined the lobby!@ 
+§3[528✫] §6[MVP§8++§6] Carying§f§f: 1ZiNx nta howa 106@ 
+§7[12✫] §71Ar5z§7§7: Carying chargeback .................@ 
+§b[378✫] §6[MVP§0++§6] 1ZiNx§f§f: TitaZ akbr 106@ 
+§b[MVP§f+§b] josieMC§f §6joined the lobby!@ 
+§3[528✫] §6[MVP§8++§6] Carying§f§f: 1Ar5z tnaket fik@ 
+§3[528✫] §6[MVP§8++§6] Carying§f§f: TitaZ al mo6ayez@ 
+§b[MVP§f+§b] Flixcks§f §6joined the lobby!@ 
+§7[12✫] §71Ar5z§7§7: Carying hhhh 3ndi account e5er ismou ar5z fih ++@ 
+§3[528✫] §6[MVP§8++§6] Carying§f§f: asm mtayez@ 
+§b[378✫] §6[MVP§0++§6] 1ZiNx§f§f: 7ta skino mtauez@ 
+§b[378✫] §6[MVP§0++§6] 1ZiNx§f§f: mtayez@ 
+§3[528✫] §6[MVP§8++§6] Carying§f§f: nice@ 
+ §b>§c>§a> §6[MVP§3++§6] namecoma§f §6joined the lobby! §a<§c<§b<@ 
+§7[21✫] §7OUtUO§7§7: wach@ 
+§b[MVP§c+§b] TheMaxPhase_§f §6joined the lobby!@ 
+§a§l▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬@ 
+                            §f§lReward Summary§f§l@ 
+   §7You earned@ 
+     • §6201 Bed Wars Coins@ 
+     • §3332 Hypixel Experience@ 
+          §bLevel 10                                        §bLevel 11§b@ 
+          §8[§b■■■■■■■■■■■■■■■■■■■■■§7■■■■■■■■■■■■■§8]@ 
+                           §b3,003§7 / §a5,000§7 (60.1%)§7@ 
+§a§l▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬@ 
+§6§aThis game has been recorded. §6Click here to watch the Replay!@ 
+§bBarbarianBug §7was tied into a bow by §eInsomniaes§7.@ 
+§bSedContra §7was tied into a bow by §eInsomniaes§7.@ 
+§bBarbarianBug §7was wrapped up by §eInsomniaes§7.@ 
+§6§l#14§f§l 6Natsu9§8§l - §7§l6504144 XP§8§l - §7§l0²§8§l - §7§lJoined 01/10/2021@ 
+§ecremate1 §7was thrown down a §6pit §7by §dSt0rrmmm§7.@ 
+§fYou found a §e✰✰✰§7✰✰ §bMystery Box§f!@ 
+§aYou have §b36 §aunclaimed leveling rewards!@ 
+§aYou have §62 §aunclaimed achievement rewards!@ 
+§7Sending to server mini638G...@ 
+§7Sending to server mini462V...@ 
+§7§l[§f§lFox_Goga§6§l ➤ §f§lsmellwatscookin§7§l] §f§l1241 -1832 @ 
+§cTisourway §7was thrown down a §6pit §7by §dCrazymoosejuiced§7.@ 
+§7Sending to server mini209V...@ 
+§7modenu§7§7: does anyone want a machine gun bow@ 
+§cFRENCHMOB §7was thrown down a §6pit §7by §dCrazymoosejuiced§7.@ 
+§cTisourway §7was §6stomped §7by §dCrazymoosejuiced§7.@ 
+§7Sending to server mini661R...@ 
+§eMrDasty_Nice's has been added to your friends!@ 
+ §b§l§o[접속] §fMozzI_@ 
+§6§l#14§f§l 6Natsu9§8§l - §7§l6849242 XP§8§l - §7§l0²§8§l - §7§lJoined 01/10/2021@ 
+ §b§l§o[접속] §fJJINPPANG_00@ 
+ §b§l§o[접속] §fTHINK0224@ 
+ §b§l§o[접속] §fhyyh429@ 
+ §b§l§o[접속] §f_Roa@ 
+§e§m=========================@ 
+ §b§l§o[접속] §fhwan_e@ 
+ §b§l§o[접속] §fJuggling_NH@ 
+ §b§l§o[접속] §fYERIN_@ 
+ §b§l§o[접속] §fSOOYAM@ 
+ §b§l§o[접속] §fHODU_CC@ 
+§7§l[§a§lchickchick1210§6§l ➤ §f§lMifikatop1gg§7§l] §f§l? @ 
+§7§l[§a§lchickchick1210§6§l ➤ §f§lMifikatop1gg§7§l] §f§l??????????????????? @ 
+§6§l#14§f§l 6Natsu9§8§l - §7§l7483264 XP§8§l - §7§l0²§8§l - §7§lJoined 01/10/2021@ 
+§b[99/117§b/Ar/PYC] §7real_DannyDevito: §ff@ 
+§f                §aYour pet [Gray Wybel] is now level 7@ 
+§f    §7WynnExcavation is a Gavel-owned company dedicated to@ 
+§f      §7uncovering the history of the Wynn Province. Here,@ 
+§f    §7they've uncovered an ancient tomb from a lost empire.@ 
+§7§l[§f§lDanil4ikDNK§7§l (WC26)§6§l ➤ §f§lTritec§7§l] §f§lim want horse or idk @ 
+§7§l[§f§lDanil4ikDNK§7§l (WC26)§6§l ➤ §f§lTritec§7§l] §f§lyou very high lvl and idk @ 
+§f                §aYour pet [White Wybel] is now level 2@ 
+§7§l[§f§lDanil4ikDNK§7§l (WC26)§6§l ➤ §f§lTritec§7§l] §f§lim my opinion you rich @ 
+§7§l[§f§lDanil4ikDNK§7§l (WC26)§6§l ➤ §f§lTritec§7§l] §f§lim want horse or any @ 
+§3[§3§oPlayer§3]§b ladno ya vidiki 4ekat poidy@ 
+§f                §aYour pet [White Wybel] is now level 3@ 
+§7§oWhy would you need this?.@ 
+§aYou have §621 §aunclaimed achievement rewards!@ 
+§7§oYou get a sense you're going the wrong way...@ 
+§7§l[§e§lalgem§7§l] §f§l- @ 
+§7§l[§e§lalgem§7§l] §f§l2.7* @ 
+§7§l[§e§lalgem§7§l] §f§l103-127 @ 
+§f                §aYour pet [Gray Wybel] is now level 8@ 
+§7§l[§e§lalgem§7§l] §f§l27 @ 
+  §a§lNEW ZONE §8- §b§lColosseum@ 
+§8  ➤ §eParticipate in special events@ 
+§8[§e✦§8] §6Did you know you can §ecreate a party §6to play with friends? §7Type §f§l/party help §7for the commands@ 
+                    §c§lHappy Valentine's Day 2021!@ 
+§c§l        §7You have received the §cRose Cloak§7 for logging in on@ 
+§7                               §7Valentine's Day!@ 
+§7@ 
+          §e§lClick here to view your available Cloaks!@ 
+§e§l@ 
+§b[MVP§c+§b] LOGO___§f §6joined the lobby!@ 
+§b[MVP§c+§b] Daanbras§f §6joined the lobby!@ 
+ §b>§c>§a> §6[MVP§d++§6] Acer434§f §6joined the lobby! §a<§c<§b<@ 
+ §b>§c>§a> §6[MVP§c++§6] electrick_1313§f §6joined the lobby! §a<§c<§b<@ 
+§b[MVP§f+§b] Gar209§f §6joined the lobby!@ 
+§b[MVP§f+§b] HPX_RUSH_§f §6joined the lobby!@ 
+§7Sending to server mini562R...@ 
+§aSince you've been away you earned §610,301 coins §aas interest in your personal bank account!@ 
+§aYou have just received §69,083 coins §aas interest in your co-op bank account!@ 
+§eYou have §a9 §eitems stashed away!!!@ 
+§6Click here §eto pick them up!@ 
+§aYou are playing on profile: §eBanana§b (Co-op)@ 
+§6§lALLOWANCE! §eYou earned §610,000 coins§e!@ 
+§7Sending to server mini570U...@ 
+  §a§lNEW ZONE §8- §b§lCoal Mine@ 
+§8  ➤ §eMine Coal@ 
+§8  ➤ §eTravel to the Gold Mine@ 
+§9§9DevJayLee§8 » hi@ 
+§9§9rocketblast§8 » sc?@ 
+§9§9DevJayLee§8 » hello@ 
+§b[MVP§c+§b] otnku§f §6joined the lobby!@ 
+§b[MVP§a+§b] P100V§f §6joined the lobby!@ 
+§aSending you to mini138W!@ 
+§b[MVP§f+§b] Nqbeel§f §6joined the lobby!@ 
+§aSending you to mini884U!@ 
+§cYou must be at least Mining Level I to join this island!@ 
+§3§l▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬@ 
+  §b§lSKILL LEVEL UP §3Mining §3I@ 
+    §eSpelunker I@ 
+      §7§fGrants §a+§a4§f §6☘ Mining Fortune, which@ 
+      increases your chance for multiple ore drops.@ 
+    §7§8+§a1 §a❈ Defense@ 
+    §7§aAccess to §6Gold Mine@ 
+    §7§9Jerry Stone §7Reforge@ 
+    §7§8+§625 §7Coins@ 
+<semo> I don't hack it's for sure my E24 focus sloter v1999 golden 90GB fusion sd card slot@ 
+<semo> I don't hack it's just my 983k giant Q23 swift DVD drive@ 
+<semo> Use Sigma Client, it's free ! 89@ 
+<semo> Use Sigma Client, it's free ! 86@ 
+§eMaximRuda left the game@ 
+<semo> Use Sigma Client, it's free ! 47@ 
+<semo> Use Sigma Client, it's free ! 96@ 
+<semo> Use Sigma Client, it's free ! 39@ 
+<semo> Use Sigma Client, it's free ! 49@ 
+<semo> Use Sigma Client, it's free ! 84@ 
+<semo> Use Sigma Client, it's free ! 32@ 
+<semo> Use Sigma Client, it's free ! 19@ 
+<semo> Use Sigma Client, it's free ! 53@ 
+<semo> Use Sigma Client, it's free ! 52@ 
+<semo> Use Sigma Client, it's free ! 48@ 
+<semo> Use Sigma Client, it's free ! 62@ 
+                             §f§lThe Bridge Duel@ 
+§cSeltop§7 fell into the void§7.@ 
+§9Neitel§7 fell into the void§7.@ 
+§6§l▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬@ 
+                                     §c§l1§7 - §9§l0@ 
+  §6§lCOLLECTION LEVEL UP §eCobblestone §8II➜§eIII@ 
+    §7§fAuto Smelter §7Recipe@ 
+§7Sending to server mini46J...@ 
+  §a§lNEW ZONE §8- §6§lGold Mine@ 
+§8  ➤ §eTalk to the Lazy Miner@ 
+§8  ➤ §eMine for gold, iron, and coal@ 
+§8  ➤ §eVisit the Iron and Gold Forger@ 
+§8  ➤ §eVisit the Blacksmith@ 
+§9§9DevJayLee§8 » come fight me@ 
+<semo> Use Sigma Client, it's free ! 46@ 
+<semo> Use Sigma Client, it's free ! 56@ 
+<semo> Use Sigma Client, it's free ! 58@ 
+<semo> Use Sigma Client, it's free ! 67@ 
+<semo> Use Sigma Client, it's free ! 45@ 
+<semo> Use Sigma Client, it's free ! 61@ 
+<semo> Use Sigma Client, it's free ! 94@ 
+<semo> Use Sigma Client, it's free ! 38@ 
+<semo> Use Sigma Client, it's free ! 68@ 
+<semo> Use Sigma Client, it's free ! 12@ 
+§eKrosava98 left the game@ 
+<semo> Use Sigma Client, it's free ! 44@ 
+<semo> Use Sigma Client, it's free ! 83@ 
+<semo> Use Sigma Client, it's free ! 58@ 
+<semo> Use Sigma Client, it's free ! 17@ 
+<semo> Use Sigma Client, it's free ! 36@ 
+<semo> Use Sigma Client, it's free ! 22@ 
+<semo> Use Sigma Client, it's free ! 27@ 
+<semo> Use Sigma Client, it's free ! 14@ 
+<semo> Use Sigma Client, it's free ! 76@ 
+                                     §c§l2§7 - §9§l0@ 
+                                     §c§l3§7 - §9§l0@ 
+§cThis Minion does not have any items stored!@ 
+§9§9CH_best§8 » hi@ 
+§eHDkachestvo left the game@ 
+<semo> Use Sigma Client, it's free ! 46@ 
+§eVladduk547 left the game@ 
+§edark_pro2010 left the game@ 
+  §6§lCOLLECTION LEVEL UP §eGravel §8IV➜§eV@ 
+    §7§aEnchanted Flint §7Recipe@ 
+§9§9r0byyy§8 » hi@ 
+§9§9AstroGirl118§8 » anyone want to play skywars or bedwars?@ 
+§7Sending to server mini284B...@ 
+§eSkif_PvP_YTRG left the game@ 
+§c/friend§4 is not online the Wynncraft network.@ 
+§7Sending to server mini386M...@ 
+§eIceScremm left the game@ 
+§eDominikToretto left the game@ 
+<kori> .///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////@ 
+<FastKody> ggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggfggsgsdfgsdfgdffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff@ 
+§eYou are being transferred to the §aPrototype Lobby §efor being §cAFK§e!@ 
+§fYou found a §e✰✰§7✰✰✰ §bMystery Box§f!@ 
+§b[MVP§a+§b] BritishBear§f §6joined the lobby!@ 
+§bBritishBear §ffound a §e✰✰✰✰✰ §bMystery Box§f!@ 
+§b[MVP§c+§b] Toyota_GT86§f §6joined the lobby!@ 
+§bToyota_GT86 §ffound a §e✰✰✰✰✰ §bMystery Box§f!@ 
+§b[MVP§a+§b] Storm_Frosty§f §6joined the lobby!@ 
+§7                               §733LULU140633§e@ 
+§a§l▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬@ 
+                            §f§lReward Summary§f§l@ 
+   §7You earned@ 
+     • §678 Bed Wars Coins@ 
+     • §3297 Hypixel Experience@ 
+          §bLevel 2                                           §bLevel 3§b@ 
+          §8[§b■■■■■■■■■■■■■■■■■■■■■■§7■■■■■■■■■■■■§8]@ 
+                           §b1,314§7 / §a2,000§7 (65.7%)§7@ 
+§a§l▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬@ 
+§7sushibrushi§7§7: GG@ 
+§7Bonkuuu§7: gg@ 
+§7Taylotherippa§7§7: gg@ 
+§6§aThis game has been recorded. §6Buy §aVIP §6to get access to the Replay System.@ 
+§aSending you to mini196D!@ 
+§7LLITCRAFT§7§7: wtf@ 
+§6TrapDrap §ffound a §e✰✰✰✰§7✰ §bMystery Box§f!@ 
+§b[MVP§f+§b] Philip_GxT§f §6joined the lobby!@ 
+§b[MVP§c+§b] Twitch_Layback_§f §6joined the lobby!@ 
+§b[Mystery Box] §b§f§bStorm_Frosty §ffound a §5Epic Baby Magenta Sheep Pet§f!@ 
+§7Sending to server mini1051B...@ 
+§7Sending to server mini1056A...@ 
+  §6§lCOLLECTION LEVEL UP §eCobblestone §eI@ 
+    §7§9Cobblestone Minion §7Recipes@ 
+§aEmil_Thorsen §7was buzzed to death by §eBonkuuu§7.@ 
+§7§l[§e§lLmakse§7§l] §f§lMy location is at [-551, -1921] @ 
+§9Aincen §7was buzzed to death by §eBonkuuu§7.@ 
+§cKicked whilst connecting to WC48: §fThe server is full!@ 
+§a§l▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬@ 
+                            §f§lReward Summary§f§l@ 
+   §7You earned@ 
+     • §6180 Bed Wars Coins@ 
+     • §3752 Hypixel Experience@ 
+          §bLevel 2                                           §bLevel 3§b@ 
+          §8[§b■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■§7■■§8]@ 
+                           §b1,864§7 / §a2,000§7 (93.2%)§7@ 
+§a§l▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬@ 
+§a[VIP§6+§a] Phoenixfreund15§f§f: gg@ 
+§7damimaj272§7§7: gg@ 
+§7Bonkuuu§7: thx@ 
+§aSending you to mini775P!@ 
+§7nightsky27§7§7: fukk my team@ 
+§7nightsky27§7§7: always have noob fukking team@ 
+§7Bonkuuu§7: not bad@ 
+§cLoxrr_ §7was bzzz'd into the void by §aBonkuuu§7.@ 
+§l                                 @ 
+§9nightsky27 §7was bzzz'd into the void by §aBonkuuu§7.@ 
+§cMishkaCynicism §7was bzzz'd into the void by §aBonkuuu§7.@ 
+§3[§3Nobody_1205]§b ello@ 
+§b[356✫] §b[MVP§3+§b] hasannnnn§f§f: you@ 
+§f[111✫] §b[MVP§9+§b] Roxco§f§f: U WANT A GREAT GUILD AND UR COOL DO /g join Roxco Gang@ 
+§2[441✫] §a[VIP§6+§a] Dilligentbestww§f§f: why@ 
+ §b>§c>§a> §6[MVP§2++§6] punah§f §6joined the lobby! §a<§c<§b<@ 
+§7[43✫] §6[MVP§2++§6] punah§f§f: [§e⚔§f] Practice your pvp skills ; §e➜§f /visit outwasted in the housing lobby! §e(§b'§e-§b'§e)⊃§c━§d☆ﾟ.*･｡ﾟ@ 
+§7[67✫] §7SDFIRE§7§7: 本人的discord群組 現正大量招人 不管你是模组玩家,生存玩家,PVP玩家 这裏都有人可以陪你玩 限定香港人,台灣人,澳門人 dc: SDFIRE#5266@ 
+§b[356✫] §b[MVP§3+§b] hasannnnn§f§f: L@ 
+§2[441✫] §a[VIP§6+§a] Dilligentbestww§f§f: wdymù@ 
+ §b>§c>§a> §6[MVP§c++§6] fr13k§f §6joined the lobby! §a<§c<§b<@ 
+§7[40✫] §6[MVP§c++§6] fr13k§f§f: Dying of boreddome §e¯\_(ツ)_/¯§f Streaming privates games on twitch §d( ﾟ◡ﾟ)/§f §f/p join fr13k to kill ur boreddome@ 
+§2[441✫] §a[VIP§6+§a] Dilligentbestww§f§f: LOL@ 
+§7[15✫] §a[VIP] moh_gamer§f§f: hasannnnn@ 
+§7[15✫] §a[VIP] moh_gamer§f§f: hla wallh@ 
+§2[441✫] §a[VIP§6+§a] Dilligentbestww§f§f: is gay@ 
+§b[356✫] §b[MVP§3+§b] hasannnnn§f§f: what@ 
+§7[15✫] §a[VIP] moh_gamer§f§f: 3rb ?@ 
+§2[441✫] §a[VIP§6+§a] Dilligentbestww§f§f: hasannnnn why am i cringe@ 
+§b[MVP§c+§b] Miasch§f §6joined the lobby!@ 
+§aSending you to mini833M!@ 
+§eThe next game will begin in §c10s§e! Prepare yourselves!@ 
+§c@ 
+§b[MVP§f+§b] KINGGOD_MC§f §6joined the lobby!@ 
+§b[MVP§f+§b] Duechayapol§f §6joined the lobby!@ 
+ §b>§c>§a> §6[MVP§0++§6] N0VALY§f §6joined the lobby! §a<§c<§b<@ 
+ §b>§c>§a> §6[MVP§5++§6] oBwT§f §6joined the lobby! §a<§c<§b<@ 
+§b[MVP§c+§b] LegolasA11§f §6joined the lobby!@ 
+ §b>§c>§a> §6[MVP§f++§6] tryr§f §6joined the lobby! §a<§c<§b<@ 
+              §c§l1st Place §7- §7jesseforbes2004§7 - 18§8 x §e✮@ 
+                  §c§l2nd Place §7- §7qkrrjs_God§7 - 16§8 x §e✮@ 
+§a§l▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬@ 
+                            §f§lReward Summary§f§l@ 
+   §7You earned@ 
+     • §6170 Arcade Games Coins@ 
+     • §389 Hypixel Experience@ 
+§a§l▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬@ 
+§e[28] §6[MVP§f++§6] tryr§f§f: .@ 
+§cYou are AFK. Move around to return from AFK.@ 
+ §b>§c>§a> §6[MVP§2++§6] LionHare§f §6joined the lobby! §a<§c<§b<@ 
+§b[MVP§c+§b] MudFishen§f §6joined the lobby!@ 
+§aSending you to mini805S!@ 
+§a2 more players are required for the game to start.@ 
+§7-------------------------------@ 
+§aWelcome to the Tower Defence tutorial!@ 
+§b§l§m----------------------------------------@ 
+§7§lTower Defence is a strategy game@ 
+§7in which you build towers to keep enemies@ 
+§7away from your castle.@ 
+§7However, it's not that simple... @ 
+§3-------------------------------------@ 
+§b[MVP§f+§b] ItsMinds§f §6joined the lobby!@ 
+§a[VIP] iedv§f§f: we can get rose cloak for free?@ 
+§aJoined team §cRed§a!@ 
+ §b>§c>§a> §6[MVP§e++§6] xazito§f §6joined the lobby! §a<§c<§b<@ 
+ §b>§c>§a> §6[MVP§c++§6] Connoriffy§f §6joined the lobby! §a<§c<§b<@ 
+§aYou have §b11 §aunclaimed leveling rewards!@ 
+§aYou have §63 §aunclaimed achievement rewards!@ 
+§7Sending to server mini364R...@ 
+§aYou have just received §631,722 coins §aas interest in your co-op bank account!@ 
+§7frickenchicken19§7§7: get wat@ 
+§aYou are playing on profile: §eCoconut§b (Co-op)@ 
+§7Abbagamers§7§7: armour@ 
+§eYou are being transferred to the §aHUB §efor being §cAFK§e!@ 
+§7Sending to server mini434E...@ 
+ §b>§c>§a> §6[MVP§6++§6] XXRANG3R§f §6joined the lobby! §a<§c<§b<@ 
+§a[VIP] _Kaliem_§f§f: Again@ 
+§a[VIP] _Kaliem_§f§f: just stop bro@ 
+ §b>§c>§a> §6[MVP§2++§6] ilyUltru§f §6joined the lobby! §a<§c<§b<@ 
+§cA kick occurred in your connection, so you were put in the SkyBlock lobby!@ 
+ §b>§c>§a> §6[MVP§9++§6] QHangel§f §6joined the lobby! §a<§c<§b<@ 
+§cPlayer visibility disabled!@ 
+§cYou must wait §e3s§c between uses!@ 
+§7frickenchicken19§7§7: i had 700k but then got scammed@ 
+§7Sending to server mini299T...@ 
+§aYou received §68,210 coins§a!@ 
+§aYou received §69,160 coins§a!@ 
+§aYou received §66,280 coins§a!@ 
+§aYou received §68,350 coins§a!@ 
+§c[§fYOUTUBE§c] SerbanHero§f§f: [§e⚔§f] Practice your pvp skills ; §e➜§f /visit outwasted in the housing lobby! §e(§b'§e-§b'§e)⊃§c━§d☆ﾟ.*･｡ﾟ@ 
+§eSending you to §bBlue House@ 
+§a[VIP§6+§a] CROCI§f§f: do /visit parkour map@ 
+§a[VIP] Seekable§f§f: ✌ Waiting for your friends to get on? wait for then at /visit Lemminq@ 
+§7Sending to server mini745G...@ 
+§eYou have §a4 §eitems stashed away!!!@ 
+§6Click here §eto pick them up!@ 
+§aYou received §615,006 coins§a!@ 
+§cAn item didn't fit in your inventory and was added to your item stash! Use /pickupstash to get it back!@ 
+§7Sending to server mini415S...@ 
+§eYou have §a2 §eitems stashed away!!!@ 
+§6Click here §eto pick them up!@ 
+§b[MVP§f+§b] zqzq§f§f: im buy dirt@ 
+§eFrom stash: §fDiamond@ 
+§eFrom stash: §fBlock of Diamond@ 
+§7Sending to server mini61R...@ 
+§aDeposited §6204k coins§a! There's now §61M coins §ain the account!@ 
+§cCouldn't unstash your items! Your inventory is full!@ 
+§7MonkeyGamer9§7§7: how good are silver fangs@ 
+§c ☠ §aLitr0x§7 was killed by §6Golden Ghoul§7.@ 
+  §a§lNEW ZONE §8- §6§lAuction House@ 
+§8  ➤ §eAuction off your special items@ 
+§8  ➤ §eBid on other player's items@ 
+§6§l#12§f§l 6Natsu9§8§l - §7§l12378855 XP§8§l - §7§l0²§8§l - §7§lJoined 01/10/2021@ 
+§7§l[§a§lalgem§6§l ➤ §f§l_TocTep_§7§l] §f§l27 @ 
+§bClick here§7 or do §b/resource§7 to open the resource pack book.@ 
+ §b>§c>§a> §6[MVP§a++§6] 5yzu§f §6joined the lobby! §a<§c<§b<@ 
+§b[MVP§c+§b] PeinotCha§f §6joined the lobby!@ 
+§7[14✫] §a[VIP§6+§a] EpikGaysian§f§f: looking for a fun guild? do /g join verb and join the discord to enter rank giveaways 100+ members@ 
+§b[MVP§c+§b] HyperDjano§f §6joined the lobby!@ 
+ §b>§c>§a> §6[MVP§f++§6] SOUTHKOREANKIM§f §6joined the lobby! §a<§c<§b<@ 
+ §b>§c>§a> §b[MVP§d++§b] iTauntDreamStxns§f §6joined the lobby! §a<§c<§b<@ 
+§b[MVP§c+§b] lilryry_yt§f §6joined the lobby!@ 
+§b[MVP§e+§b] IllegallySleepy§f §6joined the lobby!@ 
+§aReset your §eBoots@ 
+@ 
+ §b>§c>§a> §b[MVP§6++§b] PK_RAJ§f §6joined the lobby! §a<§c<§b<@ 
+§cYou must be on the ground to use this!@ 
+§cYour inventory does not have enough free space to add all items!@ 
+§62b2t is full@ 
+§6Position in queue: §6§l901@ 
+ §9§l» §7RostFrostPro §eis traveling to §aSkyBlock Hub §e§lFOLLOW@ 
+ §3[§3FelixUvU]§b NOO@ 
+§3[§3FelixUvU]§b NOOOOOOO@ 
+§3[§3FelixUvU]§b HERB CAVE@ 
+§3[§3Nobody_1205]§b hello@ 
+§3[§3Nobody_1205]§b nm. just joined to do a bit of exploring@ 
+§3[§3Nobody_1205]§b you?@ 
+§3[§3Nobody_1205]§b did we lose/gain any territories?@ 
+§3[§3Nobody_1205]§b cool cool cool@ 
+§7§l[§f§lSereno_Boys§7§l (WC76)§6§l ➤ §f§lNooxi_nx§7§l] §f§lMR_Dan4k#9007 @ 
+§3[§3Nobody_1205]§b true, dont go there@ 
+§3[§3Nobody_1205]§b you might just die on the bridge@ 
+§3[§3Nobody_1205]§b lol@ 
+§3[§3Nobody_1205]§b ö@ 
+§3[§3Nobody_1205]§b as an assassin?@ 
+§3[§3Nobody_1205]§b thats poggers@ 
+§3[§3Nobody_1205]§b what lvl do you have to be?@ 
+§3[§3Nobody_1205]§b oh i could then@ 
+§3[§3Nobody_1205]§b uhh if you need a lvl 105 player then i dont know what a 56 like me could do, but i would still like to join if thats ok@ 
+§3[§3Nobody_1205]§b true@ 
+§3[§3Nobody_1205]§b some are too grindy though@ 
+§3[§3Nobody_1205]§b oooohhh misadventure on the sea was so cool@ 
+§3[§3Nobody_1205]§b easilt my fav quest till now@ 
+§3[§3Nobody_1205]§b and you fight a rat at the end@ 
+§3[§3Nobody_1205]§b which one did you guys like the most?@ 
+§3[§3Nobody_1205]§b which one was that?@ 
+§3[§3Nobody_1205]§b uhhhhh@ 
+§3[§3Nobody_1205]§b are you going ot name it?@ 
+§3[§3Nobody_1205]§b no clue@ 
+§3[§3Nobody_1205]§b you can sign stuff you've made so maybe you could name the pets?@ 
+§3[§3Nobody_1205]§b oh@ 
+§3[§3Nobody_1205]§b well nvm then@ 
+§f     §7This strange island is home to the province's one and@ 
+§f       §7only zoo. The owner thought out in the ocean the@ 
+§f    §7creatures would be safe from the corruption, but the@ 
+§f                    §7zoo doesn't get many visitors.@ 
+§3[§3Nobody_1205]§b hi@ 
+§f      §3Secret Discovery: §bSomewhere In Between§d (+700 XP)@ 
+§f    §7The Pigmen are a mysterious creature, neither pig nor@ 
+§f                   §7man, neither corrupt nor whole.@ 
+§3[§3Nobody_1205]§b wait why would you remove them?@ 
+§3[§3Nobody_1205]§b huh?@ 
+§7§l[§e§lNooxi_nx§7§l] §f§l-45, 65, -1217 @ 
+§7§l[§e§lNooxi_nx§7§l] §f§l23 70 -1214 @ 
+§3[§3Naikhu]§b i am lvl 2@ 
+§3[§3Naikhu]§b i mean 3@ 
+§7§l[§e§lNooxi_nx§7§l] §f§l45, 65, -1217 @ 
+§8[§4Alert§8]§f Double XP Weekend is live with a special sale! Visit our store for up to 50% off: §fhttps://wynncraft.com/store@ 
+§7§l[§f§lLittle_Joey_D§6§l ➤ §f§lEzzet§7§l (WC49)§7§l] §f§lWynnLand @ 
+§7§l[§f§lLittle_Joey_D§6§l ➤ §f§lEzzet§7§l (WC49)§7§l] §f§l16 @ 
+§6§l#16§f§l 6Natsu9§8§l - §7§l4420786 XP§8§l - §7§l0²§8§l - §7§lJoined 01/10/2021@ 
+§7§l[§f§lLittle_Joey_D§6§l ➤ §f§lEzzet§7§l (WC49)§7§l] §f§lhttps://www.curseforge.com/minecraft/mc-mods/wynnlang§f§l @ 
+§7§l[1/1] §2§lAxelus: §a§lWait, is that- Hey, 6Natsu9! It's so good to see you!@ 
+§7§l[1/4] §2§lAxelus: §a§lYou came at the right time, 6Natsu9. It's good to see you're still interested in what's really going on here..@ 
+§6§l#16§f§l 6Natsu9§8§l - §7§l4421838 XP§8§l - §7§l0²§8§l - §7§lJoined 01/10/2021@ 
+§3[§3Facu_T]§b hello@ 
+§3[§3Facu_T]§b can could a friend of mine join the guild@ 
+§3[§3Facu_T]§b 105@ 
+§3[§3Facu_T]§b i mean combat lvl 105@ 
+§3[§3Facu_T]§b who is kai xd@ 
+§3[§3Facu_T]§b is he online right now@ 
+§3[§3Facu_T]§b sure he is@ 
+§3[§3Facu_T]§b we play this game every day@ 
+§3[§3Facu_T]§b Psychotrauma@ 
+§6§l#16§f§l 6Natsu9§8§l - §7§l4447267 XP§8§l - §7§l0²§8§l - §7§lJoined 01/10/2021@ 
+§4galandski'§c is not currently online any Wynncraft servers....@ 
+§4Boyko.exe§c is not currently online any Wynncraft servers....@ 
+§4An unknown market error occurred@ 
+An unknown market error occurred@ 
+§7§l[§f§l_TocTep_§6§l ➤ §a§lfluffyman662§7§l (WC69)§7§l] §f§lgoddamntoaster#1401 @ 
+§7§l[§f§l_TocTep_§6§l ➤ §f§lfluffyman662§7§l] §f§lwynntils @ 
+§f     §7Once the home of the Caritat family, the most wealthy@ 
+§f     §7and generous family in the forest, until one day they@ 
+§f                         §7mysteriously vanished.@ 
+§3[§3§oVoldemort§3]§b Thanks@ 
+§3[§3§oVoldemort§3]§b .@ 
+§3[§3§oVoldemort§3]§b Can someone say something@ 
+§3[§3§oVoldemort§3]§b Ah lit i can see@ 
+§ejt_! is not a friend! Type §6/friend list§e.@ 
+§7§l[§f§lSamariEvan§6§l ➤ §f§lSamariEvan§7§l] §f§l400, -1120 @ 
+§7§l[1/1] §2§lTasim: §a§lHey, gomicuma! You alright in there? Looks like we hit something.@ 
+§7§l[4/4] §2§lAledar: §a§lgomicuma, if you're ready, let's get moving.@ 
+§7§l[3/3] §2§lTasim: §a§lThat could work... gomicuma, §b§lleft-click the rock §a§lto break it!@ 
+§7§l[5/5] §2§lAledar: §a§lThanks for the warning. I guess we better get going then. gomicuma, lead the way.@ 
+§7Sending to server mini748S...@ 
+§aYou are playing on profile: §ePear§b (Co-op)@ 
+§b[MVP§e+§b] Crescent_Wizard§f §6joined the lobby!@ 
+§cA kick occurred in your connection, so you have been routed to limbo!@ 
+Flying or related.@ 
+§cYou were spawned in Limbo.@ 
+§b/limbo for more information.@ 
+§7§l[§e§lalgem§7§l] §f§lchat @ 
+§7§l[§e§lalgem§7§l] §f§lyes @ 
+§7§l[§e§lalgem§7§l] §f§lcrf;b tve vbh@ 
+§7§l[§e§lalgem§7§l] §f§l+ @ 
+§7§l[§e§lalgem§7§l] §f§l56 @ 
+§creal_dannnydevito§4 is not online the Wynncraft network.@ 
+§7§l[§e§lFORUST§7§l] §f§lMy compass is at [-323, -1552] @ 
+§7§l[§e§lalgem§7§l] §f§l1 @ 
+§7§l[§e§lalgem§7§l] §f§l6 @ 
+§f §f §1 §0 §2 §4§f §f §2 §0 §4 §8§0§1§0§1§2§f§f§0§1§3§4§f§f§0§1§5§f§f§0§1§6§f§f§0§1§8§9§a§b§f§f§0§1§7§f§f§3 §9 §2 §0 §0 §1§3 §9 §2 §0 §0 §2§3 §9 §2 §0 §0 §3§0§0§1§f§e§0§0§2§f§e§0§0§3§4§5§6§7§8§f§e§3 §6 §3 §6 §3 §6 §e§3 §6 §3 §6 §3 §6 §d@ 
+§l                    §6Welcome to §4§k||§9§lCubeCraft§4§k||@ 
+§l                             §e§lLinks@ 
+§l                 §aWebsite§7, §aStore§7, §aTwitter§7, §aDiscord§a@ 
+§l                           §e§lCommands@ 
+§l                   §aFriends§7, §aParties§7, §aExtra help§a@ 
+ §l                                 @ 
+§c §5 §1 §f §8 §3 §8 §9 §2 §3 §1 @ 
+§l                                 §f@ 
+§l                     §9§lPrivacy Agreement§9§l@ 
+§l           §7We collect data to process in line with our @ 
+§l         §b§nPrivacy Policy§7. By playing on §c§k||§9§lCubeCraft§c§k||§7, you@ 
+§l         §7are confirming that you are over 13 years of@ 
+§l         §7age, or have the permission of your guardian,@ 
+§l        §7and consent to us processing your data in these@ 
+§l                              §7ways.§7@ 
+§l          §eYou can opt-out at anytime by simply visiting@ 
+§l                §eyour Settings or by clicking §b§nhere§e.§e@ 
+§l                                 @ 
+§5§k:§5Obsidian§5§k:§f §8✠§8 §d§lLightsOn_§d§l §8✠§8 §ahas joined the lobby!@ 
+§8:Stone: §8PapaLoveU§f: §7i hate gae persons@ 
+§7§k:§7Iron§7§k:§f §7gLovanNL§f: §7me2@ 
+§5§k:§5Obsidian§5§k:§f §8✠§8 §f§l5TEPHIE§f§l §8✠§8 §ahas joined the lobby!@ 
+§a§k:§aEmerald§a§k:§f §5✕§5 §5§lNiixz§5§l §5✕§5 §ahas joined the lobby!@ 
+§5§k:§5Obsidian§5§k:§f §b☯§b §3§lZynFrenchie§3§l §b☯§b §ahas joined the lobby!@ 
+§7§l[§e§lalgem§7§l] §f§l:) @ 
+§8:Stone: §8BlaqqEndWhyT§f: §7fatih@ 
+§8:Stone: §8Fetih§f: §7?@ 
+§8:Stone: §8BlaqqEndWhyT§f: §7sa@ 
+§8:Stone: §8Fetih§f: §7fetih@ 
+§8:Stone: §8BlaqqEndWhyT§f: §7fetih@ 
+§8:Stone: §8Fetih§f: §7turk@ 
+§8:Stone: §8BlaqqEndWhyT§f: §7nabiyon@ 
+§8:Stone: §8BlaqqEndWhyT§f: §7sg@ 
+§8:Stone: §8Antoniogameryt§f: §7h@ 
+§7§l[§e§lalgem§7§l] §f§lhelp @ 
+§8:Stone: §8qjayjay§f: §7i didnt play pvp for 20DAYS@ 
+§8:Stone: §8Rylee_970§f: §7cool@ 
+§7§l[§e§lalgem§7§l] §f§l10-16 @ 
+§l        §7§m-----------------------------------------@ 
+§l              §lGet involved beyond the game!@ 
+§l                §9§lDiscord§7 • §6§lForums§7 • §9§lFacebook@ 
+§l                      §c§lYouTube§7 • §b§lTwitter@ 
+§l        §7§m-----------------------------------------@ 
+§b[MVP§c+§b] Black_Creator09§f §6joined the lobby!@ 
+§b[MVP§c+§b] xIamCuursed§f §6joined the lobby!@ 
+ §b>§c>§a> §6[MVP§f++§6] GetonmyUwU§f §6joined the lobby! §a<§c<§b<@ 
+§b[MVP§9+§b] gamboy80§f §6joined the lobby!@ 
+§f    §7A massive pirate ship crashed here with such severity,@ 
+§f      §7the hull was moulded into the cliffside. Some say that@ 
+§f                §7there is still treasure hidden inside.@ 
+§f         §7Despite its barren surroundings, this river has@ 
+§f     §7sprouted various plant life. It flows straight into the@ 
+§f                              §7Rymek Canyon.@ 
+§f   §7Once the barracks of the Almuj Army, it has been taken@ 
+§f        §7over by the traitorous rebel, Commander Takan.@ 
+§b[MVP§6+§b] TheHimanUP§f §6joined the lobby!@ 
+§ekengi4top1gg\ has been added to your friends!@ 
+§3[§b★★§3§oTisumii k§3]§b I shall go now@ 
+§3[§b★★§3§oTisumii k§3]§b the heist is calling@ 
+§7§l[§e§lwinterfishka§7§l] §f§lleave @ 
+§7§l[1/1] §2§lAledar: §a§lHey, Deafin! You're going the wrong way!@ 
+§f      §7The ruins here have been present longer than the@ 
+§f     §7portal. Only one person alive today understands this@ 
+§f        §7strange place. Time acts strangely here and it's@ 
+§f       §7apparent that whoever made them were not human.@ 
+§6§l#16§f§l 6Natsu9§8§l - §7§l3810559 XP§8§l - §7§l0²§8§l - §7§lJoined 01/10/2021@ 
+§6§l#2§f§l _MyMisterFire_§8§l - §7§l427888 XP§8§l - §7§l11666²§8§l - §7§lJoined 06/16/2017@ 
+disconnect.spam@ 
+§6§l#2§f§l _MyMisterFire_§8§l - §7§l427931 XP§8§l - §7§l11666²§8§l - §7§lJoined 06/16/2017@ 
+§b§lMaksimovichi§7§l has given you §b§l10% resistance§7§l.@ 
+§f       §7Hundreds of years ago, the original stone city of@ 
+§f  §7Nemract was ravaged by a swarm of the undead. Now it is@ 
+§f     §7only inhabited by the corpses of those who died that@ 
+§f                                    §7day.@ 
+§f    §7This magnificent bridge connects the mysterious ruins@ 
+§f     §7of Time Valley to the frigid cold of the Nesaak Tundra.@ 
+§f     §7In the center lies a mysterious seal that no one has@ 
+§f                           §7been able to open.@ 
+§f       §7A thousand years ago, a group of emerald miners@ 
+§f   §7unearthed a mysterious portal. Unknowingly, they doomed@ 
+§f   §7the province to centuries of war against the mysterious@ 
+§f                      §7force known as corruption.@ 
+§f         §3Secret Discovery: §bWater of the Past§d (+400 XP)@ 
+§f   §7The proud farmers surrounding Ragni were often left to@ 
+§f  §7fend for themselves. They have proven to be resourceful@ 
+§f    §7and hardened. They created their own infrastructure,@ 
+§f      §7but when they were totally abandoned  by the army,@ 
+§f                  §7there was nothing but slaughter.@ 
+§3[§3FelixUvU]§b owo@ 
+§3[§3FelixUvU]§b hich time@ 
+§3[§3FelixUvU]§b what can i do to NOT be recruit@ 
+§ealiko0o\ has been added to your friends!@ 
+§f       §3Secret Discovery: §bBak'al's Destruction 3§d (+400 XP)@ 
+§f   §7Just the name of Bak'al is enough to make many cower in@ 
+§f     §7fear. They say that wherever he appears, he will only@ 
+§f                        §7leave death in his wake.@ 
+§7Sending to server mini1060M...@ 
+§3You have cancelled the request to leave@ 
+§7§l[§e§lDayV1sion§7§l] §f§lleave @ 
+§7§l[§e§lmayaross65§7§l] §f§lFORUST @ 
+§7§l[§e§lFORUST§7§l] §f§lMy compass is at [-553, -1581]@ 
+§3[§3Faralones]§b 16@ 
+§4lololowka\§c is not currently online any Wynncraft servers....@ 
+§f       §7Ocean currents flow and intertwine to form these@ 
+§f    §7renowned reefs, bursting with life. Tourists frequently@ 
+§f   §7dive and discover lost treasure, dropped from merchant@ 
+§f                §7ships and carried by the currents.@ 
+§3[§3Nobody_1205]§b oh cool@ 
+§3[§3Feuerstern2271]§b gg@ 
+§7§l[§a§l_TocTep_§6§l ➤ §f§lalgem§7§l] §f§l+++ @ 
+§3[§3Feuerstern2271]§b 1min restart@ 
+§f      §7Despite its proximity to the portal, this quaint town@ 
+§f  §7has somehow managed to survive. It was once the home of@ 
+§f       §7a researcher who investigated the phenomenon of@ 
+§f                                §7corruption.@ 
+§6§l#2§f§l _MyMisterFire_§8§l - §7§l427986 XP§8§l - §7§l11666²§8§l - §7§lJoined 06/16/2017@ 
+§3[§3Nobody_1205]§b whats a tenuto?@ 
+§3[§3Nobody_1205]§b whoah@ 
+§3[§3FelixUvU]§b lmao@ 
+§aYou have successfully claimed §32,000 §3Hypixel §3Experience§a and §63,000 §6Arcade §6Coins§a!@ 
+§7Sending to server mini839B...@ 
+§aYou are playing on profile: §eWatermelon@ 
+§e§l▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬@ 
+  §6§lCOLLECTION LEVEL UP §eRedstone §8XII➜§eXIII@ 
+  §a§lREWARDS@ 
+    §7§aHumongous Accessory Bag Upgrade@ 
+    §7§5Personal Compactor 6000 §7Recipe@ 
+You dropped your items too quickly (Hacking?)@ 
+§3[§3Feuerstern2271]§b x2 wc12@ 
+§f             §3Secret Discovery: §bQuicksand§d (+5000 XP)@ 
+§f                               §fDesert [1/7]@ 
+§f      §7The civilization that ruled this land over 2000 years@ 
+§f    §7ago seemed to be equally as educated as people today.@ 
+§f       §7There are lots of texts dedicated to the Emperor.@ 
+§f                §aYour pet [Cream Wybel] is now level 2@ 
+§7[§e§oJohnny Rebel§7] §fi am ready, you? @ 
+§7§l[§f§lMasteryShoot§7§l (WC38)§6§l ➤ §f§lmayaross65§7§l] §f§lhey @ 
+§7§l[§f§lMasteryShoot§7§l (WC38)§6§l ➤ §f§lmayaross65§7§l] §f§ldo u have one assasin weapon ? @ 
+§7§l[§f§lMasteryShoot§7§l (WC38)§6§l ➤ §f§lmayaross65§7§l] §f§lpls drp me one crate of assasinclass weapons or weapon @ 
+§7[§e§oJohnny Rebel§7] §fbob's mythic weapons in the temple of legends @ 
+§7[§e§oJohnny Rebel§7] §fyes this one @ 
+§7[§e§oJohnny Rebel§7] §fyou're welcome @ 
+§7[§e§oJohnny Rebel§7] §fi guess that is where we part ways @ 
+§7[§e§oJohnny Rebel§7] §fbeen good to fight with you @ 
+§7[§e§oJohnny Rebel§7] §fit will be a good wand for you too orienor, i'm sure you'll make good use of it @ 
+§7[§e§oJohnny Rebel§7] §fSee you too @ 
+§f                  §aYour pet [Chicken] is now level 15@ 
+§7[§e§oJohnny Rebel§7] §fthat will be up to your build decisions @ 
+§f                           §fWynn Plains [16/16]@ 
+§f                §aYour pet [Cream Wybel] is now level 3@ 
+§f/@ 
+§f                  §aYour pet [Chicken] is now level 16@ 
+§eGuns_of_steel' has been added to your friends!@ 
+§4gus_*642§c is not currently online any Wynncraft servers....@ 
+§egasterplay-228 has been added to your friends!@ 
+§f            §3Secret Discovery: §bA Hero's Origin§d (+80 XP)@ 
+§f    §7In the year 854 AP (After Portal), a massive horde of@ 
+§f    §7undead lead by Bak'al attacked Ragni. The people of the@ 
+§f     §7city sought refuge in the sewer, the only safe place@ 
+§f                                    §7left.@ 
+<Kingsknight9> oh no@ 
+§f                §aYour pet [Cream Wybel] is now level 4@ 
+§cPlayer '§c' cannot be found@ 
+§f      §7Despite mining opening up the infamous portal, it did@ 
+§f   §7not stop. Some speculate that these mines are hiding an@ 
+§f                         §7even greater danger...@ 
+§6§l#2§f§l _MyMisterFire_§8§l - §7§l428112 XP§8§l - §7§l11666²§8§l - §7§lJoined 06/16/2017@ 
+§e\ has been added to your friends!@ 
+§f                §aYour pet [Cream Wybel] is now level 5@ 
+§f                §aYour pet [Cream Wybel] is now level 6@ 
+§f                §aYour pet [Cream Wybel] is now level 7@ 
+§f@ 
+§f               §fplay.wynncraft.com §7-/-§f wynncraft.com@ 
+§f  §bWatch the hottest trailers: §d§nyoutube.com/WynncraftOfficial§f@ 
+§6§l#2§f§l _MyMisterFire_§8§l - §7§l428169 XP§8§l - §7§l11666²§8§l - §7§lJoined 06/16/2017@ 
+§f               §fplay.wynncraft.com §7-/-§f wynncraft.com@ 
+§f                   §bLink your Discord account for@ 
+§f         §d§l24h of FREE Double XP: §b§ndiscord.gg/yJkSQwp§f@ 
+§f               §fplay.wynncraft.com §7-/-§f wynncraft.com@ 
+§f                §c§lTIP: §7§lType §f§l/kill§7§l if stuck inside blocks§f@ 
+§b[103/222§b/Ma/✫Ped] §7Duckyfarms: §fchampion armor yoo@ 
+§b[103/222§b/Ma/✫Ped] §7Duckyfarms: §fi thoguht max ppl was 4@ 
+§b[105/723§b/Wa/✫Ped] §fTheGh0sT300: §flmao@ 
+§b[103/195§b/Kn/✫Ped]§5 [§dHERO§5] §5CreamyChezy: §fthey changed it it hink@ 
+§b[105/941§b/Ma/✫Ped] §fBogdan172: §fgg ez noobs@ 
+§b[105/941§b/Ma/✫Ped] §fBogdan172: §fget out of nessak@ 
+§b[105/258§b/Ma/✫Ped]§2 [§aVIP§2] §2HopelessLurker_: §feyy@ 
+§b[103/195§b/Kn/✫Ped]§5 [§dHERO§5] §5CreamyChezy: §7nessass@ 
+§f@ 
+§f               §fplay.wynncraft.com §7-/-§f wynncraft.com@ 
+§f       §bFollow us and stay updated: §d§ntwitter.com/Wynncraft§f@ 
+§b[103/195§b/Kn/✫Ped]§5 [§dHERO§5] §5CreamyChezy: §fwe already jave warriors@ 
+§b[103/195§b/Kn/✫Ped]§5 [§dHERO§5] §5CreamyChezy: §fwe dont need ur buff@ 
+<Ivodad> yeah@ 
+§f@ 
+§f               §fplay.wynncraft.com §7-/-§f wynncraft.com@ 
+§f            §bClaim your FREE Pet: §d§nwynncraft.com/store§f@ 
+<chickencraze5> ._.@ 
+<PonyLover69420> xD@ 
+§f  §b+ 15 §7All Skill Points@ 
+§f  §b+ 75% §7Main Attack Damage@ 
+§f  §b+ 6/4s §7Mana Steal@ 
+§f  §b+ 500 §7Health Regen@ 
+§f  §b+ §bHeart of the Pack@ 
+§f      §7Nearby players gain 35% of the health you naturally regenerate@ 
+§l[Lv. 18/42§8§l/Ma]§7§l [WC30]§l §7§lLitleDaisycuter: §fKurumiSaa@ 
+§f       §3Secret Discovery: §bRagni's Secret Library§d (+80 XP)@ 
+§f  §7A twelve-volume story of Wynn's great hero can be found@ 
+§f       §7here. The origins of this library, and others like it,@ 
+§f                          §7still remain unknown.@ 
+§7§l[§f§lSamariEvan§6§l ➤ §f§lSamariEvan§7§l] §f§lWynCraft @ 
+§f      §7A village of hobbits, it is home to a blacksmith by the@ 
+§f    §7name of Dodegar, seeking to forge the ultimate weapon.@ 
+§f     §7Letvus Airbase is the best place to go for commercial@ 
+§f     §7airship travel, though only the wealthiest can afford@ 
+§f                                      §7it.@ 
+§7§l[§f§lWildDvaBun§6§l ➤ §f§lKiril2l§7§l] §f§l-292, 65, -1380 @ 
+§7[§e§oNotG Mage§7] §fnope im 99% sure its just a bug @ 
+§7[§e§oNotG Mage§7] §fig so @ 
+§4BastianKongedam\§c is not currently online any Wynncraft servers....@ 
+§f                §aYour pet [Gray Wybel] is now level 2@ 
+§6Ⓖ §7artem4ik228YT §8» §7))@ 
+§6Ⓖ §6KING §7Kostya081123 §8» §7+@ 
+§f         §7The tallest tower in the province, the Tower of@ 
+§f    §7Ascension provides a challenge so daunting that it has@ 
+§f         §7brought down even the strongest of warriors.@ 
+§7[§e§oNotG Mage§7] §fwelp i just waisted a whole ass le for slightly lower attack speed lol @ 
+§7[§e§oNotG Mage§7] §fjust a heads up but i think ill retire after this run @ 
+§7[§e§oNotG Mage§7] §fi can bring runes @ 
+§7[§e§oNotG Mage§7] §fok @ 
+§7[§e§oNotG Mage§7] §fwhat lvl is noxy now then? @ 
+§2§l§m=============================================@ 
+§fGet the new §e§lIMMORTAL rank today & get access to §bXP boosters, §bthe skin changer, and more from §a§nhttps://www.mineplex.com/shop@ 
+§669 §a§lLEGEND §ehums563 §fi should take a long walk then workout@ 
+§6§lAnomality@ 
+§d§lMurderMystery@ 
+§7[§e§oNotG Mage§7] §faight @ 
+§f                §aYour pet [Cream Wybel] is now level 8@ 
+§7[§e§oNotG Mage§7] §faight well i think ill leave now @ 
+§7[§e§oNotG Mage§7] §fbye @ 
+/class@ 
+§3[§3FelixUvU]§b ⓦⓗⓘⓒⓗ ⓡⓐⓘⓓ?@ 
+§3[§3FelixUvU]§b win this or i'm leaving@ 
+§3[§3FelixUvU]§b gud@ 
+§3[§3FelixUvU]§b we should take over rymek@ 
+§3[§3FelixUvU]§b idk@ 
+§3[§3FelixUvU]§b funi@ 
+ §b>§c>§a> §6[MVP§2++§6] Weakspot§f §6joined the lobby! §a<§c<§b<@ 
+§b[MVP§e+§b] Reeks_Myths_YT§f §6joined the lobby!@ 
+ §b>§c>§a> §b[MVP§d++§b] EPIC_GAMER503§f §6joined the lobby! §a<§c<§b<@ 
+§b[MVP§a+§b] Vivyd§f §6joined the lobby!@ 
+§f@ 
+§f               §fplay.wynncraft.com §7-/-§f wynncraft.com@ 
+§f            §d§l2§5§l of your items sold on the Trade Market§f@ 
+§3[§3FelixUvU]§b oh NO D:@ 
+§f@ 
+§f      §bClaim your FREE Monthly Crate: §d§nwynncraft.com/store§f@ 
+§f         §bFind the latest memes: §d§nreddit.com/r/wynncraft§f@ 
+§8[§4Alert§8]§f Wynncraft will restart in 1 minute for some quick maintenance!@ 
+§8[§4Alert§8]§f Wynncraft will restart in 30 seconds for some quick maintenance!@ 
+§8[§4Alert§8]§f Wynncraft will restart in 10 seconds for some quick maintenance!@ 
+§8[§4Alert§8]§f Wynncraft will restart in 1 second for some quick maintenance!@ 
+§f          §bLink your Forum account to get a permanent@ 
+§f             §d§lwhite username: §b§nforums.wynncraft.com§f@ 
+§f    §7It is said that each province has a magical spring that@ 
+§f                      §7grants people eternal life.@ 
+ §b>§c>§a> §6[MVP§5++§6] MysteriousModBro§f §6joined the lobby! §a<§c<§b<@ 
+  §6§lCOLLECTION LEVEL UP §eCobblestone §8VI➜§eVII@ 
+    §7§aMiner's Outfit Helmet §7Recipe@ 
+    §7§aMiner's Outfit Chestplate §7Recipe@ 
+    §7§aMiner's Outfit Leggings §7Recipe@ 
+    §7§aMiner's Outfit Boots §7Recipe@ 
+§7Warping...@ 
+§7Warping you to your SkyBlock island...@ 
+§aYou received §61,390.5 coins§a!@ 
+§aYou're already sitting on this island!@ 
+§b[MVP§e+§b] SRToy§f§f: whats your Sea mob chance?@ 
+§b[MVP§d+§b] wecandoit7§f§f: 63 but only because i am using my auger@ 
+§c ☠ §7_Dartagnan§7 was killed by Crypt Ghoul§7.@ 
+§b[MVP§d+§b] wecandoit7§f§f: i'm trying to upgrade my expertise on my auger rn@ 
+§b[MVP§e+§b] SRToy§f§f: 72% without armor o.o@ 
+§aYou have deposited §674k coins§a! You now have §6230k coins §ain your account!@ 
+§b[MVP§d+§b] wecandoit7§f§f: 0_0@ 
+§b[MVP§d+§b] wecandoit7§f§f: i need to upgrade my dolphin tbh@ 
+§b[MVP§e+§b] SRToy§f§f: hmm whats my highest damage I can do?@ 
+§b[MVP§d+§b] wecandoit7§f§f: plus buy a beacon tbh@ 
+§b[MVP§c+§b] madman1515§f§f: 7@ 
+§b[MVP§e+§b] SRToy§f§f: no armor xD@ 
+§b[MVP§d+§b] wecandoit7§f§f: hit me@ 
+§cYou do not have enough mana to do this!@ 
+§c ☠ §7thattreething14§7 was killed by Zombie§7.@ 
+§e[NPC] §dRhys§f: You must bring me some valuable materials that peak my interest. I would like 3 of the following:@ 
+§e[NPC] §dRhys§f: §8- §710x §aEnchanted Redstone@ 
+§e[NPC] §dRhys§f: §8- §710x §aEnchanted Iron@ 
+§e[NPC] §dRhys§f: §8- §710x §aEnchanted Coal@ 
+§e[NPC] §dRhys§f: §8- §710x §aEnchanted Emerald@ 
+§e[NPC] §dRhys§f: §8- §710x §aEnchanted Lapis Lazuli@ 
+§e[NPC] §dRhys§f: §8- §710x §aEnchanted Diamond@ 
+§e[NPC] §dRhys§f: §8- §710x §aEnchanted Gold@ 
+§c ☠ §7Dingy12345§7 was killed by Skeleton§7.@ 
+§a[VIP] 20Ib§f§f: where do i buy new pets@ 
+§aYou have withdrawn §6230k coins§a! You now have §60 coins §ain your account!@ 
+§cCouldn't match the quoted price!@ 
+§cThe sell orders for this item changed too much!@ 
+§eEscrow refunded §61,542.2 §efor §bBazaar Instant Buy Submit§e!@ 
+§7YTRobotRex99§7§7: kk@ 
+§7TechnoBlade88§7§7: how much for a teir 1 clay minnion@ 
+§7ThatOneBIaze§7§7: someone go into my auctions and outbid squid on the grap hook@ 
+§7ThatOneBIaze§7§7: PLEASEEE@ 
+§c ☠ §7AkatsukiKonann§7 was killed by Zombie§7.@ 
+§c ☠ §7Aprell123§7 was killed by Skeleton§7.@ 
+§e[NPC] §dRhys§f: Perhaps you are someone we can get along with after all.@ 
+§c ☠ §bBigBoyByle§7 was killed by Zombie§7.@ 
+§e[NPC] §dRhys§f: I'll get your §5Heart of the Mountain. It's time for a visit!@ 
+§e[NPC] §dRhys§f: Let's go together now. For future trips, remember the Lift Operator.@ 
+§5§l▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬@ 
+  §5§lHEART OF THE MOUNTAIN §f§lTIER 1@ 
+  §a§lREWARD@ 
+    §7§8+§51 Token of the Mountain@ 
+§a[VIP] ithis2§f§f: what is fethcur today?@ 
+§a[VIP] KingCoco1§f§f: flint and steel@ 
+§7Diggerio§7§7: flint and steel@ 
+§a[VIP] dmdboomer§f§f: flind & steel@ 
+§a[VIP] ithis2§f§f: ty, love you@ 
+§a[VIP] HD_Hudd§f§f: gay@ 
+§a[VIP] KingCoco1§f§f: not gay if its a she@ 
+§a[VIP] HD_Hudd§f§f: still gay to say i love you on a game@ 
+§7Diggerio§7§7: how do you get lion pet@ 
+§b[MVP§4+§b] 1kmh§f§f: not if you have socks on@ 
+§a[VIP] KingCoco1§f§f: true but@ 
+§a[VIP] HD_Hudd§f§f: good point@ 
+§a[VIP] KingCoco1§f§f: pet guy@ 
+§a[VIP§6+§a] De4dlyToast§f§f: travelling zoo event@ 
+§a[VIP] KingCoco1§f§f: from the xoo event@ 
+§7Diggerio§7§7: when@ 
+§a[VIP] KingCoco1§f§f: zoo*@ 
+§a[VIP] HD_Hudd§f§f: ithis you got socks on ?@ 
+§a[VIP§6+§a] De4dlyToast§f§f: check your calander@ 
+§a§l▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬@ 
+  §a§lNEW ZONE §8- §b§lDwarven Village@ 
+§8  ➤ §eA fine village full of happy dwarves@ 
+§8  ➤ §eShops@ 
+§8  ➤ §eBank@ 
+§8  ➤ §eBlacksmith@ 
+§8  ➤ §eEvent Organizer@ 
+§e[NPC] Rhys§f: Now that you have your §5Heart of the Mountain, you have access to all of the deeper areas of the mines!@ 
+§a[VIP] KingCoco1§f§f: next one is in 2 days@ 
+§e[NPC] Rhys§f: You can access the §5Heart of the Mountain from the Mining Skill menu, and unlock loads of powerful upgrades as you continue your journey!@ 
+§a[VIP§6+§a] De4dlyToast§f§f: calender*@ 
+§a[VIP] HD_Hudd§f§f: oh **** they left@ 
+§e[NPC] Rhys§f: We Dwarves inhabit this area. We love it! It is rich in Mithril and even some Titanium.@ 
+§e[NPC] Rhys§f: You will need a good pickaxe to mine ores here. For Mithril, at least something with a §aBreaking Power of 4. §5Bubu just down the street could help you with that!@ 
+§e[NPC] Rhys§f: If you're looking for better hardware, maybe try checking out the §6Forge. You could also visit the §bRoyal Palace to talk to the §6§lKing about certain tasks!@ 
+§e[NPC] Rhys§f: Enjoy our little slice of mining heaven!@ 
+§b[MVP§d+§b] iExtency§f§f: SnowySanti@ 
+§b[MVP§d+§b] iExtency§f§f: Leo_041610QAQ@ 
+§b[MVP§d+§b] iExtency§f§f: uwu@ 
+§b[MVP§e+§b] Leo_041610QAQ§f§f: owo?@ 
+§b[MVP§d+§b] iExtency§f§f: :d@ 
+§a[VIP] summerbeast654§f§f: UwU@ 
+§a[VIP] summerbeast654§f§f: .palytime@ 
+§c ☠ §asummerbeast654§7 was killed by Knifethrower§7.@ 
+§e[NPC] §5Bubu§f: You'll be needing some stronger pickaxes to mine down here!@ 
+§e[NPC] §5Bubu§f: Conveniently for you, I've got just what you need!@ 
+§b[MVP§4+§b] 1kmh§f§f: your playtime is 23430 hours.@ 
+§aYou sold §aFractured Mithril Pickaxe§8 x1 §afor §65,000 Coins§a!@ 
+§aYou sold §9Spicy Aspect of the End§8 x1 §afor §656,000 Coins§a!@ 
+§7Diggerio§7§7: PLAYTIME@ 
+§aYou bought back §9Spicy Aspect of the End§8 x1 §afor §656,000 Coins§a!@ 
+§aYou bought back §aFractured Mithril Pickaxe§8 x1 §afor §65,000 Coins§a!@ 
+§7Diggerio§7§7: (dies)@ 
+§a[VIP] summerbeast654§f§f: naw its 587 and 33 min@ 
+  §a§lNEW ZONE §8- §2§lDwarven Mines@ 
+§8  ➤ §eMine rare ores@ 
+§b[MVP§d+§b] iExtency§f§f: "You have 278 hours and 04 minutes playtime"@ 
+§b[MVP§d+§b] iExtency§f§f: :3@ 
+§9§l᠅ POWDER! §fYou found some §2Mithril Powder§f!@ 
+    §fPowder is stored in your §5Heart of the@ 
+    §5Mountain§f, where you can spend it on upgrading@ 
+    §fperks!@ 
+§b[MVP§4+§b] 1kmh§f§f: 1591 hours@ 
+  §6§lCOLLECTION UNLOCKED §eMithril@ 
+§a[VIP] HD_Hudd§f§f: how do you check ?@ 
+§b[MVP§4+§b] 1kmh§f§f: ./playtime@ 
+§b[MVP§f+§b] a_zes§f§f: of what@ 
+§b[MVP§d+§b] iExtency§f§f: ./playtime@ 
+§b[MVP§f+§b] a_zes§f§f: 899 hours 47 mins@ 
+§a[VIP] summerbeast654§f§f: with out the dot@ 
+§a[VIP] HD_Hudd§f§f: 160 hours and 26 min@ 
+§b[MVP§4+§b] 1kmh§f§f: hotm 5 takes SO LONG@ 
+§b[MVP§f+§b] a_zes§f§f: ol@ 
+§b[MVP§f+§b] a_zes§f§f: ik@ 
+§cYou don't have enough Mithril Powder!@ 
+§b[MVP§f+§b] a_zes§f§f: im 60% done tho@ 
+§7Diggerio§7§7: how about hotm 3@ 
+§b[MVP§4+§b] 1kmh§f§f: 47%@ 
+§b[MVP§f+§b] a_zes§f§f: dang@ 
+§a[VIP] KingCoco1§f§f: hotm 3 is easy@ 
+  §6§lCOLLECTION LEVEL UP §eMithril §eI@ 
+    §7§9Mithril Minion §7Recipes@ 
+§b[MVP§f+§b] a_zes§f§f: yeah@ 
+§a[VIP] HD_Hudd§f§f: jesus my play style is grinding mindlessly for hours and you people scare me@ 
+§7Diggerio§7§7: how do you get a drill@ 
+§a[VIP] KingCoco1§f§f: make i@ 
+§a[VIP] KingCoco1§f§f: it@ 
+§a[VIP] KingCoco1§f§f: or ah@ 
+§7Diggerio§7§7: HOW TO MAKE@ 
+§a[VIP] KingCoco1§f§f: 2 mithril palte drill engine and drill fuel tanl@ 
+§a[VIP] KingCoco1§f§f: i belive@ 
+§7Diggerio§7§7: where to make@ 
+§a[VIP] KingCoco1§f§f: oh fordge@ 
+§7Diggerio§7§7: what hotm lv@ 
+§b[MVP§4+§b] 1kmh§f§f: 3@ 
+§b[MVP§4+§b] 1kmh§f§f: well@ 
+§b[MVP§4+§b] 1kmh§f§f: 4 i think@ 
+§a[VIP] KingCoco1§f§f: na 4 you get t2 mithril drill@ 
+§a[VIP] KingCoco1§f§f: but dont make that@ 
+§b[MVP§4+§b] 1kmh§f§f: o yeah@ 
+§a[VIP] KingCoco1§f§f: bc at HOTM5 you get titanium drills@ 
+§7Diggerio§7§7: why@ 
+§7Diggerio§7§7: ok@ 
+§b[MVP§4+§b] 1kmh§f§f: its like 400m tho@ 
+§a[VIP] KingCoco1§f§f: still its price will drop soon@ 
+§b[MVP§4+§b] 1kmh§f§f: dont think so@ 
+§b[MVP§4+§b] 1kmh§f§f: prices already died@ 
+§7Diggerio§7§7: like in 1 year@ 
+§cYou must reach Tier 2 before unlocking this!@ 
+§b[MVP§4+§b] 1kmh§f§f: like 10x less then when the update came out@ 
+§a[VIP] KingCoco1§f§f: like e titanium used to go for 110k but now its belowe 100k@ 
+§b[MVP§4+§b] 1kmh§f§f: its in bazaar now@ 
+§aYou applied Efficiency V to your §aFractured Mithril Pickaxe§a!@ 
+§aYou applied Smelting Touch I to your §aFractured Mithril Pickaxe§a!@ 
+§aYou applied Telekinesis I to your §aFractured Mithril Pickaxe§a!@ 
+§e[NPC] Dusk§f: You can apply runes to weapons and armor with the Rune Pedestal behind me.@ 
+§e[NPC] Dusk§f: You can also combine two runes for a chance to create a higher level rune with a better effect!@ 
+§aYou received §64,340.5 coins§a!@ 
+§aYou picked up a minion! You currently have 6 out of a maximum of 8 minions placed.@ 
+§aYou received §64,336 coins§a!@ 
+§aYou picked up a minion! You currently have 5 out of a maximum of 8 minions placed.@ 
+§aYou received §64,547.5 coins§a!@ 
+§aYou picked up a minion! You currently have 4 out of a maximum of 8 minions placed.@ 
+§aYou picked up a minion! You currently have 3 out of a maximum of 8 minions placed.@ 
+§c ☠ §7You fell into the void§7.@ 
+§aYou received §6605.5 coins§a!@ 
+§aYou picked up a minion! You currently have 2 out of a maximum of 8 minions placed.@ 
+§eYou have §a1 §eitem stashed away!!!@ 
+§6Click here §eto pick it up!@ 
+§eFrom stash: §fCobblestone@ 
+§eYou picked up §aall §eitems from your item stash!@ 
+§cYour stash isn't holding any item!@ 
+§4You can't enter this still unknown cave...@ 
+§f    §7It is said that the Leaf Crystal was buried here. Once@ 
+§f       §7WynnExcavation finds it, they'll have all four of the@ 
+§f         §7crystals scattered across Wynn, granting them@ 
+§f                          §7unfathomable power.@ 
+§6§l#2§f§l _MyMisterFire_§8§l - §7§l428224 XP§8§l - §7§l11666²§8§l - §7§lJoined 06/16/2017@ 
+§c§l@ 
+§f       §7The city of Cinfras is the central hub of the Gavel@ 
+§f        §7Province. It is also home of the massive Guild Hall,@ 
+§f                §7and a massive airship travel center.@ 
+§f                    §bWatch Wynncraft streamers:@ 
+§f                §d§ntwitch.tv/directory/game/Wynncraft§f@ 
+§b§oKing Fich§7 has given you §b20% resistance§7 and§b 10% strength§7.@ 
+§b[MVP§9+§b] Tromble§f §6joined the lobby!@ 
+§aSince you've been away you earned §64,764 coins §aas interest in your personal bank account!@ 
+§6§lALLOWANCE! §eYou earned §630,000 coins§e!@ 
+§aYour §9Silverfish §alevelled up to level §932§a!@ 
+§aYou received §614 coins§a!@ 
+§aYou received §615,987 coins§a!@ 
+§aYou received §616,344 coins§a!@ 
+§aYou received §68,865 coins§a!@ 
+§aYou received §623,723 coins§a!@ 
+§aYou received §631,122.5 coins§a!@ 
+§aYou received §625,900 coins§a!@ 
+§aYou received §620,427 coins§a!@ 
+§aYou received §634,941 coins§a!@ 
+§aYou received §617,522 coins§a!@ 
+§aYou received §641,359.5 coins§a!@ 
+§cThere are blocks in the way!@ 
+§aYou have withdrawn §6242k coins§a! You now have §60 coins §ain your account!@ 
+§7Tim_4hd§7§7: !!!!!!!!!! Buying Tier one Snowminions visit my island !!!!!!!@ 
+§6[MVP§c++§6] OwoceQ§f§f: no problem@ 
+§eYour §apersonal bank §ecooldown was reset!@ 
+§aYou have deposited §664k coins§a! You now have §664k coins §ain your account!@ 
+§7§l[34/59§7§l/Da]§b§l [§3§lVIP+§b§l]§l §b§lJoAsPo: §f§l1314 90 -1660@ 
+§eTheWhitebeer\ has been added to your friends!@ 
+§eTheWhitebeer\ has been removed from your friends!@ 
+§6§l#2§f§l _MyMisterFire_§8§l - §7§l428266 XP§8§l - §7§l11666²§8§l - §7§lJoined 06/16/2017@ 
+§6§l#2§f§l _MyMisterFire_§8§l - §7§l428436 XP§8§l - §7§l11666²§8§l - §7§lJoined 06/16/2017@ 
+§eGhuy_official\ has been added to your friends!@ 
+§f@ 
+@ 
+§f           §c§lTIP: §7§lType §f§l/stream§7§l to enable streamer mode§f@ 
+§eThe player, '§ehttps://vk.com/page-62323994_5405802'§e is not playing on your world (WC4)!@ 
+§7§l[§f§lSamariEvan§6§l ➤ §f§lSamariEvan§7§l] §f§l250, -1950 @ 
+§4Aplhabear1-4§c is not currently online any Wynncraft servers....@ 
+§3[§3FelixUvU]§b 77% pro tempore@ 
+§3[§3FelixUvU]§b how much is that worth@ 
+§3[§3FelixUvU]§b 100% mana regen@ 
+§3[§3FelixUvU]§b yanmg@ 
+§eBoyko.exe§e has been added to your friends!@ 
+§f@ 
+@ 
+§f            §d§l1§5§l of your items sold on the Trade Market§f@ 
+Illegal position@ 
+§f    §7These massive holes have recently begun appearing all@ 
+§f     §7around the swamp, creating a massive tunnel network@ 
+§f                              §7underground.@ 
+§egasterplay-288 is not a friend! Type §6/friend list§e.@ 
+§egasterplay-228 has been removed from your friends!@ 
+§3[§3FelixUvU]§b bruh this is an active guild@ 
+§3[§3FelixUvU]§b tf@ 
+§3[§3NotA_Woman]§b how do i acess guild member menu??@ 
+§3[§3FelixUvU]§b is this even any active@ 
+§3[§3FelixUvU]§b i wanted an active guild@ 
+§3[§3FelixUvU]§b ;-;@ 
+§3[§3NotA_Woman]§b it is its lit@ 
+§6[§e!§6] §a3...@ 
+§6[§e!§6] §a2...@ 
+§6[§e!§6] §a1...@ 
+§f        §7This forest has been infested with giant, mutant@ 
+§f       §7arachnids for countless years. They serve as the@ 
+§f      §7greatest obstacle for adventurers on their way to@ 
+§f                                   §7Detlas.@ 
+§3[§b★★§3§oTisumii k§3]§b anyone wanna do groot?@ 
+§eonlyllogic\ has been added to your friends!@ 
+§3[§3Feuerstern2271]§b lol guardian@ 
+§aYou have §b34 §aunclaimed leveling rewards!@ 
+§eClick here to view them!@ 
+§aYou have §611 §aunclaimed achievement rewards!@ 
+§7Sending to server mini276V...@ 
+§aYou have just received §618,036 coins §aas interest in your co-op bank account!@ 
+§aYou are playing on profile: §ePapaya§b (Co-op)@ 
+§eWelcome to §aHypixel SkyBlock§e!@ 
+§6§lALLOWANCE! §eYou earned §620,000 coins§e!@ 
+§8Depositing coins...@ 
+§aDeposited §620k coins§a! There's now §6484k coins §ain the account!@ 
+§7Sending to server mini917B...@ 
+§aYou gained §b27,247.6 Mining §aexperience from minions!@ 
+§eYou claimed the §6Chronomatron §erewards!@ 
+ §8+§324,500 Enchanting Exp@ 
+§8 +§d1 Superpairs click@ 
+§eYou claimed the §cUltrasequencer §erewards!@ 
+ §8+§325,000 Enchanting Exp@ 
+§7Sending to server mini373D...@ 
+§8Withdrawing coins...@ 
+§aWithdrew §6484k coins§a! There's now §60 coins §aleft in the account!@ 
+§7Putting coins in escrow...@ 
+§7Executing instant buy...@ 
+§7Sending to server mini50M...@ 
+§eYou claimed the §6Superpairs §erewards!@ 
+§8 +§3400k Enchanting Exp@ 
+ §8+§3+65k Enchanting Exp@ 
+ §8+§3+106k Enchanting Exp@ 
+§c§lYour inventory is full!@ 
+§cYou need the Cookie Buff active to use this feature!@ 
+§aYou earned §2383 GEXP §afrom playing SkyBlock!@ 
+§cYou don't have any free inventory slots!@ 
+§aYou earned §2750 GEXP §afrom playing SkyBlock!@ 
+§7Sending to server mini420R...@ 
+§7danil1219_§7§7: buy snow minion@ 
+§a[VIP] EliGuy6969§f§f: at map@ 
+§7Executing instant sell...@ 
+§cThe buy orders for this item changed too much!@ 
+§cSeems like a volatile market!@ 
+§7Checking escrow for recent transaction...@ 
+§eEscrow refunded §727x §aEnchanted Ice§e!@ 
+§a[VIP] EliGuy6969§f§f: I WILL PAY 15k for 3 compactorss at map@ 
+§fgamasek(yeti): §fvk.com/xxkgg@ 
+§f_wtpux_: §fvk.com/wtpuxx@ 
+§aYou are playing on profile: §eKiwi§b (Co-op)@ 
+§a[VIP] Zhefa§f §ecollected an expired auction!@ 
+§a[VIP] Zhefa§f §ecollected an auction for §62,919,399 coins§e!@ 
+§eYou collected §62,276,010 coins §efrom selling §5Ancient Shadow Assassin Boots §6✪§6✪ §eto §a[VIP] ExtremeO_444 §ein an auction!@ 
+§a[VIP] Zhefa§f §ecollected an auction for §62,276,010 coins§e!@ 
+§7Putting goods in escrow...@ 
+§cNo items could be matched to buyers!@ 
+§7Sending to server mini1011R...@ 
+§aYou picked up a minion! You currently have 10 out of a maximum of 11 minions placed.@ 
+§a[VIP] Zhefa§f §ecollected an auction for §62,841,300 coins§e!@ 
+§2Guild > §7_SweetApple§f: na kakoi srok@ 
+§7Processing purchase...@ 
+§7Claiming BIN auction...@ 
+§cThere was an error with the auction house! §7(AUCTION_EXPIRED_OR_NOT_FOUND)@ 
+§eEscrow refunded §6189,999 §efor §bBIN Auction Buy§e!@ 
+§2Guild > §7_SweetApple§f: scam scam scam scam :D@ 
+§6Mining Speed Boost §ais now available!@ 
+§7Putting item in escrow...@ 
+§7Setting up the auction...@ 
+§7Sending to server mini632E...@ 
+§7Sending to server mini106J...@ 
+§eEscrow refunded §6119,999 §efor §bBIN Auction Buy§e!@ 
+§eEscrow refunded §6155,000 §efor §bBIN Auction Buy§e!@ 
+§eYou need the §dCookie Buff §eto use this command!@ 
+§eObtain a §6Booster Cookie §efrom the community shop in the hub!@ 
+§7Sending to server mini500C...@ 
+§7jumpingbread§7§7: where may I buy thou water buckets@ 
+§c ☠ §7dragonmaster74§7 fell to their death§7.@ 
+§7dragonmaster74§7§7: how@ 
+§7jumpingbread§7§7: where isth thi water bucket@ 
+§c ☠ §7dragonmaster74§7 was killed by Old Wolf§7.@ 
+§cPloyKa1338,§4 is not online the Wynncraft network.@ 
+§f     §7This area is heavily defended by the armies of Detlas@ 
+§f        §7and Ragni to ensure food production continues.@ 
+§6§lMonarch@ 
+§f         §7The first town founded by Villagers in the Wynn@ 
+§f       §7province. Maltic's beach is the site of a shipwreck@ 
+§f          §7that crashed upon its shores 100 years ago.@ 
+§f      §7A small village hidden within the trees in Nivla Woods.@ 
+§f         §7Home of the only bowl merchant in the province.@ 
+§5§m------------------------------------------------------------------§6@ 
+§5§m------------------------------------------------------------------@ 
+§f      §7Founded in 970 AP after the waves calmed, this city@ 
+§f   §7became the bridge between Gavel and Wynn. It flourishes@ 
+§f    §7in trade and enjoys a safe haven from the dangers of@ 
+§f                             §7both provinces.@ 
+§f              §3Secret Discovery: §bWatchmen§d (+180 XP)@ 
+§f                           §fWynn Plains [2/16]@ 
+§f      §7From the watch towers set up across the province,@ 
+§f    §7scouts were able to spot an incoming horde from miles@ 
+§f         §7away, helping to prepare for countless battles.@ 
+§4flackjk\§c is not currently online any Wynncraft servers....@ 
+§f   §7This road leads to the town of Ternaves and its nearby@ 
+§f    §7mine. It is inhabited by strange mushroom-cow hybrids,@ 
+§f                      §7and a mysterious scientist.@ 
+§4thefjk'§c is not currently online any Wynncraft servers....@ 
+§b[106/118§b/Ma/PWS] §7Feuerstern2271: §f(@ 
+§3[§3Feuerstern2271]§b nt@ 
+§3[§3Feuerstern2271]§b kto@ 
+§emiroi1228\ has been added to your friends!@ 
+§f     §7This egg-shaped island is home to a single resident, a@ 
+§f    §7featherbrained villager hermit obsessed over chickens.@ 
+§f     §7Rumor has it that Bob has visited the island for some@ 
+§f                                  §7reason.@ 
+§3[§3Feuerstern2271]§b cx@ 
+§3[§3Feuerstern2271]§b xz@ 
+§aYou have §b35 §aunclaimed leveling rewards!@ 
+§aYou have §64 §aunclaimed achievement rewards!@ 
+§b[MVP§9+§b] Chriseatsrice§f §6joined the lobby!@ 
+<Axolon> o/@ 
+§f                  §aYour pet [Chicken] is now level 19@ 
+§f     §7The largest orc base in Gavel, the fortress has been@ 
+§f          §7overtaken by Orcs under their leader, Gorgu.@ 
+§f                  §aYour pet [Chicken] is now level 20@ 
+§f  §7A prestigious mansion that was once owned by the Sodeta@ 
+§f        §7Guild. It is said that the dangerous and powerful@ 
+§f          §7Abysso Galoshes were once sealed away here.@ 
+§6§l#2§f§l _MyMisterFire_§8§l - §7§l427838 XP§8§l - §7§l11666²§8§l - §7§lJoined 06/16/2017@ 
+§3[§b★★§3§oTisumii k§3]§b anyone wanna do the grootslang raid? I have one person already so we need two more@ 
+§3[§b★★§3§oTisumii k§3]§b yes@ 
+§3[§b★★§3§oTisumii k§3]§b whaty@ 
+§3[§b★★§3§oTisumii k§3]§b I dont know what you are talking about. I havnt heard anything about that@ 
+§3[§b★★§3§oTisumii k§3]§b Yeah I have no clue@ 
+§3[§b★★§3§oTisumii k§3]§b prof speed 23@ 
+§7§l[§e§lMaksimovichi§7§l] §f§lwarp @ 
+§cheyguys#6356 is not an online player.@ 
+§cConqueror#6968 is not an online player.@ 
+§3[§b★★§3§oTisumii k§3]§b hello@ 
+§4/toggle [swears/blood/insults/autojoin/music/vet/war/guildjoin/attacksound/rpwarning/100/sb/autotracking/pouchmsg/combatbar/ghosts/popups/guildpopups/friendpopups/beacon/bombbell]@ 
+§7 @ 
+         §c§l1st Place §7- §7Mr_Shayrus§e, §7Apolonka228§7 - 13§8 x §e✮@ 
+                     §c§l2nd Place §7- §7Thirya§7 - 12§8 x §e✮@ 
+§a§l▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬@ 
+                            §f§lReward Summary§f§l@ 
+   §7You earned@ 
+     • §6700 Arcade Games Coins@ 
+     • §3385 Hypixel Experience@ 
+     • §22,214 Guild Experience@ 
+§a§l▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬@ 
+§7MasterTigerD§7§7: gg@ 
+§7Mr_Shayrus§7: l,;.'@ 
+§7Mr_Shayrus§7: cerf@ 
+                     §c§l1st Place §7- §7T0mBau§7 - 17§8 x §e✮@ 
+                  §c§l2nd Place §7- §7Mr_Shayrus§7 - 10§8 x §e✮@ 
+§a§l▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬@ 
+                            §f§lReward Summary§f§l@ 
+   §7You earned@ 
+     • §6395 Arcade Games Coins@ 
+     • §397 Hypixel Experience@ 
+     • §292 Guild Experience@ 
+§a§l▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬@ 
+§eThe game is starting in §b5 §eseconds!@ 
+                                 §f§lAvalanche@ 
+§4r212523`6§c is not currently online any Wynncraft servers....@ 
+§7[5/15]@ 
+§7[10/15]@ 
+§7[15/15]@ 
+§6§l#21§f§l 6Natsu9§8§l - §7§l1830125 XP§8§l - §7§l0²§8§l - §7§lJoined 01/10/2021@ 
+§7[8/8]@ 
+§f @ 
+§b[17/35§b/As/HCL] §7WetPi11ow: §foof@ 
+§b[20/38§b/As/HCL] §7WetPi11ow: §fIm just scratch his back, he ask me for it@ 
+§6§l#19§f§l 6Natsu9§8§l - §7§l2719439 XP§8§l - §7§l0²§8§l - §7§lJoined 01/10/2021@ 
+§7§l[89/272§7§l/As/✫GFs]§l §7§l6Natsu9: §f§lneed 1 more people@ 
+§7§l[89/272§7§l/As/✫GFs]§l §7§l6Natsu9: §f§lyes@ 
+§7§l[89/272§7§l/As/✫GFs]§l §7§l6Natsu9: §f§l2 times u need to go in@ 
+§f         §3Secret Discovery: §bFar From the Roots§d (+85 XP)@ 
+§f                           §fWynn Plains [1/16]@ 
+§f   §7Corruption crawls where one can not see. The darkness;@ 
+§f                          §7the depths; the mind.@ 
+§7§l[89/272§7§l/As/✫GFs]§l §7§l6Natsu9: §f§lgo on 43 server@ 
+§7§l[89/272§7§l/As/✫GFs]§l §7§l6Natsu9: §f§lu can complete this?@ 
+§7§l[89/272§7§l/As/✫GFs]§l §7§l6Natsu9: §f§lneed mage....@ 
+§7§l[89/272§7§l/As/✫GFs]§l §7§l6Natsu9: §f§lthx guys@ 
+§6§l#19§f§l 6Natsu9§8§l - §7§l2797472 XP§8§l - §7§l0²§8§l - §7§lJoined 01/10/2021@ 
+§f    §7Wild ocelots inhabit this mostly-barren savannah, which@ 
+§f    §7leads to the Almuj desert. There is a town on the edge@ 
+§f                §7of the mountains, though few visit it.@ 
+§6§l┎@ 
+§6§l┖ @ 
+§3▣ §9§lHERO§7 diasgo51 §8» §7f@ 
+§3▣ §a§lAVENGER§7 Candlee §8» §7tf@ 
+§3▣ §b§lOVERLORD§7 diasgo51 §8» §7rf@ 
+§3▣ §b§lOVERLORD§7 diasgo51 §8» §7f@ 
+§f      §7The trail through Nivla Woods to Detlas, the central@ 
+§f                      §7city of the Wynn Province.@ 
+§6§l#19§f§l 6Natsu9§8§l - §7§l2817013 XP§8§l - §7§l0²§8§l - §7§lJoined 01/10/2021@ 
+§6§l#19§f§l 6Natsu9§8§l - §7§l2817268 XP§8§l - §7§l0²§8§l - §7§lJoined 01/10/2021@ 
+§6§l#18§f§l 6Natsu9§8§l - §7§l2819128 XP§8§l - §7§l0²§8§l - §7§lJoined 01/10/2021@ 
+§l[§f§lSFChen§7§l (WC24)§6§l ➤ §f§lkemor_play§7§l] §f>:) @ 
+/@ 
+/renamepet@ 
+§3[§b★★§3§oTisumii n§3]§b it blie@ 
+§3[§3§oPhoenix§3]§b whats going on?@ 
+§3[§3§oPhoenix§3]§b use the guild bank@ 
+§3[§3§oPhoenix§3]§b why are we doing the wars for aldorei?@ 
+§3[§b★★§3§oTisumii k§3]§b loot bomb 36@ 
+§f       §7Once used for repairs for Olux's massive wall, the@ 
+§f §7lumber yard has become useless after the Decay began to@ 
+§f                     §7make the trees rot and die.@ 
+§f     §7Once a grand stone entryway to a brilliant forest, it@ 
+§f    §7has since fallen into disrepair since the emergence of@ 
+§f                                §7the Decay.@ 
+§f                                 §2Level Up!@ 
+§f                  §aYour pet [Chicken] is now level 2@ 
+§f                  §aYour pet [Chicken] is now level 3@ 
+§f                  §aYour pet [Chicken] is now level 4@ 
+§f                  §aYour pet [Chicken] is now level 5@ 
+§f                  §aYour pet [Chicken] is now level 6@ 
+§f                  §aYour pet [Chicken] is now level 7@ 
+§f       §7In the midst of Decay, a massive amount of light is@ 
+§f                       §7emanating from this root.@ 
+§f       §7This disused Iboju burial site seems to have been@ 
+§f         §7turned into a camp for the risen tribal zombies.@ 
+§f          §7Foreign chanting is a constant ambience here.@ 
+§f   §7The royal family of Troms has been the talk of the town@ 
+§f      §7lately. The king's son has gone missing, while the King@ 
+§f              §7himself remains reclusive and paranoid...@ 
+§f     §7This massive, maze-like ravine is home to the Pigmen, a@ 
+§f    §7species of half-pig, half-human abominations that feast@ 
+§f    §7on any weak adventurer who happens to stumble inside.@ 
+§f  §b+ 3/4s §7Mana Regen@ 
+§f  §b+ 50% §7Spell Damage@ 
+§f  §b+ 2000 §7Health@ 
+§f  §b+ 80 §7Agility@ 
+§f  §b+ Freerunner@ 
+§f      §7Double your sprint speed when your sprint bar is under 30%@ 
+§f                  §aYour pet [Chicken] is now level 8@ 
+§f  §b+ 30 §7Agility@ 
+§f  §b+ 40% §7Walk Speed@ 
+§f  §b+ 1500 §7Health@ 
+§f  §b+ 300 §7Health Regen@ 
+§f  §b+ 400/4s §7Life Steal@ 
+§f  §b+ 2/4s §7Mana Steal@ 
+§f  §b+ 250/4s §7Life Steal@ 
+§f                  §aYour pet [Chicken] is now level 9@ 
+§f §f §1 §0 §2 §f §f §2 §0 §4 §3 §9 §2 §0 §0 §3 §9 §2 §0 §0 §3 §9 §2 §0 §0 §3 §6 §3 §6 §3 §6 §3 §6 §3 §6 §3 §6 @ 
+§f §f §1 §0 §2 §f §f §2 §0 §4 §3 §9 §2 §0 §0 §3 §9 §2 §0 §0 §3 §9 §2 §0 §0 @ 
+§7Sending to server mini268P...@ 
+§8 §8 §1 §3 §3 §7 §8 @ 
+§f  §b+ 10 §7All Skill Points@ 
+§f  §b+ 50% §7All Elemental Defense@ 
+§f  §b+ 40 §7Agility@ 
+§f  §b+ 60% §7Walk Speed@ 
+§f  §b+ 100% §7Sprint@ 
+§6§l#17§f§l 6Natsu9§8§l - §7§l3487852 XP§8§l - §7§l0²§8§l - §7§lJoined 01/10/2021@ 
+§b[105/126§b/Ar/PYC] §7_Grysha31_: §7HIIII@ 
+§b[104/279§b/Ma/PYC] §7ZeksterP: §f3k snayl@ 
+§7§l[§e§lARTWM§7§l] §f§lleave @ 
+§f                  §aYour pet [Chicken] is now level 10@ 
+§b-----------------------------------------------------@ 
+§7≈≈≈≈≈≈§3§lWelcome to Foliage§7≈≈≈≈≈≈@ 
+§8❖┃ §c/g member §8┃ §c/g top@ 
+§2✿§f━━━━━━━━━━━━━━━§8GROUP§f━━━━━━━━━━━━━━━━━§2✿@ 
+§6https://vk.com/foliage1@ 
+§2✿§f━━━━━━━━━━━━━━§8DISCORD§f━━━━━━━━━━━━━━━━§2✿@ 
+§6https://discord.gg/2cHxwDt@ 
+§7≈≈≈≈≈≈≈≈≈§2✦§5§lChillGuild§2✦§7≈≈≈≈≈≈≈≈≈@ 
+ §b>§c>§a> §6[MVP§d++§6] Smelly_§f §6joined the lobby! §a<§c<§b<@ 
+§f    §7Once the home of a wealthy aristocrat, this castle has@ 
+§f        §7been overtaken by Dullahan, an enigmatic Elf who@ 
+§f             §7terrorized the Dark Forest for decades.@ 
+§cname:§4 is not online the Wynncraft network.@ 
+§f                  §aYour pet [Chicken] is now level 11@ 
+§3[§b★★§3§oTisumii k§3]§b profs on 8@ 
+§3[§b★★§3§oTisumii k§3]§b prof xp 41@ 
+§3[§3Feuerstern2271]§b gooo@ 
+§3[§3Feuerstern2271]§b goooooooooooooooo@ 
+§3[§3Feuerstern2271]§b a@ 
+§7/@ 
+§d            - §7+1 §5§lToxoplasmosis@ 
+§b[81/94§b/As/PWS]§2 [§aVIP§2] §2Proofreader: §f(((@ 
+§3[§3§oBiDog§3]§b ignis is too op@ 
+§3[§b★★§3§oTisumii k§3]§b aight, I can try@ 
+§3[§3§oBiDog§3]§b can lvl 89 run cur@ 
+§3[§3§oMeisterPropper§3]§b ye@ 
+§3[§3§oBiDog§3]§b ok ty@ 
+§3[§3§oBiDog§3]§b this is cur youre talking about not cuc right?@ 
+§3[§3§oBiDog§3]§b ????@ 
+§3[§3§oMeisterPropper§3]§b cuc is 77@ 
+§3[§3§oBiDog§3]§b speaking of tcc let me know if anyone wants to do it@ 
+§3[§3§oBiDog§3]§b id also like to do the other raids@ 
+§3[§3§oBiDog§3]§b so i can unlock tomes@ 
+§3[§3§oBiDog§3]§b also i need to continue visiting houses on my other classes which is so damn stupid@ 
+§3[§b★★§3§oTisumii k§3]§b prof xp 33@ 
+§3[§3§oBiDog§3]§b god damnit the fact i have to unlock tomes on every character hurts my soul@ 
+§3[§3Feuerstern2271]§b go wc 30@ 
+§3[§3Feuerstern2271]§b wc9 dung@ 
+§b[106*/471§b/Ma/PWS]§2 [§aVIP§2] §2Proofreader: §7yo@ 
+§b[106/193§b/Ma/PWS] §7UniqWay: §8re@ 
+§b[106*/471§b/Ma/PWS]§2 [§aVIP§2] §2Proofreader: §f8 more@ 
+§b[106*/471§b/Ma/PWS]§2 [§aVIP§2] §2Proofreader: §fparty?@ 
+§b[106*/471§b/Ma/PWS]§2 [§aVIP§2] §2Proofreader: §fhe dede@ 
+§b[106*/471§b/Ma/PWS]§2 [§aVIP§2] §2Proofreader: §fded*@ 
+§b[106*/471§b/Ma/PWS]§2 [§aVIP§2] §2Proofreader: §fopen@ 
+§b[106*/471§b/Ma/PWS]§2 [§aVIP§2] §2Proofreader: §fbruh@ 
+§b[106*/471§b/Ma/PWS]§2 [§aVIP§2] §2Proofreader: §f14/20@ 
+§b[106*/471§b/Ma/PWS]§2 [§aVIP§2] §2Proofreader: §fcls@ 
+§b[106*/471§b/Ma/PWS]§2 [§aVIP§2] §2Proofreader: §fk@ 
+§b[106*/471§b/Ma/PWS]§2 [§aVIP§2] §2Proofreader: §fbut we need bombs@ 
+§b[106*/471§b/Ma/PWS]§2 [§aVIP§2] §2Proofreader: §fwelll@ 
+§3[§b★★§3§oTisumii k§3]§b sure@ 
+§b[106*/471§b/Ma/PWS]§2 [§aVIP§2] §2Proofreader: §8where is the creeper eh@ 
+§b[106*/471§b/Ma/PWS]§2 [§aVIP§2] §2Proofreader: §fcreepers?@ 
+§b[106*/471§b/Ma/PWS]§2 [§aVIP§2] §2Proofreader: §fhow???@ 
+§b[106*/471§b/Ma/PWS]§2 [§aVIP§2] §2Proofreader: §fi mean uh@ 
+§b[106*/471§b/Ma/PWS]§2 [§aVIP§2] §2Proofreader: §fok@ 
+§b[106*/471§b/Ma/PWS]§2 [§aVIP§2] §2Proofreader: §f^^@ 
+§b[106*/471§b/Ma/PWS]§2 [§aVIP§2] §2Proofreader: §f*everyone died*@ 
+§b[106*/471§b/Ma/PWS]§2 [§aVIP§2] §2Proofreader: §fthe boss system@ 
+§b[106*/471§b/Ma/PWS]§2 [§aVIP§2] §2Proofreader: §fhigher lvl higher heakth@ 
+§b[106*/471§b/Ma/PWS]§2 [§aVIP§2] §2Proofreader: §foh@ 
+§b[106*/471§b/Ma/PWS]§2 [§aVIP§2] §2Proofreader: §fsomeone is completing@ 
+§b[106*/471§b/Ma/PWS]§2 [§aVIP§2] §2Proofreader: §fcool inferno@ 
+§b[106*/471§b/Ma/PWS]§2 [§aVIP§2] §2Proofreader: §fnaw@ 
+§b[106*/471§b/Ma/PWS]§2 [§aVIP§2] §2Proofreader: §fboi@ 
+§b[106*/471§b/Ma/PWS]§2 [§aVIP§2] §2Proofreader: §fwe no need graken@ 
+§b[106*/471§b/Ma/PWS]§2 [§aVIP§2] §2Proofreader: §fL@ 
+§b[106*/471§b/Ma/PWS]§2 [§aVIP§2] §2Proofreader: §fxD@ 
+§b[106*/471§b/Ma/PWS]§2 [§aVIP§2] §2Proofreader: §8x*@ 
+§b[106*/471§b/Ma/PWS]§2 [§aVIP§2] §2Proofreader: §8ehhh@ 
+§f     §7The Eagle Tribe is one of the two native tribes of the@ 
+§f   §7Rymek Canyon. They have been at war with the Owl Tribe@ 
+§f                                §7for years.@ 
+§4xX_KREVETKA_sdfsfs§c is not currently online any Wynncraft servers....@ 
+ §b>§c>§a> §6[MVP§a++§6] NX2017RWZT§f §6joined the lobby! §a<§c<§b<@ 
+§b[MVP§c+§b] BaconGhost12345§f §6joined the lobby!@ 
+§7[1⋆] §7539ms§7§7: GIVE ME PLZ VIP@ 
+§7Sending to server mini176C...@ 
+§3[§b★★§3§oTisumii k§3]§b nevermind I found it@ 
+§8[§4Alert§8]§f Please help us make Wynncraft better by taking this super quick survey (will only take 1-2 minutes!): §fhttps://forms.gle/CPd6aExeKyNVhTRp7@ 
+§f                  §aYour pet [Chicken] is now level 12@ 
+§f                  §aYour pet [Chicken] is now level 13@ 
+§f                  §aYour pet [Chicken] is now level 14@ 
+§f                  §aYour pet [Chicken] is now level 17@ 
+§f                  §aYour pet [Chicken] is now level 18@ 
+§7§l[1/7] §2§lMaxie: §a§lMo'in, 6Natsu9! I've been researching everything I can about the factory.@ 
+§bAFK Gaming's §3bomb has expired. You can buy Profession XP bombs at our website, §bwynncraft.com/store@ 
+§bMcdonalds Employee's §3bomb has expired. You can buy Profession XP bombs at our website, §bwynncraft.com/store@ 
+§b1 to 132 at 80's §3bomb has expired. You can buy Profession XP bombs at our website, §bwynncraft.com/store@ 
+§bMes The Precise's §3bomb has expired. You can buy Profession XP bombs at our website, §bwynncraft.com/store@ 
+                §d§ntwitch.tv/directory/game/Wynncraft@ 
+§bLevel up! Monarch is now level 36@ 
+§7[+8 Waterlogged Branch]@ 
+§7[+6 Oceanic Silt]@ 
+§7[+6 Fake Tooth]@ 
+§7[+4 Oceanic Sand]@ 
+§7[+2 Reinforced Leather]@ 
+§a/toggle ghosts [none/low/medium/high]@ 
+§d            - §7+1 Waist Apron@ 
+§7[+4 Tender Pork Fillet]@ 
+§7[+2 Lockpicking Kit]@ 
+§7[+6 Rancid Flesh]@ 
+§7[+3 Broken Dagger]@ 
+§7[+1 Generator Chip]@ 
+§7[+5 Leafy Stalks]@ 
+§7[+6 Stack of Coins]@ 
+§7[+4 Rusty Axe Heads]@ 
+§7[+6 Black Steel]@ 
 
 #################################TERRITORY DISCOVERIES#################################
                                    Plains@ 

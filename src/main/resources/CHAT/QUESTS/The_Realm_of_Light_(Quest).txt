@@ -5,8 +5,8 @@
 §7[6/8] §2Lari: §aIt has been a long time since I had a partner willing to help me in this way. I was unused to it, I suppose... Still.@§7[6/8] §2Лари: §aПрошло много времени с тех пор, как у меня был партнер, готовый помочь мне в этом. Наверное, я к этому не привыкла... Еще.
 §7[7/8] §2Lari: §aIf you'll be willing to aid me, it would be a great relief. It has been a thousand years since I entered the Realm of Light...@§7[7/8] §2Лари: §aЕсли ты согласишься помочь мне, это будет большим облегчением. Прошла тысяча лет с тех пор, как я входила в Царство Света...
 §7[8/8] §2Lari: §aI can only hope things have not changed much. I remember how it was, right down to the last petal...@§7[8/8] §2Лари: §aМогу только надеяться, что ситуация не сильно изменилась. Я помню, как это было, вплоть до последнего лепестка...
-§7[2/4] §2Lari: §aI... I need to thank you. For helping, as you have. For staying by me as you have. There was one other before you like that...@§7[2/4] §2Лари: §aЯ... я должна поблагодарить тебя. За помощь, от тебя. За то, что ты остался со мной. До тебя был еще один такой...
-§7[3/4] §2Lari: §aI promise that you will not meet the same fate as him. I will fight with you to the bitter end, achara.@§7[3/4] §2Лари: §aЯ обещаю, что тебя не постигнет та же участь, что и его. Я буду сражаться с тобой до самого конца, ачара.
+§7[2/4] §2Lari: §aI... I need to thank you. For helping, as you have. For staying by me as you have. There was one other before you like that...@§7[2/4] §2Лари: §aЯ... я должна поблагодарить тебя. За твою помощь. За то, что ты остался со мной. До тебя был еще один такой...
+§7[3/4] §2Lari: §aI promise that you will not meet the same fate as him. I will fight with you to the bitter end, achara.@§7[3/4] §2Лари: §aОбещаю, что тебя не постигнет та же участь, что и его. Я буду сражаться с тобой до самого конца, ачара.
 §7[4/4] §2Lari: §aIt's time, then. To visit Orphion.@§7[4/4] §2Лари: §aЗначит, пора. Навестить Орфиона.
 §7[1/5] §2Lari: §aIt's so much smaller than it used to be! There used to be many more landmasses, all connected to each other...@§7[1/5] §2Лари: §aОно стало намного меньше, чем раньше! Раньше было гораздо больше суши, все они были связаны друг с другом...
 §7[2/5] §2Lari: §aI feel... I feel everything in here. With Orphion's light, I can tap into the very core of the realm.@§7[2/5] §2Лари: §aЯ чувствую... Чувствую здесь все. С помощью света Орфиона я могу проникнуть в самое сердце царства.
@@ -56,7 +56,7 @@
 §7[1/1] §2Lari: §aThank you, achara. The rift is charged again- §bJust walk into it!@§7[1/1] §2Лари: §aСпасибо, ачара. Разлом снова заряжен - §bпросто войди в него!
 §7[1/5] §2Lari: §aThe process here should be roughly the same. I bring down the barrier, you enter and charge it with the light I provide.@§7[1/5] §2Лари: §aПроцесс здесь должен быть примерно таким же. Я опускаю барьер, ты входишь и заряжаешь его светом, который я даю.
 §7[2/5] §2Lari: §aI'll need to focus the energies of the monoliths to reconnect the Nexus of Light to the mainland here, so you'll be alone.@§7[2/5] §2Лари: §aМне нужно будет сосредоточить энергию монолитов, чтобы соединить Нексус Света с материком здесь, так что ты будешь один.
-§7[3/5] §2Lari: §aI'll leave a barrier around you. Few creatures live on these cliffs, but best to be certain, of course.@§7[3/5] §2Лари: §aЯ оставлю вокруг тебя барьер. На этих утесах живут немноо существ, но лучше, конечно, быть уверенным.
+§7[3/5] §2Lari: §aI'll leave a barrier around you. Few creatures live on these cliffs, but best to be certain, of course.@§7[3/5] §2Лари: §aЯ оставлю вокруг тебя барьер. На этих утесах живут немного существ, но лучше быть уверенным.
 §7[4/5] §2Lari: §aOnce you're done, §bmeet me §aat the §bcliff near the Nexus. §aIf we're to free Orphion from the parasite, having you along would be a great help.@§7[4/5] §2Лари: §aКак только закончишь, §bвстретимся на утесе возле Нексуса§a. Если мы хотим освободить Орфиона от паразита, твое присутствие будет очень кстати.
 §7[5/5] §2Lari: §aGood luck, achara. I will see you soon.@§7[5/5] §2Лари: §aУдачи тебе, ачара. Мы скоро увидимся.
 §7[2/2] §2Lari: §aThere. The connection to the Nexus is established, and so we'll cross.@§7[2/2] §2Лари: §aВот. Связь с Нексусом установлена, и мы можем перейти.
@@ -68,9 +68,9 @@
 §7[6/9] §2Lari: §aYou're the one trespassing in realms not your own!@§7[6/9] §2Лари: §aЭто ты вторгаешься в чужие царства!
 §7[7/9] §4Bak'al: §aFool. The Beast quakes with our influence. This land is ours.@§7[7/9] §4Бак'ал: §aДура. Зверь содрагается от нашего влияния. Эта земля - наша.
 §7[9/9] §4Bak'al: §aI will not waste my time with that specimen. Now. Face death.@§7[9/9] §4Бак'ал: §aЯ не стану тратить время на эту особь. Теперь. Встреться со смертью.
-§7[1/6] §2Lari: §aAGH, ENOUGH OF THIS! You aren't allowed here, foul thing!@§7[1/6] §2Лари: АГХ, ДОСТАТОЧНО! Тебе нельзя здесь находиться, мерзкая тварь!
+§7[1/6] §2Lari: §aAGH, ENOUGH OF THIS! You aren't allowed here, foul thing!@§7[1/6] §2Лари: §aАГХ, ДОСТАТОЧНО! Тебе нельзя здесь находиться, мерзкая тварь!
 §7[2/6] §2Lari: §aⓑⓨ ⓣⓗⓔ ⓛⓘⓖⓗⓣ, ⓘ ⓢⓤⓜⓜⓞⓝ ⓣⓗⓔⓔ, ⓐⓔⓣⓗⓔⓡ'ⓢ ⓙⓤⓓⓖⓔⓜⓔⓝⓣ! ⓐⓘⓓ ⓜⓔ!@§7[2/6] §2Лари: §aⓑⓨ ⓣⓗⓔ ⓛⓘⓖⓗⓣ, ⓘ ⓢⓤⓜⓜⓞⓝ ⓣⓗⓔⓔ, ⓐⓔⓣⓗⓔⓡ'ⓢ ⓙⓤⓓⓖⓔⓜⓔⓝⓣ! ⓐⓘⓓ ⓜⓔ!
 §7[3/6] §2Lari: §aNo! You won't run- I'll kill you before that!@§7[3/6] §2Лари: §aНет! Ты не убежишь - я убью тебя раньше!
-§7[4/6] §4Bak'al: §aYou shall not. Surely your god will smile seeing me leave.@§7[4/6] §4Бак'ал: §aТы не должна. Конечно твой бог улыбнется, увидев, что я ухожу.
+§7[4/6] §4Bak'al: §aYou shall not. Surely your god will smile seeing me leave.@§7[4/6] §4Бак'ал: §aТебе не удастся. Конечно твой бог улыбнется, увидев, что я ухожу.
 §7[5/6] §2Lari: §a§l§oYOU DON'T GET TO TALK ABOUT ORPHION LIKE THAT!@§7[5/6] §2Лари: §a§l§oНЕ СМЕЙ ТАК ГОВОРИТЬ ОБ ОРФИОНЕ!
 §7[6/6] §4Bak'al: §aWe have already won. Your peon is outmatched.@§7[6/6] §4Бак'ал: §aМы уже победили. Твой пехотинец в меньшинстве.

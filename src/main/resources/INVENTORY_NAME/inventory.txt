@@ -81,6 +81,7 @@ Give a task to your pet@Дай задание своему питомцу
 Reward Chest@Сундук с Наградой
 §8§lClass Backups@§8§lБэкапы Классов
 Pet Task: Selling Items@Задача Питомца: Продажа Предметов
+Available Items@Доступные Предметы
 
 ###############################PROFESSIONS#############################
 Fish Refinery@Переработка Рыбы

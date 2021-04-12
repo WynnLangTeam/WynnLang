@@ -80,3 +80,5 @@
 §7[1/1] §2Tolem: §aOh, this is such a mess! And my axe is busted, §atoo...how§a am I going to get this fixed?!@§7[1/1] §2Толем: §aОх, это такой беспорядок! И мой топор тоже сломан...как я собираюсь это исправить?!
 §7[1/2] §2Rileen: §aWoohoo! Awesome work! Everyone pulled through and the giant is dead!@§7[1/2] §2Райлен: §aУра! Потрясающая работа! Все выкарабкались, а великан мертв!
 §7[2/2] §2Rileen: §aGrandma still says we can't trust you humans, but I know for sure that you're alright. Thank you so much!@§7[2/2] §2Райлен: §aБабушка все еще говорит, что мы не можем доверять вам, людям, но я точно знаю, что с вами все в порядке. Большое тебе спасибо!
+§7[1/1] §2Kroac: §aIf you will excuse me, I'm dealing with a mid-life crisis.@§7[1/1] §2Кроак: §aПрошу меня простить, я имею дело с кризисом среднего возраста.
+§7[1/1] §2Kroac: §aI'm sorry, but your patchjob fell apart. You'll need something like 10 cobblestone to help fix this.@§7[1/1] §2Кроак: §aМне очень жаль, но твоя работа с заплатками развалилась. Тебе понадобится что-то вроде 10 булыжников, чтобы помочь это исправить.

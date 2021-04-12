@@ -226,7 +226,7 @@ You were caught by the orc!@Ты был пойман орком!
 §aThe §nsystem has been resta§arted@§aСи§nстема была перезагруже§aна
 §aTh§ne system has been restart§aed@§aС§nистема была перезагружен§aа
 §a§nThe system has been restarted@§a§nСистема была перезагружена
-§7Tasks Completed@§7Выполнение Заданий
+§7Tasks Completed@§7Выполнено Заданий
 §cKill §45 §cMobs@§cУбей §45 §cМобов
 §7to enter the Pit.@§7чтобы попасть в Яму.
 §7Kill 5 more?@§7Убей еще 5?
@@ -247,8 +247,8 @@ You were caught by the orc!@Ты был пойман орком!
 §7[§a15 Seconds§7]@§7[§a15 Секунд§7]
 §4Enemy Airship@§4Вражеский Дирижабль
 §9Ally Airship@§9Союзный Дирижабль
-§7Swap the gates to make a path!@§7Поменяй ворота местами чтобы сделать путь!
-§cY§6§ka§ah§by§d§ka§4 - Th§4§ke§4 F§4§ki§4n§4§ka§4l F§4§ko§4rm@§cЯ§6§ka§aх§bу§d§ka§4 - ФИ§4§ke§4А§4§ki§4л§4§ka§4Я Фо§4§ko§4ма
+§7Swap the gates to make a path!@§7Поменяй заглушки местами чтобы проложить путь!
+§cY§6§ka§ah§by§d§ka§4 - Th§4§ke§4 F§4§ki§4n§4§ka§4l F§4§ko§4rm@§cЯ§6§ka§aх§d§ka§4 - ФИ§4§ke§4А§4§ki§4л§4§ka§4Я Фо§4§ko§4ма
 §7Usurper of Boundless Mushrooms@§7Захватчик Безграничных грибов
 §cThe sample burnt out@§cОбразец сгорел
 §4The Quartron@§4Куартрон
@@ -341,6 +341,13 @@ You logged in from another location@Ты зашел из другой локац
 §7-5% charge@§7-5% заряда
 §7-20% charge@§7-20% заряда
 §7-30% charge!@§7-30% заряда
+§7-10% charge@§7-10% заряда
+§4OUT OF BOUNDS@§4ВНЕ ЗОНЫ ДОСЯГАЕМОСТИ
+§cCYCLING TO NEXT DIRECTION@§cЗАЦИКЛЕН В СЛЕДУЮЩЕМ НАПРАВЛЕНИИ
+§5Teleported West@§5Телепортирован на Восток
+§5Teleported East@§5Телепортирован на Запад
+§5Teleported South@§5Телепортирован на Юг
+§5Teleported North@§5Телепортирован на Север
 
 ###########################CRATES################################
 §7Click to stop the items@§7Кликни, чтобы остановить предметы
@@ -475,6 +482,10 @@ You logged in from another location@Ты зашел из другой локац
 §cFlower Crown@§cЦветочная Корона
 §4Dynasty Dagger@§4Кинжал Династии
 §4Dynasty Relik@§4Релик Династии
+§cBounty Hunter Hat@§cШляпа Охотника за Головами
+§cNordic Halbert@§cСкандинавский Халберт
+§4Yahya's Fantasy@§4Фантазия Яхи
+§4Sword and Shield Effect@§4Эффект Меча и Щита
 
 #########################System##################################
 §bServer restarting!@§bРестарт сервера!
@@ -577,7 +588,9 @@ Packet error code A1. If you're not hacking, please post about this on the forum
 §7Dogun Capital@§7Столица Догунов
 §fCanyon of the Lost@§fКаньон Потерянных 
 §fGylia Plains@§fРавнины Гилия
-
+§7§lSiegfried's Grave@§7§lМогила Зигфридов
+§7§oThe Heroes of Gavel@§7§oГерои Гавела
+You dropped your items too quickly (Hacking?)@Ты выбрасываешь предметы слишком быстро (Читер?)
 
 #############################Discoveries#########################
 §3Secret Discovery Found@§3Секретное Открытие найдено
@@ -1035,13 +1048,17 @@ Packet error code A1. If you're not hacking, please post about this on the forum
 §a§lID COM@§a§lЙД ЗАВ
 §a§lID COMP@§a§lЙД ЗАВЕ
 §a§lID COMPL@§a§lЙД ЗАВЕР
+§a§lID COMPLET@§a§lЙД ЗАВЕР
 §a§lAID COMPLE@§a§lЕЙД ЗАВЕРШ
 §a§lAID COMPLET@§a§lЕЙД ЗАВЕРШЕ
+§a§lAID COMPLETE@§a§lЕЙД ЗАВЕРШ
 §a§lRAID COMPLETE@§a§lРЕЙД ЗАВЕРШЕ
 §a§lRAID COMPLETED@§a§lРЕЙД ЗАВЕРШЕН
 §a§lRAID COMPLETED!@§a§lРЕЙД ЗАВЕРШЕН!
 §a§lID COMPLE@§a§lЙД ЗАВЕРШ
 §a§lD COMPL@§a§lД ЗАВЕР
+§a§lD COMP@§a§lД ЗАВЕ
+§a§lD COM@§a§lД ЗАВ
 §a§lCOMPL@§a§lЗАВЕР
 §a§lCOMP@§a§lЗАВЕ
 §a§lCOM@§a§lЗАВ
@@ -1071,3 +1088,90 @@ Packet error code A1. If you're not hacking, please post about this on the forum
 §7Core's HP@§7ХП Ядра
 §430 seconds remain@§430 секунд осталось
 §8Eyes Ignited@§8Глаза Зажглись
+§5§lPurple@§5§lФиолетовый
+§e§lYellow@§e§lЖелтый
+§7§lGray@§7§lСерый
+§f§lWhite@§f§lБелый
+§6§lOrange@§6§lОранжевый
+§b§lLight Blue@§b§lГолубой
+§d§lPink@§d§lРозовый
+§4The Colossal Core@§4Колоссальное Ядро
+§8is erupting@§8разгорается
+§7on@§7с
+§7on C@§7с К
+§7yon C@§7сс К
+§7yon Co@§7сс Ка
+§7yon Col@§7осс Ка
+§7yon Colo@§7осс Кан
+§7nyon Colo@§7лосс Кан
+§7anyon Colo@§7лосс Кань
+§7anyon Colos@§7олосс Кань
+§7Canyon Colos@§7олосс Каньо
+§7 Canyon Coloss@§7Колосс Каньо
+§7e Canyon Coloss@§7Колосс Каньон
+§7he Canyon Coloss@§7Колосс Каньона
+§7he Canyon Colossu@§7Колосс Каньона
+§7The Canyon Colossus@§7Колосс Каньона
+§7he Canyon Colossus@§7Колосс Каньона
+§7 Canyon Colos@§7олосс Каньона
+§7Canyon Colo@§7олосс Каньон
+§7anyon Col@§7лосс Каньо
+§7nyon Co@§7осс Кань
+§7n C@§7сс Ка
+§7 C@§7с К
+§fOrphion's Nexus of §lLight@§fНексус §lСвета §fОрфиона
+§7When §flight §7fades...@§7Когда §fсвет §7угасает...
+§fOrphion's Nexus of §l§kLight@§fНексус §l§kLight§r §fОрфиона
+§7When §llight §7fades...@§7Когда §lсвет §7угасает...
+§fOrphion's Nexus of §8Dark@§fНексус §8Тьмы §fОрфиона
+§7When §8darkness §7grows...@§7Когда §8тьма §7растет...
+§0Orphion's§f Nexus of §8§kDark@§fНексус §8§kDark§r §0Орфиона
+§8When §fdarkness §8grows...@§8Когда §fтьма §8растет...
+§fOrphion's Nexus of §8§kDark@§fНексус §8§kDark§r §fОрфиона
+§7When §f§kdarkness §7grows...@§7Когда §f§kdark §7растет...
+§4You fell!@§4Ты упал!
+§cRespawn in 10 seconds...@§cРеспавн через 10 секунд...
+§cDon't move!@§cНе двигайся!
+Stand still for 4 seconds@Стой неподвижно в течение 4 секунд
+§bThe Light Beast@§bЗверь Света
+§dThe Dark Beast@§dЗверь Тьмы
+§cThe blood ruin is infecting you...@§cBlood ruin заражает тебя...
+§dThe cyclone pulls@§dПритягивание Циклона
+§7A new spell has been added@§7Новое заклинание добавлено
+§6The crystal launches you!@§6Кристалл подбрасывает тебя!
+§dThe cyclone curses@§dПроклятие Циклона
+§dThe cyclone kills@§dУбийство Циклона
+§6§lThe lightning strikes you!@§6§lМолния ударяет в тебя!
+§c§lRun!@§c§lБеги!
+§bYou must fight...@§bТы должен сразиться...
+§8what I can not@§8с тем, чем я не могу
+§8The Parasite@§8Паразит
+§7The Harbinger of Decay@§7Предвестник Заражения
+§8The sanitizing void@§8sanitizing void
+§c§lpulls you@§c§lпритягивает тебя
+§7s of@§7та
+§7xus of@§7ета О
+§7exus of@§7вета О
+§7Nexus of@§7Света О
+§7Nexus of L@§7Света Ор
+§7 Nexus of Li@§7 Света Орф
+§7s Nexus of Li@§7с Света Орф
+§7's Nexus of Li@§7ус Света Орф
+§7n's Nexus of Li@§7сус Света Орф
+§7on's Nexus of Lig@§7сус Света Орфи
+§7ion's Nexus of Lig@§7ксус Света Орфи
+§7hion's Nexus of Ligh@§7ксус Света Орфио
+§7phion's Nexus of Ligh@§7ексус Света Орфион
+§7rphion's Nexus of Light@§7Нексус Света Орфион
+§7Orphion's Nexus of Light@§7Нексус Света Орфиона
+§7rphion's Nexus of Ligh@§7Нексус Света Орфио
+§7phion's Nexus of Lig@§7ксус Света Орфион
+§7hion's Nexus of Li@§7ксус Света Орфи
+§7ion's Nexus of L@§7сус Света Орфи
+§7on's Nexus of@§7ус Света Орф
+§7n's Nexus o@§7с Света Ор
+§7's Nexus@§7Света О
+§7 Nexu@§7Света
+§7Nex@§7Све
+§7e@§7в
+§7The lightning strikes follow you!@§7Удар молнии следует за тобой!

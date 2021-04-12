@@ -24,12 +24,12 @@
 §7[20/23] §2Narrator: §aI hope you enjoyed the show, and learned something new today!@§7[20/23] §2Рассказчик: §aЯ надеюсь, вы все насладились шоу и вынесли для себя сегодня что-то новое!
 §7[21/23] §2Narrator: §aWe are continuing the celebration at the old Demon City. Follow the red banners outside Rodoroc to get there.@§7[21/23] §2Рассказчик: §aМы продолжим празднование в старом городе демонов. Просто следуйте за красными баннерами снаружи Родорока.
 §7[22/23] §2Narrator: §aMeet you all there!@§7[22/23] §2Рассказчик: §aВстретимся там.
-§7[23/23] §2Axelus: §aUgh, that was awful. Don't believe anything you see here, human. History is written by the victors.@§7[23/23] §2Акселус: §aТьфу, это было ужасно. Не верь всему, что видишь здесь, человек. Историю пишут победители.
+§7[23/23] §2Axelus: §aUgh, that was horrible.. Like I said before, this war was a genocide. Don't believe any of the lies they try and feed you.@§7[23/23] §2Акселус: §aТьфу, это было ужасно.. Как я сказал, эта война была геноцидом. Не верь ни одной лжи, которой они пытаются тебя накормить.
 §7[1/4] §2Marock: §aWelcome, one and all! Dwarven brothers and sisters, guests and visitors!@§7[1/4] §2Марок: §aПриветствую всех и каждого! Братья и сестры, гости и посетители!
 §7[2/4] §2Marock: §aIf I could draw your attention to the wooden stage in the north, we can begin.@§7[2/4] §2Марок: §aЕсли вы обратите свое внимание на северную деревянную сцену, то мы можем начать.
 §7[3/4] §2Marock: §aWelcome to the annual festival where we celebrate victory over the foul §ademons...The§a Doguns!@§7[3/4] §2Марок: §aДобро пожаловать на ежегодный фестиваль, где мы празднуем победу над глупыми демонами... Догунами!
 §7[4/4] §2Marock: §aNow, if I can get you to turn around to face the bonfire, we've prepared a lovely firecasting show for you all while we prepare!@§7[4/4] §2Марок: §aТеперь, если я могу заставить вас повернуться лицом к костру, мы подготовили прекрасное шоу для вас всех, пока мы готовимся!
-§7[1/1] §2Mahou: §aWow, I didn’t know Dwarves could learn such magic! Beats the heck out of firecrackers!@§7[1/1] §2Mahou: §aУх ты, я и не знал, что гномы могут научиться такой магии! Покажите шоу с петардами!
+§7[1/1] §2Mahou: §aWow, I didn’t know Dwarves could learn such magic! Beats the heck out of firecrackers!@§7[1/1] §2Махоу: §aУх ты, я и не знал, что гномы могут научиться такой магии! Покажите шоу с петардами!
 §7[1/4] §2Marock: §aMagnificent! Thank you very much to our fire casters. Now, ladies and gents, your attention to the main stage please!@§7[1/4] §2Марок: §aПотрясающе! Спасибо огромное нашим магам. Теперь, дамы и джентльмены, обратите ваше внимание на главную сцену.
 §7[2/4] §2Marock: §aFor the last 900 years we have captured renegade Doguns that escaped the war, and this year is no exception!@§7[2/4] §2Марок: §aВсе последние 900 лет мы захватываем в плен Догунов-отступников, избежавших войны, и этот год не исключение!
 §7[3/4] §2Marock: §aWe shall now entomb the foul demon to join the ranks of the other Doguns on display.@§7[3/4] §2Марок: §aСейчас мы погребем мерзкого демона, чтобы он вступил в ряды других Догунов в виде статуи.
@@ -49,10 +49,12 @@
 §7[3/5] §2Crowd: §aAre they really taking him to the Molten Core? You've heard the horror stories about there, right?@§7[3/5] §2Голос из толпы: §aОни действительно ведут его в Molten Core? Вы ведь слышали ужасные истории о ней, верно?
 §7[4/5] §2Crowd: §aWell, the expression 'no hope blows from the north' came from there, since it's on the north side...@§7[4/5] §2Голос из толпы: §aНу, выражение "нет надежды, дующей с севера" пришло оттуда, так как она на северной стороне...
 §7[5/5] §2Marock: §aApologies, all. I shall provide us all with a quick way back to Rodoroc on the floor here. We hope you enjoyed the show, despite the interruption!@§7[5/5] §2Марок: §aПрошу прощения у всех. Я предоставлю вам всем быстрый путь назад к Родороку, который находится здесь. Мы надеемся, что вам понравилось шоу, несмотря на перерыв!
-
+§7[1/4] §2Axelus: §aI see I got your attention. Interested in the truth.@§7[1/4] §2Акселус: §aВижу, что привлек твое внимание. Интересует правда.
+§7[2/4] §2Axelus: §aI'm no conspiracy nut. The Dwarves have been lied to for hundreds of years about the war.@§7[2/4] §2Акселус: §aЯ не помешан на конспирологии. Гномам сотни лет лгали о войне.
+§7[3/4] §2Axelus: §aI have seen the truth. But my word isn't enough, is it? Seeing is believing, after all.@§7[3/4] §2Акселус: §aЯ видел правду. Но моего слова недостаточно, не так ли? В конце концов, видеть - значит верить.
 §7[2/4] §2Axelus: §aI've told you this already, but you have to know that it really is true. The Dwarves have been lied to for so long about the war.@§7[2/4] §2Акселус: §aЯ уже говорил тебе об этом, но ты должен знать, что это действительно так. Гномам так долго лгали о войне.
 §7[3/4] §2Axelus: §a..But I think it's best if you see it for yourself. Relying on my word alone won't be enough to grasp the full extent of this dilemma.@§7[3/4] §2Акселус: §a..Но я думаю, будет лучше, если ты сам все увидишь. Полагаться только на мое слово будет недостаточно, чтобы понять всю глубину этой дилеммы.
-§7[1/3] §2Axelus: §aWell, now you have read what I read. The §atruth...or§a the lie.@§7[1/3] §2Акселус: §aПохоже, что теперь ты прочитал то, что я читал. Правду... или ложь.
+§7[1/3] §2Axelus: §aNow do you see? Everything that I told you about when we rescued those flerisi was indeed true...@§7[1/3] §2Акселус: §aТеперь ты понимаешь? Все, что я говорил тебе, когда мы спасали тех флериси, было правдой...
 §7[2/3] §2Axelus: §aMy people are tyrants and §aconquerors...but§a they are also good. The people have been brainwashed.@§7[2/3] §2Акселус: §aМой народ - тираны, завоеватели... но среди них есть также и хорошие. Им просто промыли мозги.
 §7[3/3] §2Axelus: §aMany things are about to happen. If you want to know more, come to house number 81 in Maex. I'll be waiting.@§7[3/3] §2Акселус: §aМного чего скоро произойдет. Если хочешь узнать больше, то иди в дом в городе Маэкс, номер 81. Я буду ждать тебя.
 §7[1/10] §2Axelus: §aAh, you made it. Come and meet Korzim.@§7[1/10] §2Акселус: §aОх, ты сделал это. Познакомься - Корзим.
@@ -68,7 +70,7 @@
 §7[1/2] §2Korzim: §aThe §aothers...are§a just up ahead. I'll let you §athrough...our§a tunnel.@§7[1/2] §2Корзим: §aОстальные.. ушли вперед. Я пропущу тебя... через наш тоннель.
 §7[2/2] §2Korzim: §aWe §ause...earth§a §aand...fire...elements§a. It is §aslow...like§a §aus...but§a powerful.@§7[2/2] §2Корзим: §aМы используем... элементы земли... и огня. Они медленные, как ... мы... но сильные.
 §7[2/2] §2Barden: §aWe got this drill all the way from Corkus. Axelus had to pay a king's ransom to buy it, but this ought to work!@§7[2/2] §2Бардэн: §aМы получили эту дрель прямиком из Коркуса. Акселусу пришлось заплатить царский выкуп, чтобы купить ее, но это должно сработать!
-§7[1/3] §2Barden: §a...@ 
+§7[1/3] §2Barden: §a...@§7[1/3] §2Бардэн: §a...
 §7[2/3] §2Barden: §aAAAAGH! Idiot Corkus swindlers! Damn it all! How many emeralds did we waste?!@§7[2/3] §2Бардэн: §aАААГХ! Идиоты мошенники из Коркуса! Черт побери все это! Сколько эмеральдов мы потратили впустую?!
 §7[3/3] §2Barden: §aUgh, do you have any experience with machines? You might have some idea of how in the hell to fix this hunk of junk.@§7[3/3] §2Бардэн: §aУх, у тебя есть опыт работы с машинами? У тебя может быть какое-то представление о том, как, черт возьми, исправить этот кусок мусора.
 §7[2/3] §2Axelus: §aYou can take it back to the coalition base. Barden and I will need to pack up before we join you.@§7[2/3] §2Акселус: §aТы можешь забрать ее обратно на базу коалиции. Нам с Барденом нужно собраться, прежде чем мы присоединимся к вам.
@@ -99,8 +101,8 @@
 §7[3/3] §2Axelus: §aYou are free to enter the village but we will stay back and wait until the coast is clear. Keep going.@§7[3/3] §2Акселус: §aТы можешь свободно войти в деревню, но мы будем оставаться и ждать, пока все не уляжется. Продолжайте в том же духе.
 §7[1/1] §2Plario: §aWe don't §aforbid...you§a humans to be here, but please leave... We don't want §aany...unwanted§a dwarves here.@§7[1/1] §2Пларио: §aМы не запрещаем...вам, людям, находиться здесь, но, пожалуйста, уходите... Нам не нужны...нежелательные гномы здесь.
 §7[1/4] §2Plario: §aWhat §ais...that§a on §athe...cliff§a to the south?@§7[1/4] §2Пларио: §aЧто... это на... южной горе?
-§7[2/4] §2Dwarven Scout: §aHey, aren't §athose...Doguns?§a! A whole settlement...@§7[2/4] §2Dwarven Scout: §aЭй, разве это не...Догуны?! Целое поселение...
-§7[3/4] §2Dwarven Scout: §aThey've been gathering forces! We must inform Rodoroc immediately!@§7[3/4] §2Dwarven Scout: §aОни собирают силы! Мы должны немедленно сообщить в Родорок!
+§7[2/4] §2Dwarven Scout: §aHey, aren't §athose...Doguns?§a! A whole settlement...@§7[2/4] §2Скаут Гном: §aЭй, разве это не...Догуны?! Целое поселение...
+§7[3/4] §2Dwarven Scout: §aThey've been gathering forces! We must inform Rodoroc immediately!@§7[3/4] §2Скаут Гном: §aОни собирают силы! Мы должны немедленно сообщить в Родорок!
 §7[4/4] §2Plario: §aHuman. Come talk to me... Now.@§7[4/4] §2Пларио: §aЧеловек. Подойди поговорить со мной... Сейчас же.
 §7[1/6] §2Plario: §aHuman... That Dwarf, he saw us...@§7[1/6] §2Пларио: §aЧеловек... Тот гном, он видел нас...
 §7[2/6] §2Plario: §aThey §awill...destroy§a us...  If he §areports...back§a to Rodoroc.@§7[2/6] §2Пларио: §aОни нас... Уничтожат... Если он доложит... в Родорок.

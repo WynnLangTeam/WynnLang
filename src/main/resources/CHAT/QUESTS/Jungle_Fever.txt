@@ -34,8 +34,8 @@
 §7[2/2] §2The Banker: §aNow, I'm not sure how that works, but it's best to not ask any questions.@§7[2/2] §2Банкир: §aЯ не знаю, как это работает, но лучше не задавать мне вопросов.
 §7[1/1] §2Worid: §aHey! Are you done with what I asked?@§7[1/1] §2Ворид: §aЭй! Ты закончил с тем, что я просил?
 §7[1/5] §2Worid: §aGreat, you've proven your ability of stealth and strength by breaking into the storage in Detlas, we can start the real thing now.@§7[1/5] §2Ворид: §aОтлично, ты доказал свою способность к скрытности и силе, взломав хранилище в Детласе, мы можем начать настоящее дело прямо сейчас.
-§7[2/5] §2Worid: §aYou see, Almuj has a very well guarded emerald vault named "The Emerald Labyrinth".@§7[2/5] §2Ворид: §aВидишь ли, в Алмуже есть очень хорошо охраняемое хранилище эмеральдов, называемое "Эмеральдовый Лабиринт"
-§7[3/5] §2Worid: §aIt is guarded with tons of well trained Guard Golem, who can kill anyone in one hit.@§7[3/5] §2Ворид: §aТам находится очень много тренированных охранников-големов, которые могут с легкостью убить любого за один удар...
+§7[2/5] §2Worid: §aYou see, §bAlmuj has a very well guarded emerald vault§a named "The Emerald Labyrinth".@§7[2/5] §2Ворид: §aВидишь ли, §bв Алмуже есть очень хорошо охраняемое хранилище эмеральдов, называемое "Эмеральдовый Лабиринт"
+§7[3/5] §2Worid: §aIt is guarded with tons of well trained Guard Golems, who can kill anyone in one hit.@§7[3/5] §2Ворид: §aТам находится очень много тренированных охранников-големов, которые могут с легкостью убить любого за один удар...
 §7[4/5] §2Worid: §aThe Banker in the secret vault must be completely bored out of his mind, and won't mind if you find him.@§7[4/5] §2Ворид: §aБанкир в тайном хранилище должно быть скучает в одиночестве, и не будет возражать, если ты найдешь его.
 §7[5/5] §2Worid: §aGood luck with that. Haha.. I mean, *cough*.@§7[5/5] §2Ворид: §aУдачи с этим. Хаха.. То есть, *кашляет*.
 §7[1/1] §2Almuj Banker: §aYou came back to see me! How nice of you.@§7[1/1] §2Банкир: §aТы вернулся, чтобы увидеть меня! Как мило с твоей стороны.

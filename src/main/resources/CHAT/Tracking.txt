@@ -11,6 +11,8 @@
 §7Sneak around the guards in the darkness, and find a way into the vault@§7Спрячься от охранников в темноте, и найди способ попасть в хранилище
 §7Return to Doan with the [Dusty Passport]@§7Вернись к Доану с [Пыльным Паспортом]
 §7Get a Gavellian Passport at [-256,57,-4983].@§7Добудь Гавеллианский Паспорт на [-256,57,-4983].
+§7Explore the Airbase looking for clues about the Black Market.@§7Исследуй авиабазу ищя подсказки насчет Черного Рынка. 
+§7Talk to the Merchants and try to get 2000 emeralds to buy a passport.@§7Поговори с Торговцами и попытайся достать 2000 эмеральдов чтобы купить паспорт. 
 ======A_Headless_History 
 §7Talk to Hans in the Gelibord outskirts at [-1096,42,-5384]@§7Поговори с Гансом в округе Гелиборда на [-1096,42,-5384]
 §7Talk to Hans in the village next to Gelibord at [-1096,42,-5384]@§7Поговори с Гансом в деревне рядом с Гелибордом на [-1096,42,-5384]
@@ -39,7 +41,7 @@
 §7Find Aledar in the Fallen City.@§7Найди Аледара в Опустевшем Городе.
 §7Escort Aledar through the Eyeball Forest to Lutho.@§7Доставь Аледара через Лес с Глазами в Луто. 
 =====A_Journey_Further 
-§7Talk to Aledar in Lutho at [977, 75, -732]@§7Поговори с Аледаром в Луто [977, 75, -732]
+§7Talk to Aledar in Lutho at [977,75,-732]@§7Поговори с Аледаром в Луто [977,75,-732]
 §7Continue your journey with Aledar.@§7Продолжи свое путешествие с Аледаром.
 §7Use Void Holes to try and get behind the spike barrier@§7Используй Пустотные Дыры чтобы попасть за шипы
 §7Jump into the void hole.@§7Прыгни в пустотную дыру. 
@@ -346,7 +348,7 @@
 §7Test your fire based weapon on the captured creature by the tree@§7Протестируй свое огненное оружие на пойманном монстре у дерева 
 §7Bring Ragon [10 Scorched Roots] from the cave at [-132,62,-1393]@§7Принеси Рагону [10 Выжженных Корней] из пещеры на [-132,62,-1393]
 §7Find another way out of the cave@§7Найди другой выход из пещеры 
-§7Return to Ragon's camp@§7Вернись в лагерь Рагона 
+§7Return to Ragon's camp at [-80,67,-1391]@§7Вернись в лагерь Рагона на [-80,67,-1391]
 §7Trade in your fire weapon and give the [Study Results] to Ragon@§7Обменяй свое оружие на [Результаты Исследования] и отдай их Рагону 
 ======Enter_the_Dojo 
 §7Talk to Sensei Miyagi at [495,109,-5571]@§7Поговори с Сэнсей Мияги на [495,109,-5571]
@@ -410,6 +412,8 @@
 §7Talk to the Guardian of The Forest in the Light Forest at [-1128,49,-4778] (Requires completion of Taproot)@§7Поговори с Защитником Леса в Светлом Лесу на [-1128,49,-4778] (Необходимо пройти Taproot)
 §7Find Lari in the Light Forest at [-1123,46,-4771].@§7Найди Лари в Светлом Лесу на [-1123,46,-4771].
 §7Read the inscription at the bottom of the big tree.@§7Прочитай письмена внизу дерева.
+§7Use the spell on the inscription under the tree.@§7Используй заклинание на письмена под деревом. 
+§7Talk to the Elder at [-800,88,-4553]@§7Поговори со Старцем на [-800,88,-4553]
 §7Explore the secret library and find a way to wake up the tree.@§7Исследуй секретную библиотеку и найди способ разбудить дерево.
 §7Return to Lari at [-1123,46,-4771]@§7Вернись к Лари на [-1123,46,-4771]
 §7Find the Church Library in the city of Cinfras at [-469,47,-4996].@§7Найди церковную библиотеку в Цинфрасе на [-469,47,-4996]
@@ -439,6 +443,8 @@
 §7Something looks suspicious in the prison at [-829,83,-5539]@§7Что-то подозрительное происходит в тюрьме на [-829,83,-5539]
 §7Search the hallways for possible escape routes, and find a guard outfit@§7Обыщи коридоры в поисках побега, и найди наряд охранника.
 §7Talk to the Merchant at [-963,47,-5280]@§7Поговори с Торговцем на [-963,47,-5280]
+§7Find a place to sit in the cafeteria@§7Найди место куда сесть в столовой
+§7Steal the key from the warden's office, and head to the control room@§7Укради ключ из комнаты надзирателя и иди в диспетчерскую 
 ========From_the_Bottom  
 §7Find someone in Thanos who wants to buy [10 Troll Hair]@§7Найди кого-то в Таносе кто хочет купить [10 Troll Hair]
 §7Find someone in Thanos who wants to buy your [Unusual Egg]@§7Найди кого-то в Таносе кто хочет купить твое [Необычное Яйцо] 
@@ -498,7 +504,7 @@
 ======Grave_Digger 
 §7Talk to Sayleros in Detlas at [476,69,-1624]@§7Поговори с Сайлеросом в Детласе на [476,69,-1624]
 §7Find a way to make Drucksh talk in Nemract at [72, 40, -2180] about Sayleros' dead brother@§7Найди способ разговорить Дракшa в Немракте [72, 40, -2180] насчет смерти брата Сайлеросa 
-§7Talk to The Priest in the old monastery@§7Поговори со Священником в старом монастыре
+§7Talk to The Priest in the old monastery at [319, 43, -2149]@§7Поговори со Священником в старом монастыре на [319, 43, -2149]
 §7Bring [12 Rotten Flesh] to The Priest at [319, 43, -2149]@§7Принеси [12 Rotten Flesh] священнику на [319, 43, -2149]
 §7Kill Sayleros' brother to retrieve his will and bring it back to Sayleros@§7Убей брата Сайлероса, получи завещание и принеси его обратно к Сайлеросу 
 =======Green_Gloop  
@@ -561,11 +567,11 @@
 §7Return to Worid@§7Вернись к Вориду
 §7Enter Detlas' Emerald Stash at [494, 67, -1553]@§7Войди в Хранилище Эмеральдов Детласа на [494, 67, -1553]
 §7Infiltrate Almuj's Secret Emerald Labyrinth and find the Banker in the Emerald Room@§7Проникни в Секретный Эмеральдовый Лабиринт Алмужa и найди Алмуж Банкира в эмеральдовой комнате 
-§7Talk back to Worid@§7Поговори с Воридом 
+§7Talk back to Worid at [-760,79,-666]@§7Поговори с Воридом на [-760,79,-666]
 ========King%27s_Recruit  
-§7Exit the caravan@§7Покинь караван 
+§7Exit the caravan and talk to the Caravan Driver@§7Покинь караван и поговори с Караванщиком
 §7Walk down the path towards the Wynn Province@§7Пройди по дороге в сторону провинции Винн
-§7Continue through the Wynn Province to the castle@§7Пройди по дороге в сторону провинции Wynn
+§7Continue through the Wynn Province to the castle@§7Пройди по дороге в сторону провинции Винн
 §7Talk to the Soldier@§7Поговори с Солдатом
 §7Explore the Cave.@§7Исследуй пещеру
 §7Identify your item and investigate the broken bridge@§7Идентифицируй свой предмет и осмотри разрушенный мост 
@@ -717,10 +723,10 @@
 §7Confront Rohem about the murder at house #09 in Cinfras@§7Допроси Рохема насчет убийства в доме #09 в Цинфрасе
 §7Acquire the murder weapon at Rohem's room, and talk to Captain Lorias to claim your reward@§7Добудь орудие убийства в комнате Рохема, и поговори с Капитаном Лориасом, чтобы получить награду
 =====Mushroom_Man  
-§7Talk to Yahya "The Mushroom Man" in Nivla Woods at [-277,69,-1681]@§7Поговори с Яхуя "Грибной Человек" в Нивла Лесу на [-277,69,-1681]
-§7Bring back [1 Red Mushrooms] and [1 Brown Mushrooms] to Yahya at [-277,69,-1681]@§7Принеси [1 Red Mushroom] и [1 Brown Mushroom] для Яхуи на [-277,69,-1681]
-§7Bring back [3 Brown Mushrooms] and [3 Red Mushrooms] to Yahya at [-277,69,-1681]@§7Принеси [3 Brown Mushrooms] и [3 Red Mushrooms] к Яхуя на [-277,69,-1681]
-§7Bring back [1 Bowl] to Yahya at [-277,69,-1681]@§7Принеси [1 Миску] для Яхуи на [-277,69,-1681]
+§7Talk to Yahya "The Mushroom Man" in Nivla Woods at [-277,69,-1681]@§7Поговори с Яха "Грибной Человек" в Нивла Лесу на [-277,69,-1681]
+§7Bring back [1 Red Mushrooms] and [1 Brown Mushrooms] to Yahya at [-277,69,-1681]@§7Принеси [1 Red Mushroom] и [1 Brown Mushroom] для Яхи на [-277,69,-1681]
+§7Bring back [3 Brown Mushrooms] and [3 Red Mushrooms] to Yahya at [-277,69,-1681]@§7Принеси [3 Brown Mushrooms] и [3 Red Mushrooms] для Яхи на [-277,69,-1681]
+§7Bring back [1 Bowl] to Yahya at [-277,69,-1681]@§7Принеси [1 Миску] для Яхи на [-277,69,-1681]
 ======﻿One_Thousand_Meters_Under 
 §7Read the Help Wanted sign in Ahmsord at [1108,107,-4555]@§7Прочитай "Требуется Помощь" доску в Амсорде на [1108,107,-4555]
 §7Talk to The Secretary at [1121,101,-4525]@§7Поговори с Секретарем на [1121,101,-4525]
@@ -767,7 +773,7 @@
 §7Talk to Farmer Cevalus at [-749,67,-1664]@§7Поговори с Фермером Цевалусом на [-749,67,-1664]
 §7Grab [1 Crate of Rat Poison] at [-733,67,-1682] and enter the farm@§7Возьми [1 Контейнер Крысиного Яда] на [-733,67,-1682] и войди на ферму 
 §7Dump the crate of rat poison into the water resevoir on the other side of the farm at [-3669,63,-1416]@§7Вылей контейнер крысиного яда в резервуар с водой на другой стороне фермы на [-3669,63,-1416]
-§7Toggle the farm's irrigation sprinkler@§7Включи опрыскиватели на ферме 
+§7Toggle the farm's irrigation sprinkler near the entrance at [-4987,63,-1396]@§7Включи опрыскиватели на ферме около входа на [-4987,63,-1396]
 §7Exit the farm and talk to farmer Cevalus@§7Выйди с фермы и поговори с Фермером Цевалусом 
 §7Talk to Farmer Cevalus@§7Поговори с Фермером Цевалусом 
 =====Potion_Making  
@@ -844,6 +850,7 @@
 §7Report back to Nasea about the whole incident@§7Сообщи Насеа об этом инциденте 
 §7Take down the Quartron and return to Nasea with the news.@§7Уничтожь Куартрона и вернись к Насеа с новостями.
 §7Break into the laboratory and stop Harnort.@§7Вломись в лабораторию и останови Харнорта.
+§7Join Nasea at the end of the minecart track at [-1655,76,-4348]@§7Присоединись к Насеа в конце трассы вагонетки на [-1655,76,-4348]
 ======Royal_Trials 
 §7Talk to the Skyraider Guard at [1476,84,-4336]@§7Поговори со Скайрайдер Стражем на [1476,84,-4336]
 §7Talk to the Hrona at [1470,85,-4334]@§7Поговори с Хроной на [1470,85,-4334]
@@ -874,7 +881,7 @@
 §7Investigate the giant blue mushroom@§7Посети большой синий гриб
 §7Find a way to escape the cave@§7Найди способ сбежать из пещеры
 §7Find a way to escape the strange temple@§7Найди способ сбежать из странного храма
-§7Escape the wrath of Yahya@§7Сбеги от разъяренного Яхуя
+§7Escape the wrath of Yahya@§7Сбеги от разъяренного Яхи
 §7Talk to Elder Berusia@§7Поговори со Старцем Берусия 
 §7Talk to Likeru@§7Поговори с Ликеру
 §7Bring Likeru the mushrooms from the cave at [-1165,44,-5054].@§7Принеси Ликеру грибы из пещеры на [-1165,44,-5054].
@@ -900,7 +907,7 @@
 §7Explore the Light Forest.@§7Исследуй Светлый Лес.
 ======Temple_of_the_Legends
 §7Talk to Kelight at the entrance of the Temple of the Legends, close to Troms at [-693,68,-993]@§7Поговори с Келайгтом на входе в Храм Легенд, недалеко от Тромса [-693,68,-993]
-§7Bring back [1 Yahya's Stained Bowl], [1 Maltic's Recommendation Letter] and [1 Corrupted Potato] to Kelight@§7Принеси [1 Использованную Миску Яхуя], [1 Рекомендательное Письмо Малтикa], и [1 Испорченную Картошку] Келайгту 
+§7Bring back [1 Yahya's Stained Bowl], [1 Maltic's Recommendation Letter] and [1 Corrupted Potato] to Kelight@§7Принеси [1 Использованную Миску Яхи], [1 Рекомендательное Письмо Малтикa], и [1 Испорченную Картошку] Келайгту 
 §7Bring back [1 Bob's Crushed Soul], [1 Sayleros' Brother Ashes] and [1 The Mummy's Bandage] to Kelight@§7Принеси [1 Измельченную душу Бобa], [1 Прах брата Сайлероса], и [1 Бинт мумии] Келайгту
 §7Talk to Jorkin close to the Nether portal about lightdust@§7Поговори с Джоркином рядом с порталом в ад насчет светопыли 
 §7Find the lightdust cavern located around the Nether Portal@§7Найди пещеру со светопылью рядом с порталом в Ад 
@@ -972,7 +979,7 @@
 §7Talk to the chief's friend at [-1587,147,-3321].@§7Поговори с другом главаря на [-1587,147,-3321]. 
 §7Meet the grandmaster behind her house and get over the gap and enter the temple.@§7Встреться с магистром позади дома, чтобы пройти через каньон и попасть в храм 
 §7Find the key inside the temple.@§7Найди ключ внутри храма
-§7Return to Maxie in his house with the first key.@§7Вернись к Макси в его доме с первым ключем 
+§7Return to Maxie in his house with the first key at [-1571,68,-2876].@§7Вернись к Макси в его доме с первым ключем на [-1571,68,-2876].
 §7Find the vault in Corkus City at [-1498,69,-2910].@§7Найди хранилище в Коркус Сити на [-1498,69,-2910].
 §7Look for the hidden mech base.@§7Отыщи тайных роботов на базе
 §7Retrieve the key from the base.@§7Забери ключ у роботов на базе
@@ -986,6 +993,7 @@
 §7Meet Ava near Corkus City at [-1573,86,-2762]@§7Встреть Аву рядом с Коркус Сити [-1573,86,-2762]
 ======The_Feathers_Fly_Part_II
 §7Meet Ava to start the audience with the Corkian Council at [-1479,69,-2924]@§7Встреть Аву для начала аудиенции с Советом Коркуса на [-1479,69,-2924]
+§7Ask around Corkus City for a way to get an audience with the Council. Ava is at [-1615,68,-2924]@§7Распроси в Коркус Сити как попасть на аудиенцию с Советом. Ава на [-1615,68,-2924]
 =====The_Fortuneteller 
 §7Talk to Jill in Kandon-Beda at [746,150,-4468].@§7Поговори с Джилл в Кандон-Бэда на [746,150,-4468]
 §7Search the Castle near Kandon-Beda for a treasure map at [901,96,-4406].@§7Обыщи замок рядом с Кандон-Бэда и найди карту сокровищ на [901,96,-4406]
@@ -998,6 +1006,7 @@
 §7Talk to Narder at the Thesead Coal Mines at [661,78,-5070]@§7Поговори с Нардером возле угольной шахты Тесеадa на [661,78,-5070]
 §7Head to [890,47,-5388] to find the human town@§7Отправляйся на [890,47,-5388] и найди город людей
 §7Lead the Curious Villager back to his camp@§7Отведи любопытного жителя обратно в его лагерь
+§7Find a way to get the Curious Villager out of the cave@§7Найди способ вывести Любопытного Жителя из пещеры
 §7Return to the human face and inspect the loud noise@§7Вернись к человеческому лицу и исследуй громкий звук
 §7Talk to Eltom Guard@§7Поговори с Элтом Стражем 
 §7Talk to Mayor Eoric in the town hall at [932,119,-5516]@§7Поговори с Мэром Эориком в ратуше на [932,119,-5516]
@@ -1019,6 +1028,8 @@
 §7Find out what's happening in the center of Ahmsord at [1028, 112, -4544]@§7Узнай что происходит в центре Амсорда на [1028, 112, -4544]
 §7Go to the Golden Eagle Theatre behind the Bank in Ahmsord at [1119, 124, -4555] for the winners to be announced.@§7Иди в Театр Золотого Орла позади банка Амсорда [1119, 124, -4555] на объявление победителя.
 §7Travel with Siegfried on his airship at the Ahmsord airship docks at [1101, 129, -4513]@§7Следуй за Зигфридом на его дирижабль в доки Амсорда на [1101, 129, -4513]
+§7Get a Siegfried Scavenger Hunt ticket in the center of Ahmsord at [1034, 115, -4533]@§7Добудь билет Зигфрида в центре Амсорда на [1034, 115, -4533]
+§7Bring all three Limited Siegfried Collection items to the merchant in Ahmsord Center at [1034, 115, -4533]@§7Принеси все три лимитированных предмета коллекции Зигфрида к торговцу в центре Амсорда на [1034, 115, -4533]
 =======The_Hunger_of_Gerts_Part_I
 §7Talk to Cikal at [-35,68,-5413]@§7Поговори с Цикалом на [-35,68,-5413]
 §7Look around the farms near the lake Gylia@§7Осмотри фермы около озера Гилия
@@ -1129,6 +1140,7 @@
 §7Prepare to enter the Fire division@§7Подготовься к прохождению Дивизии Огня
 §7Collect 5 Fire Catalyst IV@§7Собери 5 Катализатор Огня IV
 §7Collect 5 Fire Catalyst VIII@§7Собери 5 Катализатор Огня VIII 
+§7Defeat the Solar Vanguard and collect 1 Fire Catalyst X@§7Победи Solar Vanguard и собери 1 Катализатор Огня X
 §7Prepare to enter the chambers of Mistress Qira@§7Подготовься к вхождению в камеру Госпожи Киры
 §7Talk to Yansur and truly complete the Hive Challenge@§7Поговори с Янсуром и полностью заверши Челлендж Улья
 §7Defeat Qira, Mistress of the Hive and collect 1 Master Catalyst@§7Победи Киру, Госпожу Улья и собери 1 Мастер Катализатор
@@ -1150,7 +1162,7 @@
 §7Kill the beast and return to Dereg with the three pieces of evidence of the beast's existence at [-1483,47,-5218]@§7Убей зверя и вернись к Дереку с тремя уликами-доказательствами существования зверя на [-1483,47,-5218]
 §7Gather [10 Salmon Oil] for Rileen@§7Собери [10 Жира Лосося] для Райлен
 =====The_Thanos_Vaults 
-§7Speak to Dolem at [131,2,-5295]@§7Поговори с Долемом на [131,2,-5295]
+§7Speak to Dolem at [162,6,-5176]@§7Поговори с Долемом на [162,6,-5176]
 §7Enter the secret vault in Thanos's treasure room at [153,6,-5434]@§7Войди в секретное хранилище в сокровищнице Таноса на [153,6,-5434]
 §7Collect the gold from the Thanos's secret vault@§7Собери золота из секретного хранилища Таноса
 §7Bring the gold back to Dolem@§7Принеси золото обратно Долему 
@@ -1215,8 +1227,8 @@
 §7Talk to Omango located at the North of Maltic at [-540,34,-2020]@§7Поговори с Оманго на севере от Малтикa на [-540,34,-2020]
 §7Talk to Sayrr about the Breathing Helmet@§7Поговори с Сайаром насчет Шлема Подводника 
 §7Bring back [10 Gudgeon Meat] to Sayrr@§7Принеси [10 Мяса Пескаря] Сайару
-§7Explore the crashed ship for a lost treasure@§7Исследуй разбившийся корабль в поисках сокровища 
-§7Break the crate and bring [4 Old Treasure] to Omango@§7Сломай контейнер и принеси [4 Старых Сокровища] Оманго
+§7Explore the crashed ship for a lost treasure at [-537,34,-2026]@§7Исследуй разбившийся корабль в поисках сокровища на [-537,34,-2026]
+§7Break the crate and bring [4 Old Treasure] to Omango at [-540,34,-2020]@§7Сломай контейнер и принеси [4 Старых Сокровища] Оманго на [-540,34,-2020]
 =======﻿Wrath_of_the_Mummy  
 §7Talk to Ormrod in the desert of Almuj at [979,69,-1808]@§7Поговори с Ормродом в пустыне Алмужa на [979,69,-1808]
 §7Talk to Achper in Almuj about the curse at [872,67,-1932]@§7Поговори с Ачпером в Алмуже насчет проклятия [872,67,-1932]
@@ -1299,6 +1311,8 @@
 §7Explore the basement of the decayed and barren house.@§7Исследуй подвал разрушенного и пустого дома.
 §7Investigate the alchemist's shop at [-495, 112, -4430]@§7Исследуй магазин алхимика на [-495, 112, -4430]
 §7Explore the Cave@§7Исследуй пещеру
+§7Find a way to escape through the skylight at the end of the cave.@§7Найди способ сбежать из конца пещеры через мансардное окно.
+§7Find a way to sneak into the hut.@§7Найди способ проникнуть в хижину.
 
 #########################################MINI-QUESTS##############################################
 §7Bring [15 Snow Clumps] to the Slaying Post [Combat Lv. 40] at [82,69,-725]@§7Принеси [15 Snow Clumps] к Доске Заданий [Комбат Ур. 40] на [82,69,-725]
@@ -1328,7 +1342,7 @@
 §7Bring [20 Silver Feathers] to the Slaying Post [Combat Lv. 97] at [1123,141,-4436]@§7Принеси [20 Silver Feathers] к Доске Заданий [Комбат Ур. 97] на [1123,141,-4436]
 §7Bring [25 Holy Powders] to the Slaying Post [Combat Lv. 98] at [1005,118,-4790]@§7Принеси [25 Holy Powders] к Доске Заданий [Комбат Ур. 98] на [1005,118,-4790]
 §7Bring [15 Dragonling Scales] to the Slaying Post [Combat Lv. 99] at [1348,124,-4470]@§7Принеси [15 Dragonling Scales] к Доске Заданий [Комбат Ур. 99] на [1348,124,-4470]
-§7Bring [24 Fluffy Fur] to the Slaying Post [Combat Lv. 88] at [135,53,-4399]@§7Принеси [24 Fluffy Fur] к Доске Заданий [Комбат Ур. 88] на [135,53,-4399]
+§7Bring [24 Fluffy Fur] to the Slaying Post [Combat Lv. 88] at [139,58,-4399]@§7Принеси [24 Fluffy Fur] к Доске Заданий [Комбат Ур. 88] на [139,58,-4399]
 §7Bring [15 Arcane Anomalies] to the Slaying Post [Combat Lv. 75] at [-677,42,-4948]@§7Принеси [15 Arcane Anomalies] к Доске Заданий [Комбат Ур. 75] на [-677,42,-4948]
 §7Bring [22 Myconid Spores] to the Slaying Post [Combat Lv. 73] at [-984,42,-4637]@§7Принеси [22 Myconid Spores] к Доске Заданий [Комбат Ур. 73] на [-984,42,-4637]
 §7Bring [12 Oak Wood] or [12 Oak Paper] to the Gathering Post [Woodcutting Lv. 8] at [-433,67,-1591]@§7Принеси [12 Древесины Дуба] или [12 Дубовой Бумаги] к Доске Сбора [Лесорубство Ур. 8] на [-433,67,-1591]
@@ -1343,11 +1357,14 @@
 §7Bring [12 Gudgeon Oil] or [12 Gudgeon Meat] to the Gathering Post [Fishing Lv. 8] at [-637,67,-1558]@§7Принеси [12 Жира Пескаря] или [12 Мяса Пескаря] к Доске Сбора [Рыболовство Ур. 8] на [-637,67,-1558]
 §7Bring [14 Trout Oil] or [14 Trout Meat] to the Gathering Post [Fishing Lv. 18] at [53,60,-1547]@§7Принеси [14 Жира Форели] или [14 Мяса Форели] к Доске Сбора [Рыболовство Ур. 18] на [53,60,-1547]
 §7Bring [16 Salmon Oil] or [16 Salmon Meat] to the Gathering Post [Fishing Lv. 23] at [220,34,-2131]@§7Принеси [16 Жира Лосося] §7или [16 Мяса Лосося] §7к Доске Сбора [Рыболовство Ур. 23] на [220,34,-2131]
+§7Bring [24 Salmon Oil] or [24 Salmon Meat] to the Gathering Post [Fishing Lv. 28] at [371,35,-2114]@§7Принеси [24 Жира Лосося] §7или [24 Мяса Лосося] §7к Доске Сбора [Рыболовство Ур. 28] на [371,35,-2114]
 §7Bring [20 Malt String] or [20 Malt Grains] to the Gathering Post [Farming Lv. 33] at [1280,77,-1981]@§7Принеси [20 Солодовых Нитей] или [20 Солодовых Зерен] к Доске Сбора [Земледелие Ур. 33] на [1280,77,-1981]
 §7Bring [30 Malt String] or [30 Malt Grains] to the Gathering Post [Farming Lv. 38] at [1427,88,-1607]@§7Принеси [30 Солодовых Нитей] или [30 Солодовых Зерен] к Доске Сбора [Земледелие Ур. 38] на [1427,88,-1607]
 §7Bring [20 Carp Oil] or [20 Carp Meat] to the Gathering Post [Fishing Lv. 33] at [1317,74,-1838]@§7Принеси [20 Жира Карпа] или [20 Мяса Карпа] к Доске Заданий [Рыболовство Ур. 33] на [1317,74,-1838]
+§7Bring [30 Carp Oil] or [30 Carp Meat] to the Gathering Post [Fishing Lv. 38] at [1070,30,-1423]@§7Принеси [30 Жира Карпа] или [30 Мяса Карпа] к Доске Заданий [Рыболовство Ур. 38] на [1070,30,-1423]
 §7Bring [14 Granite Ingots] or [14 Granite Gems] to the Gathering Post [Mining Lv. 18] at [-879,111,-1330]@§7Принеси [14 Гранитных Слитков] или [14 Гранитных Камней] к §aДоске Заданий [Добыча Руды Ур. 18] на [-879,111,-1330]
 §7Bring [20 Sandstone Ingots] or [20 Sandstone Gems] to the Gathering Post [Mining Lv. 33] at [1162,75,-1849]@§7Принеси [20 Песчаных Слитков] или [20 Песчаных Камней] к Доске Заданий [Добыча Руды Ур. 33] на [1162,75,-1849]
+§7Bring [30 Sandstone Ingots] or [30 Sandstone Gems] to the Gathering Post [Mining Lv. 38] at [1444,88,-2211]@§7Принеси [30 Песчаных Слитков] или [30 Песчаных Камней] к Доске Заданий [Добыча Руды Ур. 38] на [1444,88,-2211]
 §7Bring [36 Molten Ingots] or [36 Molten Gems] to the Gathering Post [Mining Lv. 91] at [1229,20,-5470]@§7Принеси [36 Молтен Слитков] или [36 Молтен Камней] к Доске Сбора [Добыча Руды Ур. 91] на [1229,20,-5470]
 §7Bring [48 Molten Ingots] or [48 Molten Gems] to the Gathering Post [Mining Lv. 93] at [1394,68,-5609]@§7Принеси [48 Молтен Слитков] или [48 Молтен Камней] к Доске Сбора [Добыча Руды Ур. 93] на [1394,68,-5609]
 §7Bring [52 Molten Ingots] or [52 Molten Gems] to the Gathering Post [Mining Lv. 96] at [1352,155,-5171]@§7Принеси [52 Молтен Слитка] или [52 Молтен Камня] к Доске Сбора [Добыча Руды Ур. 96] на [1352,155,-5171]
@@ -1372,8 +1389,10 @@
 §7Bring [24 Spruce Wood] or [24 Spruce Paper] to the Gathering Post [Woodcutting Lv. 43] at [46,67,-813]@§7Принеси [24 Древесины Ели] или [24 Еловой Бумаги] к Доске Сбора [Лесорубство Ур. 43] на [46,67,-813]
 §7Bring [36 Spruce Wood] or [36 Spruce Paper] to the Gathering Post [Woodcutting Lv. 48] at [-175,66,-923]@§7Принеси [36 Древесины Ели] или [36 Еловой Бумаги] к Доске Заданий [Лесорубство Ур. 48] на [-175,66,-923]
 §7Bring [24 Hops String] or [24 Hops Grains] to the Gathering Post [Farming Lv. 43] at [-1557,50,-4987]@§7Принеси [24 Хмельных Нитей] или [24 Хмельных Зерен] к Доске Сбора [Земледелие Ур. 43] на [-1557,50,-4987]
+§7Bring [36 Hops String] or [36 Hops Grains] to the Gathering Post [Farming Lv. 48] at [-1793,54,-4938]@§7Принеси [36 Хмельных Нитей] или [36 Хмельных Зерен] к Доске Сбора [Земледелие Ур. 48] на [-1793,54,-4938]
 §7Bring [28 Piranha Oil] or [28 Piranha Meat] to the Gathering Post [Fishing Lv. 53] at [-667,62,-637]@§7Принеси [28 Жира Пираньи] или [28 Мяса Пираньи] к Доске Сбора [Рыболовство Ур. 53] на [-667,62,-637]
 §7Bring [24 Icefish Oil] or [24 Icefish Meat] to the Gathering Post [Fishing Lv. 43] at [84,66,-921]@§7Принеси [24 Жира Щуки] или [24 Мяса Щуки] к Доске Заданий [Рыболовство Ур. 43] на [84,66,-921]
+§7Bring [36 Icefish Oil] or [36 Icefish Meat] to the Gathering Post [Fishing Lv. 48] at [868,39,-3369]@§7Принеси [36 Жира Щуки] или [36 Мяса Щуки] к Доске Заданий [Рыболовство Ур. 48] на [868,39,-3369]
 §7Bring [28 Rye String] or [28 Rye Grains] to the Gathering Post [Farming Lv. 53] at [-2191,59,-5416]@§7Принеси [28 Ржаных Нитей] или [28 Ржаных Зерен] к Доске Сбора [Земледелие Ур. 53] на [-2191,59,-5416]
 §7Bring [42 Rye String] or [42 Rye Grains] to the Gathering Post [Farming Lv. 58] at [-1903,56,-5278]@§7Принеси [42 Ржаных Нити] или [42 Ржаного Зерна] к Доске Сбора [Земледелие Ур. 58] на [-1903,56,-5278]
 §7Bring [36 Koi Oil] or [36 Koi Meat] to the Gathering Post [Fishing Lv. 63] at [-831,23,-410]@§7Принеси [36 Жира Сазана] или [36 Мяса Сазана] к Доске Заданий [Рыболовство Ур. 63] на [-831,23,-410]

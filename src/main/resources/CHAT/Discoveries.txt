@@ -153,8 +153,7 @@
 §7[9/11] §2Almighty Hashr: §aMy father was mortal like us all. His power came from this sceptre. He is a false God.@§7[9/11] §2Всемогущий Хашр: §aМой отец был смертным, как и мы все. Его сила исходила от этого скипетра. Он - ложный Бог. 
 §7[10/11] §2Almighty Hashr: §aNow I will be able to rule- Wait, what's happening..?@§7[10/11] §2Всемогущий Хашр: §aТеперь я смогу править - Подождите, что происходит..? 
 §7[11/11] §2Almighty Hashr: §aDo you hear that? What did my father do to himself?!@§7[11/11] §2Всемогущий Хашр: §aТы слышишь это? Что мой отец сделал с собой?! 
-§7[1/2] §2???: §aYou are not of the old empire... Not one of those who forced me in here.@§7[1/2] §2???: §aТы не из старой империи... Ни один из тех, кто запечатал меня здесь.
-§7[2/2] §2???: §aWhy do you take arms against me? I only tried to save my people from my father!@§7[2/2] §2???: §aПочему ты ополчился против меня? Я только пытался спасти свой народ от отца!
+
 
 #######################Bak'al's Destruction 2######################
 §7[1/4] §2Town Guard: §aHas everyone gotten to safety?@§7[1/4] §2Страж Города: §aВсе дошли до безопасного места?
@@ -293,13 +292,14 @@
 §7[5/8] §2Fisherman: §aThat thing sure does look weird... Never seen anything like it before!@§7[5/8] §2Рыбак: §aЭта штука действительно выглядит странно... Никогда не видел ничего подобного!
 §7[6/8] §2Fisherman: §aArgh, can't people just leave this river alone already?@§7[6/8] §2Рыбак: §aНеужели люди уже не могут просто оставить эту реку в покое?
 §7[7/8] §2Fisherman: §aThey just keep throwing trash into this river... Hasn't the decay already done enough work? Even the kappas don't bother fishing here.@§7[7/8] §2Рыбак: §aОни просто продолжают выбрасывать мусор в эту реку... Разве заражение уже не сделало достаточно работы для этого? Даже мифические каппы не утруждают себя здесь ловлей рыбы.
-§7[8/8] §2Fisherman: §aWhatever man, you won. I hope this thingamajig can deal as a price. I got nothing better and it looks cool enough.@§7[8/8] §2Рыбак: §aВ любом случае, ты победил. Надеюсь, что эта штуковина может чего-то стоить. У меня нет ничего лучше, а она выглядит достаточно круто.
+§7[8/8] §2Fisherman: §aWhatever man, you won. I hope this thingamajig can deal as a prize. I got nothing better and it looks cool enough.@§7[8/8] §2Рыбак: §aВ любом случае, ты победил. Надеюсь, что эта штуковина сойдет за приз. У меня нет ничего лучше, а она выглядит достаточно круто.
 §7[1/1] §2Fisherman: §aHey, hey! No jumping in the water!@§7[1/1] §2Рыбак: §aЭй, эй! Не прыгать в воду!
 §7[1/1] §2Fisherman: §aHah! I knew that you would run away! No one can beat the greatest fisher that has ever lived!@§7[1/1] §2Рыбак: §aХа! Я знал, что ты убежишь! Никто не может победить величайшего рыбака, который когда-либо жил!
 §7[1/1] §2Fisherman: §aNow come on! Get yourself a fishing rod from the inside!@§7[1/1] §2Рыбак: §aА теперь пошли! Достань себе удочку изнутри!
 §7[1/3] §2Fisherman: §aHuh, did you finish already? Ahaa! Let's see then...@§7[1/3] §2Рыбак: §aХа, ты уже закончил? Ага! Тогда посмотрим...
 §7[2/3] §2Fisherman: §aAhhah, I can see that you haven't managed to beat me.@§7[2/3] §2Рыбак: §aАххах, я вижу, что тебе не удалось победить меня.
 §7[3/3] §2Fisherman: §aWhatever. You lost, and nobody can beat me anyways!@§7[3/3] §2Рыбак: §aНу все. Ты проиграл, и никто не может победить меня в любом случае!
+§7[2/3] §2Fisherman: §aAhhah, you didn't even get a single fish! Hilarious.@§7[2/3] §2Рыбак: §aАххах, ты даже не поймал ни одной рыбы! Забавно.
 
 #############################At the Edge of Decay################################
 §7[1/11] §2???: §aI could stare at this map for hours, you know. It's like staring into the past.@§7[1/11] §2???: §aЯ могу смотреть на эту карту в течение нескольких часов, знаешь ли. Это все равно что заглянуть в прошлое.
@@ -466,7 +466,7 @@
 §7[1/7] §2Phoenix Poacher: §aAha! There it is. A Phoenix Egg. This'll fetch a high price.@§7[1/7] §2Феникс Браконьер: §aАга! Вот оно. Яйцо Феникса. За него придется заплатить высокую цену.
 §7[2/7] §2Phoenix Poacher: §aGot it! Gosh, that's heavy.@§7[2/7] §2Феникс Браконьер: §aДостал! Боже, какая тяжесть.
 §7[3/7] §2Phoenix Poacher: §aYou there, back away and pretend like this never happened.@§7[3/7] §2Феникс Браконьер: §aТы там, отойди и притворись, что этого никогда не было.
-§7[1/1] §2Phoenix Poacher: §aGood, he didn't follow... §b§oI'll be back for more soon...@§7[1/1] §2Феникс Браконьер: §aХорошо, что он не последовал за мной... §b§oЯ скоро вернусь за добавкой...
+§7[1/1] §2Phoenix Poacher: §aGood, they didn't follow... §b§oI'll be back for more soon...@§7[1/1] §2Феникс Браконьер: §aХорошо, что он не последовал за мной... §b§oЯ скоро вернусь за добавкой...
 §7[4/7] §2Phoenix Poacher: §aHey, why are you following me?! Knock it off!@§7[4/7] §2Феникс Браконьер: §aЭй, почему ты преследуешь меня?! Прекрати это!
 §7[5/7] §2Phoenix Poacher: §aSeriously, creep, you need to go away.@§7[5/7] §2Феникс Браконьер: §aСерьезно, гад, тебе нужно уйти.
 §7[6/7] §2Phoenix Poacher: §aGET THE HELL AWAY FROM ME!!@§7[6/7] §2Феникс Браконьер: §aУБИРАЙСЯ ОТ МЕНЯ К ЧЕРТОВОЙ МАТЕРИ!!
@@ -486,6 +486,7 @@
 §7[1/3] §2Dogun Merchant: §aYou see this fine selection of frozen Doguns behind me?@§7[1/3] §2Догун Торговец: §aТы видишь этот прекрасный выбор замороженных догунов позади меня?
 §7[2/3] §2Dogun Merchant: §aThat's what happens when you douse a Dogun in water. They're still alive, though. Just in §a§oexquisite§a agony.@§7[2/3] §2Догун Торговец: §aВот что происходит, когда вы используете Догуна в воде. Но они все еще живы. Просто в §a§oизысканной§a агонии.
 §7[3/3] §2Dogun Merchant: §aHowever, when we pour lava on them, they unfreeze. Well, they scream. Well, both, actually.@§7[3/3] §2Догун Торговец: §aОднако когда мы льем на них лаву, они размораживаются. А еще, они кричат. Ну, вообще, и то и другое.
+§7[1/1] §2Phoenix Poacher: §aAhah! I lost them!@§7[1/1] §2Феникс Браконьер: §aАга! Я потерял их!
 
 #############################Sealed in Ice################################
 §7[1/4] §2Dogun: §a...Am§a I... alive...?@§7[1/4] §2Догун: §a...Я...жив...?
@@ -542,6 +543,7 @@
 §7[3/3] §2Festival Goer: §aThere must be a way to open it. All those patterns have to mean something, right?@§7[3/3] §2Посетитель Фестиваля: §aДолжен быть способ открыть его. Все эти узоры должны что-то значить, верно?
 
 #############################Clock Mistery################################
+§7[1/2] §2Retired Clockmaker: §aOh, you're back! Have you found the key?@§7[1/2] §2Отставной Часовщик: §aОх, вы вернулись! Нашли ключ?
 §7[1/4] §2Retired Clockmaker: §aHm? Oh, hello. May I help you? A clock? Hm, no, I haven't been in the business for quite some time. My apologies.@§7[1/4] §2Отставной Часовщик: §aХм? Ох, здраствуйте. Могу я вам чем-нибудь помочь? Часы? Хм, нет, я уже довольно давно не занимаюсь этим бизнесом. Мои извинения.
 §7[2/4] §2Retired Clockmaker: §aThough... I suppose if you'd like to take a look at the remains of my work, I can allow that. Let me just find...@§7[2/4] §2Отставной Часовщик: §aХотя... Полагаю, если вы хотите взглянуть на остатки моей работы, я могу это позволить. Дайте мне только найти...
 §7[3/4] §2Retired Clockmaker: §aAh. My basement key appears to have gone missing. Well, I do remember having it on me this morning, so it can't have gone far.@§7[3/4] §2Отставной Часовщик: §aАх. Мой ключ от подвала, кажется, пропал. Ну, я помню, что он был у меня сегодня утром, так что исчез он совсем недавно.
@@ -569,6 +571,11 @@
 §7[3/5] §2Bulbo: §aThe information... the noise... it's too much and too fast, my mind cannot handle it! I'm becoming mad!@§7[3/5] §2Бульбо: §aИнформация... шум... он слишком сильный и слишком быстрый, мой разум не может с ним справиться! Я начинаю сходить с ума!
 §7[4/5] §2Bulbo: §aI beg of you... You must take it, human. Do with it what you will, but I simply cannot stand it's presence any longer!@§7[4/5] §2Бульбо: §aУмоляю тебя... Ты должен принять их, человек. Делай с ним что хочешь, но я просто не могу больше выносить их присутствия!
 §7[5/5] §2Bulbo: §a... Thank you, human. Now... if you would, please leave... I can't stand that damned thing's presence.@§7[5/5] §2Бульбо: §a... Спасибо тебе, человек. А теперь... пожалуйста, уходи... Я не выношу присутствия этой проклятой вещи.
+§7[1/5] §2Salesman: §a... Oh! You're back! I hope your trinkets are serving you well!@§7[1/5] §2Торговец: §a... Ох! Вы вернулись! Надеюсь, ваши безделушки хорошо вам служат!
+§7[2/5] §2Salesman: §aBroken? No, I don't believe it was broken. Two emerald blocks was more than a fair price for that item.@§7[2/5] §2Торговец: §aСломались? Нет, я не верю, что они былы сломаны. Два эмеральдных блока были более чем справедливой ценой за этот предмет.
+§7[3/5] §2Salesman: §a... Alright! Alright, fine. My no refund policy still stands, though, human. So don't try pulling anything, okay?@§7[3/5] §2Торговец: §a... Хорошо! Ладно, ладно. Однако моя политика отказа от возврата денег все еще остается в силе, человек. Так что не пытайся ничего из меня вытянуть, окей?
+§7[4/5] §2Salesman: §aHow about this. I'll give you a discount on any future purchases, and in exchange... you leave me alone! Deal?@§7[4/5] §2Торговец: §aКак насчет этого? Я дам тебе скидку на любые будущие покупки, а в обмен... ты оставишь меня в покое! Договорились?
+§7[5/5] §2Salesman: §aExcellent! I'm glad we could sort this out in a reasonable manner, human.@§7[5/5] §2Торговец: §aОтлично! Я рад, что мы смогли разобраться с этим разумным образом, человек.
 
 #############################Desolate Temples################################
 §7[1/5] §2Deranged Swordsman: §aHEY! Who the hell are you, huh?@§7[1/5] §2Сумасшедший Мечник: §aЭЙ! Ты кто черт возьми такой?

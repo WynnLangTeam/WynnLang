@@ -7743,7 +7743,6 @@ Spyrr@
 Sugar@ 
 The Leech Spear@ 
 Birch Wood Relik@ 
-Water Bucket@ 
 Golden Shovel@ 
 Ведро@ 
 Дубовые доски@ 
@@ -10363,7 +10362,6 @@ Acidic Sludge@
 §f§lSouth Farmers ValleyÀ@ 
 §f§lNorth Farmers ValleyÀ@ 
 §f§lEfilim East PlainsÀ@ 
-Map PieceÀÀÀ@ 
 §fFlawless Light Jungle Dagger@ 
 §fFlawless Granite Wand@ 
 §fFlawless Light Birch Wand@ 
@@ -10972,7 +10970,6 @@ Frost Chunk@
 §fSpruce Wood WandÀ@ 
 §fLight Birch Wood DaggerÀ@ 
 §dThoracicÀ@ 
-Bucket@ 
 §cHomeorhesis@ 
 Powder Snow@ 
 §fFlawless Stone DaggerÀ@ 
@@ -11037,8 +11034,6 @@ Effervescence@
 Ice Mask@ 
 Muskeg@ 
 §l§6[>] Select SHAFT1337@ 
-Prismarine Gadget@ 
-Stone Shovel@ 
 Magic Infused Oak@ 
 §fAndesite-Hewn RelikÀ@ 
 §dDetective's RingÀ@ 
@@ -11051,7 +11046,6 @@ Black Concrete Powder@
 §fJungle Wood DaggerÀ@ 
 §fBirch Wood DaggerÀ@ 
 §fFlawless Stone WandÀ@ 
-Map PieceÀÀ@ 
 §eBalloon's BaneÀ@ 
 §dThunder Relic Relik@ 
 §fFlawless Light Birch WandÀ@ 
@@ -11159,7 +11153,6 @@ Celestial@
 Cold Snap@ 
 Gold BarÀ@ 
 §dRaging WindÀ@ 
-Fishing Rod@ 
 Prismarine GadgetÀ@ 
 §fStone-Hewn RelikÀ@ 
 §dAir Relic Relik@ 
@@ -11980,3 +11973,1980 @@ Boreal@
 §cNordic Dagger@ 
 §cNordic Crossbow@ 
 §cNordic Staff@ 
+§7§l64x §3Repair ScrapÀ@ 
+§7§l1x §dSoul SignalÀ@ 
+§7§l1x §dDark ChannelerÀ@ 
+§7§l1x §bMementoÀ@ 
+§7§l1x §aAdventurer's CapÀ@ 
+§fPotion Swirl Effect@ 
+§fEmerald Swirl Effect@ 
+§fRedstone Swirl Effect@ 
+§fCloud Swirl Effect@ 
+§7§l1x §dFortitudeÀ@ 
+§fx15§7 Stone@ 
+§fx15§7 Granite@ 
+§fx15§7 Stone Bricks@ 
+§fx8§7 Gold Ore@ 
+§fx15§7 Sand@ 
+§fx15§7 Red Sand@ 
+§fx15§7 Cracked Stone Bricks@ 
+§fx15§7 Cobblestone@ 
+§fx8§7 Polished Granite@ 
+§fx15§7 Dark Stone Bricks@ 
+§fx15§7 Sandstone@ 
+§fx15§7 Red Sandstone@ 
+§fx8§7 Chiseled Stone Bricks@ 
+§fx15§7 Dark Stone@ 
+§fx15§7 Andesite@ 
+§fx15§7 Stone Bricks Slab@ 
+§fx15§7 Bricks@ 
+§fx8§7 Smooth Sandstone@ 
+§fx8§7 Smooth Red Sandstone@ 
+§fx15§7 Dark Cracked Stone Bricks@ 
+§fx15§7 Dark Cobblestone@ 
+§fx8§7 Polished Andesite@ 
+§fx15§7 Stone Brick Stairs@ 
+§fx15§7 Brick Stairs@ 
+§fx8§7 Chiseled Sandstone@ 
+§fx8§7 Chiseled Red Sandstone@ 
+§fx8§7 Dark Chiseled Stone Bricks@ 
+§fx15§7 Cobblestone Slab@ 
+§fx15§7 Diorite@ 
+§fx8§7 Coal Ore@ 
+§fx15§7 Stone Slab@ 
+§fx15§7 Sandstone Stairs@ 
+§fx15§7 Red Sandstone Stairs@ 
+§fx8§7 Iron Ore@ 
+§fx15§7 Cobblestone Stairs@ 
+§fx8§7 Polished Diorite@ 
+§fx15§7 Dark Cobblestone Slab@ 
+§fx15§7 Sandstone Slab@ 
+§fx15§7 Red Sandstone Slab@ 
+§fx15§7 Mossy Cobblestone@ 
+§fx15§7 Prismarine@ 
+§fx8§7 Diamond Ore@ 
+§fx15§7 Nether Brick@ 
+§fx15§7 Block of Quartz@ 
+§fx8§7 Obsidian@ 
+§fx15§7 Mossy Dark Stone Bricks@ 
+§fx15§7 Prismarine Bricks@ 
+§fx15§7 Netherrack@ 
+§fx8§7 Quartz Pillar@ 
+§fx15§7 Mossy Stone Bricks@ 
+§fx15§7 Dark Prismarine@ 
+§fx8§7 Emerald Ore@ 
+§fx15§7 Nether Brick Stairs@ 
+§fx8§7 Chiseled Quartz Block@ 
+§fx15§7 Red Nether Brick@ 
+§fx8§7 Lapis Lazuli Ore@ 
+§fx8§7 Sea Lantern@ 
+§fx15§7 Nether Brick Slab@ 
+§fx15§7 Quartz Stairs@ 
+§fx15§7 Ice@ 
+§fx8§7 Redstone Ore@ 
+§fx8§7 Quartz Ore@ 
+§fx15§7 Quartz Slab@ 
+§fx15§7 End Stone Bricks@ 
+§fx8§7 Packed Ice@ 
+§fx15§7 End Stone@ 
+§fx8§7 Glowstone@ 
+§7§l1x §aStaff of the Dark VexationsÀ@ 
+§7§l1x §aMorph-TopazÀ@ 
+§fx15§7 Red Wool@ 
+§fx15§7 Purple Wool@ 
+§fx15§7 Light Grey Wool@ 
+§fx15§7 Red Stained Glass@ 
+§fx15§7 Purple Stained Glass@ 
+§fx15§7 Orange Wool@ 
+§fx15§7 Magenta Wool@ 
+§fx15§7 Grey Wool@ 
+§fx15§7 Orange Stained Glass@ 
+§fx15§7 Magenta Stained Glass@ 
+§fx15§7 Yellow Wool@ 
+§fx15§7 Pink Wool@ 
+§fx15§7 Black Wool@ 
+§fx15§7 Yellow Stained Glass@ 
+§fx15§7 Pink Stained Glass@ 
+§fx15§7 Light Blue Wool@ 
+§fx15§7 Lime Wool@ 
+§fx15§7 White Wool@ 
+§fx15§7 Ladder@ 
+§fx15§7 Cobblestone Wall@ 
+§fx15§7 Light Blue Stained Glass@ 
+§fx15§7 Lime Stained Glass@ 
+§fx15§7 Cyan Wool@ 
+§fx15§7 Green Wool@ 
+§fx8§7 Oak Trapdoor@ 
+§fx8§7 Mossy Cobblestone Wall@ 
+§fx15§7 Cyan Stained Glass@ 
+§fx15§7 Green Stained Glass@ 
+§fx15§7 Blue Wool@ 
+§fx15§7 Brown Wool@ 
+§fx15§7 Flower Pot@ 
+§fx15§7 Blue Stained Glass@ 
+§fx15§7 Brown Stained Glass@ 
+§fx15§7 Light Grey Stained Glass@ 
+§fx15§7 Red Stained Glass Pane@ 
+§fx15§7 Purple Stained Glass Pane@ 
+§fx15§7 Light Grey Stained Glass Pane@ 
+§fx15§7 Red Terracotta@ 
+§fx15§7 Purple Terracotta@ 
+§fx15§7 Light Grey Terracotta@ 
+§fx15§7 Grey Stained Glass@ 
+§fx15§7 Orange Stained Glass Pane@ 
+§fx15§7 Magenta Stained Glass Pane@ 
+§fx15§7 Grey Stained Glass Pane@ 
+§fx15§7 Orange Terracotta@ 
+§fx15§7 Magenta Terracotta@ 
+§fx15§7 Grey Terracotta@ 
+§fx15§7 Black Stained Glass@ 
+§fx15§7 Yellow Stained Glass Pane@ 
+§fx15§7 Pink Stained Glass Pane@ 
+§fx15§7 Black Stained Glass Pane@ 
+§fx15§7 Yellow Terracotta@ 
+§fx15§7 Pink Terracotta@ 
+§fx15§7 Black Terracotta@ 
+§fx15§7 White Stained Glass@ 
+§fx15§7 Light Blue Stained Glass Pane@ 
+§fx15§7 Lime Stained Glass Pane@ 
+§fx15§7 White Stained Glass Pane@ 
+§fx15§7 Light Blue Terracotta@ 
+§fx15§7 Lime Terracotta@ 
+§fx15§7 White Terracotta@ 
+§fx15§7 Glass@ 
+§fx15§7 Cyan Stained Glass Pane@ 
+§fx15§7 Green Stained Glass Pane@ 
+§fx15§7 Glass Pane@ 
+§fx15§7 Cyan Terracotta@ 
+§fx15§7 Green Terracotta@ 
+§fx8§7 Torch@ 
+§fx15§7 Blue Stained Glass Pane@ 
+§fx15§7 Brown Stained Glass Pane@ 
+§fx15§7 Blue Terracotta@ 
+§fx15§7 Brown Terracotta@ 
+§fx15§7 Red Concrete Powder@ 
+§fx15§7 Purple Concrete Powder@ 
+§fx15§7 Light Grey Concrete Powder@ 
+§fx15§7 Red Concrete@ 
+§fx15§7 Purple Concrete@ 
+§fx15§7 Light Grey Concrete@ 
+§fx15§7 Red Glazed Terracotta@ 
+§fx15§7 Orange Concrete Powder@ 
+§fx15§7 Magenta Concrete Powder@ 
+§fx15§7 Grey Concrete Powder@ 
+§fx15§7 Orange Concrete@ 
+§fx15§7 Magenta Concrete@ 
+§fx15§7 Grey Concrete@ 
+§fx15§7 Orange Glazed Terracotta@ 
+§fx15§7 Yellow Concrete Powder@ 
+§fx15§7 Pink Concrete Powder@ 
+§fx15§7 Black Concrete Powder@ 
+§fx15§7 Yellow Concrete@ 
+§fx15§7 Pink Concrete@ 
+§fx15§7 Black Concrete@ 
+§fx15§7 Yellow Glazed Terracotta@ 
+§fx15§7 Light Blue Concrete Powder@ 
+§fx15§7 Lime Concrete Powder@ 
+§fx15§7 White Concrete Powder@ 
+§fx15§7 Light Blue Concrete@ 
+§fx15§7 Lime Concrete@ 
+§fx15§7 White Concrete@ 
+§fx15§7 Light Blue Glazed Terracotta@ 
+§fx15§7 Cyan Concrete Powder@ 
+§fx15§7 Green Concrete Powder@ 
+§fx15§7 Cyan Concrete@ 
+§fx15§7 Green Concrete@ 
+§fx15§7 Cyan Glazed Terracotta@ 
+§fx15§7 Blue Concrete Powder@ 
+§fx15§7 Brown Concrete Powder@ 
+§fx15§7 Blue Concrete@ 
+§fx15§7 Brown Concrete@ 
+§fx15§7 Blue Glazed Terracotta@ 
+§fx15§7 Purple Glazed Terracotta@ 
+§fx15§7 Light Grey Glazed Terracotta@ 
+§fx15§7 Magenta Glazed Terracotta@ 
+§fx15§7 Grey Glazed Terracotta@ 
+§fx15§7 Pink Glazed Terracotta@ 
+§fx15§7 Black Glazed Terracotta@ 
+§fx8§7 End Portal Frame@ 
+§fx15§7 Lime Glazed Terracotta@ 
+§fx15§7 White Glazed Terracotta@ 
+§fx15§7 Green Glazed Terracotta@ 
+§fx15§7 Brown Glazed Terracotta@ 
+§fx15§7 Grass Block@ 
+§fx15§7 Coarse Dirt@ 
+§fx15§7 Clay@ 
+§fx8§7 Acacia Leaves@ 
+§fx8§7 Spruce Leaves@ 
+§fx8§7 Jungle Leaves@ 
+§fx8§7 Dark Oak Leaves@ 
+§fx15§7 Dirt@ 
+§fx8§7 Birch Leaves@ 
+§fx15§7 Gravel@ 
+§fx8§7 Acacia Sapling@ 
+§fx8§7 Spruce Sapling@ 
+§fx8§7 Jungle Sapling@ 
+§fx8§7 Dark Oak Sapling@ 
+§fx8§7 Dirt Slab@ 
+§fx8§7 Birch Sapling@ 
+§fx8§7 Red Tulip@ 
+§fx8§7 Cactus@ 
+§fx15§7 Snow@ 
+§fx8§7 Tall Grass@ 
+§fx8§7 Allium@ 
+§fx8§7 Oak Sapling@ 
+§fx8§7 Poppy@ 
+§fx8§7 Orange Tulip@ 
+§fx8§7 Azure Bluet@ 
+§fx8§7 Blue Orchid@ 
+§fx8§7 Large Fern@ 
+§fx8§7 Oak Leaves@ 
+§fx8§7 Dandelion@ 
+§fx8§7 White Tulip@ 
+§fx8§7 Oxeye Daisy@ 
+§fx8§7 Vines@ 
+§fx8§7 Grass@ 
+§fx8§7 Fern@ 
+§fx8§7 Pink Tulip@ 
+§fx8§7 Cobweb@ 
+§fx15§7 Podzol@ 
+§7§l1x §dDetective's RingÀ@ 
+§fx8§7 Oak Wood@ 
+§fx8§7 Birch Wood@ 
+§fx8§7 Acacia Wood@ 
+§fx8§7 Spruce Wood@ 
+§fx8§7 Jungle Wood@ 
+§fx8§7 Dark Oak Wood@ 
+§fx15§7 Oak Planks@ 
+§fx15§7 Birch Planks@ 
+§fx15§7 Acacia Planks@ 
+§fx15§7 Spruce Planks@ 
+§fx15§7 Jungle Planks@ 
+§fx15§7 Dark Oak Planks@ 
+§fx8§7 Oak Stairs@ 
+§fx8§7 Birch Stairs@ 
+§fx8§7 Acacia Stairs@ 
+§fx8§7 Spruce Stairs@ 
+§fx8§7 Jungle Stairs@ 
+§fx8§7 Dark Oak Stairs@ 
+§fx15§7 Oak Slab@ 
+§fx15§7 Birch Slab@ 
+§fx15§7 Acacia Slab@ 
+§fx15§7 Spruce Slab@ 
+§fx15§7 Jungle Slab@ 
+§fx15§7 Dark Oak Slab@ 
+§fx8§7 Oak Fence@ 
+§fx8§7 Birch Fence@ 
+§fx8§7 Acacia Fence@ 
+§fx8§7 Spruce Fence@ 
+§fx8§7 Jungle Fence@ 
+§fx8§7 Dark Oak Fence@ 
+§7§l1x §aMorph-EmeraldÀ@ 
+§7§l1x §dKarraskaÀ@ 
+§7§l1x §fHard Leather LeggingsÀ@ 
+Dark Ambience@ 
+Sparklock@ 
+§7§l1x §dShadow SpearÀ@ 
+§7§l1x §bSageÀ@ 
+§7§l1x §6DecrepitÀÀÀSewers KeyÀ@ 
+§7§l1x §bAnchorylÀ@ 
+§7§l1x §dThe Euphoric FedoraÀ@ 
+§fx8§7 Sky Wood Log@ 
+§fx15§7 Sky Wood Planks@ 
+§fx8§7 Sky Wood Stairs@ 
+§fx15§7 Sky Wood Slab@ 
+§fx8§7 Barrel@ 
+§7§l1x §bSawdustÀ@ 
+§7§l1x §bAsphyxiaÀ@ 
+§7§l1x §bConflagrateÀ@ 
+§fPure Light Spruce DaggerÀ@ 
+§7§l1x §cUranium AegisÀ@ 
+§fStone-Hewn DaggerÀ@ 
+§7§l1x §bThanos IronstaffÀ@ 
+§7§l2x §bPotion of Mana§3 [2/2]À@ 
+§7§l1x §dRaecardÀ@ 
+§6§lGrand YouthÀ@ 
+§6Corrupted Dagger@ 
+§7§l1x §dKing of HeartsÀ@ 
+§7§l1x §bGiant's BracerÀ@ 
+§7§l1x §eValixÀ@ 
+§7§l1x §fDiorite-Hewn WandÀ@ 
+§7§l1x §bPelierÀ@ 
+§7§l1x §eOzoth's BreathÀ@ 
+§7§l1x §dRycar's SwaggerÀ@ 
+§7§l1x §eFoam BracerÀ@ 
+§7§l1x §eSteel BracerÀ@ 
+§7§l1x §aPigman Battle HammerÀ@ 
+§7§l1x §bCorkian Amplifier IÀ@ 
+§7§l1x §fBrown HorseÀ@ 
+§7§l1x §fWorn Golden BootsÀ@ 
+§7§l1x §bNecrosisÀ@ 
+§fx15§7 Mycelium@ 
+§fx15§7 Soul Sand@ 
+§fx8§7 Red Mushroom@ 
+§fx8§7 Brown Mushroom@ 
+§fx8§7 Dead Bush@ 
+§fx8§7 Nether Wart@ 
+§7§l1x §bBulldozerÀ@ 
+§7§l1x §6LostÀÀÀSanctuary KeyÀ@ 
+§7§l1x §dSandstormÀ@ 
+§7§l1x §bAlternatorÀ@ 
+Veekhat's Horns@ 
+§7§l1x §dStressÀ@ 
+§7§l1x §eTreasure BootsÀ@ 
+§7§l1x §6FallenÀÀÀFactory KeyÀ@ 
+Prestidigitation@ 
+§f§lMineGnom@ 
+§f§lezprincess@ 
+§f§l_Grysha31_@ 
+§f§lJaBk4_@ 
+§f§lFaralones@ 
+§f§lSkatislav@ 
+§f§lreal_DannyDevito@ 
+§f§lZeksterP@ 
+§7§l1x §bOmnitread BootsÀ@ 
+§7§l1x §dPsychoruinÀ@ 
+§7§l1x §6InfestedÀÀÀPit KeyÀ@ 
+§7§l1x §aAdventurer's TunicÀ@ 
+§7§l1x §bAudacityÀ@ 
+§7§l1x §bRekkrÀ@ 
+§7§l1x §dButter KnifeÀ@ 
+§7§l1x §bWinter's EssenceÀ@ 
+§7§l1x §bDiscoÀ@ 
+§7§l1x §dVoodooÀ@ 
+§7§l1x §bReticenceÀ@ 
+§7§l1x §dDiamond DustÀ@ 
+§7§l1x §dBurning PantsÀ@ 
+§7§l4x §6InfestedÀÀÀPit KeyÀ@ 
+§7§l1x §bLargoÀ@ 
+§eCyanineÀ@ 
+§7§l1x §dJolt of InspirationÀ@ 
+§7§l1x §bThe DivideÀ@ 
+§7§l1x §bCancer֎À@ 
+§fFlawless Spruce WandÀ@ 
+§7§l1x §dAdrenalineÀ@ 
+§7§l1x §6Galleon'sÀÀÀGraveyard KeyÀ@ 
+§7§l1x §bBlossomÀ@ 
+§7§l1x §bGiant StepÀ@ 
+§7§l1x §bAlmuj's WalkerÀ@ 
+§7§l1x §eYangÀ@ 
+§7§l1x §bLibraÀ@ 
+§7§l1x §bStratosphereÀ@ 
+§7§l1x §bHetusolÀ@ 
+§7§l1x §cDouble VisionÀ@ 
+§7§l1x §cNighthawkÀ@ 
+§7§l1x §bDetlas' LegacyÀ@ 
+§7§l1x §dPinÀ@ 
+§7§l1x §bBough of FirÀ@ 
+§7§l1x §bDiabloÀ@ 
+§7§l1x §dWaist ApronÀ@ 
+§7§l1x §bIron KnuckleÀ@ 
+§7§l1x §bSnakeroot BowÀ@ 
+§7§l1x §bDislocaterÀ@ 
+§7§l1x §bCapricornÀ@ 
+§7§l1x §eStaminaÀ@ 
+§7§l1x §bNemract's RuinÀ@ 
+§7§l1x §eCharm of the LeechÀ@ 
+§7§l1x §aJester NecklaceÀ@ 
+§7§l1x §dParadigm ShiftÀ@ 
+§7§l1x §dMonk's Battle StaffÀ@ 
+§7§l4x §aPotion of §f❋ Agility§a [2/2]À@ 
+§7§l2x §aPotion of §b❉ Intelligence§a [2/2]À@ 
+§7§l1x §bVenisonÀ@ 
+§7§l1x §dEnzan's Lucky CharmÀ@ 
+§7§l1x §fLight Spruce Wood SpearÀ@ 
+Storm Brewer@ 
+§7§l1x §bMummy's RagÀ@ 
+§7§l1x §bClusterÀ@ 
+§7§l1x §aMorph-StardustÀ@ 
+§7§l1x §bBuster BracerÀ@ 
+§7§l1x §cBlind ThrustÀ@ 
+§7§l1x §bAhmsord Teleport ScrollÀ@ 
+§7§l1x §dEmbersÀ@ 
+§7§l1x §fPure Light Spruce DaggerÀ@ 
+§7§l1x §bLegendary SmasherÀ@ 
+§7§l1x §eEquilibriumÀ@ 
+§7§l1x §ePanoramaÀ@ 
+§7§l1x §bPsion MarkerÀ@ 
+§7§l1x §bIgnitionÀ@ 
+§7§l1x §dDofotriÀ@ 
+§7§l1x §dUnholy WandÀ@ 
+§7§l1x §bDeracineÀ@ 
+§7§l2x §6UnderworldÀÀÀCrypt KeyÀ@ 
+§7§l1x §aAdventurer's BootsÀ@ 
+§7§l1x §dKaleidoscopeÀ@ 
+§7§l1x §bAlizarinÀ@ 
+§7§l1x §dSequencerÀ@ 
+§7§l1x §bProcrastinationÀ@ 
+§7§l1x §dAjaxÀ@ 
+§7§l1x §eSteel Toed BootsÀ@ 
+§7§l1x §fBrilliant Diamond BootsÀ@ 
+§7§l1x §eDeath's ToeÀ@ 
+§7§l1x §eRetina ShooterÀ@ 
+§fFlawless Light Jungle WandÀ@ 
+§7§l1x §dAir Relic WandÀ@ 
+§7§l1x §eMud LeggingsÀ@ 
+§fWhite Wybel Token@ 
+§fWitch Brew Effect@ 
+§fCloud Attack Effect@ 
+§fPig Disguise@ 
+§fMagic Swirl Effect@ 
+§fSlime Effect@ 
+§fSmoke Swirl Effect@ 
+Entanglement@ 
+§7§l1x §bThird EyeÀ@ 
+§7§l1x §fDiorite-Hewn SpearÀ@ 
+§7§l1x §fAged Golden HelmetÀ@ 
+§7§l1x §bRarityÀ@ 
+§7§l1x §bSteamjet WalkersÀ@ 
+§7§l1x §dWybel Carved RelikÀ@ 
+§7§l1x §bDownfallÀ@ 
+§7§l1x §cDragon's Eye BraceletÀ@ 
+§7§l1x §aMorph-AmethystÀ@ 
+§7§l1x §bThe Berserker's HelmÀ@ 
+§7§l1x §bPlanet HealerÀ@ 
+§eAerolia BootsÀ@ 
+§7§l1x §6UnderworldÀÀÀCrypt KeyÀ@ 
+§7§l1x §dBlindblightÀ@ 
+§7§l1x §bAdamantiteÀ@ 
+§7§l1x §dElectrocharge GreavesÀ@ 
+§7§l1x §cMirror's EdgeÀ@ 
+§7§l1x §bBad WolfÀ@ 
+§7§l1x §bHexed AmuletÀ@ 
+§fStone-Hewn BowÀ@ 
+§7§l1x §bThe BerserkÀ@ 
+§7§l1x §dPhospheneÀ@ 
+§7§l1x §eQuasarÀ@ 
+§fChocolate Wybel Token@ 
+§7§l1x §bThunderboltÀ@ 
+§6Sky Blue Wybel Token@ 
+§7§l1x §dSkien's ParanoiaÀ@ 
+§7§l1x §ePebble MeshÀ@ 
+§7§l5x §bAlmuj Teleport ScrollÀ@ 
+§7§l1x §dCrustaceanÀ@ 
+§7§l1x §eSkeleton's BoneÀ@ 
+§7§l1x §eLed BalloonÀ@ 
+§7§l1x §dScalpelÀ@ 
+§7§l1x §eLockpickÀ@ 
+§7§l1x §bMeanderthalÀ@ 
+§7§l1x §5WarchiefÀ@ 
+§7§l1x §dAzure HaloÀ@ 
+§7§l1x §bCascadeÀ@ 
+§7§l1x §dDeliriumÀ@ 
+§7§l1x §eGreat CharmÀ@ 
+§7§l1x §dVitiumÀ@ 
+§7§l1x §dMesosphereÀ@ 
+§7§l1x §bOld Keeper's RingÀ@ 
+§7§l1x §dSupernovaÀ@ 
+§7§l1x §dSmoldering ApronÀ@ 
+§7§l1x §4Broken CorruptedÀÀÀIceÀÀÀBarrows KeyÀ@ 
+§7§l3x §4Broken CorruptedÀÀÀIceÀÀÀBarrows KeyÀ@ 
+§7§l4x §2Tol RuneÀ@ 
+§7§l1x §cVindicatorÀ@ 
+§7§l2x §2Tol RuneÀ@ 
+§7§l1x §cGalloping SpursÀ@ 
+§7§l20x §3Uth RuneÀ@ 
+§7§l1x §bGrillfaceÀ@ 
+§7§l1x §ePierced HelmetÀ@ 
+§fGray Wybel Token@ 
+§7§l1x §dOrmrod's IsolationÀ@ 
+§7§l1x §bDarkiron ZweihanderÀ@ 
+§7§l1x §bMolotovÀ@ 
+§7§l1x §aBandit's KnuckleÀ@ 
+§7§l1x §dWhiteÀ@ 
+Adrenaline@ 
+§7§l1x §bChaleurÀ@ 
+§7§l1x §dAce of SpadesÀ@ 
+§7§l1x §dTribal FluteÀ@ 
+§7§l1x §bTsunamiÀ@ 
+§7§l1x §aMorph-GoldÀ@ 
+§7§l1x §dCalamaro's StaffÀ@ 
+§7§l1x §cBlossom HazeÀ@ 
+§7§l1x §bAmadeusÀ@ 
+§7§l1x §bOutrageÀ@ 
+§7§l1x §dDark Mage RobesÀ@ 
+§7§l1x §bSkin PiercerÀ@ 
+§7§l1x §ePetrified StickÀ@ 
+§7§l1x §bBridge of the DivideÀ@ 
+§7§l1x §eThe Brain SmasherÀ@ 
+§7§l1x §bCall of the VoidÀ@ 
+§7§l1x §bUndertowÀ@ 
+Changeling's Chestplate@ 
+§7§l1x §bHaqherphixÀ@ 
+§7§l1x §bThe LeveeÀ@ 
+§7§l1x §bWintergreenÀ@ 
+§7§l1x §eEaterÀ@ 
+§7§l5x §bDungeon Teleport ScrollÀ@ 
+§7§l1x §dMuskegÀ@ 
+§7§l1x §fTanned Leather LeggingsÀ@ 
+§7§l1x §eRefractionÀ@ 
+§7§l46x §3Repair ScrapÀ@ 
+§7§l1x §bSoundwaveÀ@ 
+§7§l1x §bHarwrolÀ@ 
+§7§l1x §bImpulseÀ@ 
+§7§l1x §bAerokinesisÀ@ 
+§7§l1x §bKnucklebonesÀ@ 
+§7§l1x §bGeyserÀ@ 
+§7§l1x §bClairvoyanceÀ@ 
+§7§l1x §bMeikyo ShisuiÀ@ 
+§7§l1x §bOdysseyÀ@ 
+§7§l1x §ePrecisionÀ@ 
+§7§l1x §dQuartron's EyeÀ@ 
+§7§l1x §aOutlaw BootsÀ@ 
+§7§l1x §6Sand-SweptÀÀÀTomb KeyÀ@ 
+§7§l1x §aBony CircletÀ@ 
+§7§l1x §cEyes on AllÀ@ 
+§7§l1x §dCulexÀ@ 
+§7§l1x §bStalagmitesÀ@ 
+§7§l1x §eVampire StickÀ@ 
+§7§l1x §eFireflyÀ@ 
+§7§l1x §dBlack VeilÀ@ 
+§7§l1x §2Tol RuneÀ@ 
+§7§l1x §dKelight's GauntletÀ@ 
+§7§l1x §bChimaeraÀ@ 
+§7§l1x §bGlacial CrestÀ@ 
+§7§l1x §3Repair ScrapÀ@ 
+§7§l1x §bChained PixelsÀ@ 
+Equalizer@ 
+§7§l1x §aUltramarine CapeÀ@ 
+§7§l1x §aUltramarine CrownÀ@ 
+§7§l1x §fShining Golden HelmetÀ@ 
+§7§l1x §aUltramarine BootsÀ@ 
+§7§l1x §dNarima PasukanÀ@ 
+§fImpeccable Light Jungle WandÀ@ 
+§7§l1x §dRottenÀ@ 
+§7§l1x §bHoly GreavesÀ@ 
+§7§l1x §dCherufeÀ@ 
+§7§l1x §eSilhouetteÀ@ 
+§7§l1x §eBow of RetributionÀ@ 
+§7§l1x §bYumeÀ@ 
+§7§l1x §bPulsarÀ@ 
+§7§l1x §eOkitÀ@ 
+§7§l1x §dBalankiaÀ@ 
+§7§l1x §dRed Ko RhuÀ@ 
+§7§l1x §eCrossÀ@ 
+§7§l1x §dRiverflowÀ@ 
+§7§l1x §dDark DiademÀ@ 
+§7§l1x §bCircuit BusterÀ@ 
+§7§l1x §dRouletteÀ@ 
+§7§l1x §4Broken CorruptedÀÀÀDecrepitÀÀÀSewers KeyÀ@ 
+§7§l1x §fWorn Golden ChestplateÀ@ 
+§7§l1x §eDeath GrowlÀ@ 
+§7§l1x §dDevotionÀ@ 
+§7§l1x §bErratioÀ@ 
+§7§l1x §dHelm of DarknessÀ@ 
+§7§l1x §4Broken CorruptedÀÀÀInfestedÀÀÀPit KeyÀ@ 
+§7§l1x §fHard Leather CapÀ@ 
+§7§l1x §fPadded Leather LeggingsÀ@ 
+§7§l1x §fLight Spruce Wood WandÀ@ 
+§7§l1x §bStorm BrewerÀ@ 
+§7§l3x §4Nii RuneÀ@ 
+§7§l5x §4Nii RuneÀ@ 
+§7§l1x §dKickbackÀ@ 
+§7§l1x §bDarkiron ScrapÀ@ 
+§7§l1x §ePigman's LoinclothÀ@ 
+§7§l1x §eSpiked CleatsÀ@ 
+§7§l1x §eTepid PlateÀ@ 
+§7§l8x §2Tol RuneÀ@ 
+§7§l1x §aSpore ShortswordÀ@ 
+§7§l1x §bBovine KillerÀ@ 
+§7§l1x §bHungerÀ@ 
+§7§l1x §dNesaak SnowshoesÀ@ 
+§7§l10x §2Tol RuneÀ@ 
+§7§l1x §eThe Head RipperÀ@ 
+§7§l2x §4Broken CorruptedÀÀÀDecrepitÀÀÀSewers KeyÀ@ 
+§7§l1x §bConcentrationÀ@ 
+§7§l1x §dMidnight BellÀ@ 
+§7§l1x §bConductorÀ@ 
+§7§l1x §bKratkeÀ@ 
+§7§l1x §bShine SuffocatorÀ@ 
+§7§l1x §bInfluenceÀ@ 
+§7§l1x §dUmbrella HatÀ@ 
+§7§l1x §bCave InÀ@ 
+§5Toxoplasmosis@ 
+§7§l1x §eSound of SilenceÀ@ 
+§7§l1x §bBlackÀ@ 
+§7§l1x §dFlummoxÀ@ 
+§7§l1x §dAtlasÀ@ 
+§7§l1x §eKickersÀ@ 
+§7§l1x §fStudded Leather BootsÀ@ 
+§7§l1x §dAlmuj TurbanÀ@ 
+§bAnxiolytic@ 
+§cPanic Zealot@ 
+§7§l1x §bSonicboomÀ@ 
+§7§l1x §dFrenzied MockeryÀ@ 
+§7§l1x §eBow of WisdomÀ@ 
+§7§l1x §dFrozen BrookÀ@ 
+§dPink Wybel Token@ 
+§7§l3x §2Tol RuneÀ@ 
+§7§l1x §eSalienceÀ@ 
+§7§l1x §eThe ChapelÀ@ 
+§7§l1x §dEvalachÀ@ 
+§6§lFlight in DistressÀ@ 
+§7§l5x §6DecrepitÀÀÀSewers KeyÀ@ 
+§7§l1x §fSpruce Wood BowÀ@ 
+§7§l1x §bScorpionÀ@ 
+§7§l1x §bShinesparkÀ@ 
+§7§l1x §bLemon LegsÀ@ 
+§7§l1x §aMorph-IronÀ@ 
+§7§l1x §dMedicoÀ@ 
+§7§l1x §4Broken CorruptedÀÀÀLostÀÀÀSanctuary KeyÀ@ 
+§7§l1x §5ToxoplasmosisÀ@ 
+§7§l1x §bAncient WandÀ@ 
+§7§l2x §6InfestedÀÀÀPit KeyÀ@ 
+§7§l1x §bCorkian Amplifier IIÀ@ 
+§7§l1x §bEffervescenceÀ@ 
+§fLetter Attack Effect@ 
+§7§l1x §dAnthracite BallistaÀ@ 
+§7§l1x §cTime RiftÀ@ 
+§7§l1x §bCorkusÀÀÀCity Teleport ScrollÀ@ 
+§7§l1x §eMoonbeamÀ@ 
+§7§l1x §eProsto BootsÀ@ 
+§7§l1x §dThunder Relic WandÀ@ 
+§7§l1x §bAphoticÀ@ 
+§7§l1x §eCollier TunicÀ@ 
+§7§l1x §eButter HelmetÀ@ 
+§7§l1x §dVirtuosoÀ@ 
+§6§lIce NationsÀ@ 
+§7§l1x §dFar CosmosÀ@ 
+Frenzied Mockery@ 
+Hero's End@ 
+§7§l1x §dRagni FatiguesÀ@ 
+§7§l1x §eHelmet of WisdomÀ@ 
+§6§lStar Thief֎À@ 
+§7§l1x §fDepressing ShearsÀ@ 
+§7§l1x §dCerid's PrecisionÀ@ 
+§7§l1x §bEruptionÀ@ 
+§7§l1x §bFissureÀ@ 
+§7§l1x §dVoleurÀ@ 
+§7§l1x §dDiorite BootsÀ@ 
+§7§l1x §eHelm of the DeadÀ@ 
+§7§l1x §dCharon's Left ArmÀ@ 
+§7§l1x §bRed CandleÀ@ 
+§7§l1x §dTarnkappeÀ@ 
+§7§l1x §bSpiritshockÀ@ 
+§7§l1x §cSecond WindÀ@ 
+§7§l4x §4Broken CorruptedÀÀÀSand-SweptÀÀÀTomb KeyÀ@ 
+§7§l1x §dAdmiral's AegisÀ@ 
+§7§l12x §3Uth RuneÀ@ 
+§7§l1x §dFernÀ@ 
+§7§l1x §bThe Visionary's ViceÀ@ 
+§7§l1x §5GrimtrapÀ@ 
+§7§l1x §5ArchangelÀ@ 
+§7§l1x §bDemon TideÀ@ 
+§7§l1x §bFenmaskÀ@ 
+§7§l1x §bBooster PlateÀ@ 
+§7§l40x §3Repair ScrapÀ@ 
+§7§l1x §dThoracicÀ@ 
+§7§l2x §6Galleon'sÀÀÀGraveyard KeyÀ@ 
+§7§l1x §aPotion of §c✹ Defence§a [2/2]À@ 
+§7§l1x §aPotion of §2✤ Strength§a [2/2]À@ 
+§7§l1x §6Potion of WisdomÀ@ 
+§7§l1x §bOpulenityÀ@ 
+§fJungle Wood WandÀ@ 
+§7§l1x §bPotion of Mana§3 [2/2]À@ 
+§7§l1x §cPotion of Healing§4 [3/3]À@ 
+Flawless Andesite Stick@ 
+§7§l1x §eCopper-Alloy BootsÀ@ 
+§7§l1x §eRagni's SpearÀ@ 
+§7§l1x §eDigested DaggerÀ@ 
+§fx15§7 Red Carpet@ 
+§fx15§7 Purple Carpet@ 
+§fx15§7 Light Grey Carpet@ 
+§fx15§7 Orange Carpet@ 
+§fx15§7 Magenta Carpet@ 
+§fx15§7 Grey Carpet@ 
+§fx15§7 Yellow Carpet@ 
+§fx15§7 Pink Carpet@ 
+§fx15§7 Black Carpet@ 
+§fx15§7 Light Blue Carpet@ 
+§fx15§7 Lime Carpet@ 
+§fx15§7 White Carpet@ 
+§fx15§7 Cyan Carpet@ 
+§fx15§7 Green Carpet@ 
+§fx15§7 Blue Carpet@ 
+§fx15§7 Brown Carpet@ 
+§fx8§7 Sign@ 
+§fx2§7 Iron Door@ 
+§7§l1x §bGale's ForceÀ@ 
+§7§l1x §bIron StringÀ@ 
+§7§l1x §eYahya's Nail ClipperÀ@ 
+§7§l1x §bDizzy SpellÀ@ 
+§cx2 Nordic Crossbow@ 
+§4Frosty Spear@ 
+§7§l1x §bNeolithicÀ@ 
+§7§l1x §eChlorineÀ@ 
+§fEmerald Attack Effect@ 
+§7§l1x §eGoliathÀ@ 
+§7§l1x §eVerstandÀ@ 
+§7§l1x §bMesarock ArchÀ@ 
+§7§l1x §fChestnut HorseÀ@ 
+§7§l1x §bSagittariusÀ@ 
+§7§l1x §dEarthlinkÀ@ 
+§7§l1x §dFire Relic WandÀ@ 
+§7§l1x §dStarglassÀ@ 
+§7§l1x §bPiscesÀ@ 
+§7§l1x §eFlux and FlowÀ@ 
+§7§l1x §bStellarÀ@ 
+§dFire Relic RelikÀ@ 
+§7§l1x §aUltramarine BeltÀ@ 
+§7§l1x §dCrystal ThornÀ@ 
+§7§l1x §bEtherealÀ@ 
+§7§l1x §bThe EndÀ@ 
+§7§l1x §bOctober FiresÀ@ 
+§7§l1x §eTearsÀ@ 
+§7§l1x §eIce BandÀ@ 
+§7§l1x §dOysterÀ@ 
+§7§l1x §fJungle Wood BowÀ@ 
+§7§l1x §dGenerator AmuletÀ@ 
+§7§l1x §dThe TravelerÀ@ 
+§7§l2x §3Repair ScrapÀ@ 
+§7§l1x §dWater Relic BowÀ@ 
+§7§l1x §dFire Relic BowÀ@ 
+§7§l1x §eGreen HelmetÀ@ 
+§7§l1x §eReflectionÀ@ 
+§7§l1x §bCage of BonesÀ@ 
+§7§l1x §dGlaciateÀ@ 
+§7§l1x §bAliezÀ@ 
+§7§l2x §6DecrepitÀÀÀSewers KeyÀ@ 
+§7§l1x §aAdventurer's PantsÀ@ 
+§7§l1x §bCrackshotÀ@ 
+§7§l1x §dSkien's MadnessÀ@ 
+§7§l1x §dThe Queen's HeadpieceÀ@ 
+§7§l1x §dCarvel's SightÀ@ 
+§7§l3x §bPotion of Mana§3 [2/2]À@ 
+§7§l1x §5IdolÀ@ 
+§7§l1x §dArcanicÀ@ 
+§7§l1x §dCarvel's CreationÀ@ 
+§7§l1x §bLittle InfernoÀ@ 
+§7§l1x §dWybel Tooth DaggerÀ@ 
+§7§l4x §6DecrepitÀÀÀSewers KeyÀ@ 
+§7§l1x §fBlack HorseÀ@ 
+§7§l1x §eHero's BeginningÀ@ 
+§7§l1x §dMonk's CowlÀ@ 
+§7§l1x §fBrilliant Diamond LeggingsÀ@ 
+Scylla Shell@ 
+§7§l1x §dForgottenÀ@ 
+§7§l1x §eNightmailÀ@ 
+§dTornado Effect@ 
+§7§l1x §eThe Old King's CrownÀ@ 
+§7§l1x §dTechnicolor PhaseÀ@ 
+§7§l1x §eZombie HelmÀ@ 
+§7§l1x §eArmageddonÀ@ 
+§7§l1x §bNemract's RageÀ@ 
+§7§l1x §bBlessed WrappingsÀ@ 
+§7§l1x §5BorealÀ@ 
+§7§l1x §dExionÀ@ 
+§7§l1x §dProgÀ@ 
+§7§l1x §dGestationÀ@ 
+§7§l1x §dEarthsky EquinoxÀ@ 
+§7§l1x §dEmerald KnifeÀ@ 
+§7§l1x §eTwist BandÀ@ 
+§7§l1x §eZhight Beaded BroachÀ@ 
+§7§l1x §eAldorei's Training BowÀ@ 
+§7§l1x §dAlumiaÀ@ 
+§7§l1x §6EldritchÀÀÀOutlook KeyÀ@ 
+§7§l1x §bOhms' WishÀ@ 
+§7§l1x §eWindowframeÀ@ 
+§7§l1x §eSteel SabreÀ@ 
+§7§l1x §eLeggings of the HaltÀ@ 
+§7§l1x §dWalking StickÀ@ 
+§7§l1x §fReinforced Iron LeggingsÀ@ 
+§7§l1x §bReaper of SoulÀ@ 
+§7§l1x §eSquidword's ClarinetÀ@ 
+§7§l1x §5WarpÀ@ 
+Eater@ 
+Secret@ 
+§7§l1x §dDreamcloudÀ@ 
+Digested Dagger@ 
+Reflex@ 
+Puppet Master@ 
+§dZombie Horse Cloak@ 
+§7§l1x §dKelight's ToothbrushÀ@ 
+§7§l1x §dMeltokÀ@ 
+§eUpgraded Orc MaskÀ@ 
+§7§l1x §eSano's CareÀ@ 
+§7§l1x §dRoaming ThiefÀ@ 
+§7§l1x §dScale of SeiryuÀ@ 
+§7§l1x §eAlbakayaÀ@ 
+§f§lodaving45@ 
+§7§lodawing@ 
+§7§l1x §dRagon's BraceletÀ@ 
+§7§l1x §dStrikerÀ@ 
+§7§l1x §fGranite-Hewn WandÀ@ 
+§7§l1x §eWitherStringÀ@ 
+§7§l1x §fDepressing BowÀ@ 
+§7§l1x §fDepressing StickÀ@ 
+§7§l1x §dPhilophobiaÀ@ 
+§7§l1x §bStabsandÀ@ 
+§7§l1x §eLithiumÀ@ 
+§7§l1x §fImpeccable Light Jungle WandÀ@ 
+§7§l1x §dHamsey's BrillianceÀ@ 
+Sano's Care@ 
+§7§l1x §eStave of TributeÀ@ 
+§7§l12x §6InfestedÀÀÀPit KeyÀ@ 
+§7§l1x §bPuppet MasterÀ@ 
+§7§l1x §bDark ShroudÀ@ 
+§fImpeccable Granite WandÀ@ 
+§7§l1x §dBreath of the DragonÀ@ 
+§7§l1x §dSkeletal LegsÀ@ 
+§7§l1x §bSeven-League BootsÀ@ 
+§7§l1x §bBob's Mythic WandÀ@ 
+§7§l1x §dDern's DesolationÀ@ 
+§7§l1x §eAneroidÀ@ 
+§7§l1x §eWillpowerÀ@ 
+Panda King?s CrownÀ@ 
+§7§l1x §dDravardenÀ@ 
+§7§l1x §dPhantom BladeÀ@ 
+§7§l1x §dPhantasmagoriaÀ@ 
+§7§l1x §bMagnet RepulsorÀ@ 
+§7§l1x §bVawardÀ@ 
+§7§l1x §dJavelinÀ@ 
+§7§l1x §eMelangeÀ@ 
+§7§l1x §dMist BladeÀ@ 
+§7§l1x §eAmisciaÀ@ 
+§7§l1x §bKatoa's WarmthÀ@ 
+§7§l1x §dPhilophiliaÀ@ 
+§7§l1x §dParadiseÀ@ 
+§7§l1x §dLeictreach MakaniÀ@ 
+§7§l1x §cAbrasionÀ@ 
+§7§l1x §dGolden EmbraceÀ@ 
+§7§l1x §aBandit's LocketÀ@ 
+§7§l1x §dThe Brigand's BroguesÀ@ 
+§7§l1x §dFog of CreationÀ@ 
+§7§l1x §bWaves RaiserÀ@ 
+§7§l1x §aSpore CapÀ@ 
+Oak Wood Boat@ 
+Noun@ 
+Krakem@ 
+Decay Burner@ 
+§7§l1x §dBlack MaskÀ@ 
+Griswold's Edge@ 
+§7§l1x §eBoots of the SorcererÀ@ 
+§7§l16x §3Repair ScrapÀ@ 
+§fAndesite-Hewn DaggerÀ@ 
+Vitriol@ 
+Gavel's Memory@ 
+Red@ 
+Flawless Oak Spear@ 
+Granite-hewn Bow@ 
+Scarab Husk@ 
+Red Candle@ 
+§7§l1x §bChakramÀ@ 
+Midnight Bell@ 
+§7§l1x §dInterferenceÀ@ 
+§7§l1x §aLeaf TunicÀ@ 
+§7§l1x §dPhrygianÀ@ 
+§fPure Diorite WandÀ@ 
+§7§l1x §bMasterÀ@ 
+§7§l1x §aMorph-SteelÀ@ 
+§7§l1x §bRelicÀ@ 
+§7§l1x §eThe WildwingÀ@ 
+§7§l1x §eGreen PerfectionÀ@ 
+§7§l1x §dSlothÀ@ 
+§7§l1x §eSalamanderÀ@ 
+§7§l1x §eNymeriaÀ@ 
+§7§l1x §eHertzÀ@ 
+§7§l1x §dAncient Battle CrossbowÀ@ 
+§7§l1x §eSprinterÀ@ 
+§7§l1x §eToes TicklerÀ@ 
+§7§l1x §fLight Oak Wood BowÀ@ 
+§7§l1x §eNativitateÀ@ 
+§7§l1x §dCelestialÀ@ 
+§7§l1x §eJikeÀ@ 
+§7§l1x §fUnfinished Chain BootsÀ@ 
+§eXyloidÀ@ 
+§7§l1x §dDark AmbienceÀ@ 
+§7§l1x §dSoarfaeÀ@ 
+§7§l200x §3Repair ScrapÀ@ 
+Dissector@ 
+The Divide@ 
+§7§l1x §dPendant of ProsperityÀ@ 
+§7§l1x §eHotheadÀ@ 
+§7§l1x §bJiandan HandwrapsÀ@ 
+§7§l1x §dTraceÀ@ 
+§7§l1x §dTizatukoÀ@ 
+§7§l1x §fAged Golden ChestplateÀ@ 
+§7§l1x §bCloudburstÀ@ 
+§7§l2x §6FallenÀÀÀFactory KeyÀ@ 
+§7§l1x §eBoulderÀ@ 
+§7§l1x §fStudded Leather LeggingsÀ@ 
+§7§l1x §dGypsumÀ@ 
+§7§l1x §bRemikas' RighteousnessÀ@ 
+§7§l1x §bSkyfallÀ@ 
+§7§l1x §bLodestoneÀ@ 
+§7§l1x §bGlareÀ@ 
+§7§l1x §bPerun's CrownÀ@ 
+§7§l1x §eSextantÀ@ 
+§7§l1x §dBubbleÀ@ 
+§7§l1x §cScarlet VeilÀ@ 
+Dragon Fang@ 
+§7§l1x §bWavelengthÀ@ 
+§7§l1x §dGeisÀ@ 
+§7§l1x §dGreaves of HonorÀ@ 
+Photon@ 
+Infinity@ 
+Bob's Mythic Bow@ 
+§7§l1x §dPraesidiumÀ@ 
+§7§l1x §dLeadlightsÀ@ 
+§7§l1x §dParadoxÀ@ 
+§7§l1x §ePetrichorÀ@ 
+§7§l1x §cOrnithopterÀ@ 
+§7§l1x §dMinorÀ@ 
+§fx2 Redstone Swirl Effect@ 
+§7§l1x §dRidgeÀ@ 
+§7§l1x §eBedrock EaterÀ@ 
+§7§l1x §dAlligatorÀ@ 
+§7§l1x §bRagni Teleport ScrollÀ@ 
+§7§l1x §bFracturedÀ@ 
+§7§l1x §eAnvil CrawlerÀ@ 
+§7§l1x §bTaurusÀ@ 
+§7§l1x §eCalidade MailÀ@ 
+§7§l1x §eFounderÀ@ 
+§7§l1x §bGeminiÀ@ 
+§7§l1x §bNemract Boat PassÀ@ 
+§7§l1x §dEuthanasiaÀ@ 
+§7§l1x §bAnchor ChainÀ@ 
+§7§l1x §dBroken HarpÀ@ 
+§7§l1x §bDragon's TongueÀ@ 
+§7§l1x §bPrismÀ@ 
+§7§l1x §dSpeakerÀ@ 
+§7§l1x §dCloak of LuminosityÀ@ 
+§7§l1x §dPsychomend VestÀ@ 
+§7§l1x §aKaerynn's BodyÀ@ 
+§7§l1x §dSeagazerÀ@ 
+§7§l2x §bSelchar Boat PassÀ@ 
+§7§l1x §bMercury BombÀ@ 
+§7§l1x §dCypressÀ@ 
+§7§l1x §dMarius' LamentÀ@ 
+§7§l1x §eShin GuardsÀ@ 
+§7§l1x §bCold IntegrityÀ@ 
+§7§l1x §dEnsa's IdealsÀ@ 
+§7§l1x §bCruel SunÀ@ 
+§7§l1x §dSiwel's GuiltÀ@ 
+§6Fellowship Relik@ 
+§7§l1x §bReminiscenceÀ@ 
+§7§l16x §6InfestedÀÀÀPit KeyÀ@ 
+§7§l1x §eMangroveÀ@ 
+§7§l1x §dAnnoÀ@ 
+§fSpark Attack Effect@ 
+Light Birch Wood Relik@ 
+Enchanter@ 
+Warmth@ 
+Travel Charm@ 
+§7§l1x §bTemporal LanternÀ@ 
+§7§l1x §cPotion of Healing§4 [1/3]À@ 
+§7§l1x §dHelm of AndesiteÀ@ 
+Solstice@ 
+Haqherphix@ 
+Alarm@ 
+§7§l1x §eFishscaleÀ@ 
+§7§l1x §dWorryÀ@ 
+§7§l1x §aMorph-RubyÀ@ 
+§7§l1x §bLocrianÀ@ 
+§7§l1x §dDalaamÀ@ 
+§7§l1x §bCycloÀ@ 
+§7§l6x §3Repair ScrapÀ@ 
+§7§l1x §dPoison IvyÀ@ 
+§7§l1x §bAquariusÀ@ 
+§7§l1x §eBlackoutÀ@ 
+§7§l1x §aPigman HelmetÀ@ 
+§7§l1x §bPassus LuxÀ@ 
+§7§l1x §aBandit's RingÀ@ 
+§fSheep Disguise@ 
+§fWet Drip Effect@ 
+§fChicken Disguise@ 
+§dLetter Swirl Effect@ 
+§dHeart Swirl Effect@ 
+§7§l1x §fLight Birch Wood DaggerÀ@ 
+§7§l1x §fWorn Golden LeggingsÀ@ 
+Rosario@ 
+Sharpened Stylus@ 
+Wolf Crest@ 
+Twist Band@ 
+§7§l1x §dThe BanhammerÀ@ 
+§7§l1x §dIce Climbing BootsÀ@ 
+§7§l1x §dThe CreationistÀ@ 
+§7§l1x §dKatanaÀ@ 
+§7§l1x §eBronze-Plated GreavesÀ@ 
+§7§l1x §bLightshowÀ@ 
+§7§l1x §dTroms Kid BadgeÀ@ 
+§7§l1x §eOcelot ClawÀ@ 
+§7§l1x §bSpectral SlingshotÀ@ 
+§7§l1x §dCurseÀ@ 
+§7§l1x §fDepressing SpearÀ@ 
+§7§l1x §fPadded Leather TunicÀ@ 
+§7§l1x §fLight Birch Wood RelikÀ@ 
+§7§l1x §eFirst StepsÀ@ 
+§7§l1x §eEnchanterÀ@ 
+Gert Boots@ 
+§fCow Disguise@ 
+Oras@ 
+Balm@ 
+§7§l1x §dKamikazeÀ@ 
+§7§l1x §dOnion RingÀ@ 
+§7§l1x §dHearts ClubÀ@ 
+Ultraviolet@ 
+§7§l1x §eAlbacoreÀ@ 
+§7§l1x §eFinesseÀ@ 
+§eBonethrasherÀ@ 
+§7§l1x §dUltravioletÀ@ 
+§7§l1x §fLight Oak Wood WandÀ@ 
+§7§l1x §fDiorite-Hewn RelikÀ@ 
+§7§l1x §bHeliophiliaÀ@ 
+§7§l1x §dSylarÀ@ 
+§7§l1x §aPotion of §b❉ Intelligence§a [2/2]À@ 
+§7§l1x §eGlowing WandÀ@ 
+§7§l1x §fAged Golden BootsÀ@ 
+§7§l2x §4Broken CorruptedÀÀÀIceÀÀÀBarrows KeyÀ@ 
+§cPhoenix Bow@ 
+§7§l1x §eRegal ChapsÀ@ 
+Stone-hewn Spear@ 
+§7§l7x §3Uth RuneÀ@ 
+§6Hand Cannon@ 
+§7§l1x §eDaybreakÀ@ 
+§7§l1x §fDiorite-Hewn DaggerÀ@ 
+§7§l1x §cRhythm of the SeasonsÀ@ 
+§dViolet Wybel Token@ 
+§7§l1x §4Nii RuneÀ@ 
+§7§l1x §eAutumn TreeÀ@ 
+§dFood Wand@ 
+§dSteampunk Bow@ 
+§7§l1x §eRaggedÀ@ 
+§7§l1x §eBack ProtectorÀ@ 
+§7§l1x §4Broken CorruptedÀÀÀUndergrowthÀÀÀRuins KeyÀ@ 
+§7§l5x §3Uth RuneÀ@ 
+§bEnsa's Faith@ 
+§7§l1x §eGreat BraceÀ@ 
+§7§l1x §dEssren's CoatÀ@ 
+§7§l1x §eGrandfatherÀ@ 
+§7§ltortik92@ 
+§7§l1s0_@ 
+§7§lamyklos@ 
+§7§lpelavelol@ 
+§7§lmagentavid@ 
+§7§lalcgolichka@ 
+§7§lcobiqg@ 
+§7§lglassjars@ 
+§7§lsupercoolbiz@ 
+§7§lshowyfair@ 
+§7§l1x §eSpyrrÀ@ 
+§7§l1x §fGranite-Hewn SpearÀ@ 
+§7§l1x §eAndanteÀ@ 
+§7§l1x §eDandelionÀ@ 
+§7§l1x §eWormwoodÀ@ 
+Demeter@ 
+§cRecalcitrance@ 
+§7§l1x §dCadenceÀ@ 
+§7§l1x §eCigarÀ@ 
+§7§l1x §bHelter SkelterÀ@ 
+§7§l1x §eBlade of WisdomÀ@ 
+§fImpeccable Spruce WandÀ@ 
+Sloth@ 
+§7§l1x §bRebellionÀ@ 
+§7§l1x §eTimbreÀ@ 
+§7§l1x §eJuniperÀ@ 
+§7§l1x §dCarnivorousÀ@ 
+§7§l1x §eBreezeÀ@ 
+§7§l1x §dCursed BowÀ@ 
+§7§l1x §dSokotoÀ@ 
+§7§l1x §eStormflashÀ@ 
+§fCream Wybel Token@ 
+§7§l1x §bAfterimageÀ@ 
+§7§lnonamer27@ 
+§7§lkeskusjyvänen@ 
+§7§linfinitykills_13@ 
+§7§lkim@ 
+§7§lyourdreamawnct@ 
+§7§lthelauncerfeed@ 
+§7§lhaaga-helia@ 
+§7§l_magio_@ 
+§7§liwantkillmyselif@ 
+§7§lgood_karma@ 
+§7§l_meldrev_@ 
+§7§lfrideckart@ 
+§7§liwantkillmysel@ 
+§7§lalicemtm@ 
+§7§lthefixsk@ 
+§7§lfuncan_16@ 
+§7§lqzen@ 
+§7§ldarkminotaur@ 
+§7§lwalker43@ 
+§7§lkometa22'@ 
+§7§lartofina@ 
+§7§lyemoka@ 
+§7§lfurkan_16@ 
+§7§lkingofgamers185@ 
+§7§lifarixname@ 
+§7§l1x §bSpiritdancerÀ@ 
+§7§l1x §dStylist's ScissorsÀ@ 
+§cOrange Cybel Token@ 
+§7§l1x §dArc RifleÀ@ 
+§7§l1x §dDart SlingÀ@ 
+§7§l7x §6UndergrowthÀÀÀRuins KeyÀ@ 
+§7§l1x §6UndergrowthÀÀÀRuins KeyÀ@ 
+§7§l1x §dSunshadeÀ@ 
+§7§l1x §eTribal HeaddressÀ@ 
+§7§l1x §bBroken BalanceÀ@ 
+§7§l1x §dPolarisÀ@ 
+§7§l1x §bFlameshot HiltÀ@ 
+§7§l1x §bMaelstromÀ@ 
+§7§l1x §dArchpriestÀ@ 
+§7§l1x §eReminderÀ@ 
+§7§l1x §dRaptorÀ@ 
+§7§l1x §bShawl of GaeaÀ@ 
+§7§l1x §eCockleburrÀ@ 
+§7§l1x §4CorruptedÀÀÀLostÀÀÀSanctuary KeyÀ@ 
+§7§l1x §bPhysalisÀ@ 
+§7§l1x §bVirgoÀ@ 
+§l§6[>] Select Kvazr333@ 
+§l§6[>] Select Ded51@ 
+§l§6[>] Select Kapet_xX@ 
+§7§l2x §4Broken CorruptedÀÀÀSand-SweptÀÀÀTomb KeyÀ@ 
+§7§l1x §bKilijÀ@ 
+§7§l3x §4Broken CorruptedÀÀÀInfestedÀÀÀPit KeyÀ@ 
+§7§l9x §4Nii RuneÀ@ 
+Dubuo@ 
+§7§l70x §3Repair ScrapÀ@ 
+§7§l1x §dDustÀ@ 
+§7§l1x §eThe ThiefÀ@ 
+§7§l30x §3Repair ScrapÀ@ 
+§7§l3x §3Repair ScrapÀ@ 
+Zombie Brain@ 
+§7§l1x §dReinforced Composite BowÀ@ 
+§7§l1x §eSwitch BladeÀ@ 
+§7§l1x §fWorn Golden HelmetÀ@ 
+§7§l1x §dVellalarÀ@ 
+§7§l1x §fAged Golden LeggingsÀ@ 
+§7§l1x §fStone-Hewn DaggerÀ@ 
+§7§l1x §fStone-Hewn RelikÀ@ 
+§7§l1x §dCrowbeakÀ@ 
+§7§l1x §eThe Knight's ChestplateÀ@ 
+§dFood Spear@ 
+null@ 
+§7§l1x §bNepta FloodbringerÀ@ 
+§7§l1x §dAsymptoteÀ@ 
+§7§l1x §eZhight Powwow BangleÀ@ 
+§7§l1x §eSpear of ProsperityÀ@ 
+§7§l3x §6UnderworldÀÀÀCrypt KeyÀ@ 
+§dSteampunk Wand@ 
+§dMint Wybel Token@ 
+§7§l1x §dNipunÀ@ 
+§7§l1x §bTenutoÀ@ 
+§7§l1x §eRite StaffÀ@ 
+§7§l1x §eMind CrackerÀ@ 
+§dZombie Disguise@ 
+§7§l1x §bFault LinesÀ@ 
+Mask of the Dark Vexations@ 
+§dCandle Staff@ 
+§7§l9x §4Broken CorruptedÀÀÀIceÀÀÀBarrows KeyÀ@ 
+§7§l1x §eHostageÀ@ 
+§7§l1x §dAeronautÀ@ 
+§7§l1x §dPhoenixÀ@ 
+§7§l1x §dColumnsÀ@ 
+§6§lTemple of the LegendsÀ@ 
+§7§l1x §bSpectreÀ@ 
+§7§l1x §dEbb and FlowÀ@ 
+§7§l1x §fFlawless Stone WandÀ@ 
+§7§l1x §cThe Jingling JesterÀ@ 
+§7§l1x §eHiltÀ@ 
+§6Fellowship Dagger@ 
+§7§l1x §eThe OutÀ@ 
+§7§l1x §bSolar PillarÀ@ 
+§7§l1x §bScytheÀ@ 
+§7§l1x §dChaosÀ@ 
+§7§l1x §eClawÀ@ 
+§7§l1x §dNutritionÀ@ 
+Seeker@ 
+§7§l1x §eKarabinerÀ@ 
+Rotten Bone@ 
+Soft Red Wool@ 
+§7§l1x §bLycorisÀ@ 
+§7§l1x §dNaga ViperÀ@ 
+§7§l1x §eMistÀ@ 
+§7§l1x §dTurmoilÀ@ 
+§7§l1x §bDusk PainterÀ@ 
+§7§l1x §dRoncoÀ@ 
+§7§l1x §dDionaeaÀ@ 
+§7§l1x §eViperÀ@ 
+§7§l1x §eHandcuffÀ@ 
+§7§l1x §eSoaked TunicÀ@ 
+§7§l1x §eMaltic's AidÀ@ 
+§7§l1x §eLeech LeggingsÀ@ 
+§7§l1x §dCyclops' SpearÀ@ 
+§7§l1x §eWeb SpitterÀ@ 
+§7§l1x §dGnocchiÀ@ 
+§fFire Swirl Effect@ 
+§7§l1x §dPrestoÀ@ 
+§7§l1x §dHalbertÀ@ 
+§7§l15x §3Repair ScrapÀ@ 
+§7§l376x §3Repair ScrapÀ@ 
+§7§l1x §eZealÀ@ 
+§dSteampunk Sword@ 
+§7§l1x §bFierce ThunderÀ@ 
+§7§l1x §eElevenÀ@ 
+§7§l1x §eNerium Old SpearÀ@ 
+§7§l1x §cPotion of Healing§4 [2/3]À@ 
+Aged Medallion@ 
+§7§l1x §bAriesÀ@ 
+§fLight Birch Wood WandÀ@ 
+§7§l1x §dKuuichiÀ@ 
+§7§l1x §aJester RingÀ@ 
+§7§l1x §eSlippery BootsÀ@ 
+§7§l1x §eSimple CoinÀ@ 
+Ragni's Spear@ 
+Skull Breaker@ 
+§7§l1x §bDead SandsÀ@ 
+Stone-hewn Relik@ 
+§7§l1x §eHead KnockerÀ@ 
+§7§l1x §dJeraÀ@ 
+§7§l1x §dDiodeÀ@ 
+§7§l1x §eSharp HeelsÀ@ 
+§7§l6x §6InfestedÀÀÀPit KeyÀ@ 
+§7§l1x §bAlmuj's DaggersÀ@ 
+§7§l1x §dSargassoÀ@ 
+§7§l1x §fAndesite-Hewn BowÀ@ 
+§7§l1x §dGintoÀ@ 
+§7§l1x §fBirch Wood SpearÀ@ 
+§7§l1x §eHellRaiserÀ@ 
+§6Selling §f1 Gold BarÀ@ 
+§6Selling 1 Gold BarÀ@ 
+§7§l1x §eDragon SlayerÀ@ 
+§7§l1x §eBlackened BootsÀ@ 
+§7§l1x §eStreakÀ@ 
+§a§lRealm of Light IV - Finding the LightÀ@ 
+Foreboding@ 
+Old Keeper's Ring@ 
+§7§l1x §dConclave CrossfireÀ@ 
+§7§l1x §dSomeone Else's KnifeÀ@ 
+§7§l4x §6UnderworldÀÀÀCrypt KeyÀ@ 
+§7§l2x §6IceÀÀÀBarrows KeyÀ@ 
+Unhalting Eagle@ 
+§7§l1x §fFlawless Stone BowÀ@ 
+§7§l1x §eJateÀ@ 
+§7§l1x §eAbandoned TunicÀ@ 
+§7§l1x §aSkien LeggingsÀ@ 
+§7§l1x §5FreedomÀ@ 
+§7§l1x §fPlain Leather BootsÀ@ 
+§7§l1x §fAndesite-Hewn RelikÀ@ 
+§f§lelzif@ 
+§f§lwongthomas@ 
+§f§lLarryXavier93@ 
+§f§ljoeltjc101@ 
+§f§lHwaun@ 
+§f§l_Dids5_@ 
+§f§lfishin_rod@ 
+§f§lRick0907@ 
+§f§lKatTsuki@ 
+§f§luwu1359@ 
+§f§lKa1r0s_@ 
+§f§lWeirdNoob21@ 
+§f§l_PePPe_@ 
+§f§lDarkussnull@ 
+§f§lrmsun2@ 
+§f§ltf2Bye@ 
+§f§lTheSmallBrainGuy@ 
+§f§lKimochiss_@ 
+§f§lBamberPL47@ 
+§f§lHiImNemkeeee@ 
+§7§lscover@ 
+§7§lhaydenwastaken@ 
+§7§lzacharlaw@ 
+§7§l1x §bUnspeakableÀ@ 
+§7§l1x §eBig Ol' HammerÀ@ 
+§7§l1x §dLife ExtractorÀ@ 
+§7§l1x §bThe ExileÀ@ 
+§7§l1x §dGriffinÀ@ 
+§7§l1x §dRelayÀ@ 
+§7§l1x §eRunner's VestÀ@ 
+§6Fellowship Dark Wand@ 
+§dFood Relik@ 
+§dFood Bow@ 
+§7§l1x §dBear PeltÀ@ 
+§f§lAerrihn@ 
+§f§lwater_jet@ 
+§f§lFighterZ_@ 
+§f§lCookieDawgz@ 
+§f§lShoefarts@ 
+§f§lskyehell@ 
+§f§lItz_Prince@ 
+§f§lhackcr1258@ 
+§f§lBudiono@ 
+§f§laethegano@ 
+§f§lThorn1512@ 
+§f§lWoofAndGoodbye@ 
+§f§lGqin@ 
+§f§lDiamond_Laser@ 
+§f§lFighterZ_FanClub@ 
+§f§lSirky_McSpader@ 
+§f§lsaziii@ 
+§f§lpulzarise@ 
+§f§lALittleStory@ 
+§f§lEndlessYako@ 
+§f§ldwinklewort@ 
+§f§lSennacollinT@ 
+§f§lSlvrp@ 
+§f§lephemeralness@ 
+§f§lmidnightstone1@ 
+§f§lTeeKay09@ 
+§f§lGohhena@ 
+§f§l__Grouchy__@ 
+§f§lKevCostner@ 
+§f§lFrostyVampy@ 
+§f§lMangaBurger@ 
+§f§lmatdad5@ 
+§f§lpyricc@ 
+§f§lxNefas@ 
+§f§lStriker69ers@ 
+§7§l1x §fTanned Leather TunicÀ@ 
+§6Bronze Cybel Token@ 
+§7§l1x §eLeather FaceÀ@ 
+§7§l1x §fLight Oak Wood RelikÀ@ 
+§7§l1x §dDreadÀ@ 
+§7§l1x §eEdgyÀ@ 
+§7§l1x §bHarsh NoiseÀ@ 
+§7§l1x §dSpicyÀ@ 
+§7§l1x §fStudded Leather CapÀ@ 
+§7§l1x §eChandelleÀ@ 
+§7§l1x §dGalaxy PiercerÀ@ 
+§fImpeccable Light Birch DaggerÀ@ 
+Santa's Pants@ 
+§7§ltubtubcaptain_v2@ 
+§f§ltubtubcaptain_v2@ 
+Deracine@ 
+§7§l1x §dTarod's ParkaÀ@ 
+§a§lFantasy [Fux]@ 
+§a§lFaction Games [FGZ]@ 
+Spruce Wood Stick@ 
+§7§l1x §bRewindÀ@ 
+§7§l1x §bInfinityÀ@ 
+§7§loje_bus@ 
+§7§l1x §bFrontlinerÀ@ 
+§7§l1x §bQuinqueÀ@ 
+§7§l1x §bEvening PrimroseÀ@ 
+§7§l1x §dDrale's HideÀ@ 
+§7§l1x §fGranite-Hewn BowÀ@ 
+§7§l1x §eKeen MeasureÀ@ 
+§7§l1x §eSickleÀ@ 
+§7§l1x §ePriest's UnderwearsÀ@ 
+§7§l1x §fNew Golden ChestplateÀ@ 
+§7§l1x §ePlanus VestÀ@ 
+§7§l1x §aBony BowÀ@ 
+§7§l4x §3Repair ScrapÀ@ 
+§7§l1x §fBirch Wood BowÀ@ 
+§7§l62x §3Repair ScrapÀ@ 
+§7§l1x §fLight Jungle Wood BowÀ@ 
+§7§l1x §fLight Oak Wood DaggerÀ@ 
+§7§l1x §fAndesite-Hewn WandÀ@ 
+§7§l1x §fBirch Wood RelikÀ@ 
+§7§l1x §dDapper TrilbyÀ@ 
+§7§l1x §bCardiac ArrestÀ@ 
+§7§l1x §dGranite HelmÀ@ 
+§7§l1x §eFunnelÀ@ 
+§7§l1x §dMeridianÀ@ 
+§7§l3x §bDetlas Teleport ScrollÀ@ 
+§7§l1x §4CorruptedÀÀÀUnderworldÀÀÀCrypt KeyÀ@ 
+§7§l1x §fTanned Leather BootsÀ@ 
+§7§l1x §dComfortÀ@ 
+§7§l1x §dForewordÀ@ 
+Light Spruce Wood Bow@ 
+Reinforced Composite Bow@ 
+§7§l1x §bRodoroc Teleport ScrollÀ@ 
+§7§l1x §eWedding RingÀ@ 
+Lapte@ 
+§7§l1x §dBishopÀ@ 
+§7§l1x §dThe Saltwater RuneÀ@ 
+§7§l1x §dThe King's RobeÀ@ 
+§7§l1x §fBirch Wood WandÀ@ 
+§7§l63x §3Repair ScrapÀ@ 
+§7§l779x §3Repair ScrapÀ@ 
+Mitten@ 
+The Brain Smasher@ 
+Corase Torc@ 
+Foreword@ 
+§7§l1x §dCumulonimbusÀ@ 
+§7§l1x §fUsed Golden HelmetÀ@ 
+§7Pigman's Meat@ 
+§7§l3x §6DecrepitÀÀÀSewers KeyÀ@ 
+§7§l1x §bCleansing FlameÀ@ 
+§7§l1x §aNether BootsÀ@ 
+§7§l1x §dCerid's DynamoÀ@ 
+§7§l1x §dQuatrainÀ@ 
+§7§l1x §aOutlaw PantsÀ@ 
+§7§l1x §eAzarÀ@ 
+§dAir Aura Effect@ 
+§7§l1x §eLittle MachineÀ@ 
+§7§l13x §3Repair ScrapÀ@ 
+§7§l1x §dHydraÀ@ 
+§6§lA Journey FurtherÀ@ 
+§7§l1x §dHammer of the BlacksmithÀ@ 
+§7§l1x §eStraw HelmetÀ@ 
+§7§l1x §eFleetÀ@ 
+Light Spruce Wood Stick@ 
+Granite-hewn Stick@ 
+Fuming Lava Rock@ 
+Blazing Fireball@ 
+§7§l1x §dAvalancheÀ@ 
+§7§l1x §eLeech BowÀ@ 
+§7§l1x §fUsed Golden BootsÀ@ 
+§7§l1x §eMercenary HoodÀ@ 
+§7§l1x §eClock StickÀ@ 
+§7§l1x §eSorcerer's StickÀ@ 
+§7§l1x §eValorheartÀ@ 
+§7§l1x §eDuskhelmÀ@ 
+§7§l1x §eShadow BladeÀ@ 
+§7§l1x §fHard Leather BootsÀ@ 
+§7§l1x §bLutho Teleport ScrollÀ@ 
+§7§l1x §dMarbleÀ@ 
+§7§l1x §bCrystalÀ@ 
+§7§l1x §bTerra's MoldÀ@ 
+§7§l1x §bEmpire BuilderÀ@ 
+§7§l1x §eKnight BootsÀ@ 
+§7§l1x §eSunblockÀ@ 
+§7§l1x §eStatic WandÀ@ 
+§7§l1x §eBlood-Soaked ClawsÀ@ 
+§7§l1x §eThief's DaggerÀ@ 
+§7§l1x §dGargantuanÀ@ 
+§f§lGeneralPutte@ 
+§f§lpogge5@ 
+§f§llumpslumps@ 
+§f§lMi_Angelic@ 
+§f§ltomer29@ 
+§f§lTwoWindi@ 
+§f§lKoopa70@ 
+§f§lEllassi@ 
+§f§l0NeverOne@ 
+§f§lSpacexplorer201@ 
+§f§lmet19@ 
+§f§lNotNvS@ 
+§f§lKing_Kookie_@ 
+§f§ldragonefire1897@ 
+§f§lR4YGE@ 
+§f§lTheMagicWither@ 
+§f§lNiko_OwO@ 
+§f§lxdSora@ 
+§f§lCistily@ 
+§f§ln0ndi@ 
+§f§lDeadpoolthor46@ 
+§f§lcars3n@ 
+§f§lFsZ@ 
+§f§lw1zqrd@ 
+§f§lVoctrom@ 
+§f§lHans_Capon@ 
+§f§lrhythmcent@ 
+§f§lJingledBell@ 
+§f§lMarkymarc1187@ 
+§f§lTheCrafter0007@ 
+§f§l_Azog666_@ 
+§f§lDrollsandpiper6@ 
+§f§lLiamCW@ 
+§f§lGeldeu@ 
+§f§lMalleusCrash@ 
+§7§l1x §eGilded MailÀ@ 
+§7§l1x §bTidebinderÀ@ 
+§7§l1x §fShining Golden ChestplateÀ@ 
+§7§l1x §5StardewÀ@ 
+§7§l1x §dShaggy BootsÀ@ 
+§6Skeleton Horse Cloak@ 
+§7§l4x §bCorkian Amplifier IÀ@ 
+§6Selling §f1,500 §bPotion of Mana§3 [2/2]À@ 
+§7§l1x §aPotion of §e✦ Dexterity§a [2/2]À@ 
+§7§l1x §dSkeleton BonesÀ@ 
+Bol@ 
+§7§l1x §eBalladÀ@ 
+§7§l1x §fPadded Leather BootsÀ@ 
+§7§l1x §eHiker's BootsÀ@ 
+§7§l1x §dIncendiaryÀ@ 
+§7§l1x §eIron MailÀ@ 
+§7§l1x §dMagmatic PlateÀ@ 
+§7§l1x §bDiscotekÀ@ 
+§7§l1x §eGolden Pants of FortuneÀ@ 
+§7§l1x §fJungle Wood SpearÀ@ 
+§7§l1x §fAverage Golden BootsÀ@ 
+§7§l1x §fAndesite-Hewn DaggerÀ@ 
+§7§l1x §fSpruce Wood WandÀ@ 
+§fx2 Witch Brew Effect@ 
+§7§l1x §eArcane GreavesÀ@ 
+§dEarth Effect@ 
+§7§l1x §eCopper PlateÀ@ 
+§7§l6x §6FallenÀÀÀFactory KeyÀ@ 
+§7§l1x §eBarbed SpearÀ@ 
+§7§l1x §eDusty StaffÀ@ 
+§7§l1x §dFlare BlitzÀ@ 
+§7§l60x §3Repair ScrapÀ@ 
+§7§l2x §aPotion of §e✦ Dexterity§a [2/2]À@ 
+§7§l1x §eNucleokenÀ@ 
+§7§l1x §eDissectorÀ@ 
+Weakening Catalyst@ 
+Scarred Leather@ 
+Green Perfection@ 
+§fFire Attack Effect@ 
+§dFrying Pan@ 
+§7§l1x §bNature's GiftÀ@ 
+§7§l1x §dSlate BowÀ@ 
+§7§l1x §eYinÀ@ 
+§7§l1x §bThe ForgeryÀ@ 
+§7§l1x §eMalachiteÀ@ 
+§7§l1x §dGrindcoreÀ@ 
+§7§l1x §dFlood BathÀ@ 
+§7§l25x §3Repair ScrapÀ@ 
+§7§l1x §eHopeÀ@ 
+§7§l10x §3Repair ScrapÀ@ 
+§7§l1x §dAmulet of the NecromancerÀ@ 
+§7§l1x §fJungle Wood DaggerÀ@ 
+§7§l1x §eNilrem's CurseÀ@ 
+§7§l1x §eChain LinkÀ@ 
+§7§l1x §aPotion of §f❋ Agility§a [2/2]À@ 
+§7§l1x §dAdigard's SnowshoesÀ@ 
+§7§l14x §6DecrepitÀÀÀSewers KeyÀ@ 
+§7§l1x §aLeaf CapÀ@ 
+§7§l3x §cPotion of Healing§4 [3/3]À@ 
+§7§l1x §eSparklockÀ@ 
+§7§l1x §eDevil's ScissorÀ@ 
+Damass�@ 
+§7§l5x §3Repair ScrapÀ@ 
+§7§l1x §bWrathÀ@ 
+§7§l1x §eSeedlingÀ@ 
+§7§l1x §dRepulsionÀ@ 
+Azar@ 
+§7§l1x §dPangeaÀ@ 
+§7§l6x §6DecrepitÀÀÀSewers KeyÀ@ 
+§7§l2x §aAdventurer's CapÀ@ 
+§7§l1x §eHunterÀ@ 
+§7§l1x §eButterfly WingsÀ@ 
+§dSteampunk Relik@ 
+§7§l1x §eRusted BraceletÀ@ 
+§7§l1x §eWastelandsÀ@ 
+§7§l1x §eBrocachÀ@ 
+§7§l1x §dAcidstreamÀ@ 
+§7§l66x §3Repair ScrapÀ@ 
+Vellalar@ 
+Euthanasia@ 
+Diorite-hewn Shears@ 
+§7§l1x §dSlime-Blend LeggingsÀ@ 
+§7§l1x §eLucky BootsÀ@ 
+§7§l1x §fFlawless Oak BowÀ@ 
+Sharp Edge@ 
+Abolition@ 
+Darkiron Zweihander@ 
+§7§l1x §eMystic SandalsÀ@ 
+§7§l1x §fPlain Leather CapÀ@ 
+§7§l1x §eJingu HeadbandÀ@ 
+§7§l1x §bSignal FlareÀ@ 
+§7§l1x §eWolf CrestÀ@ 
+§7§l1x §eDancer's RhythmÀ@ 
+§7§l1x §dPandemicÀ@ 
+§7§l1x §dRechargeÀ@ 
+§7§l1x §eThe RupturerÀ@ 
+§7§l1x §dFuseÀ@ 
+§7§l1x §dSreggadÀ@ 
+§7§l1x §eMolten FlowÀ@ 
+§7§l1x §bHeavensentÀ@ 
+§7§l1x §eCharm of the TickÀ@ 
+§7§l1x §dEnduranceÀ@ 
+§7§l1x §fStone-Hewn BowÀ@ 
+§7§l1x §eGhostly BladesÀ@ 
+§7§l1x §bMorrowindÀ@ 
+§7§l1x §eLog SuitÀ@ 
+§7§l1x §aLeaf PantsÀ@ 
+§7§l1x §eAustralisÀ@ 
+§7§l1x §eFruma Imported BootsÀ@ 
+§7§l1x §dDarksteel RingÀ@ 
+§7§l1x §eIonianÀ@ 
+§7§l1x §bCerid's IngenuityÀ@ 
+§7§l1x §eRingletsÀ@ 
+§7§l1x §dMajorÀ@ 
+§7§l1x §eLastingÀ@ 
+§7§l1x §eIvyÀ@ 
+§7§l1x §dSigil of ExistenceÀ@ 
+§7§l1x §fFlawless Andesite WandÀ@ 
+§7§l1x §eCoalwalkersÀ@ 
+§7§l1x §dCross-AegisÀ@ 
+§7§l1x §aLeaf BootsÀ@ 
+§7§l1x §fLight Spruce Wood RelikÀ@ 
+§7§l1x §eHard HatÀ@ 
+§7§l1x §fLight Spruce Wood DaggerÀ@ 
+§7§l1x §fSpruce Wood RelikÀ@ 
+§7§l1x §eMullberryÀ@ 
+§7§l1x §eTurnpikeÀ@ 
+§7§l64x §3Uth RuneÀ@ 
+§7§l1x §eMelted RubyÀ@ 
+§7§l1x §eThe Wool TrimmerÀ@ 
+§7§l1x §eElven MoccasinsÀ@ 
+§7§l1x §dDarkiron RingÀ@ 
+§7§l1x §eClarityÀ@ 
+§7§l52x §3Uth RuneÀ@ 
+Cerid's Ingenuity@ 
+§7§l1x §dAnamnesisÀ@ 
+§7§l1x §eSledgeÀ@ 
+§7§l1x §eThe Skin TearerÀ@ 
+§7§l1x §4Broken CorruptedÀÀÀUnderworldÀÀÀCrypt KeyÀ@ 
+§7§l1x §eKeeperÀ@ 
+Macabre@ 
+§7§l1x §eBombardierÀ@ 
+§7§l1x §4Broken CorruptedÀÀÀSand-SweptÀÀÀTomb KeyÀ@ 
+§7§l1x §eStringendoÀ@ 
+§7§l1x §dMythical TrousersÀ@ 
+§7§l1x §eSkin CapÀ@ 
+§7§l1x §fJungle Wood WandÀ@ 
+§7§l1x §eThe ArchaeologistÀ@ 
+§7§l1x §fUnfinished Chain HelmetÀ@ 
+§7§l1x §eDragon SkinÀ@ 
+§7§l1x §eLight KaekellÀ@ 
+§7§l1x §eNesaak's ShadowÀ@ 
+§7§l1x §bAlka CometflingerÀ@ 
+§7§l1x §dTarnhelmÀ@ 
+§7§l1x §eThinking HelmetÀ@ 
+§7§l1x §eMustard HelmetÀ@ 
+§7§l1x §eCandlestickÀ@ 
+§7§l1x §dThe MagicianÀ@ 
+Keeper@ 
+§7§l1x §eMetal MaskÀ@ 
+Oak Wood Shears@ 
+§7§l1x §dOminous WindÀ@ 
+§6Chrome Cybel Token@ 
+§7§l1x §eDiamond SkyÀ@ 
+§7§l1x §aSlime BootsÀ@ 
+§7§l1x §eSteel BusterÀ@ 
+§7§l1x §bAbyssal AmuletÀ@ 
+§7§l1x §dThe MeddlerÀ@ 
+§7§l1x §fSpruce Wood DaggerÀ@ 
+§7§l1x §eAvocadoÀ@ 
+§7§l1x §dEmotionÀ@ 
+§7§l1x §eNebulousÀ@ 
+§7§l1x §dLecade's RankÀ@ 
+§7§l1x §dHide of Gregg'rÀ@ 
+§7§l1x §dFeatherweightÀ@ 
+§7§l1x §eRing of StrengthÀ@ 
+§7§l1x §dNemract WadersÀ@ 
+§7§l1x §dRayshyroth's KnowledgeÀ@ 
+§7§l1x §fPadded Leather CapÀ@ 
+§7§l101x §3Repair ScrapÀ@ 
+§7§l1x §dFacileÀ@ 
+Sweden@ 
+Granite-hewn Shears@ 
+Spruce Wood Shears@ 
+Strange Geode@ 
+§7§l1x §eVentilatorÀ@ 
+§7§l1x §dKilpkonnÀ@ 
+§7§l1x §eVacuumÀ@ 
+§7§l1x §eMuscle ShirtÀ@ 
+§7§l1x §fUsed Golden ChestplateÀ@ 
+§7§l1x §dFighting SpiritÀ@ 
+§7§l1x §eBarrageÀ@ 
+§7§l1x §dStandoffÀ@ 
+§7§l1x §eWayfinderÀ@ 
+§7§l1x §dBullseyeÀ@ 
+§7§l1x §fReinforced Iron BootsÀ@ 
+§7§l1x §eDetlas' StickÀ@ 
+§7§l1x §dDern's ShadowÀ@ 
+§7§l1x §cInfernal ImpulseÀ@ 
+§7§l1x §dThe MedicÀ@ 
+§7§l1x §eSandstorm WalkerÀ@ 
+§7§l1x §eMistralÀ@ 
+§7§l1x §eHood of the ResistanceÀ@ 
+§7§l1x §bIvoryÀ@ 
+§7§l1x §fBirch Wood DaggerÀ@ 
+§fx3 Spark Attack Effect@ 
+§7§l5x §cPotion of Healing§4 [3/3]À@ 
+§7§l1x §fShining Golden LeggingsÀ@ 
+§7§l1x §eSpider Silk CarduroysÀ@ 
+§7§l1x §dEmerald StaffÀ@ 
+§7§l1x §bMaltic's Old SpearÀ@ 
+§7§l1x §fGranite-Hewn RelikÀ@ 
+§7§l1x §eSilver BowÀ@ 
+§7§l1x §bClash HookÀ@ 
+§7§l1x §fDiorite-Hewn BowÀ@ 
+§7§l1x §eUnrefined LeggingsÀ@ 
+§7§l1x §dKaas' FurÀ@ 
+§7§l1x §eDusty RingÀ@ 
+§7§l1x §eGoswhitÀ@ 
+§7§l1x §eRadianceÀ@ 
+Light Birch Wood Bow@ 
+Stringendo@ 
+§7§l1x §eBumblebeeÀ@ 
+§7§l1x §aNether CapÀ@ 
+§7§l1x §eUrheusÀ@ 
+§7§l53x §3Repair ScrapÀ@ 
+§7§l1x §dMagicantÀ@ 
+§7§l1x §eArcane BootsÀ@ 
+§7§l1x §bRycar's ElationÀ@ 
+§7§l1x §eStarched PantsÀ@ 
+Quartzite Amulet@ 
+Yahya's Nail Clipper@ 
+§7§l1x §dSeismic ChapsÀ@ 
+§7§l1x §dSpectrumÀ@ 
+§7§l1x §dThe NautilusÀ@ 
+§7§l1x §dSoulÀ@ 
+§7§l1x §eIron Incrusted PantsÀ@ 
+§7§l1x §aSnow TunicÀ@ 
+§7§l7x §3Repair ScrapÀ@ 
+§7§l128x §3Repair ScrapÀ@ 
+Black Wand@ 
+§7§l1x §dAwesome BandannaÀ@ 
+§7§l1x §eIsazÀ@ 
+§7§l1x §eEinÀ@ 
+§7§l1x §eMachtÀ@ 
+§7§l1x §eAtheistÀ@ 
+§7§l1x §dMind RotÀ@ 
+§7§l1x §dCelebrationÀ@ 
+§7§l1x §fStone-Hewn SpearÀ@ 
+§7§l1x §eLaceratorÀ@ 
+§7§l1x §eStormstrikeÀ@ 
+§7§l1x §eBear OpenerÀ@ 
+§7§l1x §6IceÀÀÀBarrows KeyÀ@ 
+§7§l1x §eNemract's BowÀ@ 
+§7§l1x §aSnow HelmetÀ@ 
+§7§l1x §aSnow PantsÀ@ 
+§7§l1x §bReturn to EtherÀ@ 
+§7§l1x §eReversalÀ@ 
+§7§l1x §fUsed Golden LeggingsÀ@ 
+§f§lFeuerstern2271@ 
+§f§lloyl_@ 
+§f§lilyjullius@ 
+§f§lBlueToch@ 
+§7§lfeuerstern2231@ 
+§7§lfeustern2231@ 
+§7§lmaksimus_14@ 
+§7§l1x §bAstigmatismÀ@ 
+§7§l1x §eZombified PantsÀ@ 
+§7§l1x §ePrecedenceÀ@ 
+§7§l2x §aPotion of §2✤ Strength§a [2/2]À@ 
+§7§l3x §aPotion of §b❉ Intelligence§a [2/2]À@ 
+Bladerunners@ 
+§fPure Oak BowÀ@ 
+§7§l1x §eWaking NightmareÀ@ 
+§7§l1x §eSimplicityÀ@ 
+Double Vision@ 
+Gale's Sight@ 
+§7§l1x §dEuouaeÀ@ 
+§7§l1x §eFoot WarmersÀ@ 
+§7§l1x §eIncense BurnerÀ@ 
+§7§l1x §dLustÀ@ 
+§7§l1x §eBob's Battle ChestplateÀ@ 
+§7§l1x §eDynamicÀ@ 
+§fImpeccable Stone DaggerÀ@ 
+§fFlawless Light Spruce WandÀ@ 
+§7§l1x §dThresholdÀ@ 
+§7§l1x §eHornblendeÀ@ 
+§7§l1x §eHelmet of IntelligenceÀ@ 
+§7§l1x §eFatigueÀ@ 
+Hostage@ 
+§7§l1x §dAmethyst RingÀ@ 
+§7§l1x §eTravel CharmÀ@ 
+§7§l1x §dTromsian Survival KnifeÀ@ 
+§7§l1x §eBright BootsÀ@ 
+§4Yahya's Fantasy@ 
+§4Sword and Shield Effect@ 
+§4x2 Frosty Spear@ 
+§4Ivy Horns@ 
+§cNordic Halbert@ 
+§7§l1x §dLeviathanÀ@ 
+§7§l1x §dCareless WhisperÀ@ 
+§7§l7x §6DecrepitÀÀÀSewers KeyÀ@ 
+§7§l1x §dNeodymiumÀ@ 
+§7§l1x §eSeekerÀ@ 
+§7§l1x §bLunar SpineÀ@ 
+Santa's Coat@ 
+§7§l1x §dPickpocketsÀ@ 
+§7§l1x §eBattle LeggingsÀ@ 
+§7§l1x §eDietÀ@ 
+§dCreeper Disguise@ 
+§7§l1x §dSprint BeltÀ@ 
+§6Fellowship Bow@ 
+§7§l1x §dDamasseÀ@ 
+§7§l1x §eSulphurous SlingÀ@ 
+§6Half-Moon Wand@ 
+§7§l1x §eCobraÀ@ 
+§7§l1x §bBrass BrandÀ@ 
+§a§lThe Hunger of Gerts Part 2À@ 
+§dSteampunk Dagger@ 
+§7§l1x §dJackpotÀ@ 
+§7§l276x §3Repair ScrapÀ@ 
+§7§l1x §aBlack CapÀ@ 
+§7§l1x §eSunrayÀ@ 
+§7§l1x §bGravityÀ@ 
+§7§l1x §bUnravelÀ@ 
+§7§l1x §eMortarÀ@ 
+§6Carbon Fiber Cybel Token@ 
+§7§l1x §bDungeon Teleport ScrollÀ@ 
+§7§l1x §dBrainwashÀ@ 
+Áibmu@ 
+Voodoo@ 
+Andesite-hewn Shears@ 
+§7§l1x §dLiquefied SunÀ@ 
+§7§l1x §eChains of SteelÀ@ 
+§7§l1x §fFlawless Diorite BowÀ@ 
+§7§l1x §eRagni's Old ShoesÀ@ 
+§7§l2x §fBrown HorseÀ@ 
+§dPigman Disguise@ 
+§7§l1x §eEvaporatorÀ@ 
+§7§l1x §fFlawless Andesite SpearÀ@ 
+§7§l2x §6Sand-SweptÀÀÀTomb KeyÀ@ 
+§cPhoenix Wand@ 
+§7§l1x §dKapokÀ@ 
+§7§l1x §aGhostly CapÀ@ 
+§7§l1x §bRagni's MailÀ@ 
+§7§l1x §fTanned Leather CapÀ@ 
+§7§l1x §bLuminaÀ@ 
+Light Spruce Wood Spear@ 
+Fungi Spores@ 
+§7§l1x §dDemon SeekerÀ@ 
+§7§l1x §aBandit's BangleÀ@ 
+§fImpeccable Light Spruce WandÀ@ 
+§fImpeccable Birch DaggerÀ@ 
+§bCursed JackbootsÀ@ 
+§7§l1x §bRimeÀ@ 
+§c§k||§e§lProfile§c§k||@ 
+§8§k||§e§lShop§8§k||@ 
+§1§k||§6§lLoot§1§k||@ 
+§a§k||§b§lUpdates§a§k||@ 
+§d§k||§a§lLobbies§d§k||@ 
+§7§l1x §fGranite-Hewn DaggerÀ@ 
+§7§l1x §5SlayerÀ@ 
+§7§l1x §bTwilightÀ@ 
+§7§l1x §bMillenniumÀ@ 
+§7§l1x §dSvalinnÀ@ 
+§7§l1x §eUpdraftÀ@ 
+§7§l3x §6UndergrowthÀÀÀRuins KeyÀ@ 
+§7§l1x §bPandemoniumÀ@ 
+§7§l1x §eNounÀ@ 
+§7§l1x §eKuiperÀ@ 
+§7§l1x §dFate's ShearÀ@ 
+§7§l8x §6Sand-SweptÀÀÀTomb KeyÀ@ 
+§7§l1x §eZipperÀ@ 
+§7§l1x §eValiantÀ@ 
+§7§l4x §cPotion of Healing§4 [3/3]À@ 
+§7§l1x §eBoltÀ@ 
+§7§l1x §eWolf PawÀ@ 
+§7§l1x §eOxfordÀ@ 
+§7§l1x §eLazybonesÀ@ 
+§7§l1x §fAndesite-Hewn SpearÀ@ 
+§7§l1x §bBlade of PurityÀ@ 
+§7§l245x §3Repair ScrapÀ@ 
+§7§l1x §fLight Jungle Wood WandÀ@ 
+§7§l1x §dOliveÀ@ 
+§7§l1x §dQuicksand CrossersÀ@ 
+§7§l1x §bFierteÀ@ 
+§7§l1x §eBlade of SnowÀ@ 
+Turnpike@ 
+§7§l1x §dAdo SakiÀ@ 
+§6Corrupted Relik@ 
+§7§l1x §dDurum's JourneyÀ@ 
+§6§lMaster PieceÀ@ 
+§7§l1x §eGavel's MemoryÀ@ 
+§7§l1x §bSodeta BootsÀ@ 
+§7§l1x §eDuskshieldÀ@ 
+§7§l1x §eGeothermalÀ@ 
+§7§l1x §dDecoder RingÀ@ 
+§7§l1x §bBlue MaskÀ@ 
+§7§l1x §dMasochistÀ@ 
+§7§l1x §fJungle Wood RelikÀ@ 
+§7§l1x §eFourchetteÀ@ 
+§7§l1x §eStick of BrillianceÀ@ 
+§7§l1x §bCryoseismÀ@ 
+§7§l1x §eRubber HelmÀ@ 
+§7§l1x §eCrystal NecklaceÀ@ 
+§7§l1x §dWybel Fluff BowÀ@ 
+§7§l1x §dBlightÀ@ 
+§7§l1x §eMithril LeggingsÀ@ 
+§7§l1x §eDiscordÀ@ 
+§7§l1x §dMisericordeÀ@ 
+§7§l1x §bNodguj Warrior ChestplateÀ@ 
+§7§l24x §3Repair ScrapÀ@ 
+§7§l58x §3Repair ScrapÀ@ 
+§7§l1x §fFlawless Andesite DaggerÀ@ 
+§7§l1x §fFlawless Oak DaggerÀ@ 
+§7§l640x §3Repair ScrapÀ@ 
+§7§l1x §aSnow BootsÀ@ 
+§7§l1x §dMining FeverÀ@ 
+§6Ripple Effect@ 
+Iron Bracer@ 
+§7§l1x §eIron ScrapÀ@ 
+§7§l1x §eAncient Scout ShoesÀ@ 
+§7§l1x §dWater Relic WandÀ@ 
+Molten Flow@ 
+§7§l1x §dCalamaro's SwordÀ@ 
+§f§lMoaIdaD@ 
+§7§lmai@ 
+§7§l1x §dArakadicus' MawÀ@ 
+§7§l1x §eTainted StepÀ@ 
+§7§l1x §eGale RiderÀ@ 
+§7§l1x §eDetlas' SkinÀ@ 
+§7§l1x §aKaerynn's MindÀ@ 
+§7§l1x §eFoundationÀ@ 
+§fSaltest SpearÀ@ 
+§fPure Oak SpearÀ@ 
+§7§l2x §4Broken CorruptedÀÀÀUndergrowthÀÀÀRuins KeyÀ@ 
+§7§l500x §3Repair ScrapÀ@ 
+§7§l1x §dShell of GenbuÀ@ 
+§7§l1x §fFlawless Oak WandÀ@ 
+§7§l1x §bHeaven's GateÀ@ 
+§7§l1x §fNew Golden HelmetÀ@ 
+§fFlawless Diorite WandÀ@ 
+§7§l1x §eEcholocationÀ@ 
+§7§l1x §fHard Leather TunicÀ@ 
+§7§l8x §bDetlas Teleport ScrollÀ@ 
+§3Sautéed Dinner of Combustion§b [1/1]À@ 
+§3Sautéed Dinner of Combustion§b [0/1]À@ 
+§7§l1x §dMontefioreÀ@ 
+§7§l1x §dIniquityÀ@ 
+§7§l1x §eBrook KeeperÀ@ 
+§7§l1x §eRefined BowÀ@ 
+§7§l1x §eDark NeedleÀ@ 
+§7§l1x §dGibyeongÀ@ 
+The Mind@ 
+Walking Stick@ 
+§7§l1x §bEx NihiloÀ@ 
+Vzduch@ 
+Ring of Focus@ 
+§6Sea Blue Wybel Token@ 
+§7§l1x §bOhms' RageÀ@ 
+§7§l1x §eWiggling VillagerÀ@ 
+§7§l2x §fDepressing BowÀ@ 
+§7§l1x §bFaustian ContractÀ@ 
+§7§l1x §bNight RushÀ@ 
+§7§l1x §bWitherhead's BowÀ@ 
+§7§l1x §dSayleros' Brother's MisfortuneÀ@ 
+§7§l1x §eRinging MailÀ@ 
+§7§l1x §dCrescendoÀ@ 
+§7§l1x §eTarnishÀ@ 
+§7§l1x §dLydianÀ@ 
+§7§l1x §fFlawless Granite BowÀ@ 
+§7§l1x §fFlawless Granite SpearÀ@ 
+Sedlo@ 
+Miska@ 
+Sulphurous Sling@ 
+§dFood Dagger@ 
+§7§l1x §eScarabÀ@ 
+§7§l1x §eThe MindÀ@ 
+Soul Wreath@ 
+§7§l1x §eAeolianÀ@ 
+§7§l1x §aElf CapÀ@ 
+§7§l1x §bGale's SightÀ@ 
+§7§l1x §eFlaming BowÀ@ 
+§7§l1x §dSinkholeÀ@ 
+§7§l1x §eLucky CoinÀ@ 
+§7§l1x §bKelight's ShieldÀ@ 
+§7§l1x §bPost-UltimaÀ@ 
+§7§l1x §bClearsight SpectaclesÀ@ 
+§7§l1x §dWhite GhostÀ@ 
+Vampire Blocker@ 
+§fx3 Fire Attack Effect@ 
+§7§l1x §bCall to ConcordÀ@ 
+§7§l1x §eSoft HelmetÀ@ 
+§7§l1x §bPhoenix WingÀ@ 
+§7§l1x §eEclipseÀ@ 
+§7§l1x §eSaint's ScarÀ@ 
+§7§l1x §dRandall's Leg PlatingÀ@ 
+§7§l1x §dSandshooterÀ@ 
+§7§l1x §fFlawless Light Spruce RelikÀ@ 
+§7§l1x §dGernald's AmuletÀ@ 
+§7§l1x §dEspoirÀ@ 
+§fx4 Redstone Swirl Effect@ 
+§7§l1x §dRaging WindÀ@ 
+§eMultitool@ 
+§eChain Hook@ 
+§eFluorescence@ 
+§bJourney (Orphion's Nexus of Light)@ 
+§bGmaj7 Volume Test@ 

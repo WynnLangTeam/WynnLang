@@ -46,7 +46,7 @@
 §7[2/3] §2Aledar: §aThe last thing we need to do is use this workbench to forge your weapon.@§7[2/3] §2Аледар: §aПоследнее, что нам нужно сделать – это использовать этот верстак, чтобы выковать себе оружия.
 §7[1/1] §2Guard: §aLooks like you are all in order, I hope you know how to use it. You may pass, but be careful, it's still very dangerous.@§7[1/1] §2Страж: §aПохоже, у вас все в порядке, надеюсь, вы знаете, как этим пользоваться. Вы можете пройти, но будьте осторожнее, там все еще очень опасно.
 §7[1/3] §2Tasim: §aWhat's going on?@§7[1/3] §2Тасим: §aЧто происходит?
-§7[2/3] §2Tasim: §aThat must be one of those "Corrupted" the guard mentioned. Don't worry, it's moving so slow that it can't hurt us.@§7[2/3] §2Тасим: §aДолжно быть это один из этих “Испорченных мертвецов”, о которых говорил солдат. Не волнуйтесь, он двигается так медленно, что не сможет навредить нам.
+§7[2/3] §2Tasim: §aThat must be one of those ''Corrupted'' the guard mentioned. Don't worry, it's moving so slow that it can't hurt us.@§7[2/3] §2Тасим: §aДолжно быть это один из этих “Испорченных мертвецов”, о которых говорил солдат. Не волнуйтесь, он двигается так медленно, что не сможет навредить нам.
 §7[3/3] §2Tasim: §aNEVERMIND! §bKILL IT!@§7[3/3] §2Тасим: §aНЕВАЖНО! §bУБЕЙТЕ ЕГО!
 §7[1/1] §2Tasim: §aAnyone else have a bad feeling..?@§7[1/1] §2Тасим: §aНи у кого нет плохого предчувствия..?
 §7[1/2] §2Aledar: §aOh no...@§7[1/2] §2Аледар: §aО нет...

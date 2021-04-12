@@ -90,15 +90,15 @@
 §7[2/5] §2Ava: §aWait... Why are there... Buttons... Everywhere??@§7[2/5] §2Ава: §aПодожди... Почему тут... Кнопки... Везде??
 §7[1/1] §2Ava: §aHold on! We can't just leave now!@§7[1/1] §2Ава: §aДержись! Мы не можем просто уйти сейчас!
 §7[3/5] §2Ava: §aI feel like soaking everything would be quite the mistake.@§7[3/5] §2Ава: §aЯ чувствую, что намочить все было бы большой ошибкой.
-§7[4/5] §2Ava: §aAnd none of them are labelled! What is that?!@§7[4/5] §2Ава: §aИ ни одна из них не подписана! Что это?!
-§7[5/5] §2Ava: §aLook, your choice. What should we neutralize first?@§7[5/5] §2Ава: §aСмотри, выбор за тобой. Что мы должны нейтрализовать в первую очередь?
+§7[4/5] §2Ava: §aAnd none of them are labelled! What is that?!@§7[4/5] §2Ава: §aИ ни одна из них не подписана! Как так?!
+§7[5/5] §2Ava: §aLook, your choice. What should we neutralize first?@§7[5/5] §2Ава: §aСмотри, выбор за тобой. Какую мы должны нейтрализовать в первую очередь?
 §7[1/1] §2Ava: §aLook, we're both lost. Just choose one side.@§7[1/1] §2Ава: §aПослушай, мы оба запутались. Просто выбери одну сторону.
 §7[1/1] §2Ava: §aLeft... Right... Center... 'up to you.@§7[1/1] §2Ава: §aСлева... Справа... Центр... решать тебе.
 §7[1/2] §2Ava: §aLeft, huh? Well, let's see how that goes.@§7[1/2] §2Ава: §aЛевую, да? Ну что ж, посмотрим, что из этого выйдет.
 §7[2/2] §2Ava: §aAlright, let's soak this.@§7[2/2] §2Ава: §aЛадно, давай зальем ее.
 §7[1/1] §2Ava: §aTELEPORTATION?!@§7[1/1] §2Ава: §aТЕЛЕПОРТАЦИЯ?!
 §7[1/4] §2Ava: §a§oOuch§a!@§7[1/4] §2Ава: §a§oАуч§a!
-§7[2/4] §2Ava: §aSorry about all the trouble I caused... I hope this makes it up to you.@§7[2/4] §2Ава: §aПрости за все неприятности, которые я причинила... Надеюсь, это загладит мою вину.
+§7[2/4] §2Ava: §aSorry about all the trouble I caused... I hope this makes it up to you.@§7[2/4] §2Ава: §aПростите за все неприятности, которые я причинила... Надеюсь, это загладит мою вину.
 §7[1/1] §2Ava: §aI appreciate the help! You wynn folks can pull off just about anything, right?@§7[1/1] §2Ава: §aЯ ценю твою помощь! Вы, выходцы из Винн, можете провернуть что угодно, верно?
 §7[1/7] §2Ava: §aI can't believe it! It's working! Look! Look at it!@§7[1/7] §2Ава: §aНе могу в это поверить! Это работает! Смотри! Посмотри на него!
 §7[2/7] §2Ava: §aA §a§lGrowth Accelerator§a... Can you imagine the possibilities?!@§7[2/7] §2Ава: §a§lУскоритель Роста§a... Представляешь, какие возможности?!
@@ -109,7 +109,7 @@
 §7[7/7] §2Ava: §aIn theory, it should be easy to operate... I'm trusting you. Again. Sorry 'bout that.@§7[7/7] §2Ава: §aТеоретически он должен быть прост в эксплуатации... Я доверяю тебе. Снова. Извини за это.
 §7[1/2] §2Ava: §aAlright, it's just on the hill next to us, but I can bring you there if ya want!@§7[1/2] §2Ава: §aХорошо, это место на холме рядом с нами, но я могу подвести тебя туда, если хочешь!
 §7[2/2] §2Ava: §aJust don't get too used to me, alright? Tell me when you're ready.@§7[2/2] §2Ава: §aТолько не слишком привыкай ко мне, ладно? Скажи мне, когда будешь готов.
-§7[1/1] §2Ava: §aAlright, this should be good. §bTalk to me§a and I'll explain!@§7[1/1] §2Ава: §aЛадно, это должно быть хорошо. §bПоговори со мной§a, и я все объясню!
+§7[1/1] §2Ava: §aAlright, this should be good. §bTalk to me§a and I'll explain!@§7[1/1] §2Ава: §aЛадно, все должно быть нормально. §bПоговори со мной§a, и я все объясню!
 §7[1/6] §2Ava: §aI'll do a quick rundown of how to operate this. It's not automatic yet.@§7[1/6] §2Ава: §aЯ вкратце расскажу, как с этим работать. Он еще не автоматический.
 §7[2/6] §2Ava: §aI'll give you a remote. You'll simply have to §bclick in the right orders§a. You'll see!@§7[2/6] §2Ава: §aЯ дам тебе пульт. Тебе просто нужно будет §bнажимать на нужные направления§a. Увидишь!
 §7[3/6] §2Ava: §aYou have to be quick, though! You can't just take all the time you want.@§7[3/6] §2Ава: §aНо ты должен действовать быстро! Ты не можешь использовать столько времени, сколько хочешь.
@@ -120,9 +120,9 @@
 §7[2/3] §2Ava: §aThink of it like... Casting one of your spells. You're used to that, right?@§7[2/3] §2Ава: §aДумай об этом как... Используя одно из твоих заклинаний. Ты ведь к этому привык, верно?
 §7[3/3] §2Ava: §aLet's start slowly! You have §b45 seconds §ato fully charge it up!@§7[3/3] §2Ава: §aДавай начнем медленно! У тебя есть §b45 секунд§a, чтобы полностью зарядить его!
 §7[1/1] §2Ava: §aHalfway there!@§7[1/1] §2Ава: §aНа полпути!
-§7[1/1] §2Ava: §aAnd now, we observe!@§7[1/1] §2Ава: §aА теперь мы наблюдаем!
-§7[1/4] §2Ava: §aOh my... I- No way...@§7[1/4] §2Ава: §aОй боже... Я - Ни за что...
-§7[2/4] §2Ava: §aDo you have §a§lANY§a idea what it is we've just done?@§7[2/4] §2Ава: §aУ тебя есть идея, что мы только что сделали?
+§7[1/1] §2Ava: §aAnd now, we observe!@§7[1/1] §2Ава: §aА теперь посмотрим!
+§7[1/4] §2Ava: §aOh my... I- No way...@§7[1/4] §2Ава: §aБоже... Я - Ни за что...
+§7[2/4] §2Ava: §aDo you have §a§lANY§a idea what it is we've just done?@§7[2/4] §2Ава: §aТы хоть §a§lпонимаешь§a, что мы только что сделали?
 §7[3/4] §2Ava: §aI have to show that to the Chief. They WILL accept me! I cannot fail now!@§7[3/4] §2Ава: §aЯ должна показать это шефу. Они примут меня! Теперь я не могу потерпеть неудачу!
 §7[4/4] §2Ava: §aTell you what, §blet's meet up at the Chief's hut§a. If you want me to take you there right now, you can just go ahead and tell me!@§7[4/4] §2Ава: §aВот что я тебе скажу - §bдавай встретимся в хижине Вождя§a. Если ты хочешь, чтобы я подвезла тебя туда прямо сейчас, ты можешь просто подойти и сказать мне!
 §7[1/6] §2Ava: §aAlright, let's fly!@§7[1/6] §2Ава: §aЛадно, полетели!
@@ -141,7 +141,7 @@
 §7[8/12] §2Ava: §aAnd I have nothing to hide, Chief.@§7[8/12] §2Ава: §aИ мне нечего скрывать, Шеф.
 §7[9/12] §2Avos Chieftain: §aSTOP IT, you two! Let her talk!@§7[9/12] §2Вождь Авосов: §aПРЕКРАТИТЕ, вы двое! Пусть говорит!
 §7[10/12] §2Ava: §aYou're all scared of change, and that's all there is to it. Now...@§7[10/12] §2Ава: §aВы все боитесь перемен, и это все привело нас сюда. Сейчас...
-§7[11/12] §2Ava: §aMay I... Show you something?@§7[11/12] §2Ава: §aМогу я... Показать вам что-нибудь?
+§7[11/12] §2Ava: §aMay I... Show you something?@§7[11/12] §2Ава: §aМогу я... Показать вам кое-что?
 §7[12/12] §2Avos Chieftain: §aHmpf. Let's see that broken atrocity of yours.@§7[12/12] §2Вождь Авосов: §aХм. Давай-ка посмотрим на твои злодеяния.
 §7[1/1] §2Ava: §a...It's§a time. §bTalk to me§a.@§7[1/1] §2Ава: §a...Время пришло. §bПоговори со мной§a.
 §7[1/4] §2Ava: §aThis is it. I can't fail now... I really hope I can trust you.@§7[1/4] §2Ава: §aВот оно. Теперь я не могу потерпеть неудачу... Я действительно надеюсь, что могу доверять тебе.
@@ -172,10 +172,10 @@
 §7[7/8] §2Avos Chieftain: §aUnder normal circumstances, I'd have sent you down the pit after cutting off your feathers.@§7[7/8] §2Вождь Авосов: §aПри обычных обстоятельствах я бы отправил тебя в яму, предварительно отрезав перья.
 §7[8/8] §2Avos Chieftain: §aBut these are not normal circumstances. Soldier, may you §bcome over here§a as well?@§7[8/8] §2Вождь Авосов: §aНо это не обычные обстоятельства. Солдат, ты §bможешь подойти сюда§a?
 §7[1/10] §2Avos Chieftain: §aSo you fused OUR magic... With electromagic?@§7[1/10] §2Вождь Авосов: §aТак ты смешала НАШУ магию... С электромагией?
-§7[2/10] §2Avos Chieftain: §aI recognized extracts from the totem too. You're the one who stole from us, right?@§7[2/10] §2Вождь Авосов: §aЯ также узнал частички из тотема. Это ведь ты нас обокрала, верно?
-§7[3/10] §2Ava: §aI... might have done that.@§7[3/10] §2Ава: §aЯ... могла бы это сделать.
+§7[2/10] §2Avos Chieftain: §aI recognized extracts from the totem too. You're the one who stole from us, right?@§7[2/10] §2Вождь Авосов: §aЯ узнал частички из нашего тотема. Это ведь ты нас обокрала, верно?
+§7[3/10] §2Ava: §aI... might have done that.@§7[3/10] §2Ава: §aЯ... могла это сделать.
 §7[4/10] §2Avos Chieftain: §aAnd on top of that, you used the Wynn warrior to fool us?@§7[4/10] §2Вождь Авосов: §aИ вдобавок ко всему, ты использовала воина из Винн, чтобы одурачить нас?
-§7[5/10] §2Ava: §aAnd I'm sure you know why I did!@§7[5/10] §2Ава: §aИ я уверена, вы знаете, почему я это сделала!
+§7[5/10] §2Ava: §aAnd I'm sure you know why I did!@§7[5/10] §2Ава: §aИ я уверена вы знаете, почему я это сделала!
 §7[6/10] §2Avos Chieftain: §aDo you have any idea how unstable this wretched electromagic is?!@§7[6/10] §2Вождь Авосов: §aТы хоть представляешь, насколько нестабильна эта несчастная электромагия?!
 §7[7/10] §2Ava: §aI-I can control it!!@§7[7/10] §2Ава: §aЯ-я могу контролировать ее!!
 §7[8/10] §2Avos Chieftain: §aAnd you should NOT! Don't you understand? This is too dangerous!@§7[8/10] §2Вождь Авосов: §aТы НЕ должна! Неужели ты не понимаешь? Это слишком опасно!
@@ -202,7 +202,7 @@
 §7[1/3] §2Ava: §aNo no no- look, it's fine. We can get it right this time, ok?@§7[1/3] §2Ава: §aНет нет нет, все в порядке. На этот раз мы все сделаем правильно, хорошо?
 §7[1/1] §2Ava: §aLet's do this!@§7[1/1] §2Ава: §aДавай сделаем это!
 §7[1/5] §2Ava: §aCenter... I guess the most important stuff could be here. In theory. I wouldn't count on it.@§7[1/5] §2Ава: §aЦентр... Думаю, что самое важное может быть здесь. В теории. Я бы на это не рассчитывала.
-§7[2/5] §2Ava: §aHuh! This wasn't that bad. And... I see something poking out, hold on...@§7[2/5] §2Ава: §aУф! Все было не так уж плохо. И... Я вижу, что-то вылезает, держись...
+§7[2/5] §2Ava: §aHuh! This wasn't that bad. And... I see something poking out, hold on...@§7[2/5] §2Ава: §aУф! Все было не так уж плохо. И... Я вижу, что-то получается, держись...
 §7[3/5] §2Ava: §aHaha!... Wait, that's not it. Urgh.@§7[3/5] §2Ава: §aХа-ха!... Погоди, это не то. Угх.
 §7[4/5] §2Ava: §aHey, I'll just give that to you. Though, you probably don't know how to use it, heh!@§7[4/5] §2Ава: §aЭй, я просто отдам это тебе. Хотя ты, наверное, не знаешь, как им пользоваться, хех!
 §7[5/5] §2Ava: §aLooks like we got another shot. I still have some water left.@§7[5/5] §2Ава: §aПохоже, у нас есть еще один шанс. У меня еще осталось немного воды.
