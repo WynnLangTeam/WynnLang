@@ -18,22 +18,22 @@ import java.util.regex.Pattern;
 public class StringUtil {
 
     private static int fullCacheCapacity = WynnLang.regex.values().stream().mapToInt(Map::size).sum() / 100 + WynnLang.common.values().stream().mapToInt(Map::size).sum() / 100;
-    private static Map<String, String> fullCache = new LinkedHashMap<String, String>(fullCacheCapacity, 0.7F, true) {
+    private static Map<String, Optional<String>> fullCache = new LinkedHashMap<String, Optional<String>>(fullCacheCapacity, 0.7F, true) {
         @Override
-        protected boolean removeEldestEntry(Map.Entry eldest) {
+        protected boolean removeEldestEntry(Map.Entry<String, Optional<String>> eldest) {
             return size() > fullCacheCapacity;
         }
     };
 
     public static String handleString(String str) {
-        return fullCache.computeIfAbsent(str,key-> {
+        return fullCache.computeIfAbsent(str, key -> {
             for (WynnLang.TextType textType : WynnLang.TextType.values()) {
                 String translatedText = handleString(textType, str);
                 if (translatedText != null)
-                    return translatedText;
+                    return Optional.of(translatedText);
             }
-            return null;
-        });
+            return Optional.empty();
+        }).orElse(null);
     }
 
     public static String handleString(WynnLang.TextType textType, String str) {
