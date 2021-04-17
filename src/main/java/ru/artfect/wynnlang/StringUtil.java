@@ -1,5 +1,6 @@
 package ru.artfect.wynnlang;
 
+import com.google.common.collect.ImmutableMap;
 import net.minecraft.util.text.ITextComponent;
 import net.minecraft.util.text.Style;
 import net.minecraft.util.text.TextComponentString;
@@ -8,6 +9,7 @@ import net.minecraft.util.text.event.HoverEvent;
 import ru.artfect.wynnlang.translate.ReverseTranslation;
 import ru.artfect.wynnlang.utils.WynnLangTextComponent;
 
+import java.util.LinkedHashMap;
 import java.util.Map;
 import java.util.Optional;
 import java.util.regex.Matcher;
@@ -48,9 +50,18 @@ public class StringUtil {
     }
 
     public static String findReplace(WynnLang.TextType textType, String str) {
-        String replace = WynnLang.common.get(textType).get(str);
-        return replace == null ? findReplaceRegex(WynnLang.regex.get(textType), str) : replace;
+        Map<String, String> orDefault = WynnLang.common.get(textType);
+        String replace = orDefault.get(str);
+        return replace == null ? regexpCache.computeIfAbsent(str, key -> findReplaceRegex(WynnLang.regex.get(textType), key)) : replace;
     }
+
+    private static int cacheCapacity = WynnLang.regex.values().stream().mapToInt(Map::size).sum() / 100;
+    private static Map<String, String> regexpCache = new LinkedHashMap<String, String>(cacheCapacity, 0.7F, true) {
+        @Override
+        protected boolean removeEldestEntry(Map.Entry eldest) {
+            return size() > cacheCapacity;
+        }
+    };
 
     private static String findReplaceRegex(Map<Pattern, String> map, String str) {
         for (Pattern pat : map.keySet()) {
