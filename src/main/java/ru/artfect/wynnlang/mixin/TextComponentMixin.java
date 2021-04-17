@@ -12,9 +12,10 @@ import ru.artfect.wynnlang.StringUtil;
 
 @Mixin(TextComponentBase.class)
 public class TextComponentMixin {
-    @Inject(method = "getUnformattedText()Ljava/lang/String;", at = @At("RETURN"), cancellable = true)
-    public void getUnformattedText(CallbackInfoReturnable<String> ci) {
-        String translatedText = StringUtil.handleString(ci.getReturnValue());
+    @Inject(method = "getFormattedText", at = @At("RETURN"), cancellable = true)
+    public void getFormattedText(CallbackInfoReturnable<String> ci) {
+        String text = ci.getReturnValue();
+        String translatedText = StringUtil.handleString(text);
         if (translatedText != null)
             ci.setReturnValue(translatedText);
     }
