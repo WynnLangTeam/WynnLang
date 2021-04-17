@@ -18,7 +18,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.Optional;
 
-@Mod.EventBusSubscriber(modid = Reference.MOD_ID)
+//@Mod.EventBusSubscriber(modid = Reference.MOD_ID)
 public class EventHandler {
 
     @SubscribeEvent

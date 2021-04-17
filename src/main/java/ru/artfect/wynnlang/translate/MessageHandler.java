@@ -19,6 +19,7 @@ public class MessageHandler extends ChannelInboundHandlerAdapter {
         if (msg == null)
             return;
 
+        /*
         if (msg instanceof SPacketOpenWindow) {
             SPacketOpenWindow p = (SPacketOpenWindow) msg;
             ClientContainerOpenEvent event = new ClientContainerOpenEvent(p.getWindowId(), p.getGuiId(), p.getWindowTitle(), p.getSlotCount(), p.getEntityId());
@@ -32,7 +33,7 @@ public class MessageHandler extends ChannelInboundHandlerAdapter {
             Score score = new Score(sb, new ScoreObjective(sb, event.getObjective(), IScoreCriteria.DUMMY), event.getName());
             score.setScorePoints(event.getValue());
             msg = new SPacketUpdateScore(score);
-        }
+        }*/
         super.channelRead(ctx, msg);
     }
 }

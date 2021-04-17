@@ -25,8 +25,10 @@ import java.util.regex.Pattern;
 public class WynnLang {
     public static boolean translated = true;
 
-    public static Map<TextType, HashMap<String, String>> common = new HashMap<>();
-    public static Map<TextType, HashMap<Pattern, String>> regex = new HashMap<>();
+    public static Map<TextType, Map<String, String>> common = new HashMap<>();
+    public static Map<TextType, Map<Pattern, String>> regex = new HashMap<>();
+
+    public static boolean ready = false;
 
     public static void sendMessage(String message) {
         Minecraft.getMinecraft().player.sendMessage(new TextComponentString(Reference.CHAT_PREFIX + " " + message));

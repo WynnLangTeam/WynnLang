@@ -3,7 +3,8 @@
   "package": "ru.artfect.wynnlang.mixin",
   "mixins": [
     "MixinMinecraft",
-    "TestMixin"
+    "TextComponentMixin",
+    "FontRendererMixin"
   ],
   "client": [],
   "server": []

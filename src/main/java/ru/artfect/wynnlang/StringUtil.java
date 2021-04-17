@@ -14,6 +14,16 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 public class StringUtil {
+
+    public static String handleString(String str) {
+        for (WynnLang.TextType textType : WynnLang.TextType.values()) {
+            String translatedText = handleString(textType, str);
+            if (translatedText != null)
+                return translatedText;
+        }
+        return null;
+    }
+
     public static String handleString(WynnLang.TextType textType, String str) {
         String s = str.replace("§r", "");
         String replace = findReplace(textType, s);

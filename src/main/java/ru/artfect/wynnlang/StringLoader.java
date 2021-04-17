@@ -29,17 +29,19 @@ public class StringLoader {
 
         if (Loader.isModLoaded("wynnexp")) {
             WynnLang.common.get(WynnLang.TextType.ITEM_NAME).remove("§dQuest Book");
-            HashMap<String, String> loreMap = WynnLang.common.get(WynnLang.TextType.ITEM_LORE);
+            Map<String, String> loreMap = WynnLang.common.get(WynnLang.TextType.ITEM_LORE);
             loreMap.remove("§a\u2714§7 Class Req: Mage/Dark Wizard");
             loreMap.remove("§a\u2714§7 Class Req: Warrior/Knight");
             loreMap.remove("§a\u2714§7 Class Req: Archer/Hunter");
             loreMap.remove("§a\u2714§7 Class Req: Shaman/Skyseer");
         }
+
+        WynnLang.ready = true;
     }
 
     private static void generateMobBossBarFromRegularNames() {
-        HashMap<Pattern, String> bossBar = WynnLang.regex.get(WynnLang.TextType.BOSSBAR);
-        HashMap<String, String> entity = WynnLang.common.get(WynnLang.TextType.ENTITY_NAME);
+        Map<Pattern, String> bossBar = WynnLang.regex.get(WynnLang.TextType.BOSSBAR);
+        Map<String, String> entity = WynnLang.common.get(WynnLang.TextType.ENTITY_NAME);
         entity.forEach((p, r) -> {
             // p = "§aStray Page§6 [Lv. 1]"
             // r = "§aБлуждающая Страница§6 [Ур. 1]"
@@ -69,7 +71,7 @@ public class StringLoader {
             System.out.println(name);
             BufferedReader br = new BufferedReader(new InputStreamReader(WynnLang.class.getResourceAsStream("/" + name + "/list.txt"), StandardCharsets.UTF_8));
             String line;
-            HashMap map = WynnLang.common.get(textType);
+            Map map = WynnLang.common.get(textType);
             while ((line = br.readLine()) != null) {
                 loadFile(name + "/" + line, map, false);
             }
