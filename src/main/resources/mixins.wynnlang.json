@@ -4,6 +4,7 @@
   "mixins": [
     "MixinMinecraft",
     "TextComponentMixin",
+    "TextComponentStringMixin",
     "FontRendererMixin",
     "ScoreboardMixin"
   ],

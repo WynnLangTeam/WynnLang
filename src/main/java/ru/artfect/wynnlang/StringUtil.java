@@ -40,10 +40,6 @@ public class StringUtil {
         String s = str.replace("§r", "");
         String replace = findReplace(textType, s);
 
-        if (textType == WynnLang.TextType.CHAT && str.contains("By order of Her Majesty of Fruma, no one is allowed to cross the border into her lands, punishable by death.")) {
-            System.out.println("test " + replace);
-        }
-
         if (replace != null) {
             return replace.isEmpty() ? null : replaceFound(textType, s, replace);
         } else {
