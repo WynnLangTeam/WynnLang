@@ -17,18 +17,33 @@ import java.util.regex.Pattern;
 
 public class StringUtil {
 
-    public static String handleString(String str) {
-        for (WynnLang.TextType textType : WynnLang.TextType.values()) {
-            String translatedText = handleString(textType, str);
-            if (translatedText != null)
-                return translatedText;
+    private static int fullCacheCapacity = WynnLang.regex.values().stream().mapToInt(Map::size).sum() / 100 + WynnLang.common.values().stream().mapToInt(Map::size).sum() / 100;
+    private static Map<String, String> fullCache = new LinkedHashMap<String, String>(fullCacheCapacity, 0.7F, true) {
+        @Override
+        protected boolean removeEldestEntry(Map.Entry eldest) {
+            return size() > fullCacheCapacity;
         }
-        return null;
+    };
+
+    public static String handleString(String str) {
+        return fullCache.computeIfAbsent(str,key-> {
+            for (WynnLang.TextType textType : WynnLang.TextType.values()) {
+                String translatedText = handleString(textType, str);
+                if (translatedText != null)
+                    return translatedText;
+            }
+            return null;
+        });
     }
 
     public static String handleString(WynnLang.TextType textType, String str) {
         String s = str.replace("§r", "");
         String replace = findReplace(textType, s);
+
+        if (textType == WynnLang.TextType.CHAT && str.contains("By order of Her Majesty of Fruma, no one is allowed to cross the border into her lands, punishable by death.")) {
+            System.out.println("test " + replace);
+        }
+
         if (replace != null) {
             return replace.isEmpty() ? null : replaceFound(textType, s, replace);
         } else {
