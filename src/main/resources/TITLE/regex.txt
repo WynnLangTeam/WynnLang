@@ -9,7 +9,7 @@
 §cThe cave collapses in (\d+) second(|s)@§cПещера обрушится через (r1) секунд
 §6Bridge deploys in (\d+) second(|s)@§6Мост достроится через (r1) секунд
 (§b[a-zA-Z0-9_]{1,16}) has been killed@(r1) был убит
-(§a\+\d+ §7[A-Za-z \-'’֎7]+§a) to pouch@(r1) в мешок
+(§a\+\d+ §7[A-Za-z \-'’֎7\?]+§a) to pouch@(r1) в мешок
 §7Blocks removed: (§7\d+§7\/\d+)@§7Блоков убрано: (r1)
 (§6[0-9:]+) left@(r1) осталось
 (§7\[[0-9\/]+\]) Bodies Cleaned@(r1) Тел Очищено

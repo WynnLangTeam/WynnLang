@@ -19,3 +19,4 @@
 §7[2/4] §2Bored Farmer: §aFor §3[Egg]§a, you can get them by slaying a few chickens.@§7[2/4] §2Скучающий Фермер: §3[Яйца]§a можно получить, если убить несколько куриц.
 §7[3/4] §2Bored Farmer: §aFor §3[Bucket of Milk]§a, we have our very own merchant selling those right over there.@§7[3/4] §2Скучающий Фермер: §3[Ведро Молока]§a можно купить у торговца прямо вон там.
 §7[4/4] §2Bored Farmer: §aFor §3[Wheat Grains]§a, get a scythe from the Tool Merchant and §bRight-Click §awheat nearby. Make sure they are of the same quality.@§7[4/4] §2Скучающий Фермер: §aДля §3[Пшеничных Зерен]§a добудь мотыгу у Торговца Инструментами и жми §bПравым Кликом§a по пшенице. Убедись, что они будут одинакового уровня.
+§7[4/4] §2Bored Farmer: §aFor §3[Wheat Grains]§a, get a scythe from the Tool Merchant and §bRight-Click §awheat nearby.@§7[4/4] §2Скучающий Фермер: §aДля §3[Пшеничных Зерен]§a добудь мотыгу у Торговца Инструментами и жми §bПравым Кликом§a по пшенице.

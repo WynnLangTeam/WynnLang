@@ -778,6 +778,7 @@
 §7Jump to Page 8@§7Перейти на 8 страницу
 §7Jump to Page 5@§7Перейти на 5 страницу
 §7Jump to Page 9@§7Перейти на 9 страницу
+§7Jump to Page 11@§7Перейти на 11 страницу
 §7Jump to Page 13@§7Перейти на 13 страницу
 §7Jump to Page 17@§7Перейти на 17 страницу
 §7Jump to Page 21@§7Перейти на 21 страницу
@@ -823,6 +824,7 @@
 §dAlchemism Station@§dСтанция Алхимии
 §dScribing Station@§dСтанция Изготовления Свитков
 §dCooking Station@§dСтанция Кулинарии
+§dEmerald Merchant@§dБанкир
 §bLeft-Click§f to edit icon@§bЛевый Клик§f для редактирования иконки 
 §a§lAttack with your own emeralds@§a§lАтаковать со своими эмеральдами
 §6§lAttack with your Guild's emeralds@§6§lАтаковать с эмеральдами гильдии
@@ -924,6 +926,7 @@
 §7Click on an item to add@§7Нажми на предмет для добавления
 §cUnlock this slot when your pet reaches Lv. 64@§cРазблокируй этот слот когда твой питомец достигнет Ур. 64
 §cUnlock this slot when your pet reaches Lv. 72@§cРазблокируй этот слот когда твой питомец достигнет Ур. 72
+§cUnlock this slot when your pet reaches Lv. 80@§cРазблокируй этот слот когда твой питомец достигнет Ур. 80
 §aConfirm Task@§aПодтвердить Задачу
 §7Empty Backup Slot@§7Пустой Бэкап Слот
 §cCancel Booth@§cОтмена Палатки
@@ -957,7 +960,63 @@
 §a§lSend Gift@§a§lОтравка Подарков
 §e§lOrphion's Nexus of LightÀ@§e§lНексус Света Орфиона
 §a§lFinish Changes@§a§lЗавершить Изменения
-§a§lAttack for free@§a§lАттакуй бесплатно
+§a§lAttack for free@§a§lАтакуй бесплатно
+§bDialogue History@§bИстория Диалогов
+§a§lCreate a Party@§a§lСоздать пати
+§b§lSearch Parties@§b§lНайти пати
+§b§lDescription@§b§lОписание
+§e§lMin Combat Level@§e§lМин Комбат Уровень
+§a§lMax Player Count@§a§lМаксимальное кол-во игроков
+§d§lParty Type@§d§lТип Пати
+§7§lConfirm Creation@§7§lПодтвердить Создание
+§b§lName Filter@§b§lФильтр по Названию
+§e§lMin Combat Level Filter@§e§lФильтр по Мин Комбат Уровню
+§e§lShow Full@§e§lОтображать Заполненные
+§dQuick Stash@§dБыстрый Переброс
+§dDump Inventory@§dСброс Инвентаря
+§e§lSort Options@§e§lВарианты Сортировки
+§aPlace Build@§aУстановить Билд
+§cReset Build Stand@§cСбросить Билд Стенд
+§fRename Build Stand@§fПереименовать Билд Стенд
+§bSwitch Builds@§bСменить Билды
+§cIsland Settings@§cНастройки Острова
+§dCombat Dummy@§dКомбат Кукла
+§cRules@§cПравила
+§eWeather@§eПогода
+§dIsland Edit Permissions@§dИзменение Разрешений Острова
+§6Island Borders@§6Границы Острова
+§dCombat Dummy@§dКомбат Кукла
+§aAdd Builder@§aДобавление Билдера
+§eDawn@§eРассвет
+§bNoon@§bПолдень
+§dCycle@§dЦикл
+§6Evening@§6Утро
+§3Midnight@§3Полночь
+§9Toggle Rain@§9Отключение Дождя
+§cPvP@§cПвП
+§dSpells@§dЗаклинания
+§dMovement Spells@§dЗаклинания Передвижения
+§6Main Attack@§6Основные Атаки
+§2Poison@§2Яд
+§aFriendly Fire@§aОгонь по Своим
+§eParty Friendly Fire@§eПати Огонь по Своим
+§bGuild Friendly Fire@§bГильдия Огонь по Своим
+§bThorns and Reflection@§bШипы и Отражения
+§cHealth Potions@§cЛечебные Зелья
+§3Mana Potions@§3Мана Зелья
+§5Skill Potions@§5Зелья Умений
+§bInfinite Mana@§bБесконечная Мана
+§cInfinite HP Regen@§cБесконечный Реген ХП
+§6Double Identifications@§6Двойные Идентификации
+§cTriple HP@§cТройные ХП
+§eInfinite Sprint@§eБесконечный Спринт
+§5Night Vision@§5Ночное Зрение
+§ePets@§eПитомцы
+§fFlight@§fПолет
+§6Horses@§6Лошади
+§a§lConfirm Creation@§a§lПодтвердить Создание
+§e§lEdit Party@§e§lРедактировать Пати
+§a§lConfirm Edit@§a§lПодтвердить Редактирование
 
 ######################################SHOPS#################################################
 §aTribal Weapon Shop@§aМагазин Оружия Племени
@@ -1064,6 +1123,7 @@
 §aConfectionary Shop@§aМагазин Кондитера 
 §aSouvenir T-Shirt Shop@§aМагазин Сувенирных Футболок
 §aPlatinum Dealer Shop@§aМагазин Платины
+§6Boat Pass Shop@§6Магазин Морских Билетов
 
 ##########################################FILTERS#############################################
 §7§lAdd Crafted Items Only Filter@§7§lДобавить Фильтр "Крафтовые Предметы"
@@ -1394,6 +1454,41 @@ Eltom Teleportation Scroll@Свиток Телепортации в Элтом
 §bVolcanic Isles Boat PassÀ@§bБилет на Вулканические Острова 
 Sand-Swept���Tomb���Entrance Teleportation Scroll@§bСвиток Телепортации в Песчаную Гробницу
 Underworld���Crypt���Entrance Teleportation Scroll@§bСвиток Телепортации в Подземный Склеп 
+§bSelchar Pass §7for §b0²@§bСельчар Билет §7за §b0²
+§bSelchar Pass §7for §b12²@§bСельчар Билет §7за §b12²
+§bSelchar Pass §7for §b22²@§bСельчар Билет §7за §b22²
+§bSelchar Pass §7for §b24²@§bСельчар Билет §7за §b24²
+§bSelchar Pass §7for §b26²@§bСельчар Билет §7за §b26²
+§bSelchar Pass §7for §b20²@§bСельчар Билет §7за §b20²
+§bLlevigar Pass §7for §b42²@§bЛлевигар Билет §7за §b42²
+§bLlevigar Pass §7for §b32²@§bЛлевигар Билет §7за §b32²
+§bLlevigar Pass §7for §b26²@§bЛлевигар Билет §7за §b26²
+§bLlevigar Pass §7for §b24²@§bЛлевигар Билет §7за §b24²
+§bLlevigar Pass §7for §b28²@§bЛлевигар Билет §7за §b28²
+§bNodjug Island Pass §7for §b14²@§bНодгуж Остров Билет §7за §b14²
+§bNodjug Island Pass §7for §b8²@§bНодгуж Остров Билет §7за §b8²
+§bNemract Pass §7for §b32²@§bНемракт Билет §7за §b32²
+§bNemract Pass §7for §b42²@§bНемракт Билет §7за §b42²
+§bNemract Pass §7for §b34²@§bНемракт Билет §7за §b34²
+§bNemract Pass §7for §b12²@§bНемракт Билет §7за §b12²
+§bMaro Peaks Pass §7for §b18²@§bВершины Маро Билет §7за §b18²
+§bMaro Peaks Pass §7for §b12²@§bВершины Маро Билет §7за §b12²
+§bPirate Cove Pass §7for §b20²@§bПиратская Бухта Билет §7за §b20²
+§bPirate Cove Pass §7for §b16²@§bПиратская Бухта Билет §7за §b16²
+§bDead Island Pass §7for §b24²@§bМертвый Остров Билет §7за §b24²
+§bDead Island Pass §7for §b16²@§bМертвый Остров Билет §7за §b16²
+§bVolcanic Isles Pass §7for §b16²@§bВулканические Острова  Билет §7за §b16²
+§bVolcanic Isles Pass §7for §b18²@§bВулканические Острова  Билет §7за §b18²
+§bBear Zoo Island Pass §7for §b4²@§bЗоопарк-Остров Билет §7за §b4²
+§bDurum Isles Pass §7for §b4²@§bДурум Острова Билет §7за §b4²
+§bRooster Island Pass §7for §b4²@§bРустер Остров Билет §7за §b4²
+§bHalf Moon Island Pass §7for §b8²@§bОстров Полумесяца Билет §7за §b8²
+§bMage Island Pass §7for §b8²@§bОстров Магов Билет §7за §b8²
+§bZhight Island Pass §7for §b16²@§bЖигт Остров Билет §7за §b16²
+§bJofash Docks Pass §7for §b32²@§bДжофаш Доки Билет §7за §b32²
+§bGalleon's Graveyard Pass §7for §b16²@§bКладбище Галеона Билет §7за §b16²
+§bSkiens Island Pass §7for §b10²@§bСкиенс Остров Билет §7за §b10²
+§bOak Boat@§bЛодка
 
 ########################################GUILD#############################################
 §7§lMobs@§7§lМобы
@@ -1539,6 +1634,13 @@ EldritchÀÀÀOutlook Key@§6Ключ от Жуткого Наблюдателя
 §4CorruptedÀÀÀUndergrowthÀÀÀRuins Key@§4Испорченный Ключ от Заросших Руин
 §4Broken CorruptedÀÀÀUndergrowthÀÀÀRuins Key@§4Разбитый Испорченный Ключ от Заросших Руин
 §4Broken CorruptedÀÀÀUndergrowthÀÀÀRuins KeyÀ@§4Разбитый Испорченный Ключ от Заросших Руин
+§4Broken Lost Sanctuary Key@§4Разбитый Ключ от Затерянного Святилища
+§4Broken Underworld Crypt Key@§4Разбитый Ключ от Подземного Склепа 
+§4Broken Sand-Swept Tomb Key@§4Разбитый Ключ от Песчаной Гробницы 
+§4Broken Infested Pit Key@§4Разбитый Ключ от Зараженной Ямы
+§4Broken Decrepit Sewers Key@§4Разбитый Ключ от Ветхой Канализации 
+§4Broken Ice Barrows Key@§4Разбитый Ключ от Ледяного Кургана
+§4Broken Undergrowth Ruins Key@§4Разбитый Ключ от Заросших Руин
 
 ########################QIRA CATALYSTS#######################
 §fThunder Catalyst VIII@§fКатализатор Грома VIII
@@ -2145,8 +2247,6 @@ Haunted Mask@§fПроклятая Маска
 §fLava Bucket@§fВедро Лавы
 §fCanned Abis@§fКоно Поля
 §fDecayed Matter@§fГнилое Вещество
-Az Rune@§fАз Руна
-§fAz Rune@§fАз Руна
 §fIron Cog Piece@§fЖелезный Кусок Шестеренки
 §fGolden Cog Piece@§fЗолотой Кусок Шестеренки
 §fSoul of Referick@§fДуша Реферика
@@ -2297,6 +2397,9 @@ Water Bucket@Ведро Воды
 Fishing Rod@Удочка
 Prismarine Gadget@Призмариновый Гаджет
 Stone Shovel@Каменная Лопата
+§8Corrupted Evidence@§8Испорченное Доказательство
+§6Time Fragment@§6Фрагмент Времени
+§4Potion of Obsidian Skin §7[1/1]@§4Зелье Обсидиановой Кожи §7[1/1]
 
 ###################################CRATES####################################
 §e§lLoot Crate §6[Tier I]@§e§lЛут Контейнер §6[Уровень I]
@@ -2552,6 +2655,9 @@ Siegfried Diary Collection@§fКоллекция Дневников Зигфри
 §3Uth Rune@§3Утх Руна
 §2Tol RuneÀ@§2Тол Руна
 §2Tol Rune@§2Тол Руна
+Az Rune@§fАз Руна
+§fAz Rune@§fАз Руна
+§bAz Rune@§bАз Руна
 §6Redbeard's Hair@§6Волос Редберда
 §6Theorick's Ice Shard@§6Осколок Льда Теорика
 §6Corrupted Theorick's Ice Shard@§6Испорченный Осколок Льда Теорика
@@ -2724,10 +2830,15 @@ Fresh Clay@§fСвежая Глина
 §7Rat Tail@§7Хвост Крысы
 §cNimble Tome of Weapon Mastery I@§cТом Проворства Мастера Оружия I
 §cWarding Tome of Weapon Mastery I@§cТом Отражения Мастера Оружия I
+§cWarding Tome of Weapon Mastery II@§cТом Отражения Мастера Оружия II
 §cEarthbound Tome of Weapon Mastery I@§cТом Земли Мастера Оружия I
+§cEarthbound Tome of Weapon Mastery II@§cТом Земли Мастера Оружия II
 §cCosmic Tome of Weapon Mastery I@§cТом Космоса Мастера Оружия I
+§cCosmic Tome of Weapon Mastery II@§cТом Космоса Мастера Оружия II
 §cAthletic Tome of Weapon Mastery I@§cТом Атлета Мастера Оружия I
 §cMystical Tome of Weapon Mastery I@§cТом Мистики Мастера Оружия I
+§cMystical Tome of Weapon Mastery II@§cТом Мистики Мастера Оружия II
+§5Seismic Tome of Weapon Mastery II@§5Том Землетрясения Мастера Оружия II
 §cVampiric Tome of Armour Mastery I@§cТом Вампира Мастера Брони I
 §cSorcerer's Tome of Armour Mastery I@§cТом Колдуна Мастера Брони I
 §cRetaliating Tome of Armour Mastery I@§cТом Отомщения Мастера Брони I
@@ -2743,12 +2854,15 @@ Fresh Clay@§fСвежая Глина
 §cSorcerer's Tome of Armour Mastery II@§cТом Колдуна Мастера Брони II
 §cWeightless Tome of Armour Mastery II@§cТом Невесомости Мастера Брони II
 §cDestructive Tome of Armour Mastery II@§cТом Разрушения Мастера Брони II
+§5Pulsing Tome of Armour Mastery II@§5Том Импульса Мастера Брони II
 §5Unidentified Mastery Tome@§5Неидентифицированный Том Мастера
+§bTome of Gathering Mastery I@§bТом Мастера Собирателя I
 §bTome of Gathering Mastery II@§bТом Мастера Собирателя II
 §bTome of Slaying Mastery II@§bТом Мастера Убийств II
 §bTome of Weapon Mastery I@§bТом Мастера Оружия I
 §bTome of Armour Mastery I@§bТом Мастера Брони I
 §bTome of Dungeoneering Mastery I@§bТом Мастера Данжей I
+§bTome of Dungeoneering Mastery II@§bТом Мастера Данжей II
 §bTome of Slaying Mastery I@§bТом Мастера Убийств I
 §bCorkian Amplifier I@§bКоркианский Усилитель I
 §bCorkian Amplifier II@§bКоркианский Усилитель II
@@ -2768,6 +2882,11 @@ Corkian Amplifier 2À@§bКоркианский Усилитель II
 §aBlock of Emerald@§aБлок Эмеральда
 §fSun Token@§fЖетон Солнца
 §fIce Token@§fЖетон Льда
+§eVolatile Core@§eПеременчивое Ядро
+§dBlood Melange [2/2]@§dКровавая Смесь [2/2]
+§dBlood Melange [1/2]@§dКровавая Смесь [1/2]
+§eForgery Chain Piece@§eКусок Цепи Кузницы
+§cCharm of the Light@§cАмулет Света
 Broken Underworld Crypt Key@Разбитый Ключ от Подземного Склепа
 Broken Undergrowth Ruins Key@Разбитый Ключ от Заросших Руин 
 Broken Decrepit Sewers Key@Разбитый Ключ от Ветхой Канализации 

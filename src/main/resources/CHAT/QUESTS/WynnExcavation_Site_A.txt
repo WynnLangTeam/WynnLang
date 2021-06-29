@@ -1,7 +1,7 @@
 §7[1/4] §2Vade: §aOh, hey kid. Wanna make some money?@§7[1/4] §2Вейд: §aОх, привет мальчуган. Не хочешь подзаработать?
 §7[2/4] §2Vade: §aI need you to translate this ancient text.@§7[2/4] §2Вейд: §aМне нужен ты, чтобы помочь перевести древний текст.
 §7[3/4] §2Vade: §aJust run it down to the lab assistant, Tesha.@§7[3/4] §2Вейд: §aПросто сбегай в палатку-лабораторию моего ассистента, его зовут Теша.
-§7[4/4] §2Vade: §aI'd take it myself, but I'm far too important for grunt work! The lab is up there in the tent, and don't you dare damage the translation!@§7[4/4] §2Вейд: §aЯ бы сам сходил, но занят здесь раскопками! Его лаборатория наверху в палатке, и смотри не повреди текст!
+§7[4/4] §2Vade: §aI'd take it myself, but I'm far too important for grunt work! §bThe lab is up there in the tent,§a and don't you dare damage the translation!@§7[4/4] §2Вейд: §aЯ бы сам сходил, но занят здесь раскопками! §bЕго лаборатория наверху в палатке,§a и смотри не повреди текст!
 §7[1/8] §2Tesha: §aHello, welcome to WynnExcavation Labs!@§7[1/8] §2Теша: §aПривет и добро пожаловать в лабораторию ВиннЭкскавейшен!
 §7[2/8] §2Tesha: §aOh Vade sent you?@§7[2/8] §2Теша: §aОх, Вейд прислал тебя?
 §7[3/8] §2Tesha: §aOh yes, the tablet I was waiting for!@§7[3/8] §2Теша: §aАх да, дощечка, которую я ждал!

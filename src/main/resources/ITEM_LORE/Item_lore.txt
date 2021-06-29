@@ -233,8 +233,10 @@
 §7- Refined Starfish Meat 1@§7- Переработанное Мясо Морской Звезды 1
 §7- Refined Starfish Meat 2@§7- Переработанное Мясо Морской Звезды 2
 §7- Refined Starfish Meat 3@§7- Переработанное Мясо Морской Звезды 3
+§7- Refined Starfish Oil 1@§7- Переработанный Жир Морской Звезды 1
 §7- Refined Sorghum Grains 3@§7- Переработанное Зерно Сорго 3
-
+§7- Refined Sky Paper 3@§7- Переработанная Лиственная Бумага 3
+§7- Refined Dernic Oil 1@§7- Переработанный Дерник Жир 1
 
 ###########################OTHERS###############################
 §7Currency@§7Валюта
@@ -295,6 +297,7 @@
 §7Keep in inventory to gain bonus@§7Держи в инвентаре для получения бонуса
 §cFabled Raid Reward@§cСказочная Рейд Награда
 §cFabled Raid Reward [2]@§cСказочная Рейд Награда [2]
+§cFabled Raid Reward [3]@§cСказочная Рейд Награда [3]
 §5Mythic Raid Reward@§5Мифическая Рейд Награда
 §5Mythic Raid Reward [2]@§5Мифическая Рейд Награда [2]
 
@@ -321,6 +324,7 @@
 §3[-732, 65, -974]@ 
 §7Signed,@§7Подпись,
 §7Andoni, Advisor for the King of Troms"@§7Андони, Советник Короля Тромса"
+§7Carlos, Adviser for the King of Troms"@§7Карлос, Советник Короля Тромса"
 §7§oWhen leaving the island, the real@§7§oКогда покинешь остров, настоящее
 §7§otreasure will be found, buried deep.@§7§oсокровище будет найдено, похоронено глубоко.
 §7This rusted old hook is useless to you.@§7Этот ржавый старый крюк бесполезен для тебя.
@@ -651,6 +655,9 @@
 §4-§7 Duration:§f 15 seconds@§4-§7 Длительность:§f 15 секунд
 §4-§7 Cast Time:§f 3 seconds@§4-§7 Время Каста:§f 3 секунды
 §4-§7 Cooldown:§f 15 seconds@§4-§7 Задержка:§f 15 секунд
+§4- §7Duration: §f4 seconds@§4-§7 Длительность: §f4 секунды
+§4- §7Cast Time: §f3 seconds@§4-§7 Время Каста:§f 3 секунды
+§e- §7Location Req: Corrupted Dungeon@§e- §7Локация Необходима: Испорченный Данж
 §e- §7Combat Lv. Min: 91@§e- §7Комбат Ур. Мин: 91
 §e- §7Quest Req: The Feathers Fly Part I@§e- §7Квест Необ.: The Feathers Fly Part I
 §7This strange device is resonating@§7Это странное устройство излучает
@@ -726,6 +733,15 @@
 §7person!@§7любящего море человека!
 §7Show to the world how@§7Покажи миру как богато
 §7wealthy you seem!@§7ты выглядишь!
+§f1 x Crate of Rat Poison@§f1 x Контейнер Крысиного Яда
+§7A sign of corruption in@§7Знак порчи на
+§7in the area...@§7этой территории...
+§7A mysterious §7artifact@§7Загадочный артефакт
+§7from long, long §7ago.@§7из далекого, далекого времени.
+§7- §aEffects:@§7- §aЭффекты:
+§7Drinking this potion will allow you to enter@§7Употребление этого зелья позволяет тебе войти
+§7the Corrupted Lava Springs without being burned.@§7в Испорченный Источник Лавы без проблем.
+§a✓ §7Combat Lv. Min: 18@§a✓ §7Комбат Ур. Мин: 18
 
 #####################RECIPES################################
 §6§lRing Recipes:@§6§lРецепты Колец:
@@ -1573,6 +1589,7 @@
 §6 - §c✖ §41 Siegfried Mug@§6 - §c✖ §41 Кружка Зигфрида
 §6 - §c✖ §41 Dragon's Tooth@§6 - §c✖ §41 Зуб Дракона
 §6 - §c✖ §41 Siegfried's Autograph@§6 - §c✖ §41 Автограф Зигфрида
+§6 - §a✔ §21 Siegfried's Autograph@§6 - §a✔ §21 Автограф Зигфрида
 §6 - §c✖ §41 Unknown Currency@§6 - §c✖ §41 Неизвестная Валюта
 §6 - §a✔ §21 Fiery Dagger@§6 - §a✔ §21 Пламенный Кинжал
 §6 - §c✖ §41 Fiery Dagger@§6 - §c✖ §41 Пламенный Кинжал
@@ -1619,7 +1636,7 @@
 §6 - §c✖ §43 Golden Teeth@§6 - §c✖ §43 Золотых Зуба
 §6 - §c✖ §42 Golden Teeth@§6 - §c✖ §42 Золотых Зуба
 §6 - §c✖ §41 Corrupted Soul Token@§6 - §c✖ §41 Жетон Испорченной Души
-§6 - §a✔ §21 Corrupted Soul Token@§6 - §a✔ §21 Жетон Испорченной Еды
+§6 - §a✔ §21 Corrupted Soul Token@§6 - §a✔ §21 Жетон Испорченной Души
 §6 - §c✖ §42 The Eye's Pupil@§6 - §c✖ §42 Зрачка Глаза
 §6 - §c✖ §43 The Eye's Pupil@§6 - §c✖ §43 Зрачка Глаза
 §6 - §c✖ §44 The Eye's Pupil@§6 - §c✖ §44 Зрачка Глаза
@@ -1637,6 +1654,50 @@
 §6 - §a✔ §21 Magical Book Voucher@§6 - §a✔ §21 Ваучер на Магическую Книгу
 §6 - §c✖ §41 Magical Book Voucher@§6 - §c✖ §41 Ваучер на Магическую Книгу
 §6 - §c✖ §41 Unknown Voucher@§6 - §c✖ §41 Неизвестный Ваучер
+§6 - §c✖ §41 Selchar Boat Pass@§6 - §c✖ §41 Билет в Сельчар
+§6 - §c✖ §41 Llevigar Boat Pass@§6 - §c✖ §41 Билет в Ллевигар
+§6 - §c✖ §41 Bear Zoo Boat Pass@§6 - §c✖ §41 Билет на Зоопарк-Остров
+§6 - §c✖ §41 Durum Isles Boat Pass@§6 - §c✖ §41 Билет на Дурум Острова
+§6 - §c✖ §41 Rooster Island Boat Pass@§6 - §c✖ §41 Билет на Рустер Остров
+§6 - §c✖ §41 Half Moon Island Boat Pass@§6 - §c✖ §41 Билет на Остров Полумесяца
+§6 - §c✖ §41 Mage Island Boat Pass@§6 - §c✖ §41 Билет на Остров Магов
+§6 - §c✖ §41 Nodguj Island Boat Pass@§6 - §c✖ §41 Билет на Остров Нодгуж
+§6 - §c✖ §41 Zhight Island Boat Pass@§6 - §c✖ §41 Билет на Жигт Остров
+§6 - §c✖ §41 Nemract Boat Pass@§6 - §c✖ §41 Билет в Немракт
+§6 - §c✖ §41 Skiens Island Boat Pass@§6 - §c✖ §41 Билет на Скиенс Остров
+§6 - §c✖ §41 Maro Peaks Boat Pass@§6 - §c✖ §41 Билет на Вершины Маро
+§6 - §c✖ §41 Galleon's Graveyard Pass@§6 - §c✖ §41 Билет на Кладбище Галлеона
+§6 - §c✖ §41 Pirate Cove Boat Pass@§6 - §c✖ §41 Билет в Пиратскую Бухту
+§6 - §c✖ §41 Dead Island Boat Pass@§6 - §c✖ §41 Билет на Мертвый Остров
+§6 - §c✖ §41 Volcanic Isles Boat Pass@§6 - §c✖ §41 Билет на Вулкунические Острова
+§6 - §a✔ §21 Selchar Boat Pass@§6 - §a✔ §21 Билет в Сельчар
+§6 - §a✔ §21 Llevigar Boat Pass@§6 - §a✔ §21 Билет в Ллевигар
+§6 - §a✔ §21 Bear Zoo Boat Pass@§6 - §a✔ §21 Билет на Зоопарк-Остров
+§6 - §a✔ §21 Durum Isles Boat Pass@§6 - §a✔ §21 Билет на Дурум Острова
+§6 - §a✔ §21 Rooster Island Boat Pass@§6 - §a✔ §21 Билет на Рустер Остров
+§6 - §a✔ §21 Half Moon Island Boat Pass@§6 - §a✔ §21 Билет на Остров Полумесяца
+§6 - §a✔ §21 Mage Island Boat Pass@§6 - §a✔ §21 Билет на Остров Магов
+§6 - §a✔ §21 Nodguj Island Boat Pass@§6 - §a✔ §21 Билет на Остров Нодгуж
+§6 - §a✔ §21 Zhight Island Boat Pass@§6 - §a✔ §21 Билет на Жигт Остров
+§6 - §a✔ §21 Nemract Boat Pass@§6 - §a✔ §21 Билет в Немракт
+§6 - §a✔ §21 Skiens Island Boat Pass@§6 - §a✔ §21 Билет на Скиенс Остров
+§6 - §a✔ §21 Maro Peaks Boat Pass@§6 - §a✔ §21 Билет на Вершины Маро
+§6 - §a✔ §21 Galleon's Graveyard Pass@§6 - §a✔ §21 Билет на Кладбище Галлеона
+§6 - §a✔ §21 Pirate Cove Boat Pass@§6 - §a✔ §21 Билет в Пиратскую Бухту
+§6 - §a✔ §21 Dead Island Boat Pass@§6 - §a✔ §21 Билет на Мертвый Остров
+§6 - §a✔ §21 Volcanic Isles Boat Pass@§6 - §a✔ §21 Билет на Вулкунические Острова
+§6 - §c✖ §41 Time Fragment@§6 - §c✖ §41 Фрагмент Времени
+§6 - §c✖ §42 Time Fragment@§6 - §c✖ §42 Фрагмента Времени
+§6 - §c✖ §44 Time Fragment@§6 - §c✖ §44 Фрагмента Времени
+§6 - §c✖ §45 Time Fragment@§6 - §c✖ §45 Фрагментов Времени
+§6 - §c✖ §47 Time Fragment@§6 - §c✖ §47 Фрагментов Времени
+§6 - §c✖ §49 Time Fragment@§6 - §c✖ §49 Фрагментов Времени
+§6 - §a✔ §21 Time Fragment@§6 - §a✔ §21 Фрагмент Времени
+§6 - §a✔ §22 Time Fragment@§6 - §a✔ §22 Фрагмента Времени
+§6 - §a✔ §24 Time Fragment@§6 - §a✔ §24 Фрагмента Времени
+§6 - §a✔ §25 Time Fragment@§6 - §a✔ §25 Фрагментов Времени
+§6 - §a✔ §27 Time Fragment@§6 - §a✔ §27 Фрагментов Времени
+§6 - §a✔ §29 Time Fragment@§6 - §a✔ §29 Фрагментов Времени
 
 #######################CLASSES/SPELLS###################
 §eCharacter Info:@§eИнфо о персонаже:
@@ -2055,6 +2116,7 @@
 §7Teleports to: Gelibord@§7Телепорт в: Гелиборд
 §7Teleports to: Thesead@§7Телепортирует в: Тесеад
 §7Teleports to: Detlas@§7Телепорт в: §fДетлас
+§7Teleports to: Mage Island@§7Телепорт на: §fОстров Магов
 §3- §7Teleports to: §fThanos@§3- §7Телепорт в: §fТанос
 §3- §7Teleports to: §fBucie@§3- §7Телепорт в: §fБучи
 §3- §7Teleports to: §fSelchar@§3- §7Телепорт в: §fСельчар
@@ -2161,6 +2223,42 @@
 §7Cost: §f2 Soul Points@§7Цена: §f2 Очка Душ
 §a-§7 Coords: §f-600, -3550@§a-§7 Координаты: §f-600, -3550
 §a- §7Coords:§f -860, -4900@§a- §7Координаты:§f -860, -4900
+§b- §7Status: §fHostile@§b- §7Статус: §fВраждебный
+§b- §7Status: §fPeaceful@§b- §7Статус: §fМирный
+§b- §7Coords: §f70, -3070@§b- §7Координаты: §f70, -3070
+§b- §7Coords: §f-2125, -4275@§b- §7Координаты: §f-2125, -4275
+§b- §7Coords: §f-300, -2500@§b- §7Координаты: §f-300, -2500
+§b- §7Coords: §f500, -2900@§b- §7Координаты: §f500, -2900
+§b- §7Coords: §f-100, -2475@§b- §7Координаты: §f-100, -2475
+§b- §7Coords: §f-2530, -2527@§b- §7Координаты: §f-2530, -2527
+§b- §7Coords: §f870, -2830@§b- §7Координаты: §f870, -2830
+§b- §7Coords: §f700, -3330@§b- §7Координаты: §f700, -3330
+§b- §7Coords: §f-450, -2850@§b- §7Координаты: §f-450, -2850
+§b- §7Coords: §f60, -2215@§b- §7Координаты: §f60, -2215
+§b- §7Coords: §f130, -3770@§b- §7Координаты: §f130, -3770
+§b- §7Coords: §f-600, -3550@§b- §7Координаты: §f-600, -3550
+§b- §7Coords: §f-730, -3315@§b- §7Координаты: §f-730, -3315
+§b- §7Coords: §f770, -3880@§b- §7Координаты: §f770, -3880
+§b- §7Coords: §f-800, -3375@§b- §7Координаты: §f-800, -3375
+§b- §7Coords: §f370, -3470@§b- §7Координаты: §f370, -3470
+§7Click to fast-travel to §bSelchar@§7Кликни для перемещения в §bСельчар
+§7Click to fast-travel to §bLlevigar@§7Кликни для перемещения в §bЛлевигар
+§7Click to fast-travel to §bBear Zoo@§7Кликни для перемещения на §bЗоопарк-Остров
+§7Click to fast-travel to §bDurum Isles@§7Кликни для перемещения на §bДурум Острова
+§7Click to fast-travel to §bRooster Island@§7Кликни для перемещения на §bРустер Остров
+§7Click to fast-travel to §bHalf Moon Island@§7Кликни для перемещения на §bОстров Полумесяца
+§7Click to fast-travel to §bMage Island@§7Кликни для перемещения на §bОстров Магов
+§7Click to fast-travel to §bNodjug Island@§7Кликни для перемещения на §bНодгуж Остров
+§7Click to fast-travel to §bZhight Island@§7Кликни для перемещения на §bЖигт Остров
+§7Click to fast-travel to §bNemract@§7Кликни для перемещения в §bНемракт
+§7Click to fast-travel to §bJofash Dock@§7Кликни для перемещения в §bДжофаш Доки
+§7Click to fast-travel to §bMaro Peaks@§7Кликни для перемещения на §bВершины Маро
+§7Click to fast-travel to §bGalleon's Graveyard@§7Кликни для перемещения на §bКладбище Галлеона
+§7Click to fast-travel to §bPirate Cove@§7Кликни для перемещения в §bПиратскую Бухту
+§7Click to fast-travel to §bDead Island@§7Кликни для перемещения на §bМертвый Остров
+§7Click to fast-travel to §bVolcanic Isles@§7Кликни для перемещения на §bВулканические Острова
+§7Click to fast-travel to §bSkiens Island@§7Кликни для перемещения на §bСкиенс Остров
+§b- §7Price: §b128²@§b- §7Цена: §b128²
 
 ############################POTIONS###########################
 §4Effect:@§4Эффект:
@@ -2199,6 +2297,10 @@
 §8make you drunk over 120@§8делает тебя пьяным на 120
 §8seconds.@§8секунд.
 §88 and boost your Melee Damage@§88 и увеличивает твой Ближний Урон
+§4- §7Remove: §f99% §c❤@§4- §7Убирает: §f99% §c❤
+§8Drinking this potion will remove@§8§8Употребление этого зелья убирает
+§899% of your health and after@§899% твоего здоровья и после
+§82 seconds regenerate your health@§82 секунд регенерирует твое здоровье
 
 #########################INTERFACES#############################
 §7 - §fRefined Gudgeon Oil §7[Lv. 1]@§7 - §fПереработанный Жир Пескаря §7[Ур. 1]
@@ -2643,6 +2745,7 @@
 §7Currently in Corkus City@§7Сейчас в Коркус Сити
 §7Currently in Lutho@§7Сейчас в Луто
 §7Currently in Gavel Gate@§7Сейчас у Ворот Гавела
+§7Currently in Eltom@§7Сейчас в Элтоме
 §7Click here to@§7Кликни здесь для
 §7scrap your rewards.@§7утилизации своих наград.
 §7Get more pets@§7Больше питомцев
@@ -2673,11 +2776,6 @@
 §7Up to 5 of your latest deleted@§75 твоих последних удаленных 
 §7classes will show up here.@§7классов будут показаны здесь.
 §3Get it at §bwynncraft.com/store@§3Купи на §bwynncraft.com/store
-§7Players: §b5@§7Игроков: §b5
-§7Players: §b4@§7Игроков: §b4
-§7Players: §b3@§7Игроков: §b3
-§7Players: §b2@§7Игроков: §b2
-§7Players: §b1@§7Игроков: §b1
 §7Min. Lv. - §640@§7Мин. Ур. - §640
 §eClick to Visit@§eНажми для Визита
 §7Send your pet back to town@§7Отправь своего питомца в город
@@ -2692,6 +2790,7 @@
 §c [Left-Click to restore]@§c [Левый Клик для восстановления]
 §7§nRight-Click§7 to apply your@§7§nПравый Клик§7 для применения твоего
 §bx1 Corkian Amplifier(s)@§bx1 Коркианского Усилителя
+§bx2 Corkian Amplifier(s)@§bx2 Коркианских Усилителей
 §7This will cancel this booth. You will@§7Это отменит твою палатку. Ты не
 §7not be able to claim another booth@§7сможешь поставить еще одну палатку
 §7for §f20m§7 after canceling.@§7в течение §f20м§7 после отмены.
@@ -2709,10 +2808,206 @@
 §cSoulbound Item (Dark Wizard#1)@§cПерсональный Предмет (Темный Волшебник#1)
 §cSoulbound Item (Knight)@§cПерсональный Предмет (Рыцарь)
 §cSoulbound Item (Knight#1)@§cПерсональный Предмет (Рыцарь#1)
+§cSoulbound Item (Ninja)@§cПерсональный Предмет (Ниндзя)
+§cSoulbound Item (Ninja#1)@§cПерсональный Предмет (Ниндзя#1)
+§cSoulbound Item (Hunter)@§cПерсональный Предмет (Охотник)
+§cSoulbound Item (Hunter#1)@§cПерсональный Предмет (Охотник#1)
 §7There's no price information@§7Нет информации о цене
 §7about this item.@§7этого предмета.
 §7These are the calculated prices@§7Это расчитанные цены
 §7from the last 2 weeks.@§7за последние две недели.
+§8• Dialogue Start@§8• Старт Диалога
+§8• Dialogue End@§8• Конец Диалога
+§7§bLeft-Click to go Next@§7§bЛевый Клик для перехода вперед
+§7§bRight-Click to go Back@§7§bПравый Клик чтобы вернуться назад
+§7There's nothing here yet@§7Здесь пока ничего нет
+§7Click here to create@§7Нажми здесь для создания
+§7and open a public party@§7и открытия публичной пати
+§7Click here to filter@§7Нажми здесь для фильтрации 
+§7and search parties@§7и поиска пати
+§7§cRequired@§7§cОбязательно
+§7A short description of@§7Короткое описание
+§7your party goal.@§7цели твоей пати.
+§bCurrent Value:@§bТекущее Значение:
+§3None@§3Нет
+§7§3Current Value: §bNo@§7§3Текущее Значение: §bНет
+§7§3Current Value: §bYes@§7§3Текущее Значение: §bДа
+§aClick to modify@§aНажми для изменения
+§7Minimum combat level@§7Минимальный комбат уровень
+§7required for joining@§7нужный для присоединения к
+§7your party.@§7твоей пати.
+§7§aLeft Click§2 to increase by §a1@§7§aЛевый Клик§2 для повышения на §a1
+§7§cRight Click§4 to decrease by §c1@§7§cПравый Клик§4 для уменьшения на §c1
+§7§c§lTIP: §7Holding §fshift§7 while@§7§c§lСОВЕТ: §7Держи §fшифт§7 когда
+§7clicking increase/decrease@§7кликаешь для повышения/уменьшения
+§7by 5.@§7на 5 уровней сразу.
+§7Maximum amount of@§7Максимальное количество
+§7players that will be@§7игроков которое сможет
+§7able to join your party.@§7присоединиться к пати.
+§7Defines the goal of your@§7Определи цель своей
+§7public party@§7публичной пати
+§7§3- Grinding Mobs@§7§3- Фарм Мобов
+§7§3- Grinding Professions@§7§3- Фарм Профессий
+§7§3- Boss Altars@§7§3- Босс Алтари
+§7§3- Quests@§7§3- Квесты
+§7§3- Guild Recruitment@§7§3- Набор в Гильдию
+§7§3- Social@§7§3- Социальная
+§7§3- Others@§7§3- Другая
+§7§b- Grinding Mobs@§7§b- Фарм Мобов
+§7§b- Grinding Professions@§7§b- Фарм Профессий
+§7§b- Boss Altars@§7§b- Босс Алтари
+§7§b- Quests@§7§b- Квесты
+§7§b- Guild Recruitment@§7§b- Набор в Гильдию
+§7§b- Social@§7§b- Социальная
+§7§b- Others@§7§b- Другая
+§aLeft Click to go foward@§aЛевый Клик для перемещения вперед
+§aRight Click to go backward@§aПравый Клик для перемещения назад
+§7Creates and publishes@§7Создает и публикует
+§7your new party@§7твою новую пати
+§4You need to provide@§4Тебе нужно заполнить
+§4a description to confirm@§4описание для подтверждения
+§cRight click to cancel@§cПравый клик для отмены
+§7Filter based on the@§7Фильтровать по
+§7party owner name and@§7имени владельца пати и
+§7description.@§7описанию.
+§aLeft Click to modify@§aЛевый Клик для изменения
+§cRight Click to reset@§cПравый Клик для сброса
+§7Filters the minimum@§7Фильтровать по минимальному
+§7combat level required for@§7комбат уровню, необходимому для
+§7joining parties.@§7присоединения к пати.
+§7Filter parties based@§7Фильтровать пати по
+§7on its type.@§7их типу.
+§aClick to toggle@§aКликни для изменения
+§cShift-Right Click to reset@§cШифт+Правый Клик для сброса
+§7Should full parties@§7Заполненные пати
+§7be displayed on the@§7отображать в этом
+§7list?@§7списке?
+§7Stash items from your@§7Перебросить предметы из твоего
+§7inventory into existing,@§7инвентаря в существующие, не полностью
+§7non-full stacks in your bank@§7заполненные стаки в твоем банке
+§aClick to Quick Stash@§aКликни для Быстрого Переброса
+§7Dump items from your@§7Сбросить предметы из твоего
+§7inventory into the bank@§7инвентаря в твой банк
+§aClick to dump, except hotbar@§aКликни для сброса (кроме хотбара)
+§aRight-Click to dump everything@§aПравый Клик для сброса всего
+§7§3Type: §bOthers@§7§3Тип: §bДругая
+§7§3Type: §bSocial@§7§3Тип: §bСоциальная
+§7§3Type: §bGuild Recruitment@§7§3Тип: §bНабор в Гильдию
+§7§3Type: §bGrinding Mobs@§7§3Тип: §bФарм Мобов
+§7§3Type: §bBoss Altars@§7§3Тип: §bБосс Алтари
+§7§3Type: §bGrinding Professions@§7§3Тип: §bФарм Профессий
+§7§3Type: §bQuests@§7§3Тип: §bКвесты
+§eAvailable Options:@§eДоступные Варианты:
+§e- §7§7Most Recent@§e- §7§7Самые последние
+§e- §7§7Least Recent@§e- §7§7Самые недавние
+§e- §7§7Most Expensive@§e- §7§7Самые дорогие
+§e- §7§7Least Expensive@§e- §7§7Самые дешевые
+§e- §7§7Highest Level Range@§e- §7§7Самого высокого уровня
+§e- §7§7Lowest Level Range@§e- §7§7Самого низкого уровня
+§7§c✖ §4This party's world is full@§7§c✖ §4Мир этой пати заполнен
+§cYou cannot join this party@§cТы не можешь присоединиться к этой пати
+§aClick to join this party@§aНажми для присоединения к пати
+§7Click to buy@§7Кликни для покупки
+§7This will place your current@§7Это поместит твой текущий 
+§7build on the Build Stand. You@§7билд на Билд Стенд. Ты
+§7can retrieve it anytime.@§7можешь забрать его в любое время.
+§7This will give you back any@§7Это отдаст тебе назад любые
+§7items on it. You must have@§7предметы на нем. Ты должен иметь
+§7enough space in your inventory@§7достаточно места в своем инвентаре
+§7This will rename this@§7Это переименует твой
+§7Build Stand@§7Билд Стенд
+§7This will switch your current@§7Это поменяет твой текущий
+§7build with this one and change@§7билд на этот и поменяет 
+§7your Skill Points §f(Cost: 2 SP)@§7твои очки умений §f(Цена: 2 Очка Душ)
+§6Build:@§6Билд:
+§5Skill Points:@§5Очки Умений:
+§3Crafted by @§3Скрафтил 
+§7Left-Click to set up booth@§7Левый Клик для установки палатки
+§7Adds §b8 kills§7 towards the@§7Добавляет §b8 убийств§7 в
+§f§lForgery Chest§7 kill count.@§7зачет убийств §f§lСундука Кузницы§7
+§7Awarded to those who've@§7Присуждается тем, кто 
+§7bested the §fForgery§7.@§7переиграл §fКузницу§7.
+§7Modify your current island@§7Измени свои текущие островные
+§7behavior and settings.@§7характеристики и настройки.
+§7Modify your current@§7Измени свои текущие
+§7island rules.@§7правила острова.
+§aClick to go to the settings@§aКликни для перехода в настройки
+§7weather settings.@§7настройки погоды.
+§7Modify the list of people@§7Измени список игроков
+§7that can build on your island.@§7которые могут строить на твоем острове.
+§7Opening your island@§7Открытие твоих островных
+§7border allows other players@§7границ позволит другим игрокам
+§7to join your island through@§7присоединиться к твоему острову через
+§7the public list.@§7публичный список.
+§7§c✖ §7Borders: §fClosed@§7§c✖ §7Границы: §fЗакрыты
+§7§a✔ §7Borders: §fOpen@§7§a✔ §7Границы: §fОткрыты
+§7Builders are not able@§7Билдеры не смогут 
+§7to steal your island.@§7украсть твой остров.
+§7Once they leave, their@§7Когда они уходят, их
+§7blocks will be returned@§7блоки будут возвращены
+§7to your Block Bank.@§7в твой Банк Блоков.
+§aClick to add a new builder@§aКликни для добавления нового билдера
+§7§7Defines your housing island world@§7Устанавливает твое мировое островное
+§7§7time to Dawn.@§7время на Рассвет
+§aClick to change the time@§aКликни для изменения времени
+§7§7time to Noon.@§7время на Полдень
+§7§7Makes your housing island world@§7Заставляет твое мировое островное
+§7§7time cycle through the day.@§7время меняться в течении дня.
+§cAlready active@§cУже активно
+§7§7time to Evening.@§7время на Вечер
+§7§7time to Midnight.@§7время на Полночь
+§7Enables or disables rain@§7Включает или отключает дождь
+§7at your housing island@§7на твоем острове
+§7§7Allows players to fight each@§7§7Позволяет игрокам сражаться друг
+§7§7other. You will not lose Soul@§7§7с другом. Вы не потеряете Очки
+§7§7Points or items on death.@§7§7Душ или предметы при смерти.
+§7§c✖ §7Disabled@§7§c✖ §7Отключено
+§7§7Allows players to use spells in@§7§7Позволяет игрокам использовать заклинания на
+§7§7your housing island.@§7§7твоем острове.
+§7§a✔ §7Enabled@§7§a✔ §7Включено
+§7§7Allows players to use their@§7§7Позволяет игрокам использовать их
+§7§7movement spell at your housing@§7§7заклинания передвижения на твоем
+§7§7island.@§7§7острове.
+§7§7Allows players to use their main@§7§7Позволяет игрокам использовать их
+§7§7attack at your housing island.@§7§7основную атаку на твоем острове.
+§7§7Allows players to deal poison@§7§7Позволяет игрокам наносить урон
+§7§7damage at your housing island.@§7§7ядом на твоем острове.
+§7§7Allows friends to hit each other at@§7§7Позволяет игрокам бить друг друга на
+§7§7Allows guild members to hit each@§7§7Позволяет участникам гильдии бить друг
+§7§7other at your housing island.@§7§7друга на твоем острове.
+§7§7Allows players to deal@§7§7Позволяет игрокам наносить
+§7§7thorns/reflection damage at your@§7§7урон шипов/отражения на твоем
+§7§7housing island.@§7§7острове.
+§7§7Allows all players to use health@§7§7Позволяет игрокам использовать лечебные
+§7§7potions at your housing island.@§7§7зелья на твоем острове.
+§7§7Allow all players to use mana@§7§7Позволяет игрокам использовать маны
+§7§7Allow all players to use skill@§7§7Позволяет игрокам использовать очков умений
+§7§7Allows all players to have@§7§7Позволяет игрокам иметь
+§7§7infinite mana at your housing@§7§7бесконечную ману на твоем
+§7§7Allows all players to regenerate@§7§7Позволяет игрокам регенерировать 
+§7§7their health very quickly at your@§7§7свое здоровье очень быстро на твоем
+§7§7Doubles the effectiveness of@§7§7Удваивает эффективность
+§7§7every player item@§7§7каждой идентификации на каждом
+§7§7identifications at your housing@§7§7предмете игрока на твоем
+§7§7Triples the health amount of every@§7§7Утраивает количество здоровья каждого
+§7§7player at your housing island.@§7§7игрока на твоем острове.
+§7§7Allows all players to run forever@§7§7Позволяет игрокам бегать вечно
+§7§7at your housing island.@§7§7на твоем острове.
+§7§7Allows all players to see better in@§7§7Позволяет всем игрокам лучше видеть
+§7§7the dark at your housing island@§7§7в темноте на твоем острове
+§7§7Allows players to have their pets@§7§7Позволяет игрокам сделать своих питомцев
+§7§7visible at your housing island@§7§7видимыми на твоем острове
+§7§7Allows players to fly by double@§7§7Позволяет игрокам летать нажав два
+§7§7tapping spacebar at your housing@§7§7раза пробел на твоем 
+§7§7Allows players to mount and use@§7§7Позволяет игрокам садиться и передвигаться
+§7§7horses on your housing island.@§7§7на лошадях на твоем острове.
+§aLeft click to confirm@§aЛевый клик для подтверждения
+§7Edit or close your@§7Редактируй или закрой свою
+§7current public party.@§7текущую публичную пати.
+§eLeft click to edit@§eЛевый клик для редактирования
+§cRight click to close@§cПравый клик для закрытия
+§7Edit and updates@§7Редактировать и обновить
+§7your current party@§7твою текущую пати
 
 ##############################GUILDS#################################
 §3Rank: §bOwner@§3Ранг: §bВладелец
@@ -2828,7 +3123,7 @@
 §7these rewards to guild members@§7эти награды участникам гильдии
 §7Click to kick or uninvite@§7Кликни для кика/отзыва приглашения
 §7guild members or people@§7участника гильдии/игрока
-§8You must be Recruiter rank@§8Ты должен быть иметь ранг Рекрутер 
+§8You must be Recruiter rank@§8Ты должен иметь ранг Рекрутер 
 §8or higher to kick@§8или выше для кика
 §7Click to add a new guild@§7Кликни для добавления нового альянса
 §7alliance by name or tag@§7гильдий по названию или тегу
@@ -2862,12 +3157,12 @@
 §7Left-Click to view territory@§7Левый Клик для просмотра территории
 §7ally slots available@§7доступные слоты союзников
 §cYour resource pipeline is@§cВаша труба с ресурсами
-§cincomplete at §4Crater Descent@§cнезавершена в §4Crater Descent
 §aGuild Alliance:@§aАльянсы Гильдии:
 §bWaiting for reply@§bЖдет ответа
 §7Right-Click to cancel@§7Правый Клик для отмены
 §aPending Invites:@§aОтправленные Приглашения:
 §71 invite waiting reply@§71 приглашение ждет ответа
+§72 invites waiting reply@§72 приглашения ждут ответа
 §7Left-Click to accept@§7Левый Клик для принятия
 §7Right-Click to reject@§7Правый Клик для отклонения
 §8Sending no tributes@§8Нет отправленных даров
@@ -2904,6 +3199,16 @@
 §6- §7Friendly@§6- §7Дружелюбы
 §6- §7Builders of Empires@§6- §7Строители Империй
 §6- §7War Hungry@§6- §7Голодные до Войны
+§6- §7Traders@§6- §7Торговцы
+§6- §7Dark Seekers@§6- §7Искатели Тьмы
+§6- §7Peace Keepers@§6- §7Миротворцы
+§6- §7LE Addicts@§6- §7LE Наркоманы
+§6- §7Market Flippers@§6- §7Маркет Флипперы
+§6- §7⒠@ 
+§6- §7Imperial@§6- §7Империалы
+§6- §7Build Makers@§6- §7Строители
+§6- §7Light Seekers@§6- §7Искатели Света
+§6- §7King Makers@§6- §7Властители
 §7§c✖§f Lv. 14: §7+High Ranked Bank@§7§c✖§f Ур. 14: §7+Банк для Высокоранговых
 §7§a§l✔§f Lv. 14: §7+High Ranked Bank@§7§a§l✔§f Ур. 14: §7+Банк для Высокоранговых
 §7Cost: §a✔§f Free@§7Цена: §a✔§f Бесплатно
@@ -2915,6 +3220,74 @@
 §b- §7&bA &3Guild Tome&b has been found and added to the Guild Rewards. &3Owner and Chiefs&b can gift it to members.@§b- §7&b&3Том Гильдии&b был добавлен в награды гильдии. &3Владелец и Шефы&b могут подарить его участникам.
 §7§70/10000 stored (0 traversing)@§7§70/10000 хранится (0 перемещается)
 §7§7emeralds.@§7§7эмеральдов. 
+§7This territory §bis set §7as@§7Эта территория §bбудет установлена§7 как
+§7your guild's headquarters@§7штаб вашей гильдии
+§7Left-Click to set style §8(shift for global)@§7Левый Клик для установления стиля §8(шифт для глобального)
+§7Right-Click to set border §8(shift for global)@§7Правый Клик для установления границ §8(шифт для глобальных)
+§7Left-Click to set tax §8(shift for global)@§7Левый Клик для установления налога §8(шифт для глобального)
+§7Right-Click to set ally tax §8(shift for global)@§7Правый Клик для установления налога союзников §8(шифт для глобального)
+§4Borders: §cClosed@§4Границы: §cЗакрыты
+§3Style: §bFastest@§3Стиль: §bБыстрейший
+§7Buffs the minions that spawn@§7Бафает спавнящихся миньонов
+§7when your territory is attacked@§7когда территория атакована
+§7Left-Click to increase@§7Левый Клик для повышения
+§7Right-Click to decrease@§7Правый Клик для уменьшения
+§7Increases the number of players@§7Повышает количество игроков которых
+§7your Guild Tower can attack at once@§7Башня Гильдии может атаковать за раз
+§7This upgrade is limited to@§7Этот апгрейд ограничен
+§75 territories.@§75 территориями.
+§7Cast an outward-moving Aura from@§7Кастует разрастающуюся Ауру из
+§7the Tower damaging players for 100%@§7Башни наносящую 100% урона игрокам
+§7of the Tower's damage.@§7от самого урона Башни.
+§7Cast a volley of fireballs from the@§7Кастует залп огненных шаров из
+§7tower damaging players for 100%@§7башни наносящих 100% урона игрокам
+§7Guild members in this territory@§7Участники гильдии на этой территории 
+§7will gain bonus gathering XP@§7будут получать бонус к XP за Сбор
+§7will receive more XP from mobs@§7будут получать больше XP с мобов
+§7will deal more damage to mobs@§7будут наносить больше урона мобам
+§7will deal more damage to players@§7будут наносить больше урона игрокам
+§7Your Guild will gain XP@§7Твоя гильдия будет получать XP
+§7while holding this territory@§7за удержание этой территории
+§7Your Guild will have a chance@§7Твоя Гильдия будет иметь шанс
+§7to find exclusive Tomes while@§7найти эксклюзивные Тома пока
+§7holding this territory@§7удерживает эту территорию
+§7to find Emeralds while holding@§7найти Эмеральды пока удерживает
+§7this territory@§7эту территорию
+§7Increases the storage limit for@§7Повышает лимит хранилища для
+§7resources in this territory@§7ресурсов на этой территории
+§7emeralds in this territory@§7эмеральдов на этой территории
+§7Increases the amount of resources@§7Повышает количество ресурсов 
+§7this territory will produce@§7которые эта территория производит
+§7Increases the amount of emeralds@§7Повышает количество эмеральдов
+§7Decreases the time needed to produce@§7Понижает время необходимое для производства
+§7resources on this territory@§7ресурсов на этой территории
+§7emeralds on this territory@§7эмеральдов на этой территории
+§7Right-Click to transfer away@§7Правый Клик для трансфера
+§cNo territories are connected@§cНет присоединенных территорий
+§7No upgrades active@§7Нет активных апгрейдов
+§cheadquarter to attack.@§cштаба для атаки.
+§7Save to kick members@§7Сохранить для кика участников
+§7No resource data is@§7Нет данных о ресурсах
+§7available right now@§7доступных сейчас
+§cShift Right-Click to@§cШифт + Правый Клик для
+§ccontributed emeralds to your HQ.@§cвнесенных эмеральдов в ваш Штаб
+§4This action is irreversible and@§4Это действие нельзя отменить и
+§4losing/moving your HQ will delete@§4потеря/передвижение вашего Штаба удалит
+§4your surplus of emeralds.@§4ваши запасы эмеральдов.
+§7Left-Click to revoke pact@§7Левый Клик для аннулирования изменения 
+§7changes to guild allies@§7в пакте с союзными гильдиями
+§7Save to revoke the pact@§7Сохранить для аннулирования пакта
+§7§7to close@§7§7на закрытые
+§7§7fastest@§7§7быстрейший
+§7§7close@§7§7закрытый
+§7§7open@§7§7открытый
+§7§7contributed emeralds to@§7§7внесенных эмеральдов для
+§7§7cheapest@§7§7самый дешевый
+§cYou can only attack one@§cТы можешь атаковать только одну
+§cterritory at a time.@§cтерриторию за раз.
+§7Cost: §c✖§f Free@§7Цена: §c✖§f Бесплатно
+§cRewards are unavailable@§cНаграды недоступны
+§ctry again later...@§cпопробуй позже...
 
 ###############################CRATES##############################
 §dRare Reward@§dРедкая Награда
@@ -3037,6 +3410,8 @@
 §7- §aUnidentified Spear@§7- §aНеидентифицированное Копье
 §e- §cUnidentified Spear@§e- §cНеидентифицированное Копье
 §7- §cUnidentified Spear@§7- §cНеидентифицированное Копье
+§e- §5Unidentified Spear@§e- §5Неидентифицированное Копье
+§7- §5Unidentified Spear@§7- §5Неидентифицированное Копье
 §e- §eUnidentified Helmet@§e- §eНеидентифицированный Шлем
 §7- §eUnidentified Helmet@§7- §eНеидентифицированный Шлем
 §e- §dUnidentified Helmet@§e- §dНеидентифицированный Шлем
@@ -3124,6 +3499,8 @@
 §7- §bUnidentified Boots@§7- §bНеидентифицированные Ботинки
 §e- §cUnidentified Boots@§e- §cНеидентифицированные Ботинки
 §7- §cUnidentified Boots@§7- §cНеидентифицированные Ботинки
+§e- §5Unidentified Boots@§e- §5Неидентифицированные Ботинки
+§7- §5Unidentified Boots@§7- §5Неидентифицированные Ботинки
 §e- §dUnidentified Bracelet@§e- §dНеидентифицированный Браслет
 §7- §dUnidentified Bracelet@§7- §dНеидентифицированный Браслет
 §e- §aUnidentified Bracelet@§e- §aНеидентифицированный Браслет
@@ -3142,7 +3519,10 @@
 §7- §dUnidentified Relik@§7- §dНеидентифицированный Релик
 §e- §aUnidentified Relik@§e- §aНеидентифицированный Релик
 §7- §aUnidentified Relik@§7- §aНеидентифицированный Релик
+§e- §cUnidentified Relik@§e- §cНеидентифицированный Релик
+§7- §cUnidentified Relik@§7- §cНеидентифицированный Релик
 §7- §cUnidentified Charm@§7- §cНеидентифицированный Талисман
+§e- §cUnidentified Mastery Tome@§e- §cНеидентифицированный Том Мастера
 
 ############################ITEMS#############################
 §7Crafting Material@§7Материал для Крафта
@@ -3235,7 +3615,7 @@
 §7HEY, QUIT HOLDING ME YOU §7NUMBSKULL!@§7ЭЙ, ХВАТИТ МЕНЯ УДЕРЖИВАТЬ ТЫ, ТУПИЦА!
 §7This tooth is a reference to the fight@§7Этот зуб является отсылкой к битве
 §7between Siegfried and a dragon, which@§7между Зигфридом и драконом, которого
-§7Siegfried slayed, saving the city of Ahmsord@§7Зигфрид убил, спася город Ахмсорд
+§7Siegfried slayed, saving the city of Ahmsord@§7Зигфрид убил, спася город Амсорд
 §7This special bundle includes all@§7Это специальное издание содержит все 
 §7of Siegfried's diaries up to #43@§7дневники Зигфрида до номера 43
 §7hopes to find valuable new minerals. @§7надежды найти новые ценные минералы.

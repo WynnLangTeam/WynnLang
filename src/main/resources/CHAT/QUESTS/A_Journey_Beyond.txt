@@ -1,29 +1,29 @@
-§7[1/17] §2Elphaba: §aHmm, you might just be exactly what we’re looking for. If you want to join a top secret mission, follow me.@§7[1/17] §2Эльфаба: §aХм, возможно, ты именно тот, кого мы ищем. Если ты хочешь присоединиться к сверхсекретной миссии, следуй за мной.
-§7[3/17] §2Aledar: §aI... Am surprised to see you here. Looks like we’ve both come a long way.@§7[3/17] §2Аледар: §aЯ...Я удивлен видеть тебя здесь. Похоже, мы оба проделали долгий путь.
-§7[4/17] §2Lucio: §aCan you get a move on, please? We got our spare, let’s go!@§7[4/17] §2Луцио: §aНе могли бы вы поторопиться, пожалуйста? У нас теперь есть запасной, пошли!
+§7[1/17] §2Elphaba: §aHmm, you might just be exactly what we're looking for. If you want to join a top secret mission, follow me.@§7[1/17] §2Эльфаба: §aХм, возможно, ты именно тот, кого мы ищем. Если ты хочешь присоединиться к сверхсекретной миссии, следуй за мной.
+§7[3/17] §2Aledar: §aI... Am surprised to see you here. Looks like we've both come a long way.@§7[3/17] §2Аледар: §aЯ...Я удивлен видеть тебя здесь. Похоже, мы оба проделали долгий путь.
+§7[4/17] §2Lucio: §aCan you get a move on, please? We got our spare, let's go!@§7[4/17] §2Луцио: §aНе могли бы вы поторопиться, пожалуйста? У нас теперь есть запасной, пошли!
 §7[6/17] §2Elphaba: §aHundreds of years ago, people mined the surrounding areas around Detlas.@§7[6/17] §2Эльфаба: §aСотни лет назад люди раскапывали прилегающие районы вокруг Детласа.
 §7[7/17] §2Elphaba: §aThey eventually broke through to an entirely undiscovered area of the Wynn province.@§7[7/17] §2Эльфаба: §aВ конце концов они прорылись в совершенно неисследованную область провинции Винн.
-§7[8/17] §2Elphaba: §aWhat they found.. Was not good. It was cursed. Not corrupted... This was something else.@§7[8/17] §2Эльфаба: §aТо, что они нашли.. Было чем-то нехорошим. Оно было проклято. Не испорчено... Это было что-то другое.
-§7[9/17] §2Elphaba: §aNo one really knows what’s beyond the mine because it was sealed to prevent the spread of a new threat.@§7[9/17] §2Эльфаба: §aНикто точно не знает, что находится за пределами шахты, потому что она была запечатана, чтобы предотвратить распространение новой угрозы.
-§7[10/17] §2Elphaba: §aWe don’t have much intel, but it’s been named by some as the §aSilent Expanse§a.@§7[10/17] §2Эльфаба: §aУ нас не так много информации, но некоторые называют ее "Тихим Пространством".
+§7[8/17] §2Elphaba: §aWhat they found... Was not good. It was cursed. Not corrupted... This was something else.@§7[8/17] §2Эльфаба: §aТо, что они нашли... Было чем-то нехорошим. Оно было проклято. Не испорчено... Это было что-то другое.
+§7[9/17] §2Elphaba: §aNo one really knows what's beyond the mine because it was sealed to prevent the spread of a new threat.@§7[9/17] §2Эльфаба: §aНикто точно не знает, что находится за пределами шахты, потому что она была запечатана, чтобы предотвратить распространение новой угрозы.
+§7[10/17] §2Elphaba: §aWe don't have much intel, but it's been named by some as the §aSilent Expanse§a.@§7[10/17] §2Эльфаба: §aУ нас не так много информации, но некоторые называют ее "Тихим Пространством".
 §7[11/17] §2Elphaba: §aLately, creatures of darkness have been seeping through, and we think they are from the expanse.@§7[11/17] §2Эльфаба: §aВ последнее время, существа тьмы просачиваются в наш мир, и мы думаем, что они из пространства.
 §7[12/17] §2Elphaba: §aThe existence of this place has been kept on a strict need-to-know basis.@§7[12/17] §2Эльфаба: §aСуществование этого места держалось в строгом секрете.
 §7[13/17] §2Elphaba: §aOur mission is to make our way through the mine, observe and report the threat level.@§7[13/17] §2Эльфаба: §aНаша миссия состоит в том, чтобы пробраться через шахту, провести наблюдение и сообщить об уровне угрозы.
 §7[14/17] §2Lucio: §aCome on, we need to get going! Enough with the meetings!@§7[14/17] §2Луцио: §aДавайте, нам нужно идти! Хватит уже этих собраний!
 §7[15/17] §2Aledar: §aHow many times do we have to tell you to stop doing that? Fix it, Lucio.@§7[15/17] §2Аледар: §aСколько раз мы должны говорить тебе, чтобы ты прекратил это делать? Исправляйся, Луцио.
 §7[16/17] §2Lucio: §aFine...@§7[16/17] §2Луцио: §aЛадно...
-§7[1/12] §2Aledar: §aEveryone ready? I’ll lead.@§7[1/12] §2Аледар: §aВсе готовы? Я поведу.
+§7[1/12] §2Aledar: §aEveryone ready? I'll lead.@§7[1/12] §2Аледар: §aВсе готовы? Я поведу.
 §7[3/12] §2Elphaba: §aAledar...@§7[3/12] §2Эльфаба: §aАледар...
 §7[4/12] §2Aledar: §aI hear them too.@§7[4/12] §2Аледар: §aЯ тоже их слышу.
-§7[5/12] §2Aledar: §aAh, no problem. I’ll take care of these.@§7[5/12] §2Аледар: §aЭх, не проблема. Я разберусь с ними.
-§7[7/12] §2Elphaba: §aThis is actually our second attempt. The first time, it didn’t go too well.@§7[7/12] §2Эльфаба: §aЭто на самом деле наша вторая попытка. В первый раз все прошло не слишком хорошо.
+§7[5/12] §2Aledar: §aAh, no problem. I'll take care of these.@§7[5/12] §2Аледар: §aЭх, не проблема. Я разберусь с ними.
+§7[7/12] §2Elphaba: §aThis is actually our second attempt. The first time, it didn't go too well.@§7[7/12] §2Эльфаба: §aЭто на самом деле наша вторая попытка. В первый раз все прошло не слишком хорошо.
 §7[8/12] §2Elphaba: §aWe have more numbers now, Lucio and yourself should help us overpower it.@§7[8/12] §2Эльфаба: §aТеперь у нас есть больше людей, Луцио, и ты должен помочь нам преодолеть его.
-§7[9/12] §2Lucio: §aCan’t be that strong, bet I can take it myself.@§7[9/12] §2Луцио: §aНе может он быть настолько сильным, спорим, я могу разобраться с ним сам.
-§7[10/12] §2Elphaba: §aWe managed to seal it in, but with the 4 of us I’m sure we ca-@§7[10/12] §2Эльфаба: §aНам удалось запечатать его, но с 4-мя из нас я уверена, что мы cмо-
-§7[11/12] §2Lucio: §aLet’s just do it!@§7[11/12] §2Луцио: §aДавайте просто сделаем это!
+§7[9/12] §2Lucio: §aCan't be that strong, bet I can take it myself.@§7[9/12] §2Луцио: §aНе может он быть настолько сильным, спорим, я могу разобраться с ним сам.
+§7[10/12] §2Elphaba: §aWe managed to seal it in, but with the 4 of us I'm sure we ca-@§7[10/12] §2Эльфаба: §aНам удалось запечатать его, но с 4-мя из нас я уверена, что мы cмо-
+§7[11/12] §2Lucio: §aLet's just do it!@§7[11/12] §2Луцио: §aДавайте просто сделаем это!
 §7[12/12] §2Aledar: §aWait... No!@§7[12/12] §2Аледар: §aПодожди... Нет!
 §7[1/4] §2Aledar: §aLucio! You FOOL!@§7[1/4] §2Аледар: §aЛуцио! Ты ГЛУПЕЦ!
-§7[2/4] §2Lucio: §aWhat’s the big deal? You said yourself we can take it!@§7[2/4] §2Луцио: §aЧто тут такого особенного? Ты же сам сказал, что мы справимся!
+§7[2/4] §2Lucio: §aWhat's the big deal? You said yourself we can take it!@§7[2/4] §2Луцио: §aЧто тут такого особенного? Ты же сам сказал, что мы справимся!
 §7[3/4] §2Lucio: §aOuch...@§7[3/4] §2Луцио: §aАуч...
 §7[4/4] §2Aledar: §aWe need a PLAN.@§7[4/4] §2Аледар: §aНам нужен ПЛАН.
 §7[1/14] §2Lucio: §aThe plan is attack!@§7[1/14] §2Луцио: §aПлан - это атаковать!
@@ -36,17 +36,17 @@
 §7[8/14] §2Elphaba: §aLucio's right! Change of plan. Lucio, help me hold it in place.@§7[8/14] §2Эльфаба: §aЛуцио прав! Меняем план. Луцио, помоги удержать его на одном месте.
 §7[9/14] §2Elphaba: §aAledar, you know what to do.@§7[9/14] §2Эльфаба: §aАледар, ты знаешь что нужно сделать.
 §7[11/14] §2Aledar: §aI'll block it from attacking, you block it up with a spell.@§7[11/14] §2Аледар: §aЯ заблокирую его атаки, ты заблокируешь вход с помощью заклинания.
-§7[12/14] §2Aledar: §aThey won’t be able to hold it for long.@§7[12/14] §2Аледар: §aОни не смогут удержать его долго.
+§7[12/14] §2Aledar: §aThey won't be able to hold it for long.@§7[12/14] §2Аледар: §aОни не смогут удержать его долго.
 §7[13/14] §2Aledar: §aReady?! Cast any spell!@§7[13/14] §2Аледар: §aГотов?! Используй любое заклинание!
 §7[14/14] §2Aledar: §aLucio, Elphaba! Run!@§7[14/14] §2Аледар: §aЛуцио, Эльфаба! Бегите!
-§7[1/7] §2Elphaba: §aWe all here? Where’s Lucio?@§7[1/7] §2Эльфаба: §aВсе здесь? Где Луцио?
+§7[1/7] §2Elphaba: §aWe all here? Where's Lucio?@§7[1/7] §2Эльфаба: §aВсе здесь? Где Луцио?
 §7[2/7] §2Lucio: §aGuys… Any help? I'm stuck!@§7[2/7] §2Луцио: §aРебят... Поможете? Я застрял!
 §7[3/7] §2Elphaba: §aPhew, here. Let me get you out.@§7[3/7] §2Эльфаба: §aФух, он здесь. Давай я тебя вытащу.
-§7[4/7] §2Lucio: §aI’m sorry, team. I’ve never seen a monster like that before.@§7[4/7] §2Луцио: §aПростите меня, команда. Я никогда раньше не видел такого монстра.
-§7[5/7] §2Aledar: §aIt looks like our problem isn’t firepower. It’s something else. It’s like our weapons just didn’t affect it at all.@§7[5/7] §2Аледар: §aКажется, наша проблема не в огневой мощи. Это что-то другое. Похоже, что наше оружие просто вообще не повлияло на него.
+§7[4/7] §2Lucio: §aI'm sorry, team. I've never seen a monster like that before.@§7[4/7] §2Луцио: §aПростите меня, команда. Я никогда раньше не видел такого монстра.
+§7[5/7] §2Aledar: §aIt looks like our problem isn't firepower. It's something else. It's like our weapons just didn't affect it at all.@§7[5/7] §2Аледар: §aКажется, наша проблема не в огневой мощи. Это что-то другое. Похоже, что наше оружие просто вообще не повлияло на него.
 §7[6/7] §2Aledar: §aI know someone who might be able to help us. A blacksmith on Black Road.@§7[6/7] §2Аледар: §aЯ знаю кое-кого, кто мог бы нам помочь. Кузнец на Черной дороге.
-§7[1/1] §2Elphaba: §aJust in time. We’re all here.@§7[1/1] §2Эльфаба: §aКак раз вовремя. Мы все уже здесь.
-§7[1/19] §2Elphaba: §aIt looks like the Blacksmith knows what’s wrong..@§7[1/19] §2Эльфаба: §aПохоже, кузнец знает, в чем дело...
+§7[1/1] §2Elphaba: §aJust in time. We're all here.@§7[1/1] §2Эльфаба: §aКак раз вовремя. Мы все уже здесь.
+§7[1/19] §2Elphaba: §aIt looks like the Blacksmith knows what's wrong..@§7[1/19] §2Эльфаба: §aПохоже, кузнец знает, в чем дело...
 §7[2/19] §2Elphaba: §aSo, Dren. Do you know why we can't damage the beast?@§7[2/19] §2Эльфаба: §aИтак, Дрен. Ты знаешь, почему мы не можем навредить зверю?
 §7[3/19] §2Dren: §aCertainly! Your issue is elemental. As you know, there are 5 elements...@§7[3/19] §2Дрен: §aКонечно! Ваша проблема элементарна. Как вы знаете, есть 5 элементов...
 §7[4/19] §2Dren: §aEarth...@§7[4/19] §2Дрен: §aЗемля...
@@ -64,46 +64,47 @@
 §7[16/19] §2Lucio: §aWait... what do you mean a Light item?@§7[16/19] §2Луцио: §aПодожди... что значит предмет Света?
 §7[17/19] §2Dren: §aSomething from any Light creature would work, you could get some dust from Gavel fairies if you wanted.@§7[17/19] §2Дрен: §aЧто-то от любого светлого существа будет работать, вы можете получить немного пыли из существ в Гавеле, если хотите...
 §7[2/5] §2Aledar: §aWe found that the caves around the roots are far more complex than we thought...@§7[2/5] §2Аледар: §aМы обнаружили, что пещеры вокруг корней гораздо сложнее, чем мы думали...
-§7[3/5] §2Aledar: §aThere’s one with far more powerful creatures... Somewhere... Here!@§7[3/5] §2Аледар: §aЕсть одна с гораздо более мощными существами... Где-то... Здесь!
+§7[3/5] §2Aledar: §aThere's one with far more powerful creatures... Somewhere... Here!@§7[3/5] §2Аледар: §aЕсть одна с гораздо более мощными существами... Где-то... Здесь!
 §7[4/5] §2Aledar: §aWhat are you waiting for? Let's go!@§7[4/5] §2Аледар: §aЧего ты ждешь? Пошли!
-§7[1/4] §2Aledar: §aI’ve never used wings like this before...@§7[1/4] §2Аледар: §aЯ никогда раньше не пользовался такими крыльями...
+§7[1/4] §2Aledar: §aI've never used wings like this before...@§7[1/4] §2Аледар: §aЯ никогда раньше не пользовался такими крыльями...
 §7[2/4] §2Aledar: §aI think if we just hold them and walk normally, it should help us glide across.@§7[2/4] §2Аледар: §aДумаю, что если просто держать их и идти нормально, это должно помочь нам скользить.
-§7[3/4] §2Aledar: §aDon’t drop them and don't get hit by the lava geysers, obviously.@§7[3/4] §2Аледар: §aИ не стоит ронять их и попадать под лавовые гейзеры, очевидно.
-§7[4/4] §2Aledar: §aDon’t forget why we are here, we’re looking for a creature of darkness. Shout for me if you find one.@§7[4/4] §2Аледар: §aНе забывай, почему мы здесь, мы ищем существо тьмы. Крикни мне, если найдешь одного.
+§7[3/4] §2Aledar: §aDon't drop them and don't get hit by the lava geysers, obviously.@§7[3/4] §2Аледар: §aИ не стоит ронять их и попадать под лавовые гейзеры, очевидно.
+§7[4/4] §2Aledar: §aDon't forget why we are here, we're looking for a creature of darkness. Shout for me if you find one.@§7[4/4] §2Аледар: §aНе забывай, почему мы здесь, мы ищем существо тьмы. Крикни мне, если найдешь одного.
 §7[1/2] §2Aledar: §aThat's our target! Go after it!@§7[1/2] §2Аледар: §aЭто наша цель! Беги за ним!
-§7[2/2] §2Aledar: §aWait, why isn’t it fighting us here? Careful! It might be trapped!@§7[2/2] §2Аледар: §aПодожди, почему он не сражается с нами здесь? Осторожно! Это может оказаться ловушкой!
-§7[2/2] §2Aledar: §aWell, we got what we came for. Let’s head back to Dren.@§7[2/2] §2Аледар: §aЧтож, мы получили то, за чем пришли. Давай вернемся к Дрену.
+§7[2/2] §2Aledar: §aWait, why isn't it fighting us here? Careful! It might be trapped!@§7[2/2] §2Аледар: §aПодожди, почему он не сражается с нами здесь? Осторожно! Это может оказаться ловушкой!
+§7[2/2] §2Aledar: §aWell, we got what we came for. Let's head back to Dren.@§7[2/2] §2Аледар: §aЧтож, мы получили то, за чем пришли. Давай вернемся к Дрену.
 §7[1/4] §2Dren: §aLooks like we lucked out on this one. Did you get an item of darkness?@§7[1/4] §2Дрен: §aПохоже, на этот раз нам повезло. Вы получили предмет Тьмы?
 §7[3/4] §2Dren: §aIt's done! You ought to be free of the dark influence. You ought to be able to break through that barrier that was giving you trouble.@§7[2/4] §2Дрен: §aГотово! Теперь вы свободны от темного влияния. Вы сможете прорваться через тот барьер, который доставлял вам неприятности.
-§7[4/4] §2Elphaba: §aAre you sure? I don’t feel that different. Well.. I guess there’s only one way to find out.@§7[4/4] §2Эльфаба: §aВы уверены? Я не чувствую никакой разницы. Что ж... Думаю, есть только один способ это выяснить.
+§7[4/4] §2Elphaba: §aAre you sure? I don't feel that different. Well.. I guess there's only one way to find out.@§7[4/4] §2Эльфаба: §aВы уверены? Я не чувствую никакой разницы. Что ж... Думаю, есть только один способ это выяснить.
 §7[1/7] §2Lucio: §aEveryone here? Great! Time to finish what I started!@§7[1/7] §2Луцио: §aВсе здесь? Отлично! Пора заканчивать то, что начал я!
 §7[2/7] §2Elphaba: §aLucio! No! When will you learn?@§7[2/7] §2Эльфаба: §aЛуцио! Нет! Когда ты уже научишься?
-§7[3/7] §2Lucio: §aRight, yes. Sorry, what’s the plan?@§7[3/7] §2Луцио: §aДа, конечно. Простите, какой у нас план?
-§7[4/7] §2Elphaba: §aWe don’t want that thing to escape, it could cause widespread panic.@§7[4/7] §2Эльфаба: §aМы не хотим, чтобы этот монстр сбежал, это может вызвать всеобщую панику.
-§7[5/7] §2Elphaba: §aWe’ll open up a small entrance to get in, and fight it once inside.@§7[5/7] §2Эльфаба: §aМы откроем небольшой вход, чтобы войти туда, и сразимся с ним внутри.
+§7[3/7] §2Lucio: §aRight, yes. Sorry, what's the plan?@§7[3/7] §2Луцио: §aДа, конечно. Простите, какой у нас план?
+§7[4/7] §2Elphaba: §aWe don't want that thing to escape, it could cause widespread panic.@§7[4/7] §2Эльфаба: §aМы не хотим, чтобы этот монстр сбежал, это может вызвать всеобщую панику.
+§7[5/7] §2Elphaba: §aWe'll open up a small entrance to get in, and fight it once inside.@§7[5/7] §2Эльфаба: §aМы откроем небольшой вход, чтобы войти туда, и сразимся с ним внутри.
 §7[6/7] §2Lucio: §aFine...@§7[6/7] §2Луцио: §aХорошо...
 §7[7/7] §2Lucio: §aLet's go!@§7[7/7] §2Луцио: §aВперед!
 §7[1/6] §2Elphaba: §aWe... We actually did it!@§7[1/6] §2Эльфаба: §aМы... Мы действительно сделали это!
-§7[2/6] §2Aledar: §aThank grook for that. I was wondering if we’d ever be rid of this nightmare.@§7[2/6] §2Аледар: §aСпасибо груку за это. Мне было интересно, сможем ли мы когда-нибудь избавиться от этого кошмара.
-§7[3/6] §2Elphaba: §aWe have an extremely old map of the mines to help us, but we have no idea what’s waiting for us.@§7[3/6] §2Эльфаба: §aУ нас есть очень старая карта шахт, чтобы помочь нам, но мы понятия не имеем, что нас ждет.
+§7[2/6] §2Aledar: §aThank grook for that. I was wondering if we'd ever be rid of this nightmare.@§7[2/6] §2Аледар: §aСпасибо груку за это. Мне было интересно, сможем ли мы когда-нибудь избавиться от этого кошмара.
+§7[3/6] §2Elphaba: §aWe have an extremely old map of the mines to help us, but we have no idea what's waiting for us.@§7[3/6] §2Эльфаба: §aУ нас есть очень старая карта шахт, чтобы помочь нам, но мы понятия не имеем, что нас ждет.
 §7[4/6] §2Aledar: §aI want to warn you, this may well be a one way ticket for all of us.@§7[4/6] §2Аледар: §aЯ хочу предупредить вас, что это может быть билет в один конец для всех нас.
 §7[5/6] §2Lucio: §aYeah right! Check this out! @§7[5/6] §2Луцио: §aДа, верно! Заценим что за место!
-§7[6/6] §2Elphaba: §aRocks are one thing, Lucio. The creatures we’re about to face require more than brute strength. You need force of mind.@§7[6/6] §2Эльфаба: §aКамни - это одно, Луцио. Существа, с которыми нам предстоит столкнуться, требуют не только грубой силы. Тебе нужно немного поумнеть.
-§7[1/2] §2Lucio: §aOh my. Maybe this isn’t the best idea.@§7[1/2] §2Луцио: §aБоже. Может быть, это была не самая лучшая идея.
-§7[2/2] §2Elphaba: §aIt’s too late now. We’ve got to finish this mission.@§7[2/2] §2Эльфаба: §aТеперь уже слишком поздно. Мы должны закончить эту миссию.
+§7[6/6] §2Elphaba: §aRocks are one thing, Lucio. The creatures we're about to face require more than brute strength. You need force of mind.@§7[6/6] §2Эльфаба: §aКамни - это одно, Луцио. Существа, с которыми нам предстоит столкнуться, требуют не только грубой силы. Тебе нужно немного поумнеть.
+§7[1/2] §2Lucio: §aOh my. Maybe this isn't the best idea.@§7[1/2] §2Луцио: §aБоже. Может быть, это была не самая лучшая идея.
+§7[2/2] §2Elphaba: §aIt's too late now. We've got to finish this mission.@§7[2/2] §2Эльфаба: §aТеперь уже слишком поздно. Мы должны закончить эту миссию.
 §7[1/16] §2Aledar: §aRemember the goal Elphie, we must reach the end of the expanse.@§7[1/16] §2Аледар: §aПомни о цели Эльфи, мы должны дойти до конца этого пространства.
-§7[2/16] §2Elphaba: §aIt’s still empty here. But it looks like they were here only yesterday.@§7[2/16] §2Эльфаба: §aЗдесь все еще пусто. Но, похоже, что люди были здесь только вчера.
+§7[2/16] §2Elphaba: §aIt's still empty here. But it looks like they were here only yesterday.@§7[2/16] §2Эльфаба: §aЗдесь все еще пусто. Но, похоже, что люди были здесь только вчера.
 §7[3/16] §2Lucio: §aI thought you said the miners were here hundreds of years ago?@§7[3/16] §2Луцио: §aЯ думал, ты сказал, что шахтеры были здесь сотни лет назад?
 §7[4/16] §2Aledar: §aThey were. I don’t know why it would be so well preserved. It’s as if nothing has touched it.@§7[4/16] §2Аледар: §aОни были. Я не знаю, почему здесь все так хорошо сохранилось. Как будто время не коснулось этого места.
+§7[4/16] §2Aledar: §aThey were. I don't know why it would be so well preserved. It's as if nothing has touched it.@§7[4/16] §2Аледар: §aОни были. Я не знаю, почему здесь все так хорошо сохранилось. Как будто время не коснулось этого места.
 §7[5/16] §2Aledar: §aAccording to the documents, we need to make our way to the end of the road.@§7[5/16] §2Аледар: §aСогласно документам, нам нужно добраться до конца дороги.
 §7[6/16] §2Elphaba: §aArgh! Bugs! Get off!@§7[6/16] §2Эльфаба: §aАргх! Жуки! Отстаньте!
 §7[7/16] §2Elphaba: §aSo much for nothing being here.@§7[7/16] §2Эльфаба: §aКак будто им нечем тут заняться.
 §7[8/16] §2Elphaba: §aWhy are they only going for me?@§7[8/16] §2Эльфаба: §aПочему они идут только за мной?
 §7[9/16] §2Elphaba: §aAledar, how far is it to the end?@§7[9/16] §2Эльфаба: §aАледар, далеко еще до конца?
-§7[10/16] §2Aledar: §aI read the same map as you. It didn’t even have scale. There should be a bridge ahead, though.@§7[10/16] §2Аледар: §aЯ смотрю ту же карту, что и вы. У нее даже нет масштаба. Но впереди должен быть мост.
+§7[10/16] §2Aledar: §aI read the same map as you. It didn't even have scale. There should be a bridge ahead, though.@§7[10/16] §2Аледар: §aЯ смотрю ту же карту, что и вы. У нее даже нет масштаба. Но впереди должен быть мост.
 §7[11/16] §2Lucio: §aUhh... A destroyed one. And it wasn't cause I blew it up this time!@§7[11/16] §2Луцио: §aУгх... Он разрушен. И не похоже, что это я его взорвал на этот раз!
 §7[12/16] §2Aledar: §aHmm, well we will have to go around.@§7[12/16] §2Аледар: §aХмм, тогда нам придется обойти.
-§7[13/16] §2Aledar: §aThis doesn’t really look like corruption, does it?@§7[13/16] §2Аледар: §aНа самом деле это не похоже на порчу, не так ли?
+§7[13/16] §2Aledar: §aThis doesn't really look like corruption, does it?@§7[13/16] §2Аледар: §aНа самом деле это не похоже на порчу, не так ли?
 §7[14/16] §2Elphaba: §aUhhh... I'm not feeling really wel-... Aahhh!@§7[14/16] §2Эльфаба: §aУххх... Я не очень хорошо себя чувствую-... Аахх!
 §7[15/16] §2Elphaba: §aAaahhh! My liver! It took my liver!@§7[15/16] §2Эльфаба: §aАааххх! Моя печень! Он забрал мою печень!
 §7[16/16] §2Aledar: §aElphaba! No! It's an illusion!@§7[16/16] §2Аледар: §aЭльфаба! Нет! Это иллюзия!
@@ -111,14 +112,14 @@
 §7[2/45] §2Lucio: §aAledar, maybe we should just double back now?@§7[2/45] §2Луцио: §aАледар, может быть, мы должны сейчас вернуться?
 §7[3/45] §2Aledar: §aElphaba is an extremely able warrior. We will fight on and find her.@§7[3/45] §2Аледар: §aЭльфаба - чрезвычайно способный воин. Мы будем сражаться и найдем ее.
 §7[4/45] §2Lucio: §aDo you really think it was just an illusion?@§7[4/45] §2Луцио: §aТы действительно думаешь, что это была просто иллюзия?
-§7[5/45] §2Aledar: §aI’m not sure. I hope so.@§7[5/45] §2Аледар: §aНе уверен. Я надеюсь, что это так.
+§7[5/45] §2Aledar: §aI'm not sure. I hope so.@§7[5/45] §2Аледар: §aНе уверен. Я надеюсь, что это так.
 §7[6/45] §2Lucio: §aWhat if we're infected too? Shouldn't we just go back?@§7[6/45] §2Луцио: §aА что, если мы тоже заражены? Разве мы не должны просто вернуться?
 §7[7/45] §2Aledar: §aWe can't, Lucio! We have a mission, as you very well know. We continue.@§7[7/45] §2Аледар: §aМы не можем, Луцио! У нас миссия, как вы прекрасно знаете. Мы продолжим.
-§7[8/45] §2Aledar: §aBesides, we might be carrying some of those things too. We can’t risk them infesting Wynn.@§7[8/45] §2Аледар: §aКроме того, нам нужно позаботиться о некоторых вещях здесь. Мы не можем допустить, чтобы они заразили Винн..
+§7[8/45] §2Aledar: §aBesides, we might be carrying some of those things too. We can't risk them infesting Wynn.@§7[8/45] §2Аледар: §aКроме того, нам нужно позаботиться о некоторых вещях здесь. Мы не можем допустить, чтобы они заразили Винн..
 §7[9/45] §2Lucio: §aLooks like we need to go around to the right, here?@§7[9/45] §2Луцио: §aПохоже, нам нужно обойти справа, вот здесь?
 §7[10/45] §2Aledar: §aIt feels like something is watching us...@§7[10/45] §2Аледар: §aТакое чувство, что кто-то наблюдает за нами...
-§7[11/45] §2Lucio: §aAledar, what is this place? You didn’t tell me there was a city here.@§7[11/45] §2Луцио: §aАледар, что это за место? Ты не говорил мне, что здесь есть город.
-§7[12/45] §2Aledar: §aThere is. A big one, too; there’s more ahead. But it doesn’t look like anyone’s home. The map doesn’t have a name for it either.@§7[12/45] §2Аледар: §aЕсть. И более того, впереди еще один еще больше. Но не похоже, что кто-то дома. На этой карте даже нет названия.
+§7[11/45] §2Lucio: §aAledar, what is this place? You didn't tell me there was a city here.@§7[11/45] §2Луцио: §aАледар, что это за место? Ты не говорил мне, что здесь есть город.
+§7[12/45] §2Aledar: §aThere is. A big one, too; there's more ahead. But it doesn't look like anyone's home. The map doesn't have a name for it either.@§7[12/45] §2Аледар: §aЕсть. И более того, впереди еще один еще больше. Но не похоже, что кто-то дома. На этой карте даже нет названия.
 §7[13/45] §2Lucio: §aWait a sec, is that one of the miners? Is she hurt? HEEEEY! YOU OVER THERE!@§7[13/45] §2Луцио: §aПодождите секунду, это один из шахтеров? Она ранена? ЭЙ! СЮДА!
 §7[14/45] §2Aledar: §aLucio, no! It's a trap!@§7[14/45] §2Аледар: §aЛуцио, нет! Это ловушка!
 §7[15/45] §2Aledar: §aLUCIO! Don't get closer!@§7[15/45] §2Аледар: §aЛуцио! Не подходи ближе!
@@ -152,26 +153,30 @@
 §7[43/45] §2Obsessor: §4§lYOU'LL BE SAFE WITH US!@§7[43/45] §2Мучитель: §4§lТЫ БУДЕШЬ С НАМИ В БЕЗОПАСНОСТИ!
 §7[44/45] §2Obsessor: §4§lNO MORE FEAR! NO MORE CONCERN!@§7[44/45] §2Мучитель: §4§lБОЛЬШЕ НИКАКОГО СТРАХА! БОЛЬШЕ НИКАКИХ ЗАБОТ!
 §7[45/45] §2Obsessor: §a§lForeeeever...@§7[45/45] §2Мучитель: §a§lНавеееччнннооо...
-§7[2/7] §2Aledar: §aWe can’t stay here.@§7[2/7] §2Аледар: §aМы не можем оставаться здесь.
+§7[2/7] §2Aledar: §aWe can't stay here.@§7[2/7] §2Аледар: §aМы не можем оставаться здесь.
 §7[3/7] §2Aledar: §aWho's that?! Elphaba?! Lucio?!@§7[3/7] §2Аледар: §aКто это?! Эльфаба?! Луцио?!
 §7[4/7] §2Aledar: §aWait, you're just one of the miners. This doesn't feel like an illusion...@§7[4/7] §2Аледар: §aПодожди, это просто один из шахтеров. Это не похоже на иллюзию...
 §7[5/7] §2Aledar: §aLook, you need to get out of here. It's not safe- Wait, what's that noise...?@§7[5/7] §2Аледар: §aСлушай, тебе нужно убираться отсюда. Это небезопасно - Подожди, что это за шум?..?
 §7[6/7] §2???: §4OURGURGH!@§7[6/7] §2???: §4ОРГРГРХХ!
 §7[7/7] §2Aledar: §a§lAAHHHHHHH!@§7[7/7] §2Аледар: §a§lАААААААХХ!
 §7[2/5] §2Aledar: §aI think my leg is broken. I have a potion to fix it, but I dropped it back up there.@§7[2/5] §2Аледар: §aКажется, у меня сломана нога. У меня есть зелье, чтобы вылечить ее, но я уронил его позади.
-§7[3/5] §2Aledar: §aI feel a bit better.. But something is still wrong.@§7[3/5] §2Аледар: §aЯ чувствую себя немного лучше.. Но что-то все равно не так.
-§7[4/5] §2Aledar: §aLet’s just get out of here, soldier on. There's only one way out.@§7[4/5] §2Аледар: §aДавай просто уйдем отсюда, солдат. Есть только один выход.
+§7[3/5] §2Aledar: §aI feel a bit better.. But something's still wrong.@§7[3/5] §2Аледар: §aЯ чувствую себя немного лучше.. Но что-то все равно не так.
+§7[4/5] §2Aledar: §aLet's just get out of here, soldier on. There's only one way out.@§7[4/5] §2Аледар: §aДавай просто уйдем отсюда, солдат. Есть только один выход.
 §7[5/5] §2Aledar: §aJump with me, come on!@§7[5/5] §2Аледар: §aПрыгай со мной, давай!
 §7[1/6] §2Aledar: §aAaaaaaaaaaahhhhhhh!!!@§7[1/6] §2Аледар: §aАаааааахххх!!!
 §7[3/6] §2Aledar: §aI can’t walk. But equally we can’t stay here.@§7[3/6] §2Аледар: §aЯ не могу идти. Но точно так же мы не можем оставаться здесь.
+§7[3/6] §2Aledar: §aI can't walk. But equally we can't stay here.@§7[3/6] §2Аледар: §aЯ не могу идти. Но точно так же мы не можем оставаться здесь.
 §7[4/6] §2Aledar: §aThe mission must be carried out. The plan has changed but it’s imperative we get to the end of this expanse, together.@§7[4/6] §2Аледар: §aМиссия должна быть выполнена. План изменился, но нам необходимо добраться до конца пространства, вместе.
+§7[4/6] §2Aledar: §aThe mission must be carried out. The plan has changed, but it's imperative we get to the end of this expanse, together.@§7[4/6] §2Аледар: §aМиссия должна быть выполнена. План изменился, но нам необходимо добраться до конца пространства, вместе.
 §7[5/6] §2Aledar: §aThere has to be a way.. Even if you have to push me in this thing!@§7[5/6] §2Аледар: §aДолжен быть способ.. Даже если тебе придется толкать меня в этой штуке!
 §7[6/6] §2Aledar: §aNo, I’m not joking. You guard the cart, I’ll lead the way.@§7[6/6] §2Аледар: §aНет, я не шучу. Ты охраняй повозку, а я буду вести путь.
+§7[6/6] §2Aledar: §aNo, I'm not joking. You guard the cart, I'll lead the way.@§7[6/6] §2Аледар: §aНет, я не шучу. Ты охраняй повозку, а я буду вести путь.
 §7[1/8] §2Aledar: §aAccording to the map, the miners started a town a little ahead.@§7[1/8] §2Аледар: §aСудя по карте, шахтеры основали город чуть впереди.
-§7[2/8] §2Aledar: §aWho knows what's left, but it’s got to be safer than here.@§7[2/8] §2Аледар: §aКто знает, что осталось там, но это место должно быть безопаснее, чем здесь.
+§7[2/8] §2Aledar: §aWho knows what's left, but it's got to be safer than here.@§7[2/8] §2Аледар: §aКто знает, что осталось там, но это место должно быть безопаснее, чем здесь.
 §7[3/8] §2Aledar: §aI think the §a§lSmall Monsters §awill try to §a§lKill me§a.@§7[3/8] §2Аледар: §aЯ думаю, что §a§lМаленькие монстры§a попытаются §a§lУбить меня§a.
 §7[4/8] §2Aledar: §aWhile the §a§lBig Monsters §awill try to §a§lKill you§a.@§7[4/8] §2Аледар: §aВ то время как §a§lБольшие монстры§a будут пытаться §a§lУбить тебя§a.
 §7[5/8] §2Aledar: §aIt’s going to be on you to make sure we both get through this.@§7[5/8] §2Аледар: §aВсе зависит от тебя, убедись, что мы оба пройдем через это.
+§7[5/8] §2Aledar: §aIt's going to be on you to make sure we both get through this.@§7[5/8] §2Аледар: §aВсе зависит от тебя, убедись, что мы оба пройдем через это.
 §7[6/8] §2Aledar: §aThe fate of the mission relies on the two of us working together.@§7[6/8] §2Аледар: §aСудьба миссии зависит от нас двоих, работающих вместе.
 §7[7/8] §2Aledar: §aAre those… Eyes on the trees?@§7[7/8] §2Аледар: §aЭто что... Глаза на деревьях?
 §7[1/1] §2Aledar: §aAnother one's coming! Pay attention!@§7[1/1] §2Аледар: §aЕще одни приближаются! Обрати внимание!
@@ -183,13 +188,19 @@
 §7[1/1] §2Aledar: §aWe're almost there! I can see the town from here!@§7[1/1] §2Аледар: §aМы почти на месте! Я вижу город отсюда!
 §7[1/1] §2Aledar: §aOh no!@§7[1/1] §2Аледар: §aО нет!
 §7[1/7] §2Aledar: §aFinally, we've arrived... It’s not exactly the town on the map.@§7[1/7] §2Аледар: §aНаконец-то мы приехали... Это не совсем тот город на карте.
+§7[1/7] §2Aledar: §aFinally, we've arrived... It's not exactly the town on the map.@§7[1/7] §2Аледар: §aНаконец-то мы приехали... Это не совсем тот город на карте.
 §7[2/7] §2Aledar: §aThe lost miners are here… How? they must be hundreds of years old!@§7[2/7] §2Аледар: §aПотерянные шахтеры здесь... Как? им, должно быть, сотни лет!
+§7[2/7] §2Aledar: §aThe lost miners are here... How? they must be hundreds of years old!@§7[2/7] §2Аледар: §aПотерянные шахтеры здесь... Как? им, должно быть, сотни лет!
 §7[3/7] §2Aledar: §aWhat is this obelisk? It’s.. oddly comforting. I recognise this feeling from my time in Gavel.@§7[3/7] §2Аледар: §aЧто это за обелиск? Здесь.. комфортно. Я узнаю это чувство со времен моего пребывания в Гавеле.
+§7[3/7] §2Aledar: §aWhat is this obelisk? It's.. oddly comforting. I recognise this feeling from my time in Gavel.@§7[3/7] §2Аледар: §aЧто это за обелиск? Здесь.. комфортно. Я узнаю это чувство со времен моего пребывания в Гавеле.
 §7[4/7] §2Aledar: §aMaybe.. It’s been touched by the light? If so.. It could heal me.@§7[4/7] §2Аледар: §aВозможно.. Его коснулся свет? Если это так.. Он может исцелить меня.
+§7[4/7] §2Aledar: §aMaybe.. It's been touched by the light? If so.. It could heal me.@§7[4/7] §2Аледар: §aВозможно.. Его коснулся свет? Если это так.. Он может исцелить меня.
 §7[5/7] §2Aledar: §aLet’s see if it does anything to me...@§7[5/7] §2Аледар: §aДавай посмотрим, что он сделает со мной...
+§7[5/7] §2Aledar: §aLet's see if it does anything to me...@§7[5/7] §2Аледар: §aДавай посмотрим, что он сделает со мной...
 §7[6/7] §2Aledar: §aIt worked... Kind of. I feel at least 70%. We still have a ways to go.@§7[6/7] §2Аледар: §aЭто сработало... Вроде. Я чувствую себя как минимум на 70%.. Нам еще многое предстоит сделать.
-§7[7/7] §2Aledar: §aLet’s take some time to gather ourselves before we press on. I’ll meet you on the other side of town.@§7[7/7] §2Аледар: §aДавай возьмем некоторое время, чтобы собраться, прежде чем мы продолжим. Встретимся на другом конце города.
+§7[7/7] §2Aledar: §aLet's take some time to gather ourselves before we press on. I'll meet you on the other side of town.@§7[7/7] §2Аледар: §aДавай возьмем некоторое время, чтобы собраться, прежде чем мы продолжим. Встретимся на другом конце города.
 
+§7[1/1] §2Aledar: §aWatch out, the small monsters are coming for me! I can't fight in this thing!@§7[1/1] §2Аледар: §aОсторожно, маленькие монстры идут за мной! Я не могу сражаться в этой штуке!
 §7[1/1] §2Aledar: §aWatch out, the small monsters are coming for me! I can’t fight in this thing!@§7[1/1] §2Аледар: §aОсторожно, маленькие монстры идут за мной! Я не могу сражаться в этой штуке!
 §7[1/1] §2Dren: §aStay there, don't try leaving until we're done with the purification.@§7[1/1] §2Дрен: §aОставайся тут, не пытайся уйти пока мы не закончим с очищением.
 §7[1/1] §2Aledar: §aStay with me!@§7[1/1] §2Аледар: §aОстанься со мной!

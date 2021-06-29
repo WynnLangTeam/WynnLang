@@ -45,7 +45,7 @@
 §7[1/5] §2Ava: §aOh, hey! I got something!!@§7[1/5] §2Ава: §aО, привет! У меня есть кое-какая идея!!
 §7[2/5] §2Ava: §aAlright, so it's not really on the §a§olegal§a side of things, BUT apparently...@§7[2/5] §2Ава: §aПравда это не совсем §a§oзаконная§a сторона дела, НО...
 §7[3/5] §2Ava: §aThere's some sort of... Shady dealer you can buy an audience invitation from?@§7[3/5] §2Ава: §aЕсть ли тут что-то вроде... Теневого дилера, у которого можно купить приглашение на аудиенцию?
-§7[4/5] §2Ava: §aI'm sure there are other ways, but the dude should be in the castle to the east, §bfirst door to the left§a.@§7[4/5] §2Ава: §aУверена, что есть и другие пути, новроде этот пижон может быть в замке на востоке, §bпервая дверь налево§a.
+§7[4/5] §2Ava: §aI'm sure there are other ways, but the dude should be in the castle to the east, §bfirst door to the left§a.@§7[4/5] §2Ава: §aУверена, есть и другие пути, но вроде этот пижон должен быть в замке на востоке - §bпервая дверь налево от входа§a.
 §7[5/5] §2Ava: §aDo with that what you will. I guess I'll... Keep looking.@§7[5/5] §2Ава: §aДелай с этим, что хочешь. А я пожалуй... Продолжу искать.
 §7[1/1] §2Ava: §a...Is§a that someone crying over there? Eh, I'm not sure my social skills can handle that.@§7[1/1] §2Ава: §a...Это там кто-то плачет? Эх, я не уверена, что мои социальные навыки справятся с этим.
 §7[1/1] §2Ava: §aWell, good luck searching!@§7[1/1] §2Ава: §aЧто ж, удачи в поисках!
@@ -424,6 +424,12 @@
 §7[2/4] §2Corkus Jeweler: §aUrgh... Let me guess what your machine is. Is it a weapon? What does it shoot? Sand?@§7[2/4] §2Ювелир Коркуса: §aУгх... Дай угадаю, что у тебя за машина. Это оружие? Чем оно стреляет? Песком?
 §7[3/4] §2Corkus Jeweler: §aSorry, it's just a li'l annoying. If you really want an audience, there is a receptionist for that.@§7[3/4] §2Ювелир Коркуса: §aИзвини, это просто немного раздражает. Если тебе действительно нужна аудиенция, для этого есть секретарь.
 §7[4/4] §2Corkus Jeweler: §aAsk others. I ain't the one for that kind of stuff.@§7[4/4] §2Ювелир Коркуса: §aСпроси других. Я не из тех, кто занимается подобными вещами.
+§7[1/4] §2Corkus Jeweler: §aIt's funny how there are so many aspiring corkian inventors.@§7[1/4] §2Ювелир Коркуса: §aЗабавно, что существует так много начинающих коркианских изобретателей.
+§7[2/4] §2Corkus Jeweler: §aThey'd do anything for some recognition... Like, I don't know, I've seen one do a robot that screams then self-destructs right after.@§7[2/4] §2Ювелир Коркуса: §aОни сделают что угодно ради какого-то признания... Например, ну не знаю, видел, как один из них сделал робота, который кричит, а затем самоуничтожается сразу после этого.
+§7[3/4] §2Corkus Jeweler: §aThe point is, some Corkians go to extremes for... Not much. It's hell for the council to deal with so many people.@§7[3/4] §2Ювелир Коркуса: §aДело в том, что некоторые коркианцы идут на крайности... Небольшие. Это ад для совета - иметь дело с таким количеством людей.
+§7[4/4] §2Corkus Jeweler: §aThey do all these audiences... Only because at the end of the day, someone's bound to make an actually great machine.@§7[4/4] §2Ювелир Коркуса: §aОни проводят все эти аудиенции... Только потому, что в конце концов кто-то обязательно сделает действительно великую машину.
+§7[1/2] §2Corkus Jeweler: §aI've heard rumors of an Avo practicing Electromagic. How lucky...@§7[1/2] §2Ювелир Коркуса: §aДо меня дошли слухи о том, что Авосы практикует Электромагию. Как удачно...
+§7[2/2] §2Corkus Jeweler: §aThese guys can fly... They must be really strong!@§7[2/2] §2Ювелир Коркуса: §aЭти ребята умеют летать... Они, должно быть, очень сильные!
 §7[4/5] §2Ava: §aDo you think it'd work with that Mechanic outfit? Well, I don't think that matters anymore!@§7[4/5] §2Ава: §aКак думаешь, это сработает с тем механическим нарядом? Ну, я думаю, это уже не имеет значения!
 §7[1/8] §2Receptionist: §aOh god, not another duo. What do you want?!@§7[1/8] §2Секретарь: §aО боже, только не еще один дуэт. Чего вы хотите?!
 §7[3/8] §2Receptionist: §aAnd what would a mechanic have for- Wait, is that an invitation letter..?@§7[3/8] §2Секретарь: §aИ зачем вам этот механический наряд ну- Погодите, у вас приглашение...
@@ -622,3 +628,131 @@
 §7[1/1] §2Sybil: §aI §a§lcannot§a believe what just happened.@§7[1/1] §2Сибил: §aЯ §a§lне§a могу поверить что только что произошло.
 §7[1/1] §2Nodise: §aI've never been one to fight. I can't be of much help there. You seem like you've had your fair share of action. Join Maxie and Efena.@§7[1/1] §2Нодис: §aЯ никогда не дралась. Здесь я не смогу тебе помочь. Похоже, ты уже получил свою долю действий. Присоединяйся к Макси и Эфене.
 §7[1/1] §2Sybil: §aYou should leave now or I'll be the one hitting you.@§7[1/1] §2Сибил: §aТы должен уйти сейчас же, или я буду той, кто ударит тебя.
+§7[1/1] §2Ava: §aOr... Just leave, I guess? See ya later??@§7[1/1] §2Ава: §aИли... Просто уйти, я полагаю? Увидимся позже??
+§7[1/2] §2Ava: §aYou wanna go again? Sure!@§7[1/2] §2Ава: §aТы хочешь уйти еще раз? Конечно!
+§7[2/2] §2Ava: §aGood luck! I'm countin' on ya!@§7[2/2] §2Ава: §aУдачи! Я рассчитываю на тебя!
+§7[1/1] §2Ava: §aGet ready, alright?@§7[1/1] §2Ава: §aБудь готов, хорошо?
+§7[1/1] §2Gardener: §aSilly soldiers...@§7[1/1] §2Садовник: §aГлупые солдаты...
+§7[1/1] §2Ava: §aOh grook, oh no... Hold on!@§7[1/1] §2Ава: §aО грук, о нет... Держись!
+§7[1/1] §2Ava: §aYou're leaving?! I was just starting the machine!! Come back eventually, alright?@§7[1/1] §2Ава: §aТы уходишь?! Я как раз запустила машину!! Возвращайся поскорее, хорошо?
+§7[1/1] §2Ava: §aI... I'm sorry if I put too much faith in you...@§7[1/1] §2Ава: §aЯ... прости, если я слишком сильно поверила в тебя...
+§7[1/1] §2Ava: §aNo worries... Well, I'm worrying, but that doesn't mean you have to.@§7[1/1] §2Ава: §aНе беспокойся... Ну, я беспокоюсь, но это не значит, что ты должен это делать.
+§7[1/3] §2Efena: §aAre you two sure you're alright?@§7[1/3] §2Эфена: §aВы двое уверены, что с вами все в порядке?
+§7[2/3] §2Efena: §aIs that machine that hard to control?@§7[2/3] §2Эфена: §aНеужели этой машиной так трудно управлять?
+§7[3/3] §2Ava: §aNo, no- Don't worry! We're showing you that... It can shut off instead of blowing up...@§7[3/3] §2Ава: §aНет, не- не волнуйтесь! Мы вам покажем что... Она может отключиться вместо того, чтобы взорваться...
+§7[1/4] §2Efena: §aAlright, you really seem to be struggling.@§7[1/4] §2Эфена: §aЛадно, похоже тебе действительно трудно.
+§7[2/4] §2Efena: §aLucky for you, I'm in a relatively good mood.@§7[2/4] §2Эфена: §aК счастью для вас, я в относительно хорошем настроении.
+§7[3/4] §2Efena: §aI'm giving you §b§l6 more tries§a before we call it quits.@§7[3/4] §2Эфена: §aЯ даю вам еще §b§l6 попыток§a прежде чем мы закончим.
+§7[1/1] §2Ava: §a§o♪ I'm blue... ♪@§7[1/1] §2Ава: §a§o♪ Айм блю... ♪
+§7[4/9] §2Ava: §aThat's fine, I'm sure you just have to show her your resolve or something.@§7[4/9] §2Ава: §aВсе в порядке, я уверена, что ты просто должен показать ей свою решимость или что-то в этом роде.
+§7[1/1] §2Ava: §aHey, I just don't want to take responsibility for what's about to happen!@§7[1/1] §2Ава: §aЭй, я просто не хочу брать на себя ответственность за то, что должно произойти!
+§7[1/1] §2Ava: §aHey, don't leave already! Oh well, I'll be waiting here, §bpick a good outfit§a for me!@§7[1/1] §2Ава: §aЭй, не уходи уже! Ну что ж, я буду ждать здесь, §bвыбери для меня хороший наряд!
+§7[1/1] §2Ava: §aFeeling suicidal? Just hold on, we got this!@§7[1/1] §2Ава: §aДумаешь о самоубийстве? Просто держись, мы справимся!
+§7[1/4] §2Ava: §aPlease don't §a§lever §ado that again.@§7[1/4] §2Ава: §aПожалуйста, §a§lникогда§a не делай этого снова.
+§7[2/4] §2Ava: §aWe're more prone to heart attacks than you humans.@§7[2/4] §2Ава: §aМы более подвержены сердечным приступам, чем вы, люди.
+§7[3/4] §2Ava: §aIt's not that hard, it's just pressing buttons, right?@§7[3/4] §2Ава: §aЭто не так сложно, это просто нажатие кнопок, верно?
+§7[4/4] §2Ava: §aLet's just get this over with...@§7[4/4] §2Ава: §aДавай просто покончим с этим...
+§7[3/6] §2Receptionist: §aDo you have ANYTHING to show? Shouldn't you be working at that time?!@§7[3/6] §2Секретарь: §aУ вас есть ЧТО показать? Разве вы не должны работать в это время?!
+§7[4/6] §2Ava: §aNo, it's just that I, well... Nevermind, I do have a thing to show, it's, uh...@§7[4/6] §2Ава: §aНет, просто я... ну...Неважно, мне действительно есть что показать, это...эм...
+§7[6/6] §2Receptionist: §aGo back to your §a§ominimum wage job§a or something, but stay §a§lOUT§a of my room.@§7[6/6] §2Секретарь: §aВозвращайтесь на свою §a§oработу с минимальной зарплатой§a или что-то в этом роде, но держитесь §a§lПОДАЛЬШЕ§a от моей комнаты.
+§7[4/6] §2Ava: §aCheck it out if you want, I won't cause trouble. I'd rather be the friendly neighbourhood mechanic!@§7[4/6] §2Ава: §aПроверьте это, если хотите, я не причиню вам неприятностей. Я бы предпочла быть дружелюбным соседским механиком!
+§7[1/1] §2Ava: §aWait, we're in the middle of something, and you're leaving? Just, uh, come back later alright??@§7[1/1] §2Ава: §aПодожди, у нас что-то получается, и ты уходишь? Просто, эм, зайди попозже, хорошо??
+§7[1/1] §2Gardener: §aI mean come on... It's not like you got some power armour or somethin'.@§7[1/1] §2Садовник: §aЯ имею в виду... Это не похоже на то, что у тебя есть какая-то силовая броня или что-то в этом роде.
+§7[4/9] §2Ava: §aI'd say we have plenty of chances with that fancy armour you got me.@§7[4/9] §2Ава: §aЯ бы сказала, что у нас есть много шансов с той причудливой броней, которую ты мне подарил.
+§7[3/6] §2Ava: §aWhy thank you! I reckon you will search for an available time regarding an audience?@§7[3/6] §2Ава: §aЗа что тебе спасибо! Полагаю, ты будешь искать свободное время для аудиенции?
+§7[1/1] §2Ava: §aHow convenient for the right chip to come out just like that!@§7[1/1] §2Ава: §aКак удобно, что правильный чип достался нам именно так!
+§7[1/8] §2Receptionist: §aWhy hello there! Greetings! Welcome! You are looking splendid, dear!@§7[1/8] §2Секретарь: §aНу здраствуйте! Приветствую вас! Добро пожаловать! Вы выглядите великолепно, дорогая!
+§7[2/8] §2Ava: §aOh?! T-thank you... That's the first time someone told me such a thing!@§7[2/8] §2Ава: §aО?! С-спасибо... Это первый раз, когда кто-то сказал мне такое!
+§7[3/8] §2Receptionist: §aDon't be silly dear, you're beautiful! Say, you're looking to be an investor, am I right?@§7[3/8] §2Секретарь: §aНе говорите глупостей, дорогуша, вы прекрасны! Скажи, ты хочешь стать инвестором, я права?
+§7[4/8] §2Ava: §a...Will§a that grant me an audience with the Council?@§7[4/8] §2Ава: §a...Это даст мне аудиенцию с Советом?
+§7[5/8] §2Receptionist: §aWhy of course! Is that other person your assistant? Great!@§7[5/8] §2Секретарь: §aНу конечно же! Этот другой человек - ваш помощник? Отлично!
+§7[6/8] §2Receptionist: §aI'd like you to show me you have what it takes to be a great investor, yes!@§7[6/8] §2Секретарь: §aЯ бы хотела, чтобы вы показали мне, что у вас есть все необходимое, чтобы стать великим инвестором, да!
+§7[7/8] §2Receptionist: §aJust hand over a mere §3[12 Liquified Emeralds] §aand it's settled!@§7[7/8] §2Секретарь: §aПросто передайте мне всего лишь §3[12 Жидких Эмеральдов]§a, и все будет улажено!
+§7[8/8] §2Ava: §aI- We'll... see what we can do.@§7[8/8] §2Ава: §aЯ- Ну... посмотрю что можно сделать.
+§7[1/1] §2Receptionist: §§3[12 Liquified Emeralds] §aand I can get you two started!@§7[1/1] §2Секретарь: §3[12 Жидких Эмеральдов]§a и я могу помочь вам двоим начать!
+§7[1/1] §2Receptionist: §aHm? I told you, §3[12 Liquified Emeralds] §awould do it. I wasn't kidding.@§7[1/1] §2Секретарь: §aХм? Я говорила вам, §3[12 Жидких Эмеральдов]§a и все будет. Я не шучу.
+§7[1/3] §2Ava: §aLook, I'm not good at being a human but even I know this is an absurd amount of money!@§7[1/3] §2Ава: §aПослушай, я не умею быть человеком, но даже я знаю, что это абсурдная сумма денег!
+§7[2/3] §2Ava: §aDo you think she'd actually take it? I'm not sure. We might have to find §banother way§a...@§7[2/3] §2Ава: §aКак думаешь, она действительно согласится? Я не уверена. Возможно, нам придется найти §bдругой способ§a...
+§7[3/3] §2Ava: §aI'll go back to the town center. It's up to you if you want to risk all that money, if you even have it! We'll figure something else out.@§7[3/3] §2Ава: §aЯ вернусь в центр города. Зависит от тебя, хочешь ли ты рисковать всеми этими деньгами, если они у тебя есть! Мы придумаем что-нибудь еще.
+§7[3/5] §2Ava: §aAnd you booked an audience for tomorrow morning?! How did you...@§7[3/5] §2Ава: §aИ ты заказал аудиенцию на завтрашнее утро?! Как ты...
+§7[1/1] §2Gardener: §aYou'd also have luck if you looked like an investor. Like, packed with money. They like those.@§7[1/1] §2Садовник: §aТебе также повезет, если ты будешь выглядеть как инвестор. Типа, набит деньгами. Им это нравится.
+§7[3/6] §2Receptionist: §aWait, WHY do you have TWO letters?? This doesn't make any sense?! Oh well, whatever, I'm not paid enough to care.@§7[3/6] §2Секретарь: §aПодождите, а ПОЧЕМУ у вас ДВА письма?? Это не имеет никакого смысла?! Ну ладно, как бы там ни было, мне платят недостаточно, чтобы я заботилась об этом.
+§7[1/17] §2Sybil: §aWh- Oh... It's only you.@§7[1/17] §2Сибил: §aЧт- Ох... Это всего лишь ты.
+§7[2/17] §2Sybil: §aWait, it's YOU?!!@§7[2/17] §2Сибил: §aПодожди, это ТЫ?!!
+§7[3/17] §2Sybil: §aYou - Urgh. Remember me? From the Corkian Council?@§7[3/17] §2Сибил: §aТы - Угх. Помнишь меня? Из Коркианского совета?
+§7[4/17] §2Sybil: §aWhatever. Yeah, yeah, I'm visiting. Let's just say I'm on a break.@§7[4/17] §2Сибил: §aЛадно. Да, да, я в гостях. Скажем так, у меня отпуск.
+§7[5/17] §2Sybil: §aThat inn in town's pretty cheap for the so-called most important town of the province.@§7[5/17] §2Сибил: §aЭта гостиница в городе довольно дешевая для так называемого самого важного города провинции.
+§7[6/17] §2Sybil: §a...or§a maybe I'm just rich?@§7[6/17] §2Сибил: §a...или, может быть, я просто богатая?
+§7[7/17] §2Sybil: §aAnyway, you and your little bird... You guys should've just stayed away from the Council!@§7[7/17] §2Сибил: §aВо всяком случае, ты и твоя маленькая птичка... Вам, ребята, следовало просто держаться подальше от Совета!
+§7[8/17] §2Sybil: §aLook... You wouldn't understand... We're supposed to be gifted with our own magic!@§7[8/17] §2Сибил: §aСмотри... Ты не поймешь... Мы должны быть одарены нашей собственной магией!
+§7[9/17] §2Sybil: §aAnd you... You go and show me, show all of us that anyone, §a§lANYONE§a can use electromagic?! Just like that?@§7[9/17] §2Сибил: §aИ вы... Вы приходите и показываете мне, всем нам, что кто угодно, §a§lКТО УГОДНО§a может использовать электромагию?! Вот так просто?
+§7[10/17] §2Sybil: §aSay, I just §a§oMIGHT§a have overreacted back then, but I'm not the only one who felt this way.@§7[10/17] §2Сибил: §aСкажем, тогда я §a§oвозможно§a слишком остро отреагировала, но я не единственная, кто так себя чувствовал.
+§7[11/17] §2Sybil: §aTrust me, the others just weren't saying anything. Dwice, Clomius... Same as me. And it's not only within the Council@§7[11/17] §2Сибил: §aПоверь мне, остальные просто ничего не сказали. Двайс, Кломиус... То же, что и я. И это касается не только Совета
+§7[12/17] §2Sybil: §aObviously they'd want to get on Efena's good side. You wouldn't want to go against a president.@§7[12/17] §2Сибил: §aОчевидно, они хотели бы быть на хорошей стороне с Эфеной. Ты бы не захотел идти против президента.
+§7[13/17] §2Sybil: §aI hope... that one day, someone will do just as "good" as you.@§7[13/17] §2Сибил: §aЯ надеюсь... что однажды кто-то сделает так же "хорошо", как и ты.
+§7[14/17] §2Sybil: §aI hope one day you realize that you, too, aren't all that special.@§7[14/17] §2Сибил: §aНадеюсь, что однажды ты поймешь, что ты тоже не такой уж особенный.
+§7[15/17] §2Sybil: §aMaybe later we'll meet up again on the Council. If I'm composed enough to go back.@§7[15/17] §2Сибил: §aМожет быть, позже мы снова встретимся на Совете. Если я буду в состоянии, чтобы вернуться.
+§7[16/17] §2Sybil: §a...she§a got off so easy. Too easy. It was all just so convenient for her in the end... I can't believe we're letting all of this slide!! A lot of citizens are worried, and...@§7[16/17] §2Сибил: §a...и она так легко отделалась. Слишком просто. В конце концов, все это было так удобно для нее... Я не могу поверить, что мы спустили все на тормозах!! Многие граждане обеспокоены, и...
+§7[17/17] §2Sybil: §aUrgh, I was starting to appreciate my time here until §a§oyou§a came along! Just... just go. I don't want to be thinking about that right now.@§7[17/17] §2Сибил: §aУх, я уже начала ценить свое пребывание здесь, пока не появился ты! Просто... просто уходи. Я не хочу думать об этом прямо сейчас.
+§7[1/1] §2Ava: §aReally, no matter the choice, anything could happen.@§7[1/1] §2Ава: §aНа самом деле, независимо от выбора, все может случиться.
+§7[4/5] §2Ava: §aIt's difficult to get an audience? Well, it's worth a try, right? Maybe they'll see me as a wealthy lad!@§7[4/5] §2Ава: §aТрудно получить аудиенцию? Что ж, стоит попробовать, не так ли? Может быть, они увидят во мне богатого инвестора!
+§7[4/4] §2Ava: §aSince you seem in a hurry, let's get this over with. Tell me when to start, I'll give you the remote.@§7[4/4] §2Ава: §aПоскольку ты, кажется торопишься, давай покончим с этим. Скажи мне, когда начинать, я дам тебе пульт.
+§7[1/6] §2Ava: §aThat's crazy! §3[12 Liquified Emeralds]§a? Is that how the world works?@§7[1/6] §2Ава: §aЭто безумие! §3[12 Жидких Эмеральдов]§a? Так устроен мир?
+§7[2/6] §2Ava: §aIt's just... I honestly don't care about listening to the law anymore.@§7[2/6] §2Ава: §aЭто просто... Честно говоря, я больше не хочу соблюдать закон.
+§7[3/6] §2Ava: §aLet's just get that audience. For one, there's some girl panicking by the §bArmour Merchant§a! Maybe she could help?@§7[3/6] §2Ава: §aДавай просто попадем на эту аудиенцию. Во-первых, какая-то девушка нервничает около §bТорговца Броней§a! Может быть, она сможет помочь?
+§7[4/6] §2Ava: §aAs for another way, I don't know if you paid attention on our way to the receptionist, but...@§7[4/6] §2Ава: §aЧто касается другого способа, не знаю, обратил ли ты внимание, когда мы шли к секретарю, но...
+§7[5/6] §2Ava: §aThere is apparently a §bdealer§a in there. He does charge money too, though. But surely not as much as that... wretched... lady! §a...Sorry§a.@§7[5/6] §2Ава: §aТам, по-видимому, есть дилер. Хотя он тоже берет деньги. Но, конечно, не так много, как эта... убогая... леди! §а...Прости§а.
+§7[1/1] §2Ava: §aLet's hope we get this right. You lead, I follow!@§7[1/1] §2Ава: §aБудем надеяться, что мы все сделаем правильно. Ты ведешь, я следую за тобой!
+§7[16/17] §2Sybil: §a...she§a got off so easy. Too easy. It was all just so convenient for her in the end... We're letting her roam around with a weaponized armour, and, for the record, she really did hurt me!!@§7[16/17] §2Сибил: §a...она так легко отделалась. Слишком просто. В конце концов, все это было так удобно для нее... Мы позволяем ей разгуливать с вооруженной броней, и для протокола, она действительно причинила мне боль!!
+§7[1/3] §2Efena: §aHey, even I'm worried for you now. §b§l5 tries left§a.@§7[1/3] §2Эфена: §aЭй, даже я сейчас волнуюсь за вас. §b§l5 попыток осталось§a.
+§7[2/3] §2Mei: §aYou don't want to anger Efena.@§7[2/3] §2Мэй: §aВы не хотите злить Эфену.
+§7[3/3] §2Grant: §aHmpf. Show us your best this time.@§7[3/3] §2Грант: §aХмпф. Покажите нам свои лучшие качества на этот раз.
+§7[1/4] §2Efena: §b§l4 tries left§a.@§7[1/4] §2Эфена: §b§l4 попытки осталось§a.
+§7[2/4] §2Maxie: §a...Aren't§a you stressing them out... Too much?@§7[2/4] §2Макси: §a...Разве ты их не напрягаешь?.. Слишком много?
+§7[3/4] §2Sybil: §aDon't spoil our fun, Maxie!@§7[3/4] §2Сибил: §aНе порть нам веселье, Макси!
+§7[4/4] §2Efena: §a§oYour§a fun. I'm not a monster. It's called time management, Sybil.@§7[4/4] §2Эфена: §a§oТвое§a веселье. Я не монстр. Это называется тайм-менеджмент, Сибил.
+§7[1/4] §2Efena: §b§l3 tries left§a. I hate to do this to you, but we have strict schedules.@§7[1/4] §2Эфена: §b§l3 попытки осталось§a. Мне неприятно так с тобой поступать, но у нас строгий график.
+§7[2/4] §2Ava: §aI... I understand, I think. We're trying, trust me.@§7[2/4] §2Ава: §aЯ... Думаю, я понимаю. Мы стараемся, поверьте мне.
+§7[3/4] §2Dwice: §aOh we can definitely see that.@§7[3/4] §2Двайс: §aО, мы определенно это видим.
+§7[4/4] §2Efena: §aLet's not make it worse for them.@§7[4/4] §2Эфена: §aДавайте не будем делать им хуже.
+§7[1/4] §2Efena: §b§l2 tries left§a...@§7[1/4] §2Эфена: §b§l2 попытки осталось§a.
+§7[2/4] §2Ava: §aCould you... Could you add more? Please?@§7[2/4] §2Ава: §aНе могли бы вы... Не могли бы вы добавить еще? Пожалуйста.
+§7[3/4] §2Efena: §aSorry. Maybe you should've showcased that armour instead.@§7[3/4] §2Эфена: §aИзвините. Может быть, тебе следовало вместо этого продемонстрировать эту броню.
+§7[4/4] §2Efena: §aBy all means, continue. Ninth time's the charm.@§7[4/4] §2Эфена: §aВо что бы то ни стало продолжайте. В девятый раз самое интересное.
+§7[1/4] §2Efena: §b§lLast chance§a, Ava. This was quite the audience, but we're very much used to that.@§7[1/4] §2Эфена: §b§lПоследний шанс§a, Ава. Это была целая аудиенция, но мы к этому привыкли.
+§7[2/4] §2Efena: §aActually, how'd you get one in the first place? Just curious.@§7[2/4] §2Эфена: §aВообще-то, как ты вообще его получила? Просто любопытно.
+§7[3/4] §2Ava: §aI... I have my ways.@§7[3/4] §2Ава: §aЯ... У меня свои способы.
+§7[1/6] §2Nodise: §aWhat a shame. I believed in these two.@§7[1/6] §2Нодис: §aКакой позор. Я верил в этих двоих.
+§7[2/6] §2Clomius: §aSo did I. But you heard Efena. I guess it's over.@§7[2/6] §2Кломиус: §aИ я тоже. Но ты слышал Эфену. Думаю, все кончено.
+§7[3/6] §2Ava: §a...No§a.@§7[3/6] §2Ава: §a...Нет.
+§7[4/6] §2Ava: §aFor years, I've been rejected by the entire world.@§7[4/6] §2Ава: §aВ течение многих лет меня отвергал весь мир.
+§7[6/6] §2Efena: §aFine. I'll give you §a§oone§a pass. You do have a cool armour, after all.@§7[6/6] §2Эфена: §aХорошо. Я дам тебе §a§oодин§a шанс. В конце концов, у тебя классная броня.
+§7[1/6] §2Ava: §aMy turn now.@§7[1/6] §2Ава: §aТеперь моя очередь.
+§7[2/6] §2Ava: §aHere I go...@§7[2/6] §2Ава: §aВот так...
+§7[3/6] §2Ava: §aGah! Wrong one...@§7[3/6] §2Ава: §aЧерт! Не то...
+§7[4/6] §2Maxie: §aWait, don't overdo it!@§7[4/6] §2Макси: §aПодожди, не переусердствуй!
+§7[5/6] §2Ava: §aI'm FINE. Screw the machine. I'll do something else!@§7[5/6] §2Ава: §aЯ в ПОРЯДКЕ. К черту машину. Я сделаю что-нибудь еще!
+§7[6/6] §2Maxie: §aWait, that magic, that's... No...@§7[6/6] §2Макси: §aПодожди, эта магия, это... Нет...
+§7[9/10] §2Efena: §aWhile the machine didn't seem to work, you pulled out some... Weird magic. Are you hiding anything?@§7[9/10] §2Эфена: §aХотя машина, казалось, не работала, ты вытащила немного... Странной магии. Ты что-то скрываешь?
+§7[10/10] §2Ava: §aActually... §a§lI am.@§7[10/10] §2Ава: §aНа самом деле... §a§lДа.
+§7[13/15] §2Clomius: §aSo that explains the magic!@§7[13/15] §2Кломиус: §aТак вот чем объясняется магия!
+§7[10/20] §2Efena: §aI thought electromagic was limited to humans, but it seems like you're miserable at it anyway.@§7[10/20] §2Эфена: §aЯ думала, что электромагия ограничена людьми, но, похоже, ты все равно в этом ужастна.
+§7[16/20] §2Ava: §a§lYou failed me§a! And you, so called council, can't even seem to see past my feathers!@§7[16/20] §2Ава: §a§lТы подвел меня§a! А вы, так называемый совет, кажется, даже не можете видеть дальше моих перьев!
+§7[2/4] §2Ava: §aAs well as §a§lyours§a too. Maybe things would've gone different if you didn't fail the audience, huh?@§7[2/4] §2Ава: §aТак же, как и ты. Может быть, все пошло бы по-другому, если бы ты не подвел аудиенцию, а?
+§7[3/4] §2Ava: §aNot that it matters anyway. I suppose you can't be on my side anymore. No one can.@§7[3/4] §2Ава: §aВпрочем, это не имеет значения. Полагаю, ты больше не можешь быть на моей стороне. Никто не может.
+§7[1/1] §2Avos Chieftain: §aOh, you're leaving? Well then, farewell.@§7[1/1] §2Вождь Авосов: §aОх, ты уходишь? Ну что ж, тогда прощай.
+§7[1/12] §2Avos Chieftain: §aOh. Greetings, soldier. It's been a while, hasn't it?@§7[1/12] §2Вождь Авосов: §aОх. Приветствую тебя, солдат. Прошло много времени, не так ли?
+§7[2/12] §2Avos Chieftain: §aSay, how did you... Get up there? Well, no matter.@§7[2/12] §2Вождь Авосов: §aСкажи, как ты это сделал?.. Поднялся туда? Ну, это неважно.
+§7[3/12] §2Avos Chieftain: §aI finally came and decided to visit her, for once, but...@§7[3/12] §2Вождь Авосов: §aВ конце концов я пришел и решил навестить ее, хотя бы раз, но...
+§7[4/12] §2Avos Chieftain: §aShe appears to be missing. It's strange, she's been moving around even more now.@§7[4/12] §2Вождь Авосов: §aПохоже, она пропала. Странно, но теперь она стала передвигаться еще больше.
+§7[5/12] §2Avos Chieftain: §aI've obviously been keeping an eye on her, from afar.@§7[5/12] §2Вождь Авосов: §aЯ, очевидно, следил за ней издалека.
+§7[6/12] §2Avos Chieftain: §aAfter everything, it would be a shame to have her get into real trouble. You know...@§7[6/12] §2Вождь Авосов: §aПосле всего, было бы обидно, если бы она попала в настоящую беду. Ты знаешь...
+§7[7/12] §2Avos Chieftain: §aYou were extremely audacious for going inside the City with her. I can't say I applaud you.@§7[7/12] §2Вождь Авосов: §aТы вел себя очень дерзко, отправившись с ней в Город. Не могу сказать, что я тебе аплодирую.
+§7[8/12] §2Avos Chieftain: §aThis has become quite the hassle for us, dealing with her mistakes.@§7[8/12] §2Вождь Авосов: §aЭто стало для нас настоящей проблемой, когда мы разбирались с ее ошибками.
+§7[9/12] §2Avos Chieftain: §aI heard she met Maxie? Both she and him seem to be spending time together.@§7[9/12] §2Вождь Авосов: §aЯ слышал, она познакомилась с Макси? И она, и он, кажется, проводят время вместе.
+§7[10/12] §2Avos Chieftain: §aNo one quite knows what they're doing. Maxie says they're "hunting" something. I doubt you'll find her out there, even if you try.@§7[10/12] §2Вождь Авосов: §aНикто толком не знает, что они делают. Макси говорит, что они за чем-то "охотятся". Я сомневаюсь, что ты найдешь ее там, даже если попытаешься.
+§7[11/12] §2Avos Chieftain: §aWell, as long as they're active, I pray they can help alleviate the tensions. We really need that now, more than ever.@§7[11/12] §2Вождь Авосов: §aНу, пока они активны, я молюсь, чтобы они помогли снять напряжение. Мы действительно нуждаемся в этом сейчас, больше, чем когда-либо.
+§7[1/1] §2Avos Chieftain: §aI wonder where Ava's gone off to.@§7[1/1] §2Вождь Авосов: §aИнтересно, куда делась Ава?
+§7[1/1] §2Avos Chieftain: §aFarewell for now, soldier.@§7[1/1] §2Вождь Авосов: §aА пока прощай, солдат.
+§7[1/1] §2Shopkeeper: §aGot something to show me?@§7[1/1] §2Лавочник: §aХочешь мне что-нибудь показать?
+§7[1/1] §2Shopkeeper: §aStay quiet about this place, alright? If the guards find out, we're toast.@§7[1/1] §2Лавочник: §aПомалкивай об этом месте, ладно? Если охранники узнают, нам конец.

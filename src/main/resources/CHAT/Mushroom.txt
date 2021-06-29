@@ -6,7 +6,7 @@
 §7[3/3] §2Talking Mushroom: §aJUST KILL ME NOW!@§7[3/3] §2Говорящий Гриб: §aПРОСТО УБЕЙ МЕНЯ СЕЙЧАС ЖЕ!
 §7[1/2] §2Talking Mushroom: §aYOU KNOW, HAVE I EVER TOLD YOU HOW MUCH I HA-@§7[1/2] §2Говорящий Гриб: §aЗНАЕШЬ, Я КОГДА-НИБУДЬ ГОВОРИЛ ТЕБЕ, НА СКОЛЬКО Я НЕНАВ-
 §7[2/2] §2Talking Mushroom: §aACTUALLY, WHERE EVEN ARE WE? THIS PLACE FEELS WEIRDLY FAMILIAR, AS IF I'VE BEEN HERE BEFORE.@§7[2/2] §2Говорящий Гриб: §aХОТЯ, ГДЕ МЫ ВООБЩЕ НАХОДИМСЯ? ЭТО МЕСТО КАЖЕТСЯ СТРАННО ЗНАКОМЫМ, КАК БУДТО Я БЫЛ ЗДЕСЬ РАНЬШЕ.
-§7[1/2] §2Talking Mushroom: §aOH MY, LOOKS WHO'S BACK. HERE I THOUGHT I WAS FREE OF YOUR GRASP AND THEN YOU COME BACK HERE.@§7[1/2] §2Говорящий Гриб: §aОЙ-ОЙ, СМОТРИТЕ, КТО ВЕРНУЛСЯ. Я ДУМАЛ, ЧТО ЗДЕСЬ БУДУ СВОБОДЕН ОТ ТВОИХ ГРЯЗНЫХ РУК, А ТЫ ВЗЯЛ И ВЕРНУЛСЯ СЮДА.
+§7[1/2] §2Talking Mushroom: §aOH MY, LOOK WHO'S BACK. HERE I THOUGHT I WAS FREE OF YOUR GRASP AND THEN YOU COME BACK HERE.@§7[1/2] §2Говорящий Гриб: §aОЙ-ОЙ, СМОТРИТЕ, КТО ВЕРНУЛСЯ. Я ДУМАЛ, ЧТО ЗДЕСЬ БУДУ СВОБОДЕН ОТ ТВОИХ ГРЯЗНЫХ РУК, А ТЫ ВЗЯЛ И ВЕРНУЛСЯ СЮДА.
 §7[2/2] §2Talking Mushroom: §aWAS PUTTING ME ON SOME EGGS NOT GOOD ENOUGH FOR YOU? I BARELY MANAGED TO RUN AWAY LOSING JUST A STEM!@§7[2/2] §2Говорящий Гриб: §aЧТО, ДУМАЛ ПОРЕЗАТЬ МЕНЯ К ЯЙЦАМ НЕДОСТАТОЧНО ХОРОШО ДЛЯ ТЕБЯ? Я ЕДВА УСПЕЛ УБЕЖАТЬ, ПОТЕРЯВ ТОЛЬКО НОЖКУ!
 §7[1/2] §2Talking Mushroom: §aIF I HAD A MOVABLE NECK, I’D BE TWISTING IT AROUND TO FACE YOU WITH UTTER CONFUSION.@§7[1/2] §2Говорящий Гриб: §aЕСЛИ БЫ У МЕНЯ БЫЛА ПОДВИЖНАЯ ШЕЯ, Я БЫ КРУТИЛ ЕЕ, ПОКА БЫ НЕ ВСТРЕТИЛСЯ С ТОБОЙ ГЛАЗАМИ ПОЛНЫМИ ЗАМЕШАТЕЛЬСТВА.
 §7[2/2] §2Talking Mushroom: §aI AM UTTERLY SPEECHLESS, HOW IN THE FLYING GROOK DID YOU ACTUALLY GET HERE?@§7[2/2] §2Говорящий Гриб: §aЯ КОНЕЧНО НЕМНОГОСЛОВЕН, НО ЁШКИН ГРУК, КАК МЫ ОЧУТИЛИСЬ ЗДЕСЬ?

@@ -1,0 +1,3 @@
+§6§lTracked Quest:@§6§lОтслеживаемый Квест:
+§dFollow your compass@§dСледуй за компасом
+§dto reach that location@§dчтобы попасть в локацию

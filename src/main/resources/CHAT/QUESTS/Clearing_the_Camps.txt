@@ -12,3 +12,4 @@
 
 §7[1/1] §2Captain Kymer: §aAha, another Ragni soldier, eh? Well, a warm welcome to you. Once you reach level 42, we could use some aid here.@§7[1/1] §2Капитан Каймер: §aАга, еще один солдат из Рагни, верно? Что ж, добро пожаловать. Как только ты достигнешь 42-го уровня, нам понадобится помощь.
 §7[1/1] §2Captain Kymer: §aThe orc chiefs seem to hide in the camps with §3green flags§a- search the plains, and return once they're subdued!@§7[1/1] §2Капитан Каймер: §aВожди орков, кажется прячутся в лагерях с §3зелеными флагами§a - обыщи равнины и вернись, как только они будут подчинены!
+§7[1/1] §2Captain Kymer: §aI wish you the best of luck in your travels.@§7[1/1] §2Капитан Каймер: §aЯ желаю тебе удачи в твоих путешествиях.

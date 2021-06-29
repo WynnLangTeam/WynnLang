@@ -72,7 +72,7 @@
 §7§l100 Meters Under Ahmsord@§7§l100 Метров под Амсордом
 §7§l300 Meters Under Ahmsord@§7§l300 Метров под Амсордом
 §7§l700 Meters Under Ahmsord@§7§l700 Метров под Амсордом
- until the bridge is built@§62:00 осталось до постройки моста
+§62:00 left until the bridge is built@§62:00 осталось до постройки моста
 §6Bridge built!@§6Мост построен!
 §cLava starts in...@§cЛава начнется через...
 §7You've been knocked out...@§7Ты был нокаутирован...
@@ -473,6 +473,7 @@ You logged in from another location@Ты зашел из другой локац
 §4Frosty Bow@§4Морозный Лук
 §4Frosty Staff@§4Морозный Посох
 §4Frosty Spear@§4Морозное Копье
+§4Frosty Sword@§4Морозный Меч
 §6Pirate Spear@§6Пиратское Копье
 §6Pirate Wand@§6Пиратский Посох
 §6Pirate Relik@§6Пиратский Релик
@@ -486,6 +487,8 @@ You logged in from another location@Ты зашел из другой локац
 §cNordic Halbert@§cСкандинавский Халберт
 §4Yahya's Fantasy@§4Фантазия Яхи
 §4Sword and Shield Effect@§4Эффект Меча и Щита
+§cNordic Staff@§cСкандинавский Посох
+§4Ivy Horns@§4Рога Плюща
 
 #########################System##################################
 §bServer restarting!@§bРестарт сервера!
@@ -518,6 +521,16 @@ We are §arestarting§f, please join back in a moment!@§fМы §aперезаг
 §dEdit mode enabled@§dРежим редактирования включен
 §dType §f/housing edit§d to switch back@§dНапиши §f/housing edit§d для переключения обратно
 Packet error code A1. If you're not hacking, please post about this on the forums!@Код ошибки пакета A1. Если вы не занимаетесь хакерством, пожалуйста, напишите об этом на форуме!
+§4SHEARS BROKEN!@§4НОЖНИЦЫ СЛОМАНЫ!
+§cYou are not ready@§cТы не готов
+§bRESTARTED@§bПЕРЕЗАПУЩЕН
+Took too long to log in@Вход в систему занял слишком много времени
+§4You have been warped away.@§4Ты был телепортирован прочь.
+§7§7No soul points have been lost.@§7Очки душ не были потеряны
+You recall your last visit...@Ты вспомнил свой последний визит...
+Invalid hotbar selection (Hacking?)@Неверный выбор хотбара (читер?)
+§4§oYou've been melted.@§4§oТы был расплавлен.
+§7Try again@§7Попробуй снова
 
 #########################Spells###############################
 §aL§7-§aL§7-§7§n?@§aЛ§7-§aЛ§7-§7§n?
@@ -591,6 +604,17 @@ Packet error code A1. If you're not hacking, please post about this on the forum
 §7§lSiegfried's Grave@§7§lМогила Зигфридов
 §7§oThe Heroes of Gavel@§7§oГерои Гавела
 You dropped your items too quickly (Hacking?)@Ты выбрасываешь предметы слишком быстро (Читер?)
+§a§lWynncraft@ 
+§6T c G@§6к Г
+§6Th ecr PG@§6нкр ПГ
+§6The necra RPG@§6йнкраф РПГ
+§6The inecraf ORPG@§6айнкраф ОРПГ
+§6The Minecraft MORPG@§6Майнкрафт МОРПГ
+§6The Minecraft MMORPG@§6Майнкрафт ММОРПГ
+§a§lynncraf@ 
+§a§lnncra@ 
+§a§lncr@ 
+§a§lc@ 
 
 #############################Discoveries#########################
 §3Secret Discovery Found@§3Секретное Открытие найдено
@@ -992,6 +1016,8 @@ You dropped your items too quickly (Hacking?)@Ты выбрасываешь пр
 §7[You are now entering CorruptedÀÀÀUndergrowthÀÀÀRuinsÀÀÀEntrance]@§7[Ты входишь в Испорченные Заросшие Руины]
 §7[You are now leaving CorruptedÀÀÀUndergrowthÀÀÀRuinsÀÀÀEntrance]@§7[Ты покидаешь Испорченные Заросшие Руины]
 §7[You are now entering the Update Room]@§7[Ты входишь в Апдейт Комнату]
+§7[You are now entering TempoÀÀÀTown]@§7[Ты входишь в Темпо Таун]
+§7[You are now leaving TempoÀÀÀTown]@§7[Ты покидаешь Темпо Таун]
 
 ############################RAIDS############################
 §b§lSurvive §7§lfor@§b§lВыживи §7§l
@@ -1175,3 +1201,5 @@ Stand still for 4 seconds@Стой неподвижно в течение 4 се
 §7Nex@§7Све
 §7e@§7в
 §7The lightning strikes follow you!@§7Удар молнии следует за тобой!
+§2§l§kThe Grootslang Wyrmlings@ 
+§2§lThe Grootslang Wyrmlings@§2§lГрутсланг Вирмлинги

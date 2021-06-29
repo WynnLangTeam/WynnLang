@@ -307,7 +307,7 @@
 §7[3/11] §2???: §aLook at it now. It's become so barren and... Lifeless.@§7[3/11] §2???: §aПосмотри на него сейчас. Оно стало таким бесплодным и... Безжизненным.
 §7[4/11] §2???: §aI've watched much of this land fall in a similar way...@§7[4/11] §2???: §aЯ видела, как большая часть этой земли пала подобным образом...
 §7[5/11] §2???: §aIt's been spreading faster as the years have gone by. I-I don't believe there's much time left.@§7[5/11] §2???: §aС годами она распространяется все быстрее. Я-я не думаю, что у нас осталось много времени.
-§7[6/11] §2???: §aPeople have been calling it the "Decay"... Truth is, there is so much more to it.@§7[6/11] §2???: §aЖители называют это "Заражением"... Правда в том, что это гораздо больше.
+§7[6/11] §2???: §aPeople have been calling it the "Decay"... Truth is, there is so much more to it.@§7[6/11] §2???: §aЖители называют это "Заражением"... Правда в том, что это гораздо большее.
 §7[7/11] §2???: §aI've managed to hold it back and keep it to the north, but there is only one of me.@§7[7/11] §2???: §aМне удалось остановить его и удержать на севере, но есть только одна я.
 §7[8/11] §2???: §aJust look at all of this rot. And I was always told that nature could manage on its own.@§7[8/11] §2???: §aТолько посмотрите на всю эту гниль. И мне всегда говорили, что природа сможет справиться сама.
 §7[9/11] §2???: §aBut, alas, not even the loveliest pieces of light are safe from its looming shadow.@§7[9/11] §2???: §aНо, увы, даже самые прекрасные кусочки света не защищены от его нависшей тени.
@@ -318,12 +318,14 @@
 §7[3/11] §2Lari: §aLook at it now. It's become so barren and... Lifeless.@§7[3/11] §2Лари: §aПосмотри на него сейчас. Оно стало таким бесплодным и... Безжизненным.
 §7[4/11] §2Lari: §aI've watched much of this land fall in a similar way...@§7[4/11] §2Лари: §aЯ видела, как большая часть этой земли пала подобным образом...
 §7[5/11] §2Lari: §aIt's been spreading faster as the years have gone by. I-I don't believe there's much time left.@§7[5/11] §2Лари: §aС годами она распространяется все быстрее. Я-я не думаю, что у нас осталось много времени.
-§7[6/11] §2Lari: §aPeople have been calling it the "Decay"... Truth is, there is so much more to it.@§7[6/11] §2Лари: §aЖители называют это "Заражением"... Правда в том, что это гораздо больше.
+§7[6/11] §2Lari: §aPeople have been calling it the "Decay"... Truth is, there is so much more to it.@§7[6/11] §2Лари: §aЖители называют это "Заражением"... Правда в том, что это гораздо большее.
 §7[7/11] §2Lari: §aI've managed to hold it back and keep it to the north, but there is only one of me.@§7[7/11] §2Лари: §aМне удалось остановить его и удержать на севере, но есть только одна я.
 §7[8/11] §2Lari: §aJust look at all of this rot. And I was always told that nature could manage on its own.@§7[8/11] §2Лари: §aТолько посмотрите на всю эту гниль. И мне всегда говорили, что природа сможет справиться сама.
 §7[9/11] §2Lari: §aBut, alas, not even the loveliest pieces of light are safe from its looming shadow.@§7[9/11] §2Лари: §aНо, увы, даже самые прекрасные кусочки света не защищены от его нависшей тени.
 §7[10/11] §2Lari: §aI hope you can enjoy what Olux can offer. There is still beauty there, if you look closely.@§7[10/11] §2Лари: §aНадеюсь, тебе понравится то, что может предложить Олукс. Там все еще прекрасно, если присмотреться.
 §7[11/11] §2Lari: §aYou may think there's still something to be done here, but... I'm not sure if there is anymore.@§7[11/11] §2Лари: §aТы можешь подумать, что здесь еще что-то можно сделать, но... Я не уверена в этом.
+§7[6/11] §2Lari: §aPeople have been calling it the ''Decay''... Truth is, there is so much more to it.@§7[6/11] §2Лари: §aЖители называют это "Заражением"... Правда в том, что это гораздо большее.
+§7[6/11] §2???: §aPeople have been calling it the ''Decay''... Truth is, there is so much more to it.@§7[6/11] §2???: §aЖители называют это "Заражением"... Правда в том, что это гораздо большее.
 
 #############################Llevigar's Last Hope################################
 §7[1/9] §2Mother: §aThe Decay just keeps on getting worse and worse in the north.@§7[1/9] §2Мать: §aЗаражение на севере становится все хуже и хуже.
@@ -423,6 +425,11 @@
 §7[3/5] §2Lari: §aWON'T...@§7[3/5] §2Лари: §aТЫ...
 §7[4/5] §2Lari: §aYOU...@§7[4/5] §2Лари: §aНЕ...
 §7[5/5] §2Lari: §aOPEN!@§7[5/5] §2Лари: §aОТКРЫВАЕШЬСЯ!
+§7[1/5] §2???: §aW-why... Why won't you open..? I know what's back there!@§7[1/5] §2???: §aП-почему... Почемы ты не открываешься..? Я знаю что там!
+§7[2/5] §2???: §aWHY...@§7[2/5] §2???: §aПОЧЕМУ...
+§7[3/5] §2???: §aWON'T...@§7[3/5] §2???: §aТЫ...
+§7[4/5] §2???: §aYOU...@§7[4/5] §2???: §aНЕ...
+§7[5/5] §2???: §aOPEN!@§7[5/5] §2???: §aОТКРЫВАЕШЬСЯ!
 
 #############################Birth of Efilim################################
 §7[1/10] §2Vaeli: §aⓑⓛⓔⓢⓢⓔⓓ ⓑⓔ ⓣⓗⓔ ⓦⓐⓣⓔⓡ ⓞⓕ ⓞⓤⓡ ⓛⓞⓡⓓ. ⓜⓐⓨ ⓘⓣ ⓟⓡⓞⓣⓔⓒⓣ ⓤⓢ ⓕⓡⓞⓜ ⓣⓗⓔ ⓓⓐⓡⓚ ⓕⓤⓣⓤⓡⓔ ⓐⓗⓔⓐⓓ ⓞⓕ ⓤⓢ.@§7[1/10] §2Ваэли: §aⓑⓛⓔⓢⓢⓔⓓ ⓑⓔ ⓣⓗⓔ ⓦⓐⓣⓔⓡ ⓞⓕ ⓞⓤⓡ ⓛⓞⓡⓓ. ⓜⓐⓨ ⓘⓣ ⓟⓡⓞⓣⓔⓒⓣ ⓤⓢ ⓕⓡⓞⓜ ⓣⓗⓔ ⓓⓐⓡⓚ ⓕⓤⓣⓤⓡⓔ ⓐⓗⓔⓐⓓ ⓞⓕ ⓤⓢ.
@@ -544,6 +551,7 @@
 
 #############################Clock Mistery################################
 §7[1/2] §2Retired Clockmaker: §aOh, you're back! Have you found the key?@§7[1/2] §2Отставной Часовщик: §aОх, вы вернулись! Нашли ключ?
+§7[2/2] §2Retired Clockmaker: §aNo? Well, that’s a shame. If you’d like a reminder, I believe I took a walk in the §bsoutheast part of the city§a this morning.@§7[2/2] §2Отставной Часовщик: §aНет? Что ж, жаль. Если хотите, напомню, что сегодня утром я гулял в §bюго-восточной части города.
 §7[1/4] §2Retired Clockmaker: §aHm? Oh, hello. May I help you? A clock? Hm, no, I haven't been in the business for quite some time. My apologies.@§7[1/4] §2Отставной Часовщик: §aХм? Ох, здраствуйте. Могу я вам чем-нибудь помочь? Часы? Хм, нет, я уже довольно давно не занимаюсь этим бизнесом. Мои извинения.
 §7[2/4] §2Retired Clockmaker: §aThough... I suppose if you'd like to take a look at the remains of my work, I can allow that. Let me just find...@§7[2/4] §2Отставной Часовщик: §aХотя... Полагаю, если вы хотите взглянуть на остатки моей работы, я могу это позволить. Дайте мне только найти...
 §7[3/4] §2Retired Clockmaker: §aAh. My basement key appears to have gone missing. Well, I do remember having it on me this morning, so it can't have gone far.@§7[3/4] §2Отставной Часовщик: §aАх. Мой ключ от подвала, кажется, пропал. Ну, я помню, что он был у меня сегодня утром, так что исчез он совсем недавно.
@@ -576,6 +584,20 @@
 §7[3/5] §2Salesman: §a... Alright! Alright, fine. My no refund policy still stands, though, human. So don't try pulling anything, okay?@§7[3/5] §2Торговец: §a... Хорошо! Ладно, ладно. Однако моя политика отказа от возврата денег все еще остается в силе, человек. Так что не пытайся ничего из меня вытянуть, окей?
 §7[4/5] §2Salesman: §aHow about this. I'll give you a discount on any future purchases, and in exchange... you leave me alone! Deal?@§7[4/5] §2Торговец: §aКак насчет этого? Я дам тебе скидку на любые будущие покупки, а в обмен... ты оставишь меня в покое! Договорились?
 §7[5/5] §2Salesman: §aExcellent! I'm glad we could sort this out in a reasonable manner, human.@§7[5/5] §2Торговец: §aОтлично! Я рад, что мы смогли разобраться с этим разумным образом, человек.
+§7[1/2] §2Bulbo: §aLovely day, isn't it? A perfect day to water some tomatoes, if I do say so myself!@§7[1/2] §2Бульбо: §aПрекрасный день, не правда ли? Идеальный день, чтобы полить помидоры, если я сам так говорю!
+§7[2/2] §2Bulbo: §aIt's nice and peaceful out here, especially now that that damned clock is out of my hands.@§7[2/2] §2Бульбо: §aЗдесь хорошо и спокойно, особенно теперь, когда эти проклятые часы ушли из моих рук.
+§7[1/3] §2Bulbo: §aThe clock? Well, I can't tell you exactly when or where I got it... My memories are a bit hazy, that's all.@§7[1/3] §2Бульбо: §aЧасы? Ну, я не могу точно сказать, когда и где я их получил... Мои воспоминания немного туманны, вот и все.
+§7[2/3] §2Bulbo: §aSome days it feels as though I found it back in Wynn... Other days, it feels as though I never had it all!@§7[2/3] §2Бульбо: §aИногда мне кажется, что я нашел их в Винн... В другие дни мне кажется, что у меня никогда не было всего этого!
+§7[3/3] §2Bulbo: §aI try not to think about it too much. It brings back too many bad memories.@§7[3/3] §2Бульбо: §aЯ стараюсь не думать об этом слишком много. Это вызывает слишком много плохих воспоминаний.
+§7[1/3] §2Bulbo: §aThe elves? Well, they're certainly something, I'll say that much. They're good neighbors though, I'll give them that.@§7[1/3] §2Бульбо: §aЭльфы? Что ж, они определенно что-то значат, скажу я тебе. Хотя они хорошие соседи, надо отдать им должное.
+§7[2/3] §2Bulbo: §aIt's been a while since I tried heading over there. You know, I heard they had some sort of trouble with a criminal!@§7[2/3] §2Бульбо: §aПрошло много времени с тех пор, как я пытался отправиться туда. Знаешь, я слышал, у них были какие-то неприятности с преступником!
+§7[3/3] §2Bulbo: §aDreadful stuff, really. No, I'm perfectly content living here, with my tomatoes and all!@§7[3/3] §2Бульбо: §aУжасные вещи, на самом деле. Нет, меня вполне устраивает жизнь здесь, с моими помидорами и всем прочим!
+§7[1/4] §2Bulbo: §aDodegar? Oh, sure, I know ol' Bandysnoot! We're great friends, you know?@§7[1/4] §2Бульбо: §aДодегар? О, конечно, я знаю старого Бандиснута! Мы большие друзья, знаешь?
+§7[1/5] §2Bulbo: §a6... 7... 8... 9... 10...@§7[1/5] §2Бульбо: §a6... 7... 8... 9... 10...
+§7[2/5] §2Bulbo: §a... Why is this damned object back? Just as I had gotten my hopes up that I would be free of this curse, those hopes have been crushed!@§7[2/5] §2Бульбо: §a... Почему эта проклятая вещь вернулась? Так же, как я надеялся, что буду свободен от этого проклятия, эти надежды были разрушены!
+§7[3/5] §2Bulbo: §aIs there no escape from that incessant ticking? Shall I be indisposed forever?@§7[3/5] §2Бульбо: §aНеужели нет спасения от этого непрекращающегося тиканья? Неужели я буду вечно нездоров?
+§7[4/5] §2Bulbo: §aHuman, I beg of you... Take this object once more... And make sure it never comes back!@§7[4/5] §2Бульбо: §aЧеловек, умоляю тебя... Возьми этот предмет еще раз... И убедись, что он никогда не вернется!
+§7[5/5] §2Bulbo: §a... Thank you for your kindness, human. Now, please... leave before I am reminded of the horrors that clock has brought.@§7[5/5] §2Бульбо: §a... Спасибо тебе за твою доброту, человек. А теперь, пожалуйста... уходи, пока мне не напомнили об ужасах, которые принесли часы.
 
 #############################Desolate Temples################################
 §7[1/5] §2Deranged Swordsman: §aHEY! Who the hell are you, huh?@§7[1/5] §2Сумасшедший Мечник: §aЭЙ! Ты кто черт возьми такой?

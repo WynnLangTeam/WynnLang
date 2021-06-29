@@ -1390,8 +1390,8 @@
 §7were forced to find a new @§7были вынуждены искать новый 
 §7home. @§7дом.
 
-§7When the runes were combined eons @§7Когда руны были объединены одну 
-§7ago, the Forgery burst from the @§7вечность назад, Кузница вырвалась из-под земли. 
+§7When the runes were combined ages @§7Когда руны были объединены годы 
+§7ago, the Forgery burst from the @§7назад, Кузница вырвалась из-под земли. 
 §7ground. Sealed by its anchors is @§7Удерживаемая своими якорями, это 
 §7a mysterious fracture in space and @§7таинственный разрыв в пространстве и 
 §7time from which the structure draws @§7времени, из которого структура черпает 

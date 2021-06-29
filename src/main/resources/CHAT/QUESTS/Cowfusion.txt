@@ -69,3 +69,4 @@
 §7[1/1] §2Drale: §aHead into the milking machine left of this room. To enter, just press the §8§lACTIVATE§a button!@§7[1/1] §2Дрэйл: §aИди в доильный аппарат слева от этой комнаты. Чтобы войти, просто нажми кнопку §8§lАктивировать§a!
 §7[1/1] §2Veekhat: §aNo-one ever enters my laboratory! No-one!@§7[1/1] §2Викхат: §aНикто никогда не входит в мою лабораторию! Никто!
 §7[1/1] §2Cow Citizen: §aAll cows stuck in a human body are welcome here. Whether they are ready to admit it or not.@§7[1/1] §2Житель Корова: §aВсем коровам, застрявшим в человеческом теле, здесь рады. Готовы ли они признать это или нет.
+§7[1/1] §2Veekhat: §aHey, what are you doing? This is my laboratory, you speak to me!@§7[1/1] §2Викхат: §aЭй, что ты делаешь? Это моя лаборатория, ты говоришь со мной!

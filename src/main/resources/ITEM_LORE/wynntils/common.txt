@@ -127,3 +127,8 @@
 §3by 10% and nearby allies by@§3на 10% и ближайших союзников на
 §315% on impact, but becomes@§315% при ударе, но становится
 §3harmless@§3безвредным
+§3§b+Furious Effigy: §3Totem@§3§b+Furious Effigy: §3Тотема
+§3effects are twice as fast,@§3эффекты действуют в два раза быстрее,
+§3but duration is halved@§3но его длительность уполовинена
+§3§b+Peaceful Effigy: §3Your@§3§b+Peaceful Effigy: §3Твой
+§3Totem will last twice as long@§3Тотем держится в два раза дольше

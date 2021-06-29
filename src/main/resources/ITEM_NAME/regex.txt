@@ -42,6 +42,7 @@ Fire Catalyst (I|II|III|V|VI|VII|VIII|IX|X)$@§fКатализатор Огня 
 (§a[a-zA-Z0-9'_]{1,18}) House@§aДом (r1)
 §l§o0§b Soul Points (§3\[[0-9:]+\])@§l§o0§b Очков Душ (r1)
 (§[aec]§l)World (\d+)@(r1)Мир (r2)
+(§d[a-zA-Z0-9_ ]{1,20})'s Party@(r1) Пати
 
 #############################GUILD##########################################
 §7§lRogue Combat Lv. (\d+)@§7§lРазбойник Комбат Ур. (r1)
@@ -65,6 +66,23 @@ Fire Catalyst (I|II|III|V|VI|VII|VIII|IX|X)$@§fКатализатор Огня 
 §3§lNearby Territories (§7\[\d+x\])@§3§lБлижайшие Территории (r1)
 (§b§l[a-zA-Z]+§3§l) \[Lv. (\d+\])@(r1) [Ур. (r2)
 (§b§l[A-Za-z ]+§3§l) \[Lv. (\d+\])@(r1) [Ур. (r2)
+§d§lLarger Resource Storage §7\[Lv. (\d+\])(§8 \(Max\)|)@§d§lУвеличенное Хранилище Ресурсов §7[Ур. (r1)(r2)
+§d§lLarger Emerald Storage §7\[Lv. (\d+\])(§8 \(Max\)|)@§d§lУвеличенное Хранилище Эмеральдов §7[Ур. (r1)(r2)
+§d§lEfficient Resources §7\[Lv. (\d+\])(§8 \(Max\)|)@§d§lЭффективность Ресурсов §7[Ур. (r1)(r2)
+§d§lEfficient Emeralds §7\[Lv. (\d+\])(§8 \(Max\)|)@§d§lЭффективность Эмеральдов §7[Ур. (r1)(r2)
+§d§lStronger Minions §7\[Lv. (\d+\])(§8 \(Max\)|)@§d§lСила Миньонов §7[Ур. (r1)(r2)
+§d§lTower Multi-Attacks §7\[Lv. (\d+\])(§8 \(Max\)|)@§d§lМульти-Атаки Башни §7[Ур. (r1)(r2)
+§d§lTower Volley §7\[Lv. (\d+\])(§8 \(Max\)|)@§d§lЗалп Башни §7[Ур. (r1)(r2)
+§d§lTower Aura §7\[Lv. (\d+\])(§8 \(Max\)|)@§d§lАура Башни §7[Ур. (r1)(r2)
+§d§lGathering Experience §7\[Lv. (\d+\])(§8 \(Max\)|)@§d§lОпыт Сбора §7[Ур. (r1)(r2)
+§d§lXP Seeking §7\[Lv. (\d+\])(§8 \(Max\)|)@§d§lПоиск XP §7[Ур. (r1)(r2)
+§d§lResource Rate §7\[Lv. (\d+\])(§8 \(Max\)|)@§d§lСкорость Ресурсов §7[Ур. (r1)(r2)
+§d§lMob Experience §7\[Lv. (\d+\])(§8 \(Max\)|)@§d§lОпыт Мобов §7[Ур. (r1)(r2)
+§d§lMob Damage §7\[Lv. (\d+\])(§8 \(Max\)|)@§d§lУрон Мобов §7[Ур. (r1)(r2)
+§d§lPvP Damage §7\[Lv. (\d+\])(§8 \(Max\)|)@§d§lПвП Урон §7[Ур. (r1)(r2)
+§d§lEmerald Seeking §7\[Lv. (\d+\])(§8 \(Max\)|)@§d§lПоиск Эмеральдов §7[Ур. (r1)(r2)
+§d§lTome Seeking §7\[Lv. (\d+\])(§8 \(Max\)|)@§d§lПоиск Томов §7[Ур. (r1)(r2)
+§d§lEmerald Rate §7\[Lv. (\d+\])(§8 \(Max\)|)@§d§lСкорость Эмеральдов §7[Ур. (r1)(r2)
 
 #############################TRADE MARKET######################################
 §7Forward to §fPage (\d+)@§7Перейти на §f(r1) страницу

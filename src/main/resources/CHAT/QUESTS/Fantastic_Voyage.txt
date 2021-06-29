@@ -68,3 +68,4 @@
 §7[1/1] §2Relend: §aThere is something strange about this island, why was there a portal beneath the land?@§7[1/1] §2Реленд: §aС этим островом что-то не так, зачем там быть порталу? Это какой-то бардак.
 §7[1/1] §2Relend: §aWelcome back aboard, my old friend! Seems our voyages are becoming a trend.@§7[1/1] §2Реленд: §aДобро пожаловать на борт, мой старый друг! Похоже, наши путешествия становятся традицией, поплаваем еще вокруг?
 §7[1/1] §2Relend: §aDon't leave yet, we need to talk. Then I'll head back to Jofash Dock.@§7[1/1] §2Реленд: §aНе уходи пока, нужно нам поговорить. После этого в свои Джофаш доки мне нужно отплыть.
+§7[1/1] §2Relend: §aIf you need to create something, there are utilities on the beach. I know that home is a place we shall once again reach.@§7[1/1] §2Реленд: §aЕсли тебе нужно что-то создать, на пляже есть полезности. Я знаю, что дом - то место, куда мы снова попадем после этой местности.

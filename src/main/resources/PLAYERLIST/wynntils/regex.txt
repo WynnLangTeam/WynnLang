@@ -1,1 +1,2 @@
 §f  §lGlobal \[(.*)\]@§f  §lМир [(r1)]
+([ ]+)§d§lTemporary Buffs@(r1)§d§lВременные Баффы

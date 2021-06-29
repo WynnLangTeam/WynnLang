@@ -41,6 +41,8 @@ QUESTS/﻿Acquiring_Credentials
 §7Talk to the Black Market @§7Поговори с Участником 
 §7Member again. @§7Черного Рынка снова. 
 §7Complete current trade@§7Заверши текущую сделку
+§7Meet Doan in the Blackbird @§7Встреть Доана в гостинице Черный 
+§7Inn at [-257,78,-4941]. @§7Дрозд на [-257,78,-4941]. 
 
 QUESTS/Aldorei%27s_Secret_Part_I 
 §7Talk to the Elf Guard @§7Поговори с Эльфом Стражем 
@@ -99,7 +101,7 @@ QUESTS/Aldorei%27s_Secret_Part_II
 §7Medallion to Kansard @§7эльфийский медальон Канзарду 
 
 QUESTS/A_Journey_Beyond 
-§7Join Elphaba on a mission @§7Присоединись к Эльфабе на миссии 
+§7Join Elphaba on a mission @§7Присоединись к Эльфабе на миссию 
 §7in Detlas at [419, 67, @§7в Детласе на [419, 67, 
 §7-1533]. @ 
 §7Follow your team towards the @§7Следуй за своей командой ко 
@@ -194,6 +196,8 @@ QUESTS/An_Iron_Heart_Part_II
 QUESTS/Arachnids%27_Ascent 
 §7Speak to Captain Enduyn at @§7Поговори с Капитаном Эндуином на 
 §7[-192,44,-1822]@ 
+§7Enter Mount Wynn and collect @§7Войди в Вулкан Винн и собери 
+§7the lava through the cave @§7лавы через пещеру 
 §7Enter and climb Mount Wynn @§7Войди и заберись на вершину 
 §7through the cave at @§7Вулкана Винн через пещеру на 
 §7[-120,76,-1888]@ 
@@ -201,6 +205,9 @@ QUESTS/Arachnids%27_Ascent
 §7Wynn @§7Винн 
 §7Return to Captain Enduyn with @§7Вернись к Капитану Эндуину 
 §7the lava at @§7с лавой на 
+§7Talk To Private Cob in @§7Поговори с Рядовым Кобом в 
+§7the Savannah at @§7Саванне на 
+§7[682,74,-1714]@ 
 
 QUESTS/A_Fighting_Species 
 §7Talk to Darnes in the @§7Поговори с Дарнесом 
@@ -356,7 +363,7 @@ QUESTS/A_Marauder%27s_Dues
 §7to Norsten @§7Норстену 
 
 QUESTS/A_Sandy_Scandal 
-§7Talk to the Almuj Bank @§7Поговори со Алмуж Банк 
+§7Talk to the Almuj Bank @§7Поговори с Алмуж Банк 
 §7Guard at @§7Стражем на 
 §7[976,83,-1963]@ 
 §7Go to the witness report @§7Иди по координатам 
@@ -664,7 +671,6 @@ QUESTS/Death_Whistle
 §7to Voer with [1 Pink @§7к Войеру с [1 Розовым 
 §7Pelulite] @§7Пелулитом] 
 
- 
 QUESTS/Deja_Vu  
 §7Talk to Asher near Time @§7Поговори с Ашером в Долине 
 §7Valley at [-449,72,-1153]. @§7Времени на [-449,72,-1153] 
@@ -1366,6 +1372,29 @@ QUESTS/Kingdom_of_Sand
 §7Return to the tomb and @§7Вернись к гробнице 
 §7hand the sceptre to Lanu. @§7и передай скипетр Лану 
  
+QUESTS/Lava_Springs
+§7Talk to Colonel Gailard at @§7Поговори с Полковником Гайярдом на 
+§7[683,74,-1745]@ 
+§7Look for three pieces of @§7Отыщи три доказательства 
+§7corrupted evidence around the Lava @§7появления порчи вокруг Лавы 
+§7Spring at @§7Источника на 
+§7[631,83,-1736]@ 
+§7Go back to Colonel Gailard @§7Вернись к Полковнику Гайярду 
+§7Talk to Gregor outside the @§7Поговори с Грегором снаружи 
+§7Bremminglar well at @§7колодца Бремминглара на 
+§7[720,70,-2098]@ 
+§7Enter the Bremminglar well and @§7Войди в колодец Бремминглара и 
+§7talk to the healer at @§7поговори с целителем на 
+§7Report back to Colonel Gailard @§7Сообщи обо всем Полковнику Гайярду 
+§7Drink the Potion of Obsidian @§7Выпей Зелье Обсидиановой
+§7Skin then enter the lava @§7Кожи и затем войди в источник 
+§7spring through the borehole in @§7лавы через дыру на 
+§7[670,79,-1747]@ 
+§7and look for a corrupted @§7и отыщи испорченное 
+§7heart @§7сердце
+§7Tell Colonel Gailard at @§7Скажи Полковнику Гайярду на 
+§7that you destroyed the heart @§7что ты уничтожил испорченное сердце 
+
 QUESTS/Lazarus_Pit  
 §7Speak to Burtur at [-1025,47,-5302]. @§7Поговори с Буртуром на [-1025,47,-5302]. 
 §7Take a look at the @§7Посмотри 
@@ -1550,7 +1579,8 @@ QUESTS/Meaningful_Holiday
 §7to him. @§7и поговори с ним 
 §7Leave through the portal behind @§7Уйди через портал-камин 
 §7Santa. @§7позади Санты 
-§7Enter the ball room. @§7Войди в бальный зал [422, 65, -1561]. 
+§7Enter the ball room at @§7Войди в бальный зал на 
+§7[422, 67, -1559]. @ 
 §7Ask the guests for food. @§7Попроси еды у гостей. 
 §7Steal the food from the @§7Укради еду с кухни 
 §7kitchen and talk to Nick. @§7и поговори с Ником 
@@ -1690,6 +1720,8 @@ QUESTS/Mushroom_Man
 §7Bring back [3 Brown Mushrooms] @§7Принеси [3 Brown Mushroom] 
 §7and [3 Red Mushrooms] to @§7и [3 Red Mushroom] к 
 §7Bring back [1 Bowl] to @§7Принеси [1 Миску] для 
+§7Yahya from the village at @§7Яхи из деревни на 
+§7[-291,71,-1379]@ 
  
 QUESTS/﻿One_Thousand_Meters_Under 
 §7Read the Help Wanted sign @§7Прочитай "Требуется Помощь" доску 
@@ -1766,11 +1798,16 @@ QUESTS/Pirate%27s_Trove
 §7is hidden @§7спрятаны сокровища 
  
 QUESTS/Pit_of_the_Dead_(Quest) 
-§7Talk to Merloni in Detlas @§7Поговори с Мерлони в Детласе
-§7[470,67,-1609] 
+§7Talk to Merloni in Nemract @§7Поговори с Мерлони в Немракте 
+§7at [210, 37, -2150] @§7на [210, 37, -2150] 
+§7Explore the pit at @§7Исследуй яму на 
+§7[356,58,-1914]@ 
+§7and find the shrine @§7и найди святыню 
 §7Explore the pit and find @§7Исследуй яму 
 §7the shrine @§7и найди святыню 
 §7Tell Merloni that you succeeded @§7Сообщи Мерлони об успехе 
+§7Go back to Detlas and @§7Вернись в Детлас и 
+§7tell Merloni that you succeeded @§7Сообщи Мерлони об успехе 
 
 QUESTS/Point_of_No_Return 
 §7Talk to the Lutho Citizen @§7Поговори с Жителем Луто 
@@ -1808,6 +1845,9 @@ QUESTS/Potion_Making
 §7[491,67,-1575]@ 
 §7Bring back [8 Red Mushrooms] @§7Принеси [8 Red Mushroom] 
 §7to The Assistant @§7к Ассистенту 
+§7Enter the hut at @§7Войди в хижину на 
+§7[616,67,-1616]@ 
+§7and slay Essren @§7и убей Эссрена 
 §7Enter the hut and slay @§7Войди в хижину 
 §7Essren @§7и убей Эссрена 
 §7Bring back Essren's Dusty Coat @§7Вернись с Пыльным Пальто Эссрена 
@@ -1861,6 +1901,8 @@ QUESTS/Recipe_for_Disaster
 §7Hamsey @§7Хемзи 
 
 QUESTS/Reclaiming_the_House 
+§7in the Temporary Camp at @§7во временном лагере на 
+§7[-1499,47,-5349]. @ 
 §7Kill the mobs raiding the @§7Убей мобов нападающих на 
 §7Camp. @§7лагерь. 
 §7Talk to Elphaba for more @§7Поговори с Эльфабой для большей 
@@ -2169,6 +2211,18 @@ QUESTS/Temple_of_the_Legends_(Quest)
 §7and bring proof of its @§7и принеси доказательство 
 §7death to Kelight @§7его смерти Келайгту 
  
+QUESTS/Tempo_Town_Trouble
+§7Talk to Tyko at @§7Поговори с Тайко на 
+§7[87,39,-2199]@ 
+§7Go to Tempo Town at @§7Иди в Темпо Таун на 
+§7[-298,43,-1147]@ 
+§7Investigate the ruin at @§7Исследуй руины на 
+§7[-308,71,-1231]@ 
+§7Use spells to break open @§7Используй заклинания чтобы сломать и открыть 
+§7the temple at @§7храм на 
+§7Report back to the mayor @§7Сообщи обо всем мэру 
+§7in Tempo Town at @§7в Темпо Тауне на 
+
 QUESTS/The_Belly_of_the_Beast 
 §7Speak to King Burtan at @§7Поговори с Королем Буртаном на 
 §7[51,17,-5242]@ 
@@ -2372,8 +2426,8 @@ QUESTS/The_Fortuneteller
 §7Search the Castle near Kandon-Beda @§7Обыщи замок рядом с Кандон-Бэда 
 §7for a treasure map at @§7и найди карту сокровищ на 
 §7[901,96,-4406]@ 
-§7Return to Jill in Kandon-Beda @Вернись к Джилл в Кандон-Бэда 
-§7with the treasure @вместе с сокровищем 
+§7Return to Jill in Kandon-Beda @§7Вернись к Джилл в Кандон-Бэда 
+§7with the treasure @§7вместе с сокровищем 
 §7Solve the treasure mystery. @§7Раскрой загадку сокровища 
 §7Find the beanstalk [630,147,-4590]. @§7Найди бобовый стебель [630,147,-4590].
 §7Climb the beanstalk. @§7Заберись на бобовый стебель 
@@ -2430,7 +2484,6 @@ QUESTS/The_Hero_of_Gavel
 §7the eastern border of Sky @§7восточной границе Летающих 
 §7Islands at @§7Островов на 
 §7[1502,104,-4805]@ 
-
 
 QUESTS/The_Hidden_City 
 §7Talk to Narder at the @§7Поговори с Нардером возле 
@@ -2723,6 +2776,8 @@ QUESTS/The_Qira_Hive_(Quest)
 §7complete the Hive Challenge @§7заверши Челлендж Улья 
 
 QUESTS/The_Realm_of_Light_(Quest) 
+§7Meet up with Lari at @§7Встреться с Лари на 
+§7[-1053,46,-4363]. @ 
 §7Talk to Lari at @§7Поговори с Лари на 
 §7[-856,58,-6002]@ 
 §7in the Realm of Light. @§7в Царстве Света. 
@@ -2771,6 +2826,8 @@ QUESTS/The_Shadow_of_the_Beast
 §7Robur] to Tolem @§7к Толему 
 §7Follow the footprints to find @§7Иди по следам и найди 
 §7another victim of the beast @§7другую жертву зверя 
+§7Talk to Kroac at @§7Поговори с Кроаком на 
+§7[-1583,51,-5438]@ 
 §7Go to Olux, buy [32 @§7Иди в Олукс, купи 
 §7Cobblestone] and bring it back @§7[32 Булыжника] и принеси обратно 
 §7to Kroac @§7к Кроаку 
@@ -2943,6 +3000,12 @@ QUESTS/Underwater
 §7Breathing Helmet @§7насчет Шлема Подводника 
 §7Bring back [10 Gudgeon Meat] @§7Принеси [10 Мяса Пескаря] 
 §7to Sayrr @§7Сайару 
+§7found in the cave at @§7найденные в пещере на 
+§7[-387,5,-2095]@ 
+§7Go through the cave at @§7Пройди через пееру на 
+§7[-510,30,-2014]@ 
+§7to find Sayrr on his @§7и найди Сайара на его 
+§7boat on the other side @§7лодке на другой стороне 
 §7Explore the crashed ship for @§7Исследуй разбившийся корабль 
 §7a lost treasure at @§7в поисках сокровища на 
 §7[-537,34,-2026]@ 
@@ -2969,6 +3032,8 @@ QUESTS/﻿Wrath_of_the_Mummy
 §7Mummy @§7Мумию 
 §7Show proof of the death @§7Покажи доказательство смерти 
 §7of the Mummy to Ormrod @§7мумии Ормроду 
+§7Enter the tomb and kill @§7Войди в гробницу и убей 
+§7the Mummy @§7мумию
  
 QUESTS/WynnExcavation_Site_A 
 §7Speak to Excavator Vade at @§7Поговори с Раскопщиком Вэйдом на 
@@ -3083,10 +3148,6 @@ QUESTS/Zhight_Island_(Quest)
 §7[-1991,34,-4658]@ 
 §7at [-1366, 42, -4543] @§7[-1366, 42, -4543] 
 §7at [746,150,-4468]. @§7на [746,150,-4468]. 
-§7in the Temporary Camp at @§7во временном лагере на 
-§7[-1499,47,-5349]. @ 
-§7Meet up with Lari at @§7Встреться с Лари на 
-§7[-1053,46,-4363]. @ 
 §7at [1019, 84, -1976] underground @§7на [1019, 84, -1976] под землей 
 §74] at @§74] на 
 §7Follow the stones in the @§7Следуй по камням на 

@@ -71,6 +71,7 @@ QUESTS/Jungle_Fever.txt
 QUESTS/King%27s_Recruit.txt
 QUESTS/Kingdom_of_Sand.txt
 QUESTS/Lazarus_Pit.txt
+QUESTS/Lava_Springs.txt
 QUESTS/Lost_in_the_Jungle.txt
 QUESTS/Lost_Royalty.txt
 QUESTS/Lost_Soles.txt
@@ -107,6 +108,7 @@ QUESTS/Star_Thief.txt
 QUESTS/Studying_the_Corrupt.txt
 QUESTS/Taproot_(Quest).txt
 QUESTS/Temple_of_the_Legends_(Quest).txt
+QUESTS/Tempo_Town_Trouble.txt
 QUESTS/The_Belly_of_the_Beast.txt
 QUESTS/The_Bigger_Picture.txt
 QUESTS/The_Canary_Calls.txt

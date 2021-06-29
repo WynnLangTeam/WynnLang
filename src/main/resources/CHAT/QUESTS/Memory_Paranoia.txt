@@ -89,3 +89,5 @@
 §7[1/1] §2Atisun: §aOh, a human? If I could beg your pardon a moment... could I talk to you about the mansion here, when you are level 67 or so?@§7[1/1] §2Атисун: §aО, человек? Если бы я мог попросить тебя...могу я поговорить с тобой о здешнем особняке, когда ты достигнешь 67 уровня?
 §7[1/1] §2Child: §aAw man, I can't believe I'm not allowed to sit with the adults. I'm nearly twelve!@§7[1/1] §2Ребенок: §aБоже, я не могу поверить, что мне нельзя сидеть со взрослыми. Мне уже почти двенадцать!
 §7[1/1] §2Mister Caritat: §aWhat §a§ois §athat sound coming from the kitchen..?@§7[1/1] §2Мистер Каритат: §aЧто §a§oэто§a за звук доносится из кухни..?
+§7[1/2] §2Mr. Caritat: §aTHAT WHICH STARTED THIS §dWAR§a SHALL RISE ONCE MORE. FROM THE §dREALM OF SHADOWS§a, DECEIT AND PAIN.@§7[1/2] §2Мр. Каритат: §aТОТ, КТО НАЧАЛ §dВОЙНУ§a СНОВА ВОССТАНЕТ. ИЗ §dЦАРСТВА ТЕНЕЙ§a, ОБМАНА И БОЛИ.
+§7[2/2] §2Mr. Caritat: §aFOREVER §dTRAPPED§a, FROM WHENCE IT CAME. THROUGH THE WEAK POINT BETWEEN §dREALMS§a IT. SHALL. §dRISE§a. AGAIN!@§7[2/2] §2Мр. Каритат: §aНАВЕЧНО §dЗАТОЧЁННЫЙ§a, ОТКУДА ОН ПРИШЕЛ. ЧЕРЕЗ СЛАБОЕ МЕСТО МЕЖДУ §dМИРОВ§a ОН. СМОЖЕТ. §dВОССТАТЬ§a. СНОВА!

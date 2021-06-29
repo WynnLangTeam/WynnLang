@@ -82,6 +82,21 @@ Reward Chest@Сундук с Наградой
 §8§lClass Backups@§8§lБэкапы Классов
 Pet Task: Selling Items@Задача Питомца: Продажа Предметов
 Available Items@Доступные Предметы
+Forgery Chest I@Сундук Кузницы I
+Forgery Chest II@Сундук Кузницы II
+Forgery Chest III@Сундук Кузницы III
+Forgery Chest IV@Сундук Кузницы IV
+Forgery Chest V@Сундук Кузницы V
+Forgery Chest VI@Сундук Кузницы VI
+Forgery Chest VII@Сундук Кузницы VII
+Build Stand@Билд Стенд
+Party Finder@Искатель Пати
+Housing Master@Мастер Дома
+Island Settings@Настройки Острова
+Island Edit Permissions@Изменение Разрешений Острова
+Island Weather@Погода Острова
+Island Rules@Правила Острова
+V.S.S. Seaskipper@Корабль
 
 ###############################PROFESSIONS#############################
 Fish Refinery@Переработка Рыбы
@@ -207,3 +222,4 @@ Confectionary Shop@Магазин Кондитера
 Souvenir T-Shirt Shop@Магазин Сувенирных Футболок
 Platinum Dealer Shop@Магазин Платины
 Consumable Shop@Магазин Расходников
+Healer Shop@Магазин Лекаря

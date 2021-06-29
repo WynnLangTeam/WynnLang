@@ -2454,6 +2454,7 @@ Illegal position@
 §7[+6 Stack of Coins]@ 
 §7[+4 Rusty Axe Heads]@ 
 §7[+6 Black Steel]@ 
+§4/toggle [swears/blood/insults/autojoin/music/vet/war/guildjoin/attacksound/rpwarning/100/sb/autotracking/pouchmsg/combatbar/ghosts/popups/guildpopups/friendpopups/beacon/outlines/bombbell/pouchpickup]@ 
 
 #################################TERRITORY DISCOVERIES#################################
                                    Plains@ 

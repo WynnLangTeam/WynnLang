@@ -38,3 +38,4 @@
 §7[1/1] §2Isfurus: §aYou should hurry. I'm sure that child is so worried.@§7[1/1] §2Исфурус: §aТебе стоит поторопиться. Я уверен, что ребенок сильно волнуется.
 §7[1/1] §2Erisk: §aAnd who might you be? We certainly don't get many visitors down here.@§7[1/1] §2Эриск: §aА кто ты такой? У нас здесь, конечно, не так много посетителей.
 §7[1/1] §2Erisk: §aIf you ever find that other fountain, please, do tell us! There is so much good to be done with such a marvelous thing!@§7[1/1] §2Эриск: §aЕсли ты когда-нибудь найдешь тот другой фонтан, пожалуйста, скажи нам! С такой чудесной вещью можно сделать так много хорошего!
+§7[1/6] §2Salesman: §aHm... Oh, it's you again! How's that... clock treating you?@§7[1/6] §2Торговец: §aХм... О, это опять ты! Как эти... часы лечат тебя?

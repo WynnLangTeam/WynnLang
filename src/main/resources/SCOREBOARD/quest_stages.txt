@@ -1,0 +1,344 @@
+§eA Hunter's Calling@ 
+§7Explore the deepest part of@§7Исследуй глубинные части
+§7the Silent Expanse@§7Тихого Пространства
+=====
+§eA Marauder's Dues@ 
+§7Talk to Norsten at@§7Поговори с Норстеном на
+§7§f[437,77,-5056]§7.@ 
+=====
+§eA Sandy Scandal@ 
+§7Talk to the Almuj Bank Guard@§7Поговори с Алмуж Банк Стражем
+§7at §f[976,83,-1963]§7@§7на §f[976,83,-1963]§7
+=====
+§eAn Iron Heart Part I֎@ 
+§7Speak with Duvale at@§7Поговори с Дювейл на 
+§7§f[-1613,51,-4964]§7@ 
+=====
+§eAn Iron Heart Part II֎@ 
+§7Speak to Detective Hart at@§7Поговори с Детективом Хартом на
+§7§f[-1744,66,-5478]§7@ 
+§7Escape the Golem Factory and@§7Сбеги с Фабрики Големов и
+§7find Urelix.@§7найди Уреликса.
+=====
+§eAcquiring Credentials֎@ 
+§7Get a Gavellian Passport at@§7Добудь Гавеллианский паспорт на
+§7§f[-256,57,-4983]§7.@ 
+=====
+§eAldorei's Secret Part I@ 
+§7Talk to the Elf Guard at@§7Поговори с Эльфом Стражем на
+§7§f[-461,132,-4459]§7@ 
+=====
+§eAldorei's Secret Part II@ 
+§7Speak to Legolus at@§7Поговори с Леголусом на
+§7§f[-139,92,-4445]§7 (Requires@§f[-139,92,-4445]§7(Необходимо
+§7completion of Part I)@§7пройти Часть I)
+=====
+§eArachnids' Ascent@ 
+§7Talk To Private Cob in the@§7Поговори с Рядовым Кобом в 
+§7Savannah at §f[682,74,-1714]§7@§7Саванне на §f[682,74,-1714]§7
+§7Speak to Captain Enduyn at@§7Поговори с Капитаном Эндуином на 
+§7§f[-192,44,-1822]§7@ 
+§7Enter Mount Wynn and collect@§7Войди в Вулкан Винн и собери 
+§7the lava through the cave at@§7лавы через пещеру на
+§7§f[-120,76,-1888]§7@ 
+§7Return to Captain Enduyn@§7Вернись к Капитану Эндуину
+§7with the lava at@§7с лавой на 
+=====
+§eBlazing Retribution@ 
+§7Speak to Piere in the@§7Поговори с Пьером на
+§7Llevigar plains at@§7полях Ллевигара на
+§7§f[-1851,56,-4959]§7@ 
+=====
+§eCorrupted Betrayal@ 
+§7Talk to the Troms Mage at the@§7Поговори с Тромс Магом
+§7dungeon entrance at@§7на входе в данж
+§7§f[-641,59,-872]§7@ 
+=====
+§eCraftmas Chaos@ 
+§7Find Santa on his christmas@§7Найди Санту на его рождественском
+§7island at §f[1126,41,-3145]§7@§7острове на §f[1126,41,-3145]§7
+=====
+§eCreeper Infiltration֎@ 
+§7Talk to Thomas in the Pigman@§7Поговори с Томасом в Оврагах
+§7Ravines at §f[-608,89,-1431]§7@§7Пигменов на §f[-608,89,-1431]§7
+=====
+§eDeja Vu@ 
+§7Talk to Asher near Time@§7Поговори с Ашером в Долине
+§7Valley at §f[-449,72,-1153]§7.@§7Времени на §f[-449,72,-1153]§7.
+=====
+§eDwarves and Doguns Part I@ 
+§7Pick up Axelus' note and head@§7Подбери записку Акселуса и отправься
+§7to the location at §f[1024, 13,@§7в локацию на §f[1024, 13,
+§f-5050]§7.@ 
+=====
+§eDwarves and Doguns Part II@ 
+§7Return to the Dogun village@§7Вернись в деревню Догунов 
+§7at §f[1371,141,-5306]§7 with a@§7на §f[1371,141,-5306]§7 с
+§7Dogun Badge of Trust and talk@§7со Знаком Доверия Догунов
+§7to the leader of the town.@§7и поговори с лидером деревни
+=====
+§eDwarves and Doguns Part III@ 
+§7with the letter and speak to@§7с письмом и поговори с
+§7Korzim at@§7Корзимом на
+§7§f[1436,134,-5388]§7.@ 
+=====
+§eDwarves and Doguns Part IV@ 
+§7Return to Korzim at §f[1514,@§7Вернись к Корзиму на §f[1514,
+§f51, -5342]§7 on the second@§f51, -5342]§7 на втором 
+§7floor of the enchanter in@§7этаже дома чародея в Маэксе
+§7Maex with the Amulet of Fire@§7с Амулетом Защиты от Огня
+§7and the Staff of Ice.@§7и Предметом Чистого Льда.
+=====
+§eDwelling Walls@ 
+§7Talk to Leucsaa at@§7Поговори с Леуксаа на
+§7§f[201,38,-2173]§7@ 
+=====
+§eEnzan's Brother@ 
+§7Talk to Enzan close to the@§7Поговори с Энзаном у
+§7exit of Ragni at@§7выхода из Рагни на 
+§7§f[-772,67,-1574]§7@ 
+§7Descend into the cave at@§7Спустись в пещеру на
+§7§f[-538,67,-1586]§7 and bring@§7§f[-538,67,-1586]§7 и принеси
+§7§3[1 Energy Mushroom]§7 to@§7§3[1 Энергетический Гриб]§7 для
+§7Therck@§7Терка
+=====
+§eFallen Delivery@ 
+§7Find the representative’s@§7Найди офис представителей
+§7office in the airship base@§7на авиабазе
+§7§f[-258,58,-4999]§7@ 
+=====
+§eFate of the Fallen@ 
+§7Talk to Telvu the mage at@§7Поговори с магом Телву на
+§7§f[165,74,-675]§7@ 
+=====
+§eForbidden Prison@ 
+§7Talk to the Merchant at@§7Поговори с Торговцем на
+§7§f[-963,47,-5280]§7@ 
+§7Search the hallways for@§7Исследуй коридоры в поисках
+§7messes to clean up@§7беспорядков чтобы убрать их
+=====
+§eFrom the Mountains֎@ 
+§7§f[-1366, 42, -4543]§7@ 
+=====
+§eFrost Bite@ 
+§7Find Eppo at §f[-207, 37, -531]§7@§7Найди Эппо на §f[-207, 37, -531]§7
+§7Go deeper into the cave and@§7Иди глубже в пещеру и
+§7speak to Rhudya.@§7поговори с Рудя 
+§7Return to Eppo with the tnt.@§7Вернись к Эппо вместе с динамитом.
+=====
+§eInfested Plants@ 
+§7Talk to Ope at@§7Поговори с Опе на
+§7§f[-316,72,-1600]§7.@ 
+§7Locate the medicine in the@§7Найди лекарство в
+§7spider cave by climbing the@§7паучей пещере, забравшись
+§7tree behind Ope at@§7на дерево позади Опе
+§7§f[-314,75,-1602]§7@ 
+=====
+§eKingdom of Sand@ 
+§7Find out what's going on at@§7Узнай, что происходит возле
+§7the Sand Swept Tomb at §f[1408,@§7данжа Песчаная Гробница на §f[1408,
+§f94, -1830]§7@ 
+§7Sneak into the highest room@§7Проникни в комнату поместья 
+§7of the Rymek Mansion at@§7в Римеке на последнем этаже на
+§7§f[1180, 31, -1300]§7@ 
+=====
+§eKing's Recruit@ 
+§7Identify your item and@§7Идентифицируй свой предмет и 
+§7investigate the broken@§7осмотри разрушенный 
+§7bridge@§7мост
+======
+§eLava Springs@ 
+§7Talk to Colonel Gailard at@§7Поговори с Полковником Гайярдом
+§7§f[683,74,-1745]§7@§7на §f[683,74,-1745]§7
+§7Look for three pieces of@§7Отыщи три доказательства 
+§7corrupted evidence around@§7появления порчи вокруг
+§7the Lava Spring at@§7Источника Лавы на 
+§7§f[631,83,-1736]§7@ 
+§7Go back to Colonel Gailard@§7Вернись к Полковнику Гайярду 
+§7Talk to Gregor outside the@§7Поговори с Грегором снаружи 
+§7Bremminglar well at@§7колодца Бремминглара на 
+§7§f[720,70,-2098]§7@ 
+§7Enter the Bremminglar well@§7Войди в колодец Бремминглара
+§7and talk to the healer at@§7и поговори с целителем на
+§7Report back to Colonel@§7Сообщи обо всем Полковнику
+§7Gailard §f[683,74,-1745]§7@§7Гайярду §f[683,74,-1745]§7
+§7Drink the Potion of Obsidian@§7Выпей Зелье Обсидиановой
+§7Skin then enter the lava@§7Кожи и затем войди в источник
+§7spring through the borehole@§7лавы через дыру на
+§7in at §f[670,79,-1747]§7 and@§7§f[670,79,-1747]§7 и
+§7look for a corrupted heart@§7отыщи испорченное сердце
+§7Tell Colonel Gailard at@§7Скажи Полковнику Гайярду на
+§7§f[683,74,-1745]§7 that you@§7§f[683,74,-1745]§7 что ты
+§7destroyed the heart@§7уничтожил испорченное сердце
+=====
+§eLazarus Pit֎@ 
+§7Speak to Burtur at@§7Поговори с Буртуром на
+§7§f[-1025,47,-5302]§7.@ 
+=====
+§eLexdale Witch Trials@ 
+§7See what's going on in the@§7Посмотри что происходит в
+§7center of Lexdale at@§7центре Лексдейла на
+§7§f[-604,45,-5444]§7.@ 
+=====
+§eMeaningful Holiday@ 
+§7Talk to Haily in Almuj at@§7Поговори с Хэйли в Алмуже на
+§7§f[929,75,-1899]§7@ 
+§7Continue the tunnel and find@§7Продвигайся по тоннелю и найди
+§7Nick's friend at@§7друга Ника на
+§7§f[780,70,-1618]§7.@ 
+=====
+§eMisadventure on the Sea@ 
+§7Visit the Nemract bar at@§7Посети Немракт бар на
+§7§f[114,40,-2176]§7@ 
+=====
+§eOut of my Mind֎@ 
+§7Speak with the Troms@§7Поговори в Тромсе
+§7children at §f[-860,93,-961]§7@§7с детьми на §f[-860,93,-961]§7
+§7inside the treehouse@§7внутри дома на дереве
+=====
+§ePoisoning the Pest@ 
+§7Take the §3[1 Crate of Rat@§7Возьми [1 Контейнер Крысиного
+§3Poison]§7 and enter the farm@§7Яда] и войди на ферму
+=====
+§eRealm of Light I - The Worm Holes@ 
+§7See what's going on at@§7Посмотри что происходит на
+§7§f[-2039,55,-5434]§7@ 
+=====
+§eRealm of Light II - Taproot@ 
+§7Find Lari in the Dark Forest@§7Найди Лари в Темном Лесу
+§7at §f[-1257,43,-5474]§7@§7на §f[-1257,43,-5474]§7
+=====
+§eRealm of Light III - A Headless@ 
+§eHistory@ 
+§7Talk to Hans in the Gelibord@§7Поговори с Гансом на 
+§7outskirts at@§7окраинах Гелиборда на
+§7§f[-1096,42,-5384]§7@ 
+=====
+§eRealm of Light IV - Finding the Light@ 
+§7Find Lari in the Light Forest@§7Найди Лари в Светлом Лесу
+§7at §f[-1123,46,-4771]§7.@§7на §f[-1123,46,-4771]§7.
+=====
+§eRealm of Light V - The Realm of Light@ 
+§7Meet up with Lari at@§7Встреться с Лари на 
+§7§f[-1053,46,-4363]§7.@ 
+=====
+§eReclaiming the House֎@ 
+§7Join Elphaba on a mission in@§7Присоединись к Эльфабе на миссию
+§7the Temporary Camp at@§7во временном лагере на
+§7§f[-1499,47,-5349]§7.@ 
+=====
+§eRecover the Past@ 
+§7Talk to Dr. Picard at §f[103,@§7Поговори с Др. Пикардом на §f[103,
+§f90, -1200]§7.@ 
+=====
+§eRedbeard's Booty@ 
+§7Talk with Marston in the@§7Поговори с Марстоном в
+§7ocean at §f[-608,40,-3546]§7@§7океане на §f[-608,40,-3546]§7
+=====
+§eShattered Minds֎@ 
+§7Speak to Likeru in Efilim at@§7Поговори с Ликеру в Эфилиме на
+§7§f[-1058,44,-5008]§7.@ 
+=====
+§eStar Thief֎@ 
+§7Look into the rumors of@§7Расследуй слухи о странной
+§7strange weather near the@§7погоде рядом с гостиницей
+§7Imal Inn at §f[-2018, 43,@§7Imal Inn на §f[-2018, 43,
+§f-4822]§7.@ 
+§7Find the meteor's crash site@§7Найди место падения метеора
+§7at §f[-2122, 52, -4887]§7.@§7на §f[-2122, 52, -4887]§7.
+=====
+§eStudying the Corrupt@ 
+§7Bring the acquired@§7Принеси полученные
+§7knowledge regarding the@§7знания о заклинании,
+§7spell used for the sanctuary@§7используемое для запечатывания
+§7sealing back to the mages at@§7святилища обратно 
+§7the sanctuary bridge.@§7к магам на мосту.
+=====
+§eTempo Town Trouble@ 
+§7Talk to Tyko at@§7Поговори с Тайко на
+§7§f[87,39,-2199]§7@ 
+§7Go to Tempo Town at@§7Иди в Темпо Таун на
+§7§f[-298,43,-1147]§7@ 
+§7Investigate the ruin at@§7Исследуй руины на
+§7§f[-308,71,-1231]§7@ 
+§7Use spells to break open the@§7Используй заклинания чтобы сломать и
+§7temple at §f[-308,71,-1231]§7@§7открыть храм на §f[-308,71,-1231]§7
+§7Report back to the mayor in@§7Сообщи обо всем мэру в
+§7Tempo Town at@§7в Темпо Тауне на
+=====
+§eTunnel Trouble@ 
+§7Talk to Captain Fenor in@§7Поговори с Капитаном Фенором 
+§7front of Detlas at@§7перед Детласом на
+§7§f[379,67,-1569]§7.@ 
+=====
+§eThe Belly of the Beast@ 
+§7Speak to King Burtan at@§7Поговори с Королем Буртаном на
+§7§f[51,17,-5242]§7@ 
+=====
+§eThe Corrupted Village@ 
+§7Speak to Orikal outside the@§7Поговори с Орикалом снаружи 
+§7Corrupted Village at@§7Испорченной Деревни на
+§7§f[318,78,-1097]§7.@ 
+§7Report to Orikal about your@§7Сообщи Орикалу о своем
+§7success.@§7успехе.
+=====
+§eThe Dark Descent@ 
+§7Talk to General Graken at@§7Поговори с Генералом Гракеном на
+§7§f[227,45,-1958]§7@ 
+=====
+§eThe Envoy Part I@ 
+§7Hop aboard the Corkus sea@§7Зайди на борт капитана 
+§7skipper ship at the dock and@§7корабля в доках и
+§7enter Corkus.@§7плыви в Коркус
+=====
+§eThe Feathers Fly Part I@ 
+§7Visit the Workshop at@§7Посети мастерскую на
+§7§f[-1731,134,-3267]§7@ 
+§7(Requires completion of The@§7(Необходимо пройти The
+§7Envoy Part II)@ 
+=====
+§eThe Feathers Fly Part II@ 
+§7Meet Ava near Corkus City at@§7Встреть Аву рядом с Коркус Сити на
+§7§f[-1573,86,-2762]§7@ 
+=====
+§eThe Hero of Gavel@ 
+§7Find out what's happening in@§7Узнай что происходит в 
+§7the center of Ahmsord at@§7центре Амсорда на
+§7§f[1028, 112, -4544]§7@ 
+=====
+§eThe Hidden City@ 
+§7Talk to Thesead's Mayor at@§7Поговори с Мэром Тесеада на 
+§7§f[832,113,-4994]§7 at the top@§7§f[832,113,-4994]§7 на вершине
+§7of Thesead@§7Тесеада
+=====
+§eThe Hunger of Gerts Part 2@ 
+§7Talk to Gerten Chief Lobo at@§7Поговори с Герт Шеф Лобо на
+§7§f[-141,82,-5607]§7@ 
+=====
+§eThe Olmic Rune@ 
+§7Explore the abandoned drill@§7Исследуй заброшенный бур
+§7at §f[585,89,-457]§7@§7на §f[585,89,-457]§7
+=====
+§eThe Order of the Grook@ 
+§7Talk to Seasum on Mage Island@§7Поговори с Сеасумом на Острове Магов 
+§7at §f[940,77,-2866]§7@§7на §f[940,77,-2866]§7
+=====
+§eThe Sewers of Ragni@ 
+§7The lieutenant at@§7Лейтенанту на
+§7§f[-890,60,-1874]§7 needs@§7§f[-890,60,-1874]§7 требуется
+§7help.@§7помощь.
+§7Meet up with the lieutenant@§7Встреться с лейтенантом
+§7outside the sewer entrance@§7возле входа в канализацию
+§7at §f[-921,78,-1918]§7@§7на §f[-921,78,-1918]§7
+§7Explore the sewer and find@§7Исследуй канализацию и найди
+§7the blockage.@§7засор
+§7Find a way to fix the@§7Найди способ устранить
+§7blockage.@§7засор
+§7Find a way out of the spooky@§7Найди выход из загадочной
+§7sewer.@§7канализации.
+§7Talk to Jenprest at@§7Поговори с Дженпрест на
+§7§f[-890,60,-1874]§7@ 
+=====
+§eThe Qira Hive@ 
+§7Defeat the Psychomancer and@§7Победи Psychomancer'а и
+§7collect 1 Thunder Catalyst X@§7собери 1 Катализатор Грома X

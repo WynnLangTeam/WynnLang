@@ -49,6 +49,7 @@
 
 §7[1/1] §2Burtur: §aAny luck searching out that chapel yet? The coordinates ought to be in your quest book, right?@§7[1/1] §2Буртур: §aЕсть успехи в поисках той часовни? Координаты должны быть в твоей квестовой книге, верно?
 §7[1/1] §2Burtur: §aHave you checked out that §bsmall graveyard north of here§a yet? Remember, you're looking for any clues about that Lazarus Pit "order."@§7[1/1] §2Буртур: §aТы уже проверил это §bмаленькое кладбище к северу§a отсюда? Не забывай, что ты ищешь хоть какие-то зацепки о том "ордене" Лазарус Ямы.
+§7[1/1] §2Burtur: §aHave you checked out that §bsmall graveyard north of here§a yet? Remember, you're looking for any clues about that Lazarus Pit "Order."@§7[1/1] §2Буртур: §aТы уже проверил это §bмаленькое кладбище к северу§a отсюда? Не забывай, что ты ищешь хоть какие-то зацепки о том "ордене" Лазарус Ямы.
 §7[1/2] §2Burtur: §aAh, one of you adventurin' types, huh? We see a lot of you around here... Going in and out as you please. Must be a nice life.@§7[1/2] §2Буртур: §aА, один из искателей приключений, да? Мы часто видим вас здесь... Входите и выходите, когда вам заблагорассудится. Должно быть, хорошая жизнь.
 §7[2/2] §2Burtur: §aOnce you reach level 69, the town as a whole could ask a big favor of you, though. So, if you could spare yourself at some point?@§7[2/2] §2Буртур: §aКак только ты достигнешь 69-го уровня, город в целом может попросить тебя о большом одолжении. Так что, если ты не захочешь в какой-то момент пощадить себя?
 §7[1/1] §2Referick: §a. . .@§7[1/1] §2Реферик: §a. . .

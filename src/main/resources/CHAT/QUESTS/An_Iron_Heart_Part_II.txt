@@ -59,3 +59,6 @@
 §7[1/1] §2Dr. Urelix: §aSo what is it? Have you made your decision?@§7[1/1] §2Др. Уреликс: §aТак в чем же дело? Ты уже принял решение?
 §7[1/2] §2????: §aARE YOU INCAPABLE OF READING THE SIGN ON THE DOOR? THE FACTORY IS CLOSED. WE ARE NOT ACCEPTING VISITORS FOR TOURS RIGHT NOW.@§7[1/2] §2????: §aНЕУЖЕЛИ ВЫ НЕ В СОСТОЯНИИ ПРОЧИТАТЬ НАДПИСЬ НА ДВЕРИ? ФАБРИКА ЗАКРЫТА. СЕЙЧАС МЫ НЕ ПРИНИМАЕМ ПОСЕТИТЕЛЕЙ НА ЭКСКУРСИИ.
 §7[2/2] §2????: §aWHY IS IT THAT YOU HUMANS CAN'T SEEM TO LEAVE THIS FACTORY OR ANYTHING ELSE IN PEACE FOR ONE DAY IN YOUR LIVES? SHEESH.@§7[2/2] §2????: §aПОЧЕМУ ВЫ, ЛЮДИ, НИ НА ОДИН ДЕНЬ НЕ МОЖЕТЕ ОСТАВИТЬ ЭТУ ФАБРИКУ В ПОКОЕ ИЛИ ЧТО-ТО ЕЩЕ? ЧЕРТ.
+§7[1/1] §2Detective Hart: §aHave you found any leads since I sent you to my contact, Daxe?@§7[1/1] §2Детектив Харт: §aТы нашел какие-нибудь зацепки с тех пор, как я послал тебя к своему связному, Даксу?
+§7[1/1] §2Detective Hart: §aThe good people of Olux are going missing! If only you were level 58, you could help me with my investigation.@§7[1/1] §2Детектив Харт: §aДобрые люди Олукса пропадают без вести! Если бы только ты был 58-го уровня, ты мог бы помочь мне в моем расследовании.
+§7[1/1] §2Dr. Urelix: §aInnovation is the key to great wealth. I'm no criminal, just an innovator.@§7[1/1] §2Др. Уреликс: §aИнновации - это ключ к большому богатству. Я не преступник, просто новатор.

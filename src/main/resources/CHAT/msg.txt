@@ -12,11 +12,17 @@
 §d     -§7 Lore: §f§oEven in the harsh desert, people have found a way to survive. The massive city of Almuj uses the nearby water sources to keep its city a thriving oasis.@§d     -§7 Лор: §f§oДаже в суровой пустыне, люди нашли способ выжить. Массивный город Алмуж использует близлежащие источники воды, чтобы сохранить свой город процветающим оазисом.
 §d     -§7 Lore: §f§oA dwarven town founded as a monument to the victory in Molten Heights. It was built by the power of the people. Dwarves are communal and riches are owned by all.@§d     -§7 Лор: §f§oГород гномов построен как памятник победы на Расплавленных Высотах. Он был построен силами народа. Гномы живут вместе, а их богатства принадлежат всем
 §d     -§7 Lore: §f§oThe capital of the Dwarven dominated Molten Heights. Carved from the rocks by the power of the people, it stands as one of the strongest cities ever made.@§d     -§7 Лор: §f§oСтолица Гномов доминирующая на Расплавленных Высотах. Вырезанный из скал силой народа, он стоит как один из самых мощных городов, когда-либо созданных.
-§d     -§7 Lore: §f§oMold, viscera, chemicals, and waste combine to give this laboratory a disgusting smell. Filth seems to cover every inch of this place.@§d     -§7 Лор: §f§oПлесень, внутренности, химикаты и отходы объединились здесь, чтобы дать этой лаборатории отвратительный запах. Грязь, кажется, покрывает каждый дюйм этого места.
-§d     -§7 Lore: §f§oThis lush, open-air cavern is home to a secluded pair of Avos. They have some kind of vendetta against humans... it may be best to leave them be.@§d     -§7 Лор: §f§oЭта пышная, открытая пещера является домом для уединенной пары Авосов. Они жаждут возмездия против людей... Думаю лучше оставить их как есть
-§d     -§7 Lore: §f§oA heavy aura hangs in the air of this disused tribal exorcism site. The gibbering of a lingering spirit has begun to echo in your ears...@§d     -§7 Lore: §f§oТяжелая аура висит в воздухе от этого заброшенного места племенного экзорцизма. Невнятное бормотание старинного духа начало повторяться у тебя в ушах...
 
 ###########################################TERRITORY LORE NEW###############################
+     §7This lush, open-air cavern is home to a secluded pair@     §7Эта пышная, открытая пещера является домом для уединенной 
+       §7of Avos. They have some kind of vendetta against@       §7пары Авосов. Они жаждут возмездия против людей... Думаю 
+             §7humans... it may be best to leave them be.@             §7лучше оставить их как есть
+      §7A heavy aura hangs in the air of this disused tribal@      §7Тяжелая аура висит в воздухе от этого заброшенного 
+      §7exorcism site. The gibbering of a lingering spirit has@      §7места племенного экзорцизма. Невнятное бормотание старинного 
+                     §7begun to echo in your ears...@                     §7духа начало повторяться у тебя в ушах...
+       §7Mold, viscera, chemicals, and waste combine to give@       §7Плесень, внутренности, химикаты и отходы объединились 
+        §7this laboratory a disgusting smell. Filth seems to@        §7здесь, чтобы дать этой лаборатории отвратительный запах. 
+                   §7cover every inch of this place.@                   §7Грязь, кажется, покрывает каждый дюйм этого места.
       §7The source of the Iron Golems protecting Wynn and@      §7Источник создания всех железных големов для провинций 
     §7Gavel, and the methods of creating them, have remained@    §7Винн и Гавел. Методы их создания до сих пор остаются 
                       §7unknown to the public eye.@                      §7неизвестны и скрыты от лишних глаз 
@@ -444,7 +450,7 @@
     §7Before time, it began. Through the ages it ravaged the@    §7Перед началом времени все началось. На протяжении веков 
      §7lands. Another day, another night, it continues in the@     §7оно опустошало земли. Еще один день, еще одна ночь - это 
                 §7worlds beyond. Forever it shall last.@                §7продолжается в потусторонних мирах. Это будет длиться вечно.
-     §7When the runes were combined eons ago, the Forgery@     §7Когда руны были объединены одну вечность назад, 
+     §7When the runes were combined ages ago, the Forgery@     §7Когда руны были объединены много лет назад, 
        §7burst from the ground. Sealed by its anchors is a@      §7Кузница вырвалась из-под земли. Удерживаемая своими 
      §7mysterious fracture in space and time from which the@     §7якорями, это таинственный разрыв в пространстве и времени, 
                       §7structure draws its power.@                      §7из которого структура черпает свою силу.
@@ -1051,6 +1057,67 @@
 §7[+1 Cinfras' Abandoned Clock]@§7[+1 Заброшенные Часы Цинфраса]
 §7[+1 Shiar's Maddening Clock]@§7[+1 Раздражающие Часы Шира]
 §7[+1 Aldorei's Defective Clock]@§7[+1 Неработающие Часы Алдорей]
+§7The pages are incredibly old, but the words are still legible...@§7Страницы невероятно старые, но слова все еще разборчивы...
+§7§oDay 78 - Feeling good. Might eat this weird fruit. Though it's gone brown. Never eaten... one of these before. I wonder if that's a bad sign?@§7§oДень 78 - Чувствую себя хорошо. Может съесть этот странный фрукт. Хотя он стал коричневым. Никогда не ел... таких раньше. Интересно, это плохой знак?
+§7§oTHE WHOLE MOUNTAIN JUST... WHAT. I—@§7§oВСЯ ГОРА ПРОСТО... ЧТО. Я—
+§7§oDay 89 - Great news! Or bad. Henrick is probably dead. Anyways, it took only three minutes and an earthquake to notice that my whole house is on top of a darn mountain!?@§7§oДень 89 - Отличная новость! Или плохая. Хенрик, вероятно, мертв. В любом случае, потребовалось всего три минуты и землетрясение, чтобы заметить, что весь мой дом находится на вершине проклятой горы!?
+§7§oI knew the earthquakes were normal, but the seller never mentioned this!! How am I going to get out now?@§7§oЯ знал, что землетрясения это нормально, но продавец никогда не упоминал об этом!! Как я теперь выберусь отсюда?
+§7§oDay 91 - Half of my food was wasted in that havoc. Just like that. Half. Gone. Who am I even kidding anymore at this point?@§7§oДень 91 - Половина моей еды была потрачена впустую в этом хаосе. Именно так. Половина. Ушла. Кого я вообще сейчас пытаюсь обмануть?
+§7§oThirsty... Hungry... I have given up hope—or, hmh. Surely they must have noticed this and sent help in, right? RIGHT??@§7§oЖажда... Голод... Я потерял надежду —или, хм. Наверняка они заметили это и послали помощь, верно? ВЕРНО??
+§7§oDay ? - Cursed be this world... I'll have to take the risk. I'm climbing down. All the food is gone now, and I am NOT going to die out here like a wimpy gert!@§7§oДень ? - Будь проклят этот мир... Мне придется рискнуть. Я спускаюсь вниз. Теперь вся еда кончилась, и я НЕ собираюсь умирать здесь, как слабый герт!
+§7The notes end there.@§7На этом записки заканчиваются.
+§7§oSigned, Greg, Treasurer of Gavel.@§7§oПодпись - Грег, Казначей Гавела.
+§7§oDear Gavel Excavation employees, Although your work here is appreciated, the progress made on the Lake Gylia specimen has slowed to an unacceptable rate.@§7§oУважаемые сотрудники Гавел Экскавейшен. Хотя ваша работа здесь ценится, прогресс, достигнутый на образце озера Гилия, замедлился до неприемлемой скорости.
+§7§oWe have been informed about crystals with similar properties in Wynn.@§7§oНам сообщили о кристаллах с аналогичными свойствами в Винне.
+§7§oTherefore the decision has been made to move your base of operation to collaborate with our associates across the ocean. The second part of this letter contains a list of employees to be transferred.@§7§oПоэтому было принято решение перенести вашу операционную базу для сотрудничества с нашими партнерами за океан. Вторая часть этого письма содержит список сотрудников, подлежащих переводу.
+§7§oIf you do not find your name in this list, consider yourself relieved of your duties permanently.@§7§oЕсли вы не найдете своего имени в этом списке, считайте, что вы навсегда освобождены от своих обязанностей.
+§7The rest of the letter has been ripped off.@§7Остальная часть письма была вырвана.
+§7...That§7 won't do. Maybe something nearby is strong enough.@§7...Это не годится. Может быть, что-то поблизости достаточно сильное.
+§7§oTwo elven sisters were casted away from their homes, far into the mystical forest. All alone with their followers, hope dwindled as so did the warmth.@§7§oДве эльфийские сестры были изгнаны из своих домов далеко в мистический лес. Оставшись наедине со своими последователями, надежда угасла, как и тепло.
+§7§oTo a fairy of §bjoy§7§o, they bumped into, dancing in the §bmiddle of a crowd§7§o. Together the sisters danced in the night, animals singing and trees waving.@§7§oК §bрадости§7§o феи, они столкнулись, танцуя §bпосреди толпы§7§o. Сестры вместе танцевали в ночи, животные пели, деревья махали ветвями. 
+§7§oSoon they brought the fairy with them, and the shivering elves found comfort once again.@§7§oВскоре они привели с собой фею, и дрожащие эльфы снова обрели покой.
+§7§oIn the darkness of the second night, a §blonely fairy§7§o weeped in a farm. Abandoned, lost, just like the elves themselves.@§7§oВо тьме второй ночи §bодинокая фея§7§o плакала на ферме. Покинутая, потерянная, как и сами эльфы.
+§7§oBut as the sisters §bguided the fairy§7§o with them to the newly formed party, it gained joy once more.@§7§oНо когда сестры §bповели фею§7§o с собой на новообразованную вечеринку, она снова обрела радость.
+§7§oThe third fairy, §bscared§7§o within, was surrounded by §bflames§7§o. Multiple beasts hopped around the open fire, hungry and desperate to devour it.@§7§oТретья фея, §bиспуганная§7§o внутри, была окружена §bпламенем§7§o. Множество зверей прыгали вокруг открытого огня, голодные и отчаянные, чтобы сожрать ее.
+§7§oSoon that hunger turned to fear, and only dust was settled clear. Through a §bhealing potion§7§o the fragile wing fixed itself and fairy joined the somber singing of the others.@§7§oВскоре этот голод превратился в страх, и только пыль осела. С помощью §bлечебного зелья§7§o хрупкое крыло восстановилось, и фея присоединилась к мрачному пению остальных.
+§7§oAfter the sun rose on the fourth morning, a mighty surprise the three fairies had in mind. To a §bsacred shrine§7§o they brought the sisters, and soon the cold of the night was nothing but a memory.@§7§oПосле того, как на четвертое утро взошло солнце, у трех фей на уме был грандиозный сюрприз. Они привели сестер в §bсвященное святилище§7§o, и вскоре ночной холод превратился в воспоминание.
+§7This was Harnort's notebook. There seem to be a lot more entries than just the one describing the Quartron. You thumb through a few...@§7Это была записная книжка Харнорта. Там, кажется, гораздо больше записей, чем просто одна, описывающая Квартрона. Ты пролистываешь несколько страниц...
+§7§oI'm a laughing stock, it seems. I can't stand to even show my face around the city, lest I get crowed at and whispered over, no no.@§7§oПохоже, я посмешище. Я не могу даже показаться в городе, чтобы на меня не накричали и не прошептали. Нет, нет.
+§7§oThey'll know better soon enough. I don't even have the heart to strike back- the grand "I told you so" of my results will do that for me.@§7§oСкоро они все поймут. У меня даже не хватает духу нанести ответный удар - грандиозное "я же вам говорил" моих результатов сделает это за меня.
+§7The entry goes on about Harnort's plans to surgically strike the science commission's building. You turn to another entry...@§7В записи говорится о планах Харнорта нанести удар по зданию научной комиссии. Ты переходишь к другой записи...
+§7§oWendell had to drop from the project. He swore to secrecy- I understand the decision, I do. Having a child is a big shift in one's life, yes yes?@§7§oВенделлу пришлось отказаться от проекта. Он поклялся хранить тайну - я понимаю это решение, понимаю. Рождение ребенка - это большой сдвиг в жизни. Да, да?
+§7§oI wouldn't dare hold it against him. In fact, it has galvanized me more- his daughter will get to see for herself the future of quartz advancement!@§7§oЯ бы не осмелился обвинить его в этом. На самом деле, это еще больше воодушевило меня - его дочь сможет сама увидеть будущее продвижение кварца!
+§7There is a list of people who must have left the project, and reasons next to them. Raising a family, couldn't handle stealing, sickness... You turn to another entry.@§7Здесь список людей, которые должны были покинуть проект, и причины рядом с ними. Растил семью, не мог справиться с воровством, болезнями... Ты переходишь к другой записи.
+§7§oThey can't claim it will replace jobs- they require dedicated maintenance, and the Minemite systems are delicate. The jobs won't disappear- they'll shift.@§7§oОни не могут утверждать, что это заменит рабочие места - они требуют специального обслуживания, а системы Minemite деликатны. Рабочие места не исчезнут - они будут меняться.
+§7§oBut it will save a lot of back-breaking mining work, simplify transportation of materials with the broad containment §7§ohatches...and§7§o cup holders, too!@§7§oНо это спасет от многих непосильных горных работ, упростит транспортировку материалов с помощью широких защитных люков... и держателей чаш тоже!
+§7The entry describes the various functions of the Quartron, including offensive capabilities designed to repel attacks from the orcs, trolls and goblins. You turn to another entry...@§7В записи описываются различные функции Квартрона, включая наступательные возможности, предназначенные для отражения атак орков, троллей и гоблинов. Ты переходишь к другой записи...
+§7§oZenam refuses to respond to my letters. Another person who rejects me over this... §7§o§mI hate §7§oNo, I don't. I can't bring myself to even write it, no no.@§7§oЗенам отказывается отвечать на мои письма. Еще один человек, который отвергает меня из-за этого... §7§o§mЯ ненавижу. §7§oНет, я этого не сделаю. Я не могу заставить себя даже написать это. Нет, нет.
+§7§oI wonder how much longer it will take. The second prototype was a dud. How much longer will I need to hide? To steal and ruin others' work?@§7§oИнтересно, сколько времени это займет? Второй прототип был неудачным. Сколько еще мне придется прятаться? Украсть и испортить чужую работу?
+§7§oThe ends have to justify the means. They must. Otherwise it's all for nothing, and I'll have harmed so many good peoples' reputations.@§7§oЦель должна оправдывать средства. Они должны. Иначе все будет напрасно, и я нанесу ущерб репутации стольких хороших людей.
+§7§oWhy is it they cheer for fancy new lamps and do-nothings, but fear true progress? I can't force them to listen, but so many bridges have been burnt for this.@§7§oПочему они болеют за модные новые лампы и ничего не делают, но боятся истинного прогресса? Я не могу заставить их слушать, но из-за этого было сожжено так много мостов.
+§7§oThings can never be the same after this. Will it be for the better, or for worse? I pray it is for the §7§obetter...or§7§o else I have a lot of making up to do.@§7§oПосле этого все уже никогда не будет по-прежнему. Будет ли это к лучшему или к худшему? Я молюсь, чтобы это было к §7§oлучшему...иначе мне придется многое наверстать.
+§7A message seems to have been engraved into the stone.@§7Похоже, на камне было выгравировано послание.
+§7§oAlgard, 65 AP - 307 AP@§7§oАлгард, 65 ПП - 307 ПП
+§7§oA protector of both friends and enemies. Rest In Peace.@§7§oЗащитник как друзей, так и врагов. Покойся с миром.
+§7One of the pages has been bookmarked.@§7Одна из страниц была помечена закладкой.
+§7§oAnd yet, there is no written record from the ancient villagers about the gerts up until the 6th Age.@§7§oИ все же, нет никаких письменных свидетельств от древних жителей о гертах вплоть до 6-го века.
+§7§oThis has many implications. A common theory among the uneducated masses is that they arrived on our lands along the meteors of Gylia.@§7§oЭто имеет много последствий. Распространенная теория среди необразованных масс состоит в том, что они прибыли на наши земли вместе с метеоритами Гилия.
+§7§oClearly, this is simply impossible, as no creature can survive such an impact. But then again the meteors could've protected them somehow.@§7§oОчевидно, что это просто невозможно, так как ни одно существо не может пережить такое воздействие. Но опять же, метеориты могли как-то защитить их.
+§7§oAlas, I digress. A more accepted theory is that the savages were lured to the meteors out of hiding in another region, such as the canyon.@§7§oУвы, я отвлекся. Более общепринятая теория состоит в том, что дикарей заманили на метеориты из укрытия в другом регионе, например в каньоне.
+§7§oThis I find more believable, as weak minds are drawn to great power. Though the problem with this theory is...@§7§oЭто я нахожу более правдоподобным, поскольку слабые умы тянутся к великой силе. Хотя проблема с этой теорией есть...
+§7A large stain renders the next page unreadable.@§7Большое пятно делает следующую страницу нечитаемой.
+§7§oThis is a complete record of all known existing guilds as of 945 AP.@§7§oЭто полная запись всех известных существующих гильдий по состоянию на 945 год ПП.
+§7§oIf a guild cannot be found here, consult a later record.@§7§oЕсли гильдия не найдена здесь, обратитесь к более поздней записи.
+§7§oA new record will be provided within a year of the previous record's publication, if a guild has not been registered anywhere.@§7§oНовая запись будет предоставлена в течение года после публикации предыдущей записи, если гильдия нигде не была зарегистрирована.
+§7The following is a long list of boring statistics... Seems like there was a large uptick in guild creation around the creation of this log.@§7Ниже приведен длинный список скучной статистики... Похоже, что после создания этого журнала произошел большой всплеск создания гильдий.
+§7Research Log № 58, Dr. Helmund@§7Журнал исследований № 58, доктор Хельмунд
+§7§oEver since the departure of the brothers, our experiments have halted here. What's left of their notes is completely incomprehensible.@§7§oС тех пор как братья ушли, наши эксперименты здесь прекратились. То, что осталось от их записей, совершенно непонятно.
+§7§oHowever, I was able to make something of it and run a few experiments of my own. The results were... fascinating.@§7§oОднако мне удалось кое-что из этого сделать и провести несколько собственных экспериментов. Результаты были... завораживающими.
+§7§oThe purple and blue meteor shards seem to represent primal forces - chaos and order respectively. And together they form balance.@§7§oФиолетовые и синие осколки метеоритов, по-видимому представляют первичные силы - хаос и порядок соответственно. И вместе они образуют равновесие.
+§7§oBut, I have not yet been able to connect this with the lake's rejuvenating properties. I will need to run more tests. Results coming tomorrow.@§7§oНо я пока не смог связать это с омолаживающими свойствами озера. Мне нужно будет провести еще несколько тестов. Результаты будут завтра.
+§7Report closed.@§7Отчет закрыт.
+§7§oOsseus, 72 AP - 313 AP@§7§oОссеус, 72 ПП - 313 ПП
+§7§oA strong warrior with an even stronger heart. Rest In Peace.@§7§oСильный воин с еще более сильным сердцем. Покойся с миром.
 
 ##########################################GUILDS#########################################
 §4You can join someone else's guild or make a guild in §cCinfras [Lv. 75]@§4Ты можешь присоединиться к чьей-нибудь гильдии, или создать свою в §cЦинфрасе [Ур. 75]
@@ -1196,10 +1263,9 @@
 §3You may access the menu using: §e/guild manage@§3Ты можешь перейти в меню используя: §e/guild manage
 §3Or see other guild commands using: §e/guild@§3Или посмотреть другие команды гильдий используя: §e/guild
 §3                              §3§lLevel Up!@§3                              §3§lУровень повышен!
-§7+3 Member Slots@§7+3 Слота для участников
-§7+5 Member Slots@§7+5 Слотов для участников
 §7+Guild Bank@§7+Банк Гильдии
 §7+7 Bank Slots@§7+7 Слотов в банке
+§7+14 Bank Slots@§7+14 Слотов в банке
 §7+Traders Badge@§7+Значок Трейдеров
 §7+1 Badge Slots@§7+1 Слот для значка
 §7+1 Ally Slots@§7+1 Слот для Союзников
@@ -1242,14 +1308,44 @@
 §aType a player name to invite (or cancel):@§aНапиши ник игрока для приглашения (или cancel):
 §bThe Guild Tower is §fgetting stronger§b! Defeat it quickly before it's too late.@§bБашня гильдии §fстановится сильнее§b! Победи ее быстрее, пока не стало слишком поздно.
 §bType the player name to receive ownership (or cancel):@§bНапиши ник игрока для получения прав владельца (или cancel):
-§7+Higher Tax Rate [1-10]@§7+Высокая Налоговая Ставка [1-10]
-§7+7 Member Slots@§7+7 Слотов Участников
+§7+Higher Tax Rate [1-10]@§7+Повышенная Налоговая Ставка [1-10]
 §7+Gatekeepers Badge@§7+Значок Сторожей
 §7+Bloodthirsty Badge@§7+Значок Жаждущих Крови
 §7+Nomads Badge@§7+Значок Кочевников
 §7+Mercenaries Badge@§7+Значок Наемников
 §7+1 Guild Star@§7+1 Звезда Гильдии
 §4Wars are not available at the moment. Please try again later.@§4Захваты недоступны в данный момент. Пожалуйста попробуй позже.
+§aType a tax value between 1 and 10 in chat (or cancel):@§aНапиши в чат налоговую ставку между 1 и 10 (или cancel):
+§aType a ally tax value between 1 and 10 in chat (or cancel):@§aНапиши в чат налоговую ставку союзников между 1 и 10 (или cancel):
+§aType a tax value between 1 and 5 in chat (or cancel):@§aНапиши в чат налоговую ставку между 1 и 5 (или cancel):
+§aType a ally tax value between 1 and 5 in chat (or cancel):@§aНапиши в чат налоговую ставку союзников между 1 и 5 (или cancel):
+§cYou cannot transfer territories until you claim 4 of them.@§cТы не можешь передавать территории, пока не захватишь 4 из них.
+§3You must be a §bChief§3 to change headquarters.@§3Ты должен быть §bШефом§3 для смены штаба.
+§4You can only join a war after 3 days of joining the guild.@§4Ты можешь пойти на захват через 3 дня после присоединения к гильдии.
+§3Invalid arguments, try: §b/guild kick [name]@§3Неправильные аргументы, попробуй: §b/guild kick [ник]
+§4Your guild does not have enough emeralds.@§4У вашей гильдии недостаточно эмеральдов.
+§3You must be a §bRecruiter§3 to use this command.@§3Ты должен быть §bРекрутером§3 для использования этой команды.
+§7You completed this task before.@§7Ты уже завершил эту задачу раньше.
+§4You can not duel while inside a war.@§4Ты не можешь проводить дуэль при захвате.
+§4You cannot trade while inside a war.@§4Ты не можешь торговать во время захвата.
+§cYour guild headquarters is in fight and cannot be changed now.@§cТвой штаб гильдии в битве и не может быть изменен.
+§3[§3WAR]§c §cYour active attack was canceled and refunded to your legacy bank.@§3[§3WAR]§c §cТвоя атака была отменена и деньги возвращены в банк.
+§3[§3WAR]§c §cWhenever you set a headquarter it will become available.@§3[§3WAR]§c §cВсякий раз, когда ты устанавливаешь штаб он становится доступным.
+§4Your guild does not own this territory anymore.@§4Твоя гильдия больше не владеет этой территорией.
+§7+Higher Tax Rate [1-20]@§7Повышенная Налоговая Ставка [1-20]
+§aType a ally tax value between 1 and 20 in chat (or cancel):@§aНапиши в чат налоговую ставку союзников между 1 и 20 (или cancel):
+§aType a tax value between 1 and 20 in chat (or cancel):@§aНапиши в чат налоговую ставку между 1 и 20 (или cancel):
+§cYour guild does not have enough Emeralds to send a reward.@§cУ вашей гильдии недостаточно Эмеральдов для отправления награды.
+§3Rewards can be claimed in the Member Menu.@§3Награды можно забрать в Меню Участника
+§3Type the amount of §bCrops§3 to schedule (or cancel):@§3Напиши количество §bЗерен§3 для отправки (или cancel):
+§3Type the amount of §bFish§3 to schedule (or cancel):@§3Напиши количество §bРыбы§3 для отправки (или cancel):
+§7+Forgers of Stone Badge@§7+ Кузнецы Камня Значок
+§7+King Makers Badge@§7+ Властители Значок
+§7+Desert Wanderers Badge@§7+ Странники Пустыни Значок
+§7+Canyon Ancients Badge@§7+ Старцы Каньона Значок
+§7+Builders of Empires Badge@§7+ Строители Империй Значок
+§3You must be a §bOwner§3 to use this command.@§3Ты должен быть §bВладельцем§3 для использования этой команды.
+§cThe server could not open this territory, try later!@§cСервер не смог открыть эту территорию, попробуй позже!
 
 ###################################QUEST/DUNGEON REWARDS##################################
 §7[+1 Selchar Teleportation Scroll]@§7[+1 Сельчар свиток телепортации]
@@ -1488,7 +1584,7 @@
 §7[+Corrupted Arakadicus' Eye]@§7[+Испорченный Глаз Аракадикус]
 §7[+Corrupted Infested Pit Fragment]@§7[+Испорченный Фрагмент Зараженной Ямы]
 §7[+Corrupted Hashr's Bone]@§7[+Испорченная Кость Хашера]
-§7[+Corrupted Sand-Swept Tomb Fragment]@[+Испорченный Фрагмент Песчаной Гробницы]
+§7[+Corrupted Sand-Swept Tomb Fragment]@§7[+Испорченный Фрагмент Песчаной Гробницы]
 §7[+Redbeard's Hair]@§7[+Волос Редберда]
 §7[+Galleon's Graveyard Fragment]@§7[+Фрагмент Кладбища Галеона]
 §7[+Corrupted Garoth's Breath]@§7[+Испорченное Дыхание Гарота]
@@ -1566,6 +1662,8 @@
 §7[-1 Referick's Soul]@§7[-1 Душа Реферика]
 §7[-1 Emerald]@§7[-1 Эмеральд]
 §7[+1 Rusty Shovel]@§7[+1 Ржавая Лопата]
+§d[+1 Galleon's Graveyard Key]@§d[+1 Ключ от Кладбища Галлеона]
+§d[+3 Sunken Block of Gold]@§d[+3 Блока Затонувшего Золота]
 §4This material cannot be used for §fⒹ§c Jeweling@§4Этот материал не может быть использован в §fⒹ§c Изготовлении Аксессуаров
 §4This material cannot be used for §fⒼ§c Weaponsmithing@§4Этот материал не может быть использован в §fⒼ§c Оружейном Деле
 §4This material cannot be used for §fⒽ§c Armouring@§4Этот материал не может быть использован в §fⒽ§c Изготовлении Брони
@@ -1919,6 +2017,7 @@
 §4Frosty Bow@§4Морозный Лук
 §4Frosty Spear@§4Морозное Копье
 §4Frosty Relik@§4Морозный Релик
+§4Frosty Sword@§4Морозный Меч
 §4Dynasty Dagger@§4Кинжал Династии
 §4Dynasty Relik@§4Релик Династии
 §6Pirate Spear@§6Копье Пирата
@@ -1931,7 +2030,9 @@
 §cNordic Halbert@§cСкандинавский Халберт
 §4Yahya's Fantasy@§4Фантазия Яхи
 §4Sword and Shield Effect@§4Эффект Меча и Щита
+§4Ivy Horns@§4Рога Плюща
 §cBounty Hunter Hat@§cШляпа охотника за головами
+§cNordic Staff@§cСкандинавский Посох
 §aA §8§k|||§4 Black Market §8§k|||§4 Frosty Relik§a!@§8§k|||§4 Черный Маркет §8§k|||§4 Морозный Релик§a!
 §aA §8§k|||§4 Black Market §8§k|||§4 Angel Wybel Token§a!@§8§k|||§4 Черный Маркет §8§k|||§4 Ангел Вубел Жетон§a!
 §aA §8§k|||§4 Black Market §8§k|||§4 Rainbow Wybel Token§a!@§8§k|||§4 Черный Маркет §8§k|||§4 Радужный Вубел Жетон§a!
@@ -1979,8 +2080,9 @@
 §aA §6Epic Ripple Effect§a!@§6Эпический Эффект Пульсации§a!
 §aA §6Epic Fellowship Dagger§a!@§6Эпический Кинжал Дружбы§a!
 §aA §6Epic Pirate Spear§a!@§6Эпическое Пиратское Копье§a!
-§aA §6Epic Bovemist Effect§a!@§aA §6Эпический Эффект Бовемиста§a!
-§aA §6Epic Pirate Hook§a!@§aA §6Эпический Крюк Пирата§a!
+§aA §6Epic Bovemist Effect§a!@§6Эпический Эффект Бовемиста§a!
+§aA §6Epic Pirate Hook§a!@§6Эпический Крюк Пирата§a!
+§aA §6Epic Golden Wand§a!@§6Эпический Золотой Посох§a!
 §aA §cGodly Ozoth Effect§a!@§cБожественный Эффект Озот§a!
 §aA §cGodly Phoenix Wand§a!@§cБожественный Посох Феникса§a!
 §aA §cGodly Phoenix Dagger§a!@§cБожественный Кинжал Феникса§a!
@@ -2002,6 +2104,7 @@
 §aA §cGodly King Effect§a!@§cБожественный Эффект Короля§a!
 §aA §cGodly Dern Relik§a!@§cБожественный Дерн Релик§a!
 §aA §cGodly Lake Gylia Effect§a!@§cБожественный Эффект Озера Гилия§a!
+§aA §cGodly Bounty Hunter Hat§a!@§cБожественная Шляпа охотника за головами§a!
 §aA §dRare Letter Swirl Effect§a!@§dРедкий Эффект Водоворота Букв§a!
 §aA §dRare Lava Attack Effect§a!@§aA §dРедкий Эффект Атаки Лавы§a!
 §aA §dRare Food Wand§a!@§aA §dРедкий Рыба-меч Посох§a!
@@ -2083,6 +2186,7 @@
 §7Disguise your bow as a golden masterpiece@§7Маскирует твой лук под золотой шедевр
 §7Disguise your bow as a frosty masterpiece@§7Маскирует твой лук под ледяной шедевр
 §7Disguise your wand as a golden masterpiece@§7Маскирует твой посох под золотой шедевр
+§7Disguise your wand as a nordic masterpiece@§7Маскирует твой посох под скандинавский шедевр
 §7Disguise your wand as a piece of food@§7Маскирует твой посох под кусок еды
 §7Disguise your wand as a map of our world@§7Маскирует твой посох под карту мира
 §7Disguise your wand with a steampunk flair@§7Маскирует твой посох под стимпанк стиль
@@ -2114,10 +2218,12 @@
 §7Disguise your dagger as a golden masterpiece@§7Маскирует твой кинжал под золотой шедевр
 §7Disguise your dagger as a sharp, pirate hook@§7Маскирует твой кинжал под острый пиратский крюк
 §7Disguise your dagger as a dynastic masterpiece@§7Маскирует твой кинжал под династический шедевр
+§7Disguise your dagger as a frosty masterpiece@§7Маскирует твой кинжал под морозный шедевр
 §7Disguise your dagger/spear as a banana sword@§7Маскирует твой кинжал/трезубец под меч-банан
 §7Disguise your helmet as a flowery crown@§7Маскирует твой шлем под цветочную корону
 §7Disguise your helmet giving you +1 pot breaking@§7Максирует твой шлем и дает +1 к разбиванию горшков
 §7Disguise your helmet as a bounty hunter hat@§7Маскирует твой шлем под шляпу охотника за головами
+§7Disguise your helmet as a ivy horns@§7Маскирует твой шлем под рога плюща
 §7Disguise your mushroom as a helmet! Wait, it's the other way round!@§7Маскирует твой гриб под шлем! Погоди-ка, все наоборот!
 
 ###################################DUNGEONS/RAIDS##################################
@@ -2246,9 +2352,6 @@
 §7[+1 Iron Bars]@§7[+1 Железный Прут]
 §6[§e!§6] §7The exit's unlocked! Gather at the center to leave.@§6[§e!§6] §7Выход открылся! Соберитесь в центре, чтобы уйти.
 §6[§e!§6] §c§lPestilent I@ 
-  §b+ 400 §7Life Steal@  §b+ 400 §7Вампиризма
-  §b+ 5000 §7Poison@  §b+ 5000 §7Яда
-  §b+ 40 §7Strength@  §b+ 40 §7Силы
 §7§lRight-click §7again to get the power up.@§7§lПравый клик§7 еще раз чтобы выбрать бонус.
 §6[§e!§6] §7Three pathways will open, the players must hold the available platforms inside of each path for §b60 seconds§7.@§6[§e!§6] §7Откроются три пути, игроки должны удерживать доступные платформы внутри каждого пути в течение §b60 секунд§7.
 §6[§e!§6] §7You have §b5 seconds §7to spread across the open passageways.@§6[§e!§6] §7У вас есть §b5 секунд §7, чтобы распределиться по открытым проходам.
@@ -2265,15 +2368,12 @@
 §6[§e!§6] §7You've successfully opened the exit!@§6[§e!§6] §7Вы успешно открыли выход!
 §6[§e!§6] §7§lStonewalker II@ 
   §b+ 35% §7Exploding@  b+ 35% §7Взрывов
-  §b+ 1000 §7Main Attack Damage@  b+ 1000 §7Урона Основной Атаки
 §6[§e!§6] §7§lBehind you! §7One of the §7lava flows is overflowing! §b§lRight-click §7with the water to §7prevent it from burning the platforms.@§6[§e!§6] §7§lПозади тебя! §7Один из лавовых потоков переполнен! §b§lПравый клик §7с водой, чтобы предотвратить ее сжигание платформ.
 §7[+1 Water]@§7[+1 Вода]
 §6[§e!§6] §7You can only hold one Water Bucket at a time.@§6[§e!§6] §7Ты можешь держать только одно Ведро Воды за раз.
 §6[§e!§6] §7A player must stand on the platform at all times to prevent it from decaying!@§6[§e!§6] §7Игрок должен все время стоять на платформе, чтобы она не разрушалась!
 §6[§e!§6] §7The previous platform is about to decay.@§6[§e!§6] §7Предыдущая платформа вот-вот разрушится.
 §6[§e!§6] §8§lGiant III@ 
-  §b+ 7000 §7Health Bonus@  §b+ 7000 §7Бонусного Здоровья
-  §b+ 1000 §7Health Regen Raw@  §b+ 1000 §7Регена Здоровья
   §b+ §bGuardian@  §b+ §bЗащитник
       §750% of damage taken by nearby allies is redirected to you@      §750% урона полученного союзниками перенаправляется тебе
 §6[§e!§6]§7 Opening Door...@§6[§e!§6] §7Дверь открывается...
@@ -2285,10 +2385,6 @@
 §6[§e!§6] §7You are not allowed to hold more than one resource at a time!@§6[§e!§6] §7Тебе не разрешено держать более одного ресурса одновременно!
 §6[§e!§6] §7You must wait §b6 seconds §7before getting another resource.@§6[§e!§6] §7Ты должен подождать §b6 секунд§7, прежде чем получить другой ресурс.
 §6[§e!§6] §5§lMonk I@ 
-  §b+ 70 §7Agility@  §b+ 70 §7Ловкости
-  §b+ 2 §7Mana Regen@  §b+ 2 §7Регена Маны
-  §b+ 40 §7Intelligence@  §b+ 40 §7Интеллекта
-§6[§e!§6] §7You have selected the §5Monk I §7power up.@§6[§e!§6] §7Ты выбрал §5Monk I §7бонус.
 §6[§e!§6] §7A player has died!@§6[§e!§6] §7Игрок умер!
 §6[§e!§6] §7The lower door has opened.@§6[§e!§6] §7Нижняя дверь открылась.
 §6[§e!§6] §7The lower door has closed.@§6[§e!§6] §7Нижняя дверь закрылась.
@@ -2296,8 +2392,6 @@
 §6[§e!§6] §7The upper door has opened.@§6[§e!§6] §7Верхняя дверь открылась.
 §6[§e!§6] §7You've been automatically teleported to the next room@§6[§e!§6] §7Тебя автоматически телепортировали в следующую комнату
 §6[§e!§6] §8§lGiant I@ 
-  §b+ 3000 §7Health Bonus@  §b+ 3000 §7Бонусного Здоровья
-  §b+ 400 §7Health Regen Raw@  §b+ 400 §7Регена Здоровья
 §6[§e!§6] §7Find the maze's exit and escort your party.@§6[§e!§6] §7Найди выход из лабиринта и проведи свою пати.
 §6[§e!§6] §7The miniboss has spawned.@§6[§e!§6] §7Минибосс заспавнился.
 §6[§e!§6] §7The defense system has been enabled!@§6[§e!§6] §7Система защиты включена!
@@ -2305,9 +2399,6 @@
 §6[§e!§6] §7You have been teleported to prevent you from getting stuck.@§6[§e!§6] §7Тебя телепортировали, чтобы ты не застрял.
 §6[§e!§6] §5§lMonk II@ 
   §b+ 50% §7Speed@  §b+ 50% §7Скорости
-  §b+ 3 §7Mana Regen@  §b+ 3 §7Регена Маны
-  §b+ 30 §7Intelligence@  §b+ 30 §7Интеллекта
-§6[§e!§6] §7You have selected the §5Monk II §7power up.@§6[§e!§6] §7Ты выбрал §5Monk II §7бонус.
 §6[§e!§6] §7Protect the Golems for §b2 minutes §7from the monsters. Starting in 7 seconds...@§6[§e!§6] §7Защитите големов в течение §b2 минут§7 от монстров. Старт через 7 секунд...
 §7South Golem: §c§l[5 HP]@§7Южный Голем: §c§l[5 ХП]
 §7South Golem: §c§l[4 HP]@§7Южный Голем: §c§l[4 ХП]
@@ -2320,7 +2411,7 @@
 §7North Golem: §c§l[3 HP]@§7Северный Голем: §c§l[3 ХП]
 §7North Golem: §c§l[2 HP]@§7Северный Голем: §c§l[2 ХП]
 §7North Golem: §c§l[1 HP]@§7Северный Голем: §c§l[1 ХП]
-§7North Golem: §c§l[2 HP]@§7Северный Голем: §c§l[0 ХП]
+§7North Golem: §c§l[0 HP]@§7Северный Голем: §c§l[0 ХП]
 §7East Golem: §c§l[5 HP]@§7Восточный Голем: §c§l[5 ХП]
 §7East Golem: §c§l[4 HP]@§7Восточный Голем: §c§l[4 ХП]
 §7East Golem: §c§l[3 HP]@§7Восточный Голем: §c§l[3 ХП]
@@ -2356,7 +2447,6 @@
   §b+ 1000 §7Health@  §b+ 1000 §7Здоровья
   §b+ 2/4s §7Mana Steal@  §b+ 2/4с §7Кражи Маны
   §b+ 150/4s §7Life Steal@  §b+ 150/4с §7Вампиризма
-§6[§e!§6] §7You have selected the §4Vampire I §7power up.@§6[§e!§6] §7Ты выбрал §4Vampire I §7бонус.
 §6[§e!§6] §7Gather resources on different rooms by doing challenges to build your exit.@§6[§e!§6] §7Собирайте ресурсы в разных комнатах, выполняя задания, чтобы построить свой выход.
 §6[§e!§6] §7Follow the path indicated on the ceiling to get the resource.@§6[§e!§6] §7Следуй по пути, указанному на потолке, чтобы получить ресурс.
 §6[§e!§6] §7Every §b20 seconds §7the platform decays and one resource is removed unless a new resource is added.@§6[§e!§6] §7Каждые §b20 секунд§7 платформа разрушается, и один ресурс удаляется, если не добавляется новый ресурс.
@@ -2364,13 +2454,10 @@
 §6[§e!§6] §7-1 Resource Decayed@§6[§e!§6] §7-1 Ресурс Разрушился
 §6[§e!§6] §7The platform's complete! Climb the vines to progress.@§6[§e!§6] §7Платформа готова! Взбирайтесь по лианам для прогресса.
 §6[§e!§6] §4§lVampire II@ 
-  §b+ 250 §7Health Regen@  §b+ 250 §7Регена Здоровья
   §b+ 250/4s §7Life Steal@  §b+ 250/4с §7Вампиризма
   §b+ §bHeart of the Pack@ 
       §7Nearby players gain 35% of the health you naturally regenerate@      §7Ближайшие игроки получают 35% от твоего здоровья, которое ты регенерируешь
 §6[§e!§6] §d§lSpellcaster II@ 
-  §b+ 50% §7Spell Damage@  §b+ 50% §7Урона Заклинаний
-§6[§e!§6] §7You have selected the §4Vampire II §7power up.@§6[§e!§6] §7Ты выбрал §4Vampire II §7бонус.
 §6[§e!§6] §7The players on the Upper Level must kill the §bSlime Chomper §7to progress.@§6[§e!§6] §7Игроки на Верхнем уровне должны убить §bSlime Chomper §7для прогресса.
 §6[§e!§6] §7A new platform has appeared on the Lower Area.@§6[§e!§6] §7На Нижней площадке появилась новая платформа.
 §6[§e!§6] §7The players on the Upper Level must kill the §bCarnivorous Gunk §7to progress.@§6[§e!§6] §7Игроки на Верхнем уровне должны убить §bCarnivorous Gunk §7для прогресса.
@@ -2378,28 +2465,17 @@
 §6[§e!§6] §7The players on the Upper Level must kill the §bPrimeval Bat §7to progress.@§6[§e!§6] §7Игроки на Верхнем уровне должны убить §bPrimeval Bat §7для прогресса.
 §6[§e!§6] §7The exit has opened!@§6[§e!§6] §7Выход открылся!
 §6[§e!§6] §d§lSpellcaster III@ 
-  §b+ 85% §7Water Damage@  §b+ 85% §7Урона Воды
   §b+ §bTranscendence@ 
-      §750% chance for spells to cost no mana when casted@      §750% шанс, что заклинания при касте не будут использовать ману
+      §750% chance for spells to cost no mana when cast@      §750% шанс, что заклинания при касте не будут использовать ману
 §6[§e!§6] §c§lBerserk III@ 
-  §b+ 100 §7Strength@  §b+ 100 §7Силы
-  §b+ 70% §7Main Attack Damage@  §b+ 70% §7Урона Основной Атаки
-  §b+ 250 §7Main Attack Damage@  §b+ 250 §7Урона Основной Атаки
 §6[§e!§6] §bHoles §7have begun to appear across the arena! Don't fall into them!@§6[§e!§6] §bДыры§7 начали появляться по всей арене! Не попадайтесь в них!
 §6[§e!§6] §7A player has left the server.@§6[§e!§6] §7Игрок вышел с сервера.
 §6[§e!§6] §6§lRacer I@ 
-  §b+ 35 §7Agility@  §b+ 35 §7Ловкости
-  §b+ 25% §7Walk Speed@  §b+ 25% §7Скорости
-§6[§e!§6] §7You have selected the §6Racer I §7power up.@§6[§e!§6] §7Ты выбрал §6Racer I §7бонус.
 §7[+1 Slimey Goo]@§7[+1 Вязкая Слизь]
 §6[§e!§6] §7You must complete the parkour again to get the resource.@§6[§e!§6] §7Ты должен снова пройти паркур, чтобы получить ресурс.
 §6[§e!§6] §7You've failed to prevent the egg from cracking!@§6[§e!§6] §7Вы не смогли предотвратить растрескивание яйца!
 §6[§e!§6] §7You must wait §b5 seconds §7after failing the egg challenge before entering the platform.@§6[§e!§6] §7Вы должны подождать §b5 секунд §7после провала с яйцом, прежде чем войти на платформу.
 §6[§e!§6] §9§lSkill Master II@ 
-  §b+ 23 §7All Skill Points@  §b+ 23 §7Всех Очков Умений
-  §b+ 40% §7Spell Damage@  §b+ 40% §7Урона Заклинаний
-  §b+ 40% §7Main Attack Damage@  §b+ 40% §7Урона Основной Атаки
-§6[§e!§6] §7You have selected the §9Skill Master II §7power up.@§6[§e!§6] §7Ты выбрал §9Skill Master II §7бонус.
 §6[§e!§6] §7The §bSlimey Goo §7has been picked. Reach the end and protect the carrier.@§6[§e!§6] §bВязкая слизь§7 была подобрана. Доберитесь до конца и защитите носителя.
 §6[§e!§6] §bRight-click §7the cracked blocks to break the rock.@§6[§e!§6] §bПравый клик§7 по треснувшим блокам, чтобы разбить камень.
 §7You have §b7 seconds §7to memorize the pattern on the wall.@§7У тебя есть §b7 секунд§7, чтобы запомнить образец на стене.
@@ -2415,12 +2491,8 @@
 §6[§e!§6] §4§lVampire III@ 
   §b+ 7/4s §7Mana Steal@  §b+ 7/4с §7Кражи Маны
   §b+ 350/4s §7Life Steal@  §b+ 350/4с §7Вампиризма
-  §b+ 200% §7Health Regen@  §b+ 200% §7Регена Здоровья
 §6[§e!§6] §6§lRacer II@ 
   §b+ 50% §7Sprint@  §b+ 50% §7Спринта
-  §b+ 35% §7Walk Speed@  §b+ 35% §7Скорости
-§6[§e!§6] §7You have selected the §6Racer II §7power up.@§6[§e!§6] §7Ты выбрал §6Racer II §7бонус.
-§6[§e!§6] §7You have selected the §dSpellcaster III §7power up.@§6[§e!§6] §7Ты выбрал §dSpellcaster III §7бонус.
 §6[§e!§6] §7You have successfully completed the §2Nest of the Grootslangs§7!@§6[§e!§6] §7Вы успешно прошли §2Гнездо Грутслангов§7!
 §6[§e!§6] §7The Raid Reward chest has been unlocked.@§6[§e!§6] §7Сундук с наградой за рейд разблокирован.
 §6§lRaid complete §7- §eNest of the Grootslangs@§6§lРейд пройден §7- §eГнездо Грутслангов
@@ -2428,29 +2500,19 @@
 §f+Various Items@§f+Различные Предметы
 §6[§e!§6] §c§lBerserk I@ 
   §b+ 25% §7Exploding@  §b+ 25% §7Взрывов
-  §b+ 30% §7Main Attack Damage@  §b+ 30% §7Урона Основной Атаки
   §b+ §bExplosive Impact@ 
       §7Your "Exploding" ID can trigger when hitting mobs@      §7Твое идентификация "Взрыв" может срабатывать при ударе мобов
 §6[§e!§6] §7You've been automatically teleported to the next room.@§6[§e!§6] §7Ты автоматически телепортировался в следующую комнату.
 §6[§e!§6] §7The party will be teleported out of the raid if the challenge is not completed within the next §b30 seconds§7.@§6[§e!§6] §7Пати будет телепортирована из рейда, если задание не будет завершено в течение следующих §b30 секунд§7.
 §6[§e!§6] §7The party will be teleported out of the raid if the challenge is not completed within the next §b10 seconds§7.@§6[§e!§6] §7Пати будет телепортирована из рейда, если задание не будет завершено в течение следующих §b10 секунд§7.
 §6[§e!§6] §7You must complete the puzzle to get the item!@§6[§e!§6] §7Ты должен завершить головоломку, чтобы получить предмет!
-§6[§e!§6] §7You have selected the §dSpellcaster II §7power up.@§6[§e!§6] §7Ты выбрал §dSpellcaster II §7бонус.
-§6[§e!§6] §7You have selected the §4Vampire III §7power up.@§6[§e!§6] §7Ты выбрал §4Vampire III §7бонус.
 §6[§e!§6] §d§lSpellcaster I@ 
-  §b+ 40% §7Water Damage@  §b+ 40% §7Урона Воды
-§6[§e!§6] §7You have selected the §dSpellcaster I §7power up.@§6[§e!§6] §7Ты выбрал §dSpellcaster I §7бонус.
 §6[§e!§6] §7Puzzle complete! Resource unlocked...@§6[§e!§6] §7Пазл завершен! Ресурс разблокирован...
 §6[§e!§6] §c§lBerserk II@ 
-  §b+ 40% §7Walk Speed@  §b+ 40% §7Скорости
-  §b+ 150 §7Main Attack Damage@  §b+ 150 §7Урона Основной Атаки
 §6[§e!§6] §7The raid you were previously in is no longer in progress.@§6[§e!§6] §7Рейд, в котором вы были раньше, больше не продолжается.
 §6[§e!§6] §9§lSkill Master I@ 
-  §b+ 12 §7All Skill Points@  §b+ 12 §7Всех Очков Умений
   §b+ 40% §7All Elemental Defense@  §b+ 40% §7Защиты Всех Элементов
-§6[§e!§6] §7You have selected the §9Skill Master I §7power up.@§6[§e!§6] §7Ты выбрал §9Skill Master I §7бонус.
 §6[§e!§6] §9§lSkill Master III@ 
-  §b+ 40 §7All Skill Points@  §b+ 40 §7Всех Очков Умений
   §b+ 80% §7All Elemental Defense@  §b+ 80% §7Защиты Всех Элементов
   §b+ §bSaviour's Sacrifice@ 
       §7While under 50% maximum health, nearby allies gain 50% bonus damage and defence@      §7Когда максимальное здоровье составляет менее 50%, ближайшие союзники получают 50% бонусного урона и защиты
@@ -2462,9 +2524,7 @@
 §6[§e!§6] §7The parkour has reset.@§6[§e!§6] §7Паркур был сброшен.
 §6[§e!§6] §7Parkour complete! Given jump boost effect.@§6[§e!§6] §7Паркур завершен! Выдан эффект усиления прыжка.
 §7[+2 Slimey Goo]@§7[+2 Вязкой Слизи]
-§6[§e!§6] §7You have selected the §9Skill Master III §7power up.@§6[§e!§6] §7Ты выбрал §9Skill Master III §7бонус.
 §6[§e!§6] §6§lRacer III@ 
-  §b+ 55 §7Agility@  §b+ 55 §7Ловкости
   §b+ Freerunner@ 
       §7Double your sprint speed when your sprint bar is under 30%@      §7Удваивает твой спринт когда полоска спринта меньше 30%
 §6[§e!§6] §7The party will be teleported out of the raid if the challenge is not completed within the next §b2 minutes§7.@§6[§e!§6] §7Пати будет телепортирована из рейда, если задание не будет завершено в течение следующих §b2 минут§7.
@@ -2472,19 +2532,12 @@
 §6[§e!§6] §7You have failed to defeat the Slime Trap!@§6[§e!§6] §7Ты не смог победить ловушку из слизи!
 §6[§e!§6] §7You have been sent to the room your party is in.@§6[§e!§6] §7Ты был послан в комнату, где находится ваша пати.
 §6[§e!§6] §7A party member has returned.@§6[§e!§6] §7Участник пати был возвращен.
-  §b+ 30 §7Agility@  §b+ 30 §7Ловкости
   §b+ 1500 §7Health@  §b+ 1500 §7Здоровья
   §b+ 20% §7Exploding@  §b+ 20% §7Взрывов
-  §b+ 50% §7Main Attack Damage@  §b+ 50% §7Урона Основной Атаки
-  §b+ 300 §7Health Regen@  §b+ 300 §7Регена Здоровья
   §b+ 400/4s §7Life Steal@  §b+ 400/4с §7Вампиризма
   §b+ 3/4s §7Mana Regen@  §b+ 3/4с §7Регена Маны
   §b+ 100% §7Sprint Regen@  §b+ 100% §7Регена Спринта
-  §b+ 200 §7Main Attack Damage@  §b+ 200 §7Урона Основной Атаки
   §b+ 6/4s §7Mana Steal@  §b+ 6/4с §7Кражи Маны
-  §b+ 500 §7Health Regen@  §b+ 500 §7Регена Здоровья
-  §b+ 125% §7Main Attack Damage@  §b+ 125% §7Урона Основной Атаки
-  §b+ 400 §7Main Attack Damage@  §b+ 400 §7Урона Основной Атаки
 §8[§6!§8]§7 The Mixer has been reset.@§8[§6!§8]§7 Миксер был сброшен.
 §6§lForgery Chest@§6§lСундук Кузницы
 §7Complete the dungeon for this run to count towards the Forgery Chest.@§7Пройди данж в этот раз чтобы он засчитался в Сундук Кузницы
@@ -2498,8 +2551,6 @@
 §7You have completed the challenge with §b7 Dungeon Runs§7.@§7Ты прошел челлендж с §b7 Прохождениями Данжа§7.
 §7Leaving The Forgery will reset the Forgery Chest.@§7Покидание Кузницы сбросит Сундук Кузницы.
 §3            Complete Dungeons:@§3            Пройденные Данжи:
-  §b+ 40 §7Agility@  §b+ 40 §7Ловкости
-  §b+ 60% §7Walk Speed@  §b+ 60% §7Скорости
   §b+ 100% §7Sprint@  §b+ 100% §7Спринта
 §6[§e!§6] §7A door is opening...@§6[§e!§6] §7Дверь открывается...
 §6[§e!§6] §7The crystals are decaying! Kill the parasites before the room gets decayed!@§6[§e!§6] §7Кристаллы заражаются! Убейте паразитов, пока комната не заразилась!
@@ -2513,16 +2564,12 @@
 §6[§e!§6] §b2/3 §7Clouds Purified.@§6[§e!§6] §b2/3 §7Облаков Очищено.
 §6[§e!§6] §b3/3 §7Clouds Purified.@§6[§e!§6] §b3/3 §7Облаков Очищено.
 §6[§e!§6] §c§lCherubim II@ 
-  §b+ 50% §7Thorns@  §b+ 50% §7Шипов
-  §b+ 1000 §7Life Steal@  §b+ 1000 §7Вампиризма
 §6[§e!§6] §7§lDon't move! §7The Overseer is decaying...@§6[§e!§6] §7Не двигайся! §7Overseer заражается...
 §6[§e!§6] §7You moved!@§6[§e!§6] §7Ты двинулся!
 §6[§e!§6] §7The Overseer has restored its light.@§6[§e!§6] §7Overseer восстановил свой свет.
 §6[§e!§6] §4§lAnti III@ 
-  §b+ 80 §7Defense@  §b+ 80 §7Защиты
   §b+ 300% §7Sprint@  §b+ 300% §7Спринта
   §b+ 2 §7Attack Speed Bonus@  §b+ 2 §7Скорости Атаки
-§6[§e!§6] §7You have selected the §4Anti III §7power up.@§6[§e!§6] §7Ты выбрал §4Anti III §7бонус.
 §6[§e!§6] §7A player has been crystalized! Deal damage to the crystal to free them!@§6[§e!§6] §7Игрок кристаллизовался! Нанесите урон кристаллу, чтобы освободить его!
 §6[§e!§6] §7You're being crystalized.@§6[§e!§6] §7Ты был кристаллизирован.
 §6[§e!§6] §7You've defeated the Sanitizing Void.@§6[§e!§6] §7Вы победили Sanitizing Void.
@@ -2538,6 +2585,7 @@
 §7[8/10] §6§lOrphion: §eThis world has been thrown out of balance and the realms continue to war.@§7[8/10] §6§lОрфион: §eЭтот мир был выведен из равновесия, и царства продолжают воевать.
 §7[9/10] §6§lOrphion: §eBefore you face the Darkness head on though... There is one more you must face.@§7[9/10] §6§lОрфион: §eНо прежде чем ты столкнешься с Тьмой лицом к лицу... Есть еще один, с которым ты должен столкнуться.
 §7[10/10] §6§lOrphion: §eⓨⓞⓤ ⓜⓤⓢⓣ ⓢⓣⓞⓟ ⓗⓔⓡ, ⓞⓡ ⓣⓗⓔ ⓦⓐⓡ ⓦⓘⓛⓛ ⓝⓔⓥⓔⓡ ⓔⓝⓓ.@§7[10/10] §6§lОрфион: §eⓨⓞⓤ ⓜⓤⓢⓣ ⓢⓣⓞⓟ ⓗⓔⓡ, ⓞⓡ ⓣⓗⓔ ⓦⓐⓡ ⓦⓘⓛⓛ ⓝⓔⓥⓔⓡ ⓔⓝⓓ.
+§7[10/10] §6§lOrphion: §eⓢⓗⓔ ⓜⓤⓢⓣ ⓑⓔ ⓢⓝⓤⓕⓕⓔⓓ ⓞⓤⓣ. ⓗⓔⓡ ⓘⓝⓕⓛⓤⓔⓝⓒⓔ ⓕⓔⓔⓓⓢ ⓣⓗⓘⓢ ⓢⓔⓝⓢⓔⓛⓔⓢⓢ ⓦⓐⓡ.@§7[10/10] §6§lОрфион: §eⓢⓗⓔ ⓜⓤⓢⓣ ⓑⓔ ⓢⓝⓤⓕⓕⓔⓓ ⓞⓤⓣ. ⓗⓔⓡ ⓘⓝⓕⓛⓤⓔⓝⓒⓔ ⓕⓔⓔⓓⓢ ⓣⓗⓘⓢ ⓢⓔⓝⓢⓔⓛⓔⓢⓢ ⓦⓐⓡ.
 §6§lRaid complete §7- §6Orphion's Nexus of Light@§6§lРейд пройден §7- §6Нексус Света Орфиона
 §f+350000 §7Combat XP@§f+350000 §7Комбат XP
 §6[§e!§6] §7The clouds are decaying! Quick, go to the light cloud!@§6[§e!§6] §7Облака заражаются! Быстрее, иди к облаку света!
@@ -2551,19 +2599,13 @@
 §6[§e!§6] §7You have successfully defended the player with the Darkness Crystal! Continue defending the player to complete the challenge!@§6[§e!§6] §7Вы успешно защитили игрока с Кристаллом Тьмы! Продолжайте защищать игрока для завершения челленджа!
 §6[§e!§6] §4§lAnti I@ 
   §b+ 616% §7Exploding@  §b+ 616% §7Взрывов
-§6[§e!§6] §7You have selected the §4Anti I §7power up.@§6[§e!§6] §7Ты выбрал §4Anti I §7бонус.
 §7[+1 Light Crystal]@§7[+1 Кристалл Света]
 §6[§e!§6] §7A player has returned.@§6[§e!§6] §7Игрок был возвращен.
 §6[§e!§6] §7The escort has died! Try again!@§6[§e!§6] §7Сопровождение погибло! Попробуйте снова!
   §b+ 2000 §7Health@  §b+ 2000 §7Здоровья
-  §b+ 80 §7Agility@  §b+ 80 §7Ловкости
 §6[§e!§6] §7The party will be teleported out of the raid if there's no progress within the next §b30 seconds§7.@§6[§e!§6] §7Пати будет телепортирована из рейда, если в течение следующих §b30 секунд§7 не будет достигнуто прогресса.
-  §b+ 25 §7All Skill Points@  §b+ 25 §7Всех Очков Умений
   §b+ 100% §7All Elemental Defense@  §b+ 100% §7Защиты Всех Элементов
-  §b+ 10 §7All Skill Points@  §b+ 10 §7Всех Очков Умений
   §b+ 50% §7All Elemental Defense@  §b+ 50% §7Защиты Всех Элементов
-  §b+ 15 §7All Skill Points@  §b+ 15 §7Всех Очков Умений
-  §b+ 75% §7Main Attack Damage@  §b+ 75% §7Урона Основной Атаки
 §6[§e!§6] §7Survive §b30 seconds §7to get [+1 Iron Bars]@§6[§e!§6] §7Выживи §b30 секунд §7чтобы получить [+1 Железный Прут]
 §6[§e!§6] §7Survive §b25 seconds §7to get [+1 Iron Bars]@§6[§e!§6] §7Выживи §b25 секунд §7чтобы получить [+1 Железный Прут]
 §6[§e!§6] §7Survive §b20 seconds §7to get [+1 Iron Bars]@§6[§e!§6] §7Выживи §b20 секунд §7чтобы получить [+1 Железный Прут]
@@ -2571,14 +2613,10 @@
 §6[§e!§6] §7Survive §b10 seconds §7to get [+1 Iron Bars]@§6[§e!§6] §7Выживи §b10 секунд §7чтобы получить [+1 Железный Прут]
 §6[§e!§6] §7Survive §b5 seconds §7to get [+1 Iron Bars]@§6[§e!§6] §7Выживи §b5 секунд §7чтобы получить [+1 Железный Прут]
 §6[§e!§6] §7§lStonewalker I@ 
-  §b+ 40 §7Defense@  §b+ 40 §7Защиты
 §6[§e!§6] §7You failed! §b5 seconds §7have been added to the timer.@§6[§e!§6] §7Вы не справились! §b5 секунд §7было добавлено к таймеру.
 §6[§e!§6] §7[+2 Iron Bars]@§6[§e!§6] §7[+2 Железных Прута]
 §6[§e!§6] §8§lGiant II@ 
-  §b+ 50 §7Defense@  §b+ 50 §7Защиты
-  §b+ 5000 §7Health Bonus@  §b+ 5000 §7Бонуса к Здоровью
 §6[§e!§6] §c§lPestilent III@ 
-  §b+ 600 §7Life Steal@  §b+ 600 §7Вампиризма
   §b+ §bPlague@ 
       §7Poisoned mobs spread their poison to nearby mobs@      §7Отравленные мобы распространяют свой яд на ближайших мобов
 §6[§e!§6] §7You have successfully completed the §3The Canyon Colossus§7!@§6[§e!§6] §7Вы успешно прошли §3Колосса Каньона§7!
@@ -2586,23 +2624,14 @@
 §f+1000000 §7Combat XP@§f+1000000 §7Комбат XP
 §7As you prevent the Colossus from collapsing, it returns to its previous state as the Canyon's protector.@§7Если вы не дадите Колоссу рухнуть, он вернется в свое прежнее состояние защитника Каньона.
 §6[§e!§6] §c§lPestilent II@ 
-  §b+ 5 §7Mana Steal@  §b+ 5 §7Кражи Маны
-  §b+ 500 §7Life Steal@  §b+ 500 §7Вампиризма
 §6[§e!§6] §a§lIntrepid III@ 
   §b+ §bLightweight@ 
       §7You no longer take fall damage@      §7Ты больше не получаешь урон от падений
 §6[§e!§6] §7§lStonewalker III@ 
-  §b+ 150% §7Main Attack Damage@  §b+ 150% §7Урона Основной Атаки
       §7Your Exploding ID can trigger when hitting mobs@      §7Твоя Взрыв ID активируется при ударе мобов
 §6[§e!§6] §7Only 2 players are allowed to enter!@§6[§e!§6] §7Только 2 игрокам разрешен вход!
 §6[§e!§6] §5§lMonk III@ 
-  §b+ 5 §7Mana Regen@  §b+ 5 §7Регена Маны
-  §b+ 50% §7Reflection@  §b+ 50% §7Отражения
-  §b+ 100% §7Spell Damage@  §b+ 100% §7Урона Заклинаний
-§6[§e!§6] §7You have selected the §5Monk III §7power up.@§6[§e!§6] §7Ты выбрал §5Monk III §7бонус.
 §6[§e!§6] §7[+1 Iron Bars]@§6[§e!§6] §7[+1 Железный Прут]
-§6[§e!§6] §7You have selected the §aIntrepid III §7power up.@§6[§e!§6] §7Ты выбрал §aIntrepid III §7бонус.
-§6[§e!§6] §7You have selected the §6Racer III §7power up.@§6[§e!§6] §7Ты выбрал §6Racer III §7бонус.
 §6[§e!§6] §7Your movement spell has been disabled.@§6[§e!§6] §7Твое заклинание перемещения было отключено.
 §6§lForgery Chest Claimed!@§6§lСундук Кузницы получен!
 §d    Rewards:@§d    Награды:
@@ -2615,6 +2644,32 @@
 §7[7/10] §6§lOrphion: §eThe dark has power unknown- It did not before. Through this power, its shadows reached to me.@§7[7/10] §6§lОрфион: §eУ тьмы есть неизвестная сила - раньше ее не было. Через эту силу ее тени достигли меня.
 §7[8/10] §6§lOrphion: §eThe delicate stasis was disrupted... And it cannot be blamed solely on the dark itself.@§7[8/10] §6§lОрфион: §eТонкий стазис был нарушен... И нельзя винить в этом только саму тьму.
 §7[9/10] §6§lOrphion: §eRest now, my pulse, and prepare, for there is another force who you must bring to peace.@§7[9/10] §6§lОрфион: §eА теперь отдохни, мой пульс, и приготовься, ибо есть еще одна сила, которую ты должен привести к миру.
+§6[§e!§6] §7The party will be teleported out of the raid if there's no progress within the next §b10 seconds§7.@§6[§e!§6] §7Пати будет телепортирована из рейда, если не будет прогресса в течение следующих §b10 секунд§7.
+§6[§e!§6] §7You fell! You will respawn in the next round!@§6[§e!§6] §7Ты упал! Ты возродишься в следующем раунде!
+§6[§e!§6] §7You have respawned!@§6[§e!§6] §7Ты возродился!
+§6[§e!§6] §6§lThrone I@ 
+§6[§e!§6] §1§lSeraphim II@ 
+§6[§e!§6] §6§lThrone II@ 
+  §b+ 50% §7All Elemental Damage@  §b+ 50% §7Всего Элементального Урона
+§6[§e!§6] §7You must wait §b5 seconds §7after failing to enter the platform.@§6[§e!§6] §7Ты должен подождать §b5 секунд §7после падения чтобы зайти на платформу.
+§6[§e!§6] §1§lSeraphim I@ 
+  §b+ §bSorcery@ 
+      §730% chance for spells and attacks to cast a second time at no additional cost@      §730% шанс, что вторые заклинания и атаки могут не стоить маны
+§6[§e!§6] §7The escort has died@§6[§e!§6] §7Сопровождение погибло
+§6[§e!§6] §b§lOphanim I@ 
+§6[§e!§6] §7You're only allowed to hold one Light Crystal!@§6[§e!§6] §7Ты можешь держать только один Кристалл Света!
+§6[§e!§6] §7§lThe party has failed to kill all Crystalline Decays.@§6[§e!§6] §7§lПати не смогла убить всех Crystalline Decays.
+§6[§e!§6] §c§lCherubim III@ 
+§6[§e!§6] §7You've been hit by a Falling Egg!@§6[§e!§6] §7Ты был ударен Упавшим Яйцом!
+§6[§e!§6] §b§lOphanim II@ 
+§6[§e!§6] §b§lOphanim III@ 
+§6[§e!§6] §7Gather resources on different rooms by doing challenges to open the exit.@§6[§e!§6] §7Собирай ресурсы в разных комнатах, выполняя задания, чтобы открыть выход.
+§6[§e!§6] §a§lIntrepid I@ 
+§6[§e!§6] §a§lIntrepid II@ 
+§6[§e!§6] §6§lThrone III@ 
+§6[§e!§6] §4§lAnti II@ 
+§6[§e!§6] §7You have been sent back to the pre-boss room as you were not able to defeat the boss in time.@§6[§e!§6] §7Ты был отправлен в комнату до босса, поскольку время на убийство босса вышло.
+§6[§e!§6] §7You've successfully killed the parasites!@§6[§e!§6] §7Ты успешно убил паразитов!
 
 ###################################LIBRARIES/TEXTS##################################
 §e                         §e§lPowder Manual@§e                        §e§lРуководство о порошках
@@ -2650,21 +2705,20 @@
 §7    §7§oThe necklace was sealed away because of the Corkians increased power. The necklace cannot be used in the wrong hands.@§7    §7§oАмулет был запечатан из-за того, что Коркианцы повысили свою мощь. Амулет не должен попасть не в те руки.
 §7    §7§oIt's infused with our own nature magic, we charged the necklace with the strongest winds.@§7    §7§oОн наполнен нашей собственной магией природы, мы заряжали ожерелье сильнейшими ветрами.
 §7    §7§oThe first clue lays behind the hut with red cloth, in a cave with torturous rocks.@§7    §7§oПервая подсказка лежит за хижиной с красной тканью, в пещере с мучительными камнями.
-§d                      §d§lThe Legend of Bob@§d                      §d§lЛегенда о Бобе
-§7    §7§o854 years after the portal was first opened, Ragni suffered one of the largest raids ever recorded on western soil.@§7    §7§oВ 854 году после открытия портала Рагни подвергся одному из крупнейших нападений, когда-либо зарегистрированных на западных землях.
+§d§lThe Legend of Bob §d- Chapter I: §7§o854 years after the portal was first opened, Ragni suffered one of the largest raids ever recorded on western soil.@§d§lЛегенда о Бобе §d- Глава I: §7§oВ 854 году после открытия портала Рагни подвергся одному из крупнейших нападений, когда-либо зарегистрированных на западных землях.
 §7    §7§oAlthough the famous forts of Ragni and Troms were deemed impenetrable, this was unfortunately not the case when seas of monsters brought by the curse came knocking on the front gate.@§7    §7§oЗнаменитые форты Рагни и Тромс считались неприступными. К сожалению, это было не так - когда орды монстров, вызванные проклятием, постучались в передние ворота.
 §7    §7§oDespite having fought for centuries in the cursed war, Ragni's army numbers were high and many a men laid down their lives to protect the families within the walls.@§7    §7§oНесмотря на то, что они веками сражались в проклятой войне, численность армии Рагни была высока, и многие мужчины отдали свои жизни, чтобы защитить семьи в стенах.
 §7    §7§oHowever, the sheer numbers pressed against the door broke the hinges and the large gate fell into the bridge, and the largest horde recorded entered the city.@§7    §7§oТем не менее, когда огромное количество монстров прижалось к двери, петли сломались. Большие ворота упали на мост, тем самым дав огромной орде проникнуть в город.
 §7    §7§oMany of the residents were slaughtered, maimed or infected by the onslaught of creatures, those able to run hid in the sewers, a vast series of tunnels that run out of the city, and into the foulest place the humans could create, their prison.@§7    §7§oМногие из жителей были убиты, искалечены или заражены под натиском существ; те, кто мог бежать, скрылись в канализационных сетях с огромной чередой туннелей, выходящих из города. Здесь было самое грязное место, которое люди только могли создать - их тюрьма.
 §a                              Chapter II@§a                              Глава II
-§7    §7§oThe idea was to combine two of the most horrible things, the untreated sewage, and the dark cells containing Wynn's worst criminals, to add to their suffering.@§7    §7§oИдея состояла в том, чтобы объединить две самые ужасные вещи: необработанные сточные воды и темные клетки, содержащие худших преступников Винн, чтобы добавить им страданий.
+§d§lThe Legend of Bob §d- Chapter II: §7§oThe idea was to combine two of the most horrible things, the untreated sewage, and the dark cells containing Wynn's worst criminals, to add to their suffering.@§d§lЛегенда о Бобе §d- Глава II: §7§oИдея состояла в том, чтобы объединить две самые ужасные вещи: необработанные сточные воды и темные клетки, содержащие худших преступников Винн, чтобы добавить им страданий.
 §7    §7§oIt really was a horrid place, but in a time like this, it was the safest place to be, and the women and children sought refuge in its stench.@§7    §7§oХоть это было и ужасное место, в то же время это было и самое безопасное место; во зловонии, женщины и дети искали здесь убежища.
 §7    §7§oDuring the fight, a woman who never said her name, nor where she had come from (she certainly wasn't one of Ragni's own) gave birth to a baby boy on the cold floors of the sewer.@§7    §7§oВо время битвы женщина, которая никогда не говорила кто и откуда она (она определенно не была жителем Рагни), родила мальчика на холодном полу канализации.
 §7    §7§oThough the women accompanying her did all they could, the unknown woman did not survive the childbirth.@§7    §7§oХотя сопровождающие ее женщины делали все возможное, неизвестная женщина не пережила родов.
 §7    §7§oThe horde lasted 6 days and the sewer folk did not know if the baby would make it, the conditions were so rotten.@§7    §7§oОсада продолжалась 6 дней, и люди в коллекторе не знали, выживет ли ребенок, настолько гнилыми были здесь условия.
 §7§nEnd of Chapter II.@§7§nКонец Главы II.
 §a                             Chapter III@§a                              Глава III
-§7    §7§oAgainst all the odds, the child made it, suffering no more but a smudge of dirt across his cheek, to everyone's amazement, he was adopted by Ragni's poorest resident, a single mother named Momo.@§7    §7§oНесмотря ни на что, ребенок выжил, страдая разве что от пятна грязи на своей щеке; к всеобщему изумлению, он был усыновлен самой бедной жительницей Рагни, матерью-одиночкой по имени Момо.
+§d§lThe Legend of Bob §d- Chapter III: §7§oAgainst all the odds, the child made it, suffering no more but a smudge of dirt across his cheek, to everyone's amazement, he was adopted by Ragni's poorest resident, a single mother named Momo.@§d§lЛегенда о Бобе §d- Глава III: §7§oНесмотря ни на что, ребенок выжил, страдая разве что от пятна грязи на своей щеке; к всеобщему изумлению, он был усыновлен самой бедной жительницей Рагни, матерью-одиночкой по имени Момо.
 §7    §7§oHe worked in a local bakery carrying bread and cake into the palace, taking whatever he could get away with.@§7    §7§oОн работал в местной пекарне, перевозил хлеб и пирожные во дворец, забирая себе все, что ему удавалось.
 §7    §7§oDespite his mother being poor, she was none the less intelligent, and taught the child, who she named Robert, everything she knew, taught him to read, write and to a degree, to fight.@§7    §7§oНесмотря на то, что его мать была бедной, она была не менее умной и учила ребенка, названного Робертом, всему, что знала сама. Учила его читать, писать и в какой-то степени сражаться.
 §7    §7§oRobert was never a popular lad, always treated differently, his skin was a shade of grey unnatural to those of Ragni, who have always been fair skinned.@§7    §7§oРоберт никогда не был популярным парнем, к нему всегда относились по-другому, так как его кожа была с серым оттенком, неестественным для большинства людей из Рагни, которые всегда были светлокожими.
@@ -2672,14 +2726,14 @@
 §7    §7§oWhen he was 12 years old, a horde found its way into the city once more, like it did just over a decade before.@§7    §7§oКогда ему было 12 лет, монстры снова нашли свой путь в город, как это было чуть более десяти лет назад.
 §7§nEnd of Chapter III.@§7§nКонец Главы III.
 §a                              Chapter IV@§a                              Глава IV
-§7    §7§oAlthough far smaller than its predecessor, the horde was none the less a threat as Ragni's army was so wounded from the last encounter.@§7    §7§oНесмотря на то, что теперь количество монстров было намного меньше, они все равно представляли угрозу, так как армия Рагни уже была не так многочисленна после последней встречи.
+§d§lThe Legend of Bob §d- Chapter IV: §7§oAlthough far smaller than its predecessor, the horde was none the less a threat as Ragni's army was so wounded from the last encounter.@§d§lЛегенда о Бобе §d- Глава IV: §7§oНесмотря на то, что теперь количество монстров было намного меньше, они все равно представляли угрозу, так как армия Рагни уже была не так многочисленна после последней встречи.
 §7    §7§oThe beacons were not lit from the scouts, and caught the entire city by surprise. Not Robert though, he always keeps a knife he stole from the butchers in his belt to protect the ones he loves.@§7    §7§oМаяки не были зажжены разведчиками, и монстры застали весь город врасплох. Но только не Робертa; он всегда держит при себе нож, украденный у мясника с пояса, чтобы защитить тех, кого он любит.
 §7    §7§oBeing so poor, Momos shack was on the outskirts of Ragni and was one of the first to get hit, Robert ran for the house, finding it empty, but hearing a gasping from below.@§7    §7§oБудучи самыми бедными, лачуга Момо была на окраине Рагни, и была одной из первых попавших под удар. Роберт побежал в дом, думая что тот пустой, как вдруг услышав хрип снизу.
 §7    §7§oEntering the cellar, he found his mother lying bleeding beside a recently stabbed creature. He went to her aid, knowing it would be in vain.@§7    §7§oВойдя в подвал, он обнаружил, что его мать лежала истекая кровью рядом с недавно зарезанным существом. Он пошел ей на помощь, зная, что это будет напрасно.
 §7    §7§oShe simply nodded at him, they had made an agreement when Robert was 8 years old that if she ever became infected she wanted him to end her life, rather than endure the gruesome prolonged infection that had no cure.@§7    §7§oОна просто кивнула ему; они договорились когда Роберту исполнилось 8 лет, что если она когда-нибудь заразится, она хотела бы, чтобы он закончил ее жизнь, а не пытался вылечить ужасную длительную инфекцию, от которой не было противоядия.
 §7§nEnd of Chapter IV.@§7§nКонец Главы IV.
 §a                              Chapter V@§a                              Глава V
-§7    §7§oMomo placed in Robert's hands a piece of parchment with a crude blood stained drawing of 4 areas each with a strange name under it he hadn't heard of.@§7    §7§oМомо положила в руки Робертa кусок пергамента с окровавленным рисунком 4 областей, каждый со странным именем под ним, о которых он никогда не слышал.
+§d§lThe Legend of Bob §d- Chapter V: §7§oMomo placed in Robert's hands a piece of parchment with a crude blood stained drawing of 4 areas each with a strange name under it he hadn't heard of.@§d§lЛегенда о Бобе §d- Глава V: §7§oМомо положила в руки Робертa кусок пергамента с окровавленным рисунком 4 областей, каждый со странным именем под ним, о которых он никогда не слышал.
 §7    §7§oIn the fires of the fight, Robert fled from the city, wielding not his butcher's knife, but a pair of pitch black knives encrusted with symbols that glowed a purple colour, a cloak and a pouch holding what little food was left in the house.@§7    §7§oВ огне от боя, Роберт бежал из города, захватив не свой нож мясника, а пару инкрустированных символами черных ножей, которые светились фиолетовым цветом, плащом и мешочком с оставшейся в доме едой.
 §7    §7§oHe headed east, to the sandy area indicated by his mother's drawing, the one with the knife symbol, and the number “1”.@§7    §7§oОн направился на восток, в песчаную зону, обозначенную на рисунке его матерью символом ножа и номером "1".
 §7    §7§oWhen Robert reached it, he found one man, who did nothing but held out his hand, and Robert placed the only thing of value to him, the dark daggers in his hand.@§7    §7§oКогда Роберт добрался до туда, он нашел одного человека, который ничего не сказав, протянул ему руку, и Роберт положил в его руку единственное ценное, что у него было - темные кинжалы.
@@ -2687,7 +2741,7 @@
 §7    §7§oOnly once he had mastered one skill would he be given the key that the next master would accept.@§7    §7§oТолько когда он овладеет одним умением, ему будет предоставлен ключ, который примет следующий мастер.
 §7§nEnd of Chapter V.@§7§nКонец Главы V.
 §a                              Chapter VI@§a                              Глава VI
-§7    §7§oAfter 5 years of training to become an assassin, Robert was now 17 years old and incredibly powerful. The master, Chak, who had taught him, told him his time was now up with him and he would have to progress to learn Archer.@§7    §7§oПосле 5 лет обучения, чтобы стать ассасином, Роберту исполнилось 17 лет и он стал невероятно могущественным. Учитель Чак, который обучал его, сказал ему, что его время с ним подошло к концу, и он должен идти дальше, чтобы узнать искусство лучника.
+§d§lThe Legend of Bob §d- Chapter VI: §7§oAfter 5 years of training to become an assassin, Robert was now 17 years old and incredibly powerful. The master, Chak, who had taught him, told him his time was now up with him and he would have to progress to learn Archer.@§d§lЛегенда о Бобе §d- Глава VI: §7§oПосле 5 лет обучения, чтобы стать ассасином, Роберту исполнилось 17 лет и он стал невероятно могущественным. Учитель Чак, который обучал его, сказал ему, что его время с ним подошло к концу, и он должен идти дальше, чтобы узнать искусство лучника.
 §7    §7§oChak took Robert's daggers, to which the handles began to glow bright and moulded together to form a large sheen bow, to which he strung a thick strand of his own hair.@§7    §7§oЧак взял у Робертa кинжалы - их ручки начали ярко светиться и склеились, сформировав большой блестящий лук, на который тот нанизал толстую прядь собственных волос.
 §7    §7§oChak handed it back to him, and said “even the most experienced soldier must start from scratch when learning a new mastery”. And it was true, Robert was not equipped to deal with any creature that faced him, he'd never even fired a bow!@§7    §7§oЧак вернул его ему и сказал: “даже самый опытный солдат должен начинать с нуля, изучая новое мастерство”. И это правда - Роберт не был готов иметь дело с любым существом, с которым мог столкнуться. Он никогда даже не стрелял из лука!
 §7    §7§oRobert began his journey further south; past the blizzards into a pocket of land he'd never seen on any map the bow symbol with the number “2” accompanying it.@§7    §7§oРоберт начал свое путешествие дальше на юг. Через метели в дальние земли, которых он никогда не видел, глядя на карту с отмеченным символом лука и сопровождающим его номером "2".
@@ -2696,7 +2750,7 @@
 §7    §7§oTo which Robert spent a further 5 years mastering the art of crafting and firing arrows, in any situation and learning the magic surrounding the bow.@§7    §7§oЗдесь Роберт провел еще 5 лет, осваивая искусство создания и стрельбы стрелами в любой ситуации, также изучая магию вокруг лука.
 §7§nEnd of Chapter VI.@§7§nКонец Главы VI.
 §a                             Chapter VII@§a                              Глава VII
-§7    §7§oIn this time, Robert also learnt about the areas he trained in, Mael was incredibly spiritual; the mansion in which he lived in was also house to many spirits which found Mael to heal them.@§7    §7§oВ это время Роберт также узнал о тех областях, в которых он тренировался, так как Маэл был невероятно духовным человеком. Поместье, в котором он жил, было также домом для многих духов, которые нашли Маэлa, чтобы тот исцелил их.
+§d§lThe Legend of Bob §d- Chapter VII: §7§oIn this time, Robert also learnt about the areas he trained in, Mael was incredibly spiritual; the mansion in which he lived in was also house to many spirits which found Mael to heal them.@§d§lЛегенда о Бобе §d- Глава VII: §7§oВ это время Роберт также узнал о тех областях, в которых он тренировался, так как Маэл был невероятно духовным человеком. Поместье, в котором он жил, было также домом для многих духов, которые нашли Маэлa, чтобы тот исцелил их.
 §7    §7§oRobert learnt about the other side and how many of the fallen soldiers return cursed to fight on the other side, to which Robert secretly hoped he was able to communicate with his deceased mother.@§7    §7§oРоберт узнал о другой стороне и о том, как многие из павших солдат возвращаются проклятые, чтобы сражаться за другую сторону. Поэтому Роберт тайно надеялся, что сможет пообщаться со своей покойной матерью.
 §7    §7§oHowever, Robert never expressed these desires, and Mael told him the time had come to learn some magic that involved no physical weapon that you could hit people with.@§7    §7§oТем не менее, Роберт никогда не выражал этих желаний, и Маэл сказал ему, что пришло время узнать другую магию, в которой не было физического оружия, способного поражать людей.
 §7    §7§oRobert handed over his bow, to which a familiar glow transformed it into a pure black rod, with the same purple markings around them.@§7    §7§oРоберт взял свой лук, и уже знакомое свечение превратило его в чистый черный стержень, с такими же фиолетовыми отметинами вокруг него.
@@ -2704,7 +2758,7 @@
 §7    §7§oIt was the forest he passed through when he was 12 years old to get to the desert to begin his training, he barely made it. For the first time since he began his training, Robert was filled with fear.@§7    §7§oЭто был лес, через который тот прошел, когда ему было 12 лет, чтобы добраться до пустыни и начать обучение. Впервые с тех пор, как он начал тренироваться, Роберт был напуган страхом.
 §7§nEnd of Chapter VII.@§7§nКонец Главы VII.
 §a                             Chapter VIII@§a                              Глава VIII
-§7    §7§oThe forest was full of spiders and poison, and the thought of poison always reminded him of the time he... well, never mind that. Robert set off to the forest wielding a stick that was about as much use as a hollowed out pumpkin.@§7    §7§oЛес был полон ядовитых пауков, и мысль о яде всегда напоминала ему о времени, когда он ... что ж, неважно. Роберт отправился в лес, держа палку в руке, которая была примерно такой же полезной, как выдолбленная тыква.
+§d§lThe Legend of Bob §d- Chapter VIII: §7§oThe forest was full of spiders and poison, and the thought of poison always reminded him of the time he... well, never mind that. Robert set off to the forest wielding a stick that was about as much use as a hollowed out pumpkin.@§d§lЛегенда о Бобе §d- Глава VIII: §7§oЛес был полон ядовитых пауков, и мысль о яде всегда напоминала ему о времени, когда он ... что ж, неважно. Роберт отправился в лес, держа палку в руке, которая была примерно такой же полезной, как выдолбленная тыква.
 §7    §7§oHe couldn't for the life of him make it work. Regardless, when he reached the forest, he entered a mystical village suspended in the trees lit by hanging lamps, to which the familiar sight of a man with his hand outstretched grasped the wand Robert laid in his hand.@§7    §7§oДаже под страхом смерти, он не смог заставить ее работать. Несмотря на это, достигнув леса, он вошел в мистическую деревню, подвешенную на деревьях, освещенную подвесными лампами; здесь знакомый взгляд человека с протянутой рукой схватил палочку, положенную Робертом в его руку.
 §7    §7§o“You are half way through your journey, do not let frustration warp you, let us begin the hardest of all arts.” were the first words, Ethe, the magical master had ever said to him.@§7    §7§o"Ты на полпути в своем путешествии, не позволяй мне разочароваться в тебе; да начнется самое трудное из всех искусств". Это были первые слова, которые когда-либо говорил ему волшебник Эте.
 §7    §7§oAnd it was certainly true, wand lore had not come so easily to him as knavery or archery had.@§7    §7§oИ это оказалось правдой. Знания о палочке не дались ему так же легко, как например плутовство или стрельба из лука.
@@ -2712,7 +2766,7 @@
 §7    §7§oEthe told Robert it was time to move on, and transformed his wand into its final form, a giant black spear, even his mature eyes gleamed at the sight of it, the spear was the weapon of Troms, the greatest fort man had ever created.@§7    §7§oЭте сказал Роберту, что пришло время двигаться дальше, и превратил его палочку в ее окончательную форму - гигантское черное копье. Даже его зрелые глаза засверкали при виде него. Копье было оружием Тромсa - самого великого форта, когда-либо созданного.
 §7§nEnd of Chapter VIII.@§7§nКонец Главы VIII.
 §a                              Chapter IX@§a                              Глава IX
-§7    §7§oThe map indicated that he must travel to Troms, where the last spear symbol and the number “4” were written. Upon arrival, Robert was surprised; the city had been hit – hard.@§7    §7§oКарта указала, что он должен отправиться в Тромс, где был нарисован последний символ копья и номер "4". По прибытии, Роберт был удивлен - город сильно пострадал.
+§d§lThe Legend of Bob §d- Chapter IX: §7§oThe map indicated that he must travel to Troms, where the last spear symbol and the number “4” were written. Upon arrival, Robert was surprised; the city had been hit – hard.@§d§lЛегенда о Бобе §d- Глава IX: §7§oКарта указала, что он должен отправиться в Тромс, где был нарисован последний символ копья и номер "4". По прибытии, Роберт был удивлен - город сильно пострадал.
 §7    §7§oHe'd never heard of Troms so much as receiving a scratch from the creatures, it was so well guarded, but then again, Robert had been absent from civilization for 15 years.@§7    §7§oОн слышал о Тромсe меньше, чем получал царапин от существ. Это место было так хорошо охраняемо, но опять же, Роберт отсутствовал в цивилизации в течение 15 лет.
 §7    §7§oIn the fires, a man stood with his hand out stretched, completely ignoring the pleads of the people around him begging for help, to which Robert placed his spear.@§7    §7§oРядом с пожаром стоял мужчина, вытянув руку, полностью игнорируя прихоти о помощи людей вокруг него, на эту руку Роберт и положил свое копье.
 §7    §7§oThe man said “This is the final leg of your journey, let the plights of this town that you see here today force you onward with your training, and help protect this land when you are done. My name is Fier, Let us end your training.”@§7    §7§oЧеловек сказал: "Это конечная часть твоего путешествия, пусть страдания этого города, которые ты видишь здесь сегодня, принуждают тебя к обучению и помогают защищать эту землю, когда ты закончишь. Меня зовут Фиер, давай закончим твое обучение"
@@ -2720,21 +2774,21 @@
 §7    §7§oIt was the first time he was with people, and by people, I mean people that aren't strict masters of their art that seem to solely exist to teach Robert the ways of the soldier.@§7    §7§oЭто был первый раз, когда он был с людьми, и под людьми, я имею в виду людей, которые не являются строгими мастерами своего искусства, и которые, не пытаются обучить Робертa путям солдата.
 §7§nEnd of Chapter IX.@§7§nКонец Главы IX.
 §a                              Chapter X@§a                              Глава X
-§7    §7§oRobert learnt to love the people he was around, and people called him Bob, rather than Robert, a girl told him “I don't know, I think you just sound better when you're called Bob.”@§7    §7§oРоберт научился любить людей, которые его окружали, и люди стали называть его Боб, а не Роберт. Девушка сказала ему: "Я не знаю, думаю, так лучше звучит, когда тебя зовут Боб".
+§d§lThe Legend of Bob §d- Chapter X: §7§oRobert learnt to love the people he was around, and people called him Bob, rather than Robert, a girl told him “I don't know, I think you just sound better when you're called Bob.”@§d§lЛегенда о Бобе §d- Глава X: §7§oРоберт научился любить людей, которые его окружали, и люди стали называть его Боб, а не Роберт. Девушка сказала ему: "Я не знаю, думаю, так лучше звучит, когда тебя зовут Боб".
 §7    §7§oRobert liked it, and when he met new people, he introduced himself as thus.@§7    §7§oРоберту это понравилось, и когда он встречал новых людей, он представлялся таким образом.
 §7    §7§oFier's training after 5 long years had finally come to an end, to which he said this: “You are now the strongest soldier this province has ever seen, use your power wisely, and you shall end this war.”@§7    §7§oОбучение Фиерa после 5 долгих лет, наконец, подошло к концу, на что он сказал следующее: "Ты теперь самый сильный солдат, которого когда-либо видела эта провинция, разумно используй свою силу, и ты закончишь эту войну".
 §7    §7§oThen, to his surprise, all the masters materialised in a line beside Fier, and smiled, Mael even nodding slowly at him, to which a voice behind him said “Why are you crying Bob? There's no one there...”@§7    §7§oЗатем, к его удивлению, все мастера материализовались на линии рядом с Фиером и улыбнулись, Маэл даже медленно кивнул ему, а голос за ним сказал: "Почему ты плачешь Боб? Там никого нет..."
 §7    §7§oThe 4 masters vanished and Bob knew what he must now do, return to Ragni to save what little is left of it.@§7    §7§o4 мастера исчезли, и Боб знал, что он должен теперь сделать - вернуться в Рагни, чтобы сохранить то, что осталось от него.
 §7§nEnd of Chapter X.@§7§nКонец Главы X.
 §a                              Chapter XI@§a                              Глава XI
-§7    §7§oBob then spent the remainder of his life serving as Wynns private demigod, destroying all creatures that ever came near a settlement under his protection.@§7    §7§oЗатем Боб провел остаток своей жизни, служа в качестве частного полубога Винн, уничтожая всех существ, которые когда-либо приближались к поселениям под его защитой.
+§d§lThe Legend of Bob §d- Chapter XI: §7§oBob then spent the remainder of his life serving as Wynns private demigod, destroying all creatures that ever came near a settlement under his protection.@§d§lЛегенда о Бобе §d- Глава XI: §7§oЗатем Боб провел остаток своей жизни, служа в качестве частного полубога Винн, уничтожая всех существ, которые когда-либо приближались к поселениям под его защитой.
 §7    §7§oHe did not pass on his skills, in fear they would not be used for the greater good, which troubled him. For if he were to pass, who would replace him?@§7    §7§oОн не передавал свои навыки, опасаясь, что они не будут использованы для большего блага, и это беспокоило его. Ибо, если он должен будет уйти, кто заменит его?
 §7    §7§oCertainly not his 3 companions, the animals which he loved dearly, perhaps he would brew them a potion, prolonging their life; they were good animals after all.@§7    §7§oКонечно, не его 3 животных компаньона, которых он очень любил. Возможно, он бы хотел сварить им зелье, продлевающее жизнь - они были хорошими животными, в конце концов.
 §7    §7§oBob's story quickly became a huge beacon of hope for many fighting the war; no one could defeat Bob and his dark weapons.@§7    §7§oИстория Бобa быстро стала огромным маяком надежды для многих сражающихся на войне; никто не мог победить Бобa и его темные оружия.
 §7    §7§oHowever, this is where the story becomes myth, I'm afraid. After over a century of fighting, Bob vanished in the year 984 AP (After Portal).@§7    §7§oОднако, боюсь именно здесь история становится мифом. После более чем столетней борьбы Боб исчез в 984 году ПП (после портала).
 §7§nEnd of Chapter XI.@§7§nКонец Главы XI.
 §a                             Chapter XII@§a                              Глава XII
-§7    §7§oIt was rumoured he heard of a beast corrupting the province, promoting the war and increasing the strength of the monsters.@§7    §7§oХодили слухи, что он услышал о звере, заражающим провинцию, поддерживающим войну и увеличивающим силу монстров.
+§d§lThe Legend of Bob §d- Chapter XII: §7§oIt was rumoured he heard of a beast corrupting the province, promoting the war and increasing the strength of the monsters.@§d§lЛегенда о Бобе §d- Глава XII: §7§oХодили слухи, что он услышал о звере, заражающим провинцию, поддерживающим войну и увеличивающим силу монстров.
 §7    §7§oI imagine Bob probably sought to destroy it, but in his old age, perhaps he wasn't up to the mark.@§7    §7§oПредполагаю, что Боб пытался уничтожить его, но в старости, вероятно он не был в своей лучшей форме.
 §7    §7§oIt was then, though, just one year after his disappearance, Bobs tomb appeared in the snow, marking the place where he was buried.@§7    §7§oТогда же, спустя всего год после его исчезновения, в снегу появилась гробница Бобa, обозначающая место, где тот был похоронен.
 §7    §7§oBy whom? No one knows. Perhaps it was the killer? Or maybe it was his master's magic? It still lies there today, holding his body, it is worth a visit, many have told of great adventures and magic surrounding the place.@§7    §7§oКто ее сделал? Никто не знает. Возможно, это был убийца? Или, может быть, учителя магии? Его тело все еще лежит там сегодня; стоит посетить его, ведь многие рассказывали о великих приключениях и волшебстве, окружающих это место.
@@ -2911,6 +2965,25 @@
 §7End of Chapter X.@§7Конец Главы X.
 §7End of Chapter XI.@§7Конец Главы XI.
 §7§lThe End.@§7§lКонец.
+§d                           §d§lThe Gerten War@§d                           §d§lВойна Гертов
+§7    §7§oAnd thus, loads of decaying carcasses were dropped on the gerts, which would be consumed within hours. A month long stalemate followed with little to none gerten activity seen anywhere.@§7    §7§oИ, таким образом, на гертjd были сброшены грузы разлагающихся туш, которые будут съедены в течение нескольких часов. На месяц произошла тупиковая ситуация, в которой практически нигде не было видно активности Гертов.
+§7    §7§oDuring this time Norler had started plotting another plan - the containment of gerts. Their kind could never be eradicated, so a way to keep them from causing any more problems had to be found.@§7    §7§oЗа это время Норлер начал разрабатывать другой план - сдерживание гертов. Их вид никогда не мог быть уничтожен, поэтому нужно было найти способ, чтобы они не создавали больше проблем.
+§7    §7§oThe idea was simple - lead one last push against them, forcing the savages to retreat into the northern hills where they would be kept and watched over by a dedicated group of soldiers.@§7    §7§oИдея была проста - нанести им последний удар, вынудив дикарей отступить в северные холмы, где их будут наблюдать и охранять специальная группа солдат.
+§7    §7§oThat is exactly what they did a month later. The disease stricken gerts were unable to hold back Norler and his forces and were forced to flee. This spelled the end of the Gerten War.@§7    §7§oИменно это они и сделали месяц спустя. Пораженные болезнью герты не смогли сдержать Норлера и его войска и были вынуждены бежать. Это означало конец войны с гертами.
+§7    §7§oNorler and his followers established an outpost not far from the new gerten teritories and named themselves 'Gylia Watch'. They vowed to be a vigilant eye preventing another conflict with the gerts from occouring.@§7    §7§oНорлер и его последователи основали аванпост недалеко от новых территорий гертов и назвали себя "Стража Гилия". Они поклялись быть бдительными, чтобы предотвратить еще один конфликт с гертами.
+§7    §7§oEver since that day the gerts have caused no troubles to anyone, living in their newly created camp, where they are taught the civilized ways of life.@§7    §7§oС тех пор герты никому не причиняли беспокойства, живя в своем недавно созданном лагере, где их учат цивилизованному образу жизни.
+§7    §7§oMore than two centuries ago, the vast Gylia Plains were a lush haven for villagers and animals alike, even having species seen nowhere else in Gavel.@§7    §7§oБолее двух столетий назад обширные равнины Гилии были роскошным убежищем как для жителей, так и для животных, даже для видов, которых больше нигде не видели в Гавеле.
+§7    §7§oOne of said species were the enigmatic gerts, an orc-like species located extremely far from the rest of their kin. Though they were quite the aggressive type, we managed to live in harmony.@§7    §7§oОдним из этих видов были загадочные герты - похожий на орков вид, находящиеся чрезвычайно далеко от остальных своих сородичей. Хотя они были довольно агрессивного типа, нам удавалось жить в гармонии.
+§7    §7§oThat is, until their already insatiable hunger became even more prevelant. Before they only hunted around their territory, but eventually they started stealing our own livestock.@§7    §7§oТо есть до тех пор, пока их и без того ненасытный голод не стал еще более преобладающим. Раньше они охотились только на своей территории, но в конце концов начали воровать наш собственный скот.
+§7    §7§oIt wasn't long before they started attacking and kidnapping helpless villagers. These savages had to be stopped immediately, there was no question about it.@§7    §7§oЭто было незадолго до того, как они начали нападать и похищать беспомощных жителей. Этих дикарей нужно было немедленно остановить, в этом не было никаких сомнений.
+§7    §7§oA letter was sent to Cinfras from Lexdale describing the situation and requesting military backup. A week later a small troop of 20 soldiers arrived at our gates, along with a reply from Cinfras.@§7    §7§oИз Лексдейла в Цинфрас было отправлено письмо с описанием ситуации и просьбой о военной поддержке. Неделю спустя небольшой отряд из 20 солдат прибыл к нашим воротам вместе с ответом от Цинфраса.
+§7    §7§o'We send you these 20 fine men to bolster your own forces until the threat passes. Containing these primitive savages is no concern of the military.' is what it read.@§7    §7§o"Мы посылаем вам этих 20 прекрасных людей, чтобы поддержать ваши собственные силы, пока угроза не минует. Содержание этих примитивных дикарей не является заботой военных" - вот что там было написано.
+§7    §7§oEventually a local militia rose up, made up of local farmers and city guards sick of losing their homes in this war due to the incompetency of the military. This group was lead by a man called Norler.@§7    §7§oВ конце концов поднялось местное ополчение, состоящее из местных фермеров и городской стражи, которым надоело терять свои дома в этой войне из-за некомпетентности военных. Эту группу возглавлял человек по имени Норлер.
+§7    §7§oNorler could see something nobody else did. The military in their war against the savages utilized military strategies proven to be effective against other intelligent races, while the gerts were using no strategy at all.@§7    §7§oНорлер видел то, чего не видел никто другой. Военные в своей войне против дикарей использовали военные стратегии, доказавшие свою эффективность против других разумных рас, в то время как герты вообще не использовали никакой стратегии.
+§7    §7§oThey were lead by pure instinct. Food and reproduction are the only two things they care about. This could be used against them to tip the scales of the war.@§7    §7§oИх вел чистый инстинкт. Еда и размножение - единственные две вещи, которые их волнуют. Это может быть использовано против них, чтобы склонить чашу весов войны.
+§7    §7§oThere was no knowledge on the gerts, for inflitration was impossible. There was no way of knowing how soon an attack could come and how devastating it would be, so Norler had to act fast and smart.@§7    §7§oО гертах не было никаких сведений, поскольку проникновение было невозможно. Не было никакого способа узнать, как скоро может произойти нападение и насколько разрушительным оно будет, поэтому Норлеру пришлось действовать быстро и умно.
+§7    §7§oA plan was concieved which involved using airships to deploy rotten meat all across the gerten territories. The savages will eat anything that resembles a dead animal, so this would likely cause disease to spread across their ranks.@§7    §7§oБыл разработан план, который предусматривал использование дирижаблей для разрасывания гнилого мяса по всей территории гертов. Дикари едят все, что напоминает мертвое животное, так что это, скорее всего, приведет к распространению болезни по их рядам.
+§7    §7§oWhile the Cinfras soldiers were busy with pointless skirmishes, Norler organized the execution of his plan with the local Lexdale government, which was approved purely out of desperation.@§7    §7§oПока солдаты Цинфраса были заняты бессмысленными стычками, Норлер организовал выполнение своего плана с местным правительством Лексдейла, которое было одобрено исключительно от отчаяния.
 
 #########################################MERCHANTS############################################
 §5Key Collector: §dYou have access to the dungeon... This time only.@§5Сборщик Ключей: §dТы можешь войти в данж... Но только в этот раз.
@@ -2926,7 +2999,7 @@
 §5Blacksmith: §dYou need more scrap to repair that!@§5Кузнец: §dТебе нужно больше скрапа, чтобы починить это!
 §5Item Identifier: §dAdd items to identify first!@§5Идентификатор Предметов: §dСначала добавь предметы для идентификации!
 §5Item Identifier: §dI can only identify 8 items at a time.@§5Идентификатор Предметов: §dЯ могу идентифицировать только 8 предметов за раз.
-§5Blacksmith: §dI can't buy that item! I only accept weapons, accessories, potions, armour, ingredients, resources, and crafted items.@§5Кузнец: §dЯ не могу купить этот предмет! Я принимаю только оружие, аксессуары, зелья, броню, ингредиенты, ресурсы и крафтовые предметы.
+§5Blacksmith: §dI can't buy that item! I only accept weapons, accessories, potions, armour, ingredients, resources, tomes, tools and crafted items.@§5Кузнец: §dЯ не могу купить этот предмет! Я принимаю только оружие, аксессуары, зелья, броню, ингредиенты, ресурсы, тома, инструменты и крафтовые предметы.
 §5Key Collector: §dYou are free to enter the dungeon for the duration of the dungeon bomb. §3[Purchase your own at §bwynncraft.com/store§3]@§5Сборщик Ключей: §dТы можешь бесплатно войти в данж во время действия данж бомбы. §3[Купи свою на §bwynncraft.com/store§3]
 §5Item Identifier: §dThere was no space in your inventory. I dropped your items on the ground.@§5Идентификатор Предметов: §dВ твоем инвентаре не было места. Я выбросил предметы на землю.
 §5Guild Master: §dCome back when you're combat level 75@§5Мастер Гильдий: §dВозвращайся когда достигнешь 75 комбат уровня
@@ -2951,6 +3024,15 @@
 §5Raid Keeper: §dThe party's leader must have §7[2 Az Rune] §dto start this raid!@§5Хранитель Рейда: §dЛидер пати должен иметь §7[2 Аз Руны] §dдля старта этого рейда!
 §5Raid Keeper: §dAnother party is already in the raid! Wait a few minutes or switch worlds.@§5Хранитель Рейда: §dДругая пати уже проходит этот рейд! Подождите пару минут или смените мир.
 §5Raid Keeper: §dThe party's leader must have §7[3 Uth Rune] §dto start this raid!@§5Хранитель Рейда: §dЛидер пати должен иметь §7[3 Утх Руны] §dдля старта этого рейда!
+§5Raid Keeper: §dThe party has already started this raid!@§5Хранитель Рейда: §dПати уже начала это рейд!
+§5Raid Keeper: §dYou must be in a party of 3 to 4 people to start this raid!@§5Хранитель Рейда: §dТы должен быть в пати от 3 до 4 игроков для старта рейда!
+§5Housing Master: §dType in chat the player name you want to allow to build on your island (or cancel):@§5Мастер Дома: §dНапиши в чат ник игрока чтобы он мог строить на твоем острове (или cancel):
+§5Raid Keeper: §dAll players in the party must be at least Level 54 §dto start this raid!@§5Хранитель Рейда: §dВсе игроки в пати должны быть не ниже 54 Уровня для старта рейда!
+§5Raid Keeper: §dThe party's total level must be lower than 500 to start this raid!@§5Хранитель Рейда: §dОбщий уровень пати должен быть ниже 500 для старта этого рейда!
+§5Raid Keeper: §dYou must be in a party of 4 to 6 people to start this raid!@§5Хранитель Рейда: §dТы должен быть в пати от 4 до 6 игроков для старта этого рейда!
+§5Party Finder:§d Type in chat the name filter you want to use (or cancel):@§5Искатель Пати:§d Напиши в чат название фильтра который ты хочешь использовать (или cancel):
+§5Party Finder:§d Type in chat the description you want to use for your party (max 140 characters or cancel):@§5Искатель Пати:§d Напиши в чат описание которое ты хочешь использовать для пати (максимум 140 символов или cancel):
+§5Party Finder:§d The leader removed your party from the public list.@§5Искатель Пати:§dЛидер убрал вашу пати из публичного списка.
 
 ###########################################OBJECTIVES#################################################
 §c                               Loot Chests@§c                            Нахождение сундуков
@@ -3008,6 +3090,13 @@
 §a - §7Rodoroc@§a - §7Родорок
 §a - §7Ahmsord@§a - §7Амсорд
 §cYou need to complete §4The Hidden City §cto unlock this destination.@§cТебе нужно пройти квест §4The Hidden City §cдля разблокировки этого направления.
+§7You begin to pet Orphion...@§7Ты начал гладить Орфиона...
+§7Orphion pats you on the head lightly in return. Feels like stardust and downy fluff.@§7Орфион в ответ легонько гладит тебя по голове. Похоже на звездную пыль и пушистый пух.
+§7Orphion quietly huffs.@§7Орфион тихо фыркает.
+§7Orphion has warped you out of the room. Seems like he had enough.@§7Орфион телепортировал тебя из комнаты. Похоже, с него было достаточно.
+§cYou must be inside a §4Corrupted Dungeon§c to use this item!@§cТы должен быть внутри §4Испорченного Данжа§c для использования этого предмета!
+§4You've already linked your Minecraft account to the forums! For good measure, we just synced your rank too!@§4Ты уже связал свою учетную запись майнкрафта с форумом! Мы также синхронизировали и твой ранг!
+> Click here to view your forum account!@> Нажми сюда для просмотра своего форум аккаунта!
 
 #############################################SPELLS################################################
 §a- §7Spell Usage: §fRight-Right-Right@§a- §7Использование заклинания: §fПравая-Правая-Правая
@@ -3129,8 +3218,8 @@
 §a+ Spell Upgrade §2[Soar I -> II]@§a+ Апгрейд Заклинания §2[Взлет I -> II]
 §a+ Spell Upgrade §2[Soar II -> III]@§a+ Апгрейд Заклинания §2[Взлет II -> III]
 §a+ New Spell §2[Wind Surge]@§a+ Новое Заклинание §2[Воронка Бури]
-§a+ Spell Upgrade §2[Sky Emblem I -> II]@§a+ Апгрейд Заклинания §2[Небесная Эмблема I -> II]
-§a+ Spell Upgrade §2[Sky Emblem II -> III]@§a+ Апгрейд Заклинания §2[Небесная Эмблема II -> III]
+§a+ Spell Upgrade §2[Wind Surge I -> II]@§a+ Апгрейд Заклинания §2[Воронка Бури I -> II]
+§a+ Spell Upgrade §2[Wind Surge II -> III]@§a+ Апгрейд Заклинания §2[Воронка Бури II -> III]
 §a+ New Spell §2[Haul]@§a+ Новое Заклинание §2[Рывок]
 §a+ Spell Upgrade §2[Haul I -> II]@§a+ Апгрейд Заклинания §2[Рывок I -> II]
 §a+ Spell Upgrade §2[Haul II -> III]@§a+ Апгрейд Заклинания §2[Рывок II -> III]
@@ -3189,6 +3278,7 @@
 §cSelect a class! Each class is saved individually across all servers, you can come back at any time with /class and select another class!@§cВыбери класс! Каждый класс сохраняется индивидуально на всех серверах, ты можешь в любой момент набрать /class и выбрать другой!
 §4Invalid command... Type /help for a list of commands@§4Неизвестная команда... Напиши /help для списка команд
 §72 soul points have been lost...@§72 очка душ было утеряно...
+§42 soul point have been lost...@§42 очка душ было утеряно...
 §4You will need this item in later quests!@§4Этот предмет понадобится тебе в будущих квестах!
 §6      Manage your friends@§6Управление друзьями 
 §6      Manage your ignored players@§6Управление игнорируемыми игроками 
@@ -3221,6 +3311,7 @@
 §eYou have broken weapons that can be repaired! Visit the Weaponsmith to repair them.@§eУ тебя есть сломанные оружия, которые можно починить! Посети Кузнеца для их починки.
 §41 soul point has been lost...@§41 очко душ было потрачено...
 §4You can skip the tutorial by typing: §c/skiptutorial§4. You will not receive resources, tools, or a crafted item by doing this.@§4Ты можешь пропустить туториал командой §c/skiptutorial§4. Ты не получишь ресурсы, инструменты, или крафтовые предметы, сделав это.
+§4You may skip the tutorial using §c/skiptutorial§4. You will not receive resources, tools, or crafted items by skipping.@§4Ты можешь пропустить туториал командой §c/skiptutorial§4. Ты не получишь ресурсы, инструменты или крафтовые предметы, сделав это.
 §cYou cannot drop locked items! Use /itemlock while holding the item again to unlock it.@§cТы не можешь выбросить заблокированные предметы! Используй /itemlock, держа предмет в руке, чтобы разблокировать его.
 §6Your horse has become stronger!@§6Твоя лошадь стала сильнее!
 §7[+1 Speed]@§7[+1 к Скорости]
@@ -3294,6 +3385,7 @@
 §4You need to get off your horse to gather from this resource!@§4Тебе нужно убрать свою лошадь, чтобы собрать этот ресурс!
 §4You must add 4 powders to upgrade!@§4Ты должен добавить 4 порошка для апгрейда!
 §4You logged out during a boss fight. Your character has been teleported back to the dungeon entrance!@§4Ты вышел во время битвы с боссом. Твой персонаж был телепортирован обратно ко входу в данж!
+§cYou logged out during a boss fight, so you were brought back.@§cТы вышел во время битвы с боссом, поэтому тебя вернули назад.
 §dI can't reveal that item name! I only accept unidentified weapons, accessories and armour.@§dЯ не могу раскрыть название этого предмета! Я принимаю только неидентифицированные оружия, аксессуары и броню.
 §cYou are not allowed to sell that item on the market!@§cТы не можешь продавать этот предмет на маркете!
 §cYou cannot buy your own item!@§cТы не можешь купить свой предмет!
@@ -3529,6 +3621,7 @@ You are not whitelisted on this server!@Тебя нет в вайтлисте э
 §6You've dropped:@§6С тебя выпало:
 §4You need to be in a town to toggle hunted.@§4Тебе нужно быть в городе для переключения режима охотника.
 §cYou logged out during a cutscene, so you were brought back.@§cТы вышел во время кат-сцены, так что тебя отправили обратно.
+§cYou logged out during a cutscene, so you've been brought back.@§cТы вышел во время кат-сцены, так что тебя отправили обратно.
 §cYou are in combat - do not logout or you will face a penalty.@§cТы находишься в бою - не выходи, или тебе грозит штраф.
 §aYou are not in combat - you may now logout without a penalty.@§aТы не в бою - ты можешь выйти без штрафа.
 §2You can no longer hear the 'woosh' attack sound in game!@§2Ты больше не слышишь 'woosh' звук атаки в игре!
@@ -3725,6 +3818,44 @@ We are §arestarting§f, please join back in a moment!@Мы §aперезагр�
 §eYou must be in a party to promote.@§eТы должен быть в пати для повышения.
 §cAll your tomes slots of the provided tome are fullfiled.@§cВсе твои слоты томов заполнены полностью.
 §4You must identify this item before using it.@§4Ты должен идентифицировать этот предмет перед использованием.
+                       §7Press §fSHIFT §7to continue@                       §7Нажми §fШИФТ §7для продолжения
+                       §4Press §cSHIFT §4to continue@                       §4Нажми §cШИФТ §4для продолжения
+                       §4Press §cSNEAK §4to continue@                       §cПРИСЯДЬ §4для продолжения
+                       §7Press §fSNEAK §7to continue@                       §fПРИСЯДЬ §7для продолжения
+§cThis item is already in use!@§cЭтот предмет уже используется!
+§aYou have switched your current build.@§aТы поменял свой текущий билд.
+§4The bank is not available while in housing edit mode. Type /housing edit to exit housing edit mode.@§4Банк недоступен в режиме редактирования. Напиши /housing edit для выхода из режима.
+§cUntradable Item returned.@§cНепродаваемый Предмет возвращен.
+§4You do not have permission to use the block merchant.@§4У тебя нет разрешения на использование торговца блоками.
+§7Please enter a new merchant booth description you'd like to set.@§7Пожалуйста введи новое описание торговой палатки, которое ты хочешь установить.
+§aYour merchant booth description has been updated.@§aТвое описание торговой палатки обновлено.
+§2You have claimed this merchant booth for §a24h.@§2Ты забронировал эту торговую палатку на §a24ч
+§7+ Repair Items II@§7+ Починка Предметов II
+§4The house owner world is currently full, try again later.@§4Мир владельца дома в настоящее время заполнен, попробуй еще раз позже.
+§eThat player is not in your party and cannot be promoted!@§eЭтот игрок не в твоей пати и не может быть повышен!
+§7+ Ability to Pet (Right-Click) I@§7+ Возможность погладить (Правый Клик) I
+§4You cannot use this command while in a raid!@§4Ты не можешь использовать эту команду в рейде!
+§7+ Deposit to Bank I@§7+ Отправка в Банк I
+§2You will now see player outlines again!@§2Теперь ты снова видишь очертания игроков!
+§2You will no longer see player outlines!@§2Ты больше не будешь видеть очертания игроков!
+§7+ Sell Items I@§7Продажа Предметов I
+§7+ Scrap Items I@§7Утилизация Предметов I
+§cAll your tomes slots of the provided tome are already being used.@§cВсе слоты твоих томов предоставленного тома уже используются.
+§7+ Deposit to Bank II@§7+ Отправка в Банк II
+§7+ Sell Items II@§7Продажа Предметов II
+§4You do not have permission to use this build stand.@§4У тебя нет разрешения на использование этого билд стенда.
+§4You can not sell an item that you are also buying.@§4Ты не можешь продать предмет который ты покупаешь.
+§7+ Scrap Items II@§7Утилизация Предметов II
+§7Your quest items have been returned.@§7Твои квестовые предметы были возвращены.
+§4You don't have the §5HERO§4 rank. Get a rank or upgrade at §cwynncraft.com/store@§4У тебя нет §5HERO§4 ранга. Получи ранг или апгрейд на §cwynncraft.com/store
+§4You cannot add yourself as a friend!@§4Ты не можешь добавить себя в друзья!
+§7You already have this item in your inventory.@§7Этот предмет у тебя уже есть в инвентаре.
+§3This bomb can not be thrown at this time, there's already an active Combat XP bomb@§3Эта бомба не может быть брошена в данный момент, так как уже есть активная Комбат XP бомба 
+§3[Parkour] §bYou cannot start the parkour while flying!@§3[Паркур] §bТы не можешь начать паркур в полете!
+§2Your pouch will no longer automatically pickup ingredients.@§2Твой мешок больше не подбирает ингредиенты автоматически.
+§2Your pouch will now automatically pickup ingredients.@§2Твой мешок снова подбирает ингредиенты автоматически.
+§4You may not remove this NPC from your house!@§4Ты не можешь убрать этого НПС из своего дома!
+§4The Trade Market is not available at the moment, try again later.@§4Трейд Маркет недоступен в данный момент, попробуй позже.
 
 ###################################SECRET DISCOVERIES#######################################
                             §bNecklace Chamber@ 
@@ -3843,3 +3974,68 @@ We are §arestarting§f, please join back in a moment!@Мы §aперезагр�
 §eYou were kicked by the House Owner.@§eТы был кикнут Вадельцем Дома.
 §4You cannot trade with a player on housing edit mode!@§4Ты не можешь торговать с игроком в режиме редактирования дома!
 §cThe provided player is not online on the Wynncraft Network!@§cДанный игрок не онлайн в сети Wynncraft!
+§cYou can't interact with this NPC right now!@§cТы не можешь взаимодействовать с этим НПС сейчас!
+
+######################################\n##################################################
+                       §6§lWelcome to Wynncraft!@                    §6§lДобро пожаловать на Wynncraft!
+               §fplay.wynncraft.com §7-\/-§f wynncraft.com@ 
+             §bLearn more about the game on our wiki: @                        §bУзнай больше об игре на вики: 
+                           §d§nwynncraft.com/help@ 
+         §bLearn more about classes and their abilities: @             §bУзнай больше о классах и их способностях: 
+                          §d§nwynncraft.com/class@ 
+             §bLookup your stats: §d§nwynncraft.com/stats@             §bСмотри свою статистику: §d§nwynncraft.com/stats
+         §bFind the latest memes: §d§nreddit.com/r/wynncraft@          §bСмотри последние мемы: §d§nreddit.com/r/wynncraft 
+  §bWatch the hottest trailers: §d§nyoutube.com/WynncraftOfficial@  §bСмотри последние трейлеры: §d§nyoutube.com/WynncraftOfficial 
+       §bFollow us and stay updated: §d§ntwitter.com/Wynncraft@             §bСледи за нами и будь в курсе: §d§ntwitter.com/Wynncraft
+      §bClaim your FREE Monthly Crate: §d§nwynncraft.com/store@         §bЗабери свой БЕСПЛАТНЫЙ ежемесячный контейнер: §d§nwynncraft.com/store
+§f                   §c§lTIP: §7Login everyday for your @                    §c§lПОДСКАЗКА: §7Заходи каждый день для 
+§f                  §fdaily rewards§7 and §fdaily objective!@                  §fежедневной награды§7 и §fежедневных целей!
+                   §c§lTIP: §7Login everyday for your @                    §c§lПОДСКАЗКА: §7Заходи каждый день для 
+                  §fdaily rewards§7 and §fdaily objective!@                  §fежедневной награды§7 и §fежедневных целей!
+    §bYour continous support is what keeps Wynncraft alive:@       §bВаша постоянная поддержка поддерживает Wynncraft:
+    §d§nwynncraft.com/store§7 For ranks, crates, bombs & pets!@   §d§nwynncraft.com/store§r     §7Для рангов, контейнеров, бомб и питомцев!
+                 §bSee yourself live on the web map: @                §bНаблюдай за собой вживую на онлайн карте: 
+                           §d§nmap.wynncraft.com@ 
+                §c§lTIP: §7Type §f/kill§7 if stuck inside blocks@                §c§lПОДСКАЗКА: §7Напиши §f/kill§7 если застрял в блоках
+                    §bWatch Wynncraft streamers:@                      §bСмотри Wynncraft стримеров:
+                §d§ntwitch.tv/directory/game/Wynncraft@ 
+        §bFind and join Guilds: §d§nforums.wynncraft.com/guilds@     §bНаходи и вступай в Гильдии: §d§nforums.wynncraft.com/guilds 
+           §c§lTIP: §7Type §f/stream§7 to enable streamer mode@    §c§lПОДСКАЗКА: §7Напиши §f/stream§7 для включения режима стримера
+            §bClaim your FREE Pet: §d§nwynncraft.com/store@   §bЗабери БЕСПЛАТНОГО питомца: §d§nwynncraft.com/store 
+                   §bLink your Discord account for@                 §bПривяжи свой Дискорд аккаунт и получи
+         §d§l24h of FREE Double XP: §b§ndiscord.gg/yJkSQwp@   §d§l24часа БЕСПЛАТНЫХ удвоенных XP: §b§ndiscord.gg/yJkSQwp
+          §bLink your Forum account to get a permanent@    §bПривяжи свой Форум аккаунт и получи постоянный
+             §d§lwhite username: §b§nforums.wynncraft.com@       §d§lбелый ник: §b§nforums.wynncraft.com
+§4You have died...@4Ты умер...
+§4§lDeath claims your soul.@§4§lСмерть забрала твою душу.
+§7This book's title reads...@§7Название этой книги гласит...
+    §aOne Second Is Enough To Die For§2§o@     §aОдной Секунды Достаточно, Чтобы Умереть
+	by Liza Seglend@     §2§oавтор Liza Seglend
+    §aStrategical Placement Of The Undead§2§o@    §aСтратегическое Размещение Нежити
+	by Fiscarn Lixmaoul@      §2§oавтор Fiscarn Lixmaoul
+    §aTotal War: Armageddon§2§o@   §aТотальная Война: Армагеддон 
+	by Dullahan@     §2§oавтор Дуллахан
+    §aA Conjurer's Creations§2§o@     §aТворения Фокусника
+    §aAmbitions For World Domination§2§o@    §aАмбиции На Мировое Господство 
+	by Amadel@    §2§oавтор Амадел
+    §aDeath: Portrayals in Global Cultures§2§o@    §aСмерть: Изображения В Мировых Культурах  
+    §aThe Disconnected World§2§o@    §aОтключенный Мир
+	by Nardoj Thearendu@     §2§oавтор Nardoj Thearendu
+    §aAm I Dead? Coping With Your Newfound Unlife§2§o@    §aЯ Мертв? Справляюсь Со Своей Новообретенной Нежизнью
+	by Death@     §2§oавтор Смерть
+    §aCommunist Books§2§o@    §aКоммунистические Книги
+	Anonymous@     §2§oАнонимус
+    §aSacrificial Pacts For Dummies§2§o@     §aЗагробные Договора Для Чайников
+	by Cihr Nettann@     §2§oавтор Cihr Nettann
+    §aTimelapse Kingdom§2§o@    §aТаймлапс Королевство
+	by Nielad Serolfend@    §2§oавтор Nielad Serolfend
+    §aLast Aid For Beginners: What To Do With @    §aПоследняя Помощь Для Начинающих: Что Делать 
+    Friends Coming Back To Life§2§o@    С Друзьями, Возвращающимися К Жизни
+§4[ §c§lWynntron §4| §8Version: §8§n9001.14§4 ] §7@§4[ §c§lВиннтрон §4| §8Версия: §8§n9001.14§4 ] 
+Resetting systems §8<*> §7Loading "§7§oUnbeatable AI§7" preset... @§7Сброс систем §8<*> §7Загрузка "§7§oНепобедимый ИИ§7" пресета...
+§4[ §c§lWynntron §4| §8Version: §8§n9001.14§4 ] §7@§4[ §c§lВиннтрон §4| §8Версия: §8§n9001.14§4 ]
+Process is over §8<*>§7 "§7§oUnbeatable AI§7" won.@§7Процесс завершен §8<*>§7 "§7§oНепобедимый ИИ§7" выиграл.
+§4[ §c§lWynntron §4| §8Ver§8§ksio§8n: §8§n9ERrOR.4§4 ] §7@§4[ §c§lВиннтрон §4| §8Вер§8§ksi§8я: §8§n0LIIИБI<А.4§4 ]
+Error E§7§kro§7r 3Rr0§7§kr§8 <*>§7"§7§o§mUn§7§o§kbeat§7§oable AI§7" ER§7§kLOL Lotem@§7Ошибка О§7§kshiб§7ка 30LIIИ§7§kBKa§8 <*>§7"§7§o§mНе§7§o§kpobe§7§oдимый ИИ§7" 0LII§7§kLOL Lotem
+§6To open the final door, you must prove you are a true master of time.@§6Чтобы открыть финальную дверь, ты должен доказать, что являешься настоящим мастером времени.
+Prove you have visted every hour on the clock. @§6Посети каждый час на часах.

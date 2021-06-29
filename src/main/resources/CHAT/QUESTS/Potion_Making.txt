@@ -21,3 +21,4 @@
 §7[1/1] §2The Assistant: §aYou...you§a can't go §adown...there§a!@§7[1/1] §2Ассистент: §aТы...ты не можешь спуститься...вниз!
 §7[1/1] §2The Assistant: §aNever speak of this §aagain...stranger§a.@§7[1/1] §2Ассистент: §aНикогда не говори об этом снова... странник.
 §7[1/1] §2The Assistant: §aHeeh...stranger§a. §aI...may§a need your §aassistance...return§a when you §aare...Level§a 15.@§7[1/1] §2Ассистент: §aХех...незнакомец. Мне...может понадобиться твоя помощь...возвращайся, когда будешь...15 уровня.
+§7[1/1] §2The Assistant: §aQuickly, get me...§3[8 Red Mushroom]§a from the Black Road outside the east gate of Detlas.@§7[1/1] §2Ассистент: §a§aБыстрее, принеси мне...§3[8 Красных Грибов]§a с Черной Дороги снаружи западных ворот Детласа.

@@ -12,6 +12,7 @@
 §7[3/3] §2Lexdale Citizen: §aI... human, I can't thank you enough. Even if he doesn't get out of there, just knowing he's alive is... please. I know it's not a lot, but take this.@§7[3/3] §2Житель Лексдейла: §aЯ... человек, не могу достаточно отблагодарить тебя. Даже если он не выберется оттуда, достаточно просто знать, что он жив... пожалуйста. Я знаю, что это немного, но возьми это.
 §7[1/1] §2Lexdale Citizen: §aI...can't§a believe it. I trusted you, Amira! I can't believe you would do this!!@§7[1/1] §2Житель Лексдейла: §aЯ...не могу поверить. Я доверял тебе, Амира! Не могу поверить, что ты сделала это!!
 §7[1/1] §2Lexdale Citizen: §aThis can't be right, I've known Amira for years! There's no way she would have done this...@§7[1/1] §2Житель Лексдейла: §aЭтого не может быть, я знаю Амиру много лет! Она бы ни за что так не поступила...
+§7[1/1] §2Lexdale Citizen: §aThank you, human. So much...@§7[1/1] §2Житель Лексдейла: §aСпасибо тебе, человек. Огромное...
 
 ##################################OLUX#############################################
 §7[1/3] §2Olux Citizen: §aEvery now and then, a strange fellow in a white mask comes around town, trying to sell this peculiar medicine. It's very effective, but...@§7[1/3] §2Житель Олукса: §aВремя от времени странный парень в белой маске приходит в город, пытаясь продать одно необычное лекарство. Это очень хорошо, но...
@@ -107,6 +108,7 @@
 §7[1/1] §2Juggler: §aHm? Did ya want anythin'? Whatever it is, I don't have it! If you want more information, there's a sign over there.@§7[1/1] §2Трюкач: §aХм? Ты что-то хотел? Что бы то ни было, у меня этого нет! Если тебе нужна дополнительная информация, там есть табличка.
 §7[1/1] §2Juggler: §a...I sure love legally throwing people!@§7[1/1] §2Трюкач: §a...Я очень люблю легально швырять людей!
 §7[1/1] §2Box: §aThank you for your donation to Siegfried!@§7[1/1] §2Коробка: §aСпасибо за ваш донат Зигфриду!
+§7[1/1] §2Juggler: §a§oUrgh§a, these elves... Maybe we should start with Thesead...@§7[1/1] §2Трюкач: §aoУгх§a, эти эльфы... Может мы должны начать с Тесеада...
 
 ######################################LLEVIGAR####################################
 §7[1/2] §2Llevigar Citizen: §aThe power plant is having problems. If that thing explodes, it'll take the whole city with it!@§7[1/2] §2Житель Ллевигара: §aНа электростанции возникли проблемы. Если эта штука взорвется, то разнесет весь город!
@@ -139,6 +141,16 @@
 §7[1/3] §2Llevigar Soldier: §aAh, good, more of you small-noses are here to fight.@§7[1/3] §2Солдат Ллевигара: §aАх, хорошо, еще больше вас маленьконосых здесь, чтобы сражаться.
 §7[2/3] §2Llevigar Soldier: §aYou're good for battle, so the government can focus more on the real issues.@§7[2/3] §2Солдат Ллевигара: §aВы хороши для битвы, поэтому правительство может больше сосредоточиться на реальных проблемах.
 §7[3/3] §2Llevigar Soldier: §aCan't afford to have all our resources on war when we have the Decay to deal with up north.@§7[3/3] §2Солдат Ллевигара: §aМы не можем позволить себе тратить все наши ресурсы на войну, когда на севере приходится иметь дело с заражением.
+§7[1/5] §2Llevigar Citizen: §aI have no idea if you're a lucky idiot, a hero to surpass Siegfried, in league with her, or some combination of all three.@§7[1/5] §2Житель Ллевигара: §aЯ понятия не имею, счастливый ли ты идиот, герой, превзошедший Зигфрида в союзе с ней, или какая-то комбинация всех трех.
+§7[2/5] §2Llevigar Citizen: §aWord is out that somehow, some way, you defeated Qira, in her own Hive... But since then, things have only gotten worse!@§7[2/5] §2Житель Ллевигара: §aХодят слухи, что каким-то образом ты победил Киру в ее собственном Улье... Но с тех пор все стало только хуже!
+§7[3/5] §2Llevigar Citizen: §aI saw myself, three of those Shamba-things run out from the gardens! THREE!! Why, I couldn't believe my eyes!@§7[3/5] §2Житель Ллевигара: §aЯ сам видел, как трое из этих Шамба-тварей выбежали из садов! ТРОЕ!! Я не мог поверить своим глазам!
+§7[4/5] §2Llevigar Citizen: §aOn one hand, you've proven she's defeatable. On the other, she seems desperate to spy further on §aus...or..§a. Or wait, m-maybe on y...@§7[4/5] §2Житель Ллевигара: §aС одной стороны, ты доказал, что ее можно победить. С другой стороны, она, кажется, отчаянно хочет шпионить за нами дальше...или ... или подожди, м-может быть, за тоб...
+§7[5/5] §2Llevigar Citizen: §aI, uh... K-kindly, er, leave me t-to my research, Human! I w-won't bother you any longer!@§7[5/5] §2Житель Ллевигара: §aЯ, эм... Б-будь добр, эм, оставь меня д-для моих исследований, человек! Я больше не буду тебя беспокоить!
+§7[1/5] §2Karoc Miner: §aHm. Human, are ye? I've heard some things 'bout ye folk.@§7[1/5] §2Шахтер Карока: §aХм. Человек, не так ли? Я кое-что слышал о вашем роде.
+§7[2/5] §2Karoc Miner: §aAwful nosy, so they say. Stickin' yer noses where they don't belong.@§7[2/5] §2Шахтер Карока: §aУжасно любопытные, так говорят. Суете свои носы туда, где им не место.
+§7[3/5] §2Karoc Miner: §aWhat, ye want me te tell ye 'bout this quarry? Fine! Here's somethin' fer ye.@§7[3/5] §2Шахтер Карока: §aЧто, ты хочешь, чтобы я рассказал тебе об этой каменоломне? Отлично! Вот тебе кое-что.
+§7[4/5] §2Karoc Miner: §aYe see the cave up that hill? S'cursed. Used te be a mine shaft, s'far as I can tell.@§7[4/5] §2Шахтер Карока: §aВидишь пещеру на том холме? Она проклята. Раньше это была шахта, насколько я могу судить.
+§7[5/5] §2Karoc Miner: §aThere's always strange noises comin' from there. We stay away from it. Ye ever feel like explorin', go take a look.@§7[5/5] §2Шахтер Карока: §aОттуда всегда доносятся странные звуки. Мы держимся от нее подальше. Если тебе когда-нибудь захочется что-то исследовать, иди и посмотри.
 
 ########################################GELIBORD####################################
 §7[1/3] §2Gelibord Citizen: §aEven aside from the Decay, this place has issues. Have you seen that big prison off to the northeast? Their methods are brutal, to say the least.@§7[1/3] §2Житель Гелиборда: §aДаже помимо заражения, у этого места есть проблемы. Ты видел ту большую тюрьму на северо-востоке? Их методы слишком жестокие, мягко говоря.
@@ -409,6 +421,7 @@
 §7[3/5] §2Canyon Miner: §aDamn! Another one of these cursed earthquakes!@§7[3/5] §2Шахтер Каньона: §aЧерт! Еще одно из этих проклятых землетрясений!
 §7[4/5] §2Canyon Miner: §aThat colossus... If this crack it made grows... I'll have no choice but to move.@§7[4/5] §2Шахтер Каньона: §aЭтот колосс... Если эта трещина, которую он сделал, вырастет... У меня не будет другого выбора, кроме как переехать.
 §7[5/5] §2Canyon Miner: §aThe thing truly threatens our livelyhoods in the canyon, if only someone could stop it...@§7[5/5] §2Шахтер Каньона: §aЭта штука действительно угрожает нашим средствам к существованию в каньоне, если только кто-нибудь сможет остановить его...
+§7[1/1] §2Canyon Miner: §aScram! I don't need my crane breaking again!@§7[1/1] §2Шахтер Каньона: §aПроваливай! Мне не нужно, чтобы мой кран снова сломался!
 §7[1/4] §2Pastor Arwes: §aWelcome, weary traveller. To the House of Talor... or what remains of it.@§7[1/4] §2Пастор Арвес: §aДобро пожаловать, усталый путник. К Дому Талора... или к тому, что от него осталось.
 §7[2/4] §2Pastor Arwes: §aThis used to be a thriving religious sanctuary, but most think the holy have abandoned us.@§7[2/4] §2Пастор Арвес: §aРаньше это было процветающее религиозное святилище, но большинство думает, что святые покинули нас.
 §7[3/4] §2Pastor Arwes: §aVery few are left in this church. Times are hard in the forest, especially here in the ruins.@§7[3/4] §2Пастор Арвес: §aОчень немногие остались в этой церкви. Времена в лесу тяжелые, особенно здесь, в развалинах.

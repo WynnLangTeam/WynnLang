@@ -21,6 +21,7 @@
 §7[9/9] §2Tolem: §aThree of my cows ran off. Look around the farm for them. They were eating, so look for §bfallen wheat on the ground!@§7[9/9] §2Толем: §aТри моих коровы убежали. Поищи их вокруг фермы. Они как раз ели, так что поищи §bупавшую пщеницу на земле!
 §7[1/1] §2Tolem: §aGo on, hop to it! I'm waiting for you right here!@§7[1/1] §2Толем: §aДавай иди! Я буду ждать тебя здесь!
 §7[1/11] §2Tolem: §aOh, back aleady? I haven't even finished my stuff, where are the cows?@§7[1/11] §2Толем: §aО, уже вернулся? Я еще не закончил свои дела, а где коровы?
+§7[2/11] §2Tolem: §a...@§7[2/11] §2Толем: §a...
 §7[3/11] §2Tolem: §a...eheh§a. You. You're. This is a joke, right? We're having a chuckle?!@§7[3/11] §2Толем: §a...ехехе§a. Ты. Ты. Это шутка, верно? Мы ведь смеёмся?!
 §7[4/11] §2Tolem: §aWE'RE JOKING, RIGHT?! FOR THE LOVE OF ALL THAT'S HOLY TELL ME THIS IS A JOKE!@§7[4/11] §2Толем: §aМЫ ЖЕ ШУТИМ, ДА?! РАДИ ВСЕГО СВЯТОГО, СКАЖИ, ЧТО ЭТО ШУТКА!
 §7[5/11] §2Tolem: §aWHAT IS THIS?! ARE YOU BRAINDEAD?!@§7[5/11] §2Толем: §aЧТО ЭТО?! ТЫ СОВСЕМ СОШЁЛ С УМА?!
@@ -82,3 +83,5 @@
 §7[2/2] §2Rileen: §aGrandma still says we can't trust you humans, but I know for sure that you're alright. Thank you so much!@§7[2/2] §2Райлен: §aБабушка все еще говорит, что мы не можем доверять вам, людям, но я точно знаю, что с вами все в порядке. Большое тебе спасибо!
 §7[1/1] §2Kroac: §aIf you will excuse me, I'm dealing with a mid-life crisis.@§7[1/1] §2Кроак: §aПрошу меня простить, я имею дело с кризисом среднего возраста.
 §7[1/1] §2Kroac: §aI'm sorry, but your patchjob fell apart. You'll need something like 10 cobblestone to help fix this.@§7[1/1] §2Кроак: §aМне очень жаль, но твоя работа с заплатками развалилась. Тебе понадобится что-то вроде 10 булыжников, чтобы помочь это исправить.
+
+§7[1/1] §2Rileen: §aOh, one of you human types. Nothing and no one to hunt here, move along please...@§7[1/1] §2Райлен: §aО, человечек. Здесь не на кого и не на кого охотиться, двигай, пожалуйста...

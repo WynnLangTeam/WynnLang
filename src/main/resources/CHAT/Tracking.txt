@@ -13,6 +13,8 @@
 §7Get a Gavellian Passport at [-256,57,-4983].@§7Добудь Гавеллианский Паспорт на [-256,57,-4983].
 §7Explore the Airbase looking for clues about the Black Market.@§7Исследуй авиабазу ищя подсказки насчет Черного Рынка. 
 §7Talk to the Merchants and try to get 2000 emeralds to buy a passport.@§7Поговори с Торговцами и попытайся достать 2000 эмеральдов чтобы купить паспорт. 
+§7Find the reset button.@§7Найди кнопку сброса.
+§7Meet Doan at [-213, 84, -4979] to keep exploring the Airbase.@§7Встреть Доана на [-213, 84, -4979] чтобы продолжить исследовать авиабазу. 
 ======A_Headless_History 
 §7Talk to Hans in the Gelibord outskirts at [-1096,42,-5384]@§7Поговори с Гансом в округе Гелиборда на [-1096,42,-5384]
 §7Talk to Hans in the village next to Gelibord at [-1096,42,-5384]@§7Поговори с Гансом в деревне рядом с Гелибордом на [-1096,42,-5384]
@@ -21,6 +23,8 @@
 §7Leave the room and continue exploring the castle.@§7Покинь комнату и продолжай исследовать замок.
 §7Continue exploring the castle.@§7Продолжай исследовать замок.
 §7Talk to Referick in his house at [-1086,48,-5376]@§7Поговори с Рефериком в его доме на [-1086,48,-5376]
+§7Talk to Lari outside the weird gate at [-1329,85,-5606]@§7Поговори с Лари снаружи странных ворот на [-1329,85,-5606]
+§7Travel to the castle in the north at [-1089,51,-5565]@§7Отправься в замок на севере на [-1089,51,-5565]
 =====A_Journey_Beyond 
 §7Join Elphaba on a mission in Detlas at [419, 67, -1533].@§7Присоединись к Эльфабе на миссию в Детласе [419, 67, -1533]
 §7Meet the other soldiers at [730, 61, -1434].@§7Встреть других солдат на [730, 61, -1434]
@@ -87,6 +91,8 @@
 §7See if anyone in Aldorei Valley knows what happened@§7Узнай знает ли кто-нибудь в Долине что случилось
 §7Find a use for Damys' Bucket@§7Найди применение ведру Дамиса
 §7Chase the criminal@§7Преследуй преступника
+§7Explore the secret garden@§7Исследуй секретный сад 
+§7Go to the botanist's house at [-541,106,-4538]@§7Иди в ботанический дом на [-541,106,-4538]
 =====Aldorei%27s_Secret_Part_II 
 §7Speak to Legolus at [-139,92,-4445] (Requires completion of Part I)@§7Поговори с Леголусом на [-139,92,-4445] (Необходимо пройти Часть I) 
 §7Find a way into Soway's house, to the south of Legolus@§7Найди путь в дом Совэй, на юге от Леголуса 
@@ -110,7 +116,7 @@
 =====An_Iron_Heart_Part_I  
 §7Speak with Duvale at [-1613,51,-4964]@§7Поговори с Дювейл на [-1613,51,-4964]
 §7Find the defective Guard Golem in the mountain at [-1655,59,-5087]@§7Найди неисправного голема-охранника в горе на [-1655,59,-5087]
-§7Kill the defective Guard Golem and return the parts to Duvale.@§7Убей неисправного голема охранника и верни его части Дювейл 
+§7Subdue the defective Guard Golem and return to Duvale at [-1613,51,-4964].@§7Убей неисправного голема охранника и вернись к Дювейлу на [-1613,51,-4964]
 §7Find the defective Guard Golem.@§7Найди неисправного голема-охранника
 =====An_Iron_Heart_Part_II 
 §7Speak to Detective Hart at [-1744,66,-5478]@§7Поговори с Детективом Хартом на [-1744,66,-5478]
@@ -123,7 +129,9 @@
 §7Find a way to deactivate the Guard Golem.@§7Найди способ деактивировать Голема Стража.
 §7Find the way into the factory in Urelix's house.@§7Найди путь на фабрику в доме Уреликса.
 §7Either take the bribe or return to Detective Hart@§7Возьми взятку или вернись к Детективу Харту 
+§7Escape the Golem Factory and find Urelix.@§7Сбеги с Фабрики Големов и найди Уреликса.
 =========Arachnids%27_Ascent 
+§7Talk To Private Cob in the Savannah at [682,74,-1714]@§7Поговори с Рядовым Кобом в Саванне на [682,74,-1714]
 §7Speak to Captain Enduyn at [-192,44,-1822]@§7Поговори с Капитаном Эндуином на [-192,44,-1822]
 §7Enter and climb Mount Wynn through the cave at [-120,76,-1888]@§7Войди и заберись на вершину Вулкана Винн через пещеру на [-120,76,-1888]
 §7Collect the lava from Mount Wynn@§7Собери лаву из вулкана Винн
@@ -182,10 +190,10 @@
 ======Bob%27s_Lost_Soul 
 §7Talk to Tarod in Nesaak's Forest at [-7,68,-793]@§7Поговори с Тародом в лесу Несаака на [-7,68,-793]
 §7Find Bob's Tomb@§7Найди гробницу Боба 
-§7Report what you've found to Tarod@§7Сообщи о том, что нашел Тароду 
+§7Report what you've found to Tarod at [-7,68,-793]@§7Сообщи о том, что нашел Тароду на [-7,68,-793]
 §7Talk to the sorcerer Wedyf in Bremminglar@§7Поговори с волшебником Ведифом в Бреммингларе 
-§7Bring [1 Bob's Tear] and [1 Rose] to Wedyf@§7Принеси [1 слезу Боба] и [1 Розу] Ведифу 
-§7Talk to the blacksmith near Ternaves about Bob's lost soul@§7Поговори с Кузнецом рядом с Тернейвс насчет потерянной души Боба 
+§7Bring [1 Bob's Tear] from Ragni and [1 Rose] from the farm around [557, 63, -1377] to Wedyf@§7Принеси [1 слезу Боба] из Рагни и [1 Розу] с фермы около [557, 63, -1377] к Ведифу 
+§7Talk to the blacksmith near [722, 61, -1469] about Bob's lost soul@§7Поговори с Кузнецом рядом с [722, 61, -1469] насчет потерянной души Боба 
 §7Bring [1 Depressing Stick], [1 Depressing Spear], [1 Depressing Bow] and [1 Depressing Shear] to the Blacksmith@§7Принеси [1 Depressing Stick], [Depressing Spear], [1 Depressing Bow] и [1 Depressing Shear] Кузнецу 
 §7Bring back [1 Bob's Crushed Soul] to Wedyf@§7Принеси [1 Измельченную Душу Боба] Ведифу 
 §7Find Bob's corpse in his tomb@§7Найди останки Боба в его гробнице 
@@ -258,18 +266,20 @@
 §7Bring Thomas [1 Creeper Powder] to prove to him creepers exist in Wynn at [-608,89,-1431]@§7Принеси Томасу [1 Порошок крипера] для доказательства существования криперов в Винн на [-608,89,-1431]
 ======Crop_Failure  
 §7Talk to Anast in Olux, at [-1834,62,-5557]@§7Поговори с Анастом в Олуксе на [-1834,62,-5557]
-§7Interrogate Doubiss the salesman somewhere in Olux@§7Допроси продавца Дубиса где-то в Олуксе 
+§7Find Doubiss the salesman in Olux near the bank at [-1769,66,-5539]@§7Найди продавца Дубиса в Олуксе рядом с банком на [-1769,66,-5539]
 §7Go to the wellspring cave near the Olux Crypts at [-1774,84,-5603]@§7Иди к источнику в пещере рядом с кладбищем Олукса [-1769,75,-5593]
+§7Search the aquifer at [-1781,85,-5598] for the problem with the water.@§7Обыщи место на [-1781,85,-5598] в поисках источника проблем с водой.
 §7Search inside the cave to find the problem with the water@§7Обыщи пещеру и найди проблему с водой 
 §7Kill the giant slime and show Anast the slime's remains as proof of Doubiss' innocence@§7Убей гигантского слайма и покажи Анасту его останки, как доказательство невиновности Дубиса 
 §7Gather [3 Oats] from around Anast@§7Собери [3 Овса] рядом с Анастом
+§7Kill the slimes in the aquifer and bring back [Polluted Slime] to Anast.@§7Убей слаймов и принеси [Грязного Слайма] Анасту. 
 ======Death_Whistle 
 §7Talk to Voer at [-2103,59,-5427]@§7Поговори с Войером на [-2103,59,-5427]
 §7Find the mountain at [-2064,56,-5190] and a way up on it@§7Найди гору на [-2064,56,-5190] и путь на ее вершину
 §7Get to the top of the mountain and get [1 Black Whistle Leaf]@§7Иди на вершину горы и добудь [1 Лист Черного Свистка] 
 §7Return to Voer at [-2103,59,-5427] with [1 Death Whistle Leaf]@§7Вернись к Войеру на [-2103,59,-5427] с [1 Листом Черного Свистка]
-§7Follow the path of residue to the witch's cave@§7Иди по оставленному следу в пещеру ведьмы 
-§7Kill the witch and return to Voer with [1 Pink Pelulite]@§7Убей ведьму и вернись к Войеру с [1 Розовым Пелулитом]
+§7Follow the path of residue to the buyer's cave@§7Иди по оставленному следу в пещеру покупателя 
+§7Remove the flower from the woman in the cave@§7Забери цветок у женщины в пещере
 =======Deja_Vu  
 §7Talk to Asher near Time Valley at [-449,72,-1153].@§7Поговори с Ашером в Долине Времени на [-449,72,-1153] 
 §7Find Asher's Shovel near [-573, 70, -1105]@§7Найди Лопату Ашера на [-573, 70, -1105]
@@ -363,7 +373,7 @@
 §7Exit the Xìngzhì cave through the tunnel near the temple@§7Выйди из Xingzhi пещеры через тоннель рядом с храмом 
 §7Speak to Sensei Miyagi@§7Поговори с Сэнсей Мияги
 ======Enzan%27s_Brother 
-§7Talk to Enzan close to the exit of Ragni at [-772,67,-1572]@§7Поговори с Энзаном на выходе из Рагни на [-772,67,-1572]
+§7Talk to Enzan close to the exit of Ragni at [-772,67,-1574]@§7Поговори с Энзаном на выходе из Рагни на [-772,67,-1574]
 §7Find Enzan's brother near the Item Identifier on the Emerald Trail at [-536,67,-1589]@§7Найди брата Энзана рядом с Идентификатором Предметов на Эмеральдном Пути [-536,67,-1589]
 §7Descend into the cave at [-538,67,-1586] and bring [1 Energy Mushroom] to Therck@§7Спустись в пещеру на [-538,67,-1586] и принеси [1 Энергетический Гриб] Терку
 =======Fallen_Delivery 
@@ -372,7 +382,7 @@
 §7Investigate the cannon at the top of the bandit fort at [20,73,-4793]@§7Посети пушку, расположенную на вершине бандитского форта [20,73,-4793]
 §7Follow the trail of papers to the bandit's house@§7Следуй по пути из бумаг к дому бандита 
 §7Find the envelope in the cellar and return it to the sender@§7Найди конверт в подвале и верни его отправителю 
-§7Find the representative’s office in the airship base [-238,120,-4967] @§7Найди офис представителей на авиабазе [-238,120,-4967]
+§7Find the representative’s office in the airship base [-258,58,-4999] @§7Найди офис представителей на авиабазе [-258,58,-4999]
 §7Find a way to enter the representative's office@§7Найди способ попасть в офис представителей 
 §7Enter the representative's office@§7Войди в офис представителей 
 §7Defeat the representative and bring back the stolen scroll to Gawrick@§7Победи представителя и верни украденный свиток Гаврику
@@ -420,6 +430,7 @@
 §7Find the Canned Abis cave at [-744,11,-4591]@§7Найди Коно Полю в пещере на [-744,11,-4591]
 §7Find the plant inside the cave.@§7Найди растение внутри пещеры.
 §7Talk to the Guardian@§7Поговори с Защитником
+§7Find a way up to the church bell at the top of the church.@§7Найди способ подняться к церковному колоколу наверху церкви. 
 ======Flight_in_Distress 
 §7Speak to the Passenger Controllant at [-172,108,-4946]@§7Поговори с Контроллером на [-172,108,-4946]
 §7Enter the airship@§7Войди на дирижабль
@@ -441,6 +452,7 @@
 §7Speak to Calo next to the little ship at the Detlas docks@§7Поговори с Кало рядом с небольшим кораблем в доках Детласа
 =======Forbidden_Prison 
 §7Something looks suspicious in the prison at [-829,83,-5539]@§7Что-то подозрительное происходит в тюрьме на [-829,83,-5539]
+§7Search the hallways for messes to clean up@§7Исследуй коридоры в поисках беспорядков чтобы убрать их 
 §7Search the hallways for possible escape routes, and find a guard outfit@§7Обыщи коридоры в поисках побега, и найди наряд охранника.
 §7Talk to the Merchant at [-963,47,-5280]@§7Поговори с Торговцем на [-963,47,-5280]
 §7Find a place to sit in the cafeteria@§7Найди место куда сесть в столовой
@@ -470,6 +482,8 @@
 §7Go to the path at [-1447, 61, -4582], and follow it up to the top of the mountain@§7Иди по пути на [-1447, 61, -4582] и следуй по нему до самой вершины горы
 §7Investigate the trail of fire@§7Исследуй огненный след
 §7Find someone in Bucie who can help you with the fires@§7Найди кого-нибудь в Бучи, кто поможет тебе с пожарами
+§7Enter the hole at [-1390, 96, -4495]@§7Войди в дыру на [-1390, 96, -4495]
+§7Exit the cave and talk with Axelus at [-1263, 43, -4490]@§7Покинь пещеру и поговори с Акселусом на [-1263, 43, -4490]
 ======Frost_Bite 
 §7Find Eppo at [-207, 37, -531]@§7Найди Эппо на [-207, 37, -531]
 §7Go deeper into the cave and speak to Rhudya.@§7Иди глубже в пещеру и поговори с Рудя 
@@ -485,7 +499,7 @@
 §7Go through the Mountain Spring Tavern to reach the roof of the tallest tower in the fort@§7Пройди через таверну Mountain Spring и поднимись на крышу самой высокой башни форта
 §7Recover the Good-Luck Charm from the sewers@§7Верни Счастливый Амулет из канализации 
 §7Return to General Lecade with the Good-Luck Charm@§7Вернись к Генералу Лекейду со Счастливым Амулетом
-§7Paint the mountain at [207,178,-5499]@§7Раскрась гору на [207,178,-5499]
+§7Paint the mountain at [211,156,-5488]@§7Раскрась гору на [211,156,-5488]
 §7Walk across the tightrope at [128,101,-5467]@§7Пройдись по канату на [128,101,-5467]
 §7Speak to Lieutenant Gren@§7Поговори с Лейтенантом Греном 
 §7Blow up the wall inside the fort@§7Взорви стену внутри крепости
@@ -494,6 +508,7 @@
 §7Defeat the Corpus Accipientis@§7Победи Corpus Accipientis 
 §7Give the Malleable Slime to General Lecade@§7Отдай тягучую слизь Генералу Лекейду
 §7Return to General Lecade@§7Вернись к Генералу Лекейду
+§7Go check on the malfunctioning equipment at [86,44,-5374]@§7Иди проверь неисправность снаряжения на [86,44,-5374]
 ======Grand_Youth 
 §7Talk to Monte at [-550,61,-747]@§7Поговори с Монте на [-550,61,-747]
 §7Visit the salesman in Troms near the fountain@§7Посети торговца в Тромсе рядом с фонтаном 
@@ -566,7 +581,7 @@
 §7Talk to Detlas's Banker about the cure for Worid at [497, 67, -1559]@§7Поговори с Банкиром в Детласе насчет лекарства для Ворида на [497, 67, -1559]
 §7Return to Worid@§7Вернись к Вориду
 §7Enter Detlas' Emerald Stash at [494, 67, -1553]@§7Войди в Хранилище Эмеральдов Детласа на [494, 67, -1553]
-§7Infiltrate Almuj's Secret Emerald Labyrinth and find the Banker in the Emerald Room@§7Проникни в Секретный Эмеральдовый Лабиринт Алмужa и найди Алмуж Банкира в эмеральдовой комнате 
+§7Infiltrate Almuj's Secret Emerald Labyrinth at [1019, 84, -1976] underground and find the Banker in the Emerald Room@§7Проникни в Секретный Эмеральдовый Лабиринт Алмужa на [1019, 84, -1976] и найди Алмуж Банкира в эмеральдовой комнате 
 §7Talk back to Worid at [-760,79,-666]@§7Поговори с Воридом на [-760,79,-666]
 ========King%27s_Recruit  
 §7Exit the caravan and talk to the Caravan Driver@§7Покинь караван и поговори с Караванщиком
@@ -584,7 +599,7 @@
 §7Enter the castle@§7Войди в замок 
 §7Talk to Ragni's King@§7Поговори с Королем Рагни
 ========Kingdom_of_Sand 
-§7Find out what's going on at the Sand Swept Tomb@§7Узнай, что происходит возле данжа Песчаная Гробница
+§7Find out what's going on at the Sand Swept Tomb at [1408, 94, -1830]@§7Узнай, что происходит возле данжа Песчаная Гробница на [1408, 94, -1830]
 §7Find out what's going on at [-1366, 42, -4543]@§7Узнай, что происходит возле [-1366, 42, -4543]
 §7Attempt to enter the outlaw's hideout at [1314, 90, -1660]@§7Попытайся войти в убежище преступников на [1314, 90, -1660] 
 §7Meet with Geo & Tarek at the exit.@§7Встреться с Гео и Тарэком на выходе 
@@ -594,6 +609,8 @@
 §7Search the broken cart at [1183, 76, -1857]@§7Найди сломанную повозку на [1183, 76, -1857]
 §7Get the sceptre from the abandoned house at [1220, 77, -1873]@§7Достань скипетр из разрушенного дома на [1220, 77, -1873]
 §7Return to the tomb and hand the sceptre to Lanu.@§7Вернись к гробнице и передай скипетр Лану
+=======Lava_Springs
+§7Look for three pieces of corrupted evidence around the Lava Spring at [631,83,-1736]@§7Отыщи три части испорченного доказательства вокруг Источника Лавы на [631,83,-1736]
 =======Lazarus_Pit  
 §7Speak to Burtur at [-1025,47,-5302].@§7Поговори с Буртуром на [-1025,47,-5302].
 §7Locate the chapel mentioned by the talisman, or return to Burtur for assistance.@§7Отыщи часовню, упомянутую на талисмане, или вернись к Буртуру за помощью.
@@ -601,6 +618,8 @@
 §7Revive the people in the tombs with the Lazarus Water and complete their tasks.@§7Возроди людей в гробницах с помощью Лазарус Воды и выполни их задания.
 §7Open the crypt door at [-1124,44,-5489].@§7Открой дверь склепа на [-1124,44,-5489].
 §7Tell Burtur that you have blocked off the Lazarus Pit at [-1025,47,-5302].@§7Скажи Буртуру что ты заблокировал Лазарус Яму на [-1025,47,-5302].
+§7Investigate the Order's chapel northwest of Gelibord at [-1124,44,-5489].@§7Посети часовню Ордена на северозападе Гелиборда на [-1124,44,-5489]. 
+§7Solve the crypt's riddle to 'bring the water of life anew' to the graves.@§7Разгадай загадку склепа 'Принеси им воду жизни снова' на могилах. 
 ========Lexdale_Witch_Trials
 §7See what's going on in the center of Lexdale at [-604,45,-5444].@§7Узнай что происходит в центре Лексдейла на [-604,45,-5444].
 §7Return to Lexdale and try to show the Mayor the creature at [-604,45,-5444].@§7Вернись в Лексдейл и покажи Мэру существо на [-604,45,-5444].
@@ -645,6 +664,7 @@
 §7Report back with the description of the fabulous Unicorn Sheep to Caissop@§7Вернись с описанием изумительной овцы-единорога к Кайзопу
 §7Search for the third and last mythical animal in the cave at [-1763,54,-5167]@§7Отыщи третье и последнее мифическое создание в пещере на [-1763,54,-5167]
 §7Report back with the description of the amazing Pigasus to Caissop@§7Вернись с описанием великолепного свино-коня к Кайзопу 
+§7Report back with the description of the brown, large-snouted creature to Caissop@§7Вернись с описанием коричневого, больше-мордого существа к Кайзопу 
 ======Meaningful_Holiday 
 §7Talk to Haily in Almuj at [929,75,-1899]@§7Поговори с Хэйли в Алмуже на [929,75,-1899]
 §7Go talk to Haily's friend Nick at the poor area south of the city at [936,68,-1841].@§7Поговори с другом Хэйли Ником в бедном районе на юге от города [936,68,-1841].
@@ -656,7 +676,7 @@
 §7Explore the area and look for Santa.@§7Исследуй территорию в поисках Санты 
 §7Enter Santa's home and speak to him.@§7Войди в дом Санты и поговори с ним
 §7Leave through the portal behind Santa.@§7Уйди через портал-камин позади Санты 
-§7Enter the ball room.@§7Войди в бальный зал [422, 65, -1561]. 
+§7Enter the ball room at [422, 67, -1559].@§7Войди в бальный зал на [422, 67, -1559]. 
 §7Ask the guests for food.@§7Попроси еды у гостей. 
 §7Steal the food from the kitchen and talk to Nick.@§7Укради еду с кухни и поговори с Ником 
 §7Escape the ball with Nick.@§7Уйди из зала вместе с Ником 
@@ -726,7 +746,7 @@
 §7Talk to Yahya "The Mushroom Man" in Nivla Woods at [-277,69,-1681]@§7Поговори с Яха "Грибной Человек" в Нивла Лесу на [-277,69,-1681]
 §7Bring back [1 Red Mushrooms] and [1 Brown Mushrooms] to Yahya at [-277,69,-1681]@§7Принеси [1 Red Mushroom] и [1 Brown Mushroom] для Яхи на [-277,69,-1681]
 §7Bring back [3 Brown Mushrooms] and [3 Red Mushrooms] to Yahya at [-277,69,-1681]@§7Принеси [3 Brown Mushrooms] и [3 Red Mushrooms] для Яхи на [-277,69,-1681]
-§7Bring back [1 Bowl] to Yahya at [-277,69,-1681]@§7Принеси [1 Миску] для Яхи на [-277,69,-1681]
+§7Bring back [1 Bowl] to Yahya from the village at [-291,71,-1379]@§7Принеси [1 Миску] для Яхи из деревни на [-277,69,-1681]
 ======﻿One_Thousand_Meters_Under 
 §7Read the Help Wanted sign in Ahmsord at [1108,107,-4555]@§7Прочитай "Требуется Помощь" доску в Амсорде на [1108,107,-4555]
 §7Talk to The Secretary at [1121,101,-4525]@§7Поговори с Секретарем на [1121,101,-4525]
@@ -760,9 +780,9 @@
 §7Clue IV: Beneath the cowl of an eastern titan, keeping watch over our heads@§7Подсказка IV: Под шлемом восточного титана, охраняющего наши головы
 §7Tell Damiral where the treasure is hidden@§7Скажи Дамиралу, где спрятано сокровище
 =====Pit_of_the_Dead
-§7Talk to Merloni at [343,59,-1915]@§7Поговори с Мерлони на [343,59,-1915]
-§7Explore the pit and find the shrine@§7Исследуй яму и найди святыню 
-§7Tell Merloni that you succeeded@§7Сообщи Мерлони об успехе 
+§7Talk to Merloni in Detlas at [470,67,-1609]@§7Поговори с Мерлони в Детласе на [470,67,-1609]
+§7Explore the pit at [356,58,-1914] and find the shrine@§7Исследуй яму на [356,58,-1914] и найди святыню 
+§7Go back to Detlas and tell Merloni that you succeeded@§7Вернись в Детас и сообщи Мерлони об успехе 
 =====Point_of_No_Return 
 §7Talk to the Lutho Citizen at [1014,77,-675].@§7Поговори с Жителем Луто на [1014,77,-675]
 §4§l...@ 
@@ -771,16 +791,17 @@
 §7Talk to the Lutho Citizen who sent you on this journey.@§7Поговори с Жителем Луто который отправил тебя на это приключение
 =====Poisoning_the_Pest  
 §7Talk to Farmer Cevalus at [-749,67,-1664]@§7Поговори с Фермером Цевалусом на [-749,67,-1664]
-§7Grab [1 Crate of Rat Poison] at [-733,67,-1682] and enter the farm@§7Возьми [1 Контейнер Крысиного Яда] на [-733,67,-1682] и войди на ферму 
+§7Take the [1 Crate of Rat Poison] and enter the farm@§7Возьми [1 Контейнер Крысиного Яда] и войди на ферму 
 §7Dump the crate of rat poison into the water resevoir on the other side of the farm at [-3669,63,-1416]@§7Вылей контейнер крысиного яда в резервуар с водой на другой стороне фермы на [-3669,63,-1416]
 §7Toggle the farm's irrigation sprinkler near the entrance at [-4987,63,-1396]@§7Включи опрыскиватели на ферме около входа на [-4987,63,-1396]
+§7Watch the corrupt farmer die, then kill the pests.@§7Смотри как умирает испорченный фермер, затем убей паразитов.
 §7Exit the farm and talk to farmer Cevalus@§7Выйди с фермы и поговори с Фермером Цевалусом 
 §7Talk to Farmer Cevalus@§7Поговори с Фермером Цевалусом 
 =====Potion_Making  
-§7Talk to The Assistant on the Black Road at [617,67,-1612]@§7Поговори с Ассистентом на дороге [617,67,-1612]
-§7Bring back [8 Red Mushrooms] to The Assistant@§7Принеси [8 Red Mushroom] Ассистенту 
-§7Enter the hut and slay Essren@§7Войди в хижину и убей Эссрена 
-§7Bring back Essren's Dusty Coat to The Assistant@§7Принеси обратно пыльное пальто Эссрена к Ассистенту
+§7Talk to The Assistant in Detlas at [491,67,-1575]@§7Поговори с Ассистентом в Детласе на [491,67,-1575]
+§7Bring back [8 Red Mushrooms] to The Assistant in Detlas@§7Принеси [8 Red Mushroom] Ассистенту в Детласе
+§7Enter the hut at [616,67,-1616] and slay Essren@§7Войди в хижину на [616,67,-1616] и убей Эссрена 
+§7Bring back Essren's Dusty Coat to The Assistant in Detlas@§7Принеси обратно пыльное пальто Эссрена к Ассистенту в Детласе
 =====Purple_and_Blue 
 §7Talk to Korun near lake Gylia at [-236,36,-5225]@§7Поговори с Коруном у озера Гилия на [-236,36,-5225]
 §7Investigate the ancient wizard's house for clues at [-163,29,-5388]@§7Исследуй старый дом мага в поисках подсказок на [-163,29,-5388]
@@ -842,7 +863,7 @@
 §7Find the exiled Elf inside the web cavern at [-1785,30,-4521]@§7Найди изгнанного эльфа внутри паучей пещеры на [-1785,30,-4521]
 §7Find the Tattytale flower at [-1744,56,-4526]@§7Найди Цветок-Болтун на [-1744,56,-4526]
 §7Make Dado confess by using the [Tattytale Flower]@§7Заставь Дадо признаться используя [Цветок-Болтун] 
-§7Go up the minecart hill at [-1615,86,-4555] and find the cave where Popo is hiding at@§7Поднимись на гору [-1615,86,-4555] и найди пещеру в которой прячется Попо 
+§7Go up the minecart hill at [-1650,76,-4443] and find Popo.@§7Поднимись на гору [-1650,76,-4443] и найди Попо 
 §7Beat up Popo and return to Nasea with the contract@§7Победи Popo и вернись к Насеа с контрактом 
 §7Go to the hidden bandit's village and investigate the mansion@§7Проникни в тайную бандитскую деревню и исследуй поместье 
 §7Break through the laboratory and destroy the giant robot@§7Проникни в лабораторию и уничтожь гигантского робота 
@@ -885,6 +906,7 @@
 §7Talk to Elder Berusia@§7Поговори со Старцем Берусия 
 §7Talk to Likeru@§7Поговори с Ликеру
 §7Bring Likeru the mushrooms from the cave at [-1165,44,-5054].@§7Принеси Ликеру грибы из пещеры на [-1165,44,-5054].
+§7Explore the strange forest to find Likeru.@§7Исследуй странный лес и найди Ликеру
 ======Stable_Story  
 §7Talk to Enkser in Ternaves at [828,69,-1636]@§7Поговори с Энксером в Тернейвсе на [828,69,-1636]
 §7Bring back [1 Stable Key] to Enkser from the tunnel at [836,69,-1649]@§7Принеси Энксеру [1 Ключ от Конюшни] обратно из тоннеля на [836,69,-1649]
@@ -901,7 +923,7 @@
 §7Head to Elkurn and see if any of the townsfolk know anything about Garoth's old study area.@§7Иди в Элкурн и узнай кто из жителей что-то знает о старом месте учебы Гарота 
 §7Investigate the old underground area, under the church to the north at [-9,72,-1237]@§7Посети старую подземную комнату под церковью на севере [-9,72,-1237]
 §7Search around the south side of the Nether Portal for the old camp. The X on the map marked near [297,40,-1223]@§7Обыщи южную сторону от Портала в Ад и найди старый лагерь. X на карте отмечен около [297,40,-1223]
-§7Bring the acquired knowledge regarding the spell used for the sanctuary sealing back to the mages at the sanctuary.@§7Принеси полученные знания о заклинании, используемое для запечатывания святилища, обратно к магам на мосту 
+§7Bring the acquired knowledge regarding the spell used for the sanctuary sealing back to the mages at the sanctuary bridge.@§7Принеси полученные знания о заклинании, используемое для запечатывания святилища, обратно к магам на мосту 
 =====Taproot
 §7Find Lari in the Dark Forest at [-1257,43,-5474]@§7найди Лари в Темном Лесу на [-1257,43,-5474]
 §7Explore the Light Forest.@§7Исследуй Светлый Лес.
@@ -920,6 +942,8 @@
 §7Bring the [Old Touroto Hide], [Aseado Leaf], [Maro's Eye Jewel], and [Coral of Nelfors] to Garull@§7Принеси [Старую Кожу Тоурото], [Лист Асеадо], [Драгоценный Глаз Маро] и [Коралл Нельфора] Гаруллу 
 §7Bring the [Helmet of the Legends] to Kelight at the entrance of the Temple of the Legends@§7Принеси [Шлем Легенд] Келайгту на входе в храм легенд
 §7Kill the Corrupter of Worlds and bring proof of its death to Kelight@§7Убей Разрушителя Миров и принеси доказательство его смерти Келайгту 
+======Tempo_Town_Trouble
+§7Talk to Tyko at [87,39,-2199]@§7Поговори с Тайко на [87,39,-2199]
 =====The_Belly_of_the_Beast 
 §7Speak to King Burtan at [51,17,-5242]@§7Поговори с Королем Буртаном на [51,17,-5242]
 §7Feed the Enchanted Flower to Ozoth at [175,199,-5188]@§7Скорми Зачарованный Цветок Озот на [175,199,-5188]
@@ -972,7 +996,7 @@
 §7Find the exit at [-1882,40,-3146]@§7Найди выход на [-1882,40,-3146]
 §7Tell the delegate what happened.@§7Расскажи делегату что произошло. 
 ======The_Envoy_Part_II 
-§7Enter Maxie's house at [-1571,68,-2876].@§7Войди в дом Макси на [-1571,68,-2876] 
+§7Talk to Maxie in house at [-1571,68,-2876].@§7Поговори с Макси на [-1571,68,-2876] 
 §7Talk to Maxie on the second floor.@§7Поговори с Макси на втором этаже
 §7Find the catapult at [-1712,38,-3100].@§7Найди катапульту на [-1712,38,-3100]. 
 §7Locate the Avos Chief by asking the Avos citizens.@§7Найди главаря Авосов, опрашивая жителей.
@@ -1004,7 +1028,7 @@
 §7Speak to the Ancient Dragon@§7Поговори с Древним Драконом
 ======The_Hidden_City 
 §7Talk to Narder at the Thesead Coal Mines at [661,78,-5070]@§7Поговори с Нардером возле угольной шахты Тесеадa на [661,78,-5070]
-§7Head to [890,47,-5388] to find the human town@§7Отправляйся на [890,47,-5388] и найди город людей
+§7Head to [857,47,-5389] to find the human town@§7Отправляйся на [857,47,-5389] и найди город людей
 §7Lead the Curious Villager back to his camp@§7Отведи любопытного жителя обратно в его лагерь
 §7Find a way to get the Curious Villager out of the cave@§7Найди способ вывести Любопытного Жителя из пещеры
 §7Return to the human face and inspect the loud noise@§7Вернись к человеческому лицу и исследуй громкий звук
@@ -1148,22 +1172,25 @@
 §7Talk to Lari at [-856,58,-6002] in the Realm of Light.@§7Поговори с Лари на [-856,58,-6002] в Царстве Света.
 §7Meet up with Lari at [-2037,55,-5434]@§7Встреться с Лари на [-2037,55,-5434]
 §7Follow Lari to Orphion's Nexus of Light at [-801,90,-6302]@§7Следуй за Лари в Нексус Света Орфиона на [-801,90,-6302]
+§7Follow Lari to the next monolith at [-895,79,-6014].@§7Следуй за Лари к следующему монолиту на [-895,79,-6014].
 ======The_Shadow_of_the_Beast 
 §7Talk to Dereg in his house at [-1483,47,-5218]@§7Поговори с Дереком в его доме на [-1483,47,-5218]
 §7Search for evidence that the beast exists by following the blood on the ground@§7Отыщи доказательства существования зверя, идя по следу крови на земле 
 §7Talk to the farmer to get evidence about the beast@§7Поговори с Толемом и получи улику о существовании зверя
 §7Deal with the three escaped cows near the house and in the cave under the farm@§7Разберись с тремя сбежавшими коровами, что рядом с двумя мостами и в пещере под фермой 
 §7Gather [10 Willow Planks] for Tolem@§7Собери [10 Ивовых Досок] к Толему 
+§7Follow the footprints from Tolem's house at [-1673,52,-5286]@§7Иди по следам от дома Толема на [-1673,52,-5286]
 §7Follow the footprints to find another victim of the beast@§7Иди по следам и найди другую жертву зверя 
 §7Go to Olux, buy [32 Cobblestone] and bring it back to Kroac@§7Иди в Олукс, купи [32 Булыжника] и принеси обратно к Кроаку 
 §7Bring back a proof that you beat the monster behind Rileen's house@§7Принеси доказательство того, что ты убил монстра позади дома Райлена 
+§7Find the cave of the beast by following the footprints behind Rileen's house@§7Найди пещеру зверя идя по следам позади дома Райлена
 §7Follow the candles and enter in the beast's cave@§7Следуя за свечами войди в пещеру зверя
 §7Go deeper into the cave@§7Иди глубже в пещеру
-§7Kill the beast and return to Dereg with the three pieces of evidence of the beast's existence at [-1483,47,-5218]@§7Убей зверя и вернись к Дереку с тремя уликами-доказательствами существования зверя на [-1483,47,-5218]
+§7Kill the beast and return to Dereg with proof of its death at [-1483,47,-5218]@§7Убей зверя и вернись к Дереку с доказательством его смерти на [-1483,47,-5218]
 §7Gather [10 Salmon Oil] for Rileen@§7Собери [10 Жира Лосося] для Райлен
 =====The_Thanos_Vaults 
 §7Speak to Dolem at [162,6,-5176]@§7Поговори с Долемом на [162,6,-5176]
-§7Enter the secret vault in Thanos's treasure room at [153,6,-5434]@§7Войди в секретное хранилище в сокровищнице Таноса на [153,6,-5434]
+§7Enter the secret vault in Thanos's treasure room at [186,4,-5058]@§7Войди в секретное хранилище в сокровищнице Таноса на [186,4,-5058]
 §7Collect the gold from the Thanos's secret vault@§7Собери золота из секретного хранилища Таноса
 §7Bring the gold back to Dolem@§7Принеси золото обратно Долему 
 =====The_Ultimate_Weapon 
@@ -1225,8 +1252,9 @@
 §7Meet up with Fredris in Nesaak and claim your reward@§7Встреться с Фредрисом в Несааке и забери свою награду 
 ======Underwater  
 §7Talk to Omango located at the North of Maltic at [-540,34,-2020]@§7Поговори с Оманго на севере от Малтикa на [-540,34,-2020]
+§7Go through the cave at [-510,30,-2014] to find Sayrr on his boat on the other side@§7Пройди через пещеру на [-510,30,-2014] и найди Сайара на его лодке
 §7Talk to Sayrr about the Breathing Helmet@§7Поговори с Сайаром насчет Шлема Подводника 
-§7Bring back [10 Gudgeon Meat] to Sayrr@§7Принеси [10 Мяса Пескаря] Сайару
+§7Bring back [10 Gudgeon Meat] found in the cave at [-387,5,-2095] to Sayrr@§7Принеси [10 Мяса Пескаря] найденные в пещере [-387,5,-2095] к Сайару
 §7Explore the crashed ship for a lost treasure at [-537,34,-2026]@§7Исследуй разбившийся корабль в поисках сокровища на [-537,34,-2026]
 §7Break the crate and bring [4 Old Treasure] to Omango at [-540,34,-2020]@§7Сломай контейнер и принеси [4 Старых Сокровища] Оманго на [-540,34,-2020]
 =======﻿Wrath_of_the_Mummy  

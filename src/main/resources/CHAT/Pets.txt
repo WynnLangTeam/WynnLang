@@ -2,16 +2,21 @@
 §2Chicken: §a*cluck*@§2Курица: §a*кудахтает*
 §2Chicken: §a*cluck cluck*@§2Курица: §a*кудахтает кудахтает*
 §22Chicken: §a*sad cluck*@§2Курица: §a*грустно кудахтает*
-§2Grumpy Old Man: §aI'm getting a bit old to go on an adventure...@§2Старик: §aЯ становлюсь немного староват для приключений...
-§2Grumpy Old Man: §aBack in my day we didn't have these fancy 'quests'.@§2Старик: §aВ мое время у нас не было таких причудливых "квестов".
-§2Grumpy Old Man: §aAhh... I was quite the sailor back in my days!@§2Старик: §aАх... В свое время я был настоящим моряком!
+
 §2Rat: §a*happy squeak from seeing you again*@§2Крыса: §a*счастливо пищит от встречи с тобой снова*
 §2Rat: §a*squeak >:D*@§2Крыса: §a*пищит >:D*
 §2Rat: §a*squeak*@§2Крыса: §a*пищит*
 §2Rat: §a*squeak squeak*@§2Крыса: §a*пищит-пищит*
 §2Rat: §a*disappointed squeak*@§2Крыса: §a*разачарованно пищит*
+§2Rat: §a*squeak happily*@§2Крыса: §a*счастливо пищит*
+§2Rat: §a*tries to snag your newly-acquired fragments*@§2Крыса: §a*пытается схватить твои недавно приобретенные фрагменты*
+§2Rat: §a*squeak sensing cheese nearby squeak*@§2Крыса: §a*пищит чувствуя сыр рядом пищит*
+§2Rat: §a*worried squeak*@§2Крыса: §a*взволнованно пищит*
+
 §2Baby Penguin: §a*penguin noises*@§2Пингвин: §a*шумит по-пингвиньи*
+
 §4The Eye: §5⒜⒩§d⒢⒞⒠⒜⒫⒜⒩⒩§5⒯⒰§d⒢⒰⒭§5⒯⒰⒮⒜§d⒨⒪§5⒨⒣⒜⒤⒮⒯⒤⒭?@§4Глаз: §5⒜⒩§d⒢⒞⒠⒜⒫⒜⒩⒩§5⒯⒰§d⒢⒰⒭§5⒯⒰⒮⒜§d⒨⒪§5⒨⒣⒜⒤⒮⒯⒤⒭?
+
 §2Rolling Potato: §a*stands still*@§2Крутящаяся Картошка: §a*стоит на месте*
 §2Rolling Potato: §a*celebrates your victory by standing still*@§2Крутящаяся Картошка: §a*празднует твою победу стоя на месте*
 §2Rolling Potato: §a*happy potato noises*@§2Крутящаяся Картошка: §a*счастливо картофельно шумит*
@@ -20,18 +25,54 @@
 §2Rolling Potato: §a*they see me rolling...*@§2Крутящаяся Картошка: §a*they see me rolling...*
 §2Rolling Potato: §a*rolling noises*@§2Крутящаяся Картошка: §a*Звуки кручения*
 §2Rolling Potato: §a*potato noises*@§2Крутящаяся Картошка: §a*Звуки картошки*
+
 §2Singing Tiger: §a*happy singing*@§2Поющий Тигр: §a*счастливо поет*
 §2Singing Tiger: §a*singing the alphabet song*@§2Поющий Тигр: §a*напевает песенку про алфавит*
 §2Singing Tiger: §a*happy growl*@§2Поющий Тигр: §a*счастливо рычит*
 §2Singing Tiger: §a*purr*@§2Поющий Тигр: §a*мурчит*
 §2Singing Tiger: §a*soft purr*@§2Поющий Тигр: §a*мягко мурлычет*
 §2Singing Tiger: §a*singing wynn songs*@§2Поющий Тигр: §a*напевает винн песенки*
+
 §2Seaskipper Captain: §aThat was very lovely my friend.@§2Капитан Корабля: §aЭто было очень мило, мой друг.
 §2Seaskipper Captain: §aGood to see you again!@§2Капитан Корабля: §aРад видеть тебя снова!
+
 §2Top Hat Alligator: §aLovely! Exquisite! Fantastic!@§2Аллигатор в Шляпе: §aПрелестно! Изысканно! Фантастика!
 §2Top Hat Alligator: §aWhy hello there young fellow!@§2Аллигатор в Шляпе: §aНу приветик приятель!
+§2Top Hat Alligator: §aThat's the spot, partner!@§2Аллигатор в Шляпе: §aТо что нужно, партнер!
+
 §2Colossal Rat: §a*unamused squeak*@§2Колоссальная Крыса: §a*невесело пищит*
+
 §2Death: §aYOU WILL BE PUNISHED FOR THIS.@§2Смерть: §aТЫ БУДЕШЬ НАКАЗАН ЗА ЭТО.
+§2Death: §aI'LL JUST PRETEND I'M FEELING THINGS, IF THAT MAKES YOU FEEL THINGS.@§2Смерть: §aЯ ПРОСТО ПРИТВОРЮСЬ, ЧТО ЧТО-ТО ЧУВСТВУЮ, ЕСЛИ ЭТО ЗАСТАВИТ ТЕБЯ ЧТО-ТО ЧУВСТВОВАТЬ.
+
+§2Grumpy Old Man: §aIf my knees keep acting up I'll have to start moving around in a cart...@§2Старик: §aЕсли мои колени будут продолжать болеть, мне придется начать передвигаться в телеге...
+§2Grumpy Old Man: §aWhat? Talk louder, I can't hear what you are saying!@§2Старик: §aЧто? Говори громче, я не слышу, что ты говоришь!
+§2Grumpy Old Man: §aAh... Back in my days... Fellas like ya' were way better at doing nothing!@§2Старик: §aАх... Вот в мои времена... Таким парням, как ты, гораздо лучше ничего не делать!
+§2Grumpy Old Man: §aThese things do happen...@§2Старик: §aТакие вещи случаются...
+§2Grumpy Old Man: §aBack in my day mobs were much tougher!@§2Старик: §aВ мое время мобы были намного жестче!
+§2Grumpy Old Man: §aThere are quests now?@§2Старик: §aТеперь тут есть квесты?
+§2Grumpy Old Man: §aHah! I knew there was something older than me.@§2Старик: §aХа! Я знал, что есть что-то старше меня.
+§2Grumpy Old Man: §aWell done. Now, you gonna let your ol' man have a rest?@§2Старик: §aОтлично сработано. А теперь ты позволишь своему старику отдохнуть?
+§2Grumpy Old Man: §aHuh? What is this?! Detlas looked much better in my youth! Where's my yellow tent?@§2Старик: §aА? Это что такое?! Детлас выглядел намного лучше в моей юности! Где моя желтая палатка?
+§2Grumpy Old Man: §aNow that's one pretty little town, and it used to be so grim!@§2Старик: §aТеперь это симпатичный маленький городок, а раньше он был таким мрачным!
+§2Grumpy Old Man: §aNo! Get away from here! Unless you can get the merchant to give me back all these lost emeralds over the last few decades.@§2Старик: §aНет! Убирайся отсюда! Если только ты не сможешь заставить торговца вернуть мне все эти потерянные эмеральды за последние несколько десятилетий.
+§2Grumpy Old Man: §aDid you win? I just woke up from my nap!@§2Старик: §aТы победил? Я только что проснулся после дневного сна!
+§2Grumpy Old Man: §aBack in my day there were no such thing as rares, let alone mythics!@§2Старик: §aВ мое время не было таких вещей, как редкие, не говоря уже о мификах!
+§2Grumpy Old Man: §aPersonal space is just as important at my age as any other age.@§2Старик: §aЛичное пространство в моем возрасте так же важно, как и в любом другом.
+§2Grumpy Old Man: §aThey opened the gate!? About damn time!@§2Старик: §aОни открыли ворота!? Чертовски вовремя!
+§2Grumpy Old Man: §aBack in my day, we used death as quick-travel.@§2Старик: §aВ мое время мы использовали смерть для быстрого телепорта.
+§2Grumpy Old Man: §aThey haven't made one of those since 940 AP!@§2Старик: §aОни не делали ничего подобного с 940 года ПП!
+§2Grumpy Old Man: §aI'm getting a bit old to go on an adventure...@§2Старик: §aЯ становлюсь немного староват для приключений...
+§2Grumpy Old Man: §aBack in my day we didn't have these fancy 'quests'.@§2Старик: §aВ мое время у нас не было таких причудливых "квестов".
+§2Grumpy Old Man: §aAhh... I was quite the sailor back in my days!@§2Старик: §aАх... В свое время я был настоящим моряком!
+
+§7[1/1] §6§lOrphion: §e...do§e you intend to recuperate in this manner?@§7[1/1] §6§lОрфион: §e...намерен ли ты восстановить силы таким образом?
+§7[1/2] §6§lOrphion: §eMy pulse, a glimpse. I appreciate your acting the saviour, but understand what you are truly here to do.@§7[1/2] §6§lОрфион: §eМой пульс, проблеск. Я ценю, что ты играешь роль спасителя, но пойми, для чего ты здесь на самом деле.
+§7[1/1] §6§lOrphion: §e...?@§7[1/1] §6§lОрфион: §e...?
+§7[2/2] §6§lOrphion: §eI ask you cease touching me. I am entirely too sensitive for the moment.@§7[2/2] §6§lОрфион: §eПрошу тебя перестать прикасаться ко мне. В данный момент я слишком чувствителен.
+§7[1/2] §6§lOrphion: §e§lEnough. §eMy gratefulness does not exceed my patience. Let this act as a warning, my pulse.@§7[1/2] §6§lОрфион: §e§lДостаточно. §eМоя благодарность не превышает моего терпения. Пусть это послужит предупреждением, мой пульс.
+§7[2/2] §6§lOrphion: §eTo lay hands upon the embodiment of light §eis...dangerous§e. I will request you stop these strange actions.@§7[2/2] §6§lОрфион: §eВозлогать руки на воплощение света...опасно. Я попрошу тебя прекратить эти странные действия.
+§7[1/1] §6§lOrphion: §e...ah§e? My pulse, your concern is touching. I will recover in time, do not worry.@§7[1/1] §6§lОрфион: §e...ах? Мой пульс, твоя забота трогательна. Я со временем восстановлюсь, не волнуйся.
 
 #####################################PETS##########################################
 §4You cannot pet your Chicken until it has reached Lv. 24.@§4Ты не можешь погладить свою Курицу пока она не достигнет 24 уровня.

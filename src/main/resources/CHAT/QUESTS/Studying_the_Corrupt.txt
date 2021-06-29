@@ -3,11 +3,11 @@
 §7[3/6] §2Pottur: §aSoldier, we haven't made any progress getting to Garoth.@§7[3/6] §2Поттур: §aСолдат, мы не смогли приблизиться к Гароту.
 §7[4/6] §2Pottur: §aTruth is, we simply don't know enough about him to know how to deal with this.@§7[4/6] §2Поттур: §aНо по правде, мы просто недостаточно знаем о нем, что бы что-то сделать.
 §7[5/6] §2Pottur: §aMaybe if you could help us find out more we could figure this out.@§7[5/6] §2Поттур: §aМожет ты сможешь помочь нам найти информацию о нем, что бы мы могли разобраться.
-§7[6/6] §2Pottur: §aGaroth, many years ago lived and studied in Elkurn. It might be a good place to start.@§7[6/6] §2Поттур: §aГарот много лет жил и учился в Элкурне. Это может быть хорошим местом для старта.
+§7[6/6] §2Pottur: §aGaroth, many years ago §blived and studied in Elkurn.§a It might be a good place to start.@§7[6/6] §2Поттур: §aГарот много лет §bжил и учился в Элкурне.§a Это может быть хорошим местом для старта.
 §7[1/6] §2Viraex: §aGaroth? Sorry that name doesn't ring a bell. He could have lived here, but...@§7[1/6] §2Вираэкс: §aГарот? Извини, не припоминаю такого. Он мог жить здесь, но...
 §7[2/6] §2Viraex: §aThe buildings here have been destroyed and rebuilt so many times.@§7[2/6] §2Вираэкс: §aПостройки в этом городе разрушались и восстанавливались много раз.
 §7[3/6] §2Viraex: §aIf you say he lived here many years ago, the oldest building is the church.@§7[3/6] §2Вираэкс: §aЕсли ты говоришь, что он жил тут много лет назад, то самым старым зданием была церковь.
-§7[4/6] §2Viraex: §aNow that you mention it, there were odd stories about the basement of the church.@§7[4/6] §2Вираэкс: §aТеперь, когда ты упомянул об этом, я вспомнил старые истории о подвале в церкви.
+§7[4/6] §2Viraex: §aNow that you mention it, there were odd stories §babout the basement of the church.@§7[4/6] §2Вираэкс: §aТеперь, когда ты упомянул об этом, я вспомнил старые истории о §bподвале в церкви.
 §7[5/6] §2Viraex: §aMy grandfather told me about it. I still have a key to the place, you are welcome to check it out for yourself.@§7[5/6] §2Вираэкс: §aМой дедушка рассказывал об этом. У меня остался ключ от этого места, можешь с радостью посетить его.
 §7[6/6] §2Viraex: §aI heard they found some weird rooms down there so they just left the place alone. Wise move, if you ask me.@§7[6/6] §2Вираэкс: §aЯ слышал, что внизу они нашли какие-то странные комнаты, так что решили просто забросить это место. Как по мне, так это умный ход.
 §7[1/10] §2Garoth's Journal: §aDay 4: The year is 623 AP. My base of operations has been completed, along with a safety bunker.@§7[1/10] §2Журнал Гарота: §aДень 4: Год 623 после открытия портала. Моя оперативная база готова, вместе с этим безопасным бункером.

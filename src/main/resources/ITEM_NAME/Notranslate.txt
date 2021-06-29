@@ -3350,7 +3350,6 @@ Tanned Leather Boots@
 §bGigabyte@ 
 §fImpeccable Granite Spear@ 
 §fImpeccable Light Spruce Stick@ 
-§eVolatile Core@ 
 §fBrilliant Diamond Helmet@ 
 §bUnravel@ 
 §dThe Rainmaker@ 
@@ -13950,3 +13949,1584 @@ Vampire Blocker@
 §eFluorescence@ 
 §bJourney (Orphion's Nexus of Light)@ 
 §bGmaj7 Volume Test@ 
+Fallbreakers@ 
+§cTachypsychiaÀ@ 
+§7§l256x §3Repair ScrapÀ@ 
+§cTachypsychia@ 
+§cPhilosopherÀ@ 
+Moontower@ 
+§7§l1x §eInfatuationÀ@ 
+§cConspirator's TrickpocketsÀ@ 
+§7§l2x §4Broken CorruptedÀÀÀInfestedÀÀÀPit KeyÀ@ 
+§7§l6x §4Nii RuneÀ@ 
+§cPhilosopher@ 
+§f§lDarwinMix@ 
+§fImpeccable Light Birch WandÀ@ 
+§a§lPeace Keepers@ 
+§f§lSeafaring@ 
+§f§lSimpleCubes@ 
+§f§lGondulf_@ 
+§f§lArtemBaklin06@ 
+§f§lDedKawaii@ 
+§f§lKvackins@ 
+§f§lShlnku@ 
+§f§lTample@ 
+§f§lFloT1@ 
+§7§ldeviospuppet@ 
+§7§lshlnkv@ 
+§7§lsunr1ze__@ 
+§7§l1x §dMarsh WadersÀ@ 
+§7§l1x §bBob's Mythic BowÀ@ 
+§7§l1x §dRing of GenerosityÀ@ 
+Infernal Impulse@ 
+§7§l10x §4Nii RuneÀ@ 
+§7§l10x §3Uth RuneÀ@ 
+§bTisaun's Valor@ 
+§7§l1x §bDetlas Teleport ScrollÀ@ 
+§7§l1x §bProximaÀ@ 
+Solum@ 
+§f§lConJStew8@ 
+§f§lBark_Clay@ 
+§f§lChurchella@ 
+§f§lDogInJapan@ 
+§f§l3042004@ 
+§f§lPatipl@ 
+§f§lDragonarX@ 
+§f§lrocky9322@ 
+§f§lTMdog@ 
+§f§lJupax@ 
+§f§lkiilll_cram@ 
+§f§llogiker@ 
+§7§lcool_derm@ 
+§7§l1x §dThousand WavesÀ@ 
+§7§ltiranpupka@ 
+§f§lTiranPupka@ 
+§a§lBRIS [BRIS]@ 
+§a§lChinaNumberOne [CNM]@ 
+§a§lAequitas [Aeq]@ 
+§a§lIceBlue Team [IBT]@ 
+§a§lEden [EDN]@ 
+§f§lÀPath to Talor (HQ)@ 
+§f§lÀTwisted Ridge@ 
+§f§lÀOld Crossroads North@ 
+§f§lÀEfilim Village@ 
+§f§lÀLexdales Prison@ 
+§f§lÀEfilim South East Plains@ 
+§f§lÀGelibord@ 
+§f§lÀLone Farmstead@ 
+§f§lÀLight Forest East Mid@ 
+§f§lÀLight Forest East Upper@ 
+§f§lÀViscera Pits West@ 
+§f§lÀMesquis Tower@ 
+§f§lÀKander Mines@ 
+§f§lÀPath to Cinfras@ 
+§f§lÀEntrance to Kander@ 
+§f§lÀAbandoned Manor@ 
+§f§lÀHeart of Decay@ 
+§f§lÀOld Crossroads South@ 
+§f§lÀLight Forest North Entrance@ 
+§f§lÀEfilim East Plains@ 
+§f§lÀLight Forest West Upper@ 
+§f§lÀEfilim South Plains@ 
+§f§lÀDecayed Basin@ 
+§f§lÀLexdale@ 
+§f§lÀDark Forest Village@ 
+§f§lÀFungal Grove@ 
+§f§lÀViscera Pits East@ 
+§f§ltukorama@ 
+§f§lszabi21@ 
+§f§lTucsika@ 
+§f§ldn6818@ 
+§f§lconformal@ 
+§f§lCsabhun@ 
+§f§lslyom21@ 
+§f§lpistouch@ 
+§f§lArthexis@ 
+§f§lmike_HUN@ 
+§f§lTheNewN00B@ 
+§f§lTIBICsoki01@ 
+§f§lCapnYeetus@ 
+§f§lZombieSlayer701@ 
+§f§lJoao4@ 
+§f§lMcBazsika@ 
+§f§lshadowgodz19@ 
+§f§lcsigusz@ 
+§f§lfishlov@ 
+§f§lZwanis@ 
+§f§lCatonaMan@ 
+§f§lLegendKiller08@ 
+§f§lBlocker_Kari@ 
+§f§lSecretDiscovery@ 
+§f§llonteina@ 
+§f§lSuaosoft@ 
+§f§lExtrovertedFire@ 
+§f§lTweeky99@ 
+§f§lBOT_0101@ 
+§f§lSmileeee__@ 
+§f§lwommbyzombie@ 
+§f§lTheRealMee@ 
+§f§lScientificDuck@ 
+§f§lPuffer_fishh@ 
+§f§lAkeHiro@ 
+§cOzoth Effect@ 
+§cAngels Wings Effect@ 
+§dThunder Effect@ 
+§7§lAequitas [Aeq]@ 
+§7§l1x §bRoyal Dusty AmuletÀ@ 
+§7§l1x §bRemikas' AuthorityÀ@ 
+§f§lÀDesolate Valley (HQ)@ 
+§7§l1x §dTriumphÀ@ 
+§f§lÀNesaak Transition (HQ)@ 
+§7§l1x §eKelvikÀ@ 
+§7§l1ssaa@ 
+§f§l1SSAA@ 
+§7§l1x §dDarksteel Full HelmÀ@ 
+§7§l1x §dDarkiron AegisÀ@ 
+§7§l1x §dEarth BreakerÀ@ 
+§7§l1x §dPyroclastÀ@ 
+§f§lOfficialOivy@ 
+§f§l1BROKILON1@ 
+§f§l_MilkiWay_@ 
+§f§l_Ypro_@ 
+§f§lWinterFailed@ 
+§f§l__NeiTRaLiTeT__@ 
+§f§lDonbassBaka@ 
+§f§liTzStorms@ 
+§7§l_ypro@ 
+§7§lypro@ 
+§7§l1x §dHypercaneÀ@ 
+§7§l1x §fPure Light Oak RelikÀ@ 
+Coyote Fang@ 
+Katana@ 
+§cConspirator's Trickpockets@ 
+§7§l1x §eSaffron ArchÀ@ 
+§7§l1x §eKaydeÀ@ 
+§7§l1x §eGospelÀ@ 
+Tesla@ 
+§7§l1x §dDemeterÀ@ 
+Efteling@ 
+§7§l4x §bPotion of Mana§3 [2/2]À@ 
+§7§l1x §aVisceral SkullcapÀ@ 
+§7§l1x §aVisceral ChestÀ@ 
+LostÀÀÀSanctuaryÀÀÀEntrance Teleportation Scroll@ 
+Chaser@ 
+Philosopher@ 
+§7§l1x §bPrymariÀ@ 
+§7§l1x §ePower CreepÀ@ 
+§7§l1x §eBlueberryÀ@ 
+§7§ls@ 
+§7§l1x §eTephraÀ@ 
+§7§l1x §dEitrÀ@ 
+§7§l1x §bBismuthiniteÀ@ 
+§7§l1x §eOpaliteÀ@ 
+§7§l3x §6InfestedÀÀÀPit KeyÀ@ 
+§7§l4x §4Nii RuneÀ@ 
+§7§l1x §bOlux's Prized WandÀ@ 
+§7§l1x §eBrookÀ@ 
+§7§l1x §dPlanktonÀ@ 
+§7§l1x §aChampion ChestplateÀ@ 
+§7§l1x §eLapis NecklaceÀ@ 
+§7§l1x §dBakteriÀ@ 
+§7§l1x §eFehuÀ@ 
+§7§l59x §3Repair ScrapÀ@ 
+Cursed Jackboots@ 
+Mudskipper@ 
+§7§l1x §dTraumaÀ@ 
+§7§l1x §dGraviton LanceÀ@ 
+§7§l1x §bAcceleratorÀ@ 
+§7§l1x §eRing of FocusÀ@ 
+§7§l1x §eCoroniumÀ@ 
+§7§l1x §bMomentumÀ@ 
+§7§l1x §ePower BraceletÀ@ 
+§7§l1x §4CorruptedÀÀÀIceÀÀÀBarrows KeyÀ@ 
+§7§l1x §eHilltopÀ@ 
+§7§l1x §dScroll of NythiarÀ@ 
+§7§l1x §4CorruptedÀÀÀSand-SweptÀÀÀTomb KeyÀ@ 
+§7§l1x §cPhilosopherÀ@ 
+§7§l2x §4Nii RuneÀ@ 
+§7§l1x §aOutlaw TunicÀ@ 
+§7§l1x §bCharm of the MagmaÀ@ 
+§aOverload Core@ 
+§7§l1x §bEnsa's FaithÀ@ 
+Demon Tide@ 
+§7§l1x §bEvanescentÀ@ 
+Diamond Fusion Necklace@ 
+§7§l1x §dIlluminiteÀ@ 
+Shell of Genbu@ 
+Lumina@ 
+Unholy Spirit@ 
+Thousand Waves@ 
+§7§l1x §dSano's WisdomÀ@ 
+§a§lMemory ParanoiaÀ@ 
+Stonehall@ 
+Ice Fragment@ 
+Sharp Terror@ 
+Malfunction@ 
+Oxalate@ 
+Syringe@ 
+Ice Sliver@ 
+Anchor Chain@ 
+Fortitude@ 
+§eBalloon's Bane@ 
+§7§l1x §eSwedenÀ@ 
+Draoi Fair@ 
+Sunrise@ 
+§f§ltriplerazee@ 
+§7§l1x §dJagÀ@ 
+§7§l1x §eMedeisÀ@ 
+§7§l1x §eSky GlazeÀ@ 
+§7§l1x §dMatchbookÀ@ 
+§f§lÀLion Lair@ 
+§f§lÀLion Lair (HQ)@ 
+§7§l1x §4CorruptedÀÀÀDecrepitÀÀÀSewers KeyÀ@ 
+Clash Hook@ 
+§7§l1x §aHorse MaskÀ@ 
+§f§lSen_4@ 
+§7§l1x §eTormenterÀ@ 
+§7§l1x §bGreaves of the VeneerÀ@ 
+§f§ltagusnk@ 
+§7§l1x §eQuartz-Laced LeggingsÀ@ 
+§7§l1x §eWhirlpoolÀ@ 
+§oOlux@ 
+Charm of the Worm@ 
+Bough of Fir@ 
+Olux's Prized Wand@ 
+DEFENSE 4@ 
+AGILITY 5@ 
+§5Unidentified Gaia@ 
+§7§l1x §dThroatcutÀ@ 
+§7§lsnekcoochieuwu@ 
+§7§l1x §5LamentÀ@ 
+§5Unidentified Fatal@ 
+§7§l1x §5Unidentified GaiaÀ@ 
+§f§lSnekCoochieUwU@ 
+§6Golden Wand@ 
+§6Golden Spear@ 
+§fPure Oak DaggerÀ@ 
+§7§l1x §dHazeÀ@ 
+§7§l1x §dArcusÀ@ 
+§7§l1x §eAdanacÀ@ 
+§7§l1x §eHookÀ@ 
+§7§l1x §eSandustÀ@ 
+Plated Iron Boots@ 
+Thin Iron Helmet@ 
+§7§l1x §dShameful GreavesÀ@ 
+§7§l1x §dTear of Pirate CoveÀ@ 
+§f§lTheDarkSoul@ 
+§f§lKallaMigRicardo@ 
+§f§lCosmicThunder@ 
+§f§lSephDark18@ 
+§f§lUniiversq@ 
+§f§lBasicAly@ 
+§f§lVoidTrasher@ 
+§f§lPucaet@ 
+§f§lThomasz111@ 
+§f§lMoonfeather@ 
+§f§lPcMacsterRace@ 
+§f§lNukewarmachine@ 
+§f§lKing__Bob@ 
+§f§lKin309@ 
+§f§lfuzzyfur123@ 
+§f§llevcoolbean@ 
+§f§lJakov@ 
+§f§l_Kxb@ 
+§f§lAlchabenKaker@ 
+§f§lsengjung123@ 
+§f§lPrisme606@ 
+§f§lxdorian2011x@ 
+§f§lturlismus@ 
+§f§lHappyCreeperlo@ 
+§f§luu360@ 
+§f§lChadCreator@ 
+§f§lWoodenScout@ 
+§f§l160@ 
+§f§l_The_Musician_@ 
+§f§lHaveMercyPlzXD@ 
+§f§lAnArmchair@ 
+§f§lStoyalz@ 
+§f§lGlenncrafter@ 
+§f§l0skr@ 
+§f§lInvin@ 
+§f§lOwOShredder@ 
+§f§lxXDOTTORXx@ 
+§f§lnunot@ 
+§f§lros_maris@ 
+§f§lCGnbz@ 
+§f§lPsykko@ 
+§f§l_Fidubu@ 
+§f§lT4zty@ 
+§f§l_fjfhfjfjgishbrk@ 
+§f§lLucJsuisTonPapa@ 
+§f§lWoraxe@ 
+§f§lzShirez@ 
+§f§lMDCCLXXVI@ 
+§f§lZorbynTheGreat@ 
+§f§lChan_He@ 
+§f§lstronbox@ 
+§f§lDoctorstrange77@ 
+§f§lMike_loooool@ 
+§f§lScouter700@ 
+§f§lOriTheSpirit@ 
+§f§lMajik_7@ 
+§f§lEzz_UltimateRayM@ 
+§f§lZuccjuic3@ 
+§f§lBe5hy_Andrizs@ 
+§f§lAzullo@ 
+§f§lWhel@ 
+§f§lWizconsin@ 
+§f§lmrTimo@ 
+§f§lbrbgettingstonks@ 
+§f§lPimbo0_@ 
+§f§lNofertary@ 
+§f§lForgottenMyPass@ 
+§f§lflowing2water@ 
+§f§lOoLs@ 
+§7§l1x §dVirtueÀ@ 
+§7§l1x §eSalmonÀ@ 
+§7§l1x §eHandmade Bucie KnifeÀ@ 
+§7§l1x §cDraoi FairÀ@ 
+§7§l1x §eDust BowlÀ@ 
+§7§l1x §eFaith HealerÀ@ 
+§7§l1x §eEbrithilÀ@ 
+§7§l1x §dFrosted LeggingsÀ@ 
+§7§l1x §eMagic BounceÀ@ 
+§7§l1x §dIvory BowÀ@ 
+§7§l1x §eEkelochÀ@ 
+§7§l1x §bChain RuleÀ@ 
+§7§l1x §dVerglasÀ@ 
+§7§l1x §ePragmatismÀ@ 
+§f§lxXxMrClockxXx@ 
+§f§lMeXuNiK@ 
+§7§l1x §bSitisÀ@ 
+§7§l1x §bKazeÀ@ 
+§cPhoenix Wings Effect@ 
+§7§l1x §eVivaceÀ@ 
+§f§oLlevigar@ 
+Pure Stone Stick@ 
+The Medic@ 
+§a§lEmorians [ERN]@ 
+§a§lSins of Seedia [SDU]@ 
+§a§lValkyrian Empire [Valk]@ 
+§a§lMicrosoft gang [Mcg]@ 
+§a§lGermany Elite [GMY]@ 
+§7§l1x §eScalding ScimitarÀ@ 
+§7§l1x §aJester BraceletÀ@ 
+§7§l1x §bBob's Mythic DaggersÀ@ 
+§a§lAn Iron Heart Part II֎À@ 
+§7§l1x §eChiefÀ@ 
+§7§l1x §aChampion HelmetÀ@ 
+Faith Healer@ 
+§6Fellowship Wooden Wand@ 
+§7§l1x §eShockwaveÀ@ 
+§7§l1x §eLichenwalÀ@ 
+§7§l1x §eAzuriteÀ@ 
+§7§l1x §dExecutioner HelmetÀ@ 
+§7§l1x §eIgnatiusÀ@ 
+§7§l1x §eCioccaÀ@ 
+§7§l1x §eRobinÀ@ 
+§7§l1x §eSpineÀ@ 
+§7§l1x §eNordstromÀ@ 
+§7§l1x §eAnger PointÀ@ 
+§7§l1x §dOzoneÀ@ 
+§7§l1x §dPapyrusÀ@ 
+§7§l1x §dChangeling's ChestplateÀ@ 
+§7§l1x §eLeadÀ@ 
+§7§l1x §dRycar's BravadoÀ@ 
+Toxic Spores@ 
+§7§l5x §6InfestedÀÀÀPit KeyÀ@ 
+§7§l2x §fBlack HorseÀ@ 
+§7§l3x §fBlack HorseÀ@ 
+§7§l1x §cTachypsychiaÀ@ 
+Devil's Scissor@ 
+Light Jungle Wood Shears@ 
+§7§l1x §dSilkwormÀ@ 
+§7§l4x §4Broken CorruptedÀÀÀIceÀÀÀBarrows KeyÀ@ 
+§f§ljeet0@ 
+§f§lPavliuk@ 
+§7§lmartadanters@ 
+§7§lscargun1@ 
+§7§l2x §6UndergrowthÀÀÀRuins KeyÀ@ 
+§7§l1x §eCharm of the FleaÀ@ 
+§7§l3x §bCorkian Amplifier IÀ@ 
+§7§l5x §bCorkian Amplifier IÀ@ 
+§7§l1x §dThe GamblerÀ@ 
+§7§l1x §eRegretsÀ@ 
+§7§l1x §5ResurgenceÀ@ 
+§7§l1x §ePhotonÀ@ 
+§7§l1x §dBullÀ@ 
+§7§l1x §dAstral WalkersÀ@ 
+§fStone-Hewn WandÀ@ 
+§7§l960x §3Repair ScrapÀ@ 
+§7§l536x §3Repair ScrapÀ@ 
+§7§l600x §3Repair ScrapÀ@ 
+§7§l704x §3Repair ScrapÀ@ 
+§7§l35x §3Repair ScrapÀ@ 
+§7§l1x §dSpiritÀ@ 
+§7§l1x §dSwiftÀ@ 
+§7§l1x §eRising SunÀ@ 
+§7§l1x §eMoulded HelmÀ@ 
+§7§l1x §eKolkhaarÀ@ 
+§bRolling Overture (Cinfras County)@ 
+§bCatalyst for a Fractured Psyche (Boss Battle 18)@ 
+§bThe Dark Artist's Anthem (The Hive)@ 
+§cLake Gylia Effect@ 
+§7§l1x §eCollectorÀ@ 
+§7§l1x §cPanic AttackÀ@ 
+Lodestone@ 
+Buster Bracer@ 
+Nature's Gift@ 
+Repulsion@ 
+§7§lelocegor@ 
+§f§lelocegor@ 
+§7§l1x §eAbyssal WalkersÀ@ 
+§7§lEnderHunters [END]@ 
+§7§lShadowFall [Shy]@ 
+The Gambler@ 
+Ensa's Faith@ 
+Alazarin@ 
+§7§l1x §bSelchar Teleport ScrollÀ@ 
+§7§l1x §eHairy CapÀ@ 
+§7§l1x §eBovemist AmuletÀ@ 
+§f§lÀLight Forest South Entrance (HQ)@ 
+§f§lÀLight Forest Entrance@ 
+§f§lÀLight Forest West Lower@ 
+§7§lThe Mage Legacy [Mag]@ 
+White@ 
+Dern's Desolation@ 
+§6§lA Grave MistakeÀ@ 
+§7§l4x §3Uth RuneÀ@ 
+§7§l1x §eArtificeÀ@ 
+Slap@ 
+§7§l89x §3Repair ScrapÀ@ 
+§7§l1x §aOverload CoreÀ@ 
+§7§l1x §bConvallariaÀ@ 
+§7§l1x §eSandstone LeggingsÀ@ 
+§7§l1x §eRubber RainbootsÀ@ 
+Refined Acacia Paper 1@ 
+§7§l1x §dEarth Relic BowÀ@ 
+§7§l1x §bPirate LuckÀ@ 
+Paradigm Shift@ 
+§7§l1x §cConspirator's TrickpocketsÀ@ 
+§f§lDShadow@ 
+§f§lPascalOz@ 
+§f§lMurzikk@ 
+§7§l4x §6FallenÀÀÀFactory KeyÀ@ 
+§7§l1x §eSparkling PlateÀ@ 
+§7§l1x §fFlawless Jungle RelikÀ@ 
+§7§l1x §eWorshipÀ@ 
+§7§l2x §bNesaak Teleport ScrollÀ@ 
+§7§l1x §eGlitzÀ@ 
+§7§l8x §6IceÀÀÀBarrows KeyÀ@ 
+Astral Walkers@ 
+Atroce@ 
+Follow The Wind@ 
+Infatuation@ 
+Lament@ 
+§f§lISimpGanyu@ 
+§f§l_Montyy@ 
+§f§lMineDomingosPT@ 
+§f§lDanger_Man@ 
+§f§lyungquito@ 
+§f§lSkeppers@ 
+§f§lQwasten@ 
+§f§lKelD1k@ 
+§f§lAmir3tier@ 
+§ePedometer@ 
+§7§lFloodfinger Nepta [Wxb]@ 
+§7§lphreneticknight@ 
+MageÀÀÀIsland Teleportation Scroll@ 
+§dMusic Swirl Effect@ 
+§6Golden Bow@ 
+§6Futuristic Wand@ 
+Enderman's Feet@ 
+Juniper@ 
+Ra@ 
+§7§l_disd5_@ 
+§dDissociation@ 
+Shattered Memory Shard@ 
+Avocado@ 
+Kamikaze@ 
+§7§lboki@ 
+§f§l_Nasha_Nasha_@ 
+§f§lSimonBlok@ 
+Dragulj Boots@ 
+Bantisu's Approach@ 
+Tisaun's Valor@ 
+§f§lAkylen0k@ 
+§7§l1x §aNether TunicÀ@ 
+§cPhoenix Spear@ 
+§dx2 Food Spear@ 
+§7§l1x §bTorrential TideÀ@ 
+Golden Avia Feather@ 
+Stratosphere@ 
+Charm of the Stone@ 
+Impeccable Granite Stick@ 
+Impeccable Jungle Shears@ 
+Brilliant Diamond Leggings@ 
+Brilliant Diamond Helmet@ 
+Impeccable Jungle Stick@ 
+Clear Diamond Chestplate@ 
+Impeccable Light Jungle Stick@ 
+Impeccable Jungle Relik@ 
+Warp@ 
+§7§l1x §dErhuÀ@ 
+Turmoil@ 
+Rebellion@ 
+STRENGTH 4@ 
+Garnet@ 
+§7§l1x §eZephyrÀ@ 
+§7§l1x §bThrunda RipsawÀ@ 
+§7§l1x §bFollow the WindÀ@ 
+§6Half-Moon Dagger@ 
+WoolÀ@ 
+§7§l4x §6Galleon'sÀÀÀGraveyard KeyÀ@ 
+§7§l1x §bOphiuchusÀ@ 
+Ancient Coins@ 
+Overheated Processor@ 
+Doom Stone@ 
+Arcane Anomaly@ 
+Stress@ 
+§7§l1x §bNether's ScarÀ@ 
+Refined Chain Leggings@ 
+Impeccable Jungle Spear@ 
+§7§l4x §4Broken CorruptedÀÀÀInfestedÀÀÀPit KeyÀ@ 
+§7§l3x §4Broken CorruptedÀÀÀLostÀÀÀSanctuary KeyÀ@ 
+§7§l3x §4Broken CorruptedÀÀÀUnderworldÀÀÀCrypt KeyÀ@ 
+§f§lÀLlevigar Entrance (HQ)@ 
+Calidade Mail@ 
+§7§l1x §5RevenantÀ@ 
+§7§l1x §aSilverfish HelmÀ@ 
+Blade of Wisdom@ 
+InfestedÀÀÀPitÀÀÀEntrance Teleportation Scroll@ 
+§7§l1x §eSynergyÀ@ 
+§7§l1x §eWing CapÀ@ 
+§f§lÀAvos Workshop@ 
+P����lier@ 
+§7§l1x §dEctoplasmÀ@ 
+§7§l1x §dRelic WandÀ@ 
+§7§l1x §dBovine CuffÀ@ 
+§7§l5x §bCorkian Amplifier IIÀ@ 
+§7§l3x §4CorruptedÀÀÀIceÀÀÀBarrows KeyÀ@ 
+§f§lQuadroYT@ 
+§f§lxCqramel@ 
+§f§lvAtychi@ 
+§f§lGlowicial@ 
+§f§lTechnoPope@ 
+§f§lDeenosour@ 
+§f§lEgdarTheRuiner@ 
+§f§lCarrying@ 
+§f§l_____Monkey_____@ 
+§f§lGCB_teacup@ 
+§7§l1x §dThriceÀ@ 
+§f§lHarka3L@ 
+§f§llasse333@ 
+§f§lHarganeth@ 
+§f§lFrankyPT@ 
+§f§lumisol@ 
+§f§lSir_Sandyduck@ 
+§f§lRidgi@ 
+§f§lbaxdeee@ 
+§f§laFireBlaze@ 
+§f§lCixt@ 
+§f§lAzap@ 
+§f§lAsuns@ 
+§f§lHecateNoire@ 
+§f§lKakos369@ 
+§f§lJoinShy@ 
+§f§lMoshii@ 
+§f§lkavalara@ 
+§f§lhexQT@ 
+§f§lDumble3@ 
+§f§lOmnivi@ 
+§f§lRadicial@ 
+§f§lXernial@ 
+§f§lLeocthl@ 
+§f§lSpamLMB@ 
+§f§lJustKillua@ 
+§f§lLemoh@ 
+§f§lPxndaBot@ 
+§f§llennonlovesfrogs@ 
+§f§lJoinShadowFall@ 
+§f§lLubire@ 
+§f§lGetMads@ 
+§f§lGleoLP@ 
+§f§lCorona_Weedus@ 
+§f§lTheNamesTen@ 
+§f§la6o@ 
+§7§l1x §dOutburstÀ@ 
+Refined Willow Wood 1@ 
+§f§lÀNesaak Transition@ 
+§f§lÀNesaak Plains North East@ 
+Ominous Wind@ 
+STRENGTH 5@ 
+DEXTERITY 5@ 
+DEFENSE 5@ 
+Black@ 
+§f§lÀTwain Lake@ 
+§f§lÀTwain Lake (HQ)@ 
+§f§lÀNesaak Plains Upper North West@ 
+§f§lÀNesaak Plains South East@ 
+§fFlawless Jungle DaggerÀ@ 
+§f§lÀBob's Tomb@ 
+§7§l1x §dHeliophobiaÀ@ 
+§f§lÀNesaak Plains South East (HQ)@ 
+§f§lÀNesaak Village@ 
+§f§lÀNesaak Plains South West@ 
+§f§lÀNesaak Plains Mid North West@ 
+§f§lÀNesaak Plains South West (HQ)@ 
+§f§lÀDesolate Valley@ 
+§f§lÀTower of Ascension@ 
+§7§l1x §eSunshine ShortswordÀ@ 
+§f§lÀTower of Ascension (HQ)@ 
+§7§l1x §dDragon DanceÀ@ 
+§f§lÀIcy Descent@ 
+§7§l1x §ePro TemporeÀ@ 
+Remikas' Authority@ 
+Gelatinous Slime Chunk@ 
+Tisaun's Proof@ 
+Proxima@ 
+Rhythm of the Seasons@ 
+§7§l3x §4CorruptedÀÀÀDecrepitÀÀÀSewers KeyÀ@ 
+§7§l1x §bNesaak Teleport ScrollÀ@ 
+§7§l17x §4Nii RuneÀ@ 
+§7§l24x §3Uth RuneÀ@ 
+§7§l13x §4Nii RuneÀ@ 
+§f§liKroshot@ 
+§7§l4x §6UndergrowthÀÀÀRuins KeyÀ@ 
+§7§l1x §dAugoeidesÀ@ 
+§7§l1x §dPhalanxÀ@ 
+§7§l1x §dHellbowÀ@ 
+§7§l1x §dNaragath's HoofÀ@ 
+§7§l1x §eWickedÀ@ 
+§7§l1x §bIsland ChainÀ@ 
+§7§l1x §dLuminisÀ@ 
+§7§l1x §eEtikalÀ@ 
+§7§l1x §eRotten WoodÀ@ 
+Pro Tempore@ 
+§7§lafriman38@ 
+§7§l1x §eRusted RingÀ@ 
+DEFENSE 3@ 
+§f§oTHANOS@ 
+Ignition@ 
+§6Pirate Relik@ 
+§6Storm Effect@ 
+§dLava Attack Effect@ 
+§7§lProfession Heaven [PROF]@ 
+§7§lThe Hive [THI]@ 
+§7§lWrathOfTheFallen [WFa]@ 
+§7§lGang [FFA]@ 
+Clear Diamond Boots@ 
+§7§lgorya@ 
+Weather Warning@ 
+Rusted Ring@ 
+§f§lToothlessFox@ 
+§f§lFerG3nn_JSJ@ 
+§f§lzModki@ 
+§7§lzffeex@ 
+§7§ltoothlessffox@ 
+§7§lninja@ 
+§7§ltroyhetbanaantje@ 
+§7§l6okcep@ 
+§7§landystyle@ 
+§7§l1x §dElectrolyticÀ@ 
+Ciocca@ 
+Sunsetter@ 
+§7§l1x §eCorruption SealÀ@ 
+§7§l1x §eRazorÀ@ 
+Impeccable Light Jungle Shears@ 
+Impeccable Jungle Bow@ 
+§7§l1x §dLimboÀ@ 
+§7§l1x §eSapphire ShardÀ@ 
+§7§l1x §dNephilimÀ@ 
+§fPure Andesite WandÀ@ 
+§7§l1x §eJiltedÀ@ 
+§7§l3x §3Uth RuneÀ@ 
+§6Golden Relik@ 
+§cDern Relik@ 
+§cDern Dagger@ 
+§4Dragon Wybel Token@ 
+Spiritdancer@ 
+§6Pirate Cannon@ 
+§7§l4x §fBlack HorseÀ@ 
+§cBounty Hunter Hat@ 
+§7§l1x §eWirt's LegÀ@ 
+§7§l30x §3Uth RuneÀ@ 
+§7§l1x §3Uth RuneÀ@ 
+§7§l1x §dEarth Relic RelikÀ@ 
+§7§l8x §6InfestedÀÀÀPit KeyÀ@ 
+§7§l3x §4Broken CorruptedÀÀÀDecrepitÀÀÀSewers KeyÀ@ 
+§7§l1x §aOutlaw CapÀ@ 
+§7§l1x §eReactionÀ@ 
+§7§l1x §dDune SandalsÀ@ 
+§7§l3x §4Broken CorruptedÀÀÀUndergrowthÀÀÀRuins KeyÀ@ 
+Bob's Mythic Daggers@ 
+WATER 5@ 
+§7§l8x §4Nii RuneÀ@ 
+§7§l7x §4Broken CorruptedÀÀÀLostÀÀÀSanctuary KeyÀ@ 
+Simplicity@ 
+Waterlogged Branch@ 
+Gold Tooth@ 
+Reinforced Leather@ 
+Oceanic Sand@ 
+Oceanic Silt@ 
+§7§l1x §bCharm of the TempestÀ@ 
+§7§l1x §bScorpioÀ@ 
+§f§lÀGrey Ruins@ 
+§f§lÀGrey Ruins (HQ)@ 
+§7§l1x §eObsidianÀ@ 
+§f§lÀForgotten Town@ 
+§f§lÀThe Broken Road@ 
+§f§lÀWorm Tunnel@ 
+§7§l1x §dBottled SkyÀ@ 
+CorruptedÀÀÀUndergrowthÀÀÀRuins Key@ 
+WISDOM 3@ 
+STRENGTH 8@ 
+§7§l6x §4Broken CorruptedÀÀÀLostÀÀÀSanctuary KeyÀ@ 
+§7§l32x §4Nii RuneÀ@ 
+§7§l64x §4Nii RuneÀ@ 
+§7§l24x §4Broken CorruptedÀÀÀIceÀÀÀBarrows KeyÀ@ 
+§7§l1x §dSow ThistleÀ@ 
+§f§lVipAndrey@ 
+§7§l1x §eSeafarer's CoatÀ@ 
+White-hot Leggings@ 
+§7§l1x §fFlawless Stone RelikÀ@ 
+§7§l1x §dShort CircuitÀ@ 
+§f§lÀLuminous Plateau@ 
+§f§lÀLuminous Plateau (HQ)@ 
+§f§lÀHeavenly Ingress@ 
+Impeccable Granite Bow@ 
+Impeccable Granite Relik@ 
+Impeccable Light Jungle Bow@ 
+§7§l1x §eVitriolÀ@ 
+§f§lJamuSenpai@ 
+Flawless Oak Bow@ 
+Sand-SweptÀÀÀTombÀÀÀEntrance Teleportation Scroll@ 
+Flawless Light Oak Spear@ 
+Fighting Spirit@ 
+Fluffy Spear@ 
+LUTHO@ 
+Limbo@ 
+§f§lÀPrimal Fen@ 
+§f§lÀOtherwordly Monolith@ 
+§f§lÀOtherwordly Monolith (HQ)@ 
+§f§lÀField of Life@ 
+§7§l1x §eLakeÀ@ 
+§f§lÀHeavenly Ingress (HQ)@ 
+§7§l1x §bMarvelÀ@ 
+§7§l1x §dSarnfic's Lost TreasureÀ@ 
+§7§l1x §eShiny CoinÀ@ 
+§7§l1x §dThe Master's GiÀ@ 
+§7§l1x §bOlux's Prized BowÀ@ 
+§7§l1x §dFire Relic RelikÀ@ 
+§7§l3x §6Galleon'sÀÀÀGraveyard KeyÀ@ 
+Mysterious Mist@ 
+Laryngeal Flesh@ 
+Flawless Stone Stick@ 
+§7§l1x §fWhite HorseÀ@ 
+§7§l1x §dBibliotekÀ@ 
+Refined Barley String 1@ 
+Tarnished Gold Foil@ 
+Refined Birch Wood 2@ 
+Refined Barley String 2@ 
+§7§l1x §dSizzling ShawlÀ@ 
+§7§l1x §dUndyingÀ@ 
+Collector@ 
+§7§l1x §eBarbarianÀ@ 
+§7§l1x §eSharpÀ@ 
+§7§l1x §dWynnter ScarfÀ@ 
+§7§l1x §eCopper-Alloy PikeÀ@ 
+§7§l1x §eEchoÀ@ 
+§7§l1x §dSpikeÀ@ 
+§7§l1x §dChestplate of IneptitudeÀ@ 
+§7§l1x §aBlack PantsÀ@ 
+§7§l1x §aBlack BootsÀ@ 
+§7§l1x §dHiddenÀ@ 
+§f§lÀNexus of Light@ 
+§f§lÀNexus of Light (HQ)@ 
+§7§l4x §6LostÀÀÀSanctuary KeyÀ@ 
+§7§l271x §3Repair ScrapÀ@ 
+§7§l1x §eRectificatorÀ@ 
+§7§l1x §eZombified BranchÀ@ 
+§7§l1x §eDevoreuseÀ@ 
+§7§l1x §fPure Andesite WandÀ@ 
+Ocean Blade@ 
+Cross@ 
+Vartija@ 
+§7§l1x §eOxalateÀ@ 
+§7§l1x §bHeraculÀ@ 
+§7§l1x §eBackfireÀ@ 
+§7§l1x §bCorkian Amplifier IIIÀ@ 
+The Meddler@ 
+§7§l1x §cRecalcitranceÀ@ 
+§7§l1x §eElectrophorusÀ@ 
+§f§lÀSavannah East Lower@ 
+§f§lgekosdn@ 
+§f§l6_Pokemon_9@ 
+§f§lTheFixSK@ 
+§7§lv@ 
+§fFlawless Light Spruce DaggerÀ@ 
+§7§l1x §dBurnoutÀ@ 
+§7§l1x §eReflexÀ@ 
+Standard Chain Leggings@ 
+Tonbo@ 
+Static Wand@ 
+Air Relic Wand@ 
+Gathering Axe 7@ 
+Ring of Rubies@ 
+Charm of the Magma@ 
+Pykrete@ 
+Refined Spruce Wood 1@ 
+Frostbitten Flesh@ 
+Griffin@ 
+§f§lBlagoWhite@ 
+§7§l1x §dSkyspiralÀ@ 
+§7§l1x §eMeteoriteÀ@ 
+§7§l1x §eChroma CannonÀ@ 
+§7§l1x §eVartijaÀ@ 
+§7§l1x §eCoyote CrestÀ@ 
+§7§l1x §dMemorialÀ@ 
+§7§l1x §dCoeur de LionÀ@ 
+§dx2 Water Effect@ 
+§dx2 Letter Swirl Effect@ 
+§7§l1x §bOverdriveÀ@ 
+§7§l4x §6EldritchÀÀÀOutlook KeyÀ@ 
+§7§l1x §eMagical LoopÀ@ 
+§7§lstmehusky@ 
+§7§l1x §fNew Golden LeggingsÀ@ 
+§dx2 Thunder Effect@ 
+§7§l12x §3Repair ScrapÀ@ 
+§7§ldonbassnaka@ 
+§7§lKongoBoys [DUDE]@ 
+§7§lApollon [APLN]@ 
+§a§lApollon [APLN]@ 
+§a§lKongoBoys [DUDE]@ 
+§7§l1x §dArateraÀ@ 
+Electric Torc@ 
+§7§l1x §dManablastÀ@ 
+§f§lsif0@ 
+§f§lSTTRAFE@ 
+§7§l62x §bNesaak Teleport ScrollÀ@ 
+§d§lTower Multi-Attacks §7[Lv. 1]@ 
+§d§lTower Volley §7[Lv. 1]@ 
+§f§lDeadInside_16yo@ 
+§f§lÀDesert Mid-Upper@ 
+§f§lÀDesert Mid-Upper (HQ)@ 
+§7§l3x §6Potion of WisdomÀ@ 
+§7§l2x §4Broken CorruptedÀÀÀUnderworldÀÀÀCrypt KeyÀ@ 
+§f§lÀDesert Upper (HQ)@ 
+§7§l1x §dLazarus' BraceÀ@ 
+§7§l1x §eGiant's RingÀ@ 
+§f§lÀMummy's Tomb@ 
+§f§lÀDesert East Upper (HQ)@ 
+§f§lÀDesert East Lower@ 
+§f§lÀDesert East Lower (HQ)@ 
+§7§lBRIS [BRIS]@ 
+§7§l3x §6Sand-SweptÀÀÀTomb KeyÀ@ 
+§7§l1x §eAeolusÀ@ 
+§7§l20x §6UnderworldÀÀÀCrypt KeyÀ@ 
+§f§lÀDesert West Lower@ 
+§f§lÀDesert West Lower (HQ)@ 
+§7§l1x §5Unidentified DiscovererÀ@ 
+§5Unidentified Discoverer@ 
+§7§l3x §bCorkian Amplifier IIÀ@ 
+§7§l1x §dJokerÀ@ 
+§7§l1x §eStoneWallÀ@ 
+§fx2 Dungeon Bomb@ 
+§fx4 Combat XP Bomb@ 
+§f§ldaxbee@ 
+§f§lJustHisoka@ 
+§f§lPseudoNoob@ 
+§f§lEmolga3@ 
+§f§lImSmily@ 
+§f§lMoltingPenguin@ 
+§f§lMonkeyPet@ 
+§f§lJobeinaRobe@ 
+§f§lRemcoco@ 
+§f§lI_Liek_Turtlez@ 
+§f§lGrizzlyChicken_@ 
+§f§lYINONK@ 
+§f§lAppassionate@ 
+§f§lmaorking9090@ 
+§f§lhowl888@ 
+§f§lTypicalRif@ 
+§f§lSekura@ 
+§f§ljkcliion@ 
+§f§l7q4_@ 
+§f§lPersonBelowRocks@ 
+§f§lZemha@ 
+§f§lDrajenail@ 
+§f§lVeyy_@ 
+§f§lPiggyQAQ@ 
+§f§lYarntis73@ 
+§f§lHEEHE66@ 
+§f§lThe_Void_Walker@ 
+§f§lWildism@ 
+§f§lNGNL_Snow@ 
+§f§lTheresxx@ 
+§f§lstevekochavi@ 
+§f§lWrithing_Vines@ 
+§f§lcoordyxoxo@ 
+§f§l_Strelitzia@ 
+§f§lDemeco@ 
+§f§lSuper_Novae@ 
+§f§lCardboard_Moose@ 
+§f§lEcho_Point@ 
+§f§lStorminator2k@ 
+§f§lRick_Grimes_JR@ 
+§f§l_Catastrophic_@ 
+§f§lsnowyyy@ 
+§f§lxMini_@ 
+§f§lFrankiez@ 
+§f§lDumbyuar@ 
+§f§lDotTriggered@ 
+§f§lTomoshikaStan@ 
+§f§lNoxyWT@ 
+§f§lbl0ckbuster2k_YT@ 
+Opium@ 
+§7§l1x §5DawnbreakÀ@ 
+§7§l6x §fBlack HorseÀ@ 
+§7§l18x §4Nii RuneÀ@ 
+§f§lDITFZeroTwo@ 
+§f§lssraex@ 
+§f§lVIII_Flaw@ 
+§7§l1x §fStudded Leather TunicÀ@ 
+Vivace@ 
+Dofotri@ 
+Vital@ 
+Vile@ 
+§7§l149x §3Uth RuneÀ@ 
+Gnome's Ring@ 
+Palette@ 
+Twin Daggers@ 
+§7§l1x §eCrystal SenbonÀ@ 
+§f§lKiritoKirigayaZ@ 
+§cDern Bow@ 
+§6Pentagram Effect@ 
+§6Half-Moon Bow@ 
+§7§lkiritokirigayz@ 
+§7§l1x §dAriodo's DialÀ@ 
+§7§l1x §dGarnetÀ@ 
+§7§l320x §3Repair ScrapÀ@ 
+§7§l19x §3Repair ScrapÀ@ 
+§7§l1x §eChillÀ@ 
+§7§l1x §bSaundersi SignetÀ@ 
+§7§l1x §dStatueÀ@ 
+§7§l1x §bInferna FlamewreathÀ@ 
+§7§l1x §bCrater PrintÀ@ 
+§7§l1x §dEnmityÀ@ 
+Thick Vines@ 
+Heracul@ 
+Soft Sand@ 
+§7§l1x §dThe JudgeÀ@ 
+§7§l1x §eSnow DustÀ@ 
+§7§l1x §eEnd of LimitsÀ@ 
+Gold Hydro Necklace@ 
+Sleeping Beast@ 
+§f§lRamlupa@ 
+§7§lskunker@ 
+§f§lÀPrimal Fen (HQ)@ 
+§f§lÀField of Life (HQ)@ 
+§7§l1x §bRusted RootÀ@ 
+§f§lLomtik2@ 
+§7§lstependia@ 
+§f§lstependia@ 
+§7§lninesigma@ 
+§f§lNineSigma@ 
+§f§lÀForest of Eyes@ 
+§5Unidentified Guardian@ 
+§f§lÀForgotten Town (HQ)@ 
+§7§l850x §3Repair ScrapÀ@ 
+§f§lÀWorm Tunnel (HQ)@ 
+§7§l1600x §3Repair ScrapÀ@ 
+§f§lÀThe Broken Road (HQ)@ 
+§f§lÀThe Silent Road@ 
+Light Birch Wood Stick@ 
+§7§l1x §eDelugeÀ@ 
+§7§l1x §dTakan's TreacheryÀ@ 
+§7§l1x §dMirrorÀ@ 
+§7§l1x §eMighty PantsÀ@ 
+§7§l100x §3Repair ScrapÀ@ 
+§7§l178x §3Repair ScrapÀ@ 
+§7§l1x §eCoursing MailÀ@ 
+§7§l1x §dKrakemÀ@ 
+§6Futuristic Dagger@ 
+§7§l1x §eWeather WarningÀ@ 
+Crater Print@ 
+Phantasmagoria@ 
+§7§l17x §6UnderworldÀÀÀCrypt KeyÀ@ 
+§7§l1x §bConference CallÀ@ 
+§7§l1x §dRestored Ancient HelmetÀ@ 
+§7§l42x §bDungeon Teleport ScrollÀ@ 
+§7§l1x §fFlawless Light Spruce DaggerÀ@ 
+§7§l1x §5GuardianÀ@ 
+Adanac@ 
+Fluorescence@ 
+Mirror@ 
+Raging Wind@ 
+Smoky Diamond Chestplate@ 
+Darkweaver@ 
+Reason@ 
+Rotten Wood@ 
+§7§l1x §dBloodlustÀ@ 
+§7§l1x §eSmack JacketÀ@ 
+§7§l1x §eFluorescenceÀ@ 
+§7§l1x §eLullabyÀ@ 
+§f§lÀBandit Camp Exit@ 
+§f§lÀBandit Camp Exit (HQ)@ 
+§7§l1x §dAlbedoÀ@ 
+§7페이지 21로 이동@ 
+§7페이지 1로 이동@ 
+§d§lPvP Damage §7[Lv. 1]@ 
+§7§l1x §eBelconÀ@ 
+§7§ldiftzerotwo@ 
+§7§lEmorians [ERN]@ 
+Mender@ 
+§f§lÀRoad to Time Valley (HQ)@ 
+§f§lÀNivla Woods Entrance@ 
+§f§lÀEmerald Trail@ 
+§f§lQQobalt@ 
+§7§l1x §dToxotesÀ@ 
+§f§lÀSouth Nivla Woods@ 
+§f§lÀSouth Nivla Woods (HQ)@ 
+§f§lÀElkurn Fields@ 
+Refined Malt String 1@ 
+Refined Malt String 2@ 
+Enraged Soul@ 
+Hook@ 
+Molotov@ 
+§f§lÀElkurn@ 
+§f§lÀElkurn (HQ)@ 
+§7§l1x §eTempestÀ@ 
+§7§l1x §eRationÀ@ 
+§7§l1x §cStrobelightÀ@ 
+§f§lÀNemract Town@ 
+§7§l23x §3Repair ScrapÀ@ 
+Refined Sandstone Ingot 1@ 
+§f§lgo1g@ 
+Waterfall Thyme@ 
+Highland Basil@ 
+§7§l1x §dArchaicÀ@ 
+§7§l1x §dSquid DaggerÀ@ 
+§7§l1x §aSnail MailÀ@ 
+§aSnail Mail@ 
+§7§l1x §aSnail LeggingsÀ@ 
+§7§l1x §aSnail BootsÀ@ 
+§7§l1x §aSnail HelmÀ@ 
+§7§l1x §eAcidÀ@ 
+Snail Boots@ 
+Snail Leggings@ 
+Snail Mail@ 
+Snail Helm@ 
+§7§lNerfuria [Nia]@ 
+§7§l1x §dSky Chef's ApronÀ@ 
+§f§lGorya@ 
+§f§l_EvilMoon_@ 
+§7§l1x §eCreekÀ@ 
+§6Pirate Wand@ 
+§7§l150x §3Repair ScrapÀ@ 
+Prog@ 
+Legendary Smasher@ 
+§7§l1x §eFeithidÀ@ 
+§7§l55x §3Repair ScrapÀ@ 
+§7§l5x §6IceÀÀÀBarrows KeyÀ@ 
+§7§lviii_flaw@ 
+Impeccable Diorite Stick@ 
+Impeccable Granite Shears@ 
+Impeccable Light Spruce Relik@ 
+§7§l230x §3Repair ScrapÀ@ 
+§7§l1x §dFire Relic DaggersÀ@ 
+§7§l1x §bArakadicus' BodyÀ@ 
+§f§lMagicf16@ 
+§7§l1x §eRosarioÀ@ 
+§cPhoenix Dagger@ 
+§4Frosty Sword@ 
+§4Frosty Relik@ 
+§6Futuristic Bow@ 
+§6Half-Moon Spear@ 
+§4Frosty Bow@ 
+§6x2 Golden Spear@ 
+§f§lPhonya@ 
+§7§l78x §3Repair ScrapÀ@ 
+§7§l142x §3Repair ScrapÀ@ 
+§7§l15x §6UndergrowthÀÀÀRuins KeyÀ@ 
+§7§l1x §eAerolia BootsÀ@ 
+Bonethrasher@ 
+§7§l14x §3Repair ScrapÀ@ 
+§7§l1x §bZephra ShredderÀ@ 
+§7§l12x §fDepressing BowÀ@ 
+§7§l1x §dSquall's BreathÀ@ 
+Sandust@ 
+Flawless Light Spruce Spear@ 
+§f§lTheGoddessMercy@ 
+§f§lNeemkee@ 
+§f§ldhcy@ 
+§f§lInterpunctie@ 
+Ariodo's Dial@ 
+§7§l1x §aMask of the Dark VexationsÀ@ 
+§7§l1x §5PureÀ@ 
+§7§l1x §bProsencephalonÀ@ 
+§7§l1x §dRelic BowÀ@ 
+§7§l1x §eHeartstringsÀ@ 
+§7§l1x §dThunder Relic BowÀ@ 
+§7§l1x §dRustÀ@ 
+Gathering Scythe 7@ 
+§7§l3x §6IceÀÀÀBarrows KeyÀ@ 
+§7§l1x §ePaletteÀ@ 
+§7§l1x §dVoid CatalystÀ@ 
+§7§l1x §eTroms' Climbing TrousersÀ@ 
+§7§l1x §bTroms Teleport ScrollÀ@ 
+§7§l90x §3Repair ScrapÀ@ 
+§7§l1x §dSea LegsÀ@ 
+§7§l1x §eSecretÀ@ 
+§7§l54x §3Repair ScrapÀ@ 
+§7§l1x §eMuddy SolesÀ@ 
+§f§lS_E_S_H@ 
+Cross-aegis@ 
+Vandalizer@ 
+Kilij@ 
+§7§l1x §bRikterÀ@ 
+Saffron Arch@ 
+Flawless Light Oak Bow@ 
+Flawless Birch Spear@ 
+§7§l1x §dHorseshoeÀ@ 
+§7§l1x §bEvent HorizonÀ@ 
+§7§l1x §dFyrespitÀ@ 
+§7§l1x §dNezhaÀ@ 
+§7§l1x §eRhunaexÀ@ 
+§7§l1x §eLoamÀ@ 
+Coursing Mail@ 
+Ration@ 
+§7§l25x §4Nii RuneÀ@ 
+§7§l19x §4Nii RuneÀ@ 
+§7§l6x §3Uth RuneÀ@ 
+§f§lBliss_pls@ 
+§f§lNaturallyUnknown@ 
+§7§l120x §3Uth RuneÀ@ 
+§6Buying 1 Royal Bug?s BloodÀ@ 
+§7§l1x Royal Bug?s BloodÀ@ 
+Royal Bug?s Blood@ 
+§f§lMr_Caramel4elik@ 
+§7§lhappy_en@ 
+§f§lHappy_EN@ 
+§f§lzBoned@ 
+§7§l2x §fDepressing SpearÀ@ 
+§7§l2x §fDepressing ShearsÀ@ 
+§dAir Relic Daggers@ 
+§f§lDeviouspuppet@ 
+Charon's Left Arm@ 
+§7§l1x §eMistpuffÀ@ 
+§7§l412x §3Repair ScrapÀ@ 
+§7§l20x §4Nii RuneÀ@ 
+§7§l1x §dStorm SurgeÀ@ 
+§7§l1x §bLoaded QuestionÀ@ 
+§7§l1x §dDying LightÀ@ 
+§7§l1x §dSanareÀ@ 
+§7§l6x §6UnderworldÀÀÀCrypt KeyÀ@ 
+§7§l1x §eFirecloudÀ@ 
+§dx2 Steampunk Dagger@ 
+§6Floating Fairy Effect@ 
+§7§l1x §eNettleÀ@ 
+§7§l1x §eBejeweled BraceletÀ@ 
+§7§l1x §eSteel MailÀ@ 
+§7§l1x §cRenda LangitÀ@ 
+Renda Langit@ 
+Scroll of Nythiar@ 
+Snowslicer@ 
+§7§l9x §3Uth RuneÀ@ 
+§7§l2x §4CorruptedÀÀÀDecrepitÀÀÀSewers KeyÀ@ 
+§7§l8x §3Repair ScrapÀ@ 
+§7§l1x §eSolsticeÀ@ 
+§f§lMatrixSosok@ 
+§7§l1x §dSaving GraceÀ@ 
+§7§l1x §dTalariaÀ@ 
+Handmade Bucie Knife@ 
+Ghostly Essence@ 
+Pillaged Fragment@ 
+Erhu@ 
+§7§l1x §bThesead Teleport ScrollÀ@ 
+§6§lThe Envoy Part IIÀ@ 
+§f§lÀRymek East Lower@ 
+§f§lÀRymek East Lower (HQ)@ 
+§f§lÀRymek West Lower@ 
+§f§lÀRymek West Lower (HQ)@ 
+§f§lÀRymek West Mid@ 
+§fFlawless Spruce DaggerÀ@ 
+§7§l1x §eGlissandoÀ@ 
+§7§l1x §dLeggings of DesolationÀ@ 
+§7§l1x §dBattle BishopÀ@ 
+§7§l1x §aBlack TunicÀ@ 
+§7§l350x §3Repair ScrapÀ@ 
+§7§l1x §dSigil of ResistanceÀ@ 
+§7§l1x §dCircuit FlightsÀ@ 
+§7§l1x §fNew Golden BootsÀ@ 
+§7§l11x §4Nii RuneÀ@ 
+§7§l1x §bCrimsonÀ@ 
+§7§l1x §dSublimeÀ@ 
+§f§lÀSavannah East Lower (HQ)@ 
+§7§l4x §4Broken CorruptedÀÀÀLostÀÀÀSanctuary KeyÀ@ 
+§7§l1x §fLight Spruce Wood BowÀ@ 
+Steel Sabre@ 
+Yang@ 
+Gold Hydro Ring@ 
+Gathering Rod 7@ 
+Light Jungle Wood Spear@ 
+Conscription Letter@ 
+Flawless Oak Relik@ 
+§f§lindijenous@ 
+§f§lPhoenix_99@ 
+PirateÀÀÀCove@ 
+§f§lRaultier@ 
+§7§l1x §dThermosphereÀ@ 
+§7§l1x §dOktavistÀ@ 
+§7§l8x §4Broken CorruptedÀÀÀSand-SweptÀÀÀTomb KeyÀ@ 
+§7§l1x §dVitalÀ@ 
+§cx2 Lake Gylia Effect@ 
+§6Banana Sword@ 
+§4Rainbow Wybel Token@ 
+§6Corrupted Wand@ 
+§7§l467x §3Repair ScrapÀ@ 
+§7§l1x §dAggressionÀ@ 
+§7§l1x §bArbalestÀ@ 
+§7§l1x §eIrisÀ@ 
+§7§l1x §dStormdrainÀ@ 
+§fx3 Cloud Swirl Effect@ 
+§7§l1x §dTracerÀ@ 
+§7§l1x §dSleigherÀ@ 
+§7§l1x §dBloodlessÀ@ 
+§7§l1x §eMeditation RobeÀ@ 
+§f§lDeanOmiesta@ 
+§7§l1x §eFemale Pirate WigÀ@ 
+§7§l1x §eCrossbowÀ@ 
+§7§l1x §dChimneyÀ@ 
+§fPure Light Oak WandÀ@ 
+§7§l1x §dImperiousÀ@ 
+§7§l1x §dSeipodonÀ@ 
+§7§l120x §3Repair ScrapÀ@ 
+Smack Jacket@ 
+§6§lThe Hidden CityÀ@ 
+§7§l2x §4Broken CorruptedÀÀÀLostÀÀÀSanctuary KeyÀ@ 
+§7§l2x §bCorkusÀÀÀCity Teleport ScrollÀ@ 
+§7§l2x §bRodoroc Teleport ScrollÀ@ 
+§7§l1x §dAlice's SleeveÀ@ 
+§7§l1x §dAsher's RelicÀ@ 
+§5Unidentified Stardew@ 
+§7§l1x §eThe Scarecrow's ArmÀ@ 
+§7§l128x §bLutho Teleport ScrollÀ@ 
+§7§l1x §eSublimatorÀ@ 
+§fPure Andesite DaggerÀ@ 
+§7§l1x §bOlux's Prized RelikÀ@ 
+Daybreak@ 
+§7§l1x §dThe EvisceratorÀ@ 
+§7§l2x §bRagni Teleport ScrollÀ@ 
+§7§l1x §fStone-Hewn WandÀ@ 
+§7§l1x §eThe EphemeralÀ@ 
+§7§l1x §dAir Relic SpearÀ@ 
+§7§l3x §fDepressing ShearsÀ@ 
+§7§l1x §bShatterglassÀ@ 
+§7§l1x §bGenesisÀ@ 
+Amulet of the Necromancer@ 
+§7§l1x §dAntimonyÀ@ 
+§fLobby 597657586@ 
+§7§l13x §4Broken CorruptedÀÀÀSand-SweptÀÀÀTomb KeyÀ@ 
+§f§lÀDesert East Upper@ 
+§7§l1x §dGuillotineÀ@ 
+§f§lÀRymek East Upper@ 
+§f§lÀRymek East Mid@ 
+§f§l_ProFor_@ 
+§f§lkoekjesbakken@ 
+§f§lÀRymek East Mid (HQ)@ 
+§f§lAkashiSeijiro@ 
+§f§lLayra_@ 
+§7§l1x §dTundra StrikeÀ@ 
+Brimstone@ 
+§7§l1x §eNivla's ArchÀ@ 
+Technicolor Phase@ 
+§7§l1x §ePlacid StepÀ@ 
+§fPure Granite WandÀ@ 
+§7§l1x §eAloofÀ@ 
+§7§l1x §eCassiteriteÀ@ 
+§7§l1x §eOxidationÀ@ 
+§7§l1x §bTisaun's ValorÀ@ 
+§6Pirate Hook@ 
+§7§l1x §eCoarse TorcÀ@ 
+§7§l1x §bCinnabarÀ@ 
+§7§l7x §bCorkian Amplifier IÀ@ 
+§7§l1x §dHallfred's GreedÀ@ 
+§7§l1x §dNacreousÀ@ 
+§7§l1x §dFrostbiteÀ@ 
+§7§l1x §eWhite StormÀ@ 
+§7§l1x §dFrustrationÀ@ 
+Hammer of the Blacksmith@ 
+§7§l1x §dThe JuggernautÀ@ 
+§7§l8x §6DecrepitÀÀÀSewers KeyÀ@ 
+§7§l1x §eDirgeÀ@ 
+§fx2 Party Bomb@ 
+§f§lÀCanyon Mountain South@ 
+§7§l1x §eLeaning LogÀ@ 
+§f§lÀCanyon Mountain South (HQ)@ 
+§7§l1x §eMosaicÀ@ 
+§7§l5x §bDetlas Teleport ScrollÀ@ 
+§7§l2x §bAhmsord Teleport ScrollÀ@ 
+§7§l1x §fFlawless Light Birch BowÀ@ 
+§7§l1x §5CataclysmÀ@ 
+§dx2 Food Bow@ 
+§7§l1x §dThe Queen's TiaraÀ@ 
+§7§l2x §bDetlas Teleport ScrollÀ@ 
+§7§l1x §dAchromatic GloomÀ@ 
+§7§l1x §dSilkweb MailÀ@ 
+§7§l10x §4Broken CorruptedÀÀÀSand-SweptÀÀÀTomb KeyÀ@ 
+Silkweb Mail@ 
+§7§l2x §bLutho Teleport ScrollÀ@ 
+§7§l39x §bDetlas Teleport ScrollÀ@ 
+§7§l3x §bAhmsord Teleport ScrollÀ@ 
+§7§l7x §6UnderworldÀÀÀCrypt KeyÀ@ 
+§7§l1x §dHarmonyÀ@ 
+§7§l1x §dStaccatoÀ@ 
+§7§l1x §bAndesite AegisÀ@ 
+§7§l1x §dWindshearÀ@ 
+§fx4 Cloud Attack Effect@ 
+§fx3 Witch Brew Effect@ 
+§fx4 Wet Drip Effect@ 
+§7§l2x §6EldritchÀÀÀOutlook KeyÀ@ 
+§7§l1x §dSuppressionÀ@ 
+§7§l44x §3Repair ScrapÀ@ 
+§7§l1x §eRaindropÀ@ 
+§7§l1x §dLaen's CuriosityÀ@ 
+§7§l1x §eRockwormÀ@ 
+§7§l1x §dPower CellÀ@ 
+§cx2 Phoenix Dagger@ 
+§7§l1x §dThunder Relic SpearÀ@ 
+§7§l3x §4Broken CorruptedÀÀÀSand-SweptÀÀÀTomb KeyÀ@ 
+§7§l1x §bLeoÀ@ 
+Onyx@ 
+Flush@ 
+Asterisk@ 
+Alaxica@ 
+Ballista@ 
+Dead Man's Flats@ 
+Souffle@ 
+§7§l1x §dSlipstreamÀ@ 
+§f§lOnlyLLogic@ 
+Veekhat's Udders@ 
+§7§l1x §dBlurÀ@ 
+§f§lÀSwamp Mountain Transition Lower@ 
+§d§lTome Seeking §7[Lv. 2]@ 
+§d§lTome Seeking §7[Lv. 3]§8 (Max)@ 
+§f§lÀSwamp Mountain Transition Lower (HQ)@ 
+§fImpeccable Diorite WandÀ@ 
+§7§l2x §fUnfinished Chain MailÀ@ 
+§7§l1x §eAquamarineÀ@ 
+§dx2 Food Wand@ 
+§7§l1x §eLuminiferous AetherÀ@ 
+§7§l1x §eCeramic Shell GreavesÀ@ 
+§7§l1x §fRefined Chain HelmetÀ@ 
+§7§l1x §eCarrotÀ@ 
+§7§l1x §dJungle ArtifactÀ@ 
+§6§lThe Shadow of the BeastÀ@ 
+§7§l1x §eLibellaÀ@ 
+§7§l1x §fUnfinished Chain LeggingsÀ@ 
+§a§lThe PassageÀ@ 
+Hysteria@ 
+Deux@ 
+§7§l1x §aSynchro CoreÀ@ 
+§7§l3x §aPotion of §f❋ Agility§a [2/2]À@ 
+Particle Plating@ 
+§7§l1x §eBladerunnersÀ@ 
+§7§l1x §dWarlordÀ@ 
+§7§l1x §dPawÀ@ 
+§7§l6x §4Broken CorruptedÀÀÀUnderworldÀÀÀCrypt KeyÀ@ 
+§7§l16x §3Uth RuneÀ@ 
+§6§lFantastic VoyageÀ@ 
+§cOrange Wybel Token@ 
+§6Pirate Spear@ 
+§6x2 Fellowship Dark Wand@ 
+§6§lHaven AntiquityÀ@ 
+§a§lShattered Minds֎À@ 
+§7§l1x §bRoyal Stormy AmuletÀ@ 
+§f§lÀDark Forest Cinfras Transition@ 
+§d§lEmerald Seeking §7[Lv. 4]@ 
+§d§lEmerald Seeking §7[Lv. 5]§8 (Max)@ 
+§f§lÀDark Forest Cinfras Transition (HQ)@ 
+§dQuick-Strike Leggings@ 
+§d§lStronger Minions §7[Lv. 4]§8 (Max)@ 
+§7§l1x §eAutotomizedÀ@ 
+§f§lÀCanyon Mountain East@ 
+§d§lEfficient Emeralds §7[Lv. 3]§8 (Max)@ 
+§d§lEfficient Resources §7[Lv. 4]@ 
+§f§lÀCanyon Of The Lost@ 
+§f§lÀCanyon Of The Lost (HQ)@ 
+§f§lÀKandon-Beda@ 
+§f§lÀCliffside Lake@ 
+§f§lÀKandon-Beda (HQ)@ 
+§f§lÀCliffside Lake (HQ)@ 
+§f§lÀCanyon Waterfall North@ 
+§f§lÀCanyon Waterfall North (HQ)@ 
+§f§lÀAldorei's Arch@ 
+§f§lÀAldorei's Arch (HQ)@ 
+§f§lÀPath To The Arch@ 
+§f§lÀPath To The Arch (HQ)@ 
+§f§lÀGhostly Path@ 
+§f§lÀSwamp Dark Forest Transition Upper@ 
+§f§lÀSwamp Dark Forest Transition Upper (HQ)@ 
+§f§lÀSwamp Mountain Transition Mid@ 
+§f§lÀSwamp Mountain Transition Mid (HQ)@ 
+§f§lÀSwamp West Upper@ 
+§f§lÀSwamp West Upper (HQ)@ 
+§f§lÀSwamp West Mid-Upper@ 
+§f§lÀSwamp West Mid-Upper (HQ)@ 
+§a§lTroubled TribesmenÀ@ 
+§7§l6x §6UndergrowthÀÀÀRuins KeyÀ@ 
+§6Corrupted Spear@ 
+§f§ltulia101@ 
+§a§lPurple and BlueÀ@ 
+Refined Salmon Oil 1@ 
+Refined Birch Paper 2@ 
+Refined Birch Paper 1@ 
+Refined Trout Oil 1@ 
+Sapphire@ 
+§7§l1x §eMachÀ@ 
+§7§l1x §eWindow PaneÀ@ 
+§7§l1x §4CorruptedÀÀÀInfestedÀÀÀPit KeyÀ@ 
+§6§lThe Hunger of Gerts Part 1À@ 
+§7§l13x §6DecrepitÀÀÀSewers KeyÀ@ 
+§7§l1x §bDujgon Warrior ChestplateÀ@ 
+§7§l5x §6Sand-SweptÀÀÀTomb KeyÀ@ 
+§7§l1x §bVentus TailÀ@ 
+§7§l1x §dPuffÀ@ 
+§7§l43x §3Repair ScrapÀ@ 
+§f§lÀLight Forest East Mid (HQ)@ 
+§f§lÀGuild Hall@ 
+§f§lÀGuild Hall (HQ)@ 
+Refined Oak Wood 3@ 
+§f§lÀCinfras@ 
+§f§lÀCinfras (HQ)@ 
+§a§lReincarnationÀ@ 
+§7§l1x §dThe GolemÀ@ 
+§6§lFallen DeliveryÀ@ 
+§7§l1x §dMinusÀ@ 
+Endurance@ 
+§7§l1x §eInsulationÀ@ 
+§7§l8x §cPotion of Healing§4 [3/3]À@ 
+§f§lSirBuHo@ 
+§f§lSmiley6776@ 
+§7§l1x §eSapphireÀ@ 
+§7§l1x §fPlain Leather LeggingsÀ@ 
+§f§ltophackr@ 
+§f§lZenBerg3@ 
+§f§l_Demaster_@ 
+§f§lGao135@ 
+§f§lT_A_H_K@ 
+§f§lJan2002z@ 
+§f§lwweezing@ 
+§f§lspinoman123@ 
+§f§lNek1tbro@ 
+§f§lGumanoid@ 
+§f§lKreida@ 
+§f§l_Flopilopogus_@ 
+§f§lDanCHiKBarSiK__@ 
+§f§lCyXaRuK_@ 
+§f§lReTravil@ 
+§f§lAyeGeorge@ 
+§f§lZazulya322@ 
+§f§lNomad___@ 
+§f§lSollrin@ 
+§f§lMathematicienne@ 
+§f§lfyfywka@ 
+§f§l_Arbyz_@ 
+§f§lxGingerbreadCat@ 
+§7§lspinoman123@ 
+§7§lspecopqt@ 
+§f§lLemon_Paige@ 
+§f§lKafylez@ 
+§7§l1x §eBroken CrossÀ@ 
+§f§lEronaryk@ 
+§7§l1x §eFacetiousÀ@ 
+§7§l5x §6LostÀÀÀSanctuary KeyÀ@ 
+§7§l1x §dBrass KnuckleÀ@ 
+§7§l10x §bPotion of Mana§3 [2/2]À@ 
+§7§l1x §eNoisemakerÀ@ 
+§7§l60x §bSelchar Teleport ScrollÀ@ 
+§7§l1x §dEstuarineÀ@ 
+§dx2 Candle Staff@ 
+§7§l4x §6IceÀÀÀBarrows KeyÀ@ 
+§7§l1x §eFadedÀ@ 
+§7§l1x §bPulse MailÀ@ 
+§7§l1x §eThe ObliviousÀ@ 
+§7§l1x §dAdventurousÀ@ 
+§7§l1x §eCoconutÀ@ 
+§7§l1x §dTeslaÀ@ 
+§7§l1x §eSyringeÀ@ 
+§7§l1x §eIonosphereÀ@ 
+§7§l1x §eSlash and BurnÀ@ 
+§7§l1x §ePigman's RibbingÀ@ 
+§7§l1x §dHellkite's WingÀ@ 
+§7§l1x §dCapsaicinÀ@ 
+§fStained Key@ 
+Dusty Staff@ 
+§7§l1x §dFavian's WingÀ@ 
+§7§l1x §dPike of FuryÀ@ 
+§7§l1x §bAncient Runic RelikÀ@ 
+§7§l1x §eCrafted GemÀ@ 
+§7§l6x §cPotion of Healing§4 [3/3]À@ 
+§7§l1x §bRymek Teleport ScrollÀ@ 
+§7§l1x §eScylla ShellÀ@ 
+§f§lVolk17@ 
+§f§lmjmwurst@ 
+§7§lg@ 
+§7§l483x §3Repair ScrapÀ@ 
+§7§l1x §eFluffy SpearÀ@ 
+§f§lApiss55@ 
+§7§l1x §ePiston StringÀ@ 
+§f§lÀDernel Jungle Upper@ 
+§f§lÀDernel Jungle Upper (HQ)@ 
+§f§lÀDernel Jungle Mid@ 
+§f§lÀDernel Jungle Lower@ 
+§f§lÀDernel Jungle Mid (HQ)@ 
+§f§lÀTemple of Legends@ 
+§7§lGermany [DEU]@ 
+§f§lÀTemple of Legends (HQ)@ 
+§f§lÀJungle Lake@ 
+§f§lÀJungle Upper@ 
+§f§lÀJungle Upper (HQ)@ 
+§7§l11x §6IceÀÀÀBarrows KeyÀ@ 
+§f§lÀRoyal Gate@ 
+§f§lÀRoyal Gate (HQ)@ 
+Plasma Ray@ 
+Coconut֎@ 
+§7§lvatrushca@ 
+§f§lvatrushka@ 
+§f§lÀBremminglar@ 
+§f§lÀBremminglar (HQ)@ 
+§f§lÀSavannah West Upper@ 
+§f§lÀSavannah West Upper (HQ)@ 
+§f§lÀSavannah East Upper@ 
+§f§lÀSavannah West Lower@ 
+§f§lÀSavannah West Lower (HQ)@ 
+§d§lGathering Experience §7[Lv. 1]@ 
+§f§lÀCathedral Harbour@ 
+§7§l20x §bDetlas Teleport ScrollÀ@ 
+§7§l1x §ePhantomÀ@ 
+§7§l1x §eEhwazÀ@ 
+§7§l1x §eThe Leech SpearÀ@ 
+§7§l1x §eHardlineÀ@ 
+§7§l8x §4Broken CorruptedÀÀÀUnderworldÀÀÀCrypt KeyÀ@ 
+§7§l1x §eCouteauÀ@ 
+§7§l1x §eSandscarÀ@ 
+§7§l1x §eThe Vampire BladeÀ@ 
+§7§l1x §eTectonicsÀ@ 
+§7§l1x §eBladeguardÀ@ 
+§7§l1x §bZeroÀ@ 
+§6Futuristic Relik@ 
+§6§lLost in the JungleÀ@ 
+§7§l1x §eTinyÀ@ 
+§f§lÀJungle Mid (HQ)@ 
+§f§lÀHerb Cave@ 
+§f§lÀCity of Troms@ 
+§f§lÀJungle Lower@ 
+§f§lÀGreat Bridge Jungle@ 
+The Stokers@ 
+§6§lShattered Minds֎À@ 
+§6§lThe Ultimate WeaponÀ@ 
+§7§l1x §dThe DreamerÀ@ 
+§7§l1x §dBygonesÀ@ 
+§a§lAcquiring Credentials֎À@ 
