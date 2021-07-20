@@ -2110,11 +2110,11 @@ QUESTS/Shattered_Minds
 §7escape. @§7сбеги. 
  
 QUESTS/Stable_Story  
-§7Talk to Enkser in Ternaves @§7Поговори с Энксером в Тернейвс 
-§7[828,69,-1636]@ 
+§7Talk to Enkser outside Detlas @§7Поговори с Энксером снаружи Детласа 
+§7at [561, 67, -1598] @§7на [561, 67, -1598] 
 §7Bring back [1 Stable Key] @§7Принеси Энксеру [1 Ключ 
 §7to Enkser from the tunnel @§7от Конюшни] обратно из тоннеля 
-§7[836,69,-1649]@ 
+§7at [836, 69, -1649] @§7на [836, 69, -1649] 
  
 QUESTS/Star_Thief  
 §7Look into the rumors of @§7Расследуй слухи о странной погоде 

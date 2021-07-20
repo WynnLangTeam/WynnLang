@@ -682,13 +682,13 @@
 §f        Select §6§lShaman@§f        Выбрать §6§lШамана
 §f        Select §6§lSkyseer@§f        Выбрать §6§lПровидца
 §7Accessory Slot@§7Слот для Аксессуара
-§f§lAttack Effects@§7§lЭффекты Атаки
-§f§lPlayer Effects@§7§lЭффекты Игрока
-§f§lPets@§7§lПитомцы
-§f§lGear Skins@§7§lОружейные Скины
-§f§lDisguises@§7§lМаскировки
-§f§lMob Totems@§7§lМоб Тотемы
-§f§lBombs@§7§lБомбы
+§f§lAttack Effects@§f§lЭффекты Атаки
+§f§lPlayer Effects@§f§lЭффекты Игрока
+§f§lPets@§f§lПитомцы
+§f§lGear Skins@§f§lОружейные Скины
+§f§lDisguises@§f§lМаскировки
+§f§lMob Totems@§f§lМоб Тотемы
+§f§lBombs@§f§lБомбы
 §4You have not unlocked this spell!@§4Ты не открыл это заклинание!
 §4You don't have enough mana to do that spell!@§4Недостаточно маны для этого заклинания!
 §aConfirm Identification@§aПодтвердить идентификацию
@@ -1017,6 +1017,17 @@
 §a§lConfirm Creation@§a§lПодтвердить Создание
 §e§lEdit Party@§e§lРедактировать Пати
 §a§lConfirm Edit@§a§lПодтвердить Редактирование
+§a§lActive Blesses@§a§lАктивные Благословения
+§a§lWeekly Objectives@§a§lЕженедельные Цели
+§f§lGuild Cosmetics@§f§lУкрашения Гильдии
+§d§lRating Rewards@§d§lНаграды за Рейтинг
+§b§lLeaderboard Rewards@§b§lНаграды за Таблицу
+§a10% Guild XP Boost@§a10% Буст XP Гильдии
+§bGuild Badge@§bЗначок Гильдии
+§4Seasonal Banner Structure@§4Сезонный Баннер
+§7Next Page@§7Следующая Страница
+§7Previous Page@§7Предыдущая Страница
+§6Guild Crown Cosmetic@§6Косметическая Корона Гильдии
 
 ######################################SHOPS#################################################
 §aTribal Weapon Shop@§aМагазин Оружия Племени

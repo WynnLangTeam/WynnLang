@@ -83,6 +83,8 @@ Fire Catalyst (I|II|III|V|VI|VII|VIII|IX|X)$@§fКатализатор Огня 
 §d§lEmerald Seeking §7\[Lv. (\d+\])(§8 \(Max\)|)@§d§lПоиск Эмеральдов §7[Ур. (r1)(r2)
 §d§lTome Seeking §7\[Lv. (\d+\])(§8 \(Max\)|)@§d§lПоиск Томов §7[Ур. (r1)(r2)
 §d§lEmerald Rate §7\[Lv. (\d+\])(§8 \(Max\)|)@§d§lСкорость Эмеральдов §7[Ур. (r1)(r2)
+§d§lSeason (\d+) Status@§d§lСтатус (r1) Сезона
+§d§lSeason (\d+)@§d§lСезон (r1)
 
 #############################TRADE MARKET######################################
 §7Forward to §fPage (\d+)@§7Перейти на §f(r1) страницу

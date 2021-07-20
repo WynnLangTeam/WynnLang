@@ -38,7 +38,7 @@
 §4This item requires your dexterity skill to be at least (§c\d+.)@§4Этот предмет требует, чтобы твое умение Точность было не менее (r1)
 §4This item requires your intelligence skill to be at least (§c\d+.)@§4Этот предмет требует, чтобы твое умение Интеллект было не менее (r1)
 §4This item requires your agility skill to be at least (§c\d+.)@§4Этот предмет требует, чтобы твое умение Ловкость было не менее (r1)
-§7\[New Quest Started: (.*)\]@§7[Начат новый квест: (r1)]
+§6§lNew Quest Started: §e§l(.*)@§6§lНачат Новый Квест: §e§l(r1)
 §a§l\[Mini-Quest Started: (.*)\]@§a§l[Начат новый мини-квест: (r1)]
 §5Blacksmith: §dYou sold me: (.*) for a total of §e(\d+§d) emeralds. It was a pleasure doing business with you.@§5Кузнец: §dТы продал мне (r1) за §a(r2) эмеральдов. Было приятно иметь с тобой дело.
 §5Blacksmith: §dYou scrapped: (.*) for a total of (§e\d+§d) scrap. It was a pleasure doing business with you.@§5Кузнец: §dТы утилизировал: (r1) в общей сумме на (r2) скрапа. Было приятно иметь с тобой дело.

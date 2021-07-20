@@ -1119,7 +1119,7 @@ You dropped your items too quickly (Hacking?)@Ты выбрасываешь пр
 §7§lGray@§7§lСерый
 §f§lWhite@§f§lБелый
 §6§lOrange@§6§lОранжевый
-§b§lLight Blue@§b§lГолубой
+§b§lLight Blue@§b§lСиний
 §d§lPink@§d§lРозовый
 §4The Colossal Core@§4Колоссальное Ядро
 §8is erupting@§8разгорается

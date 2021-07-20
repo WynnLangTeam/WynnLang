@@ -239,6 +239,13 @@
 §7Speak to Likeru in Efilim at@§7Поговори с Ликеру в Эфилиме на
 §7§f[-1058,44,-5008]§7.@ 
 =====
+§eStable Story
+§7Talk to Enkser outside@§7Поговори с Энксером снаружи
+§7Detlas at §f[561, 67, -1598]§7@Детласа на §f[561, 67, -1598]§7
+§7Bring back §3[1 Stable Key]§7 to@§7Принеси §3[1 Ключ от Конюшни]§7 к
+§7Enkser from the tunnel at@§7Энксеру из тоннеля на
+§7§f[836, 69, -1649]§7@ 
+=====
 §eStar Thief֎@ 
 §7Look into the rumors of@§7Расследуй слухи о странной
 §7strange weather near the@§7погоде рядом с гостиницей
@@ -270,6 +277,10 @@
 §7Talk to Captain Fenor in@§7Поговори с Капитаном Фенором 
 §7front of Detlas at@§7перед Детласом на
 §7§f[379,67,-1569]§7.@ 
+§7Help Miner Linton remove the@§7Помоги Шахтеру Линтону убрать
+§7debris blocking the path.@§7мусор блокирующий проход.
+§7Clear the cave of possible@§7Очисти пещеру от возможных
+§7roadblocks.@§7препятствий.
 =====
 §eThe Belly of the Beast@ 
 §7Speak to King Burtan at@§7Поговори с Королем Буртаном на

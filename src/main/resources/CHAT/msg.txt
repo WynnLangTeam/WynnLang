@@ -1346,6 +1346,7 @@
 §7+Builders of Empires Badge@§7+ Строители Империй Значок
 §3You must be a §bOwner§3 to use this command.@§3Ты должен быть §bВладельцем§3 для использования этой команды.
 §cThe server could not open this territory, try later!@§cСервер не смог открыть эту территорию, попробуй позже!
+§4Your guild does not own any cosmetics. Fight other guilds during seasons to get more rewards!@§4У вашей гильдии нет никаких украшений. Сражайтесь с другими гильдиями в сезоне для их получения!
 
 ###################################QUEST/DUNGEON REWARDS##################################
 §7[+1 Selchar Teleportation Scroll]@§7[+1 Сельчар свиток телепортации]

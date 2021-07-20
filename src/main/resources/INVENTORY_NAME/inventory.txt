@@ -97,6 +97,10 @@ Island Edit Permissions@Изменение Разрешений Острова
 Island Weather@Погода Острова
 Island Rules@Правила Острова
 V.S.S. Seaskipper@Корабль
+Guild Cosmetics@Косметика Гильдии
+Select a Season to Visualize@Выбери Сезон для Отображения
+Reward Types@Типы Наград
+Leaderboard Rewards@Таблицы Лидеров
 
 ###############################PROFESSIONS#############################
 Fish Refinery@Переработка Рыбы

@@ -2517,6 +2517,7 @@
 §8Open the §7Disguises§8 menu@§8Открыть меню §7маскировок
 §8Open the §7Mob Totems§8 menu@§8Открыть меню §7моб тотемов
 §8Open the §7Bombs§8 menu@§8Открыть меню §7бомб
+§8Open the §7Guild Cosmetics§8 menu@§8Открыть меню §7украшений гильдии
 §7Click to confirm@§7Кликни для подтверждения
 §7You will NOT be able to get it back later@§7Ты НЕ сможешь вернуть его обратно
 §cRefining...@§cПереработка...
@@ -3008,6 +3009,16 @@
 §cRight click to close@§cПравый клик для закрытия
 §7Edit and updates@§7Редактировать и обновить
 §7your current party@§7твою текущую пати
+§d- §7Position: §fUnranked@§d- §7Позиция: §fБез ранга
+§dEach territory you control@§dКаждая территория под контролем 
+§dat the end of a season will @§dв конце сезона принесет
+§dgrant §f2048 Emeralds@§dгарантированные §f2048 эмеральдов
+§8Visit the Guild Hall to see@§8Посети Зал Гильдий для просмотра
+§8the leaderboard and current@§8таблицы лидеров и текущего
+§8seasonal banner!@§8баннера сезона!
+§aClick to see all Rewards@§aКликни для просмотра всех Наград
+§7Click to invite@§7Кликни для приглашения
+§7Season will end in §d2 months@§7Сезон закончится через §d2 месяца
 
 ##############################GUILDS#################################
 §3Rank: §bOwner@§3Ранг: §bВладелец
@@ -3023,10 +3034,12 @@
 §bRecent Events:@§bПоследние События:
 §bRecent Events@§bПоследние События
 §7Left-Click to view details@§7Левый клик для просмотра деталей
+§aClick to view details@§aКликни для просмотра деталей
 §7Your guild has no active@§7У вашей гильдии нет активных 
 §7alliances or tributes@§7альянсов или приношений
 §8No tributes sent@§8Нет присланных приношений
 §7Left-Click to view allies@§7Левый Клик для просмотра альянсов
+§aClick to view allies@§aКликни для просмотра альянсов
 §7You do not own any@§7У вас нет никаких 
 §7territories to view@§7территорий для просмотра
 §7Territory Defences: §aVery Low@§7Защита Территорий: §aОчень Низкая
@@ -3064,6 +3077,7 @@
 §7nearby will provide a boost@§7рядом будут предоставлять буст
 §3Damage & Health: +0%@§3Урон и Здоровье: +0%
 §7No guild badges@§7Нет значков гильдий
+§aLeft-Click to view members@§aЛевый Клик для просмотра участников
 §7Left-Click to view members@§7Левый Клик для просмотра участников
 §7Share items with other@§7Поделись предметами с другими
 §7players in the guild@§7игроками гильдии
@@ -3101,13 +3115,16 @@
 §7Click here when done@§7Кликни здесь когда готов
 §7§c✖§f Lv. 3: §7+Guild Bank@§7§c✖§f Ур. 3: §7+Банк Гильдии
 §7§a§l✔§f Lv. 3: §7+Guild Bank@§7§a§l✔§f Ур. 3: §7+Банк Гильдии
-§7Right-Click to change badges@§7Правый Клик для изменения значка
+§7Right-Click to change badges@§7Правый Клик для изменения значков
+§aRight-Click to change badges@§aПравый Клик для изменения значков
+§8No tributes sent or received@§8Нет присланных/отправленных даров
 §7Reach guild level 3 to@§7Достигните 3 уровня гильдии для
 §7unlock the guild bank@§7открытия банка гильдии
 §7Left-Click to open editor@§7Левый Клик для открытия редактора
 §bNo recent events@§bНет недавних событий
 §eRecent Events:@§eНедавние события:
 §7Left-Click to open bank@§7Левый Клик для открытия банка
+§aClick to open bank@§aКликни для открытия банка
 §6Badges:@§6Значки:
 §6- §7Travelers@§6- §7Путешественники
 §7Left-Click to set rank@§7Левый Клик для выдачи ранга
@@ -3288,6 +3305,56 @@
 §7Cost: §c✖§f Free@§7Цена: §c✖§f Бесплатно
 §cRewards are unavailable@§cНаграды недоступны
 §ctry again later...@§cпопробуй позже...
+§7§b- §7The current guild season will end@§7§b- §7Текущий сезон гильдий закончится через
+§7Blesses are temporary bonuses@§7Благославения - это временные бонусы
+§7applied to your guild.@§7накладывающиеся на вашу гильдию.
+§7§c✖ §7There are no active blesses@§7§c✖ §7Нет активных благославений
+§8Fight other guilds during@§8Сражайтесь с другими гильдиями во время
+§8seasons to get blesses.@§8сезонов для получения благославений.
+§7Complete weekly objectives@§7Выполняй еженедельные цели
+§7to win prizes for your guild@§7чтобы выиграть призы для вашей гильдии
+§7and for yourself.@§7и для себя.
+§aGoal Rewards:@§aНаграда за Цель:
+§a- §7§f1§7 Banner Point@§a- §7§f1§7 Очко Баннера
+§a- §7§f1§7 Tome@§a- §7§f1§7 Том
+§a- §7§f2048§7 Emeralds@§a- §7§f2048§7 Эмеральдов
+§aYour Objective:@§aТвоя Цель:
+§a- §7Reward Multiplier: §f1x@§a- §7Множитель Награды: §f1x
+§8Complete personal objectives@§8Выполняй персональные цели
+§8in a streak to receive@§8в серии для получения
+§8better rewards!@§8лучших наград!
+§8Loading leaderboard data@§8Загружаем данные таблицы лидеров
+§8please wait...@§8пожалуйста подождите...
+§aClick to open the editor@§aКликни для открытия редактора
+§b§lGuild Objective:@§b§lЦель Гильдии:
+§7§b- §7Waiting for player to join@§7§b- §7Ждем захода игрока на сервер
+§7to generate an objective.@§7для генерации цели.
+§7§7weekly objective.@§7§7еженедельную цель.
+§aStatistics@§aСтатистика
+§aClick to select@§aНажми для выбора
+§7Current Season@§7Текущий Сезон
+§7Rewards that are obtained@§7Награды которые могут быть получены
+§7by having certain amounts@§7за определенное количество
+§7of SR.@§7РС (Рейтинга Сезона)
+§6Next Rewards:@§6Следующие Награды:
+§6- §7Badge "Season 1 - Contender"@§6- §7Значок "Сезон 1 - Кандидат"
+§6- §72048x Emeralds@§6- §72048x Эмеральдов
+§7at the end of a season@§7в конце сезона
+§7based on your leaderboard@§7в зависимости от от места в таблице
+§7position.@§7лидеров.
+§7Receives a§a 10% Guild XP@§7Получите§a 10% XP Гильдии
+§7§a✔ §7Current Position: §fUnranked@§7§a✔ §7Текущая Позиция: §fБез Ранга
+§7Unlocks the Guild Badge@§7Разблокирует Значок Гильдии
+§7§bSeason 1 - Top 100@§7§bСезон 1 - Топ 100
+§7Unlocks the Guild Badge §bDoom@§7Разблокирует Значок Гильдии §bОбреченные
+§7§bElders@§7§bЭльфы
+§7Unlocks permanently the@§7Разблокирует постоянный
+§7§4Dernic§7 banner structure.@§7§4Дерник§7 Баннер.
+§7§bSeason 1 - Top 10@§7§bСезон 1 - Топ 10
+§7§bSeason 1 - 1st Place@§7§bСезон 1 - 1 Место
+§7§bSeason 1 - 2nd Place@§7§bСезон 1 - 2 Место
+§7§bSeason 1 - 3rd Place@§7§bСезон 1 - 3 Место
+§7Unlocks the §6Guild Crown§7@§7Разблокирует §6Корону Гильдии§7
 
 ###############################CRATES##############################
 §dRare Reward@§dРедкая Награда

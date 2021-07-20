@@ -308,6 +308,7 @@ Scientist@Ученый
 §dMask Merchant@§dПродавец Масок
 §dClock Merchant@§dПродавец Часов
 §d§5Guild Master@§dМастер Гильдий
+§5Guild Master@§5Мастер Гильдий
 §dKing's Merchant@§dКоролевский Торговец
 §dSiegfried Fan Item Merchant@§dПродавец Фан Предметов Зигфрида
 §dPowder Master@§dМастер Порошков
@@ -1844,6 +1845,7 @@ Old Druid@Старый Друид
 §bGelibord Guard§6 [Lv. 25]@§bСтраж Гелиборда§6 [Ур. 25]
 §bSoldier§6 [Lv. 45]@§bСолдат§6 [Ур. 45]
 §bHomeless Guard§6 [Lv. 30]@§bБездомный Страж§6 [Ур. 30]
+§bBetty§6 [Lv. 20]@§bБэтти§6 [Ур. 20]
 
 ############################INSCRIPTIONS################################
 §bSiegfried Figurine@§bСтатуэтка Зигфрида
@@ -2805,6 +2807,34 @@ Cinfras Discoveries@Открытия Цинфраса
 §6Decrepit Sewers@§6Ветхой Канализации
 §2§lRight-click to@§2§lПравый клик чтобы
 §apush the tree@§aтолкнуть дерево
+§aEnter Portal to Follow Nick@§aВойди в портал и следуй за Ником
+§7Start your empire today!@§7Начни свою империю сегодня!
+§eClick for Options@§eКликни для Опций
+§7Season ends in §b§l2 months@§7Сезон закончится через §b§l2 месяца
+§d§lSeason 1 Leaderboard@§d§lСезон 1 Таблица Лидеров
+§e§lCLICK TO SEE ALL@§e§lНАЖМИ ДЛЯ ПРОСМОТРА ВСЕХ
+§6§lREWARDS@§6§lНАГРАД
+§cSeason 1 Banner Reward@§cСезон 1 Баннер Награда
+§7Stay in §4Top 20§7 to unlock@§7Останься в §4Топ 20§7 для разблокировки
+§7the §4Dernic Banner Structure@§4Дерник Баннера
+§7in §b2 months@§7через §b2 месяца
+§7The next Season will start@§7Следующий сезон стартует
+§d§lSeason 0 has Ended@§d§lСезон 0 закончен
+§3At §b1 SR@§3За §b1 РС
+§d§lYour Next Rewards@§d§lВаша Следующая Награда
+§7Badge "Season 1 - Contender"@§7Значок "Сезон 1 - Претендент"
+§3< Friendly >@§3< Дружелюбы >
+§3< War Hungry >@§3< Голодные до Войны >
+§3< Doom >@§3< Обреченные >
+§3< World Conquerors >@§3< Завоеватели Мира >
+§3< Dark Seekers >@§3< Искатели Тьмы >
+§3< King Makers >@§3< Властители >
+§3< Season 0 - Top 10 >@§3< Сезон 0 - Топ 10 >
+§3< Trustworthy >@§3< Благонадежные >
+§3< Builders of Empires >@§3< Строители Империй >
+§3< Wrath of the Sea >@§3< Гневители Моря >
+§3< Ally of the Avos >@§3< Союзники Авосов >
+§3< Imperial >@§3< Империалы >
 
 ######################KEY GUARDIANS###########################
 §cDecrepit Sewers Key Guardian§6 [Lv. 9]@§cЗащитник Ключа от Ветхой Канализации§6 [Ур. 9]
@@ -2838,6 +2868,7 @@ Cinfras Discoveries@Открытия Цинфраса
 §aChicken§6 [Lv. 1]@§aКурица§6 [Ур. 1]
 §aWater Powder Spirit§6 [Lv. 1]@§aДух Порошка Воды§6 [Ур. 1]
 §aCombat Dummy§6 [Lv. 1]@§aБоевой Манекен§6 [Ур. 1]
+§7[§c⬣§c⬌§c⬤§7] §aCombat Dummy§6 [Lv. 1]@§7[§c⬣§c⬌§c⬤§7] §aБоевой Манекен§6 [Ур. 1]
 §aFarmer§6 [Lv. 5]@§aФермер§6 [Ур. 5]
 §aRat§6 [Lv. 1]@§aКрыса§6 [Ур. 1]
 §aHuman§6 [Lv. 0]@§aЧеловек§6 [Ур. 0]
@@ -3405,6 +3436,7 @@ Cinfras Discoveries@Открытия Цинфраса
 §aChlorophyll Parasite§6 [Lv. 60]@§aХлорофилловый Паразит§6 [Ур. 60]
 §aHomeless Man§6 [Lv. 25]@§aБездомный Мужик§6 [Ур. 25]
 §aHomeless Woman§6 [Lv. 25]@§aБездомная Женщина§6 [Ур. 25]
+§aTamed Horse§6 [Lv. 20]@§aПрирученная Лошадь§6 [Ур. 20]
 
 #################################CRATES################################
 §eLoot Crate T1@§eЛут Контейнер У1
@@ -4326,7 +4358,7 @@ Orange Cybel@Оранжевый Кубел
 §3§lInstructions@§3§lИнструкции
 §7Every §b1 minute §7new passageways open.@§7Каждую §b1 минуту §7открываются новые проходы.
 §7Complete the challenges in the passageways@§7Пройди испытания в проходах
-§7to get resources and re-open the exit@§7чтобы получить ресурсы и снова открыть выход
+§7to get resources and re-open the exit@§7чтобы получить ресурсы и открыть выход
 §3Right-Click to@§3Правый Клик для
 §bOpen the exit §6[0/10]@§bОткрытия выхода §6[0/10]
 §bOpen the exit §6[1/10]@§bОткрытия выхода §6[1/10]
@@ -4441,9 +4473,9 @@ Orange Cybel@Оранжевый Кубел
 §7Survive §b60 seconds@§7Выживи §b60 секунд
 §7stepping on the right colored blocks.@§7оставаясь на блоках правильного цвета.
 §bSpawn the Miniboss@§bЗаспавнить Минибосса
-§7and the §bothers §7will attack you.@§7и §bдругие §7будут атаковать вас.
+§7and the §bothers §7will attack you.@§7а §bдругие §7будут атаковать вас.
 §7The §bIncorporated Humans §7will attack the golems,@§bIncorporated Humans §7будут атаковать големов,
-§7Defend the Golems from the monsters@§7Защита Големов от монстров
+§7Defend the Golems from the monsters@§7Защити Големов от монстров
 §7North Golem@§7Северный Голем
 §c§l[6 HP]@§c§l[6 ХП]
 §7South Golem@§7Южный Голем
@@ -4556,14 +4588,14 @@ Orange Cybel@Оранжевый Кубел
 §b+ §725 All Skill Points@§b+ §725 Всех Очков Умений
 §b+ §7100% All Element Defense@§b+ §7100% Защиты Всех Элементов
 §b§b+6/4s §7Mana Steal@§b§b+6/4с §7Кражи Маны
-to purify the decayed orbs in the center and@очищения зараженных шаров в центре и
-§6§lNexus of Light@§6§lСвета Орфиона
-open the pathway to §6§lOrphion@открытия пути к §6§lНексусу
+to purify the decayed orbs in the center and@для очищения зараженных шаров в центре и
+§6§lNexus of Light@§6§lНексус Света
+open the pathway to §6§lOrphion@открытия пути к §6§lОрфиону
 Enter the doors and complete challenges@Войди в двери и пройди челленджи
 §6§lInstructions@§6§lИнструкции
-§band prevent the crystals on the ground from decaying.@§bи предотврати кристаллы на земле от заражения.
+§band prevent the crystals on the ground from decaying.@§bи предотвращать заражение кристаллов на земле.
 §bUse the launch pads to get to the top of the platform.@§bИспользуй трамплины для поднятия на верх платформы.
-§bThe other players must protect the player on the platform@§bДругие игроки должны защищать игрока на платформе.
+§bThe other players must protect the player on the platform@§bДругие игроки должны защищать игрока на платформе
 §cThe crystal will decay in@§cКристалл заразится через
 §b§lOphanim I@ 
 §b+50% §7Water Damage@§b+50% §7Урона Воды
@@ -4591,6 +4623,7 @@ The player holding the Light Crystal must escort the party@Игрок держа
 §f[Light Crystal]@§f[Кристалла Света]
 §b§lOphanim III@ 
 §b+1000 §7Health Bonus@§b+1000 §7Бонуса к Здоровью
+§b+10000 §7Health Bonus@§b+10000 §7Бонуса к Здоровью
 §1§lSeraphim III@ 
 §b+7 §7Mana Regen@§b+7 §7Регена Маны
 §b+130 §7Dexterity@§b+130 §7Ловкости
@@ -4649,6 +4682,7 @@ Complete challenges to get §b§lLight Crystals@Пройди испытания 
 §bPurify the Crystals §6[10/10]@§bОчищенных Кристаллов §6[10/10]
 §bBPurify the Crystals §6[10/10]@§bОчищенных Кристаллов §6[10/10]
 §b+ 50 §7Defense@§b+ 50 §7Защиты
+§b+ 80 §7Defense@§b+ 80 §7Защиты
 §b+60 §7Defense@§b+60 §7Защиты
 §b+100% §7Thorns@§b+100% §7Шипов
 §b+100% §7Reflection@§b+100% §7Отражения
@@ -4664,6 +4698,7 @@ Complete challenges to get §b§lLight Crystals@Пройди испытания 
 §b+4 §7Mana Regen@§b+4 §7Регена Маны
 §b+60 §7Intelligence@§b+60 §7Интеллекта
 §b+100% §7Water Damage@§b+100% §7Урона Воды
+§b+75% §7Water Damage@§b+75% §7Урона Воды
 §b+80 §7Dexterity@§b+80 §7Ловкости
 §b+10000 §7Poison@§b+10000 §7Яда
 §b+1250 §7Life Steal@§b+1250 §7Вампиризма

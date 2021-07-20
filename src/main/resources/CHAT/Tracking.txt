@@ -908,7 +908,7 @@
 §7Bring Likeru the mushrooms from the cave at [-1165,44,-5054].@§7Принеси Ликеру грибы из пещеры на [-1165,44,-5054].
 §7Explore the strange forest to find Likeru.@§7Исследуй странный лес и найди Ликеру
 ======Stable_Story  
-§7Talk to Enkser in Ternaves at [828,69,-1636]@§7Поговори с Энксером в Тернейвсе на [828,69,-1636]
+§7Talk to Enkser outside Detlas at [561, 67, -1598]@§7Поговори с Энксером снаружи Детласа на [561, 67, -1598]
 §7Bring back [1 Stable Key] to Enkser from the tunnel at [836,69,-1649]@§7Принеси Энксеру [1 Ключ от Конюшни] обратно из тоннеля на [836,69,-1649]
 ======Star_Thief 
 §7Look into the rumors of strange weather near the Imal Inn at [-2018, 43, -4822].@§7Расследуй слухи о странной погоде рядом с гостиницей Imal Inn на [-2018, 43, -4822] 

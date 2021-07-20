@@ -1,7 +1,7 @@
 §2Chicken: §a*happy cluck*@§2Курица: §a*счастливо кудахтает*
 §2Chicken: §a*cluck*@§2Курица: §a*кудахтает*
 §2Chicken: §a*cluck cluck*@§2Курица: §a*кудахтает кудахтает*
-§22Chicken: §a*sad cluck*@§2Курица: §a*грустно кудахтает*
+§2Chicken: §a*sad cluck*@§2Курица: §a*грустно кудахтает*
 
 §2Rat: §a*happy squeak from seeing you again*@§2Крыса: §a*счастливо пищит от встречи с тобой снова*
 §2Rat: §a*squeak >:D*@§2Крыса: §a*пищит >:D*

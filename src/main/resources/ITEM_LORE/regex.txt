@@ -769,8 +769,8 @@
 §7Shift Left-Click to send (§a[0-9]+) Emeralds@§7Шифт + Левый Клик для отправки (r1) Эмеральдов
 §7Shift Right-Click to send (§5\d+) Tome@§7Шифт + Правый Клик для отправки (r1) Тома
 (§[47])Used Slots: (§[7cf]\d+§[47]\/\d+)@(r1)Использовано Слотов: (r2)
-§5Guild Tomes: (§f\d+§7\/3)@§5Тома Гильдии: (r1)
-§aEmeralds: (§f\d+§7\/20480)@§aЭмеральды: (r1)
+§5Guild Tomes: ([§f\/0-9]+)@§5Тома Гильдии: (r1)
+§aEmeralds: ([§f\/0-9]+)@§aЭмеральды: (r1)
 (§7[§acl✔✖]{1,5}§7) Lv. Req: (\d+)@(r1) Ур. Необ.: (r2)
 §e\(will be completed in (§6\d+:\d+§e\))@§e(будет закончен через (r1)
 (§7§b- §7\[[a-zA-Z]{1,4}\]) has taken control of(.*)@(r1) захватили контроль над(r2)
@@ -802,8 +802,31 @@
 (§7§b- §7[a-zA-Z0-9_ ]{1,20}) transferred ([a-zA-Z\- ]+)@(r1) передал (r2)
 (§7§b- §7[a-zA-Z0-9_ ]{1,20}) has purchased (\d+)@(r1) купил (r2)
 (§7§b- §7[a-zA-Z0-9_ ]{1,20}) transfered all@(r1) передал все
+(§7§b- §7[a-zA-Z0-9_ ]{1,20}) has finished their@(r1) выполнил свою
 (§b§l✔ §f[a-zA-Z '\-]+) \(HQ\)@(r1) (ШТАБ)
 §7§7mobs for ([a-zA-Z\- ']+,) costing (\d+)@§7§7мобов для (r1) заплатив (r2)
 §cincomplete at (§4[a-zA-Z \-']+)@§cнезавершена в (r1)
 §ctransfer (§4\d+§c) of your@§cперевода (r1) твоих
 §7§7(?:guild |)banner, costing (\d+) emeralds.@§7§7баннер, заплатив (r2) эмеральдов.
+§7§6Current Guild Goal: (§f\d+§7\/5)@§7§6Текущие Цели Гильдии: (r1)
+(§a- §7§f\d+§7) Guild XP@(r1) XP Гильдии
+(§[ab]-) §7Streak: (§f\d+)@(r1) §7Серия: (r2)
+(§[ab]-) §7Slay Mobs: ([§f\/0-9]+)@(r1) §7Убить мобов: (r2)
+(§[ab]-) §7Open T3\+ Chests: ([§f\/0-9]+)@(r1) §7Открыть У3+ Сундуки: (r2)
+(§[ab]-) §7Gather Ores: ([§f\/0-9]+)@§b- §7Собрать Руд: (r2)
+(§[ab]-) §7Win Dungeons: ([§f\/0-9]+)@§b- §7Пройти Данжей: (r2)
+(§[ab]-) §7Win Raids: ([§f\/0-9]+)@§b- §7Пройти Рейдов: (r2)
+§7Season will end in (§d\d+) hours@§7Сезон закончится через (r1) часов
+(§d[a-zA-Z ]+)' Status@§dСтатус (r1)
+§d- §7Season Rating \(SR\): (§f\d+)@§d- §7Рейтинг Сезона (РС): (r1)
+§eCaptured Territories: (§f\d+)@§eЗахваченных Территорий: (r1)
+(§f\+\d+) SR§e per Hour@(r1) РС§e в Час
+§5Current Amount: (§f\d+) Emeralds§7 (\(\d+\))@§5Текущее Количество: (r1) Эмеральдов§7 (r2)
+§a- §7Started: (§f[0-9\/]+)@§a- §7Начат: (r1)
+§a- §7Ended: (§f[0-9\/]+)@§a- §7Закончен: (r1)
+§a- §7Participants: (§f\d+)@§a- §7Участников: (r1)
+§7§a✔ (§7[a-zA-Z ]+)' Season Rating: (§f\d+)@§7§a✔ Рейтинг Сезона (r1): (r2)
+§7§a✔ (§7[a-zA-Z ]+)' Position: §fUnranked@§7§a✔ §7Позиция (r1): §fБез Ранга
+§aBoost§7 bless until (§f[0-9\/]+)@§aБуст§7 до (r1)
+§7§a✔ §7Finish on §fTop (\d+)@§7§a✔ §7Финишировать в §fТоп (r1)
+§7cosmetic until (§f[0-9\/]+)@§7до (r1)
